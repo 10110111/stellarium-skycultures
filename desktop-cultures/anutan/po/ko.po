@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: ysjbserver <ysjbserver@naver.com>, 2023\n"
+"Language-Team: Korean (https://app.transifex.com/stellarium/teams/80998/"
+"ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Anutan"
+msgstr "아누타"
+
+msgid "The Bamboo"
+msgstr "대나무"
+
+msgid "Path of Three"
+msgstr "제 3의 경로"
+
+msgid "Bird of Flight"
+msgstr ""
+
+msgid "The Tongs"
+msgstr "집게"
+
+msgid "Octopus Tentacle"
+msgstr "문어 촉수"
+
+msgid "Forward Precursor"
+msgstr "순방향 전구체"
+
+msgid "Adze"
+msgstr ""
+
+msgid "The Carrying Stick"
+msgstr ""
+
+msgid "Sammara Squirrelfish"
+msgstr ""
+
+msgid "Taro Plant"
+msgstr ""
+
+msgid "The Net"
+msgstr "그물"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Tino A Manu"
+msgstr "테 티노 아 마누"
+
+msgid "The Bird's Body"
+msgstr "새의 몸"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Tonga"
+msgstr "테 카파카우 통가"
+
+msgid "The East Wing"
+msgstr "동쪽 날개"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Pakatokerau"
+msgstr "테 카파카우 파카토케라우"
+
+msgid "The North Wing"
+msgstr "북쪽 날개"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Taki O Te Kapakau Tonga"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Taki Roto"
+msgstr "다키 로토"
+
+msgid "Middle Precursor"
+msgstr "중간 전구체"
+
+#. TRANSLATORS: Anutan Name
+msgid "Na Kau"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "To Rua Tangata"
+msgstr ""
+
+msgid "Double Man"
+msgstr ""
+
+#. TRANSLATORS: Name of Venus in Anutan culture
+msgid "Te Petuu Ao/Tiuriuri"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Matariki"
+msgstr "마타리키"
+
+msgid "Small Face"
+msgstr ""
+
+msgid "Small Eyes"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Rere"
+msgstr ""
+
+msgid "The Running Cloud"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Toka"
+msgstr ""
+
+msgid "The Restrained Cloud"
+msgstr ""

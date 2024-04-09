@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Khalid AlAjaji, 2023\n"
+"Language-Team: Arabic (https://app.transifex.com/stellarium/teams/80998/"
+"ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+# Sky culture name
+msgid "Anutan"
+msgstr "الأنوتاوي"
+
+msgid "The Bamboo"
+msgstr "الخيزران"
+
+msgid "Path of Three"
+msgstr "طريق الثلاثة"
+
+msgid "Bird of Flight"
+msgstr "الطيور الطائرة"
+
+msgid "The Tongs"
+msgstr "الملقط"
+
+msgid "Octopus Tentacle"
+msgstr "أذرع الأخطبوط"
+
+msgid "Forward Precursor"
+msgstr "المتقدم"
+
+msgid "Adze"
+msgstr "أداة نحت الخشب"
+
+msgid "The Carrying Stick"
+msgstr "عصا الحمل"
+
+msgid "Sammara Squirrelfish"
+msgstr "سمكة سمارا"
+
+msgid "Taro Plant"
+msgstr "نبتة تارو"
+
+msgid "The Net"
+msgstr "الشبكة"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Tino A Manu"
+msgstr "تو تينو أ مانو"
+
+msgid "The Bird's Body"
+msgstr "جسم الطائر"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Tonga"
+msgstr "تي كاباكو تونجا"
+
+msgid "The East Wing"
+msgstr "الجناح الشرقي"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Pakatokerau"
+msgstr "تي كاباكو باكاتوكيراو"
+
+msgid "The North Wing"
+msgstr "الجناح الشمالي"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Taki O Te Kapakau Tonga"
+msgstr "تي تاكي أو تي كاباكو تونجا"
+
+#. TRANSLATORS: Anutan Name
+msgid "Taki Roto"
+msgstr "تاكي روتو"
+
+msgid "Middle Precursor"
+msgstr "المتقدم الأوسط"
+
+#. TRANSLATORS: Anutan Name
+msgid "Na Kau"
+msgstr "نا كاو"
+
+#. TRANSLATORS: Anutan Name
+msgid "To Rua Tangata"
+msgstr "تو روا تانجاتا"
+
+msgid "Double Man"
+msgstr "الرجل المزدوج"
+
+#. TRANSLATORS: Name of Venus in Anutan culture
+msgid "Te Petuu Ao/Tiuriuri"
+msgstr "تو بيترو أو/تيوريوري"
+
+#. TRANSLATORS: Anutan Name
+msgid "Matariki"
+msgstr "‎‎ماتاريكي ‎‎‎"
+
+msgid "Small Face"
+msgstr "الوجه الصغير"
+
+msgid "Small Eyes"
+msgstr "العيون الصغيرة"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Rere"
+msgstr "تي أو ريري"
+
+msgid "The Running Cloud"
+msgstr "السحابة المسرعة"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Toka"
+msgstr "تي أو توكا"
+
+msgid "The Restrained Cloud"
+msgstr "السحابة الواقفة"

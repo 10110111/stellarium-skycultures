@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Anutan"
+msgstr ""
+
+msgid "The Bamboo"
+msgstr "ది బాంబూ"
+
+msgid "Path of Three"
+msgstr "పాథ్ ఆఫ్ త్రీ"
+
+msgid "Bird of Flight"
+msgstr "బర్డ్ ఆఫ్ ఫ్లైట్"
+
+msgid "The Tongs"
+msgstr "ది టాంగ్స్"
+
+msgid "Octopus Tentacle"
+msgstr "ఆక్టోపస్ టెంటకిల్"
+
+msgid "Forward Precursor"
+msgstr ""
+
+msgid "Adze"
+msgstr "ఆడ్జె"
+
+msgid "The Carrying Stick"
+msgstr "ది కారీయింగ్ స్టిక్"
+
+msgid "Sammara Squirrelfish"
+msgstr "సామ్మారా స్క్విరెల్‌ఫిష్"
+
+msgid "Taro Plant"
+msgstr "టారో ప్లాంట్"
+
+msgid "The Net"
+msgstr "ది నెట్"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Tino A Manu"
+msgstr "టె టినో ఎ మను"
+
+msgid "The Bird's Body"
+msgstr "ది బర్డ్స్ బాడీ"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Tonga"
+msgstr "టె కాపాకా టొంగా"
+
+msgid "The East Wing"
+msgstr "ది ఈస్ట్ వింగ్"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Pakatokerau"
+msgstr "టె కాపాకా పాకాటొకెరా"
+
+msgid "The North Wing"
+msgstr "ది నార్త్ వింగ్"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Taki O Te Kapakau Tonga"
+msgstr "టె టాకి ఓ టె కాపాకా టొంగా"
+
+#. TRANSLATORS: Anutan Name
+msgid "Taki Roto"
+msgstr "టాకి రొటో"
+
+msgid "Middle Precursor"
+msgstr "మిడిల్ ప్రికర్సర్"
+
+#. TRANSLATORS: Anutan Name
+msgid "Na Kau"
+msgstr "నా కా"
+
+#. TRANSLATORS: Anutan Name
+msgid "To Rua Tangata"
+msgstr "టో రుఆ టాంగాటా"
+
+msgid "Double Man"
+msgstr "డబుల్ మాన్ "
+
+#. TRANSLATORS: Name of Venus in Anutan culture
+msgid "Te Petuu Ao/Tiuriuri"
+msgstr "టె పెటూ ఆఒ/టియురియురి"
+
+#. TRANSLATORS: Anutan Name
+msgid "Matariki"
+msgstr "మాటారికి"
+
+msgid "Small Face"
+msgstr "స్మాల్ ఫేస్"
+
+msgid "Small Eyes"
+msgstr "స్మాల్ ఐస్"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Rere"
+msgstr "టె ఆఓ రెరె"
+
+msgid "The Running Cloud"
+msgstr "ది రన్నింగ్ క్లౌడ్"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Toka"
+msgstr "టె ఆఓ టొకా"
+
+msgid "The Restrained Cloud"
+msgstr ""

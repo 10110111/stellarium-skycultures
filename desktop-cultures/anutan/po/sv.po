@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Karl Birgersson <birgerssonkarl@outlook.com>, 2022\n"
+"Language-Team: Swedish (https://app.transifex.com/stellarium/teams/80998/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Anutan"
+msgstr "Anutisk"
+
+msgid "The Bamboo"
+msgstr "Bambun"
+
+msgid "Path of Three"
+msgstr "Tre på rad"
+
+msgid "Bird of Flight"
+msgstr "Fågelflykt"
+
+msgid "The Tongs"
+msgstr "Griptången"
+
+msgid "Octopus Tentacle"
+msgstr "Bläckfiskarmen"
+
+msgid "Forward Precursor"
+msgstr "Främre föregångare"
+
+msgid "Adze"
+msgstr "Skarvyxa"
+
+msgid "The Carrying Stick"
+msgstr "Bärstaven"
+
+msgid "Sammara Squirrelfish"
+msgstr "Sammara-ekorrfisk"
+
+msgid "Taro Plant"
+msgstr "Taroväxt"
+
+msgid "The Net"
+msgstr "Nätet"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Tino A Manu"
+msgstr "Te Tino A Manu"
+
+msgid "The Bird's Body"
+msgstr "Fågelns kropp"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Tonga"
+msgstr "Te Kapakau Tonga"
+
+msgid "The East Wing"
+msgstr "Östra vingen"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Pakatokerau"
+msgstr "Te Kapakau Pakatokerau"
+
+msgid "The North Wing"
+msgstr "Norra vingen"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Taki O Te Kapakau Tonga"
+msgstr "Te Taki O Te Kapakau Tonga"
+
+#. TRANSLATORS: Anutan Name
+msgid "Taki Roto"
+msgstr "Taki Roto"
+
+msgid "Middle Precursor"
+msgstr "Mittre föregångare"
+
+#. TRANSLATORS: Anutan Name
+msgid "Na Kau"
+msgstr "Na Kau"
+
+#. TRANSLATORS: Anutan Name
+msgid "To Rua Tangata"
+msgstr "To Rua Tangata"
+
+msgid "Double Man"
+msgstr "Dubbel man"
+
+#. TRANSLATORS: Name of Venus in Anutan culture
+msgid "Te Petuu Ao/Tiuriuri"
+msgstr "Te Petuu Ao/Tiuriuri"
+
+#. TRANSLATORS: Anutan Name
+msgid "Matariki"
+msgstr "Matariki"
+
+msgid "Small Face"
+msgstr "Litet ansikte"
+
+msgid "Small Eyes"
+msgstr "Små ögon"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Rere"
+msgstr "Te Ao Rere"
+
+msgid "The Running Cloud"
+msgstr "Springande molnet"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Toka"
+msgstr "Te Ao Toka"
+
+msgid "The Restrained Cloud"
+msgstr "Fjättrade molnet"
