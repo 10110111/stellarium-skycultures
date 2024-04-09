@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Pep Pujols Puigdesens, 2024\n"
+"Language-Team: Catalan (https://app.transifex.com/stellarium/teams/80998/"
+"ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Anutan"
+msgstr "Anutan"
+
+msgid "The Bamboo"
+msgstr "El Bambú"
+
+msgid "Path of Three"
+msgstr "Camí de tres"
+
+msgid "Bird of Flight"
+msgstr "Ocell de Vol"
+
+msgid "The Tongs"
+msgstr "Les Pinces"
+
+msgid "Octopus Tentacle"
+msgstr "Tentacle de Pop"
+
+msgid "Forward Precursor"
+msgstr "Precursor Avançat"
+
+msgid "Adze"
+msgstr "Aixa"
+
+msgid "The Carrying Stick"
+msgstr "El Bastó de Transport"
+
+msgid "Sammara Squirrelfish"
+msgstr "Peix Esquirol de Sammara"
+
+msgid "Taro Plant"
+msgstr "Planta Taro"
+
+msgid "The Net"
+msgstr "La Xarxa"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Tino A Manu"
+msgstr "Te Tino A Manu"
+
+msgid "The Bird's Body"
+msgstr "El Cos de l’Ocell"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Tonga"
+msgstr "Te Kapakau Tonga"
+
+msgid "The East Wing"
+msgstr "L'Ala Est"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Pakatokerau"
+msgstr "Te Kapakau Pakatokerau"
+
+msgid "The North Wing"
+msgstr "L'Ala Nord"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Taki O Te Kapakau Tonga"
+msgstr "Te Taki O Te Kapakau Tonga"
+
+#. TRANSLATORS: Anutan Name
+msgid "Taki Roto"
+msgstr "Taki Roto"
+
+msgid "Middle Precursor"
+msgstr "Precursor Mitjà"
+
+#. TRANSLATORS: Anutan Name
+msgid "Na Kau"
+msgstr "Na Kau"
+
+#. TRANSLATORS: Anutan Name
+msgid "To Rua Tangata"
+msgstr "To Rua Tangata"
+
+msgid "Double Man"
+msgstr "Home Doble"
+
+#. TRANSLATORS: Name of Venus in Anutan culture
+msgid "Te Petuu Ao/Tiuriuri"
+msgstr "Te Petuu Ao/Tiuriuri"
+
+#. TRANSLATORS: Anutan Name
+msgid "Matariki"
+msgstr "Matariki"
+
+msgid "Small Face"
+msgstr "Cara petita"
+
+msgid "Small Eyes"
+msgstr "Ulls petits"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Rere"
+msgstr "Te Ao Rere"
+
+msgid "The Running Cloud"
+msgstr "El núvol que corre"
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Toka"
+msgstr "Te Ao Toka"
+
+msgid "The Restrained Cloud"
+msgstr "El núvol discret"

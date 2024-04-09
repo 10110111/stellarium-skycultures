@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: 03bfdb1e3bdfa21b80c8160ea93f1c67_2436d66, 2022\n"
+"Language-Team: Turkish (https://app.transifex.com/stellarium/teams/80998/"
+"tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Sky culture name
+msgid "Anutan"
+msgstr "Anutan"
+
+msgid "The Bamboo"
+msgstr ""
+
+msgid "Path of Three"
+msgstr ""
+
+msgid "Bird of Flight"
+msgstr ""
+
+msgid "The Tongs"
+msgstr ""
+
+msgid "Octopus Tentacle"
+msgstr ""
+
+msgid "Forward Precursor"
+msgstr ""
+
+msgid "Adze"
+msgstr ""
+
+msgid "The Carrying Stick"
+msgstr ""
+
+msgid "Sammara Squirrelfish"
+msgstr ""
+
+msgid "Taro Plant"
+msgstr ""
+
+msgid "The Net"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Tino A Manu"
+msgstr ""
+
+msgid "The Bird's Body"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Tonga"
+msgstr ""
+
+msgid "The East Wing"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Pakatokerau"
+msgstr ""
+
+msgid "The North Wing"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Taki O Te Kapakau Tonga"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Taki Roto"
+msgstr ""
+
+msgid "Middle Precursor"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Na Kau"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "To Rua Tangata"
+msgstr ""
+
+msgid "Double Man"
+msgstr ""
+
+#. TRANSLATORS: Name of Venus in Anutan culture
+msgid "Te Petuu Ao/Tiuriuri"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Matariki"
+msgstr "Matariki"
+
+msgid "Small Face"
+msgstr ""
+
+msgid "Small Eyes"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Rere"
+msgstr ""
+
+msgid "The Running Cloud"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Toka"
+msgstr ""
+
+msgid "The Restrained Cloud"
+msgstr ""

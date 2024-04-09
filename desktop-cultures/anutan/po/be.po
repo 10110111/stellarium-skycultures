@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Hleb Valoshka <375gnu@gmail.com>, 2024\n"
+"Language-Team: Belarusian (https://app.transifex.com/stellarium/teams/80998/"
+"be/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+# Sky culture name
+msgid "Anutan"
+msgstr "Анутанская"
+
+msgid "The Bamboo"
+msgstr "Бамбук"
+
+msgid "Path of Three"
+msgstr ""
+
+msgid "Bird of Flight"
+msgstr ""
+
+msgid "The Tongs"
+msgstr ""
+
+msgid "Octopus Tentacle"
+msgstr ""
+
+msgid "Forward Precursor"
+msgstr ""
+
+msgid "Adze"
+msgstr "Адзэ"
+
+msgid "The Carrying Stick"
+msgstr ""
+
+msgid "Sammara Squirrelfish"
+msgstr ""
+
+msgid "Taro Plant"
+msgstr ""
+
+msgid "The Net"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Tino A Manu"
+msgstr ""
+
+msgid "The Bird's Body"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Tonga"
+msgstr ""
+
+msgid "The East Wing"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Kapakau Pakatokerau"
+msgstr ""
+
+msgid "The North Wing"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Taki O Te Kapakau Tonga"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Taki Roto"
+msgstr ""
+
+msgid "Middle Precursor"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Na Kau"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "To Rua Tangata"
+msgstr ""
+
+msgid "Double Man"
+msgstr ""
+
+#. TRANSLATORS: Name of Venus in Anutan culture
+msgid "Te Petuu Ao/Tiuriuri"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Matariki"
+msgstr "Матарыкі"
+
+msgid "Small Face"
+msgstr ""
+
+msgid "Small Eyes"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Rere"
+msgstr ""
+
+msgid "The Running Cloud"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Te Ao Toka"
+msgstr ""
+
+msgid "The Restrained Cloud"
+msgstr ""
