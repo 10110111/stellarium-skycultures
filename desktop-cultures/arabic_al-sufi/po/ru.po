@@ -1,0 +1,3191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-01-01 16:59+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2024\n"
+"Language-Team: Russian (https://app.transifex.com/stellarium/teams/80998/"
+"ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+# Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "Арабская (ас-Суфи)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Book of Fixed Stars was written shortly before 964 AD. Dr. Paul "
+"Kunitzsch described it as \"the most outstanding among the works of the "
+"prominent astronomer Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (born in "
+"Rayy, 903; died 986), referred to as al-Sufi. In it, al-Şūfī treats the 48 "
+"classical constellations, which were established and transmitted in "
+"Ptolemy's Almagest. The description of each constellation comprises the "
+"following four sections: first, a general discussion of the constellation "
+"and its individual stars; this section also includes alŞūfi's criticism of "
+"the Ptolemaic tradition and notices of his own observations. Second, a "
+"record of the indigenous Arabic star names falling under that constellation, "
+"and the exact identification of the respective stars with the corresponding "
+"Ptolemaic stars. Third, two drawings of the constellation, one as it is seen "
+"on a celestial globe, and the other one as it is seen in the sky. Fourth, a "
+"table of the stars making up that constellation, giving a verbal description "
+"of each star's location and its longitude, latitude, and magnitude. This "
+"table closely follows the arrangement of Ptolemy's star catalogue in the "
+"Almagest.\" [#1]. In addition to the four sections of each constellation "
+"mentioned by dr. Kunitzsch, Al-Sufi would identify stars within the 6 "
+"magnitudes that were neglected by Ptolemy, but he did not catalogue them and "
+"was faithful to Ptolemy star catalog."
+msgstr ""
+"«Книга неподвижных звезд» была написана незадолго до 964 года нашей\n"
+"эры. Доктор Пауль Кунич назвал его «наиболее выдающимся среди работ\n"
+"выдающегося астронома Абуль-Хусейн Абдуррахман ибн Умар ас-Суфи (родился в\n"
+"городе Рей в 903 году; умер в 986 году), известного как ас-Суфи. В нем\n"
+"ас-Суфи рассматривает 48 классических созвездий, которые были установлены и\n"
+"переданы в «Альмагесте» Птолемея. Описание каждого созвездия состоит из\n"
+"следующих четырех разделов: во-первых, общее обсуждение созвездия и его\n"
+"отдельных звезд; этот раздел также включает критику ас-Суфи птолемеевской\n"
+"традиции и замечания о его собственных наблюдениях. Во-вторых, запись\n"
+"местных арабских названий звезд, подпадающих под это созвездие, и точное\n"
+"отождествление соответствующих звезд с соответствующими звездами\n"
+"Птолемея. В-третьих, два рисунка созвездия , один так, как он виден на\n"
+"небесном шаре, а другой, как он виден в небе. В-четвертых, таблица звезд,\n"
+"составляющих это созвездие, дающая словесное описание местоположения каждой\n"
+"звезды найдите его долготу, широту и величину. Эта таблица точно\n"
+"соответствует расположению звездного каталога Птолемея в\n"
+"Альмагесте». [#1]. В дополнение к\n"
+"четырем разделам каждого созвездия, упомянутым доктором Кунич, ас-Суфи\n"
+"идентифицировал звезды в пределах 6 звездных величин, которыми пренебрегал\n"
+"Птолемей, но он не каталогизировал их и был верен звездному каталогу\n"
+"Птолемея."
+
+# Sky culture description section in markdown format
+msgid ""
+"An important aspect of the general discussion section is Al-Sufi method of "
+"facilitating the star identification. He describes each individual star in "
+"more than way: By the star position related to the constellation figure, by "
+"its magnitude, by the asterism it forms with other stars like triangle or "
+"arc shapes, sometimes by the star position related to the Milky way, and by "
+"the angular distance from a close by star. I have counted more than 700 "
+"angular distances measured by al-Sufi in his book. The units he uses for "
+"angular distances are cubits, spear length, man-height, span, and finger. Al-"
+"Sufi explicitly said in his book that a cubit is equal to two degrees and 20 "
+"minutes [#2]. For the other units, Schjellerup concluded some values, but "
+"tracking the 700 measurements, I came up with different values. The "
+"following table summarizes the units and relationship to the cubit value "
+"from Schjellerup[#3] and from my research.\n"
+"\n"
+"### Angular distance units used by Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>&nbsp;</notr></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>unit</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spear</td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Man-Height</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 cubits</td>\n"
+"\t<td><notr>7°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>cubit</td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>span</td>\n"
+"\t<td>1/3 of a cubit</td>\n"
+"\t<td><notr>47'</notr></td>\n"
+"\t<td>1/2 of a cubit</td>\n"
+"\t<td><notr>1°10'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>finger</td>\n"
+"\t<td>1/32 of a cubit</td>\n"
+"\t<td><notr>4.4'</notr></td>\n"
+"\t<td>1/16 of a cubit</td>\n"
+"\t<td><notr>8.75'</notr></td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Another important aspect of Al-Sufi book is his record of the indigenous "
+"Arabic star names falling under each constellation, and the exact "
+"identification of the respective stars with the corresponding Ptolemaic "
+"stars. This means that we are looking at two layers of stars knowledge at "
+"the same time: the Ptolemaic one and the indigenous Arab one.\n"
+"\n"
+"### The Sky Culture\n"
+"\n"
+"This sky culture is a result of a research done on several manuscripts of "
+"the book, oldest of which is the [#8].\n"
+"\n"
+"First, the manuscripts of the Book of Fixed Stars were critically edited, "
+"and the text was produced. Second, each member star of the 48 constellations "
+"was identified according to Al-Sufi description, and new tables were built "
+"including modern star designations from the Hipparcos, Bright stars, and "
+"Bayer catalogues. Third, Arab indigenous star names were collected and "
+"identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous "
+"steps were included in a book published digitally of the Book of Fixed Stars "
+"plus explanations and commentary by Khalid Al-Ajaji[#4].\n"
+"\n"
+"The sky culture stick figures of the constellations are the images in the "
+"Ulugh Beg manuscript of the Book of Fixed Stars, extracted, and adapted for "
+"Stellarium by Mr. Kutaibaa Akraa [#5]. The star names file includes the star "
+"number in the constellation as the primary star name and the description of "
+"the star in the tables as a secondary name. For example, Polaris primary "
+"name that is displayed with the star is: UMi1, UMi being Ursa Minor and 1 is "
+"the first star of this constellation. If the star is selected other "
+"secondary names are displayed, which will display \"The star on the end of "
+"the tail\" on the top of the screen. The constellation lines are constructed "
+"according to the constellation shapes with an attempt to include most of the "
+"member stars. For indigenous Arab star knowledge, individual star names were "
+"added to the star file as secondary names, while names of group of stars "
+"were defined through asterism names and asterism lines files.\n"
+"\n"
+"The translation of star descriptions from Arabic into English was extracted "
+"from Ernie Wright website[#6] which was transcribed from Toomer's "
+"translation of the Almagest[#7]. The translation was modified in a few "
+"places to agree with Al-Sufi wording.\n"
+"\n"
+"The single source of the sky culture is the Book of Fixed Stars and the "
+"objective is to give a faithful representation of the book content."
+msgstr ""
+"Важным аспектом раздела общего обсуждения является метод ас-Суфи для\n"
+"облегчения идентификации звезд. Он описывает каждую отдельную звезду более\n"
+"чем просто: по положению звезды, относящейся к фигуре созвездия, по ее\n"
+"величине, по астеризму, который она образует с другими звездами, такими как\n"
+"треугольники или дуги, иногда по положению звезды, относящемуся к Млечному\n"
+"пути, и по угловому расстоянию от ближайшей звезды. Я насчитал более 700\n"
+"угловых расстояний, измеренных ас-Суфи в его книге. Он использует единицы\n"
+"измерения угловых расстояний: локти, длину копья, рост человека, размах и\n"
+"палец. Ас-Суфи прямо сказал в своей книге, что локоть равен двум градусам и\n"
+"20 минутам [#2]. Для других единиц\n"
+"измерения Шеллеруп пришел к некоторым значениям, но, отслеживая 700\n"
+"измерений, я пришел к другим значениям. В следующей таблице приведены\n"
+"единицы измерения и отношение к величине локтей по Шеллерупу[#3] и из моего "
+"исследования.\n"
+"\n"
+"### Единицы углового расстояния, используемые ас-Суфи\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td>&nbsp;</td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Шеллеруп</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Халид</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>единица измерения</b></td>\n"
+"\t<td><b>локти</b></td>\n"
+"\t<td><b>величина угла</b></td>\n"
+"\t<td><b>локти</b></td>\n"
+"\t<td><b>величина угла</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>копьё</td>\n"
+"\t<td>6 локтей</td>\n"
+"\t<td>14°</td>\n"
+"\t<td>6 локтей</td>\n"
+"\t<td>14°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>рост человека</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 локтя</td>\n"
+"\t<td>7°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>локоть</td>\n"
+"\t<td>1 локоть</td>\n"
+"\t<td>2°20'</td>\n"
+"\t<td>1 локоть</td>\n"
+"\t<td>2°20'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>пядь</td>\n"
+"\t<td>1/3 локтя</td>\n"
+"\t<td>47'</td>\n"
+"\t<td>1/2 локтя</td>\n"
+"\t<td>1°10'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>палец</td>\n"
+"\t<td>1/32 локтя</td>\n"
+"\t<td>4.4'</td>\n"
+"\t<td>1/16 локтя</td>\n"
+"\t<td>8.75'</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Другим важным аспектом книги ас-Суфи является его запись местных арабских\n"
+"названий звезд, подпадающих под каждое созвездие, и точное отождествление\n"
+"соответствующих звезд с соответствующими звездами Птолемея. Это означает,\n"
+"что мы одновременно смотрим на два слоя звездных знаний: птолемеевский и\n"
+"коренной арабский.\n"
+"\n"
+"### Культура неба\n"
+"\n"
+"Эта культура неба является результатом исследования нескольких рукописей\n"
+"книги, самой старой из которых является [#8].\n"
+"\n"
+"Сначала были критически отредактированы рукописи «Книги неподвижных звезд» "
+"и\n"
+"составлен текст. Во-вторых, каждая звезда-член из 48 созвездий была\n"
+"идентифицирована в соответствии с описанием ас-Суфи, и были построены новые\n"
+"таблицы, включающие современные обозначения звезд из каталогов Hipparcos,\n"
+"«Ярких звёзд» и Байера. В-третьих, были собраны названия звезд арабских\n"
+"коренных народов и идентифицированы как сопоставленные ас-Суфи с\n"
+"птолемеевскими названиями. Все предыдущие шаги были включены в книгу,\n"
+"опубликованную в цифровом виде «Книги неподвижных звезд», плюс пояснения и\n"
+"комментарии Халида Аль-Аджаджи (Khalid Al-Ajaji)[#4].\n"
+"\n"
+"Фигурки созвездий - это изображения в рукописи Улугбека из Книги "
+"неподвижных\n"
+"звезд, извлеченные и адаптированные для Stellarium г-ном Кутайбаа Акраа\n"
+"[#5]. Файл названий звезд включает номер\n"
+"звезды в созвездии в качестве основного имени звезды и описание звезды в\n"
+"таблицах в качестве дополнительного имени. Например, основное имя Полярной\n"
+"звезды, отображаемое со звездой: UMi_1, UMi - Малая Медведица, а 1 - первая\n"
+"звезда этого созвездия. Если звезда выбрана, отображаются другие вторичные\n"
+"имена, которые будут отображать «Звезду на конце хвоста» в верхней части\n"
+"экрана. Линии созвездия построены в соответствии с формами созвездий с\n"
+"попыткой включить большинство звезд-членов. Для коренных арабских звездных\n"
+"знаний имена отдельных звезд были добавлены в звездный файл как\n"
+"второстепенные имена, в то время как имена группы звезд были определены\n"
+"через имена астеризмов и файл линий астеризмов.\n"
+"\n"
+"Перевод описания звёзд с арабского на английский был взят с веб-сайта Эрни\n"
+"Райта[#6] который был расшифрован из\n"
+"перевода Альмагеста Тумером[#7]. Перевод\n"
+"был изменен в нескольких местах, чтобы соответствовать формулировке ас-"
+"Суфи.\n"
+"\n"
+"Единственным источником небесной культуры является «Книга неподвижных "
+"звезд»\n"
+"и цель которой - дать достоверное представление о содержании книги."
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: "
+"turath.alfalak@gmail.com"
+msgstr ""
+"Эта культура неба была составлена и добавлена в Stellarium Халидом\n"
+"Аль-Аджаджи (Khalid Al-Ajaji): turath.alfalak@gmail.com"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: See Al-Sufi description in his book of the 14th star in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+msgstr ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: See Al-Sufi description in his book of the 14th star in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Оксфордская Бодлианская библиотека мисс Марш 144 (Oxford, Bodleian "
+"Library Ms. Marsh 144) датированная 1009 годом нашей эры](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+
+msgid "The spear"
+msgstr "Копье"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "аль-Сурайя"
+
+msgid "Ursa Minor"
+msgstr "Малая Медведица"
+
+msgid "Ursa Major"
+msgstr "Большая Медведица"
+
+msgid "Draco"
+msgstr "Дракон"
+
+msgid "Cepheus"
+msgstr "Цефей"
+
+msgid "Bootes"
+msgstr "Волопас"
+
+msgid "Corona Borealis"
+msgstr "Северная корона"
+
+msgid "Hercules"
+msgstr "Геркулес"
+
+msgid "Lyra"
+msgstr "Лира"
+
+msgid "Cygnus"
+msgstr "Лебедь"
+
+msgid "Cassiopeia"
+msgstr "Кассиопея"
+
+msgid "Perseus"
+msgstr "Персей"
+
+msgid "Auriga"
+msgstr "Возничий"
+
+msgid "Ophiuchus"
+msgstr "Змееносец"
+
+msgid "Serpens"
+msgstr "Змея"
+
+msgid "Sagitta"
+msgstr "Стрела"
+
+msgid "Aquila"
+msgstr "Орёл"
+
+msgid "Delphinus"
+msgstr "Дельфин"
+
+msgid "Equuleus"
+msgstr "Малый Конь"
+
+msgid "Pegasus"
+msgstr "Пегас"
+
+msgid "Andromeda"
+msgstr "Андромеда"
+
+msgid "Triangulum"
+msgstr "Треугольник"
+
+msgid "Aries"
+msgstr "Овен"
+
+msgid "Taurus"
+msgstr "Телец"
+
+msgid "Gemini"
+msgstr "Близнецы"
+
+msgid "Cancer"
+msgstr "Рак"
+
+msgid "Leo"
+msgstr "Лев"
+
+msgid "Virgo"
+msgstr "Дева"
+
+msgid "Libra"
+msgstr "Весы"
+
+msgid "Scorpius"
+msgstr "Скорпион"
+
+msgid "Sagittarius"
+msgstr "Стрелец"
+
+msgid "Capricornus"
+msgstr "Козерог"
+
+msgid "Aquarius"
+msgstr "Водолей"
+
+msgid "Pisces"
+msgstr "Рыбы"
+
+msgid "Cetus"
+msgstr "Кит"
+
+msgid "Orion"
+msgstr "Орион"
+
+msgid "Eridanus"
+msgstr "Эридан"
+
+msgid "Lepus"
+msgstr "Заяц"
+
+msgid "Canis Major"
+msgstr "Большой Пёс"
+
+msgid "Canis Minor"
+msgstr "Малый Пес"
+
+msgid "Argo Navis"
+msgstr "Корабль Арго"
+
+msgid "Hydra"
+msgstr "Гидра"
+
+msgid "Crater"
+msgstr "Чаша"
+
+msgid "Corvus"
+msgstr "Ворон"
+
+msgid "Centaurus"
+msgstr "Кентавр"
+
+msgid "Lupus"
+msgstr "Волк"
+
+msgid "Ara"
+msgstr "Жертвенник"
+
+msgid "Corona Australis"
+msgstr "Южная корона"
+
+msgid "Piscis Austrinus"
+msgstr "Южная Рыба"
+
+msgid "The Horse"
+msgstr "Конь"
+
+msgid "The great fish"
+msgstr "Большая рыба"
+
+msgid "The other fish"
+msgstr "Другая рыба"
+
+#. TRANSLATORS: The Kid (Baby male goat) is the name of Polaris in Arabic.
+msgid "The star on the end of the tail: it is the Kid"
+msgstr "Звезда на конце хвоста: козлёнок"
+
+msgid "The one next to it on the tail"
+msgstr "Звезда на конце хвоста"
+
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "За ней в начале [хвоста]"
+
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "Самая южная из звезд на передней стороне прямоугольника"
+
+msgid "The northernmost of [those in] the same side"
+msgstr "Северная звезда той же стороны"
+
+msgid "The southern star in the rear side: The brighter of the two calves"
+msgstr "Южная звезда на дальней стороне: более яркая из двух телят"
+
+msgid "The northern one in the same side: The dimmer of the two calves"
+msgstr "Северная на той же стороне: более тусклая из двух телят"
+
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+"Одна звезда четвёртой величины, на одной прямой с последующей стороной "
+"[четырёхугольника] к югу от неё"
+
+msgid "The star on the end of the snout"
+msgstr "Звезда на конце морды"
+
+msgid "The more advanced of the stars in the two eyes"
+msgstr "Более близкая из звёзд глаз"
+
+msgid "The one to the rear"
+msgstr "Та, что позади"
+
+msgid "The more advanced of the two stars in the forehead"
+msgstr "Более близкая из двух звезд лба"
+
+msgid "The star on the tip of the advance ear"
+msgstr "Звезда на кончике переднего уха"
+
+msgid "The more advanced of the two stars in the neck"
+msgstr "Более близкая из двух звезд шеи"
+
+msgid ""
+"The one to the rear, there is an error in either the longitude or latitude"
+msgstr "Та, что сзади, ошибка в долготе или в широте"
+
+msgid "The northernmost of the two stars in the chest"
+msgstr "Самая северная из двух звезд на груди"
+
+msgid "The southernmost of them"
+msgstr "Самая южная из них"
+
+msgid "The star on the left knee"
+msgstr "Звезда на левом колене"
+
+msgid ""
+"The northernmost of the [two] in the front left paw: Leap [of the gazelle]"
+msgstr "Самая северная из [двух] в передней левой лапе: Прыжок [газели]"
+
+msgid "The southernmost of them: Leap [of the gazelle]"
+msgstr "Самая южная из них: Прыжок [газели]"
+
+msgid "The star above the right knee"
+msgstr "Звезда над правым коленом"
+
+msgid "The star below the right knee"
+msgstr "Звезда под правым коленом"
+
+msgid "The stars in the quadrilateral: the one on the back"
+msgstr "Звёзды в четырехугольнике: та, что на спине"
+
+msgid "The one on the pelvis"
+msgstr "Та, что на тазе"
+
+msgid "The one on the place where the tail joins [the body]"
+msgstr "Та, что в том месте, где хвост соединяется [с телом]"
+
+msgid "The remaining one, on the left hind thigh"
+msgstr "Оставшийся, на левом заднем бедре"
+
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr "Более близкая из [двух звезд] на левой задней лапе"
+
+msgid "The one to the rear of it"
+msgstr "Та, что позади неё"
+
+msgid "The star on the left knee-bend"
+msgstr "Звезда на левом колене"
+
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "Самая северная из [двух звёзд] правой задней лапы"
+
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+"Первая из трех звезд на хвосте рядом с местом, где он соединяется [с телом]"
+
+msgid "The middle one"
+msgstr "Средняя"
+
+msgid "The third, on the end of the tail"
+msgstr "Третья, на конце хвоста"
+
+msgid "The star under the tail, at some distance towards the south"
+msgstr "Звезда под хвостом, на некотором расстоянии к югу"
+
+msgid "The rather fainter star in advance of it"
+msgstr "Более тусклая звезда впереди"
+
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+"Самая южная из [двух] звезд между передними ногами Медведицы [Большой] и "
+"головой Льва."
+
+msgid "The one north of it"
+msgstr "Та, что севернее неё"
+
+msgid "The rearmost of the remaining three faint stars"
+msgstr "Самая дальняя  из оставшихся трёх тусклых звёзд"
+
+msgid "The one in advance of this"
+msgstr "Та, что опередила эту"
+
+msgid "The one in advance again of the latter"
+msgstr "Та, что выше последней"
+
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "Звезда между передними лапами [Большой Медведицы] и Близнецами"
+
+msgid "The dark camel"
+msgstr "Тёмный верблюд"
+
+msgid "The Oryx"
+msgstr "Орикс"
+
+msgid "The little goat"
+msgstr "Козочка"
+
+msgid "The leader"
+msgstr "Лидер"
+
+msgid "Liver of the lion"
+msgstr "Печень льва"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr "аль-Суха"
+
+#. TRANSLATORS: Proper name
+msgid "Al-Suta"
+msgstr "аль-Сута"
+
+#. TRANSLATORS: Proper name
+msgid "Al-Saydaq"
+msgstr "аль-Сайдак"
+
+#. TRANSLATORS: Proper name
+msgid "Nua'ish"
+msgstr "Нуаиш"
+
+msgid "The star on the tongue"
+msgstr "Звезда на языке"
+
+msgid "The star in the mouth"
+msgstr "Звезда во рту"
+
+msgid "The star above the eye"
+msgstr "Звезда над глазом"
+
+msgid "The star on the chin"
+msgstr "Звезда на подбородке"
+
+msgid "The star above the head"
+msgstr "Звезда над головой"
+
+msgid ""
+"The northernmost of the three stars in a straight line in the first bend of "
+"the neck"
+msgstr "Самая северная из трех звезд на прямой в первом изгибе шеи"
+
+msgid "The southernmost of these"
+msgstr "Самая южная из них"
+
+msgid ""
+"The star to the rear of the latter and due east of the quadrilateral in the "
+"next bend after the latter"
+msgstr ""
+"Звезда позади последней и к востоку от четырехугольника на следующем изгибе "
+"после последней."
+
+msgid "The southern star of the [two] forming the advance side"
+msgstr "Южная звезда из [двух], образующих переднюю сторону"
+
+msgid "The more northerly star of the advance side"
+msgstr "Более северная звезда передней стороны"
+
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "Северная звезда тыльной стороны [четырехугольника]"
+
+msgid "The southern star of the rear side"
+msgstr "Южная звезда на задней стороне"
+
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "Южная звезда [образующих] треугольник в следующем повороте"
+
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "Более близкая из двух других звезд треугольника"
+
+msgid ""
+"The rearmost of the three stars in the next triangle, which is in advance "
+"[of the last]"
+msgstr ""
+"Самая дальняя из трех звезд в следующем треугольнике, который находится "
+"впереди [последнего]"
+
+msgid "The southernmost of the other two forming the triangle"
+msgstr "Самая южная из двух других, образующих треугольник"
+
+msgid "The northernmost of the other two"
+msgstr "Самая северная из 2-х других"
+
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "Самая дальняя из двух маленьких звезд к западу от треугольника"
+
+msgid "The one in advance"
+msgstr "Тот, что заранее"
+
+msgid "The southernmost of the next three stars in a straight line"
+msgstr "Самая южная из трех звёзд в прямой линии"
+
+msgid "The middle one of the three"
+msgstr "Средняя из трёх"
+
+msgid "The northernmost of them"
+msgstr "Самая северная из них"
+
+msgid "The northernmost of the next two to the west"
+msgstr "Самая северная из следующих двух западнее"
+
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "Звезда к западу от них, в изгибе у хвоста"
+
+msgid "The advance star of the two quite some distance from the latter"
+msgstr "Передняя звезда из двух довольно далеких от последней"
+
+msgid "The rear star of these [two]"
+msgstr "Дальняя звезда этих [двух]"
+
+msgid "The star close by these, by the tail"
+msgstr "Звезда рядом с ними, за хвостом"
+
+msgid "The remaining star, on the tip of the tail"
+msgstr "Оставшаяся звезда на кончике хвоста"
+
+msgid "The trotting camel"
+msgstr "Рысящий верблюд"
+
+msgid "The baby camel"
+msgstr "Верблюжонок"
+
+msgid "The male hyena"
+msgstr "Самец гиены"
+
+msgid "The star on the right leg"
+msgstr "Звезда на правой ноге"
+
+msgid "The one on the left leg"
+msgstr "Та, что на левой ноге"
+
+msgid "The star under the belt on the right side"
+msgstr "Звезда под поясом на правой стороне"
+
+msgid "The star over the right shoulder, which touches it"
+msgstr "Звезда за правым плечом, которая его касается"
+
+msgid "The star over the right elbow, which touches it"
+msgstr "Звезда над правым локтем, которая его касается"
+
+msgid "The one under that elbow"
+msgstr "Та, что под локтем"
+
+msgid "The star in the chest"
+msgstr "Звезда на груди"
+
+msgid "The star on the left arm"
+msgstr "Звезда на левой руке"
+
+msgid "The southernmost of the three stars on the hat"
+msgstr "Самая южная из трех звёзд шляпы"
+
+msgid "The northernmost of the three"
+msgstr "Самая северная из трёх"
+
+msgid "The one in advance of the stars on the head"
+msgstr "Та, что ближе из звёзд головы"
+
+msgid "The one to the rear of them"
+msgstr "Та, что позади них"
+
+msgid "The [northern] Shepherd"
+msgstr "[Северный] пастух"
+
+msgid "The [northern] Shepherd dog"
+msgstr "[Северная] овчарка"
+
+msgid "The horse forehead star"
+msgstr "Звезда конского лба"
+
+msgid "The most advanced of the three in the left arm"
+msgstr "Самый близкая из трех звёзд левой руки"
+
+msgid "The middle and southernmost of the three"
+msgstr "Средняя и самая южная из трёх"
+
+msgid "The rearmost of the three"
+msgstr "Самая дальняя из трёх"
+
+msgid "The star on the left elbow"
+msgstr "Звезда на левом локте"
+
+msgid "The star on the left shoulder"
+msgstr "Звезда на левом плече"
+
+msgid "The star on the head"
+msgstr "Звезда на голове"
+
+msgid "The star on the right shoulder"
+msgstr "Звезда на правом плече"
+
+msgid "The one to the north of these, on the staff"
+msgstr "Та, что к северу от них, на посохе"
+
+msgid ""
+"The one farther to the north again of this, on the tip of the staff, and it "
+"is a common star [with Hercules]"
+msgstr ""
+"Та, что дальше к северу от этой, на кончике посоха, и это обычная звезда [с "
+"Гераклом]."
+
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "Самая северная из двух звёзд ниже плеча, в булаве"
+
+msgid "The star on the end of the right arm"
+msgstr "Звезда на конце правой руки"
+
+msgid "The more advanced of the two stars in the wrist"
+msgstr "Более близкая из двух звёзд запястья"
+
+msgid "The rearmost of them"
+msgstr "Самая дальняя из них"
+
+msgid "The star on the end of the handle of the staff"
+msgstr "Звезда на конце рукояти посоха"
+
+msgid ""
+"The star on the belt which Ptolemy claims that it is on the right thigh, in "
+"the apron"
+msgstr ""
+"Звезда на поясе, который, как утверждает Птолемей, находится на правом "
+"бедре, в фартуке"
+
+msgid "The rearmost of the two stars in the belt"
+msgstr "Самая дальняя из 2 звёзд пояса"
+
+msgid "The more advanced of them"
+msgstr "Более близкая из них"
+
+msgid "The star on the right heel"
+msgstr "Звезда на правой пятке"
+
+msgid "The northernmost of the three stars in the left leg"
+msgstr "Самая северная из трех звёзд левой ноги"
+
+msgid "The star between the thighs, called 'The high one with the spear'"
+msgstr "Звезда между бедрами, называется «Великан с копьем»"
+
+msgid "The guard of the sky"
+msgstr "Страж неба"
+
+msgid "The guard of the north"
+msgstr "Страж севера"
+
+msgid "Leg of the lion"
+msgstr "Лапа льва"
+
+msgid "Associate of the high one"
+msgstr "Ассоциируется с высоким"
+
+msgid "Flag of the high one"
+msgstr ""
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "Flag of Al-Fakkah"
+msgstr "Флаг аль-Факка"
+
+msgid "The bright star in the crown"
+msgstr "Яркая звезда в короне"
+
+msgid "The star in advance of it"
+msgstr "Звезда впереди него"
+
+msgid "The one above this and due north"
+msgstr "Та, что выше и севернее этой"
+
+msgid "The one north again of this"
+msgstr "Та, что к северу от этой"
+
+msgid ""
+"The one to the rear of the bright star in the other half circle from the "
+"south"
+msgstr "Та, что позади яркой звезды в другом полукруге с юга"
+
+msgid ""
+"The one to the rear again of the latter, and it is a little more to the north"
+msgstr "Та, что сзади, опять же от последней, и она немного севернее"
+
+msgid "The one to the rear again of these, and again it is more to the north"
+msgstr "Та, что позади этих, и опять севернее"
+
+msgid "The star at the end of the opening of this half circle"
+msgstr "Звезда в конце открытия этого полукруга"
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "The bright star of Al-Fakkah"
+msgstr "Яркая звезда аль-Факка"
+
+msgid "The star on the right shoulder by the armpit"
+msgstr "Звезда на правом плече у подмышки"
+
+msgid "The star on the right upper arm"
+msgstr "Звезда на правом плече"
+
+msgid "The star on the right elbow"
+msgstr "Звезда на правом локте"
+
+msgid "The star on the left upper arm"
+msgstr "Звезда на левом плече"
+
+msgid "The rearmost of the three stars in the left wrist"
+msgstr "Самая дальняя из трёх звёзд на левом запястье"
+
+msgid "The star in the right side"
+msgstr "Звезда на правой стороне"
+
+msgid "The star in the left side"
+msgstr "Звезда на левой стороне"
+
+msgid "The one north of the latter, on the left buttock"
+msgstr "Та, что к северу от последней, на левой ягодице"
+
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "Та, что в том месте, где бедро соединяется с той же [ягодицей]"
+
+msgid "The most advanced of the three in the left thigh"
+msgstr "Самый близкая из трех звёзд левого бедра"
+
+msgid "The one to the rear of this"
+msgstr "Та, что позади этой"
+
+msgid "The one yet further to the rear of this"
+msgstr "Та, что еще дальше в задней части этой"
+
+msgid "The star on the left shin on the ankle place"
+msgstr "Звезда на левой голени на месте щиколотки"
+
+msgid "The most advanced of the three stars in the left foot"
+msgstr "Самая близкая из трех звёзд левой ступни"
+
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "Звезда в месте соединения правого бедра [и ягодицы]"
+
+msgid "The star north of it in the same thigh"
+msgstr "Звезда к северу от неё в том же бедре"
+
+msgid "The star on the right knee"
+msgstr "Звезда на правом колене"
+
+msgid "The southernmost of the two stars under the right knee"
+msgstr "Самая южная из двух звёзд под правым коленом"
+
+msgid "The star in the right lower leg"
+msgstr "Звезда в правой голени"
+
+msgid ""
+"The star on the end of the right leg is the same as the ninth star of Bootes "
+"on the tip of the staff, shared by the two constellations"
+msgstr ""
+"Звезда на конце правой ноги такая же, как девятая звезда Волопаса на конце "
+"посоха, общая для двух созвездий"
+
+msgid "The star south of the one in the right upper arm"
+msgstr "Звезда к югу от той, что в правом плече"
+
+msgid "First dog of [southern] shepherd"
+msgstr "Первая овчарка [южного] пастуха"
+
+msgid "The line"
+msgstr "Линия"
+
+msgid ""
+"The bright star on the carrying cloth, called Lyra, and it is the landing "
+"eagle"
+msgstr "Яркая звезда на переноске, называемая Лира, и это приземляющийся орел"
+
+msgid "The northernmost of the two stars lying near the latter, close together"
+msgstr ""
+"Самая северная из двух звёзд, лежащих рядом с последней, близко друг к другу"
+
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr "Та, что позади них, между точками крепления рожков [лиры]"
+
+msgid ""
+"The northernmost of the two stars close together in the region to the east "
+"of the cloth"
+msgstr ""
+"Самая северная из двух звезд близко друг к другу в области к востоку от ткани"
+
+msgid "The northernmost of the two advance stars in the crossbar"
+msgstr "Самая северная из двух ближних звёзд перекладины"
+
+msgid "The northernmost of the two rear stars in the crossbar"
+msgstr "Самая северная из двух задних звёдочек в перекладине"
+
+msgid "The star on the beak"
+msgstr "Звезда в клюве"
+
+msgid "The one to the rear of this, on the head"
+msgstr "Та, что позади этой, на голове"
+
+msgid "The star in the middle of the neck"
+msgstr "Звезда посередине шеи"
+
+msgid "The star in the breast"
+msgstr "Звезда в груди"
+
+msgid "The bright star in the tail"
+msgstr "Яркая звезда в хвосте"
+
+msgid "The star in the bend of the right wing"
+msgstr "Звезда в изгибе правого крыла"
+
+msgid "The southernmost of the three in the right wing-feathers"
+msgstr "Самая южная из трех в правом крыле"
+
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "Самая северная из них, на кончике маховых перьев"
+
+msgid "The star on the bend of the left wing"
+msgstr "Звезда на изгибе левого крыла"
+
+msgid "The star north of this, in the middle of the same wing"
+msgstr "Звезда севернее этой, в середине того же крыла"
+
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "Звезда на кончике пера левого крыла"
+
+msgid "The star on the left leg"
+msgstr "Звезда на левой ноге"
+
+msgid "The more advanced of the two stars in the right leg"
+msgstr "Более близкая из двух звёзд правой ноги"
+
+msgid "The northern star on the right knee"
+msgstr "Северная звезда на правом колене"
+
+msgid "The southernmost of the two stars under the left wing"
+msgstr "Самая южная из двух звёзд под левым крылом"
+
+msgid "The rear knight"
+msgstr "Задний рыцарь"
+
+msgid "The one north of that, on the belt"
+msgstr "Та, что к северу от этой, на поясе"
+
+msgid "The star over the chair, just over the thighs"
+msgstr "Звезда над стулом, чуть выше бедер"
+
+msgid "The star in the knees"
+msgstr "Звезда в коленях"
+
+msgid "The star on the lower leg"
+msgstr "Звезда на голени"
+
+msgid "The star on the end of the leg"
+msgstr "Звезда в конце ноги"
+
+msgid "The star below the left elbow"
+msgstr "Звезда под левым локтем"
+
+msgid "The star on the right forearm"
+msgstr "Звезда на правом предплечье"
+
+msgid "The star above the post of the chair"
+msgstr "Звезда над стойкой стула"
+
+msgid ""
+"The star on the middle of the chair backrest, and it is called The henna "
+"tinted hand"
+msgstr "Звезда посередине спинки стула, и она называется Ручная тонировка хной"
+
+msgid "The star at the end of the chair backrest"
+msgstr "Звезда в конце спинки стула"
+
+msgid "The star on the place between the shoulders"
+msgstr "Звезда на месте между плечами"
+
+msgid "The bright star in the right side"
+msgstr "Яркая звезда в правой части"
+
+msgid "The most advanced of the three stars next to the one in the side"
+msgstr "Самая близкая из трех звёзд рядом со звездочкой сбоку"
+
+msgid "The bright one of the stars in the Gorgon-head"
+msgstr "Яркая из звезд в голове Горгоны"
+
+msgid "The one in advance of the bright star"
+msgstr "Та, что опередила яркую звезду"
+
+msgid "The remaining one, yet again in advance of this"
+msgstr "Оставшаяся, еще раз перед этой"
+
+msgid "The star in the right knee"
+msgstr "Звезда в правом колене"
+
+msgid "The one in advance of this, over the knee"
+msgstr "Та, что выше этой, над коленом"
+
+msgid "The more advanced of the two stars above the bend in the knee"
+msgstr "Более близкая из двух звёзд выше изгиба колена"
+
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "Самая дальняя из них, чуть выше изгиба в колене"
+
+msgid "The star on the right calf"
+msgstr "Звезда на правой икре"
+
+msgid "The star on the right ankle"
+msgstr "Звезда на правой щиколотке"
+
+msgid "The star in the left thigh"
+msgstr "Звезда в левом бедре"
+
+msgid "The star on the left lower leg"
+msgstr "Звезда на левой голени"
+
+msgid "The star on the left heel"
+msgstr "Звезда на левой пятке"
+
+msgid "The one to the rear of this, on the left foot"
+msgstr "Та, что позади этой, на левой ноге"
+
+msgid "The star to the east of the one on the left knee"
+msgstr "Звезда к востоку от той, что на левом колене"
+
+msgid "The star to the north of the one in the right knee"
+msgstr "Звезда к северу от той, что в правом колене"
+
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "Звезда ближе тех, что в голове Горгоны"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The elbow [of Al-Thurayya]"
+msgstr "Локоть [аль-Сурайи]"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Bend of the hand [of Al-Thurayya]"
+msgstr "Локоть [аль-Сурайи]"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Tip of the elbow [of Al-Thurayya]"
+msgstr "Кончик локтя [аль-Сурайи]"
+
+msgid "The caracal (second narrative)"
+msgstr "Каракал (второе повествование)"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The shoulder [of Al-Thurayya]"
+msgstr "Плечо [аль-Сурайи]"
+
+msgid "The southernmost of the two on the head"
+msgstr "Самая южная из двух звёзд на голове"
+
+msgid "The northernmost [of these], over the head"
+msgstr "Самая северная [из них], над головой"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "The star on the left shoulder, called Al-Ayyuq"
+msgstr "Звезда на левом плече, называется аль-Айюк"
+
+msgid "The star on the right wrist"
+msgstr "Звезда на правом запястье"
+
+#. TRANSLATORS: kids here are the baby goats
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'The two "
+"kids'"
+msgstr ""
+"Крайняя из двух звездочек на левом запястье, которые называются «Двое детей»"
+
+msgid "The more advanced of these"
+msgstr "Более близкая из этих"
+
+msgid "The star on the left ankle"
+msgstr "Звезда на левой щиколотке"
+
+msgid ""
+"The star on the right ankle, which is [applied in] common to the northern "
+"horn of Taurus"
+msgstr ""
+"Звезда на правой лодыжке, которую [обычно] относят к северному рогу Тельца"
+
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr "Тот, который к северу от последнего, в нижней  кромке [одежды]."
+
+msgid "The one north again of this, on the buttock"
+msgstr "Та, что к северу от этой, на ягодице"
+
+msgid "The Goat"
+msgstr "Коза"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya Watcher"
+msgstr "Наблюдатель аль-Сурайя"
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Айюк аль-Сурайя"
+
+msgid "The goats owner"
+msgstr "Хозяин коз"
+
+msgid "The more advanced of the two stars on the right shoulder"
+msgstr "Более близкая из двух звёзд на правом плече"
+
+msgid "The more advanced of the two stars on the left shoulder"
+msgstr "Более близкая из двух звёзд на левом плече"
+
+msgid "The more advanced of the two stars in the left hand"
+msgstr "Более близкая из двух звёзд в левой руке"
+
+msgid "The more advanced of the two stars in the right hand"
+msgstr "Более близкая из двух звёзд в правой руке"
+
+msgid "The star on the right lower leg"
+msgstr "Звезда на правой голени"
+
+msgid "The most advanced of the four stars on the right foot"
+msgstr "Самая близкая из четырех звезд на правой ноге"
+
+msgid "The one to the rear again of that"
+msgstr "Та, что позади той"
+
+msgid "The last and rearmost of the four"
+msgstr "Последняя и самая дальняя из 4-х"
+
+msgid "The star to the rear of these, which touches the heel"
+msgstr "Звезда сзади них, которая касается пятки"
+
+msgid "The star in the left knee"
+msgstr "Звезда в левом колене"
+
+msgid ""
+"The northernmost of the three stars in a straight line in the left lower leg"
+msgstr "Самая северная из трех звёзд на прямой линии в левой голени."
+
+msgid "The middle one of these"
+msgstr "Средняя из трёх"
+
+msgid "The southernmost of the three"
+msgstr "Самая южная из трёх"
+
+msgid "The star touching the hollow of the left foot"
+msgstr "Звезда касается впадины левой стопы"
+
+msgid ""
+"The northernmost of the three that are on a straight line, to the east of "
+"the right shoulder"
+msgstr ""
+"Самая северная из трех, находящихся на прямой, к востоку от правого плеча"
+
+msgid "The star to the rear of these three, and over the middle one"
+msgstr "Звезда позади этих трех и над средней"
+
+msgid "The lone star north of these four"
+msgstr "Одинокая звезда к северу от этих четырёх"
+
+msgid "The [southern] shepherd"
+msgstr "[Южный] пастух"
+
+msgid "Second dog of the [southern] shepherd"
+msgstr "Вторая овчарка [южного] пастуха"
+
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr "Звезды на четырехугольнике в голове: та, что на конце челюсти"
+
+msgid "The one touching the nostrils"
+msgstr "Та, что касается ноздрей"
+
+msgid "The one in the temple"
+msgstr "Та, что в храме"
+
+msgid "The one where the neck joins [the head]"
+msgstr "Та, где шея соединяется с [головой]"
+
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "Та, что посередине четырехугольника, во рту"
+
+msgid "The star outside the head, to the north of it"
+msgstr "Звезда вне головы, к северу от нее"
+
+msgid "The one after the first bend in the neck"
+msgstr "Та, что после первого изгиба шеи"
+
+msgid "The northernmost of the three following this"
+msgstr "Самая северная из трех следующих за этой"
+
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr ""
+"Звезда после следующего поворота, который находится впереди левой руки "
+"Змееносца"
+
+msgid "The star to the rear of those in the hand of Ophiuchus"
+msgstr "Звезда сзади тех, кто в руке Змееносца"
+
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "Та, что за задней частью правого бедра Змееносца"
+
+msgid "The southernmost of the two to the rear of the latter"
+msgstr "Самая южная из двух позади последней"
+
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "Та, что после правой руки [Змееносца], на изгибе хвоста"
+
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "Та, что сзади этой, тоже на хвосте"
+
+msgid "The star on the tip of the tail"
+msgstr "Звезда на кончике хвоста"
+
+msgid "The lone star on the arrow-head"
+msgstr "Одинокая звезда на острие стрелы"
+
+msgid "The rearmost of the three stars in the shaft"
+msgstr "Самая дальняя из трёх звёздочек на валу"
+
+msgid "The most advanced of the three"
+msgstr "Самая близкая из 3"
+
+msgid "The star on the end of the notch"
+msgstr "Звезда на конце выемки"
+
+msgid "The star in the middle of the head"
+msgstr "Звезда в середине головы"
+
+msgid "The one in advance of this, on the neck"
+msgstr "Та, что выше этой, в шее"
+
+msgid ""
+"The bright star on the place between the shoulders, called The flying eagle"
+msgstr "Яркая звезда на месте между плечами, называемая Летящим орлом"
+
+msgid "The one close to this towards the north"
+msgstr "Та, что севернее"
+
+msgid "The more advanced of the two in the left shoulder"
+msgstr "Более близкая из двух звёзд в левом плече"
+
+msgid "The more advanced of the two in the right shoulder"
+msgstr "Более близкая из двух звёзд в правом плече"
+
+msgid ""
+"The star some distance under the tail of the eagle, touching the Milky Way"
+msgstr "Звезда на некотором расстоянии под хвостом орла, касаясь Млечного Пути"
+
+msgid "The more advanced of the two stars south of the head of the eagle"
+msgstr "Более близкая из двух звезд к югу от головы орла"
+
+msgid "The star to the south and west of the right shoulder of the eagle"
+msgstr "Звезда к югу и западу от правого плеча орла"
+
+msgid "The one to the south of this"
+msgstr "Та, что к югу от этой"
+
+msgid "The one to the south again of the latter"
+msgstr "Та, что к югу от последней"
+
+msgid "The star most in advance of all"
+msgstr "Звезда впереди всех"
+
+msgid "The most advanced of the three stars in the tail"
+msgstr "Самая близкая из трех звёзд в хвосте"
+
+msgid ""
+"The southernmost one of the two on the advance side of the rhomboid "
+"quadrilateral"
+msgstr "Самая южная из двух на передней стороне ромбовидного четырехугольника"
+
+msgid "The northernmost one on the advance side"
+msgstr "Самая северная звезда на ближней стороне"
+
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "Самая южная звезда на задней стороне ромба"
+
+msgid "The northernmost one on the rear side"
+msgstr "Самая северная звезда на задней стороне"
+
+msgid "The northernmost of the three stars between the tail and the rhombus"
+msgstr "Самая северная из трех звёзд между хвостом и ромбом"
+
+msgid "The more advanced of the two other northern stars"
+msgstr "Более близкая из двух других северных звезд"
+
+msgid "The remaining, rearmost one"
+msgstr "Оставшаяся, самая дальняя"
+
+msgid "The more advanced of the two stars in the head"
+msgstr "Более близкая из двух звезд в голове"
+
+msgid "The more advanced of the two stars in the mouth"
+msgstr "Более близкая из двух звезд во рту"
+
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr "Звезда на пупке, которую [обычно] относят к голове Андромеды"
+
+msgid "The star on the rump and the wing-tip"
+msgstr "Звезда на крупе и кончике крыла"
+
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "Звезда на правом плече и место, где соединяется нога [ее]"
+
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr "Звезда на месте между плечами и плечевой частью крыла"
+
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "Самая северная из двух звёзд в корпусе под крылом"
+
+msgid "The northernmost of the two stars in the right knee"
+msgstr "Самая северная из двух звёзд в правом колене"
+
+msgid "The more advanced of the two stars close together in the chest"
+msgstr "Более близкая из двух близких звезд на груди"
+
+msgid "The more advanced of the two stars close together in the neck"
+msgstr "Более близкая из двух звезд близко друг к другу на шее"
+
+msgid "The southernmost of the two stars on the mane"
+msgstr "Самая южная из двух звезд на гриве"
+
+msgid "The northernmost of the two stars close together on the head"
+msgstr "Самая северная из двух звезд близко друг к другу на голове"
+
+msgid "The star in the muzzle"
+msgstr "Звезда в морде"
+
+msgid "The star in the right hock"
+msgstr "Звезда в правом скакательном суставе"
+
+msgid "The star in the left hock"
+msgstr "Звезда в левом скакательном суставе"
+
+msgid "The star in the place between the shoulders"
+msgstr "Звезда в месте между плечами"
+
+msgid "The star in the right shoulder"
+msgstr "Звезда в правом плече"
+
+msgid "The star in the left shoulder"
+msgstr "Звезда в левом плече"
+
+msgid "The southernmost of the three stars on the right upper arm"
+msgstr "Самая южная из трех звёзд правого плеча"
+
+msgid "The southernmost of the three stars on the right hand"
+msgstr "Самая южная из трех звёзд правой руки"
+
+msgid "The southernmost of the three stars over the girdle"
+msgstr "Самая южная из трех звёзд над поясом"
+
+msgid "The star over the left foot: called the caracal"
+msgstr "Звезда над левой ногой: называется каракал"
+
+msgid "The star in the right foot"
+msgstr "Звезда в правой ноге"
+
+msgid "The one south of the latter"
+msgstr "Та, что к югу от последней"
+
+msgid "The northernmost of the two stars on the left knee-bend"
+msgstr "Самая северная из двух звезд на левом изгибе колена"
+
+msgid "The northernmost of the two stars in the lower hem of the garment"
+msgstr "Самая северная из двух звезд в нижней кромке одежды"
+
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr "Звезда впереди трех в правой руке, снаружи [от нее]"
+
+msgid "Abdomen of the fish"
+msgstr "Живот рыбы"
+
+msgid "The caracal (first narrative)"
+msgstr "Каракал (первое повествование)"
+
+msgid "The star in the apex of the triangle"
+msgstr "Звезда в вершине треугольника"
+
+msgid "The most advanced of the three on the base"
+msgstr "Самая близкая из трех на основании"
+
+msgid "The more advanced of the two stars on the horn"
+msgstr "Более близкая из двух звезд на роге"
+
+msgid "The northernmost of the two stars on the muzzle"
+msgstr "Самая северная из двух звезд на морде"
+
+msgid "The star on the neck"
+msgstr "Звезда на шее"
+
+msgid "The star on the rump"
+msgstr "Звезда на заднице"
+
+msgid "The star on the place where the fatty tail joins [the body]"
+msgstr "Звезда на месте присоединения курдюка [к телу]"
+
+msgid "The most advanced of the three stars in the fatty tail"
+msgstr "Самая близкая из трех звезд курдюка"
+
+msgid "The star in the back of the thigh"
+msgstr "Звезда сзади на бедре"
+
+msgid "The star over the knee-bend"
+msgstr "Звезда над коленом"
+
+msgid "The star on the hind hoof"
+msgstr "Звезда на заднем копыте"
+
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr "Звезда над головой, которая по Гиппарху «та, что на морде»"
+
+msgid "The rearmost, which is brighter of the four stars over the rump"
+msgstr "Самая задняя, более яркая из четырех звезд над крупом"
+
+msgid "The northernmost of the other three, fainter stars"
+msgstr "Самая северная из трех других, более тусклых звезд"
+
+msgid "The middle one of these three"
+msgstr "Средняя из трёх"
+
+msgid "The butting [horn]"
+msgstr "Бодающий [рог]"
+
+msgid "The northernmost of the four stars in the cut-off"
+msgstr "Самая северная из четырех звезд на отрезке"
+
+msgid "The one close by this"
+msgstr "Та, что рядом с этой"
+
+msgid "The one close again to the latter"
+msgstr "Та, что снова близка к последней"
+
+msgid "The southernmost of the four"
+msgstr "Самая южная из 4-х"
+
+msgid "The one to the rear of the latter, on the right shoulder-blade"
+msgstr "Та, что сзади последней, на правой лопатке"
+
+msgid "The star on the right hock"
+msgstr "Звезда на правом скакательном суставе"
+
+msgid ""
+"The one on the nostrils of the stars in the face, resembling the Greek "
+"letter Λ"
+msgstr "Та, что на ноздрях звезд на лице, похожая на греческую букву Λ"
+
+msgid "The one between the latter and the northern eye"
+msgstr "Та, что между последней и северным глазом"
+
+msgid "The one between that latter itself and the southern eye"
+msgstr "Та, что между последней и южным глазом"
+
+msgid ""
+"The bright star of the group of stars resembling the Arabic letter 'dal د', "
+"the reddish one on the southern eye"
+msgstr ""
+"Яркая звезда группы звезд, напоминающая арабскую букву «даль د», красноватая "
+"на южном глазу"
+
+msgid "The remaining one, on the northern eye"
+msgstr "Оставшаяся, на северном глазу"
+
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr "Звезда в том месте, где южный рог и ухо соединяются [с головой]"
+
+msgid "The southernmost of the two stars on the southern horn"
+msgstr "Самая южная из двух звезд южного рога"
+
+msgid "The northernmost of these"
+msgstr "Самая северная из этих"
+
+msgid "The star on the tip of the southern horn"
+msgstr "Звезда на кончике южного рога"
+
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "Звезда на месте соединения северного рога [и головы]"
+
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga"
+msgstr ""
+"Звезда на кончике северного рога, такая же, как и на правой ноге Возничего"
+
+msgid "The northernmost of the two stars close together in the northern ear"
+msgstr "Самая северная из двух звезд близко друг к другу в северном ухе"
+
+msgid "The more advanced of the two small stars in the neck"
+msgstr "Более близкая из двух маленьких звездочек на шее"
+
+msgid ""
+"The southernmost star on the advance side of the four stars forming the "
+"quadrilateral in the neck"
+msgstr ""
+"Самая южная звезда на ближней стороне из четырех звезд, образующих "
+"четырехугольник на шее"
+
+msgid "The northernmost star on the advance side"
+msgstr "Самая северная звезда на ближней стороне"
+
+msgid "The southernmost star on the rear side"
+msgstr "Самая южная звезда на задней стороне"
+
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "Плеяды: северный конец ближней стороны"
+
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "Южный конец ближней стороны [Плеяд]"
+
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "Задний и самый узкий конец [Плеяд]"
+
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "Маленькая звезда за пределами Плеяд, ближе к северу"
+
+msgid "The star under the right foot and the ankle"
+msgstr "Звезда под правой ногой и лодыжкой"
+
+msgid "The most advanced of the three stars over the southern horn"
+msgstr "Более близкая из 3-х звезд над южным рогом"
+
+msgid "The northernmost of the two stars under the tip of the southern horn"
+msgstr "Самая северная из двух звезд под вершиной южного рога"
+
+msgid "The most advanced of the next five stars under the northern horn"
+msgstr "Более близкая из следующих 5-х звезд под северным рогом"
+
+msgid "The one to the rear again of the latter"
+msgstr "Та, что дальше от последней"
+
+msgid "The northernmost of the remaining, rearmost two"
+msgstr "Самая северная из оставшихся, две самых дальних"
+
+msgid "The southernmost of these two"
+msgstr "Самая южная из этих двух"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The follower of Al-Thurayya"
+msgstr "Последователь аль-Сурайи"
+
+#. TRANSLATORS: Al-Mijdah is a proper name meaning the star of rain or the
+#. fork referring to the shape of the Hyades
+msgid "Al-Mijdah"
+msgstr "аль-Миджа"
+
+msgid "The follower"
+msgstr "Последователь"
+
+msgid "The special camel"
+msgstr "Специальный верблюд"
+
+msgid "The star on the head of the advance twin"
+msgstr "Звезда на голове ближнего близнеца"
+
+msgid "The reddish star on the head of the rear twin"
+msgstr "Красноватая звезда на голове дальнего близнеца"
+
+msgid "The star in the left forearm of the advance twin"
+msgstr "Звезда в левом предплечье ближнего близнеца"
+
+msgid "The star in the same [left] upper arm"
+msgstr "Звезда в том же [левом] плече"
+
+msgid "The one to the rear of that, between the shoulders"
+msgstr "Та, что сзади, между плечами"
+
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr "Та, что позади этой, на правом плече того же [ближнего] близнеца"
+
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "Звезда на дальнем плече дальнего близнеца"
+
+msgid "The star on the right side of the advance twin"
+msgstr "Звезда на правой стороне ближнего близнеца"
+
+msgid "The star on the left side of the rear twin"
+msgstr "Звезда на левой стороне дальнего близнеца"
+
+msgid "The star on the left knee of the advance twin"
+msgstr "Звезда на левом колене ближнего близнеца"
+
+msgid "The star in the left side of the rear twin"
+msgstr "Звезда в левом боку дальнего близнеца"
+
+msgid "The star over the left knee of the rear twin"
+msgstr "Звезда над левым коленом дальнего близнеца"
+
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr "Звезда над изгибом правого колена того же [дальнего] близнеца"
+
+msgid "The star in front of the left foot of the advance twin"
+msgstr "Звезда перед левой ногой ближнего близнеца"
+
+msgid "The one to the rear of this on the same foot"
+msgstr "Та, что сзади этой на той же ноге"
+
+msgid "The star on the right foot of the advance twin"
+msgstr "Звезда на правой ноге ближнего близнеца"
+
+msgid "The star on the left foot of the rear twin"
+msgstr "Звезда на левой ноге дальнего близнеца"
+
+msgid "The star on the right foot of the rear twin"
+msgstr "Звезда на правой ноге дальнего близнеца"
+
+msgid "The star in advance of the one in front of the foot of the advance twin"
+msgstr "Звезда впереди той, что перед ногой ближнего близнеца"
+
+msgid "The bright star in advance of the advance knee"
+msgstr "Яркая звезда перед ближним коленом"
+
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "Звезда впереди левого колена дальнего близнеца"
+
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+"Самая северная из трех звезд по прямой линии позади правого плеча дальнего "
+"близнеца"
+
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "Самая южная из них, возле предплечья [правой] руки"
+
+msgid "The bright star to the rear of the above-mentioned three"
+msgstr "Яркая звезда позади вышеупомянутых трех"
+
+msgid ""
+"The northernmost of the two stars in advance of the quadrilateral containing "
+"the nebula"
+msgstr ""
+"Самая северная из двух звезд перед четырехугольником, содержащим туманность"
+
+msgid "The southernmost of the two stars in advance"
+msgstr "Самая южная из двух ближних звезд"
+
+msgid ""
+"The northernmost of the rear two stars on the quadrilateral, which are "
+"called 'Aselli'"
+msgstr ""
+"Самая северная из двух дальних звезд четырехугольника, которые называются "
+"«Аселли»"
+
+msgid "The star on the southern claw"
+msgstr "Звезда на южной клешне"
+
+msgid "The star on the northern claw"
+msgstr "Звезда на северной клешне"
+
+msgid "The star on the northern back leg"
+msgstr "Звезда на северной задней ноге"
+
+msgid "The star on the southern back leg"
+msgstr "Звезда на южной задней ноге"
+
+msgid "The star over the joint in the southern claw"
+msgstr "Звезда над суставом в южной клешне"
+
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "Звезда позади кончика южной клешни"
+
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr "Более близкая из двух звезд над туманностью и позади нее"
+
+msgid "The rearmost of these [two]"
+msgstr "Самая дальняя из этих [двух]"
+
+msgid "The star on the tip of the nostrils"
+msgstr "Звезда на кончике ноздрей"
+
+msgid "The star in the gaping jaws"
+msgstr "Звезда в разинутой пасти"
+
+msgid "The northernmost of the two stars in the head"
+msgstr "Самая северная из двух звезд головы"
+
+msgid "The northernmost of the three stars in the neck"
+msgstr "Самая северная из трех звёзд шеи"
+
+msgid "The one close to this, the middle one of the three"
+msgstr "Та, что рядом с этой, средней из трех"
+
+msgid "The star on the heart, called 'Regulus' and it is the lion heart"
+msgstr "Звезда в сердце (Regulus) и это сердце льва."
+
+msgid "The one south of this, about on the chest"
+msgstr "Та, что к югу от этой, примерно на груди"
+
+msgid "The star a little in advance of the star on the heart"
+msgstr "Звезда чуть ближе звезды на сердце"
+
+msgid "The star on the right front claw-clutch"
+msgstr "Звезда на переднем правом когте"
+
+msgid "The star on the left front claw-clutch"
+msgstr "Звезда на переднем левом когте"
+
+msgid "The star on the left [front] knee"
+msgstr "Звезда на левом [переднем] колене"
+
+msgid "The star on the left armpit"
+msgstr "Звезда в левой подмышке"
+
+msgid "The most advanced of the three stars in the belly"
+msgstr "Самая близкая из трех звёзд живота"
+
+msgid "The northernmost of the other, rearmost two"
+msgstr "Самый северный из двух других, самых дальних"
+
+msgid "The southernmost of these [two]"
+msgstr "Самая южная из них [2]"
+
+msgid "The more advanced of the two stars on the rump"
+msgstr "Более близкая из двух звезд на крупе"
+
+msgid "The northernmost of the two stars in the buttocks"
+msgstr "Самая северная из двух звезд ягодицы"
+
+msgid "The star in the hind thighs"
+msgstr "Звезда в задних бедрах"
+
+msgid "The star in the hind leg-bends"
+msgstr "Звезда в задних ногах"
+
+msgid "The one south of this, about in the lower legs"
+msgstr "Та, что к югу от этой, примерно в голени"
+
+msgid "The star on the hind claw-clutches"
+msgstr "Звезда на задних когтях"
+
+msgid "The star on the end of the tail"
+msgstr "Звезда на конце хвоста"
+
+msgid "The more advanced of the two over the back"
+msgstr "Более близкая из двух звезд спины"
+
+msgid "The northernmost of the three under the flank"
+msgstr "Самая северная из трех под флангом"
+
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+"Самая северная часть туманности между краями Льва и Медведицы [Большой], "
+"называемая Комой [Береники]"
+
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr ""
+
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "Самая дальняя из них в форме листа плюща"
+
+msgid "Star of weather change"
+msgstr "Звезда изменения погоды"
+
+msgid "The southernmost of the two stars in the top of the skull"
+msgstr "Самая южная из двух звезд на макушке черепа"
+
+msgid "The northernmost of the two stars to the rear of these, in the face"
+msgstr "Самая северная из двух звезд позади этих, на лицевой стороне"
+
+msgid "The star on the tip of the southern, left wing"
+msgstr "Звезда на кончике южного, левого крыла"
+
+msgid "The most advanced of the four stars in the left wing"
+msgstr "Самая близкая из четырёх звёзд левого крыла"
+
+msgid "The one to the rear again of this"
+msgstr "Тот, который находится сзади"
+
+msgid "The star in the right side under the girdle"
+msgstr "Звезда с правой стороны под поясом"
+
+msgid "The most advanced of the three stars in the right, northern wing"
+msgstr "Более близкая из 3-х звезд в правом, северном крыле"
+
+msgid "The southernmost of the other two"
+msgstr "Самая южная из 2-х других"
+
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "Самая северная из них, называемая «Виндемиатрикс»"
+
+#. TRANSLATORS: The armless high one is the Arabic name for Spica
+msgid ""
+"The star on the left hand, called 'Spica', and it is The armless high one"
+msgstr ""
+"Звезда по левую руку, называемая \"Спика\", в переводе с арабсокого «симак-"
+"копьеносец»"
+
+msgid "The star under the apron just about over the right buttock"
+msgstr "Звезда под фартуком примерно над правой ягодицей"
+
+msgid ""
+"The northern star on the advance side of the quadrilateral in the left thigh"
+msgstr "Северная звезда на передней стороне четырехугольника на левом бедре"
+
+msgid "The southern star on the advance side"
+msgstr "Южная звезда на ближней стороне"
+
+msgid "The northernmost of the two stars on the rear side"
+msgstr "Самая северная из двух звезд на дальней стороне"
+
+msgid "The star in the back of the right thigh"
+msgstr "Звезда сзади в правом бедре"
+
+msgid "The middle star of the three in the garment-hem round the feet"
+msgstr "Средняя звезда из трех в подоле одежды вокруг ног"
+
+msgid "The star on the left, southern foot"
+msgstr "Звезда слева, южная нога"
+
+msgid "The star on the right, northern foot"
+msgstr "Звезда справа, северная нога"
+
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "Самый близкая из трех по прямой под левым предплечьем"
+
+msgid ""
+"The most advanced of the three stars almost on a straight line under Spica"
+msgstr "Самая близкая из трех звезд почти на прямой под Спикой"
+
+msgid "The middle one of these, which is a double star"
+msgstr "Средняя из них, двойная звезда"
+
+msgid "The brighter one of the two stars on the tip of the southern claw"
+msgstr "Самая яркая из двух звезд на кончике южной клешни"
+
+msgid "The northern one and fainter of the two"
+msgstr "Северная и более тусклая из двух"
+
+msgid "The brighter one of the two stars on the tip of the northern claw"
+msgstr "Более яркая из двух звезд на кончике северного когтя."
+
+msgid "The advanced one and fainter of the two"
+msgstr "Ближняя и более тусклая из двух"
+
+msgid "The star in the middle of the southern claw"
+msgstr "Звезда в середине южной клешни"
+
+msgid "The one in advance of this on the same claw"
+msgstr "Та, кто выше этой на той же клешне"
+
+msgid "The star in the middle of the northern claw"
+msgstr "Звезда в середине северной клешни"
+
+msgid "The one to the rear of this on the same claw"
+msgstr "Та, что сзади этой на той же клешне"
+
+msgid "The most advanced of the three stars north of the northern claw"
+msgstr "Более близкая из 3-х звезд к северу от северной клешни"
+
+msgid "The southernmost of the rearmost two [of these]"
+msgstr "Самый южный из двух задних [из этих]"
+
+msgid "The rearmost of the three stars between the claws"
+msgstr "Самая дальняя из трёх звёзд между клешнями"
+
+msgid "The northernmost of the other two in advance [of the latter]"
+msgstr "Самый северный из двух других впереди [последнего]"
+
+msgid "The most advanced of the three stars south of the southern claw"
+msgstr "Более близкая из 3-х звезд к югу от южной клешни"
+
+msgid "The northernmost of the other, rear two"
+msgstr "Самый северный из других, задних двух"
+
+msgid "The northernmost of the three bright stars in the forehead"
+msgstr "Самая северная из 3-х ярких звёзд во лбу"
+
+msgid "The star south again of this, on one of the legs"
+msgstr "Та, что к югу от этой, на ногах"
+
+msgid ""
+"The northernmost of the two stars adjacent to the northernmost of the three "
+"bright ones"
+msgstr ""
+"Самая северная из двух звезд, примыкающая к самой северной из трех ярких"
+
+msgid "The most advanced of the three bright stars in the body"
+msgstr "Самая близкая из трех ярких звёзд в теле"
+
+msgid ""
+"The middle one of these, which is reddish and called 'Heart of the scorpion'"
+msgstr "Средняя из них, красноватая и называется «Сердце скорпиона»"
+
+msgid "The advance star of the two under these, approximately on the last legs"
+msgstr ""
+
+msgid "The rearmost of these"
+msgstr "Самая дальняя из этих"
+
+msgid "The star in the first tail-joint from the body"
+msgstr "Звезда в первом хвостовом суставе от корпуса"
+
+msgid "The one after this, in the second joint"
+msgstr "Та, что после этой, во втором суставе"
+
+msgid "The northern star of the double-star in the third joint"
+msgstr "Северная звезда двойной звезды в третьем суставе"
+
+msgid "The southern star of the double-star"
+msgstr "Южная звезда двойной звезды"
+
+msgid "The one following, in the forth joint"
+msgstr "Следующая, в четвертом суставе"
+
+msgid "The one after that, in the fifth joint"
+msgstr "Та, что после этой, в пятом суставе"
+
+msgid "The next one again, in the sixth joint"
+msgstr "Следующая снова, в шестом суставе"
+
+msgid "The star in the seventh joint, the joint next to the sting"
+msgstr "Звезда в седьмом суставе, сустав рядом с жалом"
+
+msgid "The rearmost of the two stars in the sting"
+msgstr "Самая задняя из двух звезд в жале"
+
+msgid "The nebulous star to the rear of the sting"
+msgstr "Туманная звезда позади жала"
+
+msgid "The most advanced of the two stars to the north of the sting"
+msgstr "Самая близкая из двух звезд к северу от жала"
+
+msgid "The star on the point of the arrow"
+msgstr "Звезда на конце стрелы"
+
+msgid "The star in the bow-grip held by the left hand"
+msgstr "Звезда в рукоятке лука, которую держит левая рука"
+
+msgid "The star in the southern portion of the bow"
+msgstr "Звезда в южной части лука"
+
+msgid "The southernmost of the two stars in the northern portion of the bow"
+msgstr "Самая южная из двух звезд в северной части лука"
+
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "Самая северная из них, на кончике лука"
+
+msgid "The one in advance of this, on the arrow"
+msgstr "Та, что впереди этой, на стреле"
+
+msgid "The star on the eye, which is nebulous and double"
+msgstr "Звезда на глазу, туманная и двойная"
+
+msgid "The most advanced of the three stars in the head"
+msgstr "Самая близкая из трех звёзд в голове"
+
+msgid "The southernmost of the three stars in the northern cloak-attachment"
+msgstr ""
+
+msgid "The faint star to the rear of these three"
+msgstr "Слабая звезда позади этих трех"
+
+msgid "The northernmost of the two stars on the southern cloak-attachment"
+msgstr ""
+
+msgid "The one between the shoulders of the three stars in the back"
+msgstr "Та, что между плечами трех звезд спины"
+
+msgid "The middle one, on the shoulder-blade"
+msgstr "Средняя, на лопатке"
+
+msgid "The other one, under the armpit"
+msgstr "Другая, под мышкой"
+
+msgid "The star on the front left hock"
+msgstr "Звезда на переднем левом скакательном суставе"
+
+msgid "The one on the knee of the same leg"
+msgstr "Та, что на колене той же ноги"
+
+msgid "The star on the front right hock"
+msgstr "Звезда на переднем правом скакательном суставе"
+
+msgid "The star on the left thigh"
+msgstr "Звезда на левом бедре"
+
+msgid "The star on the right hind lower leg"
+msgstr "Звезда на правой задней голени"
+
+msgid ""
+"The advance star on the northern side of the four stars [forming a "
+"quadrilateral] in the place where the tail joins [the body]"
+msgstr ""
+
+msgid "The rear star on the northern side"
+msgstr "Дальняя звезда на северной стороне"
+
+msgid "The advance star on the southern side"
+msgstr "Ближняя звезда на южной стороне"
+
+msgid "The rear star on the southern side"
+msgstr "Дальняя звезда на южной стороне"
+
+msgid "The northernmost of the three stars in the rear horn"
+msgstr "Самая северная из трех звезд в дальнем роге"
+
+msgid "The star on the tip of the advance horn"
+msgstr "Звезда на кончике переднего рога"
+
+msgid "The southernmost of the three stars in the muzzle"
+msgstr "Самая южная из трех звезд на морде"
+
+msgid "The more advanced of the other two"
+msgstr "Самая близкая из двух других"
+
+msgid "The star in advance of the three, under the right eye"
+msgstr "Звезда впереди трех, под правым глазом"
+
+msgid "The northernmost of the two stars in the neck"
+msgstr "Самая северная из двух звезд в шее"
+
+msgid "The star under the right knee"
+msgstr "Звезда под правым коленом"
+
+msgid "The star on the left, doubled-up knee"
+msgstr "Звезда слева, сдвоенное колено"
+
+msgid "The more advanced of the two stars close together under the belly"
+msgstr "Более близкая из двух звезд близко друг к другу под животом"
+
+msgid "The rearmost of the three stars in the middle of the body"
+msgstr "Самая дальняя из трёх звёзд в середине тела"
+
+msgid "The fainter of the other, advance two"
+msgstr ""
+
+msgid "The more advanced of the two stars in the back"
+msgstr "Более близкая из двух звезд спины"
+
+msgid "The more advanced of the two stars in the southern spine"
+msgstr "Более продвинутая из двух звезд южного хребта"
+
+msgid ""
+"The more advanced of the two stars in the section [of the body] next to the "
+"tail"
+msgstr ""
+
+msgid "The most advanced of the four stars on the northern portion of the tail"
+msgstr ""
+
+msgid "The southernmost of the other three"
+msgstr "Самая южная из 3-х других"
+
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "Самая северная из них, на кончике хвостового плавника"
+
+msgid "The sheep of the lucky star of the slaughterer"
+msgstr ""
+
+msgid "The star on the head of Aquarius"
+msgstr "Звезда на голове Водолея"
+
+msgid "The brighter of the two stars in the right shoulder"
+msgstr "Более яркая из двух звёзд в правом плече"
+
+msgid "The fainter one, under it"
+msgstr "Более тусклая, под ней"
+
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr "Та, что под этой, сзади, примерно под мышкой"
+
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr "Самая дальняя из трёх звёзд в левой руке, на шерсти"
+
+msgid "The star in the right forearm"
+msgstr "Звезда в правом предплечье"
+
+msgid "The northernmost of the three stars on the right hand"
+msgstr "Самая северная из трех звёзд правой руки"
+
+msgid "The more advanced of the other two to the south"
+msgstr "Более близкая из двух звезд к югу"
+
+msgid ""
+"The more advanced of the two stars close together in the hollow of the right "
+"hip"
+msgstr ""
+
+msgid "The star on the right buttock"
+msgstr "Звезда на правой ягодице"
+
+msgid "The southernmost of the two stars in the left buttock"
+msgstr "Самая южная из двух звезд левой ягодицы"
+
+msgid "The southernmost of the two stars in the right lower leg"
+msgstr "Самая южная из двух звезд на правой голени"
+
+msgid "The northernmost of them, under the knee-bend"
+msgstr "Самая северная из них, под сгибом колена"
+
+msgid "The star in the back of the left thigh"
+msgstr "Звезда сзади в левом бедре"
+
+msgid "The southernmost of the two stars in the left lower leg"
+msgstr "Самая южная из двух звезд на левой голени"
+
+msgid "The northernmost of these, under the knee"
+msgstr "Самая северная из них, под коленом"
+
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr ""
+
+msgid "The one next to the latter towards the south"
+msgstr "Та, что рядом с последней к югу"
+
+msgid "The one next to this, after [the beginning of] the water bend"
+msgstr "Та, что рядом с этой, после [начала] изгиба воды"
+
+msgid "The one in the bend to the south of this"
+msgstr "Та, что в изгибе к югу от этой"
+
+msgid "The northernmost of the two stars to the south of this"
+msgstr "Самая северная из двух звезд к югу от этой"
+
+msgid "The southernmost of the two"
+msgstr "Самая южная из двух"
+
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "Одинокая звезда на некотором расстоянии от этих [двух] к югу"
+
+msgid "The more advanced of the two stars close together after the latter"
+msgstr "Более близкая из двух звезд близко друг к другу после последней"
+
+msgid "The northernmost of the three stars in the next bend group"
+msgstr "Самая северная из трех звезд в следующей группе изгиба"
+
+msgid "The northernmost of the next three [arranged] likewise"
+msgstr "Самая северная из следующих трех [расположенных] аналогично"
+
+msgid "The most advanced of the three stars in the remaining bend group"
+msgstr "Самая близкая из трех звезд в оставшейся группе изгибов"
+
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr "Звезда в конце воды и во рте Южной Рыбы"
+
+msgid ""
+"The most advanced of the three stars to the rear of the bend in the water"
+msgstr "Самая близкая из трех звезд в задней части изгиба в воде"
+
+msgid "The first frog"
+msgstr "Первая лягушка"
+
+msgid "The male ostrich"
+msgstr "Страус-самец"
+
+msgid "The star in the mouth of the advance fish"
+msgstr "Звезда во рту ближней рыбы"
+
+msgid "The southernmost of the two stars in the top of its head"
+msgstr "Самая южная из двух звезд на макушке головы"
+
+msgid "The more advanced of the two stars in the belly"
+msgstr "Более близкая из двух звезд в животе"
+
+msgid "The star in the tail of the same [advance] fish"
+msgstr "Звезда в хвосте той же [ближней] рыбы"
+
+msgid "The first after the tail of the stars forming its fishing-line"
+msgstr "Первая после хвоста звезды образующая леску"
+
+msgid "The most advanced of the three following stars"
+msgstr "Самая близкая из трех следующих звезд"
+
+msgid "The northernmost of the two small stars under these, in the bend"
+msgstr "Самая северная из двух маленьких звезд под ними, в изгибе"
+
+msgid "The most advanced of the three stars after the bend"
+msgstr "Самая близкая из трех звезд после изгиба"
+
+msgid "The star on the knot joining the two fishing-lines"
+msgstr "Звезда на узле, соединяющем две лески"
+
+msgid ""
+"The first in the section beginning at the knot of the stars in the northern "
+"fishing-line"
+msgstr ""
+
+msgid "The southernmost of the three stars following after that"
+msgstr "Самая южная из трех следующих за ней звезд"
+
+msgid "The northernmost of the three, which is also on the end of the tail"
+msgstr "Самая северная из трех, также находящихся на конце хвоста"
+
+msgid "The northernmost of the two stars in the mouth of the rear fish"
+msgstr "Самая северная из двух звезд во рту дальней рыбы"
+
+msgid "The rearmost of the three small stars in the head"
+msgstr "Самая дальняя из трех маленьких звезд в голове"
+
+msgid ""
+"The most advanced of the three stars on the spine in the back, following [i."
+"e. to the rear of] the star on the elbow of Andromeda"
+msgstr ""
+"Самая развитая из трех звезд на позвоночник, следующая сзади [т.е. сзади] "
+"звезды на локте Андромеды"
+
+msgid "The northernmost of the two stars in the belly"
+msgstr "Самая северная из двух звезд в животе"
+
+msgid "The star in the rear spine, near the tail"
+msgstr "Звезда в задней части позвоночника, возле хвоста"
+
+msgid ""
+"The more advanced of the two northern stars of the quadrilateral under the "
+"advance fish"
+msgstr ""
+"Самая близкая из двух северных звезд четырехугольника под ближней рыбой"
+
+msgid "The more advanced star on the southern side"
+msgstr "Самая близкая звезда на южной стороне"
+
+msgid "The rearmost one on the southern side"
+msgstr "Самая дальняя звезда на южной стороне"
+
+msgid "The rearmost, on the end of the jaw of the three stars in the snout"
+msgstr "Самый дальняя, на конце челюсти из трех звезд рыла"
+
+msgid "The middle one, in the middle of the mouth"
+msgstr "Средняя, в середине рта"
+
+msgid "The most advanced of the three, on the cheek"
+msgstr "Самая близкая из тройки, в щеке"
+
+msgid "The star on the eyebrow and the eye"
+msgstr "Звезда на брови и глазу"
+
+msgid "The one to the north of this, about on the hair"
+msgstr "Та, что к северу от этой, примерно на волосах"
+
+msgid "The one in advance of these, about on the mane"
+msgstr "Та, что ближе этих, на гриве"
+
+msgid ""
+"The northernmost star on the advance side of the quadrilateral in the chest"
+msgstr "Самая северная звезда на передней стороне четырехугольника на груди"
+
+msgid "The southernmost one on the advance side"
+msgstr "Самая южная звезда на ближней стороне"
+
+msgid "The southernmost one on the rear side"
+msgstr "Самый южный с тыльной стороны"
+
+msgid "The midmost of the three stars in the body"
+msgstr "Самая средняя из трех звезд в теле."
+
+msgid "The rearmost of the two stars by the section next to the tail"
+msgstr ""
+
+msgid ""
+"The northernmost star on the rear side of the quadrilateral in the section "
+"next to the tail"
+msgstr ""
+
+msgid ""
+"The one on the northern tail-fin of the two stars at the ends of the tail-"
+"fins"
+msgstr ""
+
+msgid "The one on the end of the southern tail-fin"
+msgstr "Та, что на конце южного хвостового плавника."
+
+msgid "The second frog"
+msgstr "Вторая лягушка"
+
+msgid "The nebulous star in the head of Orion, the three close stars"
+msgstr "Туманная звезда в голове Ориона, три близкие звезды"
+
+msgid "The bright, reddish star on the right shoulder"
+msgstr "Яркая красноватая звезда на правом плече"
+
+msgid "The one under this to the rear"
+msgstr "Тот, что под этим, сзади"
+
+msgid ""
+"The rear, double star on the southern side of the quadrilateral in the right "
+"hand"
+msgstr ""
+
+msgid "The rear one on the northern side"
+msgstr "Дальняя [звезда] на северной стороне"
+
+msgid "The advance one on the northern side"
+msgstr "Ближняя [звезда] на северной стороне"
+
+msgid "The more advanced of the two stars in the staff"
+msgstr ""
+
+msgid ""
+"The rearmost of the four stars almost on a straight line just over the back"
+msgstr "Самая дальняя из четырех звезд почти на прямой линии прямо над спиной"
+
+msgid "The one in advance again of this"
+msgstr ""
+
+msgid "The last and most advanced of the four"
+msgstr "Последняя и самая близкая из 4-х"
+
+msgid "The northernmost of the nine stars in the pelt on the left arm"
+msgstr "Самая северная из девяти звезд в шкуре на левой руке"
+
+msgid "The second from the northernmost"
+msgstr "2-я от самой северной"
+
+msgid "The third from the northernmost"
+msgstr "3-я от самой северной"
+
+msgid "The fourth from the northernmost"
+msgstr "4-я от самой северной"
+
+msgid "The fifth from the northernmost"
+msgstr "5-я от самой северной"
+
+msgid "The sixth from the northernmost"
+msgstr "6-я от самой северной"
+
+msgid "The seventh from the northernmost"
+msgstr "7-я от самой северной"
+
+msgid "The eighth from the northernmost"
+msgstr "8-я от самой северной"
+
+msgid "The last and southernmost of those in the pelt"
+msgstr "Последняя и самая южная из тех, что на шкуре"
+
+msgid "The most advanced of the three stars on the belt"
+msgstr "Самая близкая из трех звёзд на поясе"
+
+msgid "The star near the handle of the dagger"
+msgstr "Звезда возле рукояти кинжала"
+
+msgid ""
+"The northernmost of the three stars joined together at the tip of the dagger"
+msgstr "Самая северная из трёх звёзд, соединенных вместе на кончике кинжала"
+
+msgid "The rearmost of the two stars under the tip of the dagger"
+msgstr "Самая дальняя из двух звёзд под кончиком кинжала"
+
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr ""
+
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr "Звезда к северу от нее в голени над голеностопным суставом"
+
+msgid "The star under the left heel, outside"
+msgstr "Звезда под левой пяткой, снаружи"
+
+msgid "The star under the right, rear knee"
+msgstr "Звезда под правым, задним коленом"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shoulder of Al-Jawza"
+msgstr "Плечо аль-Джаузы"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Hand of Al-Jawza"
+msgstr "Рука аль-Джаузы"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shepherd of Al-Jawza"
+msgstr "Овчарка аль-Джаузы"
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr "аль-Наджид"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+#. TRANSLATORS: Al-Mirzam is a proper name
+msgid "Al-Mirzam"
+msgstr "аль-Мирзам"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Leg of Al-Jawza"
+msgstr "Нога аль-Джаузы"
+
+msgid ""
+"The star after the one in the foot of Orion, at the beginning of the river"
+msgstr "Звезда после той, что у ноги Ориона, в истоке реки"
+
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr "Та, что к северу от этой, на изгибе возле голени Ориона"
+
+msgid "The rearmost of the two stars next in order after this"
+msgstr "Самая дальняя из двух звезд следующая по порядку после этой"
+
+msgid "The rearmost of the next two in order again"
+msgstr "Самый дальняя из следующих двух по порядку снова"
+
+msgid "The rearmost of the three stars after this"
+msgstr "Самая дальняя из трёх звёзд после этой"
+
+msgid "The rearmost of the four stars in the next interval"
+msgstr "Самая дальняя из четырех звезд в следующем промежутке"
+
+msgid "The most advanced of the four"
+msgstr "Самая близкая из четырех"
+
+msgid "The rearmost of the four stars in the next likewise interval again"
+msgstr ""
+"Самая дальняя из четырех звезд в следующем аналогичном промежутке снова"
+
+msgid ""
+"The first star in the bend of the river, which touches the chest of Cetus"
+msgstr "Первая звезда в излучине реки, которая касается груди Кита"
+
+msgid "The most advanced of the next consecutive three"
+msgstr "Самая близкая из следующих трех подряд"
+
+msgid ""
+"The northern one on the advance side of the next four stars, nearly forming "
+"a trapezium"
+msgstr ""
+
+msgid "The southernmost on the advance side"
+msgstr "Самая южная на ближней стороне"
+
+msgid "The more advanced one on the rear side"
+msgstr "Более близкая на дальней стороне"
+
+msgid "The last of the four, the rear one on that side"
+msgstr "Последняя из 4, задняя с той стороны"
+
+msgid ""
+"The northernmost of the two stars close together at some distance to the east"
+msgstr "Самая северная из двух близких звезд на некотором расстоянии к востоку"
+
+msgid "The rearmost of the next two stars after the bend"
+msgstr "Самая дальняя из следующих 2 звезд после изгиба"
+
+msgid "The rearmost of the three stars in the next interval"
+msgstr "Самая дальняя из трех звезд в следующем промежутке"
+
+msgid "The last star of the river, the bright one, called 'The male ostrich'"
+msgstr ""
+
+msgid ""
+"The northern star on the advance side of the quadrilateral just over the ears"
+msgstr "Северная звезда на передней стороне четырехугольника чуть выше ушей"
+
+msgid "The northern star on the rear side"
+msgstr "Северная звезда на задней стороне"
+
+msgid "The southern star on the rear side"
+msgstr "Южная звезда на задней стороне"
+
+msgid "The star in the chin"
+msgstr "Звезда на подбородке"
+
+msgid "The star on the left front foot"
+msgstr "Звезда на левой [передней] ступне"
+
+msgid "The star in the middle of the body"
+msgstr "Звезда в середине тела"
+
+msgid "The star under the belly"
+msgstr "Звезда под животом"
+
+msgid "The northernmost of the two stars in the hind legs"
+msgstr "Самая северная из двух звезд на задних лапах"
+
+msgid "CMa_1"
+msgstr "CMa_1"
+
+msgid "CMa_2"
+msgstr "CMa_2"
+
+msgid "CMa_3"
+msgstr "CMa_3"
+
+msgid "CMa_4"
+msgstr "CMa_4"
+
+msgid "CMa_5"
+msgstr "CMa_5"
+
+msgid "CMa_6"
+msgstr "CMa_6"
+
+msgid "CMa_7"
+msgstr "CMa_7"
+
+msgid "CMa_8"
+msgstr "CMa_8"
+
+msgid "CMa_9"
+msgstr "CMa_9"
+
+msgid "CMa_10"
+msgstr "CMa_10"
+
+msgid "CMa_11"
+msgstr "CMa_11"
+
+msgid "CMa_12"
+msgstr "CMa_12"
+
+msgid "CMa_13"
+msgstr "CMa_13"
+
+msgid "CMa_14"
+msgstr "CMa_14"
+
+msgid "CMa_15"
+msgstr "CMa_15"
+
+msgid "CMa_16"
+msgstr "CMa_16"
+
+msgid "CMa_17"
+msgstr "CMa_17"
+
+msgid "CMa_18"
+msgstr "CMa_18"
+
+msgid "CMa_a_01"
+msgstr "CMa_a_01"
+
+msgid "CMa_a_02"
+msgstr "CMa_a_02"
+
+msgid "CMa_a_03"
+msgstr "CMa_a_03"
+
+msgid "CMa_a_04"
+msgstr "CMa_a_04"
+
+msgid "CMa_a_05"
+msgstr "CMa_a_05"
+
+msgid "CMa_a_06"
+msgstr "CMa_a_06"
+
+msgid "CMa_a_07"
+msgstr "CMa_a_07"
+
+msgid "CMa_a_08"
+msgstr "CMa_a_08"
+
+msgid "CMa_a_09"
+msgstr "CMa_a_09"
+
+msgid "CMa_a_10"
+msgstr "CMa_a_10"
+
+msgid "CMa_a_11"
+msgstr "CMa_a_11"
+
+#. TRANSLATORS: Shi'raa is the Arabic proper name of Sirius
+msgid ""
+"The star in the mouth, with utmost brightness, which is called 'the Dog' and "
+"'Southern or crossing Shi'raa'"
+msgstr ""
+
+msgid "The star on the ears"
+msgstr "Звезда на ушах"
+
+msgid "The star on the chest"
+msgstr "Звезда на груди"
+
+msgid "The northernmost of the two stars on the right knee"
+msgstr "Самая северная из двух звёзд на правом колене"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+msgid "The star on the end of the front leg, called 'Al-Mirzam'"
+msgstr "Звезда на конце передней лапы, называется аль-Мирзам"
+
+msgid "The more advanced of the two stars in the left knee"
+msgstr "Более близкая из двух звёзд в левом колене"
+
+msgid "The rearmost of the two stars in the left shoulder"
+msgstr "Более близкая из двух звёзд в левом плече"
+
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "Звезда на месте присоединения левого бедра с [телом]"
+
+msgid "The star below the belly, in the place between the thighs"
+msgstr "Звезда ниже живота, между бедрами"
+
+msgid "The star on the joint of the right leg"
+msgstr "Звезда на суставе правой ноги"
+
+msgid "The star on the end of the right leg"
+msgstr "Звезда на конце правой ноги"
+
+msgid "The star on the tail"
+msgstr "Звезда на хвосте"
+
+msgid "The star to the north of the top of the dog skull"
+msgstr "Звезда к северу от верха собачьего черепа"
+
+msgid ""
+"The southernmost of the four stars almost on a straight line under the hind "
+"legs"
+msgstr "Самая южная из четырех звезд почти на прямой линии под задними лапами"
+
+msgid "The one north of this"
+msgstr "Та, что к северу от этой"
+
+msgid "The last and northernmost of the four"
+msgstr "Последняя и самая северная из 4-х"
+
+msgid ""
+"The most advanced of the three stars almost on a straight line to the west "
+"of the [above] four"
+msgstr ""
+
+msgid "The rearmost of the two bright stars under these"
+msgstr "Самая дальняя из двух ярких звёзд под этой"
+
+msgid "The last star, to the south of the above"
+msgstr "Последняя звезда, к югу от верхней"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa that crossed [the milky way]"
+msgstr ""
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa"
+msgstr "Мирзам из Шийра"
+
+msgid "The dog"
+msgstr "Пёс"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder.
+msgid "The star in the neck, called Al-Mirzam"
+msgstr "Звезда на шее, называется аль-Мирзам"
+
+#. TRANSLATORS: The northern Shi'raa or tearfull Shi'raa is a proper arabic
+#. name for Procyon.
+msgid ""
+"The bright star just over the hindquarters, called 'The northern or tearfull "
+"Shi'raa'"
+msgstr ""
+
+msgid "The more advanced of the two stars at the end of the ship"
+msgstr "Более близкая из двух звезд в конце корабля"
+
+msgid ""
+"The northernmost of the two stars close together over the little shield in "
+"the poop"
+msgstr ""
+
+msgid "The star in advance of these"
+msgstr "Звезда впереди этих"
+
+msgid "The bright star in the middle of the little shield"
+msgstr "Яркая звезда в центре маленького щита"
+
+msgid "The most advanced of the three stars under the little shield"
+msgstr "Самая близкая из трех звезд под щитком"
+
+msgid "The star on the stern neck"
+msgstr "Звезда на суровой шее"
+
+msgid ""
+"The northernmost of the two stars in the sternpost on which are the two "
+"stern cabins"
+msgstr ""
+"Самая северная из двух звезд в ахтерштевне, на котором две кормовые каюты"
+
+msgid "The northernmost of the stars in the poop-deck"
+msgstr "Самая северная из звезд на юте"
+
+msgid "The most advanced of the next three"
+msgstr "Самая близкая из следующих 3"
+
+msgid "The bright star on the deck to the rear of these"
+msgstr "Яркая звезда на палубе позади этих"
+
+msgid "The more advanced of the two faint stars under the bright one"
+msgstr "Более близкая из двух тусклых звёзд под яркой"
+
+msgid "The more advanced of the two stars over the above-mentioned bright one"
+msgstr "Более близкая из двух звезд по сравнению с вышеупомянутой яркой"
+
+msgid ""
+"The northernmost of the three stars on the little shields, about on the mast-"
+"holder"
+msgstr "Самая северная из трех звезд на щитках, примерно на держателе мачты"
+
+msgid "The northernmost of the two stars close together under these"
+msgstr "Самая северная из двух звезд близко друг к другу под этими"
+
+msgid "The southernmost of the two stars in the middle of the mast"
+msgstr "Самая южная из двух звезд в середине мачты"
+
+msgid "The more advanced of the two stars by the tip of the mast"
+msgstr "Более близкая из двух звезд на кончике мачты"
+
+msgid "The star below the three rear little shield"
+msgstr "Звезда под тремя задними щитками"
+
+msgid "The star on the cut-off of the deck"
+msgstr "Звезда на срезе колоды"
+
+msgid "The star between the steering-oars in the keel"
+msgstr "Звезда между рулевыми веслами в киле"
+
+msgid "The faint star to the rear of this"
+msgstr "Слабая звезда позади этой"
+
+msgid "The bright star to the rear of this, under the deck"
+msgstr "Яркая звезда позади этой, под палубой"
+
+msgid "The bright star to the south of this, on the sternpost"
+msgstr "Яркая звезда южнее этой, на ахтерштевне"
+
+msgid "The most advanced of the three stars to the rear of this"
+msgstr "Самая близкая из трех звезд позади этой"
+
+msgid ""
+"The more advanced of the two stars to the rear of these, near the cut-off of "
+"the deck"
+msgstr "Более близкая из двух звезд позади них, у среза палубы"
+
+msgid ""
+"The more advanced of the two stars in the northern, advance steering-oar"
+msgstr "Более близкая из двух звезд на севере, опережает рулевое весло"
+
+#. TRANSLATORS: Suhayl is the Arabic proper name of Canopus
+msgid ""
+"The more advanced of the two stars in the other steering-oar, called "
+"Canopus, and it is Suhayl"
+msgstr ""
+
+msgid "The other, rearmost star"
+msgstr "Другая, самая дальняя звезда"
+
+msgid ""
+"The southernmost of the two advance ones, which is on the nostrils of the "
+"five stars in the head"
+msgstr ""
+
+msgid "The northernmost of these two, which is above the eye"
+msgstr "Самая северная из этих двух, которая над глазом"
+
+msgid ""
+"The northernmost of the two to the rear of these, which is about on the skull"
+msgstr "Самая северная из двух позади них, примерно на черепе"
+
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "Самая южная из них, на разинутой пасти"
+
+msgid "The rearmost of all, about on the chin"
+msgstr "Самая дальняя, примерно на подбородке"
+
+msgid ""
+"The more advanced of the two stars in the place where the neck joins [the "
+"head]"
+msgstr "Более  близкая из двух звезд в месте соединения шеи с [головой]"
+
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "Средняя звезда из следующих трех в изгибе шеи"
+
+msgid "The faint, northernmost star of the two close together to the south"
+msgstr "Слабая, самая северная звезда из двух близких к югу"
+
+#. TRANSLATORS: Al-Fard is a proper name meaning the lone star
+msgid "The bright one of these two close stars, called Al-Fard"
+msgstr "Яркая из этих двух близких звезд, называется аль-Фард"
+
+msgid ""
+"The most advanced of the three stars to the rear, after the bend [in the "
+"neck]"
+msgstr "Самая близкая из трех звезд позади, после изгиба [в шее]"
+
+msgid "The most advanced of the next three stars almost on a straight line"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars after these, as it were in a triangle"
+msgstr ""
+
+msgid "The middle and southernmost one"
+msgstr "Средняя и самая южная"
+
+msgid "The star after Corvus, in the section by the tail"
+msgstr "Звезда после Ворона, в разрезе у хвоста"
+
+msgid "The star to the south of the head"
+msgstr "Звезда к югу от головы"
+
+msgid "The star some distance to the rear of those in the neck"
+msgstr "Звезда на некотором удалении от тех, что на шее"
+
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr "Звезда в основании чаши, которую [обычно] относят к Гидре"
+
+msgid "The southernmost of the two stars in the middle of the bowl"
+msgstr "Самая южная из двух звезд в середине чаши"
+
+msgid "The star on the southern rim of the mouth"
+msgstr "Звезда на южном краю рта"
+
+msgid "The star on the northern rim"
+msgstr "Звезда на северном краю"
+
+msgid "The star on the southern handle"
+msgstr "Звезда на южной ручке"
+
+msgid "The star on the northern handle"
+msgstr "Звезда на северной ручке"
+
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "Звезда в клюве, которую [обычно] относят к Гидре"
+
+msgid "The star in the neck, by the head"
+msgstr "Звезда на шее, на голове"
+
+msgid "The star in the advance, right wing"
+msgstr "Ближняя звезда, правое крыло"
+
+msgid "The more advanced of the two stars in the rear wing"
+msgstr "Более близкая из двух звёзд в заднем крыле"
+
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr "Звезда на конце ноги, которую [обычно] относят к Гидре"
+
+msgid "The southernmost of the four stars in the head"
+msgstr "Самая южная из 4-х звёзд в голове"
+
+msgid "The more advanced of the other, middle two"
+msgstr "Более близкая из остальных, средняя из двух"
+
+msgid "The rearmost of these, the last of the four"
+msgstr "Самая дальняя из них, последняя из 4-х"
+
+msgid "The star on the left, advance shoulder"
+msgstr "Звезда на левом, ближнем плече"
+
+msgid "The star on the left shoulder-blade"
+msgstr "Звезда на левой лопатке"
+
+msgid "The northernmost of the advance two of the four stars in the thyrsus"
+msgstr "Самая северная из передних двух из четырех звезд тирса"
+
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr "Та из двух других, что находится на кончике тирса"
+
+msgid "The last one, south of the latter"
+msgstr "Последняя, к югу от последней"
+
+msgid "The most advanced of the three stars in the right side"
+msgstr "Более близкая из 3-х звёзд на правой стороне"
+
+msgid "The star in the right hand"
+msgstr "Звезда в правой руке"
+
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr "Яркая звезда в месте соединения человеческого тела [и лошадиного]"
+
+msgid "The rearmost of the two faint stars to the north of this"
+msgstr "Самая дальняя из 2-х тусклых звезд на северном от этой"
+
+msgid "The star in advance of this, on the horse's back"
+msgstr "Звезда ближе этой, на спине коня"
+
+msgid "The rearmost of the stars on the rump"
+msgstr "Самая дальняя из звезд на крупе"
+
+msgid "The more advanced of the two stars close together on the right thigh"
+msgstr "Более близкая из двух звезд расположена рядом на правом бедре."
+
+msgid "The star in the chest, under the horse's armpit"
+msgstr "Звезда на груди, под конской подмышкой"
+
+msgid "The more advanced of the two stars under the belly"
+msgstr "Более близкая из двух звезд под животом"
+
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "Звезда на коленном сгибе правой [задней] ноги"
+
+msgid "The star in the hock of the same leg"
+msgstr "Звезда в скакательном суставе той же ноги"
+
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr ""
+
+msgid "The star on the frog of the hoof on the same leg"
+msgstr ""
+
+msgid "The star on the end of the right front leg"
+msgstr "Звезда на конце правой передней ноги"
+
+msgid "The star on the knee of the left [front] leg"
+msgstr ""
+
+msgid "The star outside, under the right hind leg"
+msgstr ""
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr "аль-Вазн"
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr "Хадари"
+
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr ""
+
+msgid "The star on the bend in the same leg"
+msgstr ""
+
+msgid "The more advanced of the two stars just over the shoulder-blade"
+msgstr ""
+
+msgid "The star in the middle of the body of Lupus"
+msgstr ""
+
+msgid "The star in the belly, under the flank"
+msgstr "Звезда в животе, под боком"
+
+msgid "The star on the thigh"
+msgstr "Звезда на бедре"
+
+msgid ""
+"The northernmost of the two stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+"Самая северная из двух звезд рядом с местом, где бедро соединяется [с телом]"
+
+msgid "The star on the end of the rump"
+msgstr "Звезда в конце крупа"
+
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "Самая южная из трёх звезд в конце хвоста"
+
+msgid "The southernmost of the two stars in the neck"
+msgstr "Самая южная из двух звезд в шее"
+
+msgid "The more advanced of the two stars in the snout"
+msgstr "Более близкая из двух звезд в морде"
+
+msgid "The southernmost of the two stars in the front leg, on the hand"
+msgstr "Самая южная из двух звезд на передней ноге, на руке"
+
+msgid "The northernmost of the two stars in the base"
+msgstr "Самая северная из двух звезд в основании"
+
+msgid "The star in the middle of the little altar"
+msgstr "Звезда посреди малого алтаря"
+
+msgid "The northernmost of the three stars in the brazier"
+msgstr "Самая северная из трех звезд в жаровне"
+
+msgid "The southernmost of the other two which are close together"
+msgstr "Самая южная из двух других, расположенных близко друг к другу"
+
+msgid "The northernmost of these two"
+msgstr "Самая северная из этих двух"
+
+msgid "The star on the end of the burning-apparatus"
+msgstr ""
+
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "Самая близкая из звезд южного края, за пределами [короны]"
+
+msgid "The star to the rear of this on the crown"
+msgstr "Звезда позади этой на короне"
+
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "Та, что после этой, перед коленом Стрельца"
+
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius]"
+msgstr ""
+
+msgid "The star to the north of this"
+msgstr "Звезда к северу от этой"
+
+msgid "The one to the north again of this"
+msgstr "Та, что снова к северу от этой"
+
+msgid ""
+"The rearmost of the two stars after this, in advance, in the northern rim"
+msgstr "Самая дальняя из двух звезд после этой впереди, на северном краю. "
+
+msgid "The more advanced of these two faint stars"
+msgstr "Более близкая из этих двух слабых звезд"
+
+msgid "The star quite some distance in advance of this"
+msgstr "Звезда довольно далеко перед этой"
+
+msgid "The last one, which is south of the aforementioned star"
+msgstr "Последняя, которая находится южнее вышеупомянутой звезды"
+
+msgid "The most advanced of the three stars on the southern rim of the head"
+msgstr "Самая близкая из трех звезд на южном крае головы."
+
+msgid "The star by the gills"
+msgstr "Звезда за жабрами"
+
+msgid "The star on the southernmost spine on the back"
+msgstr "Звезда на самом южном позвонке спины"
+
+msgid "The rearmost of the two stars in the belly"
+msgstr "Самая дальняя из двух звезд живота"
+
+msgid "The rearmost of the three stars on the northern spine"
+msgstr "Самая дальняя из трех звезд на северном позвонке"
+
+msgid "Tassel of the lion"
+msgstr "Кисточка льва"
+
+msgid "The nebulous mass on the right hand"
+msgstr "Туманная масса на правой руке"
+
+msgid "wrist of Al-Thurayya"
+msgstr "запястье аль-Сурайи"
+
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "Звезда на месте, где спина соединяется [с телом коня]"
+
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "Середина туманного образования на груди, называется Ясли"
+
+msgid "Nose tip of the lion"
+msgstr "Кончик носа льва"
