@@ -1,0 +1,3219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ilpo Kantonen, 2024\n"
+"Language-Team: Finnish (https://app.transifex.com/stellarium/teams/80998/"
+"fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "Arabialainen (Al-Sufi)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Book of Fixed Stars was written shortly before 964 AD. Dr. Paul "
+"Kunitzsch described it as \"the most outstanding among the works of the "
+"prominent astronomer Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (born in "
+"Rayy, 903; died 986), referred to as al-Sufi. In it, al-Şūfī treats the 48 "
+"classical constellations, which were established and transmitted in "
+"Ptolemy's Almagest. The description of each constellation comprises the "
+"following four sections: first, a general discussion of the constellation "
+"and its individual stars; this section also includes alŞūfi's criticism of "
+"the Ptolemaic tradition and notices of his own observations. Second, a "
+"record of the indigenous Arabic star names falling under that constellation, "
+"and the exact identification of the respective stars with the corresponding "
+"Ptolemaic stars. Third, two drawings of the constellation, one as it is seen "
+"on a celestial globe, and the other one as it is seen in the sky. Fourth, a "
+"table of the stars making up that constellation, giving a verbal description "
+"of each star's location and its longitude, latitude, and magnitude. This "
+"table closely follows the arrangement of Ptolemy's star catalogue in the "
+"Almagest.\" [#1]. In addition to the four sections of each constellation "
+"mentioned by dr. Kunitzsch, Al-Sufi would identify stars within the 6 "
+"magnitudes that were neglected by Ptolemy, but he did not catalogue them and "
+"was faithful to Ptolemy star catalog."
+msgstr ""
+"Kiinteiden tähtien kirja kirjoitettiin vähän ennen vuotta 964 jKr. Tri Paul\n"
+"Kunitzsch kuvaili sitä \"merkittävimmäksi merkittävimmän tähtitieteilijän "
+"Abu\n"
+"'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfin (syntynyt Rayyssa, 903; kuollut\n"
+"986), jota kutsutaan al- Siinä al-Şūfī käsittelee 48 klassista tähdistöä,\n"
+"jotka perustettiin ja välitettiin Ptolemaioksen Almagestissa. Jokaisen\n"
+"tähdistön kuvaus koostuu seuraavista neljästä osasta: ensinnäkin yleinen\n"
+"keskustelu tähdistöstä ja sen yksittäisistä tähdistä, tämä osa myös "
+"sisältää\n"
+"AlŞūfin kritiikin Ptolemaiosten perinnettä kohtaan ja huomautuksia hänen\n"
+"omista havainnoistaan. Toiseksi muistiinpano alkuperäiskansojen\n"
+"arabiankielisistä tähtien nimistä, jotka kuuluvat tuon tähdistön alle, ja\n"
+"vastaavien tähtien tarkan tunnistamisen vastaavien Ptolemaiosten tähtien\n"
+"kanssa. Kolmanneksi kaksi piirustusta tähdistöstä , yksi sellaisena kuin se\n"
+"näkyy taivaanpallolla ja toinen sellaisena kuin se näkyy\n"
+"taivaalla. Neljänneksi taulukko tähdestä muodostavista tähdistä, joka antaa\n"
+"sanallisen kuvauksen kunkin tähden sijainnista ja sen pituus, leveysaste ja\n"
+"suuruus. Tämä taulukko seuraa tarkasti Ptolemaioksen tähtiluettelon\n"
+"järjestystä Almagestissa.\" [#1]. Jokaisen tähdistön neljän osan lisäksi,\n"
+"jonka dr. Kunitzsch, Al-Sufi tunnisti tähdet kuuden magnitudin sisällä,\n"
+"jotka Ptolemaios jätti huomiotta, mutta hän ei luetteloinut niitä ja oli\n"
+"uskollinen Ptolemaios-tähtiluettelolle."
+
+# Sky culture description section in markdown format
+msgid ""
+"An important aspect of the general discussion section is Al-Sufi method of "
+"facilitating the star identification. He describes each individual star in "
+"more than way: By the star position related to the constellation figure, by "
+"its magnitude, by the asterism it forms with other stars like triangle or "
+"arc shapes, sometimes by the star position related to the Milky way, and by "
+"the angular distance from a close by star. I have counted more than 700 "
+"angular distances measured by al-Sufi in his book. The units he uses for "
+"angular distances are cubits, spear length, man-height, span, and finger. Al-"
+"Sufi explicitly said in his book that a cubit is equal to two degrees and 20 "
+"minutes [#2]. For the other units, Schjellerup concluded some values, but "
+"tracking the 700 measurements, I came up with different values. The "
+"following table summarizes the units and relationship to the cubit value "
+"from Schjellerup[#3] and from my research.\n"
+"\n"
+"### Angular distance units used by Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>&nbsp;</notr></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>unit</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spear</td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Man-Height</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 cubits</td>\n"
+"\t<td><notr>7°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>cubit</td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>span</td>\n"
+"\t<td>1/3 of a cubit</td>\n"
+"\t<td><notr>47'</notr></td>\n"
+"\t<td>1/2 of a cubit</td>\n"
+"\t<td><notr>1°10'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>finger</td>\n"
+"\t<td>1/32 of a cubit</td>\n"
+"\t<td><notr>4.4'</notr></td>\n"
+"\t<td>1/16 of a cubit</td>\n"
+"\t<td><notr>8.75'</notr></td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Another important aspect of Al-Sufi book is his record of the indigenous "
+"Arabic star names falling under each constellation, and the exact "
+"identification of the respective stars with the corresponding Ptolemaic "
+"stars. This means that we are looking at two layers of stars knowledge at "
+"the same time: the Ptolemaic one and the indigenous Arab one.\n"
+"\n"
+"### The Sky Culture\n"
+"\n"
+"This sky culture is a result of a research done on several manuscripts of "
+"the book, oldest of which is the [#8].\n"
+"\n"
+"First, the manuscripts of the Book of Fixed Stars were critically edited, "
+"and the text was produced. Second, each member star of the 48 constellations "
+"was identified according to Al-Sufi description, and new tables were built "
+"including modern star designations from the Hipparcos, Bright stars, and "
+"Bayer catalogues. Third, Arab indigenous star names were collected and "
+"identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous "
+"steps were included in a book published digitally of the Book of Fixed Stars "
+"plus explanations and commentary by Khalid Al-Ajaji[#4].\n"
+"\n"
+"The sky culture stick figures of the constellations are the images in the "
+"Ulugh Beg manuscript of the Book of Fixed Stars, extracted, and adapted for "
+"Stellarium by Mr. Kutaibaa Akraa [#5]. The star names file includes the star "
+"number in the constellation as the primary star name and the description of "
+"the star in the tables as a secondary name. For example, Polaris primary "
+"name that is displayed with the star is: UMi1, UMi being Ursa Minor and 1 is "
+"the first star of this constellation. If the star is selected other "
+"secondary names are displayed, which will display \"The star on the end of "
+"the tail\" on the top of the screen. The constellation lines are constructed "
+"according to the constellation shapes with an attempt to include most of the "
+"member stars. For indigenous Arab star knowledge, individual star names were "
+"added to the star file as secondary names, while names of group of stars "
+"were defined through asterism names and asterism lines files.\n"
+"\n"
+"The translation of star descriptions from Arabic into English was extracted "
+"from Ernie Wright website[#6] which was transcribed from Toomer's "
+"translation of the Almagest[#7]. The translation was modified in a few "
+"places to agree with Al-Sufi wording.\n"
+"\n"
+"The single source of the sky culture is the Book of Fixed Stars and the "
+"objective is to give a faithful representation of the book content."
+msgstr ""
+"Tärkeä näkökohta yleisessä keskusteluosiossa on Al-Sufi-menetelmä tähtien\n"
+"tunnistamisen helpottamiseksi. Hän kuvailee jokaista yksittäistä tähteä\n"
+"enemmän kuin tavalla: tähtikuvioon liittyvällä tähtiasemalla, sen\n"
+"suuruudella, asterismilla, jonka se muodostaa muiden tähtien kanssa, kuten\n"
+"kolmion tai kaaren muotojen, joskus Linnunrataan liittyvän tähden sijainnin\n"
+"perusteella, ja kulmaetäisyyden mukaan lähitähdestä. Olen laskenut yli 700\n"
+"kulmaetäisyyttä, jotka al-Sufi on mitannut kirjassaan. Yksiköt, joita hän\n"
+"käyttää kulmaetäisyyksille, ovat kyynärää, keihään pituus, miehen korkeus,\n"
+"jänneväli ja sormi. Al-Sufi sanoi kirjassaan nimenomaisesti, että kyynärä "
+"on\n"
+"kaksi astetta ja 20 minuuttia [#2]. Muiden yksiköiden osalta Schjellerup\n"
+"päätteli joitakin arvoja, mutta seuraten 700 mittausta sain erilaisia\n"
+"arvoja. Seuraavassa taulukossa on yhteenveto yksiköistä ja niiden suhteesta\n"
+"Schjellerupin kyynärarvoon[#3] ja\n"
+"tutkimuksestani.\n"
+"\n"
+"### Al-Sufin käyttämät kulmaetäisyysyksiköt\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td>&nbsp;</td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>yksikkö</b></td>\n"
+"\t<td><b>kyynärät</b></td>\n"
+"\t<td><b>Kulman arvo</b></td>\n"
+"\t<td><b>kyynärät</b></td>\n"
+"\t<td><b>Kulman arvo</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>keihäs</td>\n"
+"\t<td>6 kyynärää</td>\n"
+"\t<td>14°</td>\n"
+"\t<td>6 kyynärää</td>\n"
+"\t<td>14°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Miehen pituus</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 kyynärää</td>\n"
+"\t<td>7°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>kyynärä</td>\n"
+"\t<td>1 kyynärä</td>\n"
+"\t<td>2°20'</td>\n"
+"\t<td>1 kyynärä</td>\n"
+"\t<td>2°20'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>jänneväli</td>\n"
+"\t<td>1/3 kyynärää</td>\n"
+"\t<td>47'</td>\n"
+"\t<td>1/2 kyynärää</td>\n"
+"\t<td>1°10'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>sormi</td>\n"
+"\t<td>1/32 kyynärää</td>\n"
+"\t<td>4.4'</td>\n"
+"\t<td>1/16 kyynärää</td>\n"
+"\t<td>8.75'</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Toinen tärkeä näkökohta Al-Sufi-kirjassa on hänen tietueensa\n"
+"alkuperäiskansojen arabialaisten tähtien nimistä, jotka kuuluvat kunkin\n"
+"tähdistön alle, ja vastaavien tähtien tarkka tunnistaminen vastaavista\n"
+"Ptolemaioksen tähdistä. Tämä tarkoittaa, että tarkastelemme kahta\n"
+"tähtitietokerrosta samanaikaisesti: Ptolemaioksen ja alkuperäiskansojen\n"
+"arabien.\n"
+"\n"
+"### Taivaskulttuuri\n"
+"\n"
+"Tämä taivaskulttuuri on tulosta useista kirjan käsikirjoituksista tehdystä\n"
+"tutkimuksesta, joista vanhin on [#8].\n"
+"\n"
+"Ensin Kiinteiden tähtien kirjan käsikirjoituksia muokattiin kriittisesti ja\n"
+"teksti tuotettiin. Toiseksi 48 tähdistöstä jokainen jäsentähti "
+"tunnistettiin\n"
+"Al-Sufi-kuvauksen mukaan, ja uusia taulukoita rakennettiin sisältäen\n"
+"modernit tähtimerkinnät Hipparcos-, Bright stars- ja Bayer\n"
+"-luetteloista. Kolmanneksi arabien alkuperäiskansojen tähtien nimet\n"
+"kerättiin ja tunnistettiin Al-Sufien ja Ptolemaiosten tähtien\n"
+"nimeksi. Kaikki edelliset vaiheet sisältyivät kirjaan, joka julkaistiin\n"
+"digitaalisesti Book of Fixed Starsista sekä Khalid Al-Ajajin selityksistä "
+"ja\n"
+"kommenteista.[#4].\n"
+"\n"
+"Tähtikuvioiden taivaskulttuurin tikkuhahmot ovat Kutaibaa Akraan poimimia "
+"ja\n"
+"Stellariumia varten mukauttamia kuvia Kiinteiden tähtien kirjan Ulugh Begin\n"
+"käsikirjoituksesta [#5]. Tähtien\n"
+"nimitiedosto sisältää tähdistön tähtinumeron ensisijaisena tähden nimenä ja\n"
+"tähden kuvauksen taulukoissa toissijaisena nimenä. Esimerkiksi Polariksen\n"
+"ensisijainen nimi, joka näytetään tähden kanssa, on: UMi1, UMi on Ursa "
+"Minor\n"
+"ja 1 on tämän tähdistön ensimmäinen tähti. Jos tähti on valittu, näytetään\n"
+"muita toissijaisia nimiä, jotka näyttävät \"Tähti hännän päässä\" näytön\n"
+"yläreunassa. Tähdistölinjat on rakennettu tähdistön muotojen mukaan siten,\n"
+"että suurin osa jäsentähdistä on yritetty sisältää. Alkuperäiskansojen\n"
+"arabien tähtitietoa varten yksittäiset tähtien nimet lisättiin\n"
+"tähtitiedostoon toissijaisina niminä, kun taas tähtiryhmien nimet\n"
+"määriteltiin tähtien nimien ja tähtirivien tiedostojen avulla.\n"
+"\n"
+"Tähtikuvausten käännös arabiasta englanniksi poimittiin Ernie Wrightin\n"
+"verkkosivustolta[#6] joka on litteroitu\n"
+"Toomerin Almagestin käännöksestä[#7]. Käännöstä muutettiin muutamissa "
+"paikoissa\n"
+"sopimaan al-sufin sanamuodon kanssa.\n"
+"\n"
+"Taivaskulttuurin ainoa lähde on Kiinteiden tähtien kirja ja tavoitteena on\n"
+"antaa uskollinen esitys kirjan sisällöstä."
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: "
+"turath.alfalak@gmail.com"
+msgstr ""
+"Tämän taivaskulttuurin kokosi ja lisäsi Stellariumiin Khalid Al-Ajaji:\n"
+"turath.alfalak@gmail.com"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: See Al-Sufi description in his book of the 14th star in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+msgstr ""
+" - [#1]: Arabit ja tähdet, Paul Kunitzsch, Tähtitieteilijä Abu'L-Husayn Al-"
+"Sufi ja hänen kirjansa tähtikuvioista, XI, s. 57. Northampton [Englanti]: "
+"Variorum Reprints, 1989.\n"
+" - [#2]: Katso Al-Sufin kuvaus hänen kirjassaan Ajomiehen 14. tähdestä.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, s. 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Kriittinen painos Khalid AlAjajin kommentilla]"
+"(https://drive.google.com/drive/folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?"
+"usp=sharing).\n"
+" - [#5]: [Oulough Beg kopio ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfīsta. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Pariisi, Bibliothèque nationale de France Ms. Arabe "
+"5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Muinaisten tähtien näkeminen, Almagest-luettelon visualisointi]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+
+msgid "The spear"
+msgstr "Keihäs"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Al-Thurayya"
+
+msgid "Ursa Minor"
+msgstr "Pieni karhu"
+
+msgid "Ursa Major"
+msgstr "Iso karhu"
+
+msgid "Draco"
+msgstr "Lohikäärme"
+
+msgid "Cepheus"
+msgstr "Kefeus"
+
+msgid "Bootes"
+msgstr "Karhunvartija"
+
+msgid "Corona Borealis"
+msgstr "Pohjan kruunu"
+
+msgid "Hercules"
+msgstr "Herkules"
+
+msgid "Lyra"
+msgstr "Lyyra"
+
+msgid "Cygnus"
+msgstr "Joutsen"
+
+msgid "Cassiopeia"
+msgstr "Kassiopeia"
+
+msgid "Perseus"
+msgstr "Perseus"
+
+msgid "Auriga"
+msgstr "Ajomies"
+
+msgid "Ophiuchus"
+msgstr "Käärmeenkantaja"
+
+msgid "Serpens"
+msgstr "Käärme"
+
+msgid "Sagitta"
+msgstr "Nuoli"
+
+msgid "Aquila"
+msgstr "Kotka"
+
+msgid "Delphinus"
+msgstr "Delfiini"
+
+msgid "Equuleus"
+msgstr "Pieni hevonen"
+
+msgid "Pegasus"
+msgstr "Pegasus"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Kolmio"
+
+msgid "Aries"
+msgstr "Oinas"
+
+msgid "Taurus"
+msgstr "Härkä"
+
+msgid "Gemini"
+msgstr "Kaksoset"
+
+msgid "Cancer"
+msgstr "Krapu"
+
+msgid "Leo"
+msgstr "Leijona"
+
+msgid "Virgo"
+msgstr "Neitsyt"
+
+msgid "Libra"
+msgstr "Vaaka"
+
+msgid "Scorpius"
+msgstr "Skorpioni"
+
+msgid "Sagittarius"
+msgstr "Jousimies"
+
+msgid "Capricornus"
+msgstr "Kauris"
+
+msgid "Aquarius"
+msgstr "Vesimies"
+
+msgid "Pisces"
+msgstr "Kalat"
+
+msgid "Cetus"
+msgstr "Valaskala"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Eridanus"
+
+msgid "Lepus"
+msgstr "Jänis"
+
+msgid "Canis Major"
+msgstr "Iso koira"
+
+msgid "Canis Minor"
+msgstr "Pieni koira"
+
+msgid "Argo Navis"
+msgstr "Argo Navis"
+
+msgid "Hydra"
+msgstr "Vesikäärme"
+
+msgid "Crater"
+msgstr "Malja"
+
+msgid "Corvus"
+msgstr "Korppi"
+
+msgid "Centaurus"
+msgstr "Kentauri"
+
+msgid "Lupus"
+msgstr "Susi"
+
+msgid "Ara"
+msgstr "Alttari"
+
+msgid "Corona Australis"
+msgstr "Etelän kruunu"
+
+msgid "Piscis Austrinus"
+msgstr "Etelän kala"
+
+msgid "The Horse"
+msgstr "Hevonen"
+
+msgid "The great fish"
+msgstr "Suuri kala"
+
+msgid "The other fish"
+msgstr "Toinen kala"
+
+#. TRANSLATORS: The Kid (Baby male goat) is the name of Polaris in Arabic.
+msgid "The star on the end of the tail: it is the Kid"
+msgstr "Tähti hännän päässä: se on Kid"
+
+msgid "The one next to it on the tail"
+msgstr "Sen vieressä oleva hännän päällä"
+
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "Sen vieressä oleva, ennen paikkaa, jossa häntä liittyy [runkoon]"
+
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "Eteläisin tähdistä suorakulmion etupuolella"
+
+msgid "The northernmost of [those in] the same side"
+msgstr "Pohjoisin samalla puolella olevista"
+
+msgid "The southern star in the rear side: The brighter of the two calves"
+msgstr "Eteläinen tähti takapuolella: Kirkkaampi kahdesta vasikasta"
+
+msgid "The northern one in the same side: The dimmer of the two calves"
+msgstr "Eteläinen tähti takapuolella: Kirkkaampi kahdesta vasikasta"
+
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+
+msgid "The star on the end of the snout"
+msgstr "Tähti kuonon päässä"
+
+msgid "The more advanced of the stars in the two eyes"
+msgstr "Edistyneempi tähdistä kahdessa silmässä"
+
+msgid "The one to the rear"
+msgstr "Takana oleva"
+
+msgid "The more advanced of the two stars in the forehead"
+msgstr "Edistyneempi kahdesta otsassa olevasta tähdestä"
+
+msgid "The star on the tip of the advance ear"
+msgstr "Tähti etukorvan kärjessä"
+
+msgid "The more advanced of the two stars in the neck"
+msgstr "Edistyneempi kaulan kahdesta tähdestä"
+
+msgid ""
+"The one to the rear, there is an error in either the longitude or latitude"
+msgstr "Takana olevassa pituus- tai leveysasteessa on virhe"
+
+msgid "The northernmost of the two stars in the chest"
+msgstr "Pohjoisin kahdesta rinnassa olevasta tähdestä"
+
+msgid "The southernmost of them"
+msgstr "Heistä eteläisin"
+
+msgid "The star on the left knee"
+msgstr "Tähti vasemmassa polvessa"
+
+msgid ""
+"The northernmost of the [two] in the front left paw: Leap [of the gazelle]"
+msgstr "Pohjoisin vasemman etutassun [kahdesta]: Hyppy [gasellin]"
+
+msgid "The southernmost of them: Leap [of the gazelle]"
+msgstr "Eteläisin niistä: [gazellin hyppy]"
+
+msgid "The star above the right knee"
+msgstr "Tähti oikean polven yläpuolella"
+
+msgid "The star below the right knee"
+msgstr "Tähti oikean polven alla"
+
+msgid "The stars in the quadrilateral: the one on the back"
+msgstr "Tähdet nelikulmassa: takana oleva"
+
+msgid "The one on the pelvis"
+msgstr "Lantion päällä oleva"
+
+msgid "The one on the place where the tail joins [the body]"
+msgstr "Se, joka on paikassa, jossa häntä liittyy [vartaloon]"
+
+msgid "The remaining one, on the left hind thigh"
+msgstr "Jäljelle jäänyt, vasemmalla takareidellä"
+
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr "Edistyneempi vasemman takakäpälän [kahdesta tähdestä]"
+
+msgid "The one to the rear of it"
+msgstr "Se, joka on sen takana"
+
+msgid "The star on the left knee-bend"
+msgstr "Tähti vasemmassa polvikulmassa"
+
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "Oikean takatassun [kahdesta tähdestä] pohjoisin"
+
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+"Ensimmäinen kolmesta tähdestä hännän vieressä sen paikan vieressä, jossa se "
+"liittyy [vartaloon]"
+
+msgid "The middle one"
+msgstr "Keskimmäinen"
+
+msgid "The third, on the end of the tail"
+msgstr "Kolmas, hännän päässä"
+
+msgid "The star under the tail, at some distance towards the south"
+msgstr "Tähti hännän alla, jonkin matkan päässä etelästä"
+
+msgid "The rather fainter star in advance of it"
+msgstr "Melko himmeä tähti ennen sitä"
+
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+"Eteläisin [kahdesta] tähdestä Ison karhun etujalkojen ja Leijonan pään "
+"välissä"
+
+msgid "The one north of it"
+msgstr "Siitä pohjoiseen"
+
+msgid "The rearmost of the remaining three faint stars"
+msgstr "Takaosan jäljellä olevista kolmesta himmeästä tähdestä"
+
+msgid "The one in advance of this"
+msgstr "Tätä edellä oleva"
+
+msgid "The one in advance again of the latter"
+msgstr "Jälkimmäisestä taas edeltävä"
+
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "Tähti [Ison karhun] ja Kaksosten etujalkojen välissä"
+
+msgid "The dark camel"
+msgstr "Tumma kameli"
+
+msgid "The Oryx"
+msgstr "Oryx"
+
+msgid "The little goat"
+msgstr "Pieni vuohi"
+
+msgid "The leader"
+msgstr "Johtaja"
+
+msgid "Liver of the lion"
+msgstr "Leijonan maksa"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr "Al-Suha"
+
+#. TRANSLATORS: Proper name
+msgid "Al-Suta"
+msgstr "Al-Suta"
+
+#. TRANSLATORS: Proper name
+msgid "Al-Saydaq"
+msgstr "Al-Saydaq"
+
+#. TRANSLATORS: Proper name
+msgid "Nua'ish"
+msgstr "Nua'ish"
+
+msgid "The star on the tongue"
+msgstr "Tähti kielellä"
+
+msgid "The star in the mouth"
+msgstr "The star in the mouth"
+
+msgid "The star above the eye"
+msgstr "Tähti silmän yläpuolella"
+
+msgid "The star on the chin"
+msgstr "Tähti leuassa"
+
+msgid "The star above the head"
+msgstr "Tähti pään yläpuolella"
+
+msgid ""
+"The northernmost of the three stars in a straight line in the first bend of "
+"the neck"
+msgstr ""
+"Kolmesta tähdestä pohjoisin suorassa linjassa kaulan ensimmäisessä mutkassa"
+
+msgid "The southernmost of these"
+msgstr "Näistä eteläisin"
+
+msgid ""
+"The star to the rear of the latter and due east of the quadrilateral in the "
+"next bend after the latter"
+msgstr ""
+"Tähti jälkimmäisen takana ja suoraan itään nelikulmiosta seuraavassa "
+"mutkassa jälkimmäisen jälkeen"
+
+msgid "The southern star of the [two] forming the advance side"
+msgstr "[kahden] eteläinen tähti, jotka muodostavat etupuolen"
+
+msgid "The more northerly star of the advance side"
+msgstr "Etupuolen pohjoisempi tähti"
+
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "[nelikulmion] takapuolen pohjoinen tähti"
+
+msgid "The southern star of the rear side"
+msgstr "Takapuolen etelätähti"
+
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "Kolmion [muodostajien] eteläinen tähti seuraavassa mutkassa"
+
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "Edistyneempi kolmion kahdesta muusta tähdestä"
+
+msgid ""
+"The rearmost of the three stars in the next triangle, which is in advance "
+"[of the last]"
+msgstr ""
+"Takaosan kolmesta tähdestä seuraavassa kolmiossa, joka on ennen [viimeistä]"
+
+msgid "The southernmost of the other two forming the triangle"
+msgstr "Eteläisin kahdesta muusta muodostavat kolmion"
+
+msgid "The northernmost of the other two"
+msgstr "Pohjoisin kahdesta muusta"
+
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "Takaosan kahdesta pienestä tähdestä kolmion länsipuolella"
+
+msgid "The one in advance"
+msgstr "Se edistynyt"
+
+msgid "The southernmost of the next three stars in a straight line"
+msgstr "Eteläisin kolmesta seuraavasta tähdestä suorassa linjassa"
+
+msgid "The middle one of the three"
+msgstr "Keskimmäinen kolmesta"
+
+msgid "The northernmost of them"
+msgstr "Niistä pohjoisin"
+
+msgid "The northernmost of the next two to the west"
+msgstr "Pohjoisin kahdesta seuraavasta lännessä"
+
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "Tähti näistä länteen, hännän mutkassa"
+
+msgid "The advance star of the two quite some distance from the latter"
+msgstr "Näiden kahden etukäteistähti melko kaukana jälkimmäisestä"
+
+msgid "The rear star of these [two]"
+msgstr "Näiden [kahden] takatähti"
+
+msgid "The star close by these, by the tail"
+msgstr "Tähti lähellä näitä, hännän vieressä"
+
+msgid "The remaining star, on the tip of the tail"
+msgstr "Jäljellä oleva tähti, hännän kärjessä"
+
+msgid "The trotting camel"
+msgstr "Ravikameli"
+
+msgid "The baby camel"
+msgstr "Kamelinpentu"
+
+msgid "The male hyena"
+msgstr "Uroshyeena"
+
+msgid "The star on the right leg"
+msgstr "Tähti oikeassa jalassa"
+
+msgid "The one on the left leg"
+msgstr "Se vasemmassa jalassa"
+
+msgid "The star under the belt on the right side"
+msgstr "Tähti vyön alla oikealla puolella"
+
+msgid "The star over the right shoulder, which touches it"
+msgstr "Tähti oikean olkapään päällä, joka koskettaa sitä"
+
+msgid "The star over the right elbow, which touches it"
+msgstr "Tähti oikean kyynärpään päällä, joka koskettaa sitä"
+
+msgid "The one under that elbow"
+msgstr "Sen kyynärpään alla"
+
+msgid "The star in the chest"
+msgstr "Tähti rinnassa"
+
+msgid "The star on the left arm"
+msgstr "Tähti vasemmassa kädessä"
+
+msgid "The southernmost of the three stars on the hat"
+msgstr "Hatun kolmesta tähdestä eteläisin"
+
+msgid "The northernmost of the three"
+msgstr "Pohjoisin kolmesta"
+
+msgid "The one in advance of the stars on the head"
+msgstr "Se, joka on ennen tähtiä päässä"
+
+msgid "The one to the rear of them"
+msgstr "Se, joka on niiden takana"
+
+msgid "The [northern] Shepherd"
+msgstr "[Pohjoinen] paimen"
+
+msgid "The [northern] Shepherd dog"
+msgstr "[Pohjoinen] paimenkoira"
+
+msgid "The horse forehead star"
+msgstr "Hevosen otsa tähti"
+
+msgid "The most advanced of the three in the left arm"
+msgstr "Edistynein kolmesta vasemmassa kädessä"
+
+msgid "The middle and southernmost of the three"
+msgstr "Keskimmäinen ja eteläisin kolmesta"
+
+msgid "The rearmost of the three"
+msgstr "Takaosan kolmesta"
+
+msgid "The star on the left elbow"
+msgstr "Tähti vasemmassa kyynärpäässä"
+
+msgid "The star on the left shoulder"
+msgstr "Tähti vasemmalla olkapäällä"
+
+msgid "The star on the head"
+msgstr "Tähti päässä"
+
+msgid "The star on the right shoulder"
+msgstr "Tähti oikealla olkapäällä"
+
+msgid "The one to the north of these, on the staff"
+msgstr "Näistä pohjoiseen, esikunnalla"
+
+msgid ""
+"The one farther to the north again of this, on the tip of the staff, and it "
+"is a common star [with Hercules]"
+msgstr ""
+"Tästä pohjoisempana taas, sauvan kärjessä, ja se on yhteinen tähti "
+"[Herkulesin kanssa]"
+
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "Pohjoisin olkapään alapuolella olevista kahdesta tähdestä, seurassa"
+
+msgid "The star on the end of the right arm"
+msgstr "Tähti oikean käden päässä"
+
+msgid "The more advanced of the two stars in the wrist"
+msgstr "Edistyneempi ranteen kahdesta tähdestä"
+
+msgid "The rearmost of them"
+msgstr "Takaosan niistä"
+
+msgid "The star on the end of the handle of the staff"
+msgstr "Tähti sauvan kahvan päässä"
+
+msgid ""
+"The star on the belt which Ptolemy claims that it is on the right thigh, in "
+"the apron"
+msgstr ""
+"Tähti vyössä, jonka Ptolemaios väittää olevan oikeassa reidessä esiliinassa"
+
+msgid "The rearmost of the two stars in the belt"
+msgstr "Takain vyön kahdesta tähdestä"
+
+msgid "The more advanced of them"
+msgstr "Heistä edistyneempi"
+
+msgid "The star on the right heel"
+msgstr "Tähti oikealla kantapäällä"
+
+msgid "The northernmost of the three stars in the left leg"
+msgstr "Pohjoisin vasemman jalan kolmesta tähdestä"
+
+msgid "The star between the thighs, called 'The high one with the spear'"
+msgstr "Tähti reisien välissä, jota kutsutaan 'korkeaksi, jolla on keihäs'"
+
+msgid "The guard of the sky"
+msgstr "Taivaan vartija"
+
+msgid "The guard of the north"
+msgstr "Pohjoisen vartija"
+
+msgid "Leg of the lion"
+msgstr "Leijonan jalka"
+
+msgid "Associate of the high one"
+msgstr "Korkeamman kumppani"
+
+msgid "Flag of the high one"
+msgstr "Korkean lippu"
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "Flag of Al-Fakkah"
+msgstr "Al-Fakkahin lippu"
+
+msgid "The bright star in the crown"
+msgstr "Kirkas tähti kruunussa"
+
+msgid "The star in advance of it"
+msgstr "Tähti ennen sitä"
+
+msgid "The one above this and due north"
+msgstr "Tämän yläpuolella oleva ja suoraan pohjoiseen"
+
+msgid "The one north again of this"
+msgstr "Tästä taas pohjoiseen"
+
+msgid ""
+"The one to the rear of the bright star in the other half circle from the "
+"south"
+msgstr "Kirkkaan tähden takana oleva toinen puoliympyrä etelästä"
+
+msgid ""
+"The one to the rear again of the latter, and it is a little more to the north"
+msgstr "Toinen on jälleen jälkimmäisen takana, ja se on hieman pohjoisempana"
+
+msgid "The one to the rear again of these, and again it is more to the north"
+msgstr "Taas yksi näistä takana, ja taas se on enemmän pohjoisessa"
+
+msgid "The star at the end of the opening of this half circle"
+msgstr "Tähti tämän puoliympyrän aukon lopussa"
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "The bright star of Al-Fakkah"
+msgstr "Al-Fakkahin kirkas tähti"
+
+msgid "The star on the right shoulder by the armpit"
+msgstr "Tähti oikealla olkapäällä kainalossa"
+
+msgid "The star on the right upper arm"
+msgstr "Tähti oikeassa olkavarressa"
+
+msgid "The star on the right elbow"
+msgstr "Tähti oikeassa kyynärpäässä"
+
+msgid "The star on the left upper arm"
+msgstr "Tähti vasemmassa olkavarressa"
+
+msgid "The rearmost of the three stars in the left wrist"
+msgstr "Takaosan vasemman ranteen kolmesta tähdestä"
+
+msgid "The star in the right side"
+msgstr "Tähti oikealla puolella"
+
+msgid "The star in the left side"
+msgstr "Tähti vasemmalla puolella"
+
+msgid "The one north of the latter, on the left buttock"
+msgstr "Jälkimmäisestä pohjoiseen, vasemmassa pakarassa"
+
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "Se, joka on paikassa, jossa reisi liittyy samaan [pakaraan]"
+
+msgid "The most advanced of the three in the left thigh"
+msgstr "Edistynein kolmesta vasemmassa reidessä"
+
+msgid "The one to the rear of this"
+msgstr "Tämän takana oleva"
+
+msgid "The one yet further to the rear of this"
+msgstr "Se, joka on vielä tämän takana"
+
+msgid "The star on the left shin on the ankle place"
+msgstr "Tähti vasemmassa säärissä nilkan kohdalla"
+
+msgid "The most advanced of the three stars in the left foot"
+msgstr "Edistynein vasemman jalan kolmesta tähdestä"
+
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "Tähti paikassa, jossa oikea reisi liittyy [pakaraan]"
+
+msgid "The star north of it in the same thigh"
+msgstr "Tähti sen pohjoispuolella samassa reidessä"
+
+msgid "The star on the right knee"
+msgstr "Tähti oikealla polvella"
+
+msgid "The southernmost of the two stars under the right knee"
+msgstr "Oikean polven alla olevista kahdesta tähdestä eteläisin"
+
+msgid "The star in the right lower leg"
+msgstr "Tähti oikeassa sääressä"
+
+msgid ""
+"The star on the end of the right leg is the same as the ninth star of Bootes "
+"on the tip of the staff, shared by the two constellations"
+msgstr ""
+"Tähti oikean jalan päässä on sama kuin yhdeksäs Karhunvartijan tähti sauvan "
+"kärjessä, jakaa kaksi tähtikuviota"
+
+msgid "The star south of the one in the right upper arm"
+msgstr "Oikeassa olkavarressa olevan tähden eteläpuolella"
+
+msgid "First dog of [southern] shepherd"
+msgstr "[Eteläisen] paimenen ensimmäinen koira"
+
+msgid "The line"
+msgstr "Linja"
+
+msgid ""
+"The bright star on the carrying cloth, called Lyra, and it is the landing "
+"eagle"
+msgstr ""
+"Kirkas tähti kantokankaalla, nimeltään Lyyra, ja se on laskeutuva kotka"
+
+msgid "The northernmost of the two stars lying near the latter, close together"
+msgstr ""
+"Pohjoisin kahdesta tähdestä, jotka sijaitsevat lähellä jälkimmäistä, lähellä "
+"toisiaan"
+
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr ""
+"Se, joka on näiden takana, niiden pisteiden välissä, joihin [lyyran] sarvet "
+"on kiinnitetty"
+
+msgid ""
+"The northernmost of the two stars close together in the region to the east "
+"of the cloth"
+msgstr ""
+"Pohjoisin kahdesta tähdestä on lähellä toisiaan kankaan itäpuolella olevalla "
+"alueella"
+
+msgid "The northernmost of the two advance stars in the crossbar"
+msgstr "Pohjoisin poikkipalkin kahdesta etukäteistähdestä"
+
+msgid "The northernmost of the two rear stars in the crossbar"
+msgstr "Pohjoisin poikkipalkin kahdesta takatähdestä"
+
+msgid "The star on the beak"
+msgstr "Tähti nokassa"
+
+msgid "The one to the rear of this, on the head"
+msgstr "Se, joka on tämän takana, päässä"
+
+msgid "The star in the middle of the neck"
+msgstr "Tähti keskellä niskaa"
+
+msgid "The star in the breast"
+msgstr "Tähti rinnassa"
+
+msgid "The bright star in the tail"
+msgstr "Kirkas tähti pyrstössä"
+
+msgid "The star in the bend of the right wing"
+msgstr "Tähti oikean siiven mutkassa"
+
+msgid "The southernmost of the three in the right wing-feathers"
+msgstr "Eteläisin kolmesta oikean siiven höyhenistä"
+
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "Niistä pohjoisin, siipien höyhenten kärjessä"
+
+msgid "The star on the bend of the left wing"
+msgstr "Tähti vasemman siiven mutkassa"
+
+msgid "The star north of this, in the middle of the same wing"
+msgstr "Tähti tästä pohjoiseen, saman siiven keskellä"
+
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "Tähti vasemman siiven höyhenten kärjessä"
+
+msgid "The star on the left leg"
+msgstr "Tähti vasemmassa jalassa"
+
+msgid "The more advanced of the two stars in the right leg"
+msgstr "Edistyneempi oikean jalan kahdesta tähdestä"
+
+msgid "The northern star on the right knee"
+msgstr "Pohjoinen tähti oikealla polvella"
+
+msgid "The southernmost of the two stars under the left wing"
+msgstr "Vasemman siiven alla olevista kahdesta tähdestä eteläisin"
+
+msgid "The rear knight"
+msgstr "Taka ritari"
+
+msgid "The one north of that, on the belt"
+msgstr "Siitä pohjoiseen, vyöllä"
+
+msgid "The star over the chair, just over the thighs"
+msgstr "Tähti istuimen päällä, hieman reisien päällä"
+
+msgid "The star in the knees"
+msgstr "Tähti polvissa"
+
+msgid "The star on the lower leg"
+msgstr "Tähti sääressä"
+
+msgid "The star on the end of the leg"
+msgstr "Tähti jalan päässä"
+
+msgid "The star below the left elbow"
+msgstr "Tähti vasemman kyynärpään alla"
+
+msgid "The star on the right forearm"
+msgstr "Tähti oikeassa kyynärvarressa"
+
+msgid "The star above the post of the chair"
+msgstr "Tähti tuolin pylvään yläpuolella"
+
+msgid ""
+"The star on the middle of the chair backrest, and it is called The henna "
+"tinted hand"
+msgstr "Tähti tuolin selkänojan keskellä, ja sen nimi on Henna sävytetty käsi"
+
+msgid "The star at the end of the chair backrest"
+msgstr "Tähti tuolin selkänojan päässä"
+
+msgid "The star on the place between the shoulders"
+msgstr "Tähti olkapäiden välissä"
+
+msgid "The bright star in the right side"
+msgstr "Kirkas tähti oikealla puolella"
+
+msgid "The most advanced of the three stars next to the one in the side"
+msgstr "Edistynein kolmesta tähdestä sivussa olevan yhden vieressä"
+
+msgid "The bright one of the stars in the Gorgon-head"
+msgstr "Kirkas yksi Gorgon-pään tähdistä"
+
+msgid "The one in advance of the bright star"
+msgstr "Kirkkaan tähden edellä"
+
+msgid "The remaining one, yet again in advance of this"
+msgstr "Jäljellä oleva, taas ennen tätä"
+
+msgid "The star in the right knee"
+msgstr "Tähti oikeassa polvessa"
+
+msgid "The one in advance of this, over the knee"
+msgstr "Tätä edeltävä, polven yli"
+
+msgid "The more advanced of the two stars above the bend in the knee"
+msgstr "Edistyneempi kahdesta tähdestä polven mutkan yläpuolella"
+
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "Takaosan niistä, hieman polven mutkan yli"
+
+msgid "The star on the right calf"
+msgstr "Tähti oikealla pohkeella"
+
+msgid "The star on the right ankle"
+msgstr "Tähti oikeassa nilkassa"
+
+msgid "The star in the left thigh"
+msgstr "Tähti vasemmassa reidessä"
+
+msgid "The star on the left lower leg"
+msgstr "Tähti vasemmassa sääressä"
+
+msgid "The star on the left heel"
+msgstr "Tähti vasemmassa kantapäässä"
+
+msgid "The one to the rear of this, on the left foot"
+msgstr "Se, joka on tämän takana, vasemmalla jalalla"
+
+msgid "The star to the east of the one on the left knee"
+msgstr "Tähti vasemman polven itäpuolella"
+
+msgid "The star to the north of the one in the right knee"
+msgstr "Oikean polven tähti pohjoispuolella"
+
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "Tähti Gorgon-päässä olevien edellä"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The elbow [of Al-Thurayya]"
+msgstr "[Al-Thurayyan] kyynärpää"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Bend of the hand [of Al-Thurayya]"
+msgstr "Käden taivutus [Al-Thurayya]"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Tip of the elbow [of Al-Thurayya]"
+msgstr "kyynärpään kärki [Al-Thurayya]"
+
+msgid "The caracal (second narrative)"
+msgstr "Karakaali (toinen kertomus)"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The shoulder [of Al-Thurayya]"
+msgstr "Olkapää [Al-Thurayya]"
+
+msgid "The southernmost of the two on the head"
+msgstr "Näistä kahdesta eteläisin päässä"
+
+msgid "The northernmost [of these], over the head"
+msgstr "Pohjoisin [näistä], pään yli"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "The star on the left shoulder, called Al-Ayyuq"
+msgstr "Tähti vasemmalla olkapäällä, nimeltään Al-Ayyuq"
+
+msgid "The star on the right wrist"
+msgstr "Tähti oikeassa ranteessa"
+
+#. TRANSLATORS: kids here are the baby goats
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'The two "
+"kids'"
+msgstr ""
+"Takaosan vasemman ranteen kahdesta tähdestä, joita kutsutaan nimellä \"Kaksi "
+"lasta\""
+
+msgid "The more advanced of these"
+msgstr "Näistä edistyneempi"
+
+msgid "The star on the left ankle"
+msgstr "Tähti vasemmassa nilkassa"
+
+msgid ""
+"The star on the right ankle, which is [applied in] common to the northern "
+"horn of Taurus"
+msgstr "Tähti oikeassa nilkassa, joka on yleinen Härän pohjoissarvelle"
+
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr "Jälkimmäisestä pohjoiseen, [vaatteen] alahelmassa"
+
+msgid "The one north again of this, on the buttock"
+msgstr "Tästä taas pohjoiseen, pakaraan"
+
+msgid "The Goat"
+msgstr "Vuohi"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya Watcher"
+msgstr "Al-Thurayya tarkkailija"
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Ayyuq Al-Thurayya"
+
+msgid "The goats owner"
+msgstr "Vuohen omistaja"
+
+msgid "The more advanced of the two stars on the right shoulder"
+msgstr "Edistyneempi oikean olkapään kahdesta tähdestä"
+
+msgid "The more advanced of the two stars on the left shoulder"
+msgstr "Edistyneempi vasemman olkapään kahdesta tähdestä"
+
+msgid "The more advanced of the two stars in the left hand"
+msgstr "Edistyneempi kahdesta vasemman käden tähdestä"
+
+msgid "The more advanced of the two stars in the right hand"
+msgstr "Edistyneempi kahdesta oikean käden tähdestä"
+
+msgid "The star on the right lower leg"
+msgstr "Tähti oikealla sääressä"
+
+msgid "The most advanced of the four stars on the right foot"
+msgstr "Edistynein oikealla jalalla olevista neljästä tähdestä"
+
+msgid "The one to the rear again of that"
+msgstr "Se, joka on taas sen takana"
+
+msgid "The last and rearmost of the four"
+msgstr "Viimeinen ja takimmainen neljästä"
+
+msgid "The star to the rear of these, which touches the heel"
+msgstr "se tähti näiden takana, joka koskettaa kantapäätä"
+
+msgid "The star in the left knee"
+msgstr "Tähti vasemmassa polvessa"
+
+msgid ""
+"The northernmost of the three stars in a straight line in the left lower leg"
+msgstr "Pohjoisin kolmesta tähdestä suorassa linjassa vasemmassa sääressä"
+
+msgid "The middle one of these"
+msgstr "Näistä keskimmäinen"
+
+msgid "The southernmost of the three"
+msgstr "Eteläisin kolmesta"
+
+msgid "The star touching the hollow of the left foot"
+msgstr "Tähti koskettaa vasemman jalan onttoa"
+
+msgid ""
+"The northernmost of the three that are on a straight line, to the east of "
+"the right shoulder"
+msgstr ""
+"Pohjoisin niistä kolmesta, jotka ovat suoralla linjalla, oikean olkapään "
+"itäpuolella"
+
+msgid "The star to the rear of these three, and over the middle one"
+msgstr "Tähti näiden kolmen takana ja keskimmäisen päällä"
+
+msgid "The lone star north of these four"
+msgstr "Yksinäinen tähti näiden neljän pohjoispuolella"
+
+msgid "The [southern] shepherd"
+msgstr "[Eteläinen] paimen"
+
+msgid "Second dog of the [southern] shepherd"
+msgstr "[Eteläisen] paimenen toinen koira"
+
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr "Tähdet pään nelikulmassa: leuan päässä"
+
+msgid "The one touching the nostrils"
+msgstr "Se, joka koskettaa sieraimia"
+
+msgid "The one in the temple"
+msgstr "Se, joka on temppelissä"
+
+msgid "The one where the neck joins [the head]"
+msgstr "Se, jossa niska liittyy [pää]"
+
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "Se, joka on nelikulmion keskellä, suussa"
+
+msgid "The star outside the head, to the north of it"
+msgstr "Tähti pään ulkopuolella, sen pohjoispuolella"
+
+msgid "The one after the first bend in the neck"
+msgstr "Ensimmäisen niskan taivutuksen jälkeinen"
+
+msgid "The northernmost of the three following this"
+msgstr "Pohjoisin kolmesta tämän jälkeen"
+
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr ""
+"Tähti seuraavan mutkan jälkeen, joka on ennen Käärmeenkantajan vasenta kättä"
+
+msgid "The star to the rear of those in the hand of Ophiuchus"
+msgstr "Tähti Käärmeenkantajan kädessä olevien takana"
+
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "Käärmeenkantajan oikean reiden takaosan jälkeen"
+
+msgid "The southernmost of the two to the rear of the latter"
+msgstr "Näistä kahdesta eteläisin jälkimmäisen taakse"
+
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "[Käärmeenkantajan] oikean käden jälkeen, hännän mutkassa"
+
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "Se, joka on tämän takana, samoin hännässä"
+
+msgid "The star on the tip of the tail"
+msgstr "Tähti hännänpäässä"
+
+msgid "The lone star on the arrow-head"
+msgstr "Yksinäinen tähti nuolenpäässä"
+
+msgid "The rearmost of the three stars in the shaft"
+msgstr "Takaosan kolmesta tähdestä akselissa"
+
+msgid "The most advanced of the three"
+msgstr "Edistynein näistä kolmesta"
+
+msgid "The star on the end of the notch"
+msgstr "Tähti loven päässä"
+
+msgid "The star in the middle of the head"
+msgstr "Tähti keskellä päätä"
+
+msgid "The one in advance of this, on the neck"
+msgstr "Tätä edeltävä, kaulassa"
+
+msgid ""
+"The bright star on the place between the shoulders, called The flying eagle"
+msgstr "Kirkas tähti olkapäiden välissä, nimeltään Lentävä kotka"
+
+msgid "The one close to this towards the north"
+msgstr "Se, joka on lähellä tätä pohjoiseen päin"
+
+msgid "The more advanced of the two in the left shoulder"
+msgstr "Edistyneempi kahdesta vasemmassa olkapäässä"
+
+msgid "The more advanced of the two in the right shoulder"
+msgstr "Edistyneempi oikea olkapää"
+
+msgid ""
+"The star some distance under the tail of the eagle, touching the Milky Way"
+msgstr "Tähti jonkin matkan päässä kotkan hännän alla koskettaen Linnunrataa"
+
+msgid "The more advanced of the two stars south of the head of the eagle"
+msgstr "Edistyneempi kahdesta tähdestä kotkan pään eteläpuolella"
+
+msgid "The star to the south and west of the right shoulder of the eagle"
+msgstr "Tähti kotkan oikeasta olkapäästä etelään ja länteen"
+
+msgid "The one to the south of this"
+msgstr "Tästä etelään"
+
+msgid "The one to the south again of the latter"
+msgstr "Jälkimmäisestä taas etelään"
+
+msgid "The star most in advance of all"
+msgstr "Tähti ennen kaikkea"
+
+msgid "The most advanced of the three stars in the tail"
+msgstr "Edistynein kolmesta hännän tähdestä"
+
+msgid ""
+"The southernmost one of the two on the advance side of the rhomboid "
+"quadrilateral"
+msgstr "Eteläisin kahdesta rombisen nelikulmion etupuolella"
+
+msgid "The northernmost one on the advance side"
+msgstr "Etupuolen pohjoisin"
+
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "Eteläisin rombin takapuolella"
+
+msgid "The northernmost one on the rear side"
+msgstr "Takapuolella pohjoisin"
+
+msgid "The northernmost of the three stars between the tail and the rhombus"
+msgstr "Pohjoisin kolmesta tähdestä hännän ja rombin välillä"
+
+msgid "The more advanced of the two other northern stars"
+msgstr "Edistyneempi kahdesta muusta pohjoisesta tähdestä"
+
+msgid "The remaining, rearmost one"
+msgstr "Jäljellä oleva, takimmainen"
+
+msgid "The more advanced of the two stars in the head"
+msgstr "Edistyneempi kahdesta päässä olevasta tähdestä"
+
+msgid "The more advanced of the two stars in the mouth"
+msgstr "Edistyneempi kahdesta suussa olevasta tähdestä"
+
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr "Tähti navassa, joka on yhteinen Andromedan päähän"
+
+msgid "The star on the rump and the wing-tip"
+msgstr "Tähti takaosassa ja siiven kärjessä"
+
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "Tähti oikealla olkapäällä ja paikka, jossa jalka liittyy [se]"
+
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr "Tähti olkapäiden ja siiven olkaosan välissä"
+
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "Pohjoisin siiven alla olevista kahdesta tähdestä"
+
+msgid "The northernmost of the two stars in the right knee"
+msgstr "Oikean polven kahdesta tähdestä pohjoisin"
+
+msgid "The more advanced of the two stars close together in the chest"
+msgstr "Edistyneempi kahdesta tähdestä on lähellä toisiaan rinnassa"
+
+msgid "The more advanced of the two stars close together in the neck"
+msgstr "Edistyneempi kahdesta tähdestä on lähellä toisiaan kaulassa"
+
+msgid "The southernmost of the two stars on the mane"
+msgstr "Harjan kahdesta tähdestä eteläisin"
+
+msgid "The northernmost of the two stars close together on the head"
+msgstr "Näistä kahdesta tähdestä pohjoisin on lähellä toisiaan päässä"
+
+msgid "The star in the muzzle"
+msgstr "Tähti kuonossa"
+
+msgid "The star in the right hock"
+msgstr "Tähti oikeassa kintereessä"
+
+msgid "The star in the left hock"
+msgstr "Tähti vasemmassa kintereessä"
+
+msgid "The star in the place between the shoulders"
+msgstr "Tähti olkapäiden välissä"
+
+msgid "The star in the right shoulder"
+msgstr "Tähti oikeassa olkapäässä"
+
+msgid "The star in the left shoulder"
+msgstr "Tähti vasemmassa olkapäässä"
+
+msgid "The southernmost of the three stars on the right upper arm"
+msgstr "Oikean olkavarren kolmesta tähdestä eteläisin"
+
+msgid "The southernmost of the three stars on the right hand"
+msgstr "Oikealla puolella olevasta kolmesta tähdestä eteläisin"
+
+msgid "The southernmost of the three stars over the girdle"
+msgstr "Kolmesta tähdestä eteläisin vyön päällä"
+
+msgid "The star over the left foot: called the caracal"
+msgstr "Tähti vasemman jalan päällä: kutsutaan karakaliksi"
+
+msgid "The star in the right foot"
+msgstr "Tähti oikeassa jalassa"
+
+msgid "The one south of the latter"
+msgstr "Jälkimmäisestä etelään"
+
+msgid "The northernmost of the two stars on the left knee-bend"
+msgstr "Pohjoisin vasemman polven mutkan kahdesta tähdestä"
+
+msgid "The northernmost of the two stars in the lower hem of the garment"
+msgstr "Vaatteen alahelman kahdesta tähdestä pohjoisin"
+
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr "Tähti kolmen edellä oikealla kädellä, [sen] ulkopuolella"
+
+msgid "Abdomen of the fish"
+msgstr "Kalan vatsa"
+
+msgid "The caracal (first narrative)"
+msgstr "Caracal (ensimmäinen kertomus)"
+
+msgid "The star in the apex of the triangle"
+msgstr "Tähti kolmion huipussa"
+
+msgid "The most advanced of the three on the base"
+msgstr "Edistyksellisin kolmesta pohjassa olevasta"
+
+msgid "The more advanced of the two stars on the horn"
+msgstr "Edistyneempi sarven kahdesta tähdestä"
+
+msgid "The northernmost of the two stars on the muzzle"
+msgstr "Pohjoisin kahdesta kuonon tähdestä"
+
+msgid "The star on the neck"
+msgstr "Tähti kaulassa"
+
+msgid "The star on the rump"
+msgstr "Tähti selässä"
+
+msgid "The star on the place where the fatty tail joins [the body]"
+msgstr "Tähti paikassa, jossa rasvainen häntä liittyy [vartaloon]"
+
+msgid "The most advanced of the three stars in the fatty tail"
+msgstr "Edistyksellisin rasvahännän kolmesta tähdestä"
+
+msgid "The star in the back of the thigh"
+msgstr "Tähti reiden takaosassa"
+
+msgid "The star over the knee-bend"
+msgstr "Tähti polven taivutuksen päällä"
+
+msgid "The star on the hind hoof"
+msgstr "Tähti takakaviossa"
+
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr ""
+"se tähti pään päällä, jota Hipparkhos [kutsuu] \"kuonon päällä olevaksi\""
+
+msgid "The rearmost, which is brighter of the four stars over the rump"
+msgstr "Takaosan, joka on kirkkaampi neljästä tähdestä lantion yläpuolella"
+
+msgid "The northernmost of the other three, fainter stars"
+msgstr "Pohjoisin kolmesta muusta, himmeämmistä tähdistä"
+
+msgid "The middle one of these three"
+msgstr "Keskimmäinen näistä kolmesta"
+
+msgid "The butting [horn]"
+msgstr "Pusku [torvi]"
+
+msgid "The northernmost of the four stars in the cut-off"
+msgstr "Pohjoisin leikkausrajan neljästä tähdestä"
+
+msgid "The one close by this"
+msgstr "Tämän lähellä oleva"
+
+msgid "The one close again to the latter"
+msgstr "Se, joka on taas lähellä jälkimmäistä"
+
+msgid "The southernmost of the four"
+msgstr "Eteläisin neljästä"
+
+msgid "The one to the rear of the latter, on the right shoulder-blade"
+msgstr "Jälkimmäisen takana, oikealla lapaluella"
+
+msgid "The star on the right hock"
+msgstr "Tähti oikeassa kintereessä"
+
+msgid ""
+"The one on the nostrils of the stars in the face, resembling the Greek "
+"letter Λ"
+msgstr ""
+"Kasvojen tähtien sieraimissa oleva, joka muistuttaa kreikkalaista Λ-kirjainta"
+
+msgid "The one between the latter and the northern eye"
+msgstr "Jälkimmäisen ja pohjoisen silmän välissä"
+
+msgid "The one between that latter itself and the southern eye"
+msgstr "Jälkimmäisen itsensä ja eteläisen silmän välissä"
+
+msgid ""
+"The bright star of the group of stars resembling the Arabic letter 'dal د', "
+"the reddish one on the southern eye"
+msgstr ""
+"Tähtiryhmän kirkas tähti, joka muistuttaa arabiankielistä kirjainta 'dal د', "
+"punertavaa eteläsilmässä"
+
+msgid "The remaining one, on the northern eye"
+msgstr "Jäljellä oleva, pohjoisen silmän kohdalla"
+
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr "Tähti paikassa, jossa eteläinen sarvi ja korva yhdistyvät [pää]"
+
+msgid "The southernmost of the two stars on the southern horn"
+msgstr "Eteläisin eteläsarven kahdesta tähdestä"
+
+msgid "The northernmost of these"
+msgstr "Näistä pohjoisin"
+
+msgid "The star on the tip of the southern horn"
+msgstr "Tähti eteläisen sarven kärjessä"
+
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "Tähti paikassa, jossa pohjoinen sarvi liittyy [pää]"
+
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga"
+msgstr ""
+"Tähti pohjoisen sarven kärjessä, joka on sama kuin Ajomiehen oikealla "
+"jalalla oleva tähti"
+
+msgid "The northernmost of the two stars close together in the northern ear"
+msgstr "Näistä kahdesta tähdestä pohjoisin on lähellä toisiaan pohjoiskorvassa"
+
+msgid "The more advanced of the two small stars in the neck"
+msgstr "Edistyneempi kaulan kahdesta pienestä tähdestä"
+
+msgid ""
+"The southernmost star on the advance side of the four stars forming the "
+"quadrilateral in the neck"
+msgstr ""
+"Eteläisin tähti kaulassa nelikulmion muodostavien neljän tähden etupuolella"
+
+msgid "The northernmost star on the advance side"
+msgstr "Etupuolen pohjoisin tähti"
+
+msgid "The southernmost star on the rear side"
+msgstr "Eteläisin tähti takapuolella"
+
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "Plejadit: etupuolen pohjoispää"
+
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "[Plejadien] etupuolen eteläpää"
+
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "Plejadien takimmainen ja kapein pää"
+
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "Pieni tähti Plejadien ulkopuolella, kohti pohjoista"
+
+msgid "The star under the right foot and the ankle"
+msgstr "Tähti oikean jalan ja nilkan alla"
+
+msgid "The most advanced of the three stars over the southern horn"
+msgstr "Edistynein kolmesta tähdestä eteläisen sarven yli"
+
+msgid "The northernmost of the two stars under the tip of the southern horn"
+msgstr "Pohjoisin kahdesta tähdestä eteläisen sarven kärjen alla"
+
+msgid "The most advanced of the next five stars under the northern horn"
+msgstr "Edistyksellisin seuraavasta viidestä tähdestä pohjoisen sarven alla"
+
+msgid "The one to the rear again of the latter"
+msgstr "Jälkimmäisen takana oleva"
+
+msgid "The northernmost of the remaining, rearmost two"
+msgstr "Pohjoisin jäljellä olevista, kahdesta takimmaisesta"
+
+msgid "The southernmost of these two"
+msgstr "Näistä kahdesta eteläisin"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The follower of Al-Thurayya"
+msgstr "Al-Thurayyan seuraaja"
+
+#. TRANSLATORS: Al-Mijdah is a proper name meaning the star of rain or the
+#. fork referring to the shape of the Hyades
+msgid "Al-Mijdah"
+msgstr "Al-Mijdah"
+
+msgid "The follower"
+msgstr "Seuraaja"
+
+msgid "The special camel"
+msgstr "Erityinen kameli"
+
+msgid "The star on the head of the advance twin"
+msgstr "Tähti edistyneen kaksosen päässä"
+
+msgid "The reddish star on the head of the rear twin"
+msgstr "Punertava tähti takakaksosen päässä"
+
+msgid "The star in the left forearm of the advance twin"
+msgstr "Tähti edistyneen kaksosen vasemmassa kyynärvarressa"
+
+msgid "The star in the same [left] upper arm"
+msgstr "Tähti samassa [vasemmassa] olkavarressa"
+
+msgid "The one to the rear of that, between the shoulders"
+msgstr "Se, joka on sen takana, hartioiden välissä"
+
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr "Se, joka on tämän takana, saman [edun] kaksosen oikealla olkapäällä"
+
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "Tähti takakaksosen olkapäässä"
+
+msgid "The star on the right side of the advance twin"
+msgstr "Tähti etukaksosen oikealla puolella"
+
+msgid "The star on the left side of the rear twin"
+msgstr "Tähti takakaksosen vasemmalla puolella"
+
+msgid "The star on the left knee of the advance twin"
+msgstr "Tähti edistyneen kaksosen vasemmalla polvella"
+
+msgid "The star in the left side of the rear twin"
+msgstr "Tähti takakaksosen vasemmalla puolella"
+
+msgid "The star over the left knee of the rear twin"
+msgstr "Tähti takakaksosen vasemman polven päällä"
+
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr "Tähti saman [taka]kakson oikean polven mutkan yli"
+
+msgid "The star in front of the left foot of the advance twin"
+msgstr "Tähti edistyneen kaksosen vasemman jalan edessä"
+
+msgid "The one to the rear of this on the same foot"
+msgstr "Tämän takana oleva samalla jalalla"
+
+msgid "The star on the right foot of the advance twin"
+msgstr "Tähti edistyneen kaksosen oikealla jalalla"
+
+msgid "The star on the left foot of the rear twin"
+msgstr "Tähti takakaksosen vasemmassa jalassa"
+
+msgid "The star on the right foot of the rear twin"
+msgstr "Tähti takakaksosen oikealla jalalla"
+
+msgid "The star in advance of the one in front of the foot of the advance twin"
+msgstr "Tähti, joka on edellä olevan kaksosen jalan edessä"
+
+msgid "The bright star in advance of the advance knee"
+msgstr "Kirkas tähti etupolven edessä"
+
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "Tähti takakaksosen vasemman polven edessä"
+
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+"Pohjoisin kolmesta tähdestä, jotka ovat suorassa linjassa takakaksosen "
+"oikean käsivarren taakse"
+
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "Eteläisin niistä, lähellä [oikean] käsivarren kyynärvartta"
+
+msgid "The bright star to the rear of the above-mentioned three"
+msgstr "Kirkas tähti edellä mainitun kolmen takana"
+
+msgid ""
+"The northernmost of the two stars in advance of the quadrilateral containing "
+"the nebula"
+msgstr "Pohjoisin kahdesta tähdestä ennen kuin sumun sisältävä nelikulmio"
+
+msgid "The southernmost of the two stars in advance"
+msgstr "Eteläisin kahdesta tähdestä etukäteen"
+
+msgid ""
+"The northernmost of the rear two stars on the quadrilateral, which are "
+"called 'Aselli'"
+msgstr ""
+"Pohjoisin neljän kulman kahdesta takimmaisesta tähdestä, joita kutsutaan "
+"nimellä \"Aselli\""
+
+msgid "The star on the southern claw"
+msgstr "Tähti eteläisessä kynnessä"
+
+msgid "The star on the northern claw"
+msgstr "Tähti pohjoisessa kynnessä"
+
+msgid "The star on the northern back leg"
+msgstr "Tähti pohjoisessa takajalassa"
+
+msgid "The star on the southern back leg"
+msgstr "Tähti eteläisessä takajalassa"
+
+msgid "The star over the joint in the southern claw"
+msgstr "Tähti eteläisen kynnen nivelen päällä"
+
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "Tähti eteläisen kynnen kärjen takana"
+
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr "Edistyneempi kahdesta tähdestä sumun yläpuolella ja sen takana"
+
+msgid "The rearmost of these [two]"
+msgstr "Takaosan näistä [kahdesta]"
+
+msgid "The star on the tip of the nostrils"
+msgstr "Tähti sieraimien kärjessä"
+
+msgid "The star in the gaping jaws"
+msgstr "Tähti ammottavissa leuoissa"
+
+msgid "The northernmost of the two stars in the head"
+msgstr "Pohjoisin kahdesta päässä olevasta tähdestä"
+
+msgid "The northernmost of the three stars in the neck"
+msgstr "Kaulan kolmesta tähdestä pohjoisin"
+
+msgid "The one close to this, the middle one of the three"
+msgstr "Se, joka on lähellä tätä, keskimmäinen kolmesta"
+
+msgid "The star on the heart, called 'Regulus' and it is the lion heart"
+msgstr "Tähti sydämessä, nimeltään \"Regulus\", ja se on leijonan sydän"
+
+msgid "The one south of this, about on the chest"
+msgstr "Tästä etelään, noin rinnassa"
+
+msgid "The star a little in advance of the star on the heart"
+msgstr "Tähti hieman etupuolella sydämessä olevaa tähteä"
+
+msgid "The star on the right front claw-clutch"
+msgstr "Tähti oikealla edessä kynsi-kytkin"
+
+msgid "The star on the left front claw-clutch"
+msgstr "Tähti vasemmassa edessä kynsi-kytkin"
+
+msgid "The star on the left [front] knee"
+msgstr "Tähti vasemmassa [etu] polvessa"
+
+msgid "The star on the left armpit"
+msgstr "Tähti vasemmassa kainalossa"
+
+msgid "The most advanced of the three stars in the belly"
+msgstr "Edistynein kolmesta vatsan tähdestä"
+
+msgid "The northernmost of the other, rearmost two"
+msgstr "Toisista pohjoisin, kahdesta takimmaisesta"
+
+msgid "The southernmost of these [two]"
+msgstr "Näistä [kahdesta] eteläisin"
+
+msgid "The more advanced of the two stars on the rump"
+msgstr "Edistyneempi kahdesta tyynyn tähdestä"
+
+msgid "The northernmost of the two stars in the buttocks"
+msgstr "Pohjoisin kahdesta pakaran tähdestä"
+
+msgid "The star in the hind thighs"
+msgstr "Tähti takareidessä"
+
+msgid "The star in the hind leg-bends"
+msgstr "Tähti takajalan taipeissa"
+
+msgid "The one south of this, about in the lower legs"
+msgstr "Tästä etelään, suunnilleen sääressä"
+
+msgid "The star on the hind claw-clutches"
+msgstr "Tähti takakynsissä"
+
+msgid "The star on the end of the tail"
+msgstr "Tähti hännän päässä"
+
+msgid "The more advanced of the two over the back"
+msgstr "Edistyneempi kahdesta selän yli"
+
+msgid "The northernmost of the three under the flank"
+msgstr "Pohjoisin kyljen alla olevista kolmesta"
+
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+"Sumuisen massan pohjoisin osa Leijonan ja Ison karhun reunojen välissä, "
+"nimeltään Bereniksen hiukset"
+
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr "Edistyksellisin Kooman eteläisistä ohikulkijoista"
+
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "Niistä takimmainen, murattilehden muotoinen"
+
+msgid "Star of weather change"
+msgstr "Säämuutoksen tähti"
+
+msgid "The southernmost of the two stars in the top of the skull"
+msgstr "Kallon yläosassa olevista kahdesta tähdestä eteläisin"
+
+msgid "The northernmost of the two stars to the rear of these, in the face"
+msgstr "Pohjoisin kahdesta tähdestä näiden takana, kasvoissa"
+
+msgid "The star on the tip of the southern, left wing"
+msgstr "Tähti eteläisen, vasemman siiven kärjessä"
+
+msgid "The most advanced of the four stars in the left wing"
+msgstr "Edistynein vasemman laidan neljästä tähdestä"
+
+msgid "The one to the rear again of this"
+msgstr "Taas tämän takana oleva"
+
+msgid "The star in the right side under the girdle"
+msgstr "Tähti oikealla vyön alla"
+
+msgid "The most advanced of the three stars in the right, northern wing"
+msgstr "Edistyksellisin oikean pohjoissiiven kolmesta tähdestä"
+
+msgid "The southernmost of the other two"
+msgstr "Eteläisin kahdesta muusta"
+
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "Näistä pohjoisin, nimeltään \"Vindemiatrix\""
+
+#. TRANSLATORS: The armless high one is the Arabic name for Spica
+msgid ""
+"The star on the left hand, called 'Spica', and it is The armless high one"
+msgstr "Tähti vasemmalla, nimeltään \"Spica\", ja se on käsivarreton korkea"
+
+msgid "The star under the apron just about over the right buttock"
+msgstr "Tähti esiliinan alla juuri oikean pakaran yläpuolella"
+
+msgid ""
+"The northern star on the advance side of the quadrilateral in the left thigh"
+msgstr "Pohjoinen tähti nelikulmion etupuolella vasemmassa reidessä"
+
+msgid "The southern star on the advance side"
+msgstr "Eteläinen tähti etupuolella"
+
+msgid "The northernmost of the two stars on the rear side"
+msgstr "Takapuolen kahdesta tähdestä pohjoisin"
+
+msgid "The star in the back of the right thigh"
+msgstr "Tähti oikean reiden takaosassa"
+
+msgid "The middle star of the three in the garment-hem round the feet"
+msgstr "Keskimmäinen tähti kolmesta vaatteen helmassa jalkojen ympärillä"
+
+msgid "The star on the left, southern foot"
+msgstr "Tähti vasemmalla, eteläisellä jalalla"
+
+msgid "The star on the right, northern foot"
+msgstr "Tähti oikealla, pohjoinen jalka"
+
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "Edistynein kolmesta suorassa linjassa vasemman kyynärvarren alla"
+
+msgid ""
+"The most advanced of the three stars almost on a straight line under Spica"
+msgstr ""
+"Edistyksellisin kolmesta tähdestä melkein suoralla linjalla Spican alla"
+
+msgid "The middle one of these, which is a double star"
+msgstr "Näistä keskimmäinen, joka on kaksoistähti"
+
+msgid "The brighter one of the two stars on the tip of the southern claw"
+msgstr "Kirkkaampi toinen eteläisen kynnen kärjessä olevista kahdesta tähdestä"
+
+msgid "The northern one and fainter of the two"
+msgstr "Pohjoinen ja heikompi kahdesta"
+
+msgid "The brighter one of the two stars on the tip of the northern claw"
+msgstr "Kirkkaampi toinen pohjoisen kynnen kärjessä olevista kahdesta tähdestä"
+
+msgid "The advanced one and fainter of the two"
+msgstr "Edistynyt yksi ja heikompi kahdesta"
+
+msgid "The star in the middle of the southern claw"
+msgstr "Tähti eteläisen kynnen keskellä"
+
+msgid "The one in advance of this on the same claw"
+msgstr "Tätä edeltävä samassa kynnessä"
+
+msgid "The star in the middle of the northern claw"
+msgstr "Tähti pohjoisen kynnen keskellä"
+
+msgid "The one to the rear of this on the same claw"
+msgstr "Tämän takana samassa kynnessä"
+
+msgid "The most advanced of the three stars north of the northern claw"
+msgstr "Edistynein kolmesta pohjoisen kynnen pohjoispuolella olevasta tähdestä"
+
+msgid "The southernmost of the rearmost two [of these]"
+msgstr "Eteläisin kahdesta takimmaisesta [näistä]"
+
+msgid "The rearmost of the three stars between the claws"
+msgstr "Kolmesta tähdestä takimmainen kynsien välissä"
+
+msgid "The northernmost of the other two in advance [of the latter]"
+msgstr "Pohjoisin kahdesta muusta etukäteen [jälkimmäisestä]"
+
+msgid "The most advanced of the three stars south of the southern claw"
+msgstr "Edistynein kolmesta tähdestä eteläisen kynnen eteläpuolella"
+
+msgid "The northernmost of the other, rear two"
+msgstr "Toisesta pohjoisin, kaksi takaosaa"
+
+msgid "The northernmost of the three bright stars in the forehead"
+msgstr "Pohjoisin otsassa olevasta kolmesta kirkkaasta tähdestä"
+
+msgid "The star south again of this, on one of the legs"
+msgstr "Tähti taas etelään, yhdellä jalasta"
+
+msgid ""
+"The northernmost of the two stars adjacent to the northernmost of the three "
+"bright ones"
+msgstr ""
+"Pohjoisin kahdesta tähdestä, jotka ovat kolmen kirkkaan pohjoisimman vieressä"
+
+msgid "The most advanced of the three bright stars in the body"
+msgstr "Kehittynein kolmesta kehon kirkkaasta tähdestä"
+
+msgid ""
+"The middle one of these, which is reddish and called 'Heart of the scorpion'"
+msgstr ""
+"Näistä keskimmäinen, joka on punertava ja nimeltään \"Skorpionin sydän\""
+
+msgid "The advance star of the two under these, approximately on the last legs"
+msgstr "Näiden kahden etutähti, suunnilleen viimeisillä jaloilla"
+
+msgid "The rearmost of these"
+msgstr "Näistä takimmaisin"
+
+msgid "The star in the first tail-joint from the body"
+msgstr "Tähti ensimmäisessä häntänivelessä kehosta"
+
+msgid "The one after this, in the second joint"
+msgstr "Tämän jälkeinen, toisessa nivelessä"
+
+msgid "The northern star of the double-star in the third joint"
+msgstr "Kolmannen nivelen kaksoistähden pohjoinen tähti"
+
+msgid "The southern star of the double-star"
+msgstr "Kaksoistähden eteläinen tähti"
+
+msgid "The one following, in the forth joint"
+msgstr "Seuraava, neljännessä nivelessä"
+
+msgid "The one after that, in the fifth joint"
+msgstr "Sen jälkeinen, viidennessä nivelessä"
+
+msgid "The next one again, in the sixth joint"
+msgstr "Seuraava taas, kuudennessa nivelessä"
+
+msgid "The star in the seventh joint, the joint next to the sting"
+msgstr "Tähti seitsemännessä nivelessä, pisteen vieressä oleva nivel"
+
+msgid "The rearmost of the two stars in the sting"
+msgstr "Takaosan kahdesta pisteessä olevasta tähdestä"
+
+msgid "The nebulous star to the rear of the sting"
+msgstr "Sumuinen tähti pistoksen takana"
+
+msgid "The most advanced of the two stars to the north of the sting"
+msgstr "Edistynein kahdesta pisteen pohjoispuolella olevista tähdistä"
+
+msgid "The star on the point of the arrow"
+msgstr "Tähti nuolen kärjessä"
+
+msgid "The star in the bow-grip held by the left hand"
+msgstr "Tähti keulakahvassa, jota pidetään vasemmalla kädellä"
+
+msgid "The star in the southern portion of the bow"
+msgstr "Tähti keulan eteläosassa"
+
+msgid "The southernmost of the two stars in the northern portion of the bow"
+msgstr "Eteläisin kahdesta tähdestä keulan pohjoisosassa"
+
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "Näistä pohjoisin, keulan kärjessä"
+
+msgid "The one in advance of this, on the arrow"
+msgstr "Sitä edeltävä, nuolella"
+
+msgid "The star on the eye, which is nebulous and double"
+msgstr "Tähti silmässä, joka on sumuinen ja kaksinkertainen"
+
+msgid "The most advanced of the three stars in the head"
+msgstr "Edistynein kolmesta päässä olevasta tähdestä"
+
+msgid "The southernmost of the three stars in the northern cloak-attachment"
+msgstr "Pohjoisen viittakiinnitteen kolmesta tähdestä eteläisin"
+
+msgid "The faint star to the rear of these three"
+msgstr "Haalea tähti näiden kolmen takana"
+
+msgid "The northernmost of the two stars on the southern cloak-attachment"
+msgstr "Pohjoisin eteläisen viittakiinnitteen kahdesta tähdestä"
+
+msgid "The one between the shoulders of the three stars in the back"
+msgstr "Takaosan kolmen tähden hartioiden välissä"
+
+msgid "The middle one, on the shoulder-blade"
+msgstr "Keskimmäinen, lapaluussa"
+
+msgid "The other one, under the armpit"
+msgstr "Toinen kainalon alla"
+
+msgid "The star on the front left hock"
+msgstr "Tähti vasemmassa kintereessä"
+
+msgid "The one on the knee of the same leg"
+msgstr "Saman jalan polvessa oleva"
+
+msgid "The star on the front right hock"
+msgstr "Saman jalan polvessa oleva"
+
+msgid "The star on the left thigh"
+msgstr "Tähti vasemmassa reidessä"
+
+msgid "The star on the right hind lower leg"
+msgstr "Tähti oikeassa takaalareessa"
+
+msgid ""
+"The advance star on the northern side of the four stars [forming a "
+"quadrilateral] in the place where the tail joins [the body]"
+msgstr ""
+"Edistynyt tähti neljän tähden pohjoispuolella [muodostavat nelikulmion] "
+"paikassa, jossa häntä liittyy [runkoon]"
+
+msgid "The rear star on the northern side"
+msgstr "Takatähti pohjoispuolella"
+
+msgid "The advance star on the southern side"
+msgstr "Edellinen tähti eteläpuolella"
+
+msgid "The rear star on the southern side"
+msgstr "Takatähti eteläpuolella"
+
+msgid "The northernmost of the three stars in the rear horn"
+msgstr "Pohjoisin takatorven kolmesta tähdestä"
+
+msgid "The star on the tip of the advance horn"
+msgstr "Tähti etusarven kärjessä"
+
+msgid "The southernmost of the three stars in the muzzle"
+msgstr "Eteläisin kuonon kolmesta tähdestä"
+
+msgid "The more advanced of the other two"
+msgstr "Edistyneempi kahdesta muusta"
+
+msgid "The star in advance of the three, under the right eye"
+msgstr "Tähti kolmen edellä, oikean silmän alla"
+
+msgid "The northernmost of the two stars in the neck"
+msgstr "Kaulan kahdesta tähdestä pohjoisin"
+
+msgid "The star under the right knee"
+msgstr "Tähti oikean polven alla"
+
+msgid "The star on the left, doubled-up knee"
+msgstr "Tähti vasemmalla, kaksinkertaistunut polvi"
+
+msgid "The more advanced of the two stars close together under the belly"
+msgstr "Edistyneempi kahdesta tähdestä on lähellä toisiaan vatsan alla"
+
+msgid "The rearmost of the three stars in the middle of the body"
+msgstr "Takaosan kolmesta tähdestä rungon keskellä"
+
+msgid "The fainter of the other, advance two"
+msgstr "Toisesta heikompi, eteenpäin kaksi"
+
+msgid "The more advanced of the two stars in the back"
+msgstr "Edistyneempi kahdesta takana olevasta tähdestä"
+
+msgid "The more advanced of the two stars in the southern spine"
+msgstr "Edistyneempi kahdesta eteläisen selkärangan tähdestä"
+
+msgid ""
+"The more advanced of the two stars in the section [of the body] next to the "
+"tail"
+msgstr "Edistyneempi kahdesta tähdestä [vartalon] osassa hännän vieressä"
+
+msgid "The most advanced of the four stars on the northern portion of the tail"
+msgstr "Edistynein neljästä tähdestä hännän pohjoisosassa"
+
+msgid "The southernmost of the other three"
+msgstr "Eteläisin kolmesta muusta"
+
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "Näistä pohjoisin, häntäevän päässä"
+
+msgid "The sheep of the lucky star of the slaughterer"
+msgstr "eurastajan onnentähden lammas"
+
+msgid "The star on the head of Aquarius"
+msgstr "Tähti Vesimiehen päässä"
+
+msgid "The brighter of the two stars in the right shoulder"
+msgstr "Oikean olkapään kahdesta tähdestä kirkkaampi"
+
+msgid "The fainter one, under it"
+msgstr "Haaleampi, sen alla"
+
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr "Sen alla, takana, suunnilleen kainalon alla"
+
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr "Takaosan kolmesta tähdestä vasemmassa käsivarressa, takin päällä"
+
+msgid "The star in the right forearm"
+msgstr "Tähti oikeassa kyynärvarressa"
+
+msgid "The northernmost of the three stars on the right hand"
+msgstr "Pohjoisin oikealla olevista kolmesta tähdestä"
+
+msgid "The more advanced of the other two to the south"
+msgstr "Edistyneempi kahdesta muusta etelään"
+
+msgid ""
+"The more advanced of the two stars close together in the hollow of the right "
+"hip"
+msgstr ""
+"Edistyneempi kahdesta tähdestä lähellä toisiaan oikean lonkan ontelossa"
+
+msgid "The star on the right buttock"
+msgstr "Tähti oikeassa pakarassa"
+
+msgid "The southernmost of the two stars in the left buttock"
+msgstr "Vasemman pakaran kahdesta tähdestä eteläisin"
+
+msgid "The southernmost of the two stars in the right lower leg"
+msgstr "Oikean säären kahdesta tähdestä eteläisin"
+
+msgid "The northernmost of them, under the knee-bend"
+msgstr "Näistä pohjoisin, polvikäyrän alla"
+
+msgid "The star in the back of the left thigh"
+msgstr "Tähti vasemman reiden takaosassa"
+
+msgid "The southernmost of the two stars in the left lower leg"
+msgstr "Vasemman säären kahdesta tähdestä eteläisin"
+
+msgid "The northernmost of these, under the knee"
+msgstr "Näistä pohjoisin, polven alla"
+
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr "Tähdet veden virtauksessa: edistynein [jaksossa], joka alkaa kädestä"
+
+msgid "The one next to the latter towards the south"
+msgstr "Jälkimmäisen vieressä etelään päin"
+
+msgid "The one next to this, after [the beginning of] the water bend"
+msgstr "Tämän vieressä oleva, vesikaaren [alku] jälkeen"
+
+msgid "The one in the bend to the south of this"
+msgstr "Tästä etelään päin oleva mutka"
+
+msgid "The northernmost of the two stars to the south of this"
+msgstr "Pohjoisin kahdesta tähdestä etelään"
+
+msgid "The southernmost of the two"
+msgstr "Näistä kahdesta eteläisin"
+
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "Yksinäinen tähti jonkin matkan päässä näistä [kahdesta] etelään päin"
+
+msgid "The more advanced of the two stars close together after the latter"
+msgstr ""
+"Edistyneempi kahdesta tähdestä on lähellä toisiaan jälkimmäisen jälkeen"
+
+msgid "The northernmost of the three stars in the next bend group"
+msgstr "Seuraavan mutkaryhmän kolmesta tähdestä pohjoisin"
+
+msgid "The northernmost of the next three [arranged] likewise"
+msgstr "Kolmesta seuraavasta pohjoisin [järjestetty] samoin"
+
+msgid "The most advanced of the three stars in the remaining bend group"
+msgstr "Edistyksellisin jäljellä olevan mutkaryhmän kolmesta tähdestä"
+
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr "Tähti veden päässä ja Etelän kalan suulla"
+
+msgid ""
+"The most advanced of the three stars to the rear of the bend in the water"
+msgstr ""
+"Edistyksellisin kolmesta tähdestä, jotka sijaitsevat veden mutkan takana"
+
+msgid "The first frog"
+msgstr "Ensimmäinen sammakko"
+
+msgid "The male ostrich"
+msgstr "Urospuolinen strutsi"
+
+msgid "The star in the mouth of the advance fish"
+msgstr "Tähti edistyneen kalan suussa"
+
+msgid "The southernmost of the two stars in the top of its head"
+msgstr "Sen pään yläosassa olevista kahdesta tähdestä eteläisin"
+
+msgid "The more advanced of the two stars in the belly"
+msgstr "Edistyneempi kahdesta vatsan tähdestä"
+
+msgid "The star in the tail of the same [advance] fish"
+msgstr "Tähti saman [edenneen] kalan hännässä"
+
+msgid "The first after the tail of the stars forming its fishing-line"
+msgstr "Ensimmäinen siiman muodostavien tähtien hännän jälkeen"
+
+msgid "The most advanced of the three following stars"
+msgstr "Edistynein kolmesta seuraavasta tähdestä"
+
+msgid "The northernmost of the two small stars under these, in the bend"
+msgstr "Pohjoisin kahdesta pienestä tähdestä näiden alla, mutkassa"
+
+msgid "The most advanced of the three stars after the bend"
+msgstr "Edistynein kolmesta tähdestä mutkan jälkeen"
+
+msgid "The star on the knot joining the two fishing-lines"
+msgstr "Tähti solmussa, joka yhdistää kaksi siimaa"
+
+msgid ""
+"The first in the section beginning at the knot of the stars in the northern "
+"fishing-line"
+msgstr "Ensimmäinen pohjoisen siiman tähtien solmukohdasta alkavalla osuudella"
+
+msgid "The southernmost of the three stars following after that"
+msgstr "Eteläisin kolmesta sen jälkeen seuraavasta tähdestä"
+
+msgid "The northernmost of the three, which is also on the end of the tail"
+msgstr "Kolmesta pohjoisin, joka on myös hännän päässä"
+
+msgid "The northernmost of the two stars in the mouth of the rear fish"
+msgstr "Pohjoisin kahdesta tähdestä takakalan suussa"
+
+msgid "The rearmost of the three small stars in the head"
+msgstr "Takaosan kolmesta pienestä tähdestä päässä"
+
+msgid ""
+"The most advanced of the three stars on the spine in the back, following [i."
+"e. to the rear of] the star on the elbow of Andromeda"
+msgstr ""
+"Edistynein kolmesta selkärangan tähdestä, joka seuraa [ts. takana] tähti "
+"Andromedan kyynärpäässä"
+
+msgid "The northernmost of the two stars in the belly"
+msgstr "Vatsan kahdesta tähdestä pohjoisin"
+
+msgid "The star in the rear spine, near the tail"
+msgstr "Tähti takaselässä, lähellä häntää"
+
+msgid ""
+"The more advanced of the two northern stars of the quadrilateral under the "
+"advance fish"
+msgstr ""
+"Edistyneempi kahdesta nelikulmion pohjoisesta tähdestä edistyneen kalan alla"
+
+msgid "The more advanced star on the southern side"
+msgstr "Edistyneempi tähti eteläpuolella"
+
+msgid "The rearmost one on the southern side"
+msgstr "Takaosan eteläpuolella"
+
+msgid "The rearmost, on the end of the jaw of the three stars in the snout"
+msgstr "Takaosan, kuonon kolmen tähden leuan päässä"
+
+msgid "The middle one, in the middle of the mouth"
+msgstr "Keskimmäinen, suun keskellä"
+
+msgid "The most advanced of the three, on the cheek"
+msgstr "Edistynein kolmesta, poskella"
+
+msgid "The star on the eyebrow and the eye"
+msgstr "Tähti kulmakarvoissa ja silmässä"
+
+msgid "The one to the north of this, about on the hair"
+msgstr "Se, joka on tämän pohjoispuolella, noin hiuksissa"
+
+msgid "The one in advance of these, about on the mane"
+msgstr "Näitä edellä oleva, noin harjalla"
+
+msgid ""
+"The northernmost star on the advance side of the quadrilateral in the chest"
+msgstr "Pohjoisin tähti nelikulmion etupuolella rinnassa"
+
+msgid "The southernmost one on the advance side"
+msgstr "Eteläisin etupuolella"
+
+msgid "The southernmost one on the rear side"
+msgstr "Eteläisin takapuolella"
+
+msgid "The midmost of the three stars in the body"
+msgstr "Keskimmäinen kolmesta tähdestä kehossa"
+
+msgid "The rearmost of the two stars by the section next to the tail"
+msgstr "Takaosan kahdesta tähdestä hännän vieressä olevan osan kohdalla"
+
+msgid ""
+"The northernmost star on the rear side of the quadrilateral in the section "
+"next to the tail"
+msgstr "Pohjoisin tähti nelikulmion takapuolella hännän viereisessä osassa"
+
+msgid ""
+"The one on the northern tail-fin of the two stars at the ends of the tail-"
+"fins"
+msgstr "Häntäevien päissä olevien kahden tähden pohjoisessa oleva pyrstöevä"
+
+msgid "The one on the end of the southern tail-fin"
+msgstr "Eteläisen häntäevän päässä oleva"
+
+msgid "The second frog"
+msgstr "Toinen sammakko"
+
+msgid "The nebulous star in the head of Orion, the three close stars"
+msgstr "Sumuinen tähti Orionin päässä, kolme läheistä tähteä"
+
+msgid "The bright, reddish star on the right shoulder"
+msgstr "Kirkas, punertava tähti oikealla olkapäällä"
+
+msgid "The one under this to the rear"
+msgstr "Tämän alla oleva taakse"
+
+msgid ""
+"The rear, double star on the southern side of the quadrilateral in the right "
+"hand"
+msgstr "Taka, kaksoistähti nelikulmion eteläpuolella oikeassa kädessä"
+
+msgid "The rear one on the northern side"
+msgstr "Takaosa pohjoisen puolella"
+
+msgid "The advance one on the northern side"
+msgstr "Edellinen yksi pohjoispuolella"
+
+msgid "The more advanced of the two stars in the staff"
+msgstr "Edistyneempi henkilökunnan kahdesta tähdestä"
+
+msgid ""
+"The rearmost of the four stars almost on a straight line just over the back"
+msgstr "Takaisin neljästä tähdestä melkein suoraan selän yläpuolella"
+
+msgid "The one in advance again of this"
+msgstr "Etukäteen taas tästä"
+
+msgid "The last and most advanced of the four"
+msgstr "Viimeinen ja edistynein neljästä"
+
+msgid "The northernmost of the nine stars in the pelt on the left arm"
+msgstr "Pohjoisin vasemman käsivarren turkin yhdeksästä tähdestä"
+
+msgid "The second from the northernmost"
+msgstr "Toinen pohjoisimmasta"
+
+msgid "The third from the northernmost"
+msgstr "Kolmas pohjoisimmasta"
+
+msgid "The fourth from the northernmost"
+msgstr "Neljäs pohjoisimmasta"
+
+msgid "The fifth from the northernmost"
+msgstr "Viides pohjoisimmasta"
+
+msgid "The sixth from the northernmost"
+msgstr "Kuudes pohjoisimmasta"
+
+msgid "The seventh from the northernmost"
+msgstr "Seitsemäs pohjoisimmasta"
+
+msgid "The eighth from the northernmost"
+msgstr "Kahdeksas pohjoisimmasta"
+
+msgid "The last and southernmost of those in the pelt"
+msgstr "Viimeinen ja eteläisin niistä"
+
+msgid "The most advanced of the three stars on the belt"
+msgstr "Edistyksellisin vyön kolmesta tähdestä"
+
+msgid "The star near the handle of the dagger"
+msgstr "Tähti tikarin kahvan lähellä"
+
+msgid ""
+"The northernmost of the three stars joined together at the tip of the dagger"
+msgstr "Kolmesta tähdestä pohjoisin liittyi yhteen tikarin kärjessä"
+
+msgid "The rearmost of the two stars under the tip of the dagger"
+msgstr "Takaosan kahdesta tähdestä tikarin kärjen alla"
+
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr "Kirkas tähti vasemmassa jalassa, joka on yleinen [Eridanuksen] vedessä"
+
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr "Tähti sen pohjoispuolella sääreessä, nilkkanivelen päällä"
+
+msgid "The star under the left heel, outside"
+msgstr "Tähti vasemman kantapään alla, ulkopuolella"
+
+msgid "The star under the right, rear knee"
+msgstr "Tähti oikean takapolven alla"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shoulder of Al-Jawza"
+msgstr "Al-Jawzan olkapää"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Hand of Al-Jawza"
+msgstr "Al-Jawzan käsi"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shepherd of Al-Jawza"
+msgstr "Al-Jawzan paimen"
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr "Al-Najidh"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+#. TRANSLATORS: Al-Mirzam is a proper name
+msgid "Al-Mirzam"
+msgstr "Al-Mirzam"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Leg of Al-Jawza"
+msgstr "Al-Jawzan jalka"
+
+msgid ""
+"The star after the one in the foot of Orion, at the beginning of the river"
+msgstr "Tähti Orionin juurella, joen alussa olevan tähden jälkeen"
+
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr "Tästä pohjoiseen, kaaressa lähellä Orionin sääriä"
+
+msgid "The rearmost of the two stars next in order after this"
+msgstr "Takaosan kahdesta tähdestä seuraavaksi järjestyksessä tämän jälkeen"
+
+msgid "The rearmost of the next two in order again"
+msgstr "Takaosan kahdesta seuraavasta taas järjestyksessä"
+
+msgid "The rearmost of the three stars after this"
+msgstr "Takaosan kolmesta tähdestä tämän jälkeen"
+
+msgid "The rearmost of the four stars in the next interval"
+msgstr "Takaosan neljästä tähdestä seuraavalla aikavälillä"
+
+msgid "The most advanced of the four"
+msgstr "Edistynein neljästä"
+
+msgid "The rearmost of the four stars in the next likewise interval again"
+msgstr "Takaisin neljästä tähdestä seuraavassa samoin välissä"
+
+msgid ""
+"The first star in the bend of the river, which touches the chest of Cetus"
+msgstr "Ensimmäinen tähti joen mutkassa, joka koskettaa Valaskalan rintaa"
+
+msgid "The most advanced of the next consecutive three"
+msgstr "Edistynein kolmesta seuraavasta peräkkäisestä"
+
+msgid ""
+"The northern one on the advance side of the next four stars, nearly forming "
+"a trapezium"
+msgstr ""
+"Pohjoinen neljän seuraavan tähden etupuolella, muodostaen melkein "
+"puolisuunnikkaan"
+
+msgid "The southernmost on the advance side"
+msgstr "Eteläisin etupuolella"
+
+msgid "The more advanced one on the rear side"
+msgstr "Edistyneempi takapuolella"
+
+msgid "The last of the four, the rear one on that side"
+msgstr "Viimeinen neljästä, takimmainen sillä puolella"
+
+msgid ""
+"The northernmost of the two stars close together at some distance to the east"
+msgstr ""
+"Näistä kahdesta tähdestä pohjoisin on lähellä toisiaan jonkin matkan päässä "
+"itään"
+
+msgid "The rearmost of the next two stars after the bend"
+msgstr "Takaosan kahdesta seuraavasta tähdestä mutkan jälkeen"
+
+msgid "The rearmost of the three stars in the next interval"
+msgstr "Takaosan kolmesta tähdestä seuraavassa välissä"
+
+msgid "The last star of the river, the bright one, called 'The male ostrich'"
+msgstr "Joen viimeinen tähti, kirkas, nimeltään \"urosstrutsi\""
+
+msgid ""
+"The northern star on the advance side of the quadrilateral just over the ears"
+msgstr "Pohjoinen tähti nelikulmion etupuolella hieman korvien yläpuolella"
+
+msgid "The northern star on the rear side"
+msgstr "Pohjoinen tähti takapuolella"
+
+msgid "The southern star on the rear side"
+msgstr "Eteläinen tähti takapuolella"
+
+msgid "The star in the chin"
+msgstr "Tähti leuassa"
+
+msgid "The star on the left front foot"
+msgstr "Tähti vasemmassa etujalassa"
+
+msgid "The star in the middle of the body"
+msgstr "Tähti keskellä kehoa"
+
+msgid "The star under the belly"
+msgstr "Tähti vatsan alla"
+
+msgid "The northernmost of the two stars in the hind legs"
+msgstr "Pohjoisin kahdesta tähdestä takajaloissa"
+
+msgid "CMa_1"
+msgstr "CMa_1"
+
+msgid "CMa_2"
+msgstr "CMa_2"
+
+msgid "CMa_3"
+msgstr "CMa_3"
+
+msgid "CMa_4"
+msgstr "CMa_4"
+
+msgid "CMa_5"
+msgstr "CMa_5"
+
+msgid "CMa_6"
+msgstr "CMa_6"
+
+msgid "CMa_7"
+msgstr "CMa_7"
+
+msgid "CMa_8"
+msgstr "CMa_8"
+
+msgid "CMa_9"
+msgstr "CMa_9"
+
+msgid "CMa_10"
+msgstr "CMa_10"
+
+msgid "CMa_11"
+msgstr "CMa_11"
+
+msgid "CMa_12"
+msgstr "CMa_12"
+
+msgid "CMa_13"
+msgstr "CMa_13"
+
+msgid "CMa_14"
+msgstr "CMa_14"
+
+msgid "CMa_15"
+msgstr "CMa_15"
+
+msgid "CMa_16"
+msgstr "CMa_16"
+
+msgid "CMa_17"
+msgstr "CMa_17"
+
+msgid "CMa_18"
+msgstr "CMa_18"
+
+msgid "CMa_a_01"
+msgstr "CMa_a_01"
+
+msgid "CMa_a_02"
+msgstr "CMa_a_02"
+
+msgid "CMa_a_03"
+msgstr "CMa_a_03"
+
+msgid "CMa_a_04"
+msgstr "CMa_a_04"
+
+msgid "CMa_a_05"
+msgstr "CMa_a_05"
+
+msgid "CMa_a_06"
+msgstr "CMa_a_06"
+
+msgid "CMa_a_07"
+msgstr "CMa_a_07"
+
+msgid "CMa_a_08"
+msgstr "CMa_a_08"
+
+msgid "CMa_a_09"
+msgstr "CMa_a_09"
+
+msgid "CMa_a_10"
+msgstr "CMa_a_10"
+
+msgid "CMa_a_11"
+msgstr "CMa_a_11"
+
+#. TRANSLATORS: Shi'raa is the Arabic proper name of Sirius
+msgid ""
+"The star in the mouth, with utmost brightness, which is called 'the Dog' and "
+"'Southern or crossing Shi'raa'"
+msgstr ""
+"Tähti suussa, äärimmäisen kirkas, jota kutsutaan \"koiraksi\" ja "
+"\"eteläiseksi tai ylittäväksi Shi'raa\""
+
+msgid "The star on the ears"
+msgstr "Tähti korvissa"
+
+msgid "The star on the chest"
+msgstr "Tähti rinnassa"
+
+msgid "The northernmost of the two stars on the right knee"
+msgstr "Oikean polven kahdesta tähdestä pohjoisin"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+msgid "The star on the end of the front leg, called 'Al-Mirzam'"
+msgstr "Tähti etujalan päässä, nimeltään \"Al-Mirzam\""
+
+msgid "The more advanced of the two stars in the left knee"
+msgstr "Edistyneempi vasemman polven kahdesta tähdestä"
+
+msgid "The rearmost of the two stars in the left shoulder"
+msgstr "Takaosan kahdesta tähdestä vasemmassa olkapäässä"
+
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "Tähti paikassa, jossa vasen reisi liittyy [vartaloon]"
+
+msgid "The star below the belly, in the place between the thighs"
+msgstr "Tähti vatsan alapuolella, reisien välissä"
+
+msgid "The star on the joint of the right leg"
+msgstr "Tähti oikean jalan nivelessä"
+
+msgid "The star on the end of the right leg"
+msgstr "Tähti oikean jalan päässä"
+
+msgid "The star on the tail"
+msgstr "Tähti hännässä"
+
+msgid "The star to the north of the top of the dog skull"
+msgstr "Tähti koiran kallon yläosan pohjoispuolella"
+
+msgid ""
+"The southernmost of the four stars almost on a straight line under the hind "
+"legs"
+msgstr "Eteläisin neljästä tähdestä lähes suorassa linjassa takajalkojen alla"
+
+msgid "The one north of this"
+msgstr "Tästä pohjoiseen"
+
+msgid "The last and northernmost of the four"
+msgstr "Viimeinen ja pohjoisin neljästä"
+
+msgid ""
+"The most advanced of the three stars almost on a straight line to the west "
+"of the [above] four"
+msgstr ""
+"Edistynein kolmesta tähdestä melkein suoralla linjalla [yllä olevan] neljän "
+"länsipuolella"
+
+msgid "The rearmost of the two bright stars under these"
+msgstr "Takaosan kahdesta kirkkaasta tähdestä näiden alla"
+
+msgid "The last star, to the south of the above"
+msgstr "Viimeinen tähti edellä mainitun eteläpuolella"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa that crossed [the milky way]"
+msgstr "Shi'raan Mirzam, joka ylitti [Linnunradan]"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa"
+msgstr "Shi'raan Mirzam"
+
+msgid "The dog"
+msgstr "Koira"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder.
+msgid "The star in the neck, called Al-Mirzam"
+msgstr "Tähti kaulassa, nimeltään Al-Mirzam"
+
+#. TRANSLATORS: The northern Shi'raa or tearfull Shi'raa is a proper arabic
+#. name for Procyon.
+msgid ""
+"The bright star just over the hindquarters, called 'The northern or tearfull "
+"Shi'raa'"
+msgstr ""
+"Kirkas tähti juuri takaneljänneksen yläpuolella, nimeltään \"pohjoinen tai "
+"kyyneleitä täyttävä Shi'raa\""
+
+msgid "The more advanced of the two stars at the end of the ship"
+msgstr "Edistyneempi kahdesta tähdestä aluksen päässä"
+
+msgid ""
+"The northernmost of the two stars close together over the little shield in "
+"the poop"
+msgstr ""
+"Näistä kahdesta tähdestä pohjoisin on lähellä toisiaan kakassa olevan pienen "
+"kilven päällä"
+
+msgid "The star in advance of these"
+msgstr "Tähti näitä edellä"
+
+msgid "The bright star in the middle of the little shield"
+msgstr "Kirkas tähti pienen kilven keskellä"
+
+msgid "The most advanced of the three stars under the little shield"
+msgstr "Edistyksellisin kolmesta tähdestä pienen kilven alla"
+
+msgid "The star on the stern neck"
+msgstr "Tähti kaulassa"
+
+msgid ""
+"The northernmost of the two stars in the sternpost on which are the two "
+"stern cabins"
+msgstr "Pohjoisin kahdesta tähdestä perätolpassa, jossa on kaksi perähyttiä"
+
+msgid "The northernmost of the stars in the poop-deck"
+msgstr "Kakkakannen pohjoisin tähdistä"
+
+msgid "The most advanced of the next three"
+msgstr "Edistynein kolmesta seuraavasta"
+
+msgid "The bright star on the deck to the rear of these"
+msgstr "Kirkas tähti kannella näiden takana"
+
+msgid "The more advanced of the two faint stars under the bright one"
+msgstr "Edistyneempi kahdesta vaalean tähden alla olevista himmeistä tähdistä"
+
+msgid "The more advanced of the two stars over the above-mentioned bright one"
+msgstr ""
+"Edistyneempi kahdesta tähdestä edellä mainittuun kirkkaaseen verrattuna"
+
+msgid ""
+"The northernmost of the three stars on the little shields, about on the mast-"
+"holder"
+msgstr "Pohjoisin kolmesta tähdestä pienissä kilpissä, noin mastonpidikkeessä"
+
+msgid "The northernmost of the two stars close together under these"
+msgstr "Näistä kahdesta tähdestä pohjoisin on lähellä toisiaan näiden alla"
+
+msgid "The southernmost of the two stars in the middle of the mast"
+msgstr "Maston keskellä olevista kahdesta tähdestä eteläisin"
+
+msgid "The more advanced of the two stars by the tip of the mast"
+msgstr "Edistyneempi kahdesta tähdestä maston kärjen mukaan"
+
+msgid "The star below the three rear little shield"
+msgstr "Tähti kolmen takaosan pienen kilven alla"
+
+msgid "The star on the cut-off of the deck"
+msgstr "Tähti kannen rajalla"
+
+msgid "The star between the steering-oars in the keel"
+msgstr "Tähti kölin ohjausaivojen välissä"
+
+msgid "The faint star to the rear of this"
+msgstr "Haalea tähti tämän takana"
+
+msgid "The bright star to the rear of this, under the deck"
+msgstr "Kirkas tähti tämän takana, kannen alla"
+
+msgid "The bright star to the south of this, on the sternpost"
+msgstr "Kirkas tähti tämän eteläpuolella, perässä"
+
+msgid "The most advanced of the three stars to the rear of this"
+msgstr "Edistynein kolmesta tähdestä tämän takana"
+
+msgid ""
+"The more advanced of the two stars to the rear of these, near the cut-off of "
+"the deck"
+msgstr "Edistyneempi kahdesta tähdestä näiden takana, lähellä kannen rajaa"
+
+msgid ""
+"The more advanced of the two stars in the northern, advance steering-oar"
+msgstr "Edistyneempi kahdesta pohjoisen tähdestä, etukäteisohjaus"
+
+#. TRANSLATORS: Suhayl is the Arabic proper name of Canopus
+msgid ""
+"The more advanced of the two stars in the other steering-oar, called "
+"Canopus, and it is Suhayl"
+msgstr ""
+"Edistyneempi kahdesta tähdestä toisessa ohjausaiossa, nimeltään Canopus, ja "
+"se on Suhayl"
+
+msgid "The other, rearmost star"
+msgstr "Toinen, takimmainen tähti"
+
+msgid ""
+"The southernmost of the two advance ones, which is on the nostrils of the "
+"five stars in the head"
+msgstr ""
+"Eteläisin kahdesta edistyneestä, joka on pään viiden tähden sieraimissa"
+
+msgid "The northernmost of these two, which is above the eye"
+msgstr "Näistä kahdesta pohjoisin, joka on silmän yläpuolella"
+
+msgid ""
+"The northernmost of the two to the rear of these, which is about on the skull"
+msgstr "Näistä kahdesta pohjoisin takana, joka on noin kallon päällä"
+
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "Eteläisin niistä, aukeavilla leuoilla"
+
+msgid "The rearmost of all, about on the chin"
+msgstr "Kaikkein takimmainen, noin leuassa"
+
+msgid ""
+"The more advanced of the two stars in the place where the neck joins [the "
+"head]"
+msgstr "Edistyneempi kahdesta tähdestä paikassa, jossa niska liittyy [pää]"
+
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "Seuraavien kolmen keskimmäinen tähti kaulan mutkassa"
+
+msgid "The faint, northernmost star of the two close together to the south"
+msgstr "Heikko, pohjoisin tähti kahdesta lähellä toisiaan etelässä"
+
+#. TRANSLATORS: Al-Fard is a proper name meaning the lone star
+msgid "The bright one of these two close stars, called Al-Fard"
+msgstr "Kirkas näistä kahdesta läheisestä tähdestä, nimeltään Al-Fard"
+
+msgid ""
+"The most advanced of the three stars to the rear, after the bend [in the "
+"neck]"
+msgstr "Edistynein kolmesta takana olevasta tähdestä mutkan jälkeen [niskassa]"
+
+msgid "The most advanced of the next three stars almost on a straight line"
+msgstr "Edistynein kolmesta seuraavasta tähdestä melkein suoralla linjalla"
+
+msgid ""
+"The northernmost of the two stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr "Pohjoisin kahdesta tähdestä [eli takaosan] Maljan pohjan jälkeen"
+
+msgid ""
+"The most advanced of the three stars after these, as it were in a triangle"
+msgstr "Edistynein kolmesta tähdestä näiden jälkeen, ikään kuin kolmiossa"
+
+msgid "The middle and southernmost one"
+msgstr "Keskimmäinen ja eteläisin"
+
+msgid "The star after Corvus, in the section by the tail"
+msgstr "Tähti Korpin jälkeen, hännän vieressä"
+
+msgid "The star to the south of the head"
+msgstr "Tähti pään eteläpuolella"
+
+msgid "The star some distance to the rear of those in the neck"
+msgstr "Tähti jonkin matkan päässä niskassa olevien takana"
+
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr "Tähti kulhon pohjassa, joka [sovelletaan] yleinen Vesikäärmeelle"
+
+msgid "The southernmost of the two stars in the middle of the bowl"
+msgstr "Kulhon keskellä olevista kahdesta tähdestä eteläisin"
+
+msgid "The star on the southern rim of the mouth"
+msgstr "Tähti suun eteläreunalla"
+
+msgid "The star on the northern rim"
+msgstr "Tähti pohjoisreunalla"
+
+msgid "The star on the southern handle"
+msgstr "Tähti eteläisessä kahvassa"
+
+msgid "The star on the northern handle"
+msgstr "Tähti pohjoisessa kahvassa"
+
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "Tähti nokassa, joka on yleinen Vesikäärmeelle"
+
+msgid "The star in the neck, by the head"
+msgstr "Tähti kaulassa, päässä"
+
+msgid "The star in the advance, right wing"
+msgstr "Tähti edessä, oikea siipi"
+
+msgid "The more advanced of the two stars in the rear wing"
+msgstr "Edistyneempi takasiiven kahdesta tähdestä"
+
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr "Tähti jalan päässä, joka [sovelletaan] yhteinen Hydralle"
+
+msgid "The southernmost of the four stars in the head"
+msgstr "Pään neljästä tähdestä eteläisin"
+
+msgid "The more advanced of the other, middle two"
+msgstr "Edistyneempi toisesta, kaksi keskimmäistä"
+
+msgid "The rearmost of these, the last of the four"
+msgstr "Näistä takimmainen, viimeinen neljästä"
+
+msgid "The star on the left, advance shoulder"
+msgstr "Tähti vasemmalla, eteenpäin olkapää"
+
+msgid "The star on the left shoulder-blade"
+msgstr "Tähti vasemmassa lapaluussa"
+
+msgid "The northernmost of the advance two of the four stars in the thyrsus"
+msgstr "Tähti vasemmassa lapaluussa"
+
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr "Se toinen kahdesta muusta, joka on tyrsuksen kärjessä"
+
+msgid "The last one, south of the latter"
+msgstr "Viimeinen, jälkimmäisen eteläpuolella"
+
+msgid "The most advanced of the three stars in the right side"
+msgstr "Edistynein oikealla olevasta kolmesta tähdestä"
+
+msgid "The star in the right hand"
+msgstr "Tähti oikeassa kädessä"
+
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr "Kirkas tähti paikassa, jossa ihmiskeho liittyy [hevosen]"
+
+msgid "The rearmost of the two faint stars to the north of this"
+msgstr "Takaosan kahdesta haaleasta tähdestä tämän pohjoispuolella"
+
+msgid "The star in advance of this, on the horse's back"
+msgstr "Tähti ennen tätä, hevosen selässä"
+
+msgid "The rearmost of the stars on the rump"
+msgstr "Takaosan tähdistä pyrstössä"
+
+msgid "The more advanced of the two stars close together on the right thigh"
+msgstr "Edistyneempi kahdesta tähdestä on lähellä toisiaan oikeassa reidessä"
+
+msgid "The star in the chest, under the horse's armpit"
+msgstr "Tähti rinnassa, hevosen kainalon alla"
+
+msgid "The more advanced of the two stars under the belly"
+msgstr "Edistyneempi kahdesta vatsan alla olevista tähdistä"
+
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "Tähti oikean [taka-] jalan polvikulmassa"
+
+msgid "The star in the hock of the same leg"
+msgstr "Tähti saman jalan kintereessä"
+
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr "Tähti vasemman [taka-] jalan polvikulman alla"
+
+msgid "The star on the frog of the hoof on the same leg"
+msgstr "Tähti sammakon kaviossa samalla jalalla"
+
+msgid "The star on the end of the right front leg"
+msgstr "Tähti oikean etujalan päässä"
+
+msgid "The star on the knee of the left [front] leg"
+msgstr "Tähti vasemman [etu]jalan polvessa"
+
+msgid "The star outside, under the right hind leg"
+msgstr "Tähti ulkopuolella, oikean takajalan alla"
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr "Al-Wazn"
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr "Hadari"
+
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr "Tähti takajalan päässä, Centauruksen [oikealla] kädellä"
+
+msgid "The star on the bend in the same leg"
+msgstr "Tähti mutkassa samassa jalassa"
+
+msgid "The more advanced of the two stars just over the shoulder-blade"
+msgstr "Edistyneempi kahdesta tähdestä hieman lapaluiden yläpuolella"
+
+msgid "The star in the middle of the body of Lupus"
+msgstr "Tähti Suden kehon keskellä"
+
+msgid "The star in the belly, under the flank"
+msgstr "Tähti vatsassa kyljen alla"
+
+msgid "The star on the thigh"
+msgstr "Tähti reidessä"
+
+msgid ""
+"The northernmost of the two stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+"Pohjoisin kahdesta tähdestä lähellä paikkaa, jossa reisi liittyy [vartaloon]"
+
+msgid "The star on the end of the rump"
+msgstr "Tähti lantion päässä"
+
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "Eteläisin kolmesta tähdestä hännän päässä"
+
+msgid "The southernmost of the two stars in the neck"
+msgstr "Kaulan kahdesta tähdestä eteläisin"
+
+msgid "The more advanced of the two stars in the snout"
+msgstr "Edistyneempi kahdesta kuonon tähdestä"
+
+msgid "The southernmost of the two stars in the front leg, on the hand"
+msgstr "Eteläisin kahdesta tähdestä etujalassa, kädessä"
+
+msgid "The northernmost of the two stars in the base"
+msgstr "Pohjoisin pohjan kahdesta tähdestä"
+
+msgid "The star in the middle of the little altar"
+msgstr "Tähti pienen alttarin keskellä"
+
+msgid "The northernmost of the three stars in the brazier"
+msgstr "Pohjoisin kolmesta tähdestä parranajossa"
+
+msgid "The southernmost of the other two which are close together"
+msgstr "Eteläisin kahdesta muusta, jotka ovat lähellä toisiaan"
+
+msgid "The northernmost of these two"
+msgstr "Näistä kahdesta pohjoisin"
+
+msgid "The star on the end of the burning-apparatus"
+msgstr "Tähti polttolaitteen päässä"
+
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "Edistyksellisin tähdistä eteläreunalla, [kruunun] ulkopuolella"
+
+msgid "The star to the rear of this on the crown"
+msgstr "Tähti tämän takana kruunussa"
+
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "Tämän jälkeen, ennen Jousimiehen polvea"
+
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius]"
+msgstr ""
+"Tämän jälkeinen, joka on pohjoiseen [Jousimiehen] polvessa olevasta "
+"kirkkaasta tähdestä"
+
+msgid "The star to the north of this"
+msgstr "Tähti tämän pohjoispuolella"
+
+msgid "The one to the north again of this"
+msgstr "Tästä taas pohjoiseen"
+
+msgid ""
+"The rearmost of the two stars after this, in advance, in the northern rim"
+msgstr "Takaosan kahdesta tähdestä tämän jälkeen, etukäteen, pohjoisreunassa"
+
+msgid "The more advanced of these two faint stars"
+msgstr "Edistyneempi näistä kahdesta himmeästä tähdestä"
+
+msgid "The star quite some distance in advance of this"
+msgstr "Tähti melko matkaa ennen tätä"
+
+msgid "The last one, which is south of the aforementioned star"
+msgstr "Viimeinen, joka on edellä mainitun tähden eteläpuolella"
+
+msgid "The most advanced of the three stars on the southern rim of the head"
+msgstr "Edistyksellisin pään eteläreunassa olevista kolmesta tähdestä"
+
+msgid "The star by the gills"
+msgstr "Tähti kidusten vieressä"
+
+msgid "The star on the southernmost spine on the back"
+msgstr "Tähti selässä eteläisimmässä selkärangassa"
+
+msgid "The rearmost of the two stars in the belly"
+msgstr "Takaosan kahdesta vatsan tähdestä"
+
+msgid "The rearmost of the three stars on the northern spine"
+msgstr "Takaosan pohjoisen selkärangan kolmesta tähdestä"
+
+msgid "Tassel of the lion"
+msgstr "Leijonan tupsu"
+
+msgid "The nebulous mass on the right hand"
+msgstr "Sumuinen massa oikealla kädellä"
+
+msgid "wrist of Al-Thurayya"
+msgstr "Al-Thurayyan ranne"
+
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "Tähti paikassa, jossa selkä liittyy [hevosen vartalo]"
+
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "Rinnassa olevan sumuisen massan keskiosa, nimeltään Praesepe"
+
+msgid "Nose tip of the lion"
+msgstr "Leijonan nenäkärki"
