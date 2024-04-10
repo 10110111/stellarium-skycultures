@@ -1,0 +1,3214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2024\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+# Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "Арабська (Аль-Суфі)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Book of Fixed Stars was written shortly before 964 AD. Dr. Paul "
+"Kunitzsch described it as \"the most outstanding among the works of the "
+"prominent astronomer Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (born in "
+"Rayy, 903; died 986), referred to as al-Sufi. In it, al-Şūfī treats the 48 "
+"classical constellations, which were established and transmitted in "
+"Ptolemy's Almagest. The description of each constellation comprises the "
+"following four sections: first, a general discussion of the constellation "
+"and its individual stars; this section also includes alŞūfi's criticism of "
+"the Ptolemaic tradition and notices of his own observations. Second, a "
+"record of the indigenous Arabic star names falling under that constellation, "
+"and the exact identification of the respective stars with the corresponding "
+"Ptolemaic stars. Third, two drawings of the constellation, one as it is seen "
+"on a celestial globe, and the other one as it is seen in the sky. Fourth, a "
+"table of the stars making up that constellation, giving a verbal description "
+"of each star's location and its longitude, latitude, and magnitude. This "
+"table closely follows the arrangement of Ptolemy's star catalogue in the "
+"Almagest.\" [#1]. In addition to the four sections of each constellation "
+"mentioned by dr. Kunitzsch, Al-Sufi would identify stars within the 6 "
+"magnitudes that were neglected by Ptolemy, but he did not catalogue them and "
+"was faithful to Ptolemy star catalog."
+msgstr ""
+"«Книгу нерухомих зірок» було написано незадовго до 964 р. н. е. Доктор "
+"Пауль\n"
+"Куніщ описав цю книгу як «найвидатнішу з робіт видатного астронома\n"
+"Абуль-Хусейна Абдуррахмана ібн Умара ас-Суфі (народився у Реї, 903; помер у\n"
+"Ширазі 986), якого називають аль-Суфі. У цій роботі аль-Суфі розглядає 48\n"
+"класичних сузір'їв, які було визначено і передано у «Альмагесті»\n"
+"Птолемея. Опис кожного сузір'я складається з чотирьох розділів: першого із\n"
+"загальним обговоренням сузір'я та його окремих зірок; до цього розділу "
+"також\n"
+"включено критику аль-Суфі традиції Птолемея та зауваження щодо його власних\n"
+"спостережень. Другим розділом є запис рідних арабських назв зірок сузір'я "
+"та\n"
+"точна ідентифікація цих зірок із відповідними зірками Птолемея. У третьому\n"
+"розділі наведено малюнки сузір'я — один вигляду сузір'я на небесному "
+"глобусі\n"
+"і один вигляду сузір'я на небі. Четвертий розділ містить таблицю зірок, з\n"
+"яких складається сузір'я зі словесним описом розташування кожної із зірок "
+"та\n"
+"її довготи, широти та величини. Ця таблиця дуже схожа на компонуванням на\n"
+"каталог зірок Птолемея у «Альмагесті».\" [#1]. Окрім чотирьох розділів для "
+"кожного\n"
+"сузір'я, про які згадує доктор Куніщ, аль-Суфі ідентифікує зірки за 6\n"
+"величинами, як було проігноровано Птолемеєм, але не каталогізує їх,\n"
+"довіряючи каталогу зірок Птолемея."
+
+# Sky culture description section in markdown format
+msgid ""
+"An important aspect of the general discussion section is Al-Sufi method of "
+"facilitating the star identification. He describes each individual star in "
+"more than way: By the star position related to the constellation figure, by "
+"its magnitude, by the asterism it forms with other stars like triangle or "
+"arc shapes, sometimes by the star position related to the Milky way, and by "
+"the angular distance from a close by star. I have counted more than 700 "
+"angular distances measured by al-Sufi in his book. The units he uses for "
+"angular distances are cubits, spear length, man-height, span, and finger. Al-"
+"Sufi explicitly said in his book that a cubit is equal to two degrees and 20 "
+"minutes [#2]. For the other units, Schjellerup concluded some values, but "
+"tracking the 700 measurements, I came up with different values. The "
+"following table summarizes the units and relationship to the cubit value "
+"from Schjellerup[#3] and from my research.\n"
+"\n"
+"### Angular distance units used by Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>&nbsp;</notr></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>unit</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spear</td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Man-Height</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 cubits</td>\n"
+"\t<td><notr>7°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>cubit</td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>span</td>\n"
+"\t<td>1/3 of a cubit</td>\n"
+"\t<td><notr>47'</notr></td>\n"
+"\t<td>1/2 of a cubit</td>\n"
+"\t<td><notr>1°10'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>finger</td>\n"
+"\t<td>1/32 of a cubit</td>\n"
+"\t<td><notr>4.4'</notr></td>\n"
+"\t<td>1/16 of a cubit</td>\n"
+"\t<td><notr>8.75'</notr></td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Another important aspect of Al-Sufi book is his record of the indigenous "
+"Arabic star names falling under each constellation, and the exact "
+"identification of the respective stars with the corresponding Ptolemaic "
+"stars. This means that we are looking at two layers of stars knowledge at "
+"the same time: the Ptolemaic one and the indigenous Arab one.\n"
+"\n"
+"### The Sky Culture\n"
+"\n"
+"This sky culture is a result of a research done on several manuscripts of "
+"the book, oldest of which is the [#8].\n"
+"\n"
+"First, the manuscripts of the Book of Fixed Stars were critically edited, "
+"and the text was produced. Second, each member star of the 48 constellations "
+"was identified according to Al-Sufi description, and new tables were built "
+"including modern star designations from the Hipparcos, Bright stars, and "
+"Bayer catalogues. Third, Arab indigenous star names were collected and "
+"identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous "
+"steps were included in a book published digitally of the Book of Fixed Stars "
+"plus explanations and commentary by Khalid Al-Ajaji[#4].\n"
+"\n"
+"The sky culture stick figures of the constellations are the images in the "
+"Ulugh Beg manuscript of the Book of Fixed Stars, extracted, and adapted for "
+"Stellarium by Mr. Kutaibaa Akraa [#5]. The star names file includes the star "
+"number in the constellation as the primary star name and the description of "
+"the star in the tables as a secondary name. For example, Polaris primary "
+"name that is displayed with the star is: UMi1, UMi being Ursa Minor and 1 is "
+"the first star of this constellation. If the star is selected other "
+"secondary names are displayed, which will display \"The star on the end of "
+"the tail\" on the top of the screen. The constellation lines are constructed "
+"according to the constellation shapes with an attempt to include most of the "
+"member stars. For indigenous Arab star knowledge, individual star names were "
+"added to the star file as secondary names, while names of group of stars "
+"were defined through asterism names and asterism lines files.\n"
+"\n"
+"The translation of star descriptions from Arabic into English was extracted "
+"from Ernie Wright website[#6] which was transcribed from Toomer's "
+"translation of the Almagest[#7]. The translation was modified in a few "
+"places to agree with Al-Sufi wording.\n"
+"\n"
+"The single source of the sky culture is the Book of Fixed Stars and the "
+"objective is to give a faithful representation of the book content."
+msgstr ""
+"Важливим аспектом розділу загального обговорення є спосіб аль-Суфі\n"
+"полегшення ідентифікації зірок. Він описує кожну зірку окремо у декілька\n"
+"способів: за розташуванням зірки відносно фігури сузір'я, за її величиною,\n"
+"за астеризмом, який вона формує разом із іншими зірками, наприклад формою\n"
+"трикутника або дуги, іноді за розташуванням зірки відносно Чумацького Шляху\n"
+"та за кутовою відстанню від близької зірки. Автор картини зоряного неба\n"
+"нарахував понад 700 кутових відстаней, які було виміряно аль-Суфі для його\n"
+"книги. Одиницями, які було ним використано для вимірювання кутових "
+"відстаней\n"
+"є лікоть, довжина списа, зріст людини, п'ядь та палець. Аль-Суфі явним "
+"чином\n"
+"пояснює у своїй книзі, що лікоть дорівнює двом градусам і 20 мінутам[#2]. "
+"Для інших одиниць міркування наведено\n"
+"Шєллерупом, але аналізуючи 700 вимірювань, автор картини зоряного неба "
+"вивів\n"
+"інші значення. У наведеній нижче таблиці вказано взаємозв'язок одиниць із\n"
+"значенням ліктя з роботи Шєллерупа[#3]\n"
+"та дослідження автора картини зоряного неба.\n"
+"\n"
+"### Одиниці кутової відстані, які використовував аль-Суфі\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td>&nbsp;</td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Шєллеруп</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Халід</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>одиниця</b></td>\n"
+"\t<td><b>лікті</b></td>\n"
+"\t<td><b>Значення кута</b></td>\n"
+"\t<td><b>лікті</b></td>\n"
+"\t<td><b>Значення кута</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>спис</td>\n"
+"\t<td>6 ліктів</td>\n"
+"\t<td>14°</td>\n"
+"\t<td>6 ліктів</td>\n"
+"\t<td>14°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Зріст людини</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 ліктя</td>\n"
+"\t<td>7°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>лікоть</td>\n"
+"\t<td>1 лікоть</td>\n"
+"\t<td>2°20'</td>\n"
+"\t<td>1 лікоть</td>\n"
+"\t<td>2°20'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>п'ядь</td>\n"
+"\t<td>1/3 ліктя</td>\n"
+"\t<td>47'</td>\n"
+"\t<td>1/2 ліктя</td>\n"
+"\t<td>1°10'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>палець</td>\n"
+"\t<td>1/32 ліктя</td>\n"
+"\t<td>4.4'</td>\n"
+"\t<td>1/16 ліктя</td>\n"
+"\t<td>8.75'</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Ще одним важливим аспектом книги аль-Суфі є його записи арабських назв "
+"зірок\n"
+"під кожним сузір'ям і точна ідентифікація відповідних зірок із описаними\n"
+"Птолемеєм. Це означає, що ми маємо два шари знань про зірки водночас:\n"
+"птолемеїв та арабський.\n"
+"\n"
+"### Картина зоряного неба\n"
+"\n"
+"Ця картина зоряного неба є результатом досліджень, які виконано на основі\n"
+"аналізу декількох рукописів книги, найдавнішим з яких є [#8].\n"
+"\n"
+"Спочатку було виконано критичне редагування «Книги нерухомих зірок» зі\n"
+"створенням текстової частини. Далі, було ідентифіковано усі зірки 48\n"
+"сузір'їв, відповідно до опису аль-Суфі і побудовано нові таблиці, до яких\n"
+"включено сучасні позначення зірок з каталогів Гіппарха, каталогу яскравих\n"
+"зірок та каталогу Беєра. Потім було зібрано арабські назви зірок і\n"
+"ідентифіковано їх прив'язкою аль-Суфі до птолемеєвих. Усі попередні кроки\n"
+"було включено до опублікованої у цифровому форматі «Книги нерухомих зірок "
+"із\n"
+"поясненнями і коментарями Халіда аль-Аджаджі»[#4].\n"
+"\n"
+"Каркасні фігури сузір'їв картини зоряного неба є зображеннями із рукопису\n"
+"Улугбека «Книги нерухомих зірок», які видобуто і адаптовано до паном\n"
+"Кутайбою Акраа[#5]. До файла назв зірок\n"
+"включено номер зірки у сузір'ї як основну назву зірки та опис зірки у\n"
+"таблицях як допоміжну назву. Наприклад, основною назвою Полярної, яку\n"
+"показано поряд із зіркою, є UMi1, UMi — Ursa Minor і 1 — перша зірка\n"
+"сузір'я. Якщо зірку позначено, у верхній частині екрана буде показано\n"
+"допоміжну назву, якою є «Зірка на кінці хвоста». Лінії сузір'їв побудовано\n"
+"відповідно до форм сузір'їв зі спробую включити найбільше зірок\n"
+"сузір'я. Рідні арабські назви зірок включено як окремі назви у записах\n"
+"допоміжних назв файла назв зірок. Назви груп зірок визначено за допомогою\n"
+"назв астеризмів та файлів ліній астеризмів.\n"
+"\n"
+"Переклад описів зірок з арабської англійською мовою було видобуто із сайта\n"
+"Ерні Райта (Ernie Wright)[#6], де\n"
+"використано транскрипцію із перекладу Тумера «Альмагеста»[#7]. У декількох "
+"місцях переклад було змінено\n"
+"для узгодження зі словами, які використано аль-Суфі.\n"
+"\n"
+"Єдиним джерелом даних карти зоряного неба є «Книга нерухомих зірок», а "
+"метою\n"
+"є створення достовірного представлення вмісту книги."
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: "
+"turath.alfalak@gmail.com"
+msgstr ""
+"Картину зоряного неба «Книги нерухомих зірок» було створено і додано до\n"
+"Stellarium Халідом Аль-Аджаджі: turath.alfalak@gmail.com"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: See Al-Sufi description in his book of the 14th star in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+msgstr ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch, The Astronomer Abu'L-"
+"Husayn Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: Див. опис аль-Суфі у його книзі 14-ї зірки у Візничому.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Книга нерухомих зірок: видання з критикою, коментарі Халіда "
+"Альаджаджі](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Копія Улугбека, Абдуррахман ібн Умар ас-Суфі. Kitāb ṣuwar al-"
+"kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Погляд на давні зірки, візуалізація каталогу Альмагеста](http://"
+"www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144, датований 1009 р. н. е.]"
+"(https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-"
+"f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+
+msgid "The spear"
+msgstr "Спис"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Аль-Турая"
+
+msgid "Ursa Minor"
+msgstr "Мала Ведмедиця"
+
+msgid "Ursa Major"
+msgstr "Велика Ведмедиця"
+
+msgid "Draco"
+msgstr "Дракон"
+
+msgid "Cepheus"
+msgstr "Цефей"
+
+msgid "Bootes"
+msgstr "Волопас"
+
+msgid "Corona Borealis"
+msgstr "Північна Корона"
+
+msgid "Hercules"
+msgstr "Геркулес"
+
+msgid "Lyra"
+msgstr "Ліра"
+
+msgid "Cygnus"
+msgstr "Лебідь"
+
+msgid "Cassiopeia"
+msgstr "Кассіопея"
+
+msgid "Perseus"
+msgstr "Персей"
+
+msgid "Auriga"
+msgstr "Візничий"
+
+msgid "Ophiuchus"
+msgstr "Змієносець"
+
+msgid "Serpens"
+msgstr "Змія"
+
+msgid "Sagitta"
+msgstr "Стріла"
+
+msgid "Aquila"
+msgstr "Орел"
+
+msgid "Delphinus"
+msgstr "Дельфін"
+
+msgid "Equuleus"
+msgstr "Малий Кінь"
+
+msgid "Pegasus"
+msgstr "Пегас"
+
+msgid "Andromeda"
+msgstr "Андромеда"
+
+msgid "Triangulum"
+msgstr "Трикутник"
+
+msgid "Aries"
+msgstr "Овен"
+
+msgid "Taurus"
+msgstr "Телець"
+
+msgid "Gemini"
+msgstr "Близнюки"
+
+msgid "Cancer"
+msgstr "Рак"
+
+msgid "Leo"
+msgstr "Лев"
+
+msgid "Virgo"
+msgstr "Діва"
+
+msgid "Libra"
+msgstr "Терези"
+
+msgid "Scorpius"
+msgstr "Скорпіон"
+
+msgid "Sagittarius"
+msgstr "Стрілець"
+
+msgid "Capricornus"
+msgstr "Козоріг"
+
+msgid "Aquarius"
+msgstr "Водолій"
+
+msgid "Pisces"
+msgstr "Риби"
+
+msgid "Cetus"
+msgstr "Левіафан"
+
+msgid "Orion"
+msgstr "Оріон"
+
+msgid "Eridanus"
+msgstr "Ерідан"
+
+msgid "Lepus"
+msgstr "Заєць"
+
+msgid "Canis Major"
+msgstr "Великий Пес"
+
+msgid "Canis Minor"
+msgstr "Малий Пес"
+
+msgid "Argo Navis"
+msgstr "Корабель «Арго»"
+
+msgid "Hydra"
+msgstr "Гідра"
+
+msgid "Crater"
+msgstr "Чаша"
+
+msgid "Corvus"
+msgstr "Ворон"
+
+msgid "Centaurus"
+msgstr "Кентавр"
+
+msgid "Lupus"
+msgstr "Вовк"
+
+msgid "Ara"
+msgstr "Ara"
+
+msgid "Corona Australis"
+msgstr "Південна Корона"
+
+msgid "Piscis Austrinus"
+msgstr "Південна Риба"
+
+msgid "The Horse"
+msgstr "Кінь"
+
+msgid "The great fish"
+msgstr "Велика риба"
+
+msgid "The other fish"
+msgstr "Інша риба"
+
+#. TRANSLATORS: The Kid (Baby male goat) is the name of Polaris in Arabic.
+msgid "The star on the end of the tail: it is the Kid"
+msgstr "Зірка наприкінці хвоста: Дитя"
+
+msgid "The one next to it on the tail"
+msgstr "Зірка поряд із нею у хвості"
+
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "Зірка поряд, до місця, де хвіст з'єднується [з тілом]"
+
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "Найпівденніша з зірок на передній стороні прямокутника"
+
+msgid "The northernmost of [those in] the same side"
+msgstr "Найпівнічніша з [тих, які] того самого боку"
+
+msgid "The southern star in the rear side: The brighter of the two calves"
+msgstr "Південна зірка на задньому боці: яскравіший з двох жереб'ят"
+
+msgid "The northern one in the same side: The dimmer of the two calves"
+msgstr "Північна зірка на тому самому боці: тьмяніший з двох жереб'ят"
+
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+"Зірка лежить на прямій ліній із зірками на задньому боці [прямокутника] і "
+"півдні від них"
+
+msgid "The star on the end of the snout"
+msgstr "Зірка на кінчику рила"
+
+msgid "The more advanced of the stars in the two eyes"
+msgstr "Передніша з зірок у двох очах"
+
+msgid "The one to the rear"
+msgstr "Зірка ззаду"
+
+msgid "The more advanced of the two stars in the forehead"
+msgstr "Передніша з двох зірок на лобі"
+
+msgid "The star on the tip of the advance ear"
+msgstr "Зірка на кінчику переднього вуха"
+
+msgid "The more advanced of the two stars in the neck"
+msgstr "Передніша з двох зірок на шиї"
+
+msgid ""
+"The one to the rear, there is an error in either the longitude or latitude"
+msgstr "Зірка ззаду, помилка у довготі або широті"
+
+msgid "The northernmost of the two stars in the chest"
+msgstr "Найпівнічніша з двох зірок у грудях"
+
+msgid "The southernmost of them"
+msgstr "Найпівденніша з них"
+
+msgid "The star on the left knee"
+msgstr "Зірка на лівому коліні"
+
+msgid ""
+"The northernmost of the [two] in the front left paw: Leap [of the gazelle]"
+msgstr "Найпівнічніша з [двох] у передній лівій лапі: Стрибок [газелі]"
+
+msgid "The southernmost of them: Leap [of the gazelle]"
+msgstr "Найпівденніша з них: Стрибок [газелі]"
+
+msgid "The star above the right knee"
+msgstr "Зірка над правим коліном"
+
+msgid "The star below the right knee"
+msgstr "Зірка під правим коліном"
+
+msgid "The stars in the quadrilateral: the one on the back"
+msgstr "Зірки у чотирикутнику: задня"
+
+msgid "The one on the pelvis"
+msgstr "Зірка на тазі"
+
+msgid "The one on the place where the tail joins [the body]"
+msgstr "Зірка на місці, де хвіст з'єднується [з тілом]"
+
+msgid "The remaining one, on the left hind thigh"
+msgstr "Остання, на лівому задньому стегні"
+
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr "Передніша з [двох зірок] на лівій задній лапі"
+
+msgid "The one to the rear of it"
+msgstr "Зірка ззаду від неї"
+
+msgid "The star on the left knee-bend"
+msgstr "Зірка на лівому зігнутому коліні"
+
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "Найпівнічніша з [двох зірок] на правій задній лапі"
+
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+"Перша з трьох зірок у хвості поряд із місцем, де він з'єднується [із тілом]"
+
+msgid "The middle one"
+msgstr "Середня зірка"
+
+msgid "The third, on the end of the tail"
+msgstr "Третя, на кінці хвоста"
+
+msgid "The star under the tail, at some distance towards the south"
+msgstr "Зірка під хвостом, на певній відстані на південь"
+
+msgid "The rather fainter star in advance of it"
+msgstr "Доволі тьмяніша зірка попереду від неї"
+
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+"Найпівденніша з [двох] зірок між передніми лапами [Великої] Ведмедиці і "
+"головою Лева"
+
+msgid "The one north of it"
+msgstr "Зірка на північ від неї"
+
+msgid "The rearmost of the remaining three faint stars"
+msgstr "Найзадніша із решти трьох тьмяних зірок"
+
+msgid "The one in advance of this"
+msgstr "Зірка на продовженні цього"
+
+msgid "The one in advance again of the latter"
+msgstr "Зірка ще далі на продовженні від останньої"
+
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "Зірка між передніми лапами [Великої Ведмедиці] і Близнюками"
+
+msgid "The dark camel"
+msgstr "Темний верблюд"
+
+msgid "The Oryx"
+msgstr "Орикс"
+
+msgid "The little goat"
+msgstr "Малий козел"
+
+msgid "The leader"
+msgstr "Лідер"
+
+msgid "Liver of the lion"
+msgstr "Печінка лева"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr "Аль-Суха"
+
+#. TRANSLATORS: Proper name
+msgid "Al-Suta"
+msgstr "Аль-Сута"
+
+#. TRANSLATORS: Proper name
+msgid "Al-Saydaq"
+msgstr "Аль-Сайдак"
+
+#. TRANSLATORS: Proper name
+msgid "Nua'ish"
+msgstr "Нуаїш"
+
+msgid "The star on the tongue"
+msgstr "Зірка на язиці"
+
+msgid "The star in the mouth"
+msgstr "Зірка у роті"
+
+msgid "The star above the eye"
+msgstr "Зірка над оком"
+
+msgid "The star on the chin"
+msgstr "Зірка на підборідді"
+
+msgid "The star above the head"
+msgstr "Зірка над головою"
+
+msgid ""
+"The northernmost of the three stars in a straight line in the first bend of "
+"the neck"
+msgstr "Найпівнічніша з трьох зірок на прямій лінії на першому згині шиї"
+
+msgid "The southernmost of these"
+msgstr "Найпівденніша з цих"
+
+msgid ""
+"The star to the rear of the latter and due east of the quadrilateral in the "
+"next bend after the latter"
+msgstr ""
+"Зірка ззаду від останньої і прямо на схід від чотирикутника у наступному "
+"вигині після останньої"
+
+msgid "The southern star of the [two] forming the advance side"
+msgstr "Південна зірка з [двох], що формують передній бік"
+
+msgid "The more northerly star of the advance side"
+msgstr "Північніша зірка переднього боку"
+
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "Північна зірка заднього боку [чотирикутника]"
+
+msgid "The southern star of the rear side"
+msgstr "Південна зірка на задньому боці"
+
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "Південна зірка [з тих, що формують] трикутник у наступному вигині"
+
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "Передніша з інших двох зірок трикутника"
+
+msgid ""
+"The rearmost of the three stars in the next triangle, which is in advance "
+"[of the last]"
+msgstr ""
+"Найзадніша з трьох зірок у наступному трикутнику, який є попереду [від "
+"останнього]"
+
+msgid "The southernmost of the other two forming the triangle"
+msgstr "Найпівденніша з інших двох, які формують трикутник"
+
+msgid "The northernmost of the other two"
+msgstr "Найпівнічніша з інших двох"
+
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "Найзадніша з двох малих зірок на захід від трикутника"
+
+msgid "The one in advance"
+msgstr "Зірка попереду"
+
+msgid "The southernmost of the next three stars in a straight line"
+msgstr "Найпівденніша з наступних трьох зірок на прямій лінії"
+
+msgid "The middle one of the three"
+msgstr "Середня зірка з трьох"
+
+msgid "The northernmost of them"
+msgstr "Найпівнічніша з них"
+
+msgid "The northernmost of the next two to the west"
+msgstr "Найпівнічніша з наступних двох на захід"
+
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "Зірка на захід від цих, у вигині хвоста"
+
+msgid "The advance star of the two quite some distance from the latter"
+msgstr "Передня зірка з двох на певній відстані від останньої"
+
+msgid "The rear star of these [two]"
+msgstr "Задня зірка з цих [двох]"
+
+msgid "The star close by these, by the tail"
+msgstr "Зірка поблизу від цих, за хвостом"
+
+msgid "The remaining star, on the tip of the tail"
+msgstr "Остання зірка, на кінчику хвоста"
+
+msgid "The trotting camel"
+msgstr "Верблюд, що біжить риссю"
+
+msgid "The baby camel"
+msgstr "Верблюжа"
+
+msgid "The male hyena"
+msgstr "Самець гієни"
+
+msgid "The star on the right leg"
+msgstr "Зірка на правій нозі"
+
+msgid "The one on the left leg"
+msgstr "Зірка на лівій нозі"
+
+msgid "The star under the belt on the right side"
+msgstr "Зірка під поясом на правому боці"
+
+msgid "The star over the right shoulder, which touches it"
+msgstr "Зірка під правим плечем, яке торкається її"
+
+msgid "The star over the right elbow, which touches it"
+msgstr "Зірка під правим ліктем, яке торкається її"
+
+msgid "The one under that elbow"
+msgstr "Зірка під тим ліктем"
+
+msgid "The star in the chest"
+msgstr "Зірка у грудях"
+
+msgid "The star on the left arm"
+msgstr "Зірка на лівій руці"
+
+msgid "The southernmost of the three stars on the hat"
+msgstr "Найпівденніша з трьох зірок на капелюсі"
+
+msgid "The northernmost of the three"
+msgstr "Найпівнічніша з трьох"
+
+msgid "The one in advance of the stars on the head"
+msgstr "Зірка спереду від зірок у голові"
+
+msgid "The one to the rear of them"
+msgstr "Зірка ззаду від них"
+
+msgid "The [northern] Shepherd"
+msgstr "[Північний] Пастух"
+
+msgid "The [northern] Shepherd dog"
+msgstr "Собака [Північного] Пастуха"
+
+msgid "The horse forehead star"
+msgstr "Зірка у лобі коня"
+
+msgid "The most advanced of the three in the left arm"
+msgstr "Передніша з трьох зірок у лівій руці"
+
+msgid "The middle and southernmost of the three"
+msgstr "Середня і найпівденніша з трьох"
+
+msgid "The rearmost of the three"
+msgstr "Найзадніша з трьох"
+
+msgid "The star on the left elbow"
+msgstr "Зірка на лівому лікті"
+
+msgid "The star on the left shoulder"
+msgstr "Зірка на лівому плечі"
+
+msgid "The star on the head"
+msgstr "Зірка у голові"
+
+msgid "The star on the right shoulder"
+msgstr "Зірка на правому плечі"
+
+msgid "The one to the north of these, on the staff"
+msgstr "Зірка на північ від цих, на палиці"
+
+msgid ""
+"The one farther to the north again of this, on the tip of the staff, and it "
+"is a common star [with Hercules]"
+msgstr ""
+"Зірка далі на північ знову від цієї, на кінці палиці а це спільна зірка [із "
+"Геркулесом]"
+
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "Найпівнічніша з двох зірок під плечем, на палиці"
+
+msgid "The star on the end of the right arm"
+msgstr "Зірка на кінці правої руки"
+
+msgid "The more advanced of the two stars in the wrist"
+msgstr "Передніша з двох зірок на зап'ястку"
+
+msgid "The rearmost of them"
+msgstr "Найзадніша з них"
+
+msgid "The star on the end of the handle of the staff"
+msgstr "Зірка на кінці ручки палиці"
+
+msgid ""
+"The star on the belt which Ptolemy claims that it is on the right thigh, in "
+"the apron"
+msgstr "Зірка на поясі, яку Птолемей називає частиною правого стегна, на плащі"
+
+msgid "The rearmost of the two stars in the belt"
+msgstr "Найзадніша з двох зірок на поясі"
+
+msgid "The more advanced of them"
+msgstr "Передня з них"
+
+msgid "The star on the right heel"
+msgstr "Зірка на правій п'ятці"
+
+msgid "The northernmost of the three stars in the left leg"
+msgstr "Найпівнічніша з трьох зірок на лівій нозі"
+
+msgid "The star between the thighs, called 'The high one with the spear'"
+msgstr "Зірка між стегнами, яку називають «Стегно зі списом»"
+
+msgid "The guard of the sky"
+msgstr "Захисник неба"
+
+msgid "The guard of the north"
+msgstr "Захисник півночі"
+
+msgid "Leg of the lion"
+msgstr "Лапа лева"
+
+msgid "Associate of the high one"
+msgstr "Супутники правителя"
+
+msgid "Flag of the high one"
+msgstr "Прапор правителя"
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "Flag of Al-Fakkah"
+msgstr "Прапор аль-Факка"
+
+msgid "The bright star in the crown"
+msgstr "Яскрава зірка у короні"
+
+msgid "The star in advance of it"
+msgstr "Зірка перед нею"
+
+msgid "The one above this and due north"
+msgstr "Зірка над цією і прямо на північ"
+
+msgid "The one north again of this"
+msgstr "Зірка знову на північ від цієї"
+
+msgid ""
+"The one to the rear of the bright star in the other half circle from the "
+"south"
+msgstr "Зірка позаду від яскравої зірки на іншій половині кола з півдня"
+
+msgid ""
+"The one to the rear again of the latter, and it is a little more to the north"
+msgstr "Зірка знову ззаду від останньої, її розташовано трохи північніше"
+
+msgid "The one to the rear again of these, and again it is more to the north"
+msgstr "Зірка знову ззаду від цих, і знову її розташовано ще трохи північніше"
+
+msgid "The star at the end of the opening of this half circle"
+msgstr "Зірка на кінці початку цього пів кола"
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "The bright star of Al-Fakkah"
+msgstr "Яскрава зірка аль-Факка"
+
+msgid "The star on the right shoulder by the armpit"
+msgstr "Зірка на правому плечі поряд із пахвою"
+
+msgid "The star on the right upper arm"
+msgstr "Зірка на правій верхній частині руки"
+
+msgid "The star on the right elbow"
+msgstr "Зірка на правому лікті"
+
+msgid "The star on the left upper arm"
+msgstr "Зірка на верхній частині лівої руки"
+
+msgid "The rearmost of the three stars in the left wrist"
+msgstr "Найзадніша з трьох зірок на лівому зап'ястку"
+
+msgid "The star in the right side"
+msgstr "Зірка на правому боці"
+
+msgid "The star in the left side"
+msgstr "Зірка на лівому боці"
+
+msgid "The one north of the latter, on the left buttock"
+msgstr "Зірка на північ від останньої на лівій сідниці"
+
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "Зірка на місці, де стегно з'єднується із відповідною [сідницею]"
+
+msgid "The most advanced of the three in the left thigh"
+msgstr "Передніша з трьох зірок на лівому стегні"
+
+msgid "The one to the rear of this"
+msgstr "Зірка позаду цієї"
+
+msgid "The one yet further to the rear of this"
+msgstr "Зірка далі позаду від цієї"
+
+msgid "The star on the left shin on the ankle place"
+msgstr "Зірка на лівій гомілці на місці кісточки"
+
+msgid "The most advanced of the three stars in the left foot"
+msgstr "Передніша з трьох зірок на лівій ступні"
+
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "Зірка на місці, де праве стегно з'єднується із відповідною [сідницею]"
+
+msgid "The star north of it in the same thigh"
+msgstr "Зірка на північ від неї на тому самому стегні"
+
+msgid "The star on the right knee"
+msgstr "Зірка на правому коліні"
+
+msgid "The southernmost of the two stars under the right knee"
+msgstr "Найпівденніша з двох зірок під правим коліном"
+
+msgid "The star in the right lower leg"
+msgstr "Зірка на нижній частині правої ноги"
+
+msgid ""
+"The star on the end of the right leg is the same as the ninth star of Bootes "
+"on the tip of the staff, shared by the two constellations"
+msgstr ""
+"Зірка на кінці правої ноги та сама, що і дев'ята зірка Волопаса на кінці "
+"палиці, є спільною для двох сузір'їв"
+
+msgid "The star south of the one in the right upper arm"
+msgstr "Зірка південніше від зірки у верхній частині правої руки"
+
+msgid "First dog of [southern] shepherd"
+msgstr "Перша собака [південного] пастуха"
+
+msgid "The line"
+msgstr "Лінія"
+
+msgid ""
+"The bright star on the carrying cloth, called Lyra, and it is the landing "
+"eagle"
+msgstr "Яскрава зірка на полотні, яку називають «Ліра», і це орел, що сідає"
+
+msgid "The northernmost of the two stars lying near the latter, close together"
+msgstr ""
+"Найпівнічніша з двох зірок, які розташовано поряд із останньою, близько одна "
+"від одної"
+
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr "Зірка позаду від цих, між точками з'єднання рогів [ліри] із основою"
+
+msgid ""
+"The northernmost of the two stars close together in the region to the east "
+"of the cloth"
+msgstr "Найпівнічніша з двох близьких зірок у області на схід від полотна"
+
+msgid "The northernmost of the two advance stars in the crossbar"
+msgstr "Найпівнічніша з двох передніх зірок на перехресті"
+
+msgid "The northernmost of the two rear stars in the crossbar"
+msgstr "Найпівнічніша з двох задніх зірок на перехресті"
+
+msgid "The star on the beak"
+msgstr "Зірка на дзьобі"
+
+msgid "The one to the rear of this, on the head"
+msgstr "Зірка позаду від цієї, на голові"
+
+msgid "The star in the middle of the neck"
+msgstr "Зірка посередині шиї"
+
+msgid "The star in the breast"
+msgstr "Зірка на грудях"
+
+msgid "The bright star in the tail"
+msgstr "Яскрава зірка на хвості"
+
+msgid "The star in the bend of the right wing"
+msgstr "Зірка на вигині правого крила"
+
+msgid "The southernmost of the three in the right wing-feathers"
+msgstr "Найпівденніша з трьох на пір'ї правого крила"
+
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "Найпівнічніша з них, на кінці пір'я крила"
+
+msgid "The star on the bend of the left wing"
+msgstr "Зірка на вигині лівого крила"
+
+msgid "The star north of this, in the middle of the same wing"
+msgstr "Зірка на північ від цієї, на середині того самого крила"
+
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "Зірка на кінчику пір'я лівого крила"
+
+msgid "The star on the left leg"
+msgstr "Зірка на лівій нозі"
+
+msgid "The more advanced of the two stars in the right leg"
+msgstr "Передніша з двох зірок на правій нозі"
+
+msgid "The northern star on the right knee"
+msgstr "Північна зірка на правому коліні"
+
+msgid "The southernmost of the two stars under the left wing"
+msgstr "Найпівденніша з двох зірок під лівим крилом"
+
+msgid "The rear knight"
+msgstr "Задній рицар"
+
+msgid "The one north of that, on the belt"
+msgstr "Зірка північніше, на поясі"
+
+msgid "The star over the chair, just over the thighs"
+msgstr "Зірка над стільцем, одразу над стегнами"
+
+msgid "The star in the knees"
+msgstr "Зірка на колінах"
+
+msgid "The star on the lower leg"
+msgstr "Зірка на нижній частині ноги"
+
+msgid "The star on the end of the leg"
+msgstr "Зірка на кінці ноги"
+
+msgid "The star below the left elbow"
+msgstr "Зірка під правим ліктем"
+
+msgid "The star on the right forearm"
+msgstr "Зірка на правому зап'ястку"
+
+msgid "The star above the post of the chair"
+msgstr "Зірка над стійкою стільця"
+
+msgid ""
+"The star on the middle of the chair backrest, and it is called The henna "
+"tinted hand"
+msgstr ""
+"Зірка посередині спинки стільця, і її називають пофарбованою хною рукою"
+
+msgid "The star at the end of the chair backrest"
+msgstr "Зірка на кінці спинки стільця"
+
+msgid "The star on the place between the shoulders"
+msgstr "Зірка на місці між плечима"
+
+msgid "The bright star in the right side"
+msgstr "Яскрава зірка на правому боці"
+
+msgid "The most advanced of the three stars next to the one in the side"
+msgstr "Найпередніша з трьох зірок поряд із зіркою на боці"
+
+msgid "The bright one of the stars in the Gorgon-head"
+msgstr "Яскрава зірка із зірок голови Горгони"
+
+msgid "The one in advance of the bright star"
+msgstr "Зірка попереду від яскравої зірки"
+
+msgid "The remaining one, yet again in advance of this"
+msgstr "Остання зірка, знову попереду від цієї"
+
+msgid "The star in the right knee"
+msgstr "Зірка на правому коліні"
+
+msgid "The one in advance of this, over the knee"
+msgstr "Зірка попереду від цієї, над коліном"
+
+msgid "The more advanced of the two stars above the bend in the knee"
+msgstr "Передніша з двох зірок над вигином коліна"
+
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "Найзадніша з них, одразу над вигином коліна"
+
+msgid "The star on the right calf"
+msgstr "Зірка на правій литці"
+
+msgid "The star on the right ankle"
+msgstr "Зірка на правій кісточці"
+
+msgid "The star in the left thigh"
+msgstr "Зірка на лівому стегні"
+
+msgid "The star on the left lower leg"
+msgstr "Зірка на нижній частині лівої ноги"
+
+msgid "The star on the left heel"
+msgstr "Зірка на лівій п'ятці"
+
+msgid "The one to the rear of this, on the left foot"
+msgstr "Зірка позаду від цієї, на лівій ступні"
+
+msgid "The star to the east of the one on the left knee"
+msgstr "Зірка на схід від зірки на лівому коліні"
+
+msgid "The star to the north of the one in the right knee"
+msgstr "Зірка на північ від зірки на правому коліні"
+
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "Зірка попереду від зірок на голові Горгони"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The elbow [of Al-Thurayya]"
+msgstr "Зап'ясток [аль-Тураї]"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Bend of the hand [of Al-Thurayya]"
+msgstr "Вигин руки [аль-Тураї]"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Tip of the elbow [of Al-Thurayya]"
+msgstr "Кінчик ліктя [аль-Тураї]"
+
+msgid "The caracal (second narrative)"
+msgstr "Каракал (друга оповідка)"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The shoulder [of Al-Thurayya]"
+msgstr "Плече [аль-Тураї]"
+
+msgid "The southernmost of the two on the head"
+msgstr "Найпівденніша з двох на голові"
+
+msgid "The northernmost [of these], over the head"
+msgstr "Найпівнічніша [з цих], над головою"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "The star on the left shoulder, called Al-Ayyuq"
+msgstr "Зірка на лівому плечі, яку називають аль-Айюк"
+
+msgid "The star on the right wrist"
+msgstr "Зірка на правому зап'ястку"
+
+#. TRANSLATORS: kids here are the baby goats
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'The two "
+"kids'"
+msgstr ""
+"Найзадніша з двох зірок на лівому зап'ястку, яку називають «Двоє жереб'ят»"
+
+msgid "The more advanced of these"
+msgstr "Передніша з цих"
+
+msgid "The star on the left ankle"
+msgstr "Зірка на лівій кісточці"
+
+msgid ""
+"The star on the right ankle, which is [applied in] common to the northern "
+"horn of Taurus"
+msgstr "Зірка на правій кісточці, яка [є] спільною із північним рогом Тільця"
+
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr "Зірка на північ від останньої на нижньому рубці [вбрання]"
+
+msgid "The one north again of this, on the buttock"
+msgstr "Зірка знову на північ від цієї, на сідниці"
+
+msgid "The Goat"
+msgstr "Козел"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya Watcher"
+msgstr "Наглядач Аль-Тураї"
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Аюк Аль-Турая"
+
+msgid "The goats owner"
+msgstr "Власник козлів"
+
+msgid "The more advanced of the two stars on the right shoulder"
+msgstr "Передніша з двох зірок на правому плечі"
+
+msgid "The more advanced of the two stars on the left shoulder"
+msgstr "Передніша з двох зірок на лівому плечі"
+
+msgid "The more advanced of the two stars in the left hand"
+msgstr "Передніша з двох зірок на лівій руці"
+
+msgid "The more advanced of the two stars in the right hand"
+msgstr "Передніша з двох зірок на правій руці"
+
+msgid "The star on the right lower leg"
+msgstr "Зірка на нижній частині правої ноги"
+
+msgid "The most advanced of the four stars on the right foot"
+msgstr "Передніша з чотирьох зірок на правій ступні"
+
+msgid "The one to the rear again of that"
+msgstr "Зірка знову ззаду від тої самої"
+
+msgid "The last and rearmost of the four"
+msgstr "Остання і найзадніша з чотирьох"
+
+msgid "The star to the rear of these, which touches the heel"
+msgstr "Зірка позаду від цих, яка торкається п'ятки"
+
+msgid "The star in the left knee"
+msgstr "Зірка на лівому коліні"
+
+msgid ""
+"The northernmost of the three stars in a straight line in the left lower leg"
+msgstr ""
+"Найпівнічніша з трьох зірок на прямій лінії на нижній частині лівої ноги"
+
+msgid "The middle one of these"
+msgstr "Середня з цих"
+
+msgid "The southernmost of the three"
+msgstr "Найпівденніша з трьох"
+
+msgid "The star touching the hollow of the left foot"
+msgstr "Зірка, що торкається порожнечі лівої ступні"
+
+msgid ""
+"The northernmost of the three that are on a straight line, to the east of "
+"the right shoulder"
+msgstr "Найпівнічніша з трьох зірок на прямій лінії на схід від правого плеча"
+
+msgid "The star to the rear of these three, and over the middle one"
+msgstr "Зірка позаду від цих трьох і над середньою зіркою"
+
+msgid "The lone star north of these four"
+msgstr "Одинока зірка на північ від цих чотирьох"
+
+msgid "The [southern] shepherd"
+msgstr "[Південний] Пастух"
+
+msgid "Second dog of the [southern] shepherd"
+msgstr "Другий собака [південного] пастуха"
+
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr "Зірки на чотирикутнику у голові: зірка на кінці щелепи"
+
+msgid "The one touching the nostrils"
+msgstr "Зірка, що торкається ніздрів"
+
+msgid "The one in the temple"
+msgstr "Зірка у храмі"
+
+msgid "The one where the neck joins [the head]"
+msgstr "Зірка, де з'єднується шия [із головою]"
+
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "Зірка посередині чотирикутника, у роті"
+
+msgid "The star outside the head, to the north of it"
+msgstr "Зірка поза головою на північ від неї"
+
+msgid "The one after the first bend in the neck"
+msgstr "Зірка після першого вигину шиї"
+
+msgid "The northernmost of the three following this"
+msgstr "Найпівнічніша з трьох за цією"
+
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr "Зірка після наступного вигину, яка передує лівій руці Змієносця"
+
+msgid "The star to the rear of those in the hand of Ophiuchus"
+msgstr "Зірка позаду від цих на руці Змієносця"
+
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "Зірка після задньої частини правого стегна Змієносця"
+
+msgid "The southernmost of the two to the rear of the latter"
+msgstr "Найпівденніша з двох зірок позаду від останньої"
+
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "Зірка після правої руки [Змієносця] на вигину хвоста"
+
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "Зірка позаду від цієї, так само на хвості"
+
+msgid "The star on the tip of the tail"
+msgstr "Зірка на кінчику хвоста"
+
+msgid "The lone star on the arrow-head"
+msgstr "Самотня зірка на кінці стріли"
+
+msgid "The rearmost of the three stars in the shaft"
+msgstr "Найзадніша з трьох зірок на древку"
+
+msgid "The most advanced of the three"
+msgstr "Найпередніша з трьох"
+
+msgid "The star on the end of the notch"
+msgstr "Зірка на кінці прорізу"
+
+msgid "The star in the middle of the head"
+msgstr "Зірка посередині голови"
+
+msgid "The one in advance of this, on the neck"
+msgstr "Зірка на продовженні цього на шиї"
+
+msgid ""
+"The bright star on the place between the shoulders, called The flying eagle"
+msgstr "Яскрава зірка на місці між плечима, яку називають «Орел, що летить»"
+
+msgid "The one close to this towards the north"
+msgstr "Зірка поряд із зіркою на північ"
+
+msgid "The more advanced of the two in the left shoulder"
+msgstr "Передніша з двох зірок на лівому плечі"
+
+msgid "The more advanced of the two in the right shoulder"
+msgstr "Передніша з двох зірок на правому плечі"
+
+msgid ""
+"The star some distance under the tail of the eagle, touching the Milky Way"
+msgstr "Зірка на певній відстані під хвостом орла, торкається Чумацького Шляху"
+
+msgid "The more advanced of the two stars south of the head of the eagle"
+msgstr "Передніша з двох зірок на південь від голови орла"
+
+msgid "The star to the south and west of the right shoulder of the eagle"
+msgstr "Зірка на південь і захід від правого плеча орла"
+
+msgid "The one to the south of this"
+msgstr "Зірка на південь від цієї"
+
+msgid "The one to the south again of the latter"
+msgstr "Зірка ще на південь від останньої"
+
+msgid "The star most in advance of all"
+msgstr "Зірка попереду від усіх"
+
+msgid "The most advanced of the three stars in the tail"
+msgstr "Передніша з трьох зірок у хвості"
+
+msgid ""
+"The southernmost one of the two on the advance side of the rhomboid "
+"quadrilateral"
+msgstr ""
+"Найпівденніша зірка з двох на передній стороні ромбічного чотирикутника"
+
+msgid "The northernmost one on the advance side"
+msgstr "Найпівнічніша зірка на передньому боці"
+
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "Найпівденніша зірка на задньому боці ромба"
+
+msgid "The northernmost one on the rear side"
+msgstr "Найпівнічніша зірка на задньому боці"
+
+msgid "The northernmost of the three stars between the tail and the rhombus"
+msgstr "Найпівнічніша з трьох зірок міх хвостом і ромбом"
+
+msgid "The more advanced of the two other northern stars"
+msgstr "Передніша з двох інших північних зірок"
+
+msgid "The remaining, rearmost one"
+msgstr "Остання, та, що найдалі позаду"
+
+msgid "The more advanced of the two stars in the head"
+msgstr "Передніша з двох зірок у голові"
+
+msgid "The more advanced of the two stars in the mouth"
+msgstr "Передніша з двох зірок у роті"
+
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr "Зірка у пупку, яка є спільною із головою Андромеди"
+
+msgid "The star on the rump and the wing-tip"
+msgstr "Зірка на крижах і кінчику крила"
+
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "Зірка на правому плечі і місці, де з'єднується нога [із ним]"
+
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr "Зірка на місці між плечима і плечовій частині крила"
+
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "Найпівнічніша з двох зірок на тілі під крилом"
+
+msgid "The northernmost of the two stars in the right knee"
+msgstr "Найпівнічніша з двох зірок на правому коліні"
+
+msgid "The more advanced of the two stars close together in the chest"
+msgstr "Передніша з двох близьких зірок на грудях"
+
+msgid "The more advanced of the two stars close together in the neck"
+msgstr "Передніша з двох близьких зірок на шиї"
+
+msgid "The southernmost of the two stars on the mane"
+msgstr "Найпівденніша з двох зірок на гриві"
+
+msgid "The northernmost of the two stars close together on the head"
+msgstr "Найпівнічніша з двох зірок близько одна від одної на голові"
+
+msgid "The star in the muzzle"
+msgstr "Зірка на морді"
+
+msgid "The star in the right hock"
+msgstr "Зірка на правій жижці"
+
+msgid "The star in the left hock"
+msgstr "Зірка на лівій жижці"
+
+msgid "The star in the place between the shoulders"
+msgstr "Зірка на місці між плечима"
+
+msgid "The star in the right shoulder"
+msgstr "Зірка на правому плечі"
+
+msgid "The star in the left shoulder"
+msgstr "Зірка на лівому плечі"
+
+msgid "The southernmost of the three stars on the right upper arm"
+msgstr "Найпівденніша з трьох зірок на верхній частині правої руки"
+
+msgid "The southernmost of the three stars on the right hand"
+msgstr "Найпівденніша з трьох зірок на правій руці"
+
+msgid "The southernmost of the three stars over the girdle"
+msgstr "Найпівденніша з трьох зірок над поясом"
+
+msgid "The star over the left foot: called the caracal"
+msgstr "Зірка над лівою ступнею, яку називають «каракал»"
+
+msgid "The star in the right foot"
+msgstr "Зірка на правій ступні"
+
+msgid "The one south of the latter"
+msgstr "Зірка на південь від останньої"
+
+msgid "The northernmost of the two stars on the left knee-bend"
+msgstr "Найпівнічніша з двох зірок на вигині лівого коліна"
+
+msgid "The northernmost of the two stars in the lower hem of the garment"
+msgstr "Найпівнічніша з двох зірок на нижньому рубці вбрання"
+
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr "Зірка перед трьома на правій руці, ззовні [від неї]"
+
+msgid "Abdomen of the fish"
+msgstr "Черево риби"
+
+msgid "The caracal (first narrative)"
+msgstr "Каракал (перша оповідка)"
+
+msgid "The star in the apex of the triangle"
+msgstr "Зірка на вершині трикутника"
+
+msgid "The most advanced of the three on the base"
+msgstr "Найпередніша з трьох в основі"
+
+msgid "The more advanced of the two stars on the horn"
+msgstr "Передніша з двох зірок на розі"
+
+msgid "The northernmost of the two stars on the muzzle"
+msgstr "Найпівнічніша з двох зірок на морді"
+
+msgid "The star on the neck"
+msgstr "Зірка на шиї"
+
+msgid "The star on the rump"
+msgstr "Зірка на крижах"
+
+msgid "The star on the place where the fatty tail joins [the body]"
+msgstr "Зірка на місці, де жирний хвіст з'єднується [з тілом]"
+
+msgid "The most advanced of the three stars in the fatty tail"
+msgstr "Найпередніша з трьох зірок у жирному хвості"
+
+msgid "The star in the back of the thigh"
+msgstr "Зірка на задній частині стегна"
+
+msgid "The star over the knee-bend"
+msgstr "Зірка над вигином коліна"
+
+msgid "The star on the hind hoof"
+msgstr "Зірка на задньому копиті"
+
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr "Зірка над головою, яку Гіппарх називає «зіркою на морді»"
+
+msgid "The rearmost, which is brighter of the four stars over the rump"
+msgstr "Найзадніша, яка є найяскравішою з чотирьох зірок над крижами"
+
+msgid "The northernmost of the other three, fainter stars"
+msgstr "Найпівнічніша з інших трьох тьмяніших зірок"
+
+msgid "The middle one of these three"
+msgstr "Середня з цих трьох"
+
+msgid "The butting [horn]"
+msgstr "Межа [рогу]"
+
+msgid "The northernmost of the four stars in the cut-off"
+msgstr "Найпівнічніша з чотирьох зірок на обрізі"
+
+msgid "The one close by this"
+msgstr "Зірка близько від цієї"
+
+msgid "The one close again to the latter"
+msgstr "Зірка знову близько від останньої"
+
+msgid "The southernmost of the four"
+msgstr "Найпівденніша з чотирьох"
+
+msgid "The one to the rear of the latter, on the right shoulder-blade"
+msgstr "Зірка позаду від останньої на правому краю плеча"
+
+msgid "The star on the right hock"
+msgstr "Зірка на правій жижці"
+
+msgid ""
+"The one on the nostrils of the stars in the face, resembling the Greek "
+"letter Λ"
+msgstr "Зірка на ніздрях з зірок на обличчі, нагадує грецьку літеру Λ"
+
+msgid "The one between the latter and the northern eye"
+msgstr "Зірка між останньою і північним оком"
+
+msgid "The one between that latter itself and the southern eye"
+msgstr "Зірка між останньою і південним оком"
+
+msgid ""
+"The bright star of the group of stars resembling the Arabic letter 'dal د', "
+"the reddish one on the southern eye"
+msgstr ""
+"Яскрава зірка групи зірок, форма якої нагадує арабську літеру «даль» («د»), "
+"червоняста зірка на південному оці"
+
+msgid "The remaining one, on the northern eye"
+msgstr "Остання, на північному оці"
+
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr "Зірка на місці, де південний ріг і вухо з'єднуються [з головою]"
+
+msgid "The southernmost of the two stars on the southern horn"
+msgstr "Найпівденніша з двох зірок на південному розі"
+
+msgid "The northernmost of these"
+msgstr "Найпівнічніша з цих"
+
+msgid "The star on the tip of the southern horn"
+msgstr "Зірка на кінці південного рогу"
+
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "Зірка у місці, де з'єднується північний ріг [із головою]"
+
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga"
+msgstr ""
+"Зірка на кінчику північного рогу, яка збігається із зіркою на правій ступні "
+"Візничого"
+
+msgid "The northernmost of the two stars close together in the northern ear"
+msgstr "Найпівнічніша з двох близьких зірок у північному вусі"
+
+msgid "The more advanced of the two small stars in the neck"
+msgstr "Передніша з двох малих зірок на шиї"
+
+msgid ""
+"The southernmost star on the advance side of the four stars forming the "
+"quadrilateral in the neck"
+msgstr ""
+"Найпівденніша зірка переднього блоку з чотирьох зірок, що формують "
+"чотирикутник на шиї"
+
+msgid "The northernmost star on the advance side"
+msgstr "Найпівнічніша зірка на передньому боці"
+
+msgid "The southernmost star on the rear side"
+msgstr "Найпівденніша зірка на задньому боці"
+
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "Плеяди: північний кінець переднього боку"
+
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "Південний кінець переднього боку [Плеяд]"
+
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "Найдальший і найвужчий кінець Плеяд"
+
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "Мала зірка поза Плеядами у напрямку півночі"
+
+msgid "The star under the right foot and the ankle"
+msgstr "Зірка під правою ступнею і кісточкою"
+
+msgid "The most advanced of the three stars over the southern horn"
+msgstr "Передніша з трьох зірок над південним рогом"
+
+msgid "The northernmost of the two stars under the tip of the southern horn"
+msgstr "Найпівнічніша з двох зірок під кінчиком південного рогу"
+
+msgid "The most advanced of the next five stars under the northern horn"
+msgstr "Передніша з наступних п'яти зірок під південним рогом"
+
+msgid "The one to the rear again of the latter"
+msgstr "Зірка ще на позаду від останньої"
+
+msgid "The northernmost of the remaining, rearmost two"
+msgstr "Найпівнічніші із решти зірок, найзадніші дві"
+
+msgid "The southernmost of these two"
+msgstr "Найпівденніша з цих двох"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The follower of Al-Thurayya"
+msgstr "Послідовник аль-Тураї"
+
+#. TRANSLATORS: Al-Mijdah is a proper name meaning the star of rain or the
+#. fork referring to the shape of the Hyades
+msgid "Al-Mijdah"
+msgstr "Аль-Міжда"
+
+msgid "The follower"
+msgstr "Послідовник"
+
+msgid "The special camel"
+msgstr "Особливий верблюд"
+
+msgid "The star on the head of the advance twin"
+msgstr "Зірка у голові переднього близнюка"
+
+msgid "The reddish star on the head of the rear twin"
+msgstr "Червоняста зірка у голові заднього близнюка"
+
+msgid "The star in the left forearm of the advance twin"
+msgstr "Зірка у лівому передпліччі переднього близнюка"
+
+msgid "The star in the same [left] upper arm"
+msgstr "Зірка у тій самій верхній частині [лівої] руки"
+
+msgid "The one to the rear of that, between the shoulders"
+msgstr "Зірка позаду від цієї, між плечима"
+
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr "Зірка позаду цієї на правому плечі того самого [переднього] близнюка"
+
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "Зірка на задньому плечі заднього близнюка"
+
+msgid "The star on the right side of the advance twin"
+msgstr "Зірка на правому боці переднього близнюка"
+
+msgid "The star on the left side of the rear twin"
+msgstr "Зірка на лівому боці заднього близнюка"
+
+msgid "The star on the left knee of the advance twin"
+msgstr "Зірка на лівому коліні переднього близнюка"
+
+msgid "The star in the left side of the rear twin"
+msgstr "Зірка у лівому боці заднього близнюка"
+
+msgid "The star over the left knee of the rear twin"
+msgstr "Зірка над лівим коліном заднього близнюка"
+
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr "Зірка над вигином правого коліна того самого [заднього] близнюка"
+
+msgid "The star in front of the left foot of the advance twin"
+msgstr "Зірка перед лівою ступнею переднього близнюка"
+
+msgid "The one to the rear of this on the same foot"
+msgstr "Зірка позаду від цієї, на тій самій ступні"
+
+msgid "The star on the right foot of the advance twin"
+msgstr "Зірка на правій ступні переднього близнюка"
+
+msgid "The star on the left foot of the rear twin"
+msgstr "Зірка на лівій ступні заднього близнюка"
+
+msgid "The star on the right foot of the rear twin"
+msgstr "Зірка на правій ступні заднього близнюка"
+
+msgid "The star in advance of the one in front of the foot of the advance twin"
+msgstr "Зірка попереду від зірки попереду від ступні переднього близнюка"
+
+msgid "The bright star in advance of the advance knee"
+msgstr "Яскрава зірка попереду від переднього коліна"
+
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "Зірка попереду від лівого коліна заднього близнюка"
+
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+"Найпівнічніша з трьох зірок на прямій лінії позаду від правої руки заднього "
+"близнюка"
+
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "Найпівденніша з них, поряд із зап'ястком [правої] руки"
+
+msgid "The bright star to the rear of the above-mentioned three"
+msgstr "Яскрава зірка позаду від вищезгаданих трьох"
+
+msgid ""
+"The northernmost of the two stars in advance of the quadrilateral containing "
+"the nebula"
+msgstr ""
+"Найпівнічніша з двох зірок попереду від чотирикутника, що містить туманність"
+
+msgid "The southernmost of the two stars in advance"
+msgstr "Найпівденніша з двох зірок попереду"
+
+msgid ""
+"The northernmost of the rear two stars on the quadrilateral, which are "
+"called 'Aselli'"
+msgstr ""
+"Найпівнічніша з двох задніх зірок на чотирикутнику, яку називають «Аселлі»"
+
+msgid "The star on the southern claw"
+msgstr "Зірка на південній клешні"
+
+msgid "The star on the northern claw"
+msgstr "Зірка на північній клешні"
+
+msgid "The star on the northern back leg"
+msgstr "Зірка на північній задній лапі"
+
+msgid "The star on the southern back leg"
+msgstr "Зірка на південній задній лапі"
+
+msgid "The star over the joint in the southern claw"
+msgstr "Зірка на з'єднанням у південній клешні"
+
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "Зірка позаду кінчика південної клешні"
+
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr "Передніша із двох зірок над туманністю і позаду неї"
+
+msgid "The rearmost of these [two]"
+msgstr "Задня з цих [двох]"
+
+msgid "The star on the tip of the nostrils"
+msgstr "Зірка на кінчику ніздрів"
+
+msgid "The star in the gaping jaws"
+msgstr "Зірка у розкритих щелепах"
+
+msgid "The northernmost of the two stars in the head"
+msgstr "Найпівнічніша з двох зірок у голові"
+
+msgid "The northernmost of the three stars in the neck"
+msgstr "Найпівнічніша з трьох зірок у шиї"
+
+msgid "The one close to this, the middle one of the three"
+msgstr "Зірка поряд із цією, середня з трьох"
+
+msgid "The star on the heart, called 'Regulus' and it is the lion heart"
+msgstr "Зірка у серці, яку називають «Регул», вона є серцем лева"
+
+msgid "The one south of this, about on the chest"
+msgstr "Зірка не південь від неї, майже на грудях"
+
+msgid "The star a little in advance of the star on the heart"
+msgstr "Зірка трохи попереду від зірки у серці"
+
+msgid "The star on the right front claw-clutch"
+msgstr "Зірка на правому краю кігтя клешні"
+
+msgid "The star on the left front claw-clutch"
+msgstr "Зірка на лівому краю кігтя клешні"
+
+msgid "The star on the left [front] knee"
+msgstr "Зірка на лівому коліні [передній частині]"
+
+msgid "The star on the left armpit"
+msgstr "Зірка на лівій пахві"
+
+msgid "The most advanced of the three stars in the belly"
+msgstr "Найпередніша з трьох зірок на животі"
+
+msgid "The northernmost of the other, rearmost two"
+msgstr "Найпівнічніші з інших, задні дві"
+
+msgid "The southernmost of these [two]"
+msgstr "Найпівденніша з цих [двох]"
+
+msgid "The more advanced of the two stars on the rump"
+msgstr "Передніша з двох зірок на крижах"
+
+msgid "The northernmost of the two stars in the buttocks"
+msgstr "Найпівнічніша з двох зірок на сідницях"
+
+msgid "The star in the hind thighs"
+msgstr "Зірка на задній частині стегон"
+
+msgid "The star in the hind leg-bends"
+msgstr "Зірка на задній частині вигин лап"
+
+msgid "The one south of this, about in the lower legs"
+msgstr "Зірка не південь від неї, майже на нижніх лапах"
+
+msgid "The star on the hind claw-clutches"
+msgstr "Зірка на задніх кігтях клешні"
+
+msgid "The star on the end of the tail"
+msgstr "Зірка наприкінці хвоста"
+
+msgid "The more advanced of the two over the back"
+msgstr "Передніша з двох зірок над спиною"
+
+msgid "The northernmost of the three under the flank"
+msgstr "Найпівнічніша з трьох під боком"
+
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+"Найпівнічніша частина туманної маси між краями Лева і [Великої] Ведмедиці, "
+"яку називають Волосся [Вероніки]"
+
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr "Передніша з південних крайніх зірок Волосся"
+
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "Найзадніша з них, у формі листка плюща"
+
+msgid "Star of weather change"
+msgstr "Зірка зміни погоди"
+
+msgid "The southernmost of the two stars in the top of the skull"
+msgstr "Найпівденніша з двох зірок у верхній частині черепа"
+
+msgid "The northernmost of the two stars to the rear of these, in the face"
+msgstr "Найпівнічніша з двох зірок позаду від цих, у обличчі"
+
+msgid "The star on the tip of the southern, left wing"
+msgstr "Зірка на кінці південного лівого крила"
+
+msgid "The most advanced of the four stars in the left wing"
+msgstr "Передніша з чотирьох зірок у лівому крилі"
+
+msgid "The one to the rear again of this"
+msgstr "Зірка знову ззаду від тої самої"
+
+msgid "The star in the right side under the girdle"
+msgstr "Зірка на правому боці під поясом"
+
+msgid "The most advanced of the three stars in the right, northern wing"
+msgstr "Найпередніша з трьох зірок у правому північному крилі"
+
+msgid "The southernmost of the other two"
+msgstr "Найпівденніша з інших двох"
+
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "Найпівнічніша з цих, яку називають «Віндеміатрікс»"
+
+#. TRANSLATORS: The armless high one is the Arabic name for Spica
+msgid ""
+"The star on the left hand, called 'Spica', and it is The armless high one"
+msgstr "Зірка на лівій руці, яку називають «Спіка», і це «Безрукий правитель»"
+
+msgid "The star under the apron just about over the right buttock"
+msgstr "Зірка під запоною майже над правою сідницею"
+
+msgid ""
+"The northern star on the advance side of the quadrilateral in the left thigh"
+msgstr "Північна зірка на передньому боці чотирикутника на лівому стегні"
+
+msgid "The southern star on the advance side"
+msgstr "Південна зірка на передньому боці"
+
+msgid "The northernmost of the two stars on the rear side"
+msgstr "Найпівнічніша з двох зірок на задньому боці"
+
+msgid "The star in the back of the right thigh"
+msgstr "Зірка на задній частині правого стегна"
+
+msgid "The middle star of the three in the garment-hem round the feet"
+msgstr "Середня зірка з трьох на рубці вбрання навколо ступні"
+
+msgid "The star on the left, southern foot"
+msgstr "Зірка на лівій південній ступні"
+
+msgid "The star on the right, northern foot"
+msgstr "Зірка на правій північній ступні"
+
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "Передніша з трьох зірок на прямій ліній під лівою пахвою"
+
+msgid ""
+"The most advanced of the three stars almost on a straight line under Spica"
+msgstr "Передніша з трьох зірок майже на прямій ліній під Спікою"
+
+msgid "The middle one of these, which is a double star"
+msgstr "Середня з цих, яка є подвійною зіркою"
+
+msgid "The brighter one of the two stars on the tip of the southern claw"
+msgstr "Яскравіша зірка з двох зірок на кінчику південної клешні"
+
+msgid "The northern one and fainter of the two"
+msgstr "Північніша і тьмяніша з двох зірок"
+
+msgid "The brighter one of the two stars on the tip of the northern claw"
+msgstr "Яскравіша зірка з двох зірок на кінчику північної клешні"
+
+msgid "The advanced one and fainter of the two"
+msgstr "Передня і тьмяніша з двох зірок"
+
+msgid "The star in the middle of the southern claw"
+msgstr "Зірка посередині південної клешні"
+
+msgid "The one in advance of this on the same claw"
+msgstr "Зірка попереду від цієї на тій самій клешні"
+
+msgid "The star in the middle of the northern claw"
+msgstr "Зірка посередині північної клешні"
+
+msgid "The one to the rear of this on the same claw"
+msgstr "Зірка позаду від цієї, на тій самій клешні"
+
+msgid "The most advanced of the three stars north of the northern claw"
+msgstr "Найпередніша з трьох зірок північніше від північної клешні"
+
+msgid "The southernmost of the rearmost two [of these]"
+msgstr "Найпівденніша з цих з задніх двох [з цих]"
+
+msgid "The rearmost of the three stars between the claws"
+msgstr "Найзадніша з трьох зірок між клешнями"
+
+msgid "The northernmost of the other two in advance [of the latter]"
+msgstr "Найпівнічніша з інших двох попереду [від останньої]"
+
+msgid "The most advanced of the three stars south of the southern claw"
+msgstr "Передніша з трьох зірок на південь від південної клешні"
+
+msgid "The northernmost of the other, rear two"
+msgstr "Найпівнічніша з інших двох, задні дві"
+
+msgid "The northernmost of the three bright stars in the forehead"
+msgstr "Найпівнічніша з трьох яскравих зірок на лобі"
+
+msgid "The star south again of this, on one of the legs"
+msgstr "Зірка ще на південь від цієї на одній з ніг"
+
+msgid ""
+"The northernmost of the two stars adjacent to the northernmost of the three "
+"bright ones"
+msgstr ""
+"Найпівнічніша з двох зірок поблизу від найпівнічнішої з трьох яскравих зірок"
+
+msgid "The most advanced of the three bright stars in the body"
+msgstr "Найпередніша з трьох яскравих зірок у тілі"
+
+msgid ""
+"The middle one of these, which is reddish and called 'Heart of the scorpion'"
+msgstr "Середня зірка з цих, яка є червонястою і називається «Серце скорпіона»"
+
+msgid "The advance star of the two under these, approximately on the last legs"
+msgstr "Передня зірка з двох зірок під цими, приблизно на останніх ногах"
+
+msgid "The rearmost of these"
+msgstr "Найзадніша зірка із цих"
+
+msgid "The star in the first tail-joint from the body"
+msgstr "Зірка у першій від тіла ланці хвоста"
+
+msgid "The one after this, in the second joint"
+msgstr "Зірка після цієї на другій ланці"
+
+msgid "The northern star of the double-star in the third joint"
+msgstr "Північна зірка з подвійної зірки у третій ланці"
+
+msgid "The southern star of the double-star"
+msgstr "Південна зірка у подвійній зірці"
+
+msgid "The one following, in the forth joint"
+msgstr "Наступна зірка у четвертій ланці"
+
+msgid "The one after that, in the fifth joint"
+msgstr "Зірка після цієї у п'ятій ланці"
+
+msgid "The next one again, in the sixth joint"
+msgstr "Ще одна наступна у шостій ланці"
+
+msgid "The star in the seventh joint, the joint next to the sting"
+msgstr "Зірка у сьомій ланці, ланці поряд із жалом"
+
+msgid "The rearmost of the two stars in the sting"
+msgstr "Найзадніша з двох зірок на жалі"
+
+msgid "The nebulous star to the rear of the sting"
+msgstr "Туманна зірка у дальньому кінці жала"
+
+msgid "The most advanced of the two stars to the north of the sting"
+msgstr "Передніша з двох зірок на північ від жала"
+
+msgid "The star on the point of the arrow"
+msgstr "Зірка на кінчику стріли"
+
+msgid "The star in the bow-grip held by the left hand"
+msgstr "Зірка на луці там, де ліва рука тримає лук"
+
+msgid "The star in the southern portion of the bow"
+msgstr "Зірка на південній частині лука"
+
+msgid "The southernmost of the two stars in the northern portion of the bow"
+msgstr "Найпівденніша з двох зірок на північній частині лука"
+
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "Найпівнічніша з цих на кінчику лука"
+
+msgid "The one in advance of this, on the arrow"
+msgstr "Зірка перед цією, на стрілі"
+
+msgid "The star on the eye, which is nebulous and double"
+msgstr "Зірка у оці, яка є туманною і подвійною"
+
+msgid "The most advanced of the three stars in the head"
+msgstr "Найпередніша з трьох зірок у голові"
+
+msgid "The southernmost of the three stars in the northern cloak-attachment"
+msgstr "Найпівденніша з трьох зірок на капелюсі"
+
+msgid "The faint star to the rear of these three"
+msgstr "Тьмяна зірка позаду цих трьох"
+
+msgid "The northernmost of the two stars on the southern cloak-attachment"
+msgstr "Найпівнічніша з двох зірок на південному долученні до плаща"
+
+msgid "The one between the shoulders of the three stars in the back"
+msgstr "Зірка між плечима, одна з трьох зірок на спині"
+
+msgid "The middle one, on the shoulder-blade"
+msgstr "Середня зірка на лопатці"
+
+msgid "The other one, under the armpit"
+msgstr "Інша зірка, під пахвою"
+
+msgid "The star on the front left hock"
+msgstr "Зірка на передній лівій жижці"
+
+msgid "The one on the knee of the same leg"
+msgstr "Зірка на коліні тієї самої ноги"
+
+msgid "The star on the front right hock"
+msgstr "Зірка на передній правій жижці"
+
+msgid "The star on the left thigh"
+msgstr "Зірка на лівому стегні"
+
+msgid "The star on the right hind lower leg"
+msgstr "Зірка на нижній задній частині правої ноги"
+
+msgid ""
+"The advance star on the northern side of the four stars [forming a "
+"quadrilateral] in the place where the tail joins [the body]"
+msgstr ""
+"Передня зірка на північному боці чотирьох зірок [з яких складається "
+"чотирикутник] на місці з'єднання хвоста [з тілом]"
+
+msgid "The rear star on the northern side"
+msgstr "Задня зірка на північному боці"
+
+msgid "The advance star on the southern side"
+msgstr "Передня зірка на південному боці"
+
+msgid "The rear star on the southern side"
+msgstr "Задня зірка на південному боці"
+
+msgid "The northernmost of the three stars in the rear horn"
+msgstr "Найпівнічніша з трьох зірок на задньому розі"
+
+msgid "The star on the tip of the advance horn"
+msgstr "Зірка на кінчику переднього рогу"
+
+msgid "The southernmost of the three stars in the muzzle"
+msgstr "Найпівденніша з трьох зірок на рилі"
+
+msgid "The more advanced of the other two"
+msgstr "Передня зірка з інших двох"
+
+msgid "The star in advance of the three, under the right eye"
+msgstr "Зірка попереду трьох, під правим оком"
+
+msgid "The northernmost of the two stars in the neck"
+msgstr "Найпівнічніша з двох зірок на шиї"
+
+msgid "The star under the right knee"
+msgstr "Зірка під правим коліном"
+
+msgid "The star on the left, doubled-up knee"
+msgstr "Зірка ліворуч, подвоєне коліно"
+
+msgid "The more advanced of the two stars close together under the belly"
+msgstr "Передніша з двох близьких зірок під черевом"
+
+msgid "The rearmost of the three stars in the middle of the body"
+msgstr "Найзадніша з трьох зірок посередині тіла"
+
+msgid "The fainter of the other, advance two"
+msgstr "Тьмяніша з інших, перед двома"
+
+msgid "The more advanced of the two stars in the back"
+msgstr "Передніша з двох зірок на спині"
+
+msgid "The more advanced of the two stars in the southern spine"
+msgstr "Передніша з двох зірок на південній частині спини"
+
+msgid ""
+"The more advanced of the two stars in the section [of the body] next to the "
+"tail"
+msgstr "Передніша з двох зірок на перетині [тіла] поряд із хвостом"
+
+msgid "The most advanced of the four stars on the northern portion of the tail"
+msgstr "Найпередніша з чотирьох зірок на північній частині хвоста"
+
+msgid "The southernmost of the other three"
+msgstr "Найпівденніша з інших трьох"
+
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "Найпівнічніша з них, на кінці хвостового плавця"
+
+msgid "The sheep of the lucky star of the slaughterer"
+msgstr "Вівця щасливої зірки Вбивці"
+
+msgid "The star on the head of Aquarius"
+msgstr "Зірка у голові Водолія"
+
+msgid "The brighter of the two stars in the right shoulder"
+msgstr "Яскравіша з двох зірок на правому плечі"
+
+msgid "The fainter one, under it"
+msgstr "Тьмяніша зірка, під нею"
+
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr "Зірка під тією, на спині, приблизно під пахвою"
+
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr "Найзадніша з трьох зірок на лівій руці, на накидці"
+
+msgid "The star in the right forearm"
+msgstr "Зірка на правому зап'ястку"
+
+msgid "The northernmost of the three stars on the right hand"
+msgstr "Найпівнічніша з трьох зірок на правій руці"
+
+msgid "The more advanced of the other two to the south"
+msgstr "Передня зірка з інших двох на південь"
+
+msgid ""
+"The more advanced of the two stars close together in the hollow of the right "
+"hip"
+msgstr "Передніша з двох близьких зірок у проміжку правого стегна"
+
+msgid "The star on the right buttock"
+msgstr "Зірка на правій сідниці"
+
+msgid "The southernmost of the two stars in the left buttock"
+msgstr "Найпівденніша з двох зірок на лівій сідниці"
+
+msgid "The southernmost of the two stars in the right lower leg"
+msgstr "Найпівденніша з двох зірок у нижній частині правої ноги"
+
+msgid "The northernmost of them, under the knee-bend"
+msgstr "Найпівнічніша з них, під вигином коліна"
+
+msgid "The star in the back of the left thigh"
+msgstr "Зірка на задній частині лівого стегна"
+
+msgid "The southernmost of the two stars in the left lower leg"
+msgstr "Найпівденніша з двох зірок у нижній частині лівої ноги"
+
+msgid "The northernmost of these, under the knee"
+msgstr "Найпівнічніша з цих, під коліном"
+
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr "Зірки у потоці води: передня у початковій [частині] від руки"
+
+msgid "The one next to the latter towards the south"
+msgstr "Зірка поряд із останньою у напрямку на південь"
+
+msgid "The one next to this, after [the beginning of] the water bend"
+msgstr "Зірка поряд із цією, після [початку] вигину потоку води"
+
+msgid "The one in the bend to the south of this"
+msgstr "Зірка на вигині, південніше від цієї"
+
+msgid "The northernmost of the two stars to the south of this"
+msgstr "Найпівнічніша з двох зірок на південь від цієї"
+
+msgid "The southernmost of the two"
+msgstr "Найпівденніша з двох"
+
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "Самотня зірка на певній відстані від цих [двох] у напрямку на південь"
+
+msgid "The more advanced of the two stars close together after the latter"
+msgstr "Передніша з двох близьких зірок після останньої"
+
+msgid "The northernmost of the three stars in the next bend group"
+msgstr "Найпівнічніша з трьох зірок у групі наступного згину"
+
+msgid "The northernmost of the next three [arranged] likewise"
+msgstr "Найпівнічніша з наступних трьох подібно [упорядкованих]"
+
+msgid "The most advanced of the three stars in the remaining bend group"
+msgstr "Найпередніша з трьох зірок у останній групі вигину"
+
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr "Зірка на кінці води і у роті Південної Риби"
+
+msgid ""
+"The most advanced of the three stars to the rear of the bend in the water"
+msgstr "Передніша з трьох зірок у хвості ззаду від вигину водяного потоку"
+
+msgid "The first frog"
+msgstr "Перша жаба"
+
+msgid "The male ostrich"
+msgstr "Страус-самець"
+
+msgid "The star in the mouth of the advance fish"
+msgstr "Зірка у роті передньої риби"
+
+msgid "The southernmost of the two stars in the top of its head"
+msgstr "Найпівденніша з двох зірок у верхній частині його голови"
+
+msgid "The more advanced of the two stars in the belly"
+msgstr "Передніша з двох зірок на череві"
+
+msgid "The star in the tail of the same [advance] fish"
+msgstr "Зірка на хвості тієї самої [передньої] риби"
+
+msgid "The first after the tail of the stars forming its fishing-line"
+msgstr "Перша зірка після хвоста зірок, який формує її волосінь"
+
+msgid "The most advanced of the three following stars"
+msgstr "Найпередніша з трьох наступних зірок"
+
+msgid "The northernmost of the two small stars under these, in the bend"
+msgstr "Найпівнічніша з двох малих зірок під цими, на вигині"
+
+msgid "The most advanced of the three stars after the bend"
+msgstr "Найпередніша з трьох зірок після вигину"
+
+msgid "The star on the knot joining the two fishing-lines"
+msgstr "Зірка у вузлі, що з'єднує дві волосіні"
+
+msgid ""
+"The first in the section beginning at the knot of the stars in the northern "
+"fishing-line"
+msgstr ""
+"Перша зірка у частині, що починається від взула зірок на північній волосіні"
+
+msgid "The southernmost of the three stars following after that"
+msgstr "Найпівденніша з трьох зірок після неї"
+
+msgid "The northernmost of the three, which is also on the end of the tail"
+msgstr "Найпівнічніша з трьох, яка також розташовано на кінчику хвоста"
+
+msgid "The northernmost of the two stars in the mouth of the rear fish"
+msgstr "Найпівнічніша з двох зірок у роті задньої риби"
+
+msgid "The rearmost of the three small stars in the head"
+msgstr "Найзадніша з трьох малих зірок у голові"
+
+msgid ""
+"The most advanced of the three stars on the spine in the back, following [i."
+"e. to the rear of] the star on the elbow of Andromeda"
+msgstr ""
+"Найпередніша з трьох зірок на спині, за якими [тобто ззаду] йде зірка на "
+"лікті Андромеди"
+
+msgid "The northernmost of the two stars in the belly"
+msgstr "Найпівнічніша з двох зірок на череві"
+
+msgid "The star in the rear spine, near the tail"
+msgstr "Зірка на задній частині спини, поряд із хвостом"
+
+msgid ""
+"The more advanced of the two northern stars of the quadrilateral under the "
+"advance fish"
+msgstr "Найпередніша з двох північних зірок чотирикутника під передньою рибою"
+
+msgid "The more advanced star on the southern side"
+msgstr "Найпередніша зірка на південному боці"
+
+msgid "The rearmost one on the southern side"
+msgstr "Найзадніша зірка на південному боці"
+
+msgid "The rearmost, on the end of the jaw of the three stars in the snout"
+msgstr "Найзадніша, на кінці щелепи з трьох зірок на рилі"
+
+msgid "The middle one, in the middle of the mouth"
+msgstr "Середня зірка, посередині рота"
+
+msgid "The most advanced of the three, on the cheek"
+msgstr "Найпередніша з трьох, на щоці"
+
+msgid "The star on the eyebrow and the eye"
+msgstr "Зірка на брові ока"
+
+msgid "The one to the north of this, about on the hair"
+msgstr "Зірка на північ від цієї, майже на волоссі"
+
+msgid "The one in advance of these, about on the mane"
+msgstr "Зірка перед цими, майже на гриві"
+
+msgid ""
+"The northernmost star on the advance side of the quadrilateral in the chest"
+msgstr "Найпівнічніша зірка на передньому боці чотирикутника на грудях"
+
+msgid "The southernmost one on the advance side"
+msgstr "Найпівденніша зірка на передній стороні"
+
+msgid "The southernmost one on the rear side"
+msgstr "Найпівденніша зірка на задній стороні"
+
+msgid "The midmost of the three stars in the body"
+msgstr "Середня з трьох зірок на тілі"
+
+msgid "The rearmost of the two stars by the section next to the tail"
+msgstr "Найзадніша з двох зірок у частині поряд із хвостом"
+
+msgid ""
+"The northernmost star on the rear side of the quadrilateral in the section "
+"next to the tail"
+msgstr ""
+"Найпівнічніша зірка на задньому боці чотирикутника у частині поряд із хвостом"
+
+msgid ""
+"The one on the northern tail-fin of the two stars at the ends of the tail-"
+"fins"
+msgstr ""
+"Зірка у північній частині хвостового плавця з двох зірок на кінцях хвостових "
+"плавців"
+
+msgid "The one on the end of the southern tail-fin"
+msgstr "Зірка на кінці кінці південного хвоста"
+
+msgid "The second frog"
+msgstr "Друга жаба"
+
+msgid "The nebulous star in the head of Orion, the three close stars"
+msgstr "Туманна зірка у голові Оріона, три близькі зірки"
+
+msgid "The bright, reddish star on the right shoulder"
+msgstr "Яскрава червоняста зірка на правому плечі"
+
+msgid "The one under this to the rear"
+msgstr "Зірка під цією позаду"
+
+msgid ""
+"The rear, double star on the southern side of the quadrilateral in the right "
+"hand"
+msgstr "Задня подвійна зірка на південному боці чотирикутника у правій руці"
+
+msgid "The rear one on the northern side"
+msgstr "Задня зірка на північному боці"
+
+msgid "The advance one on the northern side"
+msgstr "Передня зірка на північному боці"
+
+msgid "The more advanced of the two stars in the staff"
+msgstr "Передніша з двох зірок на палиці"
+
+msgid ""
+"The rearmost of the four stars almost on a straight line just over the back"
+msgstr "Найзадніша з чотирьох зірок майже на прямій ліній одразу над спиною"
+
+msgid "The one in advance again of this"
+msgstr "Зірка знову перед цією"
+
+msgid "The last and most advanced of the four"
+msgstr "Остання і найпередніша з чотирьох"
+
+msgid "The northernmost of the nine stars in the pelt on the left arm"
+msgstr "Найпівнічніша з дев'яти зірок на шкірі лівої руки"
+
+msgid "The second from the northernmost"
+msgstr "Друга з найпівнічніших"
+
+msgid "The third from the northernmost"
+msgstr "Третя з найпівнічніших"
+
+msgid "The fourth from the northernmost"
+msgstr "Четверта з найпівнічніших"
+
+msgid "The fifth from the northernmost"
+msgstr "П'ята з найпівнічніших"
+
+msgid "The sixth from the northernmost"
+msgstr "Шоста з найпівнічніших"
+
+msgid "The seventh from the northernmost"
+msgstr "Сьома з найпівнічніших"
+
+msgid "The eighth from the northernmost"
+msgstr "Восьма з найпівнічніших"
+
+msgid "The last and southernmost of those in the pelt"
+msgstr "Остання і найпівденніша з зірок на шкірі"
+
+msgid "The most advanced of the three stars on the belt"
+msgstr "Передніша з трьох зірок на поясі"
+
+msgid "The star near the handle of the dagger"
+msgstr "Зірка поряд із держаком кинджала"
+
+msgid ""
+"The northernmost of the three stars joined together at the tip of the dagger"
+msgstr "Найпівнічніша з трьох зірок, які поєднуються на кінчику кинджала"
+
+msgid "The rearmost of the two stars under the tip of the dagger"
+msgstr "Задніша з двох зірок під кінчиком кинджала"
+
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr "Яскрава зірка на лівій ступні, яка є спільною із водою [Ерідана]"
+
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr ""
+"Зірка на північ від неї на нижній частині ноги, над з'єднанням із кісточкою"
+
+msgid "The star under the left heel, outside"
+msgstr "Зірка під лівою п'ятою, ззовні"
+
+msgid "The star under the right, rear knee"
+msgstr "Зірка під правим коліном позаду"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shoulder of Al-Jawza"
+msgstr "Плече аль-Джози"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Hand of Al-Jawza"
+msgstr "Рука аль-Джози"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shepherd of Al-Jawza"
+msgstr "Пастух аль-Джози"
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr "Аль-Наджид"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+#. TRANSLATORS: Al-Mirzam is a proper name
+msgid "Al-Mirzam"
+msgstr "Аль-Мірцам"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Leg of Al-Jawza"
+msgstr "Нога аль-Джози"
+
+msgid ""
+"The star after the one in the foot of Orion, at the beginning of the river"
+msgstr "Зірка після зірки у ступні Оріона, на початку ріки"
+
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr "Зірка на північ від цієї, на кривій поряд із гомілкою Оріона"
+
+msgid "The rearmost of the two stars next in order after this"
+msgstr "Найзадніша з двох зірок далі за порядком після цієї"
+
+msgid "The rearmost of the next two in order again"
+msgstr "Найзадніша з наступних двох зірок далі за порядком"
+
+msgid "The rearmost of the three stars after this"
+msgstr "Найзадніша з трьох зірок після цієї"
+
+msgid "The rearmost of the four stars in the next interval"
+msgstr "Найзадніша з чотирьох зірок на наступному інтервалі"
+
+msgid "The most advanced of the four"
+msgstr "Найпередніша з чотирьох"
+
+msgid "The rearmost of the four stars in the next likewise interval again"
+msgstr "Найзадніша з чотирьох зірок на наступному подібному інтервалі"
+
+msgid ""
+"The first star in the bend of the river, which touches the chest of Cetus"
+msgstr "Перша зірка на вигині ріки, яка торкається грудей Кита"
+
+msgid "The most advanced of the next consecutive three"
+msgstr "Найпередніша з наступних послідовних трьох"
+
+msgid ""
+"The northern one on the advance side of the next four stars, nearly forming "
+"a trapezium"
+msgstr ""
+"Північна зірка на передньому боці наступних чотирьох зірок, які майже "
+"формують трапецію"
+
+msgid "The southernmost on the advance side"
+msgstr "Найпівденніша зірка на передній стороні"
+
+msgid "The more advanced one on the rear side"
+msgstr "Передніша зірка на задньому боці"
+
+msgid "The last of the four, the rear one on that side"
+msgstr "Остання з чотирьох, задня зірка на тому боці"
+
+msgid ""
+"The northernmost of the two stars close together at some distance to the east"
+msgstr ""
+"Найпівнічніша з двох близьких зірок у області на певній відстані на схід"
+
+msgid "The rearmost of the next two stars after the bend"
+msgstr "Найзадніша з наступних двох зірок після вигину"
+
+msgid "The rearmost of the three stars in the next interval"
+msgstr "Найзадніша з трьох зірок на наступному інтервалі"
+
+msgid "The last star of the river, the bright one, called 'The male ostrich'"
+msgstr "Остання зірка ріки, яскрава, називають «Страус-самець»"
+
+msgid ""
+"The northern star on the advance side of the quadrilateral just over the ears"
+msgstr "Північна зірка на передньому боці чотирикутника одразу над вухами"
+
+msgid "The northern star on the rear side"
+msgstr "Північна зірка на задньому боці"
+
+msgid "The southern star on the rear side"
+msgstr "Південна зірка на задньому боці"
+
+msgid "The star in the chin"
+msgstr "Зірка на підборідді"
+
+msgid "The star on the left front foot"
+msgstr "Зірка на лівому передній частині лівої ступні"
+
+msgid "The star in the middle of the body"
+msgstr "Зірка посередині тіла"
+
+msgid "The star under the belly"
+msgstr "Зірка під черевом"
+
+msgid "The northernmost of the two stars in the hind legs"
+msgstr "Найпівнічніша з двох зірок на задніх лапах"
+
+msgid "CMa_1"
+msgstr "CMa_1"
+
+msgid "CMa_2"
+msgstr "CMa_2"
+
+msgid "CMa_3"
+msgstr "CMa_3"
+
+msgid "CMa_4"
+msgstr "CMa_4"
+
+msgid "CMa_5"
+msgstr "CMa_5"
+
+msgid "CMa_6"
+msgstr "CMa_6"
+
+msgid "CMa_7"
+msgstr "CMa_7"
+
+msgid "CMa_8"
+msgstr "CMa_8"
+
+msgid "CMa_9"
+msgstr "CMa_9"
+
+msgid "CMa_10"
+msgstr "CMa_10"
+
+msgid "CMa_11"
+msgstr "CMa_11"
+
+msgid "CMa_12"
+msgstr "CMa_12"
+
+msgid "CMa_13"
+msgstr "CMa_13"
+
+msgid "CMa_14"
+msgstr "CMa_14"
+
+msgid "CMa_15"
+msgstr "CMa_15"
+
+msgid "CMa_16"
+msgstr "CMa_16"
+
+msgid "CMa_17"
+msgstr "CMa_17"
+
+msgid "CMa_18"
+msgstr "CMa_18"
+
+msgid "CMa_a_01"
+msgstr "CMa_a_01"
+
+msgid "CMa_a_02"
+msgstr "CMa_a_02"
+
+msgid "CMa_a_03"
+msgstr "CMa_a_03"
+
+msgid "CMa_a_04"
+msgstr "CMa_a_04"
+
+msgid "CMa_a_05"
+msgstr "CMa_a_05"
+
+msgid "CMa_a_06"
+msgstr "CMa_a_06"
+
+msgid "CMa_a_07"
+msgstr "CMa_a_07"
+
+msgid "CMa_a_08"
+msgstr "CMa_a_08"
+
+msgid "CMa_a_09"
+msgstr "CMa_a_09"
+
+msgid "CMa_a_10"
+msgstr "CMa_a_10"
+
+msgid "CMa_a_11"
+msgstr "CMa_a_11"
+
+#. TRANSLATORS: Shi'raa is the Arabic proper name of Sirius
+msgid ""
+"The star in the mouth, with utmost brightness, which is called 'the Dog' and "
+"'Southern or crossing Shi'raa'"
+msgstr ""
+"Зірка у роті, найбільшої яскравості, яку називають «Пес» і «Північна або "
+"перехрещена Ші'раа»"
+
+msgid "The star on the ears"
+msgstr "Зірка на вухах"
+
+msgid "The star on the chest"
+msgstr "Зірка у грудях"
+
+msgid "The northernmost of the two stars on the right knee"
+msgstr "Найпівнічніша з двох зірок на правому коліні"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+msgid "The star on the end of the front leg, called 'Al-Mirzam'"
+msgstr "Зірка на кінці передньої лапи, яку називають «Аль-Мірцам»"
+
+msgid "The more advanced of the two stars in the left knee"
+msgstr "Передніша з двох зірок на лівому коліні"
+
+msgid "The rearmost of the two stars in the left shoulder"
+msgstr "Найзадніша з двох зірок на лівому плечі"
+
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "Зірка на місці, де ліве стегно з'єднується [з тілом]"
+
+msgid "The star below the belly, in the place between the thighs"
+msgstr "Зірка під черевом, у місці між стегнами"
+
+msgid "The star on the joint of the right leg"
+msgstr "Зірка на з'єднанні правої лапи"
+
+msgid "The star on the end of the right leg"
+msgstr "Зірка на кінці правої лапи"
+
+msgid "The star on the tail"
+msgstr "Зірка на хвості"
+
+msgid "The star to the north of the top of the dog skull"
+msgstr "Зірка на північ від верхньої частини черепа пса"
+
+msgid ""
+"The southernmost of the four stars almost on a straight line under the hind "
+"legs"
+msgstr ""
+"Найпівденніша з чотирьох зірок майже на прямій лінії під задніми лапами"
+
+msgid "The one north of this"
+msgstr "Зірка на північ від цієї"
+
+msgid "The last and northernmost of the four"
+msgstr "Остання і найпівнічніша з чотирьох"
+
+msgid ""
+"The most advanced of the three stars almost on a straight line to the west "
+"of the [above] four"
+msgstr ""
+"Передніша з трьох зірок майже на прямій ліній на захід від чотирьох [згори]"
+
+msgid "The rearmost of the two bright stars under these"
+msgstr "Задніша з двох яскравих зірок під цими"
+
+msgid "The last star, to the south of the above"
+msgstr "Остання зірка, на південь вище"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa that crossed [the milky way]"
+msgstr "Мірцам Ші'раа, який перетинах [Чумацький Шлях]"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa"
+msgstr "Мірцам Ші'раа"
+
+msgid "The dog"
+msgstr "Пес"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder.
+msgid "The star in the neck, called Al-Mirzam"
+msgstr "Зірка на підборідді, яку називають «Аль-Мірцам»"
+
+#. TRANSLATORS: The northern Shi'raa or tearfull Shi'raa is a proper arabic
+#. name for Procyon.
+msgid ""
+"The bright star just over the hindquarters, called 'The northern or tearfull "
+"Shi'raa'"
+msgstr ""
+"Яскрава зірка одразу над крижами, яку називають «Північна або сльозлива "
+"Ші'раа»"
+
+msgid "The more advanced of the two stars at the end of the ship"
+msgstr "Передніша з двох зірок на кінці корабля"
+
+msgid ""
+"The northernmost of the two stars close together over the little shield in "
+"the poop"
+msgstr "Найпівнічніша з двох близьких зірок над малим щитом на кормі"
+
+msgid "The star in advance of these"
+msgstr "Зірка перед цими"
+
+msgid "The bright star in the middle of the little shield"
+msgstr "Яскрава зірка посередині малого щита"
+
+msgid "The most advanced of the three stars under the little shield"
+msgstr "Передніша з трьох зірок під малим щитом"
+
+msgid "The star on the stern neck"
+msgstr "Зірка на звуженні корми"
+
+msgid ""
+"The northernmost of the two stars in the sternpost on which are the two "
+"stern cabins"
+msgstr ""
+"Найпівнічніша з двох зірок на ахтерштевні, на якому розташовано дві кормові "
+"каюти"
+
+msgid "The northernmost of the stars in the poop-deck"
+msgstr "Найпівнічніша з зірок на палубі юта"
+
+msgid "The most advanced of the next three"
+msgstr "Найпередніша з наступних трьох"
+
+msgid "The bright star on the deck to the rear of these"
+msgstr "Яскрава зірка на палубі позаду цих"
+
+msgid "The more advanced of the two faint stars under the bright one"
+msgstr "Передніша з двох тьмяних зірок під яскравою зіркою"
+
+msgid "The more advanced of the two stars over the above-mentioned bright one"
+msgstr "Передніша з двох зірок над згаданою вище яскравою зіркою"
+
+msgid ""
+"The northernmost of the three stars on the little shields, about on the mast-"
+"holder"
+msgstr "Найпівнічніша з трьох зірок на малих щитах майже на тримачі щогли"
+
+msgid "The northernmost of the two stars close together under these"
+msgstr "Найпівнічніша з двох зірок близько одна від одної під цими"
+
+msgid "The southernmost of the two stars in the middle of the mast"
+msgstr "Найпівденніша з двох зірок у середній частині щогли"
+
+msgid "The more advanced of the two stars by the tip of the mast"
+msgstr "Передніша з двох зірок поряд із кінчиком щогли"
+
+msgid "The star below the three rear little shield"
+msgstr "Зірка під трьома задніми малими щитами"
+
+msgid "The star on the cut-off of the deck"
+msgstr "Зірка на обрізанні палуби"
+
+msgid "The star between the steering-oars in the keel"
+msgstr "Зірка між рульовими веслами у кілі"
+
+msgid "The faint star to the rear of this"
+msgstr "Тьмяна зірка позаду від цієї"
+
+msgid "The bright star to the rear of this, under the deck"
+msgstr "Яскрава зірка позаду від цієї, під палубою"
+
+msgid "The bright star to the south of this, on the sternpost"
+msgstr "Яскрава зірка на південь від цієї, на ахтерштевні"
+
+msgid "The most advanced of the three stars to the rear of this"
+msgstr "Передніша з трьох зірок у хвості ззаду від цієї"
+
+msgid ""
+"The more advanced of the two stars to the rear of these, near the cut-off of "
+"the deck"
+msgstr "Передніша із двох зірок позаду цих, поряд із обрізом палуби"
+
+msgid ""
+"The more advanced of the two stars in the northern, advance steering-oar"
+msgstr "Передніша з двох зірок на північним, переднім рульовим веслом"
+
+#. TRANSLATORS: Suhayl is the Arabic proper name of Canopus
+msgid ""
+"The more advanced of the two stars in the other steering-oar, called "
+"Canopus, and it is Suhayl"
+msgstr ""
+"Передніша з двох зірок на іншому рульовому веслі, яку називають Канопус, і "
+"це Сухайль"
+
+msgid "The other, rearmost star"
+msgstr "Інша, найзадніша зірка"
+
+msgid ""
+"The southernmost of the two advance ones, which is on the nostrils of the "
+"five stars in the head"
+msgstr ""
+"Найпівденніша з двох передніх зірок, яку розташовано на ніздрях з п'яти "
+"зірок у голові"
+
+msgid "The northernmost of these two, which is above the eye"
+msgstr "Найпівнічніша з цих двох, яку розташовано над оком"
+
+msgid ""
+"The northernmost of the two to the rear of these, which is about on the skull"
+msgstr ""
+"Найпівнічніша з двох зірок позаду від цих, яку розташовано майже на черепі"
+
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "Найпівденніша з них, на розкритих щелепах"
+
+msgid "The rearmost of all, about on the chin"
+msgstr "Найзадніша з усіх, майже на підборідді"
+
+msgid ""
+"The more advanced of the two stars in the place where the neck joins [the "
+"head]"
+msgstr "Передніша з двох зірок на місці, де з'єднується шия [із головою]"
+
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "Середня зірка з наступних трьох на вигині шиї"
+
+msgid "The faint, northernmost star of the two close together to the south"
+msgstr "Тьм'яна, найпівнічніша з двох зірок близько одна від одної на півдні"
+
+#. TRANSLATORS: Al-Fard is a proper name meaning the lone star
+msgid "The bright one of these two close stars, called Al-Fard"
+msgstr "Яскрава зірка з двох близьких зірок, яку називають «Аль-Фард»"
+
+msgid ""
+"The most advanced of the three stars to the rear, after the bend [in the "
+"neck]"
+msgstr "Передніша з трьох зірок у хвості ззаду, після вигину [шиї]"
+
+msgid "The most advanced of the next three stars almost on a straight line"
+msgstr "Передніша з наступних трьох зірок майже на прямій ліній"
+
+msgid ""
+"The northernmost of the two stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr "Найпівнічніша з двох зірок після [тобто позаду] основи Чаші"
+
+msgid ""
+"The most advanced of the three stars after these, as it were in a triangle"
+msgstr "Найпередніша з трьох зірок після цих, наче вона у трикутнику"
+
+msgid "The middle and southernmost one"
+msgstr "Середня і найпівденніша зірка"
+
+msgid "The star after Corvus, in the section by the tail"
+msgstr "Зірка після Ворона, у частині поряд із хвостом"
+
+msgid "The star to the south of the head"
+msgstr "Зірка на південь від голови"
+
+msgid "The star some distance to the rear of those in the neck"
+msgstr "Зірка на певній відстані позаду від зірок на шиї"
+
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr "Зірка у основі чаші, яка є спільною із Гідрою"
+
+msgid "The southernmost of the two stars in the middle of the bowl"
+msgstr "Найпівденніша з двох зірок у середній частині чаші"
+
+msgid "The star on the southern rim of the mouth"
+msgstr "Зірка на південному краю шийки"
+
+msgid "The star on the northern rim"
+msgstr "Зірка на північному краю"
+
+msgid "The star on the southern handle"
+msgstr "Зірка на південній ручці"
+
+msgid "The star on the northern handle"
+msgstr "Зірка на північній ручці"
+
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "Зірка у дзьобі, яка є спільною із Гідрою"
+
+msgid "The star in the neck, by the head"
+msgstr "Зірка у шиї, поряд із головою"
+
+msgid "The star in the advance, right wing"
+msgstr "Зірка попереду, праве крило"
+
+msgid "The more advanced of the two stars in the rear wing"
+msgstr "Передня з двох зірок на задньому крилі"
+
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr "Зірка на кінці лапи, яка є спільною із Гідрою"
+
+msgid "The southernmost of the four stars in the head"
+msgstr "Найпівденніша з чотирьох зірок у голові"
+
+msgid "The more advanced of the other, middle two"
+msgstr "Передніші з інших, середні дві"
+
+msgid "The rearmost of these, the last of the four"
+msgstr "Найзадніша зірка із цих, остання з чотирьох"
+
+msgid "The star on the left, advance shoulder"
+msgstr "Зірка на лівому передньому плечі"
+
+msgid "The star on the left shoulder-blade"
+msgstr "Зірка на лівому краю плеча"
+
+msgid "The northernmost of the advance two of the four stars in the thyrsus"
+msgstr "Найпівнічніша з передніх двох з чотирьох зірок на тирсі"
+
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr "Зірка з інших двох, які розташовано на кінчику тирси"
+
+msgid "The last one, south of the latter"
+msgstr "Остання зірка на південь від попередньої"
+
+msgid "The most advanced of the three stars in the right side"
+msgstr "Найпередніша з трьох зірок на правому боці"
+
+msgid "The star in the right hand"
+msgstr "Зірка на правій руці"
+
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr ""
+"Яскрава зірка у місці, де людське тіло з'єднується [із конячим тулубом]"
+
+msgid "The rearmost of the two faint stars to the north of this"
+msgstr "Найзадніша з двох зірок на північ від цієї"
+
+msgid "The star in advance of this, on the horse's back"
+msgstr "Зірка перед цією, на спині коня"
+
+msgid "The rearmost of the stars on the rump"
+msgstr "Найзадніша з зірок на крижах"
+
+msgid "The more advanced of the two stars close together on the right thigh"
+msgstr "Передніша з двох близьких зірок на правому стегні"
+
+msgid "The star in the chest, under the horse's armpit"
+msgstr "Зірка у грудях, під пахвою коня"
+
+msgid "The more advanced of the two stars under the belly"
+msgstr "Передніша з двох зірок під черевом"
+
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "Зірка на вигині коліна правої [задньої] ноги"
+
+msgid "The star in the hock of the same leg"
+msgstr "Зірка на підколінку тієї самої ноги"
+
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr "Зірка під вигином коліна лівої [задньої] ноги"
+
+msgid "The star on the frog of the hoof on the same leg"
+msgstr "Зірка на стрілці копита тієї самої ноги"
+
+msgid "The star on the end of the right front leg"
+msgstr "Зірка на кінці правої передньої ноги"
+
+msgid "The star on the knee of the left [front] leg"
+msgstr "Зірка на коліні лівої [передньої] ноги"
+
+msgid "The star outside, under the right hind leg"
+msgstr "Зірка назовні, під правою задньою ногою"
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr "Аль-Вазн"
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr "Хадарі"
+
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr "Зірка на кінці задньої лапи, поряд із [правою] рукою Центавра"
+
+msgid "The star on the bend in the same leg"
+msgstr "Зірка на вигині тієї самої лапи"
+
+msgid "The more advanced of the two stars just over the shoulder-blade"
+msgstr "Передніша з двох зірок одразу над краєм плеча"
+
+msgid "The star in the middle of the body of Lupus"
+msgstr "Зірка посередині тіла Вовка"
+
+msgid "The star in the belly, under the flank"
+msgstr "Зірка на череві, під боком"
+
+msgid "The star on the thigh"
+msgstr "Зірка на стегні"
+
+msgid ""
+"The northernmost of the two stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+"Найпівнічніша з двох зірок поряд із місцем, де з'єднуються стегна [із тілом]"
+
+msgid "The star on the end of the rump"
+msgstr "Зірка на кінці крижів"
+
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "Найпівденніша з трьох зірок на кінці хвоста"
+
+msgid "The southernmost of the two stars in the neck"
+msgstr "Найпівденніша з двох зірок на шиї"
+
+msgid "The more advanced of the two stars in the snout"
+msgstr "Передніша з двох зірок на рилі"
+
+msgid "The southernmost of the two stars in the front leg, on the hand"
+msgstr "Найпівденніша з двох зірок на передній нозі, на руці"
+
+msgid "The northernmost of the two stars in the base"
+msgstr "Найпівнічніша з двох зірок у основі"
+
+msgid "The star in the middle of the little altar"
+msgstr "Зірка посередині малого вівтаря"
+
+msgid "The northernmost of the three stars in the brazier"
+msgstr "Найпівнічніша з трьох зірок у жаровні"
+
+msgid "The southernmost of the other two which are close together"
+msgstr "Найпівденніша з інших двох, які є близькими"
+
+msgid "The northernmost of these two"
+msgstr "Найпівнічніша з цих двох"
+
+msgid "The star on the end of the burning-apparatus"
+msgstr "Зірка на кінці вогню"
+
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "Найпередніша з зірок на південному краю, ззовні [корони]"
+
+msgid "The star to the rear of this on the crown"
+msgstr "Зірка позаду цієї на короні"
+
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "Зірка після цієї, перед коліном Стрільця"
+
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius]"
+msgstr ""
+"Зірка після цієї, яку розташовано на північ від яскравої зірки у коліні "
+"[Стрільця]"
+
+msgid "The star to the north of this"
+msgstr "Зірка на північ від цієї"
+
+msgid "The one to the north again of this"
+msgstr "Зірка ще на північ від цієї"
+
+msgid ""
+"The rearmost of the two stars after this, in advance, in the northern rim"
+msgstr "Найзадніша з двох зірок після цієї, попереду, на північному краю"
+
+msgid "The more advanced of these two faint stars"
+msgstr "Передніша з цих двох тьмяних зірок"
+
+msgid "The star quite some distance in advance of this"
+msgstr "Зірка на певній відстані перед цією"
+
+msgid "The last one, which is south of the aforementioned star"
+msgstr "Остання зірка, яку розташовано на південь від вищезгаданої зірки"
+
+msgid "The most advanced of the three stars on the southern rim of the head"
+msgstr "Передніша з трьох зірок на південному краю голови"
+
+msgid "The star by the gills"
+msgstr "Зірка за жабрами"
+
+msgid "The star on the southernmost spine on the back"
+msgstr "Зірка на найпівденнішій задній частині спини"
+
+msgid "The rearmost of the two stars in the belly"
+msgstr "Найзадніша з двох зірок на животі"
+
+msgid "The rearmost of the three stars on the northern spine"
+msgstr "Найзадніша з трьох зірок на півночі спини"
+
+msgid "Tassel of the lion"
+msgstr "Китиця лева"
+
+msgid "The nebulous mass on the right hand"
+msgstr "Туманна маса на правій руці"
+
+msgid "wrist of Al-Thurayya"
+msgstr "Зап'ясток Аль-Тураї"
+
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "Зірка у місці, де задня частина з'єднується [із конячим тулубом]"
+
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "Середина туманної маси у грудях, яку називають «Ясла»"
+
+msgid "Nose tip of the lion"
+msgstr "Кінчик носа лева"

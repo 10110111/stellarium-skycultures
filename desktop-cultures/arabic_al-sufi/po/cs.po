@@ -1,0 +1,3148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Zdeněk Moravec <moravec@hapteplice.cz>, 2023\n"
+"Language-Team: Czech (https://app.transifex.com/stellarium/teams/80998/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n "
+"<= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+# Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "Arabská (Al-Sufi)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Book of Fixed Stars was written shortly before 964 AD. Dr. Paul "
+"Kunitzsch described it as \"the most outstanding among the works of the "
+"prominent astronomer Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (born in "
+"Rayy, 903; died 986), referred to as al-Sufi. In it, al-Şūfī treats the 48 "
+"classical constellations, which were established and transmitted in "
+"Ptolemy's Almagest. The description of each constellation comprises the "
+"following four sections: first, a general discussion of the constellation "
+"and its individual stars; this section also includes alŞūfi's criticism of "
+"the Ptolemaic tradition and notices of his own observations. Second, a "
+"record of the indigenous Arabic star names falling under that constellation, "
+"and the exact identification of the respective stars with the corresponding "
+"Ptolemaic stars. Third, two drawings of the constellation, one as it is seen "
+"on a celestial globe, and the other one as it is seen in the sky. Fourth, a "
+"table of the stars making up that constellation, giving a verbal description "
+"of each star's location and its longitude, latitude, and magnitude. This "
+"table closely follows the arrangement of Ptolemy's star catalogue in the "
+"Almagest.\" [#1]. In addition to the four sections of each constellation "
+"mentioned by dr. Kunitzsch, Al-Sufi would identify stars within the 6 "
+"magnitudes that were neglected by Ptolemy, but he did not catalogue them and "
+"was faithful to Ptolemy star catalog."
+msgstr ""
+"Kniha stálic byla napsána krátce před rokem 964 našeho letopočtu. Dr. Paul\n"
+"Kunitzsch ji popsal jako „nejvýznačnější z děl prominentního astronoma Abu\n"
+"'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (narozen v Rajj, 903; zemřel\n"
+"986), označovaný jako al-Súfí. Al-Şūfī se v něm zabývá 48 klasickými\n"
+"souhvězdími, která byla ustanovena v Ptolemaiově Almagestu a přenesena z\n"
+"něj. Popis každého souhvězdí obsahuje následující čtyři části: za prvé,\n"
+"obecná diskuse o souhvězdí a jeho jednotlivých hvězdách; tato část také\n"
+"zahrnuje al-Şūfiho kritiku ptolemaiovské tradice a upozorňuje na jeho\n"
+"vlastní pozorování. Za druhé, záznam původních arabských názvů hvězd\n"
+"spadajících do tohoto souhvězdí a přesnou identifikaci těchto hvězd s jim\n"
+"odpovídajícími ptolemaiovskými hvězdami. Za třetí, dvě kresby souhvězdí:\n"
+"jedna tak, jak je vidět na nebeské globu, a druhá tak, jak je vidět na\n"
+"obloze. Za čtvrté, tabulka hvězd tvořících toto souhvězdí, která poskytuje\n"
+"slovní popis umístění každé hvězdy a její délku, šířku a magnitudu. Tato\n"
+"tabulka přesně dodržuje uspořádání Ptolemaiova katalogu hvězd v\n"
+"Almagestu.\"[#1]. Kromě čtyř částí pro\n"
+"každé souhvězdí, které zmiňuje dr. Kunitzsch, Al-Súfí určoval jasnosti "
+"hvězd\n"
+"uvnitř 6 magnitudové škály lépe než Ptolemaios, ale nekatalogizoval je a "
+"byl\n"
+"věrný Ptolemaiovu katalogu hvězd."
+
+# Sky culture description section in markdown format
+msgid ""
+"An important aspect of the general discussion section is Al-Sufi method of "
+"facilitating the star identification. He describes each individual star in "
+"more than way: By the star position related to the constellation figure, by "
+"its magnitude, by the asterism it forms with other stars like triangle or "
+"arc shapes, sometimes by the star position related to the Milky way, and by "
+"the angular distance from a close by star. I have counted more than 700 "
+"angular distances measured by al-Sufi in his book. The units he uses for "
+"angular distances are cubits, spear length, man-height, span, and finger. Al-"
+"Sufi explicitly said in his book that a cubit is equal to two degrees and 20 "
+"minutes [#2]. For the other units, Schjellerup concluded some values, but "
+"tracking the 700 measurements, I came up with different values. The "
+"following table summarizes the units and relationship to the cubit value "
+"from Schjellerup[#3] and from my research.\n"
+"\n"
+"### Angular distance units used by Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>&nbsp;</notr></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>unit</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spear</td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Man-Height</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 cubits</td>\n"
+"\t<td><notr>7°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>cubit</td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>span</td>\n"
+"\t<td>1/3 of a cubit</td>\n"
+"\t<td><notr>47'</notr></td>\n"
+"\t<td>1/2 of a cubit</td>\n"
+"\t<td><notr>1°10'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>finger</td>\n"
+"\t<td>1/32 of a cubit</td>\n"
+"\t<td><notr>4.4'</notr></td>\n"
+"\t<td>1/16 of a cubit</td>\n"
+"\t<td><notr>8.75'</notr></td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Another important aspect of Al-Sufi book is his record of the indigenous "
+"Arabic star names falling under each constellation, and the exact "
+"identification of the respective stars with the corresponding Ptolemaic "
+"stars. This means that we are looking at two layers of stars knowledge at "
+"the same time: the Ptolemaic one and the indigenous Arab one.\n"
+"\n"
+"### The Sky Culture\n"
+"\n"
+"This sky culture is a result of a research done on several manuscripts of "
+"the book, oldest of which is the [#8].\n"
+"\n"
+"First, the manuscripts of the Book of Fixed Stars were critically edited, "
+"and the text was produced. Second, each member star of the 48 constellations "
+"was identified according to Al-Sufi description, and new tables were built "
+"including modern star designations from the Hipparcos, Bright stars, and "
+"Bayer catalogues. Third, Arab indigenous star names were collected and "
+"identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous "
+"steps were included in a book published digitally of the Book of Fixed Stars "
+"plus explanations and commentary by Khalid Al-Ajaji[#4].\n"
+"\n"
+"The sky culture stick figures of the constellations are the images in the "
+"Ulugh Beg manuscript of the Book of Fixed Stars, extracted, and adapted for "
+"Stellarium by Mr. Kutaibaa Akraa [#5]. The star names file includes the star "
+"number in the constellation as the primary star name and the description of "
+"the star in the tables as a secondary name. For example, Polaris primary "
+"name that is displayed with the star is: UMi1, UMi being Ursa Minor and 1 is "
+"the first star of this constellation. If the star is selected other "
+"secondary names are displayed, which will display \"The star on the end of "
+"the tail\" on the top of the screen. The constellation lines are constructed "
+"according to the constellation shapes with an attempt to include most of the "
+"member stars. For indigenous Arab star knowledge, individual star names were "
+"added to the star file as secondary names, while names of group of stars "
+"were defined through asterism names and asterism lines files.\n"
+"\n"
+"The translation of star descriptions from Arabic into English was extracted "
+"from Ernie Wright website[#6] which was transcribed from Toomer's "
+"translation of the Almagest[#7]. The translation was modified in a few "
+"places to agree with Al-Sufi wording.\n"
+"\n"
+"The single source of the sky culture is the Book of Fixed Stars and the "
+"objective is to give a faithful representation of the book content."
+msgstr ""
+"Důležitým aspektem části s obecnou diskusí je Al-Súfího metoda usnadňující\n"
+"identifikaci hvězd. Popisuje totiž každou jednotlivou hvězdu více způsoby:\n"
+"polohou hvězdy vzhledem k obrazci souhvězdí; její magnitudou; asterismem,\n"
+"který vytváří s dalšími hvězdami, jako jsou trojúhelníky nebo obloukové\n"
+"útvary; někdy též polohou hvězdy vzhledem k Mléčné dráze; úhlovou\n"
+"vzdáleností od blízké hvězdy. V knize jsem napočítal více než 700 úhlových\n"
+"vzdáleností, které al-Súfí naměřil. Jednotky, které používal pro úhlové\n"
+"vzdálenosti, jsou lokty, délka kopí, výška člověka, rozpětí a prst. Al-Súfí\n"
+"ve své knize výslovně řekl, že loket se rovná dvěma stupňům a 20\n"
+"minutám[#2]. U ostatních jednotek\n"
+"Schjellerup došel k jistým hodnotám, ale po projití 700 měření jsem došel k\n"
+"jiným výsledkům. Následující tabulka shrnuje jednotky a vztah k hodnotě\n"
+"lokte od Schjellerupa[#3] a z mého\n"
+"výzkumu.\n"
+"\n"
+"### Úhlové jednotky, které použil Al-Súfí\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td>&nbsp;</td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>jednotka</b></td>\n"
+"\t<td><b>lokty</b></td>\n"
+"\t<td>úhlová vzdálenost</td>\n"
+"\t<td><b>lokty</b></td>\n"
+"\t<td>úhlová vzdálenost</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>kopí</td>\n"
+"\t<td>6 loktů</td>\n"
+"\t<td>14°</td>\n"
+"\t<td>6 loktů</td>\n"
+"\t<td>14°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Výška muže</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 lokty</td>\n"
+"\t<td>7°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>loket</td>\n"
+"\t<td>1 loket</td>\n"
+"\t<td>2°20'</td>\n"
+"\t<td>1 loket</td>\n"
+"\t<td>2°20'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>píď</td>\n"
+"\t<td>1/3 loktu</td>\n"
+"\t<td>47'</td>\n"
+"\t<td>1/2 loktu</td>\n"
+"\t<td>1°10'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>prst</td>\n"
+"\t<td>1/32 loktu</td>\n"
+"\t<td>4.4'</td>\n"
+"\t<td>1/16 loktu</td>\n"
+"\t<td>8.75'</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Dalším důležitým aspektem Al-Súfího knihy je jeho záznam původních "
+"arabských\n"
+"jmen hvězd spadajících do každého souhvězdí a přesná identifikace\n"
+"příslušných hvězd s odpovídajícími ptolemaiovskými hvězdami. To znamená, že\n"
+"se současně díváme na dvě vrstvy znalostí o hvězdách: na ptolemaiovskou a\n"
+"původní arabskou.\n"
+"\n"
+"### Nebeská kultura\n"
+"\n"
+"Tato nebeská kultura je výsledkem výzkumu provedeného na několika "
+"rukopisech\n"
+"knihy, z nichž nejstarší je [#8].\n"
+"\n"
+"Za prvé byly kriticky upraveny rukopisy Knihy stálic a byl vytvořen text. "
+"Za\n"
+"druhé, každá začleněná hvězda ze 48 souhvězdí byla identifikována podle\n"
+"popisu Al-Súfího a byly sestaveny nové tabulky včetně moderních označení\n"
+"hvězd z katalogu Hipparcos, katalogu jasných hvězd a Bayerova katalogu. Za\n"
+"třetí byly shromážděny arabské původní názvy hvězd a byly přižazeny\n"
+"Ptolemaiovým názvům tak, jak byly mapovány Al-Súfím. Všechny předchozí "
+"kroky\n"
+"byly zahrnuty do digitálního vydání Knihy stálic (Book of Fixed Stars),\n"
+"včetně vysvětlení a komentářů od Khalida Al-Ajajiho[#4].\n"
+"\n"
+"Tvary souhvězdí této nebeské kultury jsou obrázky převzaté z Ulugh Begova\n"
+"rukopisu Knihy stálic, které pro Stellarium upravil pan Kutaibaa Akraa\n"
+"[#5]. Soubor s názvy hvězd obsahuje\n"
+"číslo hvězdy v souhvězdí jako hlavní název hvězdy a popis hvězdy v "
+"tabulkách\n"
+"jako vedlejší název. Například hlavní název Polárky, který se zobrazuje s\n"
+"hvězdou, je: UMi1, UMi je Malý medvěd a 1 je první hvězda tohoto\n"
+"souhvězdí. Pokud je vybrána hvězda, zobrazí se další vedlejší jména, která "
+"v\n"
+"tomto případě zobrazí text „Hvězda na konci ocasu“ v horní části\n"
+"obrazovky. Spojnice souhvězdí jsou konstruovány podle tvarů souhvězdí se\n"
+"snahou zahrnout do obrazce většinu hvězd z knihy. Pro znalost původních\n"
+"arabských jmen hvězd byla do souboru s hvězdami tato jména přidána jako\n"
+"vedlejší, zatímco jména skupin hvězd byla definována prostřednictvím "
+"souborů\n"
+"se jmény asterismů a souborů  se spojnicemi asterismů.\n"
+"\n"
+"Překlady popisů hvězd z arabštiny byly získány z webových stránek Ernieho\n"
+"Wrighta[#6], které jsou přepisem\n"
+"Toomerova překladu Almagestu [#7]. Překlad byl na několika místech upraven\n"
+"tak, aby souhlasil s Al-Súfího formulacemi.\n"
+"\n"
+"Jediným zdrojem nebeské kultury je Kniha stálic a jejím cílem je poskytnout\n"
+"věrné zobrazení obsahu knihy."
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: "
+"turath.alfalak@gmail.com"
+msgstr ""
+"Tuto nebeskou kulturu sestavil a do Stellaria přidal Khalid Al-Ajaji:\n"
+"turath.alfalak@gmail.com"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: See Al-Sufi description in his book of the 14th star in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+msgstr ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, p. 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: Viz Al-Súfího kniha a v ní popis 14. hvězdy v souhvězdí Auriga.\n"
+" - [#3]: Description des étoiles fixes, traduction littérale avec des notes "
+"par H. C. F. C. Schjellerup, St. Petersbourg, 1874, p. 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid Al-"
+"Ajaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s Almagest, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 datovaný 1009 n. l.]"
+"(https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-"
+"f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+
+msgid "The spear"
+msgstr "Kopí"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Al-Thurayya"
+
+msgid "Ursa Minor"
+msgstr "Malý medvěd"
+
+msgid "Ursa Major"
+msgstr "Velká medvědice"
+
+msgid "Draco"
+msgstr "Drak"
+
+msgid "Cepheus"
+msgstr "Cefeus"
+
+msgid "Bootes"
+msgstr "Pastýř"
+
+msgid "Corona Borealis"
+msgstr "Severní koruna"
+
+msgid "Hercules"
+msgstr "Herkules"
+
+msgid "Lyra"
+msgstr "Lyra"
+
+msgid "Cygnus"
+msgstr "Labuť"
+
+msgid "Cassiopeia"
+msgstr "Kasiopeja"
+
+msgid "Perseus"
+msgstr "Perseus"
+
+msgid "Auriga"
+msgstr "Vozka"
+
+msgid "Ophiuchus"
+msgstr "Hadonoš"
+
+msgid "Serpens"
+msgstr "Had"
+
+msgid "Sagitta"
+msgstr "Šíp"
+
+msgid "Aquila"
+msgstr "Orel"
+
+msgid "Delphinus"
+msgstr "Delfín"
+
+msgid "Equuleus"
+msgstr "Koníček"
+
+msgid "Pegasus"
+msgstr "Pegas"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Trojúhelník"
+
+msgid "Aries"
+msgstr "Beran"
+
+msgid "Taurus"
+msgstr "Býk"
+
+msgid "Gemini"
+msgstr "Blíženci"
+
+msgid "Cancer"
+msgstr "Rak"
+
+msgid "Leo"
+msgstr "Lev"
+
+msgid "Virgo"
+msgstr "Panna"
+
+msgid "Libra"
+msgstr "Váhy"
+
+msgid "Scorpius"
+msgstr "Štír"
+
+msgid "Sagittarius"
+msgstr "Střelec"
+
+msgid "Capricornus"
+msgstr "Kozoroh"
+
+msgid "Aquarius"
+msgstr "Vodnář"
+
+msgid "Pisces"
+msgstr "Ryby"
+
+msgid "Cetus"
+msgstr "Velryba"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Eridanus"
+
+msgid "Lepus"
+msgstr "Zajíc"
+
+msgid "Canis Major"
+msgstr "Velký pes"
+
+msgid "Canis Minor"
+msgstr "Malý pes"
+
+msgid "Argo Navis"
+msgstr "Loď Argo"
+
+msgid "Hydra"
+msgstr "Hydra"
+
+msgid "Crater"
+msgstr "Pohár"
+
+msgid "Corvus"
+msgstr "Havran"
+
+msgid "Centaurus"
+msgstr "Kentaur"
+
+msgid "Lupus"
+msgstr "Vlk"
+
+msgid "Ara"
+msgstr "Oltář"
+
+msgid "Corona Australis"
+msgstr "Jižní koruna"
+
+msgid "Piscis Austrinus"
+msgstr "Jižní ryba"
+
+msgid "The Horse"
+msgstr "Kůň"
+
+msgid "The great fish"
+msgstr ""
+
+msgid "The other fish"
+msgstr ""
+
+#. TRANSLATORS: The Kid (Baby male goat) is the name of Polaris in Arabic.
+msgid "The star on the end of the tail: it is the Kid"
+msgstr "Hvězda na konci ocasu: je to Mládě"
+
+msgid "The one next to it on the tail"
+msgstr "Ta vedle té na ocasu"
+
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr ""
+
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr ""
+
+msgid "The northernmost of [those in] the same side"
+msgstr ""
+
+msgid "The southern star in the rear side: The brighter of the two calves"
+msgstr ""
+
+msgid "The northern one in the same side: The dimmer of the two calves"
+msgstr ""
+
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+
+msgid "The star on the end of the snout"
+msgstr ""
+
+msgid "The more advanced of the stars in the two eyes"
+msgstr ""
+
+msgid "The one to the rear"
+msgstr ""
+
+msgid "The more advanced of the two stars in the forehead"
+msgstr ""
+
+msgid "The star on the tip of the advance ear"
+msgstr ""
+
+msgid "The more advanced of the two stars in the neck"
+msgstr ""
+
+msgid ""
+"The one to the rear, there is an error in either the longitude or latitude"
+msgstr ""
+
+msgid "The northernmost of the two stars in the chest"
+msgstr ""
+
+msgid "The southernmost of them"
+msgstr ""
+
+msgid "The star on the left knee"
+msgstr ""
+
+msgid ""
+"The northernmost of the [two] in the front left paw: Leap [of the gazelle]"
+msgstr ""
+
+msgid "The southernmost of them: Leap [of the gazelle]"
+msgstr ""
+
+msgid "The star above the right knee"
+msgstr ""
+
+msgid "The star below the right knee"
+msgstr ""
+
+msgid "The stars in the quadrilateral: the one on the back"
+msgstr ""
+
+msgid "The one on the pelvis"
+msgstr ""
+
+msgid "The one on the place where the tail joins [the body]"
+msgstr ""
+
+msgid "The remaining one, on the left hind thigh"
+msgstr ""
+
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr ""
+
+msgid "The one to the rear of it"
+msgstr ""
+
+msgid "The star on the left knee-bend"
+msgstr ""
+
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr ""
+
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+
+msgid "The middle one"
+msgstr ""
+
+msgid "The third, on the end of the tail"
+msgstr ""
+
+msgid "The star under the tail, at some distance towards the south"
+msgstr ""
+
+msgid "The rather fainter star in advance of it"
+msgstr ""
+
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+
+msgid "The one north of it"
+msgstr ""
+
+msgid "The rearmost of the remaining three faint stars"
+msgstr ""
+
+msgid "The one in advance of this"
+msgstr ""
+
+msgid "The one in advance again of the latter"
+msgstr ""
+
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr ""
+
+msgid "The dark camel"
+msgstr ""
+
+msgid "The Oryx"
+msgstr ""
+
+msgid "The little goat"
+msgstr ""
+
+msgid "The leader"
+msgstr ""
+
+msgid "Liver of the lion"
+msgstr ""
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr "Al-Suha"
+
+#. TRANSLATORS: Proper name
+msgid "Al-Suta"
+msgstr "Al-Suta"
+
+#. TRANSLATORS: Proper name
+msgid "Al-Saydaq"
+msgstr "Al-Saydaq"
+
+#. TRANSLATORS: Proper name
+msgid "Nua'ish"
+msgstr "Nua'ish"
+
+msgid "The star on the tongue"
+msgstr ""
+
+msgid "The star in the mouth"
+msgstr ""
+
+msgid "The star above the eye"
+msgstr ""
+
+msgid "The star on the chin"
+msgstr ""
+
+msgid "The star above the head"
+msgstr ""
+
+msgid ""
+"The northernmost of the three stars in a straight line in the first bend of "
+"the neck"
+msgstr ""
+
+msgid "The southernmost of these"
+msgstr ""
+
+msgid ""
+"The star to the rear of the latter and due east of the quadrilateral in the "
+"next bend after the latter"
+msgstr ""
+
+msgid "The southern star of the [two] forming the advance side"
+msgstr ""
+
+msgid "The more northerly star of the advance side"
+msgstr ""
+
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr ""
+
+msgid "The southern star of the rear side"
+msgstr ""
+
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr ""
+
+msgid "The more advanced of the other two stars of the triangle"
+msgstr ""
+
+msgid ""
+"The rearmost of the three stars in the next triangle, which is in advance "
+"[of the last]"
+msgstr ""
+
+msgid "The southernmost of the other two forming the triangle"
+msgstr ""
+
+msgid "The northernmost of the other two"
+msgstr ""
+
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr ""
+
+msgid "The one in advance"
+msgstr ""
+
+msgid "The southernmost of the next three stars in a straight line"
+msgstr ""
+
+msgid "The middle one of the three"
+msgstr ""
+
+msgid "The northernmost of them"
+msgstr ""
+
+msgid "The northernmost of the next two to the west"
+msgstr ""
+
+msgid "The star to the west of these, in the bend by the tail"
+msgstr ""
+
+msgid "The advance star of the two quite some distance from the latter"
+msgstr ""
+
+msgid "The rear star of these [two]"
+msgstr ""
+
+msgid "The star close by these, by the tail"
+msgstr ""
+
+msgid "The remaining star, on the tip of the tail"
+msgstr ""
+
+msgid "The trotting camel"
+msgstr ""
+
+msgid "The baby camel"
+msgstr ""
+
+msgid "The male hyena"
+msgstr ""
+
+msgid "The star on the right leg"
+msgstr ""
+
+msgid "The one on the left leg"
+msgstr ""
+
+msgid "The star under the belt on the right side"
+msgstr ""
+
+msgid "The star over the right shoulder, which touches it"
+msgstr ""
+
+msgid "The star over the right elbow, which touches it"
+msgstr ""
+
+msgid "The one under that elbow"
+msgstr ""
+
+msgid "The star in the chest"
+msgstr ""
+
+msgid "The star on the left arm"
+msgstr ""
+
+msgid "The southernmost of the three stars on the hat"
+msgstr ""
+
+msgid "The northernmost of the three"
+msgstr ""
+
+msgid "The one in advance of the stars on the head"
+msgstr ""
+
+msgid "The one to the rear of them"
+msgstr ""
+
+msgid "The [northern] Shepherd"
+msgstr ""
+
+msgid "The [northern] Shepherd dog"
+msgstr ""
+
+msgid "The horse forehead star"
+msgstr ""
+
+msgid "The most advanced of the three in the left arm"
+msgstr ""
+
+msgid "The middle and southernmost of the three"
+msgstr ""
+
+msgid "The rearmost of the three"
+msgstr ""
+
+msgid "The star on the left elbow"
+msgstr ""
+
+msgid "The star on the left shoulder"
+msgstr ""
+
+msgid "The star on the head"
+msgstr ""
+
+msgid "The star on the right shoulder"
+msgstr ""
+
+msgid "The one to the north of these, on the staff"
+msgstr ""
+
+msgid ""
+"The one farther to the north again of this, on the tip of the staff, and it "
+"is a common star [with Hercules]"
+msgstr ""
+
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr ""
+
+msgid "The star on the end of the right arm"
+msgstr ""
+
+msgid "The more advanced of the two stars in the wrist"
+msgstr ""
+
+msgid "The rearmost of them"
+msgstr ""
+
+msgid "The star on the end of the handle of the staff"
+msgstr ""
+
+msgid ""
+"The star on the belt which Ptolemy claims that it is on the right thigh, in "
+"the apron"
+msgstr ""
+
+msgid "The rearmost of the two stars in the belt"
+msgstr ""
+
+msgid "The more advanced of them"
+msgstr ""
+
+msgid "The star on the right heel"
+msgstr ""
+
+msgid "The northernmost of the three stars in the left leg"
+msgstr ""
+
+msgid "The star between the thighs, called 'The high one with the spear'"
+msgstr ""
+
+msgid "The guard of the sky"
+msgstr ""
+
+msgid "The guard of the north"
+msgstr ""
+
+msgid "Leg of the lion"
+msgstr ""
+
+msgid "Associate of the high one"
+msgstr ""
+
+msgid "Flag of the high one"
+msgstr ""
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "Flag of Al-Fakkah"
+msgstr ""
+
+msgid "The bright star in the crown"
+msgstr ""
+
+msgid "The star in advance of it"
+msgstr ""
+
+msgid "The one above this and due north"
+msgstr ""
+
+msgid "The one north again of this"
+msgstr ""
+
+msgid ""
+"The one to the rear of the bright star in the other half circle from the "
+"south"
+msgstr ""
+
+msgid ""
+"The one to the rear again of the latter, and it is a little more to the north"
+msgstr ""
+
+msgid "The one to the rear again of these, and again it is more to the north"
+msgstr ""
+
+msgid "The star at the end of the opening of this half circle"
+msgstr ""
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "The bright star of Al-Fakkah"
+msgstr ""
+
+msgid "The star on the right shoulder by the armpit"
+msgstr ""
+
+msgid "The star on the right upper arm"
+msgstr ""
+
+msgid "The star on the right elbow"
+msgstr ""
+
+msgid "The star on the left upper arm"
+msgstr ""
+
+msgid "The rearmost of the three stars in the left wrist"
+msgstr ""
+
+msgid "The star in the right side"
+msgstr ""
+
+msgid "The star in the left side"
+msgstr ""
+
+msgid "The one north of the latter, on the left buttock"
+msgstr ""
+
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr ""
+
+msgid "The most advanced of the three in the left thigh"
+msgstr ""
+
+msgid "The one to the rear of this"
+msgstr ""
+
+msgid "The one yet further to the rear of this"
+msgstr ""
+
+msgid "The star on the left shin on the ankle place"
+msgstr ""
+
+msgid "The most advanced of the three stars in the left foot"
+msgstr ""
+
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr ""
+
+msgid "The star north of it in the same thigh"
+msgstr ""
+
+msgid "The star on the right knee"
+msgstr ""
+
+msgid "The southernmost of the two stars under the right knee"
+msgstr ""
+
+msgid "The star in the right lower leg"
+msgstr ""
+
+msgid ""
+"The star on the end of the right leg is the same as the ninth star of Bootes "
+"on the tip of the staff, shared by the two constellations"
+msgstr ""
+
+msgid "The star south of the one in the right upper arm"
+msgstr ""
+
+msgid "First dog of [southern] shepherd"
+msgstr ""
+
+msgid "The line"
+msgstr ""
+
+msgid ""
+"The bright star on the carrying cloth, called Lyra, and it is the landing "
+"eagle"
+msgstr ""
+
+msgid "The northernmost of the two stars lying near the latter, close together"
+msgstr ""
+
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars close together in the region to the east "
+"of the cloth"
+msgstr ""
+
+msgid "The northernmost of the two advance stars in the crossbar"
+msgstr ""
+
+msgid "The northernmost of the two rear stars in the crossbar"
+msgstr ""
+
+msgid "The star on the beak"
+msgstr ""
+
+msgid "The one to the rear of this, on the head"
+msgstr ""
+
+msgid "The star in the middle of the neck"
+msgstr ""
+
+msgid "The star in the breast"
+msgstr ""
+
+msgid "The bright star in the tail"
+msgstr ""
+
+msgid "The star in the bend of the right wing"
+msgstr ""
+
+msgid "The southernmost of the three in the right wing-feathers"
+msgstr ""
+
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr ""
+
+msgid "The star on the bend of the left wing"
+msgstr ""
+
+msgid "The star north of this, in the middle of the same wing"
+msgstr ""
+
+msgid "The star in the tip of the feathers of the left wing"
+msgstr ""
+
+msgid "The star on the left leg"
+msgstr ""
+
+msgid "The more advanced of the two stars in the right leg"
+msgstr ""
+
+msgid "The northern star on the right knee"
+msgstr ""
+
+msgid "The southernmost of the two stars under the left wing"
+msgstr ""
+
+msgid "The rear knight"
+msgstr ""
+
+msgid "The one north of that, on the belt"
+msgstr ""
+
+msgid "The star over the chair, just over the thighs"
+msgstr ""
+
+msgid "The star in the knees"
+msgstr ""
+
+msgid "The star on the lower leg"
+msgstr ""
+
+msgid "The star on the end of the leg"
+msgstr ""
+
+msgid "The star below the left elbow"
+msgstr ""
+
+msgid "The star on the right forearm"
+msgstr ""
+
+msgid "The star above the post of the chair"
+msgstr ""
+
+msgid ""
+"The star on the middle of the chair backrest, and it is called The henna "
+"tinted hand"
+msgstr ""
+
+msgid "The star at the end of the chair backrest"
+msgstr ""
+
+msgid "The star on the place between the shoulders"
+msgstr ""
+
+msgid "The bright star in the right side"
+msgstr ""
+
+msgid "The most advanced of the three stars next to the one in the side"
+msgstr ""
+
+msgid "The bright one of the stars in the Gorgon-head"
+msgstr ""
+
+msgid "The one in advance of the bright star"
+msgstr ""
+
+msgid "The remaining one, yet again in advance of this"
+msgstr ""
+
+msgid "The star in the right knee"
+msgstr ""
+
+msgid "The one in advance of this, over the knee"
+msgstr ""
+
+msgid "The more advanced of the two stars above the bend in the knee"
+msgstr ""
+
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr ""
+
+msgid "The star on the right calf"
+msgstr ""
+
+msgid "The star on the right ankle"
+msgstr ""
+
+msgid "The star in the left thigh"
+msgstr ""
+
+msgid "The star on the left lower leg"
+msgstr ""
+
+msgid "The star on the left heel"
+msgstr ""
+
+msgid "The one to the rear of this, on the left foot"
+msgstr ""
+
+msgid "The star to the east of the one on the left knee"
+msgstr ""
+
+msgid "The star to the north of the one in the right knee"
+msgstr ""
+
+msgid "The star in advance of those in the Gorgon-head"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The elbow [of Al-Thurayya]"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Bend of the hand [of Al-Thurayya]"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Tip of the elbow [of Al-Thurayya]"
+msgstr ""
+
+msgid "The caracal (second narrative)"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The shoulder [of Al-Thurayya]"
+msgstr ""
+
+msgid "The southernmost of the two on the head"
+msgstr ""
+
+msgid "The northernmost [of these], over the head"
+msgstr ""
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "The star on the left shoulder, called Al-Ayyuq"
+msgstr ""
+
+msgid "The star on the right wrist"
+msgstr ""
+
+#. TRANSLATORS: kids here are the baby goats
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'The two "
+"kids'"
+msgstr ""
+
+msgid "The more advanced of these"
+msgstr ""
+
+msgid "The star on the left ankle"
+msgstr ""
+
+msgid ""
+"The star on the right ankle, which is [applied in] common to the northern "
+"horn of Taurus"
+msgstr ""
+
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr ""
+
+msgid "The one north again of this, on the buttock"
+msgstr ""
+
+msgid "The Goat"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya Watcher"
+msgstr ""
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr ""
+
+msgid "The goats owner"
+msgstr ""
+
+msgid "The more advanced of the two stars on the right shoulder"
+msgstr ""
+
+msgid "The more advanced of the two stars on the left shoulder"
+msgstr ""
+
+msgid "The more advanced of the two stars in the left hand"
+msgstr ""
+
+msgid "The more advanced of the two stars in the right hand"
+msgstr ""
+
+msgid "The star on the right lower leg"
+msgstr ""
+
+msgid "The most advanced of the four stars on the right foot"
+msgstr ""
+
+msgid "The one to the rear again of that"
+msgstr ""
+
+msgid "The last and rearmost of the four"
+msgstr ""
+
+msgid "The star to the rear of these, which touches the heel"
+msgstr ""
+
+msgid "The star in the left knee"
+msgstr ""
+
+msgid ""
+"The northernmost of the three stars in a straight line in the left lower leg"
+msgstr ""
+
+msgid "The middle one of these"
+msgstr ""
+
+msgid "The southernmost of the three"
+msgstr ""
+
+msgid "The star touching the hollow of the left foot"
+msgstr ""
+
+msgid ""
+"The northernmost of the three that are on a straight line, to the east of "
+"the right shoulder"
+msgstr ""
+
+msgid "The star to the rear of these three, and over the middle one"
+msgstr ""
+
+msgid "The lone star north of these four"
+msgstr ""
+
+msgid "The [southern] shepherd"
+msgstr ""
+
+msgid "Second dog of the [southern] shepherd"
+msgstr ""
+
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr ""
+
+msgid "The one touching the nostrils"
+msgstr ""
+
+msgid "The one in the temple"
+msgstr ""
+
+msgid "The one where the neck joins [the head]"
+msgstr ""
+
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr ""
+
+msgid "The star outside the head, to the north of it"
+msgstr ""
+
+msgid "The one after the first bend in the neck"
+msgstr ""
+
+msgid "The northernmost of the three following this"
+msgstr ""
+
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr ""
+
+msgid "The star to the rear of those in the hand of Ophiuchus"
+msgstr ""
+
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr ""
+
+msgid "The southernmost of the two to the rear of the latter"
+msgstr ""
+
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr ""
+
+msgid "The one to the rear of this, likewise on the tail"
+msgstr ""
+
+msgid "The star on the tip of the tail"
+msgstr ""
+
+msgid "The lone star on the arrow-head"
+msgstr ""
+
+msgid "The rearmost of the three stars in the shaft"
+msgstr ""
+
+msgid "The most advanced of the three"
+msgstr ""
+
+msgid "The star on the end of the notch"
+msgstr ""
+
+msgid "The star in the middle of the head"
+msgstr ""
+
+msgid "The one in advance of this, on the neck"
+msgstr ""
+
+msgid ""
+"The bright star on the place between the shoulders, called The flying eagle"
+msgstr ""
+
+msgid "The one close to this towards the north"
+msgstr ""
+
+msgid "The more advanced of the two in the left shoulder"
+msgstr ""
+
+msgid "The more advanced of the two in the right shoulder"
+msgstr ""
+
+msgid ""
+"The star some distance under the tail of the eagle, touching the Milky Way"
+msgstr ""
+
+msgid "The more advanced of the two stars south of the head of the eagle"
+msgstr ""
+
+msgid "The star to the south and west of the right shoulder of the eagle"
+msgstr ""
+
+msgid "The one to the south of this"
+msgstr ""
+
+msgid "The one to the south again of the latter"
+msgstr ""
+
+msgid "The star most in advance of all"
+msgstr ""
+
+msgid "The most advanced of the three stars in the tail"
+msgstr ""
+
+msgid ""
+"The southernmost one of the two on the advance side of the rhomboid "
+"quadrilateral"
+msgstr ""
+
+msgid "The northernmost one on the advance side"
+msgstr ""
+
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr ""
+
+msgid "The northernmost one on the rear side"
+msgstr ""
+
+msgid "The northernmost of the three stars between the tail and the rhombus"
+msgstr ""
+
+msgid "The more advanced of the two other northern stars"
+msgstr ""
+
+msgid "The remaining, rearmost one"
+msgstr ""
+
+msgid "The more advanced of the two stars in the head"
+msgstr ""
+
+msgid "The more advanced of the two stars in the mouth"
+msgstr ""
+
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr ""
+
+msgid "The star on the rump and the wing-tip"
+msgstr ""
+
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr ""
+
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr ""
+
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr ""
+
+msgid "The northernmost of the two stars in the right knee"
+msgstr ""
+
+msgid "The more advanced of the two stars close together in the chest"
+msgstr ""
+
+msgid "The more advanced of the two stars close together in the neck"
+msgstr ""
+
+msgid "The southernmost of the two stars on the mane"
+msgstr ""
+
+msgid "The northernmost of the two stars close together on the head"
+msgstr ""
+
+msgid "The star in the muzzle"
+msgstr ""
+
+msgid "The star in the right hock"
+msgstr ""
+
+msgid "The star in the left hock"
+msgstr ""
+
+msgid "The star in the place between the shoulders"
+msgstr ""
+
+msgid "The star in the right shoulder"
+msgstr ""
+
+msgid "The star in the left shoulder"
+msgstr ""
+
+msgid "The southernmost of the three stars on the right upper arm"
+msgstr ""
+
+msgid "The southernmost of the three stars on the right hand"
+msgstr ""
+
+msgid "The southernmost of the three stars over the girdle"
+msgstr ""
+
+msgid "The star over the left foot: called the caracal"
+msgstr ""
+
+msgid "The star in the right foot"
+msgstr ""
+
+msgid "The one south of the latter"
+msgstr ""
+
+msgid "The northernmost of the two stars on the left knee-bend"
+msgstr ""
+
+msgid "The northernmost of the two stars in the lower hem of the garment"
+msgstr ""
+
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr ""
+
+msgid "Abdomen of the fish"
+msgstr ""
+
+msgid "The caracal (first narrative)"
+msgstr ""
+
+msgid "The star in the apex of the triangle"
+msgstr ""
+
+msgid "The most advanced of the three on the base"
+msgstr ""
+
+msgid "The more advanced of the two stars on the horn"
+msgstr ""
+
+msgid "The northernmost of the two stars on the muzzle"
+msgstr ""
+
+msgid "The star on the neck"
+msgstr ""
+
+msgid "The star on the rump"
+msgstr ""
+
+msgid "The star on the place where the fatty tail joins [the body]"
+msgstr ""
+
+msgid "The most advanced of the three stars in the fatty tail"
+msgstr ""
+
+msgid "The star in the back of the thigh"
+msgstr ""
+
+msgid "The star over the knee-bend"
+msgstr ""
+
+msgid "The star on the hind hoof"
+msgstr ""
+
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr ""
+
+msgid "The rearmost, which is brighter of the four stars over the rump"
+msgstr ""
+
+msgid "The northernmost of the other three, fainter stars"
+msgstr ""
+
+msgid "The middle one of these three"
+msgstr ""
+
+msgid "The butting [horn]"
+msgstr ""
+
+msgid "The northernmost of the four stars in the cut-off"
+msgstr ""
+
+msgid "The one close by this"
+msgstr ""
+
+msgid "The one close again to the latter"
+msgstr ""
+
+msgid "The southernmost of the four"
+msgstr ""
+
+msgid "The one to the rear of the latter, on the right shoulder-blade"
+msgstr ""
+
+msgid "The star on the right hock"
+msgstr ""
+
+msgid ""
+"The one on the nostrils of the stars in the face, resembling the Greek "
+"letter Λ"
+msgstr ""
+
+msgid "The one between the latter and the northern eye"
+msgstr ""
+
+msgid "The one between that latter itself and the southern eye"
+msgstr ""
+
+msgid ""
+"The bright star of the group of stars resembling the Arabic letter 'dal د', "
+"the reddish one on the southern eye"
+msgstr ""
+
+msgid "The remaining one, on the northern eye"
+msgstr ""
+
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr ""
+
+msgid "The southernmost of the two stars on the southern horn"
+msgstr ""
+
+msgid "The northernmost of these"
+msgstr ""
+
+msgid "The star on the tip of the southern horn"
+msgstr ""
+
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr ""
+
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga"
+msgstr ""
+
+msgid "The northernmost of the two stars close together in the northern ear"
+msgstr ""
+
+msgid "The more advanced of the two small stars in the neck"
+msgstr ""
+
+msgid ""
+"The southernmost star on the advance side of the four stars forming the "
+"quadrilateral in the neck"
+msgstr ""
+
+msgid "The northernmost star on the advance side"
+msgstr ""
+
+msgid "The southernmost star on the rear side"
+msgstr ""
+
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr ""
+
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr ""
+
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr ""
+
+msgid "The small star outside the Pleiades, towards the north"
+msgstr ""
+
+msgid "The star under the right foot and the ankle"
+msgstr ""
+
+msgid "The most advanced of the three stars over the southern horn"
+msgstr ""
+
+msgid "The northernmost of the two stars under the tip of the southern horn"
+msgstr ""
+
+msgid "The most advanced of the next five stars under the northern horn"
+msgstr ""
+
+msgid "The one to the rear again of the latter"
+msgstr ""
+
+msgid "The northernmost of the remaining, rearmost two"
+msgstr ""
+
+msgid "The southernmost of these two"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The follower of Al-Thurayya"
+msgstr ""
+
+#. TRANSLATORS: Al-Mijdah is a proper name meaning the star of rain or the
+#. fork referring to the shape of the Hyades
+msgid "Al-Mijdah"
+msgstr ""
+
+msgid "The follower"
+msgstr ""
+
+msgid "The special camel"
+msgstr ""
+
+msgid "The star on the head of the advance twin"
+msgstr ""
+
+msgid "The reddish star on the head of the rear twin"
+msgstr ""
+
+msgid "The star in the left forearm of the advance twin"
+msgstr ""
+
+msgid "The star in the same [left] upper arm"
+msgstr ""
+
+msgid "The one to the rear of that, between the shoulders"
+msgstr ""
+
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr ""
+
+msgid "The star on the rear shoulder of the rear twin"
+msgstr ""
+
+msgid "The star on the right side of the advance twin"
+msgstr ""
+
+msgid "The star on the left side of the rear twin"
+msgstr ""
+
+msgid "The star on the left knee of the advance twin"
+msgstr ""
+
+msgid "The star in the left side of the rear twin"
+msgstr ""
+
+msgid "The star over the left knee of the rear twin"
+msgstr ""
+
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr ""
+
+msgid "The star in front of the left foot of the advance twin"
+msgstr ""
+
+msgid "The one to the rear of this on the same foot"
+msgstr ""
+
+msgid "The star on the right foot of the advance twin"
+msgstr ""
+
+msgid "The star on the left foot of the rear twin"
+msgstr ""
+
+msgid "The star on the right foot of the rear twin"
+msgstr ""
+
+msgid "The star in advance of the one in front of the foot of the advance twin"
+msgstr ""
+
+msgid "The bright star in advance of the advance knee"
+msgstr ""
+
+msgid "The star in advance of the left knee of the rear twin"
+msgstr ""
+
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr ""
+
+msgid "The bright star to the rear of the above-mentioned three"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars in advance of the quadrilateral containing "
+"the nebula"
+msgstr ""
+
+msgid "The southernmost of the two stars in advance"
+msgstr ""
+
+msgid ""
+"The northernmost of the rear two stars on the quadrilateral, which are "
+"called 'Aselli'"
+msgstr ""
+
+msgid "The star on the southern claw"
+msgstr ""
+
+msgid "The star on the northern claw"
+msgstr ""
+
+msgid "The star on the northern back leg"
+msgstr ""
+
+msgid "The star on the southern back leg"
+msgstr ""
+
+msgid "The star over the joint in the southern claw"
+msgstr ""
+
+msgid "The star to the rear of the tip of the southern claw"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr ""
+
+msgid "The rearmost of these [two]"
+msgstr ""
+
+msgid "The star on the tip of the nostrils"
+msgstr ""
+
+msgid "The star in the gaping jaws"
+msgstr ""
+
+msgid "The northernmost of the two stars in the head"
+msgstr ""
+
+msgid "The northernmost of the three stars in the neck"
+msgstr ""
+
+msgid "The one close to this, the middle one of the three"
+msgstr ""
+
+msgid "The star on the heart, called 'Regulus' and it is the lion heart"
+msgstr ""
+
+msgid "The one south of this, about on the chest"
+msgstr ""
+
+msgid "The star a little in advance of the star on the heart"
+msgstr ""
+
+msgid "The star on the right front claw-clutch"
+msgstr ""
+
+msgid "The star on the left front claw-clutch"
+msgstr ""
+
+msgid "The star on the left [front] knee"
+msgstr ""
+
+msgid "The star on the left armpit"
+msgstr ""
+
+msgid "The most advanced of the three stars in the belly"
+msgstr ""
+
+msgid "The northernmost of the other, rearmost two"
+msgstr ""
+
+msgid "The southernmost of these [two]"
+msgstr ""
+
+msgid "The more advanced of the two stars on the rump"
+msgstr ""
+
+msgid "The northernmost of the two stars in the buttocks"
+msgstr ""
+
+msgid "The star in the hind thighs"
+msgstr ""
+
+msgid "The star in the hind leg-bends"
+msgstr ""
+
+msgid "The one south of this, about in the lower legs"
+msgstr ""
+
+msgid "The star on the hind claw-clutches"
+msgstr ""
+
+msgid "The star on the end of the tail"
+msgstr ""
+
+msgid "The more advanced of the two over the back"
+msgstr ""
+
+msgid "The northernmost of the three under the flank"
+msgstr ""
+
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr ""
+
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr ""
+
+msgid "Star of weather change"
+msgstr ""
+
+msgid "The southernmost of the two stars in the top of the skull"
+msgstr ""
+
+msgid "The northernmost of the two stars to the rear of these, in the face"
+msgstr ""
+
+msgid "The star on the tip of the southern, left wing"
+msgstr ""
+
+msgid "The most advanced of the four stars in the left wing"
+msgstr ""
+
+msgid "The one to the rear again of this"
+msgstr ""
+
+msgid "The star in the right side under the girdle"
+msgstr ""
+
+msgid "The most advanced of the three stars in the right, northern wing"
+msgstr ""
+
+msgid "The southernmost of the other two"
+msgstr ""
+
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr ""
+
+#. TRANSLATORS: The armless high one is the Arabic name for Spica
+msgid ""
+"The star on the left hand, called 'Spica', and it is The armless high one"
+msgstr ""
+
+msgid "The star under the apron just about over the right buttock"
+msgstr ""
+
+msgid ""
+"The northern star on the advance side of the quadrilateral in the left thigh"
+msgstr ""
+
+msgid "The southern star on the advance side"
+msgstr ""
+
+msgid "The northernmost of the two stars on the rear side"
+msgstr ""
+
+msgid "The star in the back of the right thigh"
+msgstr ""
+
+msgid "The middle star of the three in the garment-hem round the feet"
+msgstr ""
+
+msgid "The star on the left, southern foot"
+msgstr ""
+
+msgid "The star on the right, northern foot"
+msgstr ""
+
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars almost on a straight line under Spica"
+msgstr ""
+
+msgid "The middle one of these, which is a double star"
+msgstr ""
+
+msgid "The brighter one of the two stars on the tip of the southern claw"
+msgstr ""
+
+msgid "The northern one and fainter of the two"
+msgstr ""
+
+msgid "The brighter one of the two stars on the tip of the northern claw"
+msgstr ""
+
+msgid "The advanced one and fainter of the two"
+msgstr ""
+
+msgid "The star in the middle of the southern claw"
+msgstr ""
+
+msgid "The one in advance of this on the same claw"
+msgstr ""
+
+msgid "The star in the middle of the northern claw"
+msgstr ""
+
+msgid "The one to the rear of this on the same claw"
+msgstr ""
+
+msgid "The most advanced of the three stars north of the northern claw"
+msgstr ""
+
+msgid "The southernmost of the rearmost two [of these]"
+msgstr ""
+
+msgid "The rearmost of the three stars between the claws"
+msgstr ""
+
+msgid "The northernmost of the other two in advance [of the latter]"
+msgstr ""
+
+msgid "The most advanced of the three stars south of the southern claw"
+msgstr ""
+
+msgid "The northernmost of the other, rear two"
+msgstr ""
+
+msgid "The northernmost of the three bright stars in the forehead"
+msgstr ""
+
+msgid "The star south again of this, on one of the legs"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars adjacent to the northernmost of the three "
+"bright ones"
+msgstr ""
+
+msgid "The most advanced of the three bright stars in the body"
+msgstr ""
+
+msgid ""
+"The middle one of these, which is reddish and called 'Heart of the scorpion'"
+msgstr ""
+
+msgid "The advance star of the two under these, approximately on the last legs"
+msgstr ""
+
+msgid "The rearmost of these"
+msgstr ""
+
+msgid "The star in the first tail-joint from the body"
+msgstr ""
+
+msgid "The one after this, in the second joint"
+msgstr ""
+
+msgid "The northern star of the double-star in the third joint"
+msgstr ""
+
+msgid "The southern star of the double-star"
+msgstr ""
+
+msgid "The one following, in the forth joint"
+msgstr ""
+
+msgid "The one after that, in the fifth joint"
+msgstr ""
+
+msgid "The next one again, in the sixth joint"
+msgstr ""
+
+msgid "The star in the seventh joint, the joint next to the sting"
+msgstr ""
+
+msgid "The rearmost of the two stars in the sting"
+msgstr ""
+
+msgid "The nebulous star to the rear of the sting"
+msgstr ""
+
+msgid "The most advanced of the two stars to the north of the sting"
+msgstr ""
+
+msgid "The star on the point of the arrow"
+msgstr ""
+
+msgid "The star in the bow-grip held by the left hand"
+msgstr ""
+
+msgid "The star in the southern portion of the bow"
+msgstr ""
+
+msgid "The southernmost of the two stars in the northern portion of the bow"
+msgstr ""
+
+msgid "The northernmost of these, on the tip of the bow"
+msgstr ""
+
+msgid "The one in advance of this, on the arrow"
+msgstr ""
+
+msgid "The star on the eye, which is nebulous and double"
+msgstr ""
+
+msgid "The most advanced of the three stars in the head"
+msgstr ""
+
+msgid "The southernmost of the three stars in the northern cloak-attachment"
+msgstr ""
+
+msgid "The faint star to the rear of these three"
+msgstr ""
+
+msgid "The northernmost of the two stars on the southern cloak-attachment"
+msgstr ""
+
+msgid "The one between the shoulders of the three stars in the back"
+msgstr ""
+
+msgid "The middle one, on the shoulder-blade"
+msgstr ""
+
+msgid "The other one, under the armpit"
+msgstr ""
+
+msgid "The star on the front left hock"
+msgstr ""
+
+msgid "The one on the knee of the same leg"
+msgstr ""
+
+msgid "The star on the front right hock"
+msgstr ""
+
+msgid "The star on the left thigh"
+msgstr ""
+
+msgid "The star on the right hind lower leg"
+msgstr ""
+
+msgid ""
+"The advance star on the northern side of the four stars [forming a "
+"quadrilateral] in the place where the tail joins [the body]"
+msgstr ""
+
+msgid "The rear star on the northern side"
+msgstr ""
+
+msgid "The advance star on the southern side"
+msgstr ""
+
+msgid "The rear star on the southern side"
+msgstr ""
+
+msgid "The northernmost of the three stars in the rear horn"
+msgstr ""
+
+msgid "The star on the tip of the advance horn"
+msgstr ""
+
+msgid "The southernmost of the three stars in the muzzle"
+msgstr ""
+
+msgid "The more advanced of the other two"
+msgstr ""
+
+msgid "The star in advance of the three, under the right eye"
+msgstr ""
+
+msgid "The northernmost of the two stars in the neck"
+msgstr ""
+
+msgid "The star under the right knee"
+msgstr ""
+
+msgid "The star on the left, doubled-up knee"
+msgstr ""
+
+msgid "The more advanced of the two stars close together under the belly"
+msgstr ""
+
+msgid "The rearmost of the three stars in the middle of the body"
+msgstr ""
+
+msgid "The fainter of the other, advance two"
+msgstr ""
+
+msgid "The more advanced of the two stars in the back"
+msgstr ""
+
+msgid "The more advanced of the two stars in the southern spine"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars in the section [of the body] next to the "
+"tail"
+msgstr ""
+
+msgid "The most advanced of the four stars on the northern portion of the tail"
+msgstr ""
+
+msgid "The southernmost of the other three"
+msgstr ""
+
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr ""
+
+msgid "The sheep of the lucky star of the slaughterer"
+msgstr "Ovce šťastné hvězdy řezníka"
+
+msgid "The star on the head of Aquarius"
+msgstr ""
+
+msgid "The brighter of the two stars in the right shoulder"
+msgstr ""
+
+msgid "The fainter one, under it"
+msgstr ""
+
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr ""
+
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr ""
+
+msgid "The star in the right forearm"
+msgstr ""
+
+msgid "The northernmost of the three stars on the right hand"
+msgstr ""
+
+msgid "The more advanced of the other two to the south"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars close together in the hollow of the right "
+"hip"
+msgstr ""
+
+msgid "The star on the right buttock"
+msgstr ""
+
+msgid "The southernmost of the two stars in the left buttock"
+msgstr ""
+
+msgid "The southernmost of the two stars in the right lower leg"
+msgstr ""
+
+msgid "The northernmost of them, under the knee-bend"
+msgstr ""
+
+msgid "The star in the back of the left thigh"
+msgstr ""
+
+msgid "The southernmost of the two stars in the left lower leg"
+msgstr ""
+
+msgid "The northernmost of these, under the knee"
+msgstr ""
+
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr ""
+
+msgid "The one next to the latter towards the south"
+msgstr ""
+
+msgid "The one next to this, after [the beginning of] the water bend"
+msgstr ""
+
+msgid "The one in the bend to the south of this"
+msgstr ""
+
+msgid "The northernmost of the two stars to the south of this"
+msgstr ""
+
+msgid "The southernmost of the two"
+msgstr ""
+
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr ""
+
+msgid "The more advanced of the two stars close together after the latter"
+msgstr ""
+
+msgid "The northernmost of the three stars in the next bend group"
+msgstr ""
+
+msgid "The northernmost of the next three [arranged] likewise"
+msgstr ""
+
+msgid "The most advanced of the three stars in the remaining bend group"
+msgstr ""
+
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars to the rear of the bend in the water"
+msgstr ""
+
+msgid "The first frog"
+msgstr ""
+
+msgid "The male ostrich"
+msgstr ""
+
+msgid "The star in the mouth of the advance fish"
+msgstr ""
+
+msgid "The southernmost of the two stars in the top of its head"
+msgstr ""
+
+msgid "The more advanced of the two stars in the belly"
+msgstr ""
+
+msgid "The star in the tail of the same [advance] fish"
+msgstr ""
+
+msgid "The first after the tail of the stars forming its fishing-line"
+msgstr ""
+
+msgid "The most advanced of the three following stars"
+msgstr ""
+
+msgid "The northernmost of the two small stars under these, in the bend"
+msgstr ""
+
+msgid "The most advanced of the three stars after the bend"
+msgstr ""
+
+msgid "The star on the knot joining the two fishing-lines"
+msgstr ""
+
+msgid ""
+"The first in the section beginning at the knot of the stars in the northern "
+"fishing-line"
+msgstr ""
+
+msgid "The southernmost of the three stars following after that"
+msgstr ""
+
+msgid "The northernmost of the three, which is also on the end of the tail"
+msgstr ""
+
+msgid "The northernmost of the two stars in the mouth of the rear fish"
+msgstr ""
+
+msgid "The rearmost of the three small stars in the head"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars on the spine in the back, following [i."
+"e. to the rear of] the star on the elbow of Andromeda"
+msgstr ""
+
+msgid "The northernmost of the two stars in the belly"
+msgstr ""
+
+msgid "The star in the rear spine, near the tail"
+msgstr ""
+
+msgid ""
+"The more advanced of the two northern stars of the quadrilateral under the "
+"advance fish"
+msgstr ""
+
+msgid "The more advanced star on the southern side"
+msgstr ""
+
+msgid "The rearmost one on the southern side"
+msgstr ""
+
+msgid "The rearmost, on the end of the jaw of the three stars in the snout"
+msgstr ""
+
+msgid "The middle one, in the middle of the mouth"
+msgstr ""
+
+msgid "The most advanced of the three, on the cheek"
+msgstr ""
+
+msgid "The star on the eyebrow and the eye"
+msgstr ""
+
+msgid "The one to the north of this, about on the hair"
+msgstr ""
+
+msgid "The one in advance of these, about on the mane"
+msgstr ""
+
+msgid ""
+"The northernmost star on the advance side of the quadrilateral in the chest"
+msgstr ""
+
+msgid "The southernmost one on the advance side"
+msgstr ""
+
+msgid "The southernmost one on the rear side"
+msgstr ""
+
+msgid "The midmost of the three stars in the body"
+msgstr ""
+
+msgid "The rearmost of the two stars by the section next to the tail"
+msgstr ""
+
+msgid ""
+"The northernmost star on the rear side of the quadrilateral in the section "
+"next to the tail"
+msgstr ""
+
+msgid ""
+"The one on the northern tail-fin of the two stars at the ends of the tail-"
+"fins"
+msgstr ""
+
+msgid "The one on the end of the southern tail-fin"
+msgstr ""
+
+msgid "The second frog"
+msgstr "Druhá žába"
+
+msgid "The nebulous star in the head of Orion, the three close stars"
+msgstr ""
+
+msgid "The bright, reddish star on the right shoulder"
+msgstr ""
+
+msgid "The one under this to the rear"
+msgstr ""
+
+msgid ""
+"The rear, double star on the southern side of the quadrilateral in the right "
+"hand"
+msgstr ""
+
+msgid "The rear one on the northern side"
+msgstr ""
+
+msgid "The advance one on the northern side"
+msgstr ""
+
+msgid "The more advanced of the two stars in the staff"
+msgstr ""
+
+msgid ""
+"The rearmost of the four stars almost on a straight line just over the back"
+msgstr ""
+
+msgid "The one in advance again of this"
+msgstr ""
+
+msgid "The last and most advanced of the four"
+msgstr ""
+
+msgid "The northernmost of the nine stars in the pelt on the left arm"
+msgstr ""
+
+msgid "The second from the northernmost"
+msgstr ""
+
+msgid "The third from the northernmost"
+msgstr ""
+
+msgid "The fourth from the northernmost"
+msgstr ""
+
+msgid "The fifth from the northernmost"
+msgstr ""
+
+msgid "The sixth from the northernmost"
+msgstr ""
+
+msgid "The seventh from the northernmost"
+msgstr ""
+
+msgid "The eighth from the northernmost"
+msgstr ""
+
+msgid "The last and southernmost of those in the pelt"
+msgstr ""
+
+msgid "The most advanced of the three stars on the belt"
+msgstr ""
+
+msgid "The star near the handle of the dagger"
+msgstr ""
+
+msgid ""
+"The northernmost of the three stars joined together at the tip of the dagger"
+msgstr ""
+
+msgid "The rearmost of the two stars under the tip of the dagger"
+msgstr ""
+
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr ""
+
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr ""
+
+msgid "The star under the left heel, outside"
+msgstr ""
+
+msgid "The star under the right, rear knee"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shoulder of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Hand of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shepherd of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr ""
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+#. TRANSLATORS: Al-Mirzam is a proper name
+msgid "Al-Mirzam"
+msgstr "Al-Mirzam"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Leg of Al-Jawza"
+msgstr ""
+
+msgid ""
+"The star after the one in the foot of Orion, at the beginning of the river"
+msgstr ""
+
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr ""
+
+msgid "The rearmost of the two stars next in order after this"
+msgstr ""
+
+msgid "The rearmost of the next two in order again"
+msgstr ""
+
+msgid "The rearmost of the three stars after this"
+msgstr ""
+
+msgid "The rearmost of the four stars in the next interval"
+msgstr ""
+
+msgid "The most advanced of the four"
+msgstr ""
+
+msgid "The rearmost of the four stars in the next likewise interval again"
+msgstr ""
+
+msgid ""
+"The first star in the bend of the river, which touches the chest of Cetus"
+msgstr ""
+
+msgid "The most advanced of the next consecutive three"
+msgstr ""
+
+msgid ""
+"The northern one on the advance side of the next four stars, nearly forming "
+"a trapezium"
+msgstr ""
+
+msgid "The southernmost on the advance side"
+msgstr ""
+
+msgid "The more advanced one on the rear side"
+msgstr ""
+
+msgid "The last of the four, the rear one on that side"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars close together at some distance to the east"
+msgstr ""
+
+msgid "The rearmost of the next two stars after the bend"
+msgstr ""
+
+msgid "The rearmost of the three stars in the next interval"
+msgstr ""
+
+msgid "The last star of the river, the bright one, called 'The male ostrich'"
+msgstr ""
+
+msgid ""
+"The northern star on the advance side of the quadrilateral just over the ears"
+msgstr ""
+
+msgid "The northern star on the rear side"
+msgstr ""
+
+msgid "The southern star on the rear side"
+msgstr ""
+
+msgid "The star in the chin"
+msgstr ""
+
+msgid "The star on the left front foot"
+msgstr ""
+
+msgid "The star in the middle of the body"
+msgstr ""
+
+msgid "The star under the belly"
+msgstr ""
+
+msgid "The northernmost of the two stars in the hind legs"
+msgstr ""
+
+msgid "CMa_1"
+msgstr "CMa_1"
+
+msgid "CMa_2"
+msgstr "CMa_2"
+
+msgid "CMa_3"
+msgstr "CMa_3"
+
+msgid "CMa_4"
+msgstr "CMa_4"
+
+msgid "CMa_5"
+msgstr "CMa_5"
+
+msgid "CMa_6"
+msgstr "CMa_6"
+
+msgid "CMa_7"
+msgstr "CMa_7"
+
+msgid "CMa_8"
+msgstr "CMa_8"
+
+msgid "CMa_9"
+msgstr "CMa_9"
+
+msgid "CMa_10"
+msgstr "CMa_10"
+
+msgid "CMa_11"
+msgstr "CMa_11"
+
+msgid "CMa_12"
+msgstr "CMa_12"
+
+msgid "CMa_13"
+msgstr "CMa_13"
+
+msgid "CMa_14"
+msgstr "CMa_14"
+
+msgid "CMa_15"
+msgstr "CMa_15"
+
+msgid "CMa_16"
+msgstr "CMa_16"
+
+msgid "CMa_17"
+msgstr "CMa_17"
+
+msgid "CMa_18"
+msgstr "CMa_18"
+
+msgid "CMa_a_01"
+msgstr "CMa_a_01"
+
+msgid "CMa_a_02"
+msgstr "CMa_a_02"
+
+msgid "CMa_a_03"
+msgstr "CMa_a_03"
+
+msgid "CMa_a_04"
+msgstr "CMa_a_04"
+
+msgid "CMa_a_05"
+msgstr "CMa_a_05"
+
+msgid "CMa_a_06"
+msgstr "CMa_a_06"
+
+msgid "CMa_a_07"
+msgstr "CMa_a_07"
+
+msgid "CMa_a_08"
+msgstr "CMa_a_08"
+
+msgid "CMa_a_09"
+msgstr "CMa_a_09"
+
+msgid "CMa_a_10"
+msgstr "CMa_a_10"
+
+msgid "CMa_a_11"
+msgstr "CMa_a_11"
+
+#. TRANSLATORS: Shi'raa is the Arabic proper name of Sirius
+msgid ""
+"The star in the mouth, with utmost brightness, which is called 'the Dog' and "
+"'Southern or crossing Shi'raa'"
+msgstr ""
+
+msgid "The star on the ears"
+msgstr ""
+
+msgid "The star on the chest"
+msgstr ""
+
+msgid "The northernmost of the two stars on the right knee"
+msgstr ""
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+msgid "The star on the end of the front leg, called 'Al-Mirzam'"
+msgstr ""
+
+msgid "The more advanced of the two stars in the left knee"
+msgstr ""
+
+msgid "The rearmost of the two stars in the left shoulder"
+msgstr ""
+
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr ""
+
+msgid "The star below the belly, in the place between the thighs"
+msgstr ""
+
+msgid "The star on the joint of the right leg"
+msgstr ""
+
+msgid "The star on the end of the right leg"
+msgstr ""
+
+msgid "The star on the tail"
+msgstr ""
+
+msgid "The star to the north of the top of the dog skull"
+msgstr ""
+
+msgid ""
+"The southernmost of the four stars almost on a straight line under the hind "
+"legs"
+msgstr ""
+
+msgid "The one north of this"
+msgstr ""
+
+msgid "The last and northernmost of the four"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars almost on a straight line to the west "
+"of the [above] four"
+msgstr ""
+
+msgid "The rearmost of the two bright stars under these"
+msgstr ""
+
+msgid "The last star, to the south of the above"
+msgstr ""
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa that crossed [the milky way]"
+msgstr ""
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa"
+msgstr ""
+
+msgid "The dog"
+msgstr ""
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder.
+msgid "The star in the neck, called Al-Mirzam"
+msgstr ""
+
+#. TRANSLATORS: The northern Shi'raa or tearfull Shi'raa is a proper arabic
+#. name for Procyon.
+msgid ""
+"The bright star just over the hindquarters, called 'The northern or tearfull "
+"Shi'raa'"
+msgstr ""
+
+msgid "The more advanced of the two stars at the end of the ship"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars close together over the little shield in "
+"the poop"
+msgstr ""
+
+msgid "The star in advance of these"
+msgstr ""
+
+msgid "The bright star in the middle of the little shield"
+msgstr ""
+
+msgid "The most advanced of the three stars under the little shield"
+msgstr ""
+
+msgid "The star on the stern neck"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars in the sternpost on which are the two "
+"stern cabins"
+msgstr ""
+
+msgid "The northernmost of the stars in the poop-deck"
+msgstr ""
+
+msgid "The most advanced of the next three"
+msgstr ""
+
+msgid "The bright star on the deck to the rear of these"
+msgstr ""
+
+msgid "The more advanced of the two faint stars under the bright one"
+msgstr ""
+
+msgid "The more advanced of the two stars over the above-mentioned bright one"
+msgstr ""
+
+msgid ""
+"The northernmost of the three stars on the little shields, about on the mast-"
+"holder"
+msgstr ""
+
+msgid "The northernmost of the two stars close together under these"
+msgstr ""
+
+msgid "The southernmost of the two stars in the middle of the mast"
+msgstr ""
+
+msgid "The more advanced of the two stars by the tip of the mast"
+msgstr ""
+
+msgid "The star below the three rear little shield"
+msgstr ""
+
+msgid "The star on the cut-off of the deck"
+msgstr ""
+
+msgid "The star between the steering-oars in the keel"
+msgstr ""
+
+msgid "The faint star to the rear of this"
+msgstr ""
+
+msgid "The bright star to the rear of this, under the deck"
+msgstr ""
+
+msgid "The bright star to the south of this, on the sternpost"
+msgstr ""
+
+msgid "The most advanced of the three stars to the rear of this"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars to the rear of these, near the cut-off of "
+"the deck"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars in the northern, advance steering-oar"
+msgstr ""
+
+#. TRANSLATORS: Suhayl is the Arabic proper name of Canopus
+msgid ""
+"The more advanced of the two stars in the other steering-oar, called "
+"Canopus, and it is Suhayl"
+msgstr ""
+
+msgid "The other, rearmost star"
+msgstr ""
+
+msgid ""
+"The southernmost of the two advance ones, which is on the nostrils of the "
+"five stars in the head"
+msgstr ""
+
+msgid "The northernmost of these two, which is above the eye"
+msgstr ""
+
+msgid ""
+"The northernmost of the two to the rear of these, which is about on the skull"
+msgstr ""
+
+msgid "The southernmost of them, on the gaping jaws"
+msgstr ""
+
+msgid "The rearmost of all, about on the chin"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars in the place where the neck joins [the "
+"head]"
+msgstr ""
+
+msgid "The middle star of the following three in the bend of the neck"
+msgstr ""
+
+msgid "The faint, northernmost star of the two close together to the south"
+msgstr ""
+
+#. TRANSLATORS: Al-Fard is a proper name meaning the lone star
+msgid "The bright one of these two close stars, called Al-Fard"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars to the rear, after the bend [in the "
+"neck]"
+msgstr ""
+
+msgid "The most advanced of the next three stars almost on a straight line"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars after these, as it were in a triangle"
+msgstr ""
+
+msgid "The middle and southernmost one"
+msgstr ""
+
+msgid "The star after Corvus, in the section by the tail"
+msgstr ""
+
+msgid "The star to the south of the head"
+msgstr ""
+
+msgid "The star some distance to the rear of those in the neck"
+msgstr ""
+
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr ""
+
+msgid "The southernmost of the two stars in the middle of the bowl"
+msgstr ""
+
+msgid "The star on the southern rim of the mouth"
+msgstr ""
+
+msgid "The star on the northern rim"
+msgstr ""
+
+msgid "The star on the southern handle"
+msgstr ""
+
+msgid "The star on the northern handle"
+msgstr ""
+
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr ""
+
+msgid "The star in the neck, by the head"
+msgstr ""
+
+msgid "The star in the advance, right wing"
+msgstr ""
+
+msgid "The more advanced of the two stars in the rear wing"
+msgstr ""
+
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr ""
+
+msgid "The southernmost of the four stars in the head"
+msgstr ""
+
+msgid "The more advanced of the other, middle two"
+msgstr ""
+
+msgid "The rearmost of these, the last of the four"
+msgstr ""
+
+msgid "The star on the left, advance shoulder"
+msgstr ""
+
+msgid "The star on the left shoulder-blade"
+msgstr ""
+
+msgid "The northernmost of the advance two of the four stars in the thyrsus"
+msgstr ""
+
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr ""
+
+msgid "The last one, south of the latter"
+msgstr ""
+
+msgid "The most advanced of the three stars in the right side"
+msgstr ""
+
+msgid "The star in the right hand"
+msgstr ""
+
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr ""
+
+msgid "The rearmost of the two faint stars to the north of this"
+msgstr ""
+
+msgid "The star in advance of this, on the horse's back"
+msgstr ""
+
+msgid "The rearmost of the stars on the rump"
+msgstr ""
+
+msgid "The more advanced of the two stars close together on the right thigh"
+msgstr ""
+
+msgid "The star in the chest, under the horse's armpit"
+msgstr ""
+
+msgid "The more advanced of the two stars under the belly"
+msgstr ""
+
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr ""
+
+msgid "The star in the hock of the same leg"
+msgstr ""
+
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr ""
+
+msgid "The star on the frog of the hoof on the same leg"
+msgstr ""
+
+msgid "The star on the end of the right front leg"
+msgstr ""
+
+msgid "The star on the knee of the left [front] leg"
+msgstr ""
+
+msgid "The star outside, under the right hind leg"
+msgstr ""
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr "Al-Wazn"
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr "Hadari"
+
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr ""
+
+msgid "The star on the bend in the same leg"
+msgstr ""
+
+msgid "The more advanced of the two stars just over the shoulder-blade"
+msgstr ""
+
+msgid "The star in the middle of the body of Lupus"
+msgstr ""
+
+msgid "The star in the belly, under the flank"
+msgstr ""
+
+msgid "The star on the thigh"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+
+msgid "The star on the end of the rump"
+msgstr ""
+
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr ""
+
+msgid "The southernmost of the two stars in the neck"
+msgstr ""
+
+msgid "The more advanced of the two stars in the snout"
+msgstr ""
+
+msgid "The southernmost of the two stars in the front leg, on the hand"
+msgstr ""
+
+msgid "The northernmost of the two stars in the base"
+msgstr ""
+
+msgid "The star in the middle of the little altar"
+msgstr ""
+
+msgid "The northernmost of the three stars in the brazier"
+msgstr ""
+
+msgid "The southernmost of the other two which are close together"
+msgstr ""
+
+msgid "The northernmost of these two"
+msgstr ""
+
+msgid "The star on the end of the burning-apparatus"
+msgstr ""
+
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr ""
+
+msgid "The star to the rear of this on the crown"
+msgstr ""
+
+msgid "The one after this, before the knee of Sagittarius"
+msgstr ""
+
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius]"
+msgstr ""
+
+msgid "The star to the north of this"
+msgstr ""
+
+msgid "The one to the north again of this"
+msgstr ""
+
+msgid ""
+"The rearmost of the two stars after this, in advance, in the northern rim"
+msgstr ""
+
+msgid "The more advanced of these two faint stars"
+msgstr ""
+
+msgid "The star quite some distance in advance of this"
+msgstr ""
+
+msgid "The last one, which is south of the aforementioned star"
+msgstr ""
+
+msgid "The most advanced of the three stars on the southern rim of the head"
+msgstr ""
+
+msgid "The star by the gills"
+msgstr ""
+
+msgid "The star on the southernmost spine on the back"
+msgstr ""
+
+msgid "The rearmost of the two stars in the belly"
+msgstr ""
+
+msgid "The rearmost of the three stars on the northern spine"
+msgstr ""
+
+msgid "Tassel of the lion"
+msgstr ""
+
+msgid "The nebulous mass on the right hand"
+msgstr ""
+
+msgid "wrist of Al-Thurayya"
+msgstr ""
+
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr ""
+
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr ""
+
+msgid "Nose tip of the lion"
+msgstr ""

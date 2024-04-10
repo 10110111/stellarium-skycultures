@@ -1,0 +1,3322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alex Rijckaert, 2023\n"
+"Language-Team: Dutch (https://app.transifex.com/stellarium/teams/80998/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "Arabic (Al-Sufi)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Book of Fixed Stars was written shortly before 964 AD. Dr. Paul "
+"Kunitzsch described it as \"the most outstanding among the works of the "
+"prominent astronomer Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (born in "
+"Rayy, 903; died 986), referred to as al-Sufi. In it, al-Şūfī treats the 48 "
+"classical constellations, which were established and transmitted in "
+"Ptolemy's Almagest. The description of each constellation comprises the "
+"following four sections: first, a general discussion of the constellation "
+"and its individual stars; this section also includes alŞūfi's criticism of "
+"the Ptolemaic tradition and notices of his own observations. Second, a "
+"record of the indigenous Arabic star names falling under that constellation, "
+"and the exact identification of the respective stars with the corresponding "
+"Ptolemaic stars. Third, two drawings of the constellation, one as it is seen "
+"on a celestial globe, and the other one as it is seen in the sky. Fourth, a "
+"table of the stars making up that constellation, giving a verbal description "
+"of each star's location and its longitude, latitude, and magnitude. This "
+"table closely follows the arrangement of Ptolemy's star catalogue in the "
+"Almagest.\" [#1]. In addition to the four sections of each constellation "
+"mentioned by dr. Kunitzsch, Al-Sufi would identify stars within the 6 "
+"magnitudes that were neglected by Ptolemy, but he did not catalogue them and "
+"was faithful to Ptolemy star catalog."
+msgstr ""
+"Het Book of Fixed Stars is kort voor 964 na Chr. geschreven. Dr. Paul\n"
+"Kunitzsch beschrijft het als \"het meest opmerkelijke werk van de "
+"prominente\n"
+"astronoom Abu 'l-Ḥusayn 'Abd al-Raḥmān ibn 'Umar al-Şūfi (geboren in Rayy,\n"
+"903; overleden 986), waarnaar wordt gerefereerd als al-Sufi. Daarin\n"
+"behandelt al-Şūfī de 48 klassieke sterrenbeelden, die waren vastgesteld en\n"
+"opgenomen in de Almagest van Ptolemaeus. De beschrijving van elk\n"
+"sterrenbeeld omvat de volgende vier secties: ten eerste een algemene\n"
+"bespreking van het sterrenbeeld en zijn individuele sterren; deze sectie\n"
+"bevat ook alŞūfi's kritiek op de Ptolemeïsche traditie en mededelingen over\n"
+"zijn eigen waarnemingen. Ten tweede een verslag van de inheemse Arabische\n"
+"sternamen die onder dat sterrenbeeld vallen, en de exacte identificatie van\n"
+"de respectievelijke sterren met de overeenkomstige Ptolemeïsche sterren. "
+"Ten\n"
+"derde, twee tekeningen van het sterrenbeeld , de ene zoals die te zien is "
+"op\n"
+"een hemelglobe, en de andere zoals die aan de hemel te zien is. Ten vierde,\n"
+"een tabel met de sterren waaruit dat sterrenbeeld bestaat, met een verbale\n"
+"beschrijving van de locatie van elke ster, de lengte en breedte graad en de\n"
+"magnitude. Deze tabel volgt nauwkeurig de opstelling van de "
+"sterrencatalogus\n"
+"van Ptolemaeus in de Almagest. \"[#1]. Naast de vier secties van elk\n"
+"sterrenbeeld, genoemd door dr. Kunitzsch, identificeerde Al-Soefi sterren\n"
+"binnen de 6 magnitudes die werden verwaarloosd door Ptolemaeus, maar hij\n"
+"catalogiseerde ze niet en was trouw aan de sterrencatalogus van Ptolemaeus."
+
+# Sky culture description section in markdown format
+msgid ""
+"An important aspect of the general discussion section is Al-Sufi method of "
+"facilitating the star identification. He describes each individual star in "
+"more than way: By the star position related to the constellation figure, by "
+"its magnitude, by the asterism it forms with other stars like triangle or "
+"arc shapes, sometimes by the star position related to the Milky way, and by "
+"the angular distance from a close by star. I have counted more than 700 "
+"angular distances measured by al-Sufi in his book. The units he uses for "
+"angular distances are cubits, spear length, man-height, span, and finger. Al-"
+"Sufi explicitly said in his book that a cubit is equal to two degrees and 20 "
+"minutes [#2]. For the other units, Schjellerup concluded some values, but "
+"tracking the 700 measurements, I came up with different values. The "
+"following table summarizes the units and relationship to the cubit value "
+"from Schjellerup[#3] and from my research.\n"
+"\n"
+"### Angular distance units used by Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td><notr>&nbsp;</notr></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>unit</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"\t<td><b>cubits</b></td>\n"
+"\t<td><b>Angular Value</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spear</td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"\t<td>6 cubits</td>\n"
+"\t<td><notr>14°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Man-Height</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 cubits</td>\n"
+"\t<td><notr>7°</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>cubit</td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"\t<td>1 cubit</td>\n"
+"\t<td><notr>2°20'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>span</td>\n"
+"\t<td>1/3 of a cubit</td>\n"
+"\t<td><notr>47'</notr></td>\n"
+"\t<td>1/2 of a cubit</td>\n"
+"\t<td><notr>1°10'</notr></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>finger</td>\n"
+"\t<td>1/32 of a cubit</td>\n"
+"\t<td><notr>4.4'</notr></td>\n"
+"\t<td>1/16 of a cubit</td>\n"
+"\t<td><notr>8.75'</notr></td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Another important aspect of Al-Sufi book is his record of the indigenous "
+"Arabic star names falling under each constellation, and the exact "
+"identification of the respective stars with the corresponding Ptolemaic "
+"stars. This means that we are looking at two layers of stars knowledge at "
+"the same time: the Ptolemaic one and the indigenous Arab one.\n"
+"\n"
+"### The Sky Culture\n"
+"\n"
+"This sky culture is a result of a research done on several manuscripts of "
+"the book, oldest of which is the [#8].\n"
+"\n"
+"First, the manuscripts of the Book of Fixed Stars were critically edited, "
+"and the text was produced. Second, each member star of the 48 constellations "
+"was identified according to Al-Sufi description, and new tables were built "
+"including modern star designations from the Hipparcos, Bright stars, and "
+"Bayer catalogues. Third, Arab indigenous star names were collected and "
+"identified as mapped by Al-Sufi to the Ptolemaic ones. All the previous "
+"steps were included in a book published digitally of the Book of Fixed Stars "
+"plus explanations and commentary by Khalid Al-Ajaji[#4].\n"
+"\n"
+"The sky culture stick figures of the constellations are the images in the "
+"Ulugh Beg manuscript of the Book of Fixed Stars, extracted, and adapted for "
+"Stellarium by Mr. Kutaibaa Akraa [#5]. The star names file includes the star "
+"number in the constellation as the primary star name and the description of "
+"the star in the tables as a secondary name. For example, Polaris primary "
+"name that is displayed with the star is: UMi1, UMi being Ursa Minor and 1 is "
+"the first star of this constellation. If the star is selected other "
+"secondary names are displayed, which will display \"The star on the end of "
+"the tail\" on the top of the screen. The constellation lines are constructed "
+"according to the constellation shapes with an attempt to include most of the "
+"member stars. For indigenous Arab star knowledge, individual star names were "
+"added to the star file as secondary names, while names of group of stars "
+"were defined through asterism names and asterism lines files.\n"
+"\n"
+"The translation of star descriptions from Arabic into English was extracted "
+"from Ernie Wright website[#6] which was transcribed from Toomer's "
+"translation of the Almagest[#7]. The translation was modified in a few "
+"places to agree with Al-Sufi wording.\n"
+"\n"
+"The single source of the sky culture is the Book of Fixed Stars and the "
+"objective is to give a faithful representation of the book content."
+msgstr ""
+"Een belangrijk aspect in de algemene discussiesectie is de Al-Sufi-methode\n"
+"om sterren te identificeren. Hij beschrijft elke ster op meerdere manieren:\n"
+"de positie ten opzichte van het sterrenbeeld, de magnitude, een asterisme\n"
+"dat de ster vormt met andere sterren zoals een driehoek of boog, soms de\n"
+"positie ten opzichte van de Melkweg en de hoekafstand tot een nabije\n"
+"ster. Ik heb in Al-Sufi's boek meer dan 700 hoekafstanden geteld. De\n"
+"eenheden die hij gebruikt voor de hoekafstanden zijn ellen, speerlengte,\n"
+"manhoogte, spanwijdte en vinger. Al-Sufi zegt in zijn boek expliciet dat "
+"een\n"
+"el gelijk is aan twee graden en 20 minuten [#2]. Voor de andere eenheden gaf "
+"Schjellerup\n"
+"enkele waarden, maar door de 700 metingen bij te houden kwam ik tot andere\n"
+"waarden. De volgende tabel geeft een overzicht van de eenheden en de "
+"relatie\n"
+"tussen de waarde van de el van Schjellerup[#3] en die uit mijn onderzoek.\n"
+"\n"
+"### Hoekafstand eenheden gebruikt door Al-Sufi\n"
+"\n"
+"<table>\n"
+"<tr valign=\"top\">\n"
+"\t<td>&nbsp;</td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Schjellerup</b></td>\n"
+"\t<td colspan=\"2\" style=\"text-align:center;\"><b>Khalid</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td><b>eenheid</b></td>\n"
+"\t<td><b>ellen</b></td>\n"
+"\t<td><b>Hoekwaarde</b></td>\n"
+"\t<td><b>ellen</b></td>\n"
+"\t<td><b>Hoekwaarde</b></td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>speer</td>\n"
+"\t<td>6 ellen</td>\n"
+"\t<td>14°</td>\n"
+"\t<td>6 ellen</td>\n"
+"\t<td>14°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>Manhoogte</td>\n"
+"\t<td></td>\n"
+"\t<td></td>\n"
+"\t<td>3 ellen</td>\n"
+"\t<td>7°</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>el</td>\n"
+"\t<td>1 el</td>\n"
+"\t<td>2°20'</td>\n"
+"\t<td>1 el</td>\n"
+"\t<td>2°20'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>spanwijdte</td>\n"
+"\t<td>1/3 el</td>\n"
+"\t<td>47'</td>\n"
+"\t<td>1/2 el</td>\n"
+"\t<td>1°10'</td>\n"
+"</tr>\n"
+"<tr valign=\"top\">\n"
+"\t<td>vinger</td>\n"
+"\t<td>1/32 el</td>\n"
+"\t<td>4.4'</td>\n"
+"\t<td>1/16 el</td>\n"
+"\t<td>8.75'</td>\n"
+"</tr>\n"
+"</table>\n"
+"\n"
+"Een ander belangrijk aspect van Al-Sufi boek is zijn record van inheemse\n"
+"Arabische sternamen die onder elk sterrenbeeld vallen en de exacte\n"
+"identificatie van de respectievelijke sterren met de overeenkomstige\n"
+"Ptolemeïsche sterren. Dit betekend dat we tegelijkertijd naar twee lagen "
+"van\n"
+"sterrenkennis kijken: de Ptolemeïsche en de inheemse Arabische.\n"
+"\n"
+"### De hemelcultuur\n"
+"\n"
+"Deze hemelcultuur is het resultaat van een onderzoek gedaan in "
+"verschillende\n"
+"manuscripten van het boek, de oudste daarvan is de [#8].\n"
+"\n"
+"Eerst werden manuscripten van het Boek met vaste sterren kritisch bewerkt "
+"en\n"
+"de tekst geproduceerd. Ten tweede, elke ster lid van de 48 sterrenbeelden\n"
+"werd geïdentificeerd overeenkomstig de Al-Sufi beschrijving, en nieuwe\n"
+"tabellen werden samengesteld inclusief modern steraanduidingen uit de\n"
+"Hipparcos, Bright stars, and Bayer catalogus. en derde, inheemse Arabische\n"
+"sternamen werden verzameld en geïdentificeerd als in kaart gebracht door\n"
+"Al-Sufi aan de Ptolemeïsche. Al de voorgaande stappen werden opgenomen in\n"
+"een digitaal gepubliceerd boek van het Book of Fixed Stars plus uitleg en\n"
+"commentaren door Khalid Al-Ajaji[#4].\n"
+"\n"
+"De hemelcultuurstokfiguren van de sterrenbeelden zijn de afbeeldingen in "
+"het\n"
+"Ulugh Beg-manuscript van het Book of Fixed Stars, geëxtraheerd en aangepast\n"
+"voor Stellarium door de heer Kutaibaa Akraa [#5]. Het bestand met sternamen "
+"bevat het sternummer in het\n"
+"sterrenbeeld als de primaire sternaam en de beschrijving van de ster in de\n"
+"tabellen als een secundaire naam. Bijvoorbeeld, de primaire naam van de\n"
+"Poolster die wordt weergegeven met de ster is: UMi1, UMi is Ursa Minor en 1\n"
+"is de eerste ster van dit sterrenbeeld. Als de ster is geselecteerd, worden\n"
+"andere secundaire namen weergegeven, wat bovenaan het scherm \"De ster aan\n"
+"het uiteinde van de staart\" zal weergeven. De sterrenbeeldlijnen zijn\n"
+"geconstrueerd volgens de sterrenbeeldvormen met een poging om de meeste van\n"
+"de aangesloten sterren op te nemen. Voor inheemse Arabische sterkennis\n"
+"werden individuele sternamen als secundaire namen aan het sterbestand\n"
+"toegevoegd, terwijl namen van een groep sterren werden gedefinieerd door\n"
+"middel van asterismenamen en asterismelijnbestanden.\n"
+"\n"
+"De vertaling van ster beschrijvingen van het Arabisch in het Engels is\n"
+"afkomstig van Ernie Wright website[#6]\n"
+"die is overgenomen uit de Toomer's vertaling van de Almagest[#7]. De "
+"vertaling is op enkele plaatsen\n"
+"aangepast in overeenstemming met de Al-Sufi bewoording.\n"
+"\n"
+"De enige bron van de hemelcultuur is het Book of Fixed Stars en het doel is\n"
+"een zo waarheidsgetrouw mogelijke weergave van het boek te geven."
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was compiled and added to Stellarium by Khalid Al-Ajaji: "
+"turath.alfalak@gmail.com"
+msgstr ""
+"Deze hemelcultuur is samengesteld en toegevoegd aan Stellarium door Khalid\n"
+"Al-Ajaji: turath.alfalak@gmail.com"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,The Astronomer Abu'L-Husayn "
+"Al-Sufi And His Book On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: See Al-Sufi description in his book of the 14th star in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, traduction littérale avec des notes "
+"par H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Critical edition with commentary by Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg copy of ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb ṣuwar "
+"al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. Arabe 5036]"
+"(https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualization of the Almagest Catalog]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2nd "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 dated 1009 AD](https://iiif."
+"bodleian.ox.ac.uk/iiif/viewer/c1caa84c-f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+msgstr ""
+" - [#1]: The Arabs and the Stars, Paul Kunitzsch,De astronoom Abu'L-Husayn "
+"Al-Sufi en zijn boek On The Constellations, XI, pg 57. Northampton "
+"[England]: Variorum Reprints, 1989.\n"
+" - [#2]: Zie Al-Sufi beschrijving in zijn boek over de 14de ster in Auriga.\n"
+" - [#3]: DESCRIPTIONS DES ETOILES FIXES, letterlijke vertaling met "
+"aantekeningen door H C F C Schjellerup, St Petersbourg, 1874, pg 26-27.\n"
+" - [#4]: [Book of Fixed Stars: Kritische editie met commentaar door Khalid "
+"AlAjaji](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing).\n"
+" - [#5]: [Oulough Beg kopie van ʿAbd al-Raḥmān ibn ʿUmar al-Ṣūfī. Kitāb "
+"ṣuwar al-kawākib al-ṯābita, Paris, Bibliothèque nationale de France Ms. "
+"Arabe 5036](https://gallica.bnf.fr/ark:/12148/btv1b60006156.r=.langEN).\n"
+" - [#6]: [Seeing Ancient Stars, Visualisatie van de Almagest catalogus]"
+"(http://www.etwright.org/astro/almagest.html#cat).\n"
+" - [#7]: Ptolemy’s ALMAGEST, G. J. Toomer, Princeton University Press, 2de "
+"ed., 1998.\n"
+" - [#8]: [Oxford, Bodleian Library Ms. Marsh 144 gedateerd 1009 n.Chr.]"
+"(https://iiif.bodleian.ox.ac.uk/iiif/viewer/c1caa84c-"
+"f6d2-483f-9eb4-2439cccdc801#?"
+"c=0&m=0&s=0&cv=25&r=0&xywh=-4815%2C-378%2C14782%2C7535)"
+
+msgid "The spear"
+msgstr "De speer"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Al-Thurayya"
+
+msgid "Ursa Minor"
+msgstr "Kleine Beer"
+
+msgid "Ursa Major"
+msgstr "Grote Beer"
+
+msgid "Draco"
+msgstr "Draak"
+
+msgid "Cepheus"
+msgstr "Cepheus"
+
+msgid "Bootes"
+msgstr "Ossenhoeder"
+
+msgid "Corona Borealis"
+msgstr "Noorderkroon"
+
+msgid "Hercules"
+msgstr "Hercules"
+
+msgid "Lyra"
+msgstr "Lier"
+
+msgid "Cygnus"
+msgstr "Cygnus"
+
+msgid "Cassiopeia"
+msgstr "Cassiopeia"
+
+msgid "Perseus"
+msgstr "Perseus"
+
+msgid "Auriga"
+msgstr "Auriga"
+
+msgid "Ophiuchus"
+msgstr "Slangendrager"
+
+msgid "Serpens"
+msgstr "Slang"
+
+msgid "Sagitta"
+msgstr "Pijl"
+
+msgid "Aquila"
+msgstr "Arend"
+
+msgid "Delphinus"
+msgstr "Delphinus"
+
+msgid "Equuleus"
+msgstr "Veulen"
+
+msgid "Pegasus"
+msgstr "Pegasus"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Driehoek"
+
+msgid "Aries"
+msgstr "Ram"
+
+msgid "Taurus"
+msgstr "Stier"
+
+msgid "Gemini"
+msgstr "Gemini"
+
+msgid "Cancer"
+msgstr "Kreeft"
+
+msgid "Leo"
+msgstr "Leo"
+
+msgid "Virgo"
+msgstr "Maagd"
+
+msgid "Libra"
+msgstr "Weegschaal"
+
+msgid "Scorpius"
+msgstr "Schorpioen"
+
+msgid "Sagittarius"
+msgstr "Boogschutter"
+
+msgid "Capricornus"
+msgstr "Steenbok"
+
+msgid "Aquarius"
+msgstr "Aquarius"
+
+msgid "Pisces"
+msgstr "Vissen"
+
+msgid "Cetus"
+msgstr "Zeemonster"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Eridanus"
+
+msgid "Lepus"
+msgstr "Haas"
+
+msgid "Canis Major"
+msgstr "Grote Hond"
+
+msgid "Canis Minor"
+msgstr "Kleine Hond"
+
+msgid "Argo Navis"
+msgstr "Argo Navis"
+
+msgid "Hydra"
+msgstr "Hydra"
+
+msgid "Crater"
+msgstr "Beker"
+
+msgid "Corvus"
+msgstr "Raaf"
+
+msgid "Centaurus"
+msgstr "Centaurus"
+
+msgid "Lupus"
+msgstr "Wolf"
+
+msgid "Ara"
+msgstr "Ara"
+
+msgid "Corona Australis"
+msgstr "Zuiderkroon"
+
+msgid "Piscis Austrinus"
+msgstr "Zuidervis"
+
+msgid "The Horse"
+msgstr "Het paard"
+
+msgid "The great fish"
+msgstr "De grote vis"
+
+msgid "The other fish"
+msgstr "De andere vis"
+
+#. TRANSLATORS: The Kid (Baby male goat) is the name of Polaris in Arabic.
+msgid "The star on the end of the tail: it is the Kid"
+msgstr "De ster aan het eind van de staart: het is het kind"
+
+msgid "The one next to it on the tail"
+msgstr "De een ernaast op de staart"
+
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "De ene ernaast, vóór de plaats waar de staart samenkomt [het lichaam]"
+
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "De zuidelijkste van de sterren aan de voorkant van de rechthoek"
+
+msgid "The northernmost of [those in] the same side"
+msgstr "De noordelijkste van [die aan] dezelfde kant"
+
+msgid "The southern star in the rear side: The brighter of the two calves"
+msgstr ""
+"De zuidelijke ster aan de achterzijde: De helderste van de twee kalveren"
+
+msgid "The northern one in the same side: The dimmer of the two calves"
+msgstr ""
+"De noordeijke ster aan dezelfde kant: De minst helder van de twee kalveren"
+
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+"De ster ligt in een rechte lijn met de sterren aan de achterzijde [van de "
+"rechthoek] en zuidelijk van hen"
+
+msgid "The star on the end of the snout"
+msgstr "De ster aan het eind van de snuit"
+
+msgid "The more advanced of the stars in the two eyes"
+msgstr "De meer geavanceerde van de sterren in de twee ogen"
+
+msgid "The one to the rear"
+msgstr "De ene aan de achterzijde"
+
+msgid "The more advanced of the two stars in the forehead"
+msgstr "De meer naar voren staande van de twee sterren in het voorhoofd"
+
+msgid "The star on the tip of the advance ear"
+msgstr "De ster op het puntje van het voorste oor"
+
+msgid "The more advanced of the two stars in the neck"
+msgstr "De meer naar voren staande van de twee sterren in de nek"
+
+msgid ""
+"The one to the rear, there is an error in either the longitude or latitude"
+msgstr "De achterste, er is een fout in de lengte- of breedtegraad"
+
+msgid "The northernmost of the two stars in the chest"
+msgstr "De noordelijkste van de twee sterren in de borst"
+
+msgid "The southernmost of them"
+msgstr "De zuidelijkste van hen"
+
+msgid "The star on the left knee"
+msgstr "De ster op de linkerknie"
+
+msgid ""
+"The northernmost of the [two] in the front left paw: Leap [of the gazelle]"
+msgstr ""
+"De noordelijkste van de [twee] in de linker voorpoot: Sprong [van de gazelle]"
+
+msgid "The southernmost of them: Leap [of the gazelle]"
+msgstr "De noordelijkste van hen: Sprong [van de gazelle]"
+
+msgid "The star above the right knee"
+msgstr "De ster boven de rechterknie"
+
+msgid "The star below the right knee"
+msgstr "De ster onder de rechterknie"
+
+msgid "The stars in the quadrilateral: the one on the back"
+msgstr "De sterren in de vierhoek: die op de achterkant"
+
+msgid "The one on the pelvis"
+msgstr "Die op het bekken"
+
+msgid "The one on the place where the tail joins [the body]"
+msgstr "Die op de plek waar de staart samenkomt [het lichaam]"
+
+msgid "The remaining one, on the left hind thigh"
+msgstr "De overgeblevene, op de linkerachterbeen"
+
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr ""
+"De meer naar voren staande van de [twee sterren] in de linkerachterpoot"
+
+msgid "The one to the rear of it"
+msgstr "Die aan de achterkant er van"
+
+msgid "The star on the left knee-bend"
+msgstr "De ster op de linkerkniebocht"
+
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "De noordelijkste van de [twee sterren] in de rechterachterpoot"
+
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+"De eerste van de drie sterren op de staart naast de plek waar het samenkomt "
+"[het lichaam]"
+
+msgid "The middle one"
+msgstr "De middelste"
+
+msgid "The third, on the end of the tail"
+msgstr "De derde, aan het einde van de staart"
+
+msgid "The star under the tail, at some distance towards the south"
+msgstr "De ster onder de staart, op enige afstand naar het zuiden"
+
+msgid "The rather fainter star in advance of it"
+msgstr "De nogal zwakkere ster ervoor"
+
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+"De zuidelijkste van de [twee] sterren tussen de voorpoten van de Grote "
+"[Beer] en de kop van de leeuw"
+
+msgid "The one north of it"
+msgstr "Die noordelijk van het"
+
+msgid "The rearmost of the remaining three faint stars"
+msgstr "De achterste van de overgebleven drie zwakke sterren"
+
+msgid "The one in advance of this"
+msgstr "Die voor dit"
+
+msgid "The one in advance again of the latter"
+msgstr "Die weer voor de laatste"
+
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "De ster tussen de voorpoten {Grote Beer] en Gemini"
+
+msgid "The dark camel"
+msgstr "De donkere kameel"
+
+msgid "The Oryx"
+msgstr "De Oryx"
+
+msgid "The little goat"
+msgstr "De kleine geit"
+
+msgid "The leader"
+msgstr "De leider"
+
+msgid "Liver of the lion"
+msgstr "Lever van de leeuw"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr "Al-Suha"
+
+#. TRANSLATORS: Proper name
+msgid "Al-Suta"
+msgstr "Al-Suta"
+
+#. TRANSLATORS: Proper name
+msgid "Al-Saydaq"
+msgstr "Al-Saydaq"
+
+#. TRANSLATORS: Proper name
+msgid "Nua'ish"
+msgstr "Nua'ish"
+
+msgid "The star on the tongue"
+msgstr "De ster op de tong"
+
+msgid "The star in the mouth"
+msgstr "De ster in de mond"
+
+msgid "The star above the eye"
+msgstr "De ster boven het oog"
+
+msgid "The star on the chin"
+msgstr "De ster op de kin"
+
+msgid "The star above the head"
+msgstr "De ster boven de kop"
+
+msgid ""
+"The northernmost of the three stars in a straight line in the first bend of "
+"the neck"
+msgstr ""
+"De noordelijkste van de drie sterren in een rechte lijn naar de eerste bocht "
+"in de nek"
+
+msgid "The southernmost of these"
+msgstr "De zuidelijkste van deze"
+
+msgid ""
+"The star to the rear of the latter and due east of the quadrilateral in the "
+"next bend after the latter"
+msgstr ""
+"De ster aan de achter de laatste en pal ten oosten van de vierhoek in de "
+"volgende bocht na de laatste"
+
+msgid "The southern star of the [two] forming the advance side"
+msgstr "De zuidelijke ster van de [twee] vormt de voorzijde"
+
+msgid "The more northerly star of the advance side"
+msgstr "De noordelijkste ster aan de voorzijde"
+
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr "De noordelijke ster aan de achterkant [van de vierhoek]"
+
+msgid "The southern star of the rear side"
+msgstr "De zuidelijke ster aan de achterkant"
+
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "De zuidelijke ster van [die vormen] de driehoek in de volgende bocht"
+
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "De voorste van de andere twee sterren van de driehoek"
+
+msgid ""
+"The rearmost of the three stars in the next triangle, which is in advance "
+"[of the last]"
+msgstr ""
+"De achterste van de drie sterren in de volgende driehoek, die staat voor [de "
+"laatste]"
+
+msgid "The southernmost of the other two forming the triangle"
+msgstr "De zuidelijkste van de andere twee die een driehoek vormen"
+
+msgid "The northernmost of the other two"
+msgstr "De noordelijkste van de andere twee"
+
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr "De achterste van de twee kleine sterren in het westen van de driehoek"
+
+msgid "The one in advance"
+msgstr "De voorste"
+
+msgid "The southernmost of the next three stars in a straight line"
+msgstr "De zuidelijkste van de volgende drie sterren in een rechte lijn"
+
+msgid "The middle one of the three"
+msgstr "De middelste van de drie"
+
+msgid "The northernmost of them"
+msgstr "De noordelijkste van hen"
+
+msgid "The northernmost of the next two to the west"
+msgstr "De noordelijkste van de volgende twee in het westen"
+
+msgid "The star to the west of these, in the bend by the tail"
+msgstr "De ster in het westen van deze, in de bocht van de staart"
+
+msgid "The advance star of the two quite some distance from the latter"
+msgstr "De voorste ster van de twee op een behoorlijke afstand van de laatste"
+
+msgid "The rear star of these [two]"
+msgstr "De achterste ster van deze [twee]"
+
+msgid "The star close by these, by the tail"
+msgstr "De ster naast deze, bij de staart"
+
+msgid "The remaining star, on the tip of the tail"
+msgstr "De overgebleven ster, op de punt van de staart"
+
+msgid "The trotting camel"
+msgstr "De dravende kameel"
+
+msgid "The baby camel"
+msgstr "De baby kameel"
+
+msgid "The male hyena"
+msgstr "De vrouwelijke hyena"
+
+msgid "The star on the right leg"
+msgstr "De ster op de rechterbeen"
+
+msgid "The one on the left leg"
+msgstr "De ster op de linkerbeen"
+
+msgid "The star under the belt on the right side"
+msgstr "De ster onder de riem aan de rechterzijde"
+
+msgid "The star over the right shoulder, which touches it"
+msgstr "De ster boven de rechterschouder, die het raakt"
+
+msgid "The star over the right elbow, which touches it"
+msgstr "De ster boven de rechterelleboog, die het raakt"
+
+msgid "The one under that elbow"
+msgstr "Die onder die elleboog"
+
+msgid "The star in the chest"
+msgstr "De ster in de borst"
+
+msgid "The star on the left arm"
+msgstr "De ster op de linkerarm"
+
+msgid "The southernmost of the three stars on the hat"
+msgstr "De noordelijkste van de drie sterren op het hoofd"
+
+msgid "The northernmost of the three"
+msgstr "De noordelijkste van de drie"
+
+msgid "The one in advance of the stars on the head"
+msgstr "De voorste van de sterren op de kop"
+
+msgid "The one to the rear of them"
+msgstr "Die achter hen"
+
+msgid "The [northern] Shepherd"
+msgstr "De [noordelijke] herder"
+
+msgid "The [northern] Shepherd dog"
+msgstr "De [noordelijke] herdershond"
+
+msgid "The horse forehead star"
+msgstr "De paardenhoofd ster"
+
+msgid "The most advanced of the three in the left arm"
+msgstr "De voorste van de drie in de linkerarm"
+
+msgid "The middle and southernmost of the three"
+msgstr "De middelste en zuidelijkste van de drie"
+
+msgid "The rearmost of the three"
+msgstr "De achterste van de drie"
+
+msgid "The star on the left elbow"
+msgstr "De ster op de linkerarm"
+
+msgid "The star on the left shoulder"
+msgstr "De ster op de linkerschouder"
+
+msgid "The star on the head"
+msgstr "De ster op de kop"
+
+msgid "The star on the right shoulder"
+msgstr "De ster op de rechterschouder"
+
+msgid "The one to the north of these, on the staff"
+msgstr "Die ten noorden van deze, op de staf"
+
+msgid ""
+"The one farther to the north again of this, on the tip of the staff, and it "
+"is a common star [with Hercules]"
+msgstr ""
+"Die verder naar het noorden hiervan, op het puntje van de staf, en het is "
+"een gewone ster [met Hercules]"
+
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr "De noordelijkste van de twee sterren onder de schouder, in de club"
+
+msgid "The star on the end of the right arm"
+msgstr "De ster aan het einde van de rechterarm"
+
+msgid "The more advanced of the two stars in the wrist"
+msgstr "De voorste van de twee sterren in de pols"
+
+msgid "The rearmost of them"
+msgstr "De achterste van hen"
+
+msgid "The star on the end of the handle of the staff"
+msgstr "De ster aan het eind van het handvat van de staf"
+
+msgid ""
+"The star on the belt which Ptolemy claims that it is on the right thigh, in "
+"the apron"
+msgstr ""
+"De ster op de riem waarvan Ptolemaeus zegt dat hij op de rechter dij zit, in "
+"het schort"
+
+msgid "The rearmost of the two stars in the belt"
+msgstr "De achterste van de twee sterren in de riem"
+
+msgid "The more advanced of them"
+msgstr "De meer naar voren staande van hen"
+
+msgid "The star on the right heel"
+msgstr "De ster op de rechterhiel"
+
+msgid "The northernmost of the three stars in the left leg"
+msgstr "De noordelijkste van de drie sterren in de linkerpoot"
+
+msgid "The star between the thighs, called 'The high one with the spear'"
+msgstr "De ster tussen de dijen, genaamd 'De hoge met de speer'"
+
+msgid "The guard of the sky"
+msgstr "De bewaker van de hemel"
+
+msgid "The guard of the north"
+msgstr "De bewaker van het noorden"
+
+msgid "Leg of the lion"
+msgstr "Poot van de leeuw"
+
+msgid "Associate of the high one"
+msgstr "Medewerker van de hoge"
+
+msgid "Flag of the high one"
+msgstr "Vlag van de hoge"
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "Flag of Al-Fakkah"
+msgstr "Vlag van Al-Fakkah"
+
+msgid "The bright star in the crown"
+msgstr "De heldere ster in de kroon"
+
+msgid "The star in advance of it"
+msgstr "De ster voor het"
+
+msgid "The one above this and due north"
+msgstr "Die boven dit en naar het noorden"
+
+msgid "The one north again of this"
+msgstr "Die weer ten noorden hiervan"
+
+msgid ""
+"The one to the rear of the bright star in the other half circle from the "
+"south"
+msgstr "Die achter de heldere ster in de andere halve cirkel vanuit het zuiden"
+
+msgid ""
+"The one to the rear again of the latter, and it is a little more to the north"
+msgstr "Die weer aan achter de laatste, en het is iets meer naar het noorden"
+
+msgid "The one to the rear again of these, and again it is more to the north"
+msgstr "Die weer achter deze, en opnieuw is het meer naar het noorden"
+
+msgid "The star at the end of the opening of this half circle"
+msgstr "De ster aan het einde van de opening van deze halve cirkel"
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "The bright star of Al-Fakkah"
+msgstr "De heldere ster van Al-Fakkah"
+
+msgid "The star on the right shoulder by the armpit"
+msgstr "De ster op de rechterschouder bij de oksel"
+
+msgid "The star on the right upper arm"
+msgstr "De ster aan de rechterbovenarm"
+
+msgid "The star on the right elbow"
+msgstr "De ster op de rechter elleboog"
+
+msgid "The star on the left upper arm"
+msgstr "De ster op de linkerbovenarm"
+
+msgid "The rearmost of the three stars in the left wrist"
+msgstr "De achterste van de drie sterren in de rechterpols"
+
+msgid "The star in the right side"
+msgstr "De ster aan de rechterzijde"
+
+msgid "The star in the left side"
+msgstr "De ster aan de linkerzijde"
+
+msgid "The one north of the latter, on the left buttock"
+msgstr "Die ten noorden van de laatste, op de bil"
+
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "Die op de plek waar de dij aansluit op de zelfde [bil]"
+
+msgid "The most advanced of the three in the left thigh"
+msgstr "De voorste van de drie in de linkerdij"
+
+msgid "The one to the rear of this"
+msgstr "Die achter dit"
+
+msgid "The one yet further to the rear of this"
+msgstr "Die net wat verder achterkant dit"
+
+msgid "The star on the left shin on the ankle place"
+msgstr "De ster op het linker scheenbeen op de plaats van de enkel"
+
+msgid "The most advanced of the three stars in the left foot"
+msgstr "De voorste van de drie sterren in de linkervoet"
+
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr "De ster op de plek waar de rechterdij dicht aansluit [de bil]"
+
+msgid "The star north of it in the same thigh"
+msgstr "De ster ten noorden van het in dezelfde dij"
+
+msgid "The star on the right knee"
+msgstr "De ster op de rechterknie"
+
+msgid "The southernmost of the two stars under the right knee"
+msgstr "De zuidelijkste van de twee sterren onder de rechterknie"
+
+msgid "The star in the right lower leg"
+msgstr "De ster in het rechteronderbeen"
+
+msgid ""
+"The star on the end of the right leg is the same as the ninth star of Bootes "
+"on the tip of the staff, shared by the two constellations"
+msgstr ""
+"De ster op het eind van het rechterbeen is dezelfde als de negende ster van "
+"Bootes op de punt van de staf, gedeeld door twee sterrenbeelden"
+
+msgid "The star south of the one in the right upper arm"
+msgstr "De ster ten zuiden van die in de rechterbovenarm"
+
+msgid "First dog of [southern] shepherd"
+msgstr "Eerste hond van de [zuidelijke] herder"
+
+msgid "The line"
+msgstr "De lijn"
+
+msgid ""
+"The bright star on the carrying cloth, called Lyra, and it is the landing "
+"eagle"
+msgstr ""
+"De heldere ster op de draagdoek, genaamd Lyra en het is een landende adelaar"
+
+msgid "The northernmost of the two stars lying near the latter, close together"
+msgstr ""
+"De noordelijkste van de twee sterren die in de buurt van de laatste liggen, "
+"dicht bij elkaar"
+
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr ""
+"Die achterkant deze, tussen de punten waar de hoorns [van de lier] zijn "
+"bevestigd"
+
+msgid ""
+"The northernmost of the two stars close together in the region to the east "
+"of the cloth"
+msgstr ""
+"De noordelijkste van de twee sterren dicht bij elkaar in de regio ten oosten "
+"van het doek"
+
+msgid "The northernmost of the two advance stars in the crossbar"
+msgstr "De noordelijkste van de twee voorste sterren in de dwarsbalk"
+
+msgid "The northernmost of the two rear stars in the crossbar"
+msgstr "De noordelijkste van de twee achterste sterren in de dwarsbalk"
+
+msgid "The star on the beak"
+msgstr "De ster in de bek"
+
+msgid "The one to the rear of this, on the head"
+msgstr "Die achter dit, op de kop"
+
+msgid "The star in the middle of the neck"
+msgstr "De ster in het midden van de nek"
+
+msgid "The star in the breast"
+msgstr "De ster in de borst"
+
+msgid "The bright star in the tail"
+msgstr "De heldere ster in de staart"
+
+msgid "The star in the bend of the right wing"
+msgstr "De ster in de bocht van de rechtervleugel"
+
+msgid "The southernmost of the three in the right wing-feathers"
+msgstr "De zuidelijkste van de drie in de rechtervleugelveren"
+
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr "De noordelijkste van hen, op de punt van de vleugelveren"
+
+msgid "The star on the bend of the left wing"
+msgstr "De ster in de bocht van de linkervleugel"
+
+msgid "The star north of this, in the middle of the same wing"
+msgstr "De ster ten noorden van dit, in het midden van ditlfde vleugel"
+
+msgid "The star in the tip of the feathers of the left wing"
+msgstr "De ster in de punt van de veren van de linkervleugel"
+
+msgid "The star on the left leg"
+msgstr "De ster op de linkerpoot"
+
+msgid "The more advanced of the two stars in the right leg"
+msgstr "De voorste van de twee sterren in de rechterpoot"
+
+msgid "The northern star on the right knee"
+msgstr "De noordelijke ster op de rechterknie"
+
+msgid "The southernmost of the two stars under the left wing"
+msgstr "De zuidelijkste van de twee sterren onder de linkervleugel"
+
+msgid "The rear knight"
+msgstr "De achterste ridder"
+
+msgid "The one north of that, on the belt"
+msgstr "Die ten noorden van dat, op de riem"
+
+msgid "The star over the chair, just over the thighs"
+msgstr "De ster boven de stoel, net boven de dijen"
+
+msgid "The star in the knees"
+msgstr "De ster in de knieën"
+
+msgid "The star on the lower leg"
+msgstr "De ster op het onderbeen"
+
+msgid "The star on the end of the leg"
+msgstr "De ster op het einde van het been"
+
+msgid "The star below the left elbow"
+msgstr "De ster onder de linkerelleboog"
+
+msgid "The star on the right forearm"
+msgstr "De ster op de rechteronderarm"
+
+msgid "The star above the post of the chair"
+msgstr "De ster boven de paal van de stoel"
+
+msgid ""
+"The star on the middle of the chair backrest, and it is called The henna "
+"tinted hand"
+msgstr ""
+"De ster in de midden van de stoelleuning en wordt genoemd De henna getinte "
+"hand"
+
+msgid "The star at the end of the chair backrest"
+msgstr "De ster aan het einde van de stoelleuning"
+
+msgid "The star on the place between the shoulders"
+msgstr "De ster op een plek tussen de schouders"
+
+msgid "The bright star in the right side"
+msgstr "De heldere ster aan de rechterzijde"
+
+msgid "The most advanced of the three stars next to the one in the side"
+msgstr "De voorste van drie sterren naast die in de zijkant"
+
+msgid "The bright one of the stars in the Gorgon-head"
+msgstr "De helderste van de sterren in de Gorgon-hoofd"
+
+msgid "The one in advance of the bright star"
+msgstr "Die voor de heldere ster"
+
+msgid "The remaining one, yet again in advance of this"
+msgstr "De overgeblevene, net weer voor dit"
+
+msgid "The star in the right knee"
+msgstr "De ster in de rechterknie"
+
+msgid "The one in advance of this, over the knee"
+msgstr "Die voor dit, boven de knie"
+
+msgid "The more advanced of the two stars above the bend in the knee"
+msgstr "De meer voorste van de twee sterren boven de bocht in de knie"
+
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr "De achterste van hen net boven de bocht in de knie"
+
+msgid "The star on the right calf"
+msgstr "De ster op de rechterkalf"
+
+msgid "The star on the right ankle"
+msgstr "De ster op de rechterenkel"
+
+msgid "The star in the left thigh"
+msgstr "De ster op de linkerdij"
+
+msgid "The star on the left lower leg"
+msgstr "De ster in het linkeronderbeen"
+
+msgid "The star on the left heel"
+msgstr "De ster op de linkerhiel"
+
+msgid "The one to the rear of this, on the left foot"
+msgstr "Die achter dit, op de linkervoet"
+
+msgid "The star to the east of the one on the left knee"
+msgstr "De ster ten oosten van die op de linkerknie"
+
+msgid "The star to the north of the one in the right knee"
+msgstr "De ster ten noorden van die in de rechterknie"
+
+msgid "The star in advance of those in the Gorgon-head"
+msgstr "De ster voor die in het Gorgon-hoofd"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The elbow [of Al-Thurayya]"
+msgstr "De elleboog [van Al-Thurayya]"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Bend of the hand [of Al-Thurayya]"
+msgstr "Bocht van de hand [van Al-Thurayya]"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Tip of the elbow [of Al-Thurayya]"
+msgstr "Punt van de elleboog [van Al-Thurayya]"
+
+msgid "The caracal (second narrative)"
+msgstr "De karacal (tweede verhaal)"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The shoulder [of Al-Thurayya]"
+msgstr "De schouder van Al-Thurayya"
+
+msgid "The southernmost of the two on the head"
+msgstr "De zuidelijkste van de twee op het hoofd"
+
+msgid "The northernmost [of these], over the head"
+msgstr "De noordelijkste [van deze], boven het hoofd"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "The star on the left shoulder, called Al-Ayyuq"
+msgstr "De ster op de linkerschouder, genaamd Al-Ayyuq"
+
+msgid "The star on the right wrist"
+msgstr "De ster op de rechterpols"
+
+#. TRANSLATORS: kids here are the baby goats
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'The two "
+"kids'"
+msgstr ""
+"De achterste van de twee sterren op de linkerpols, die worden genoemd 'De "
+"twee kinderen'"
+
+msgid "The more advanced of these"
+msgstr "De meer naar voren staande van deze"
+
+msgid "The star on the left ankle"
+msgstr "De ster op de linker enkel"
+
+msgid ""
+"The star on the right ankle, which is [applied in] common to the northern "
+"horn of Taurus"
+msgstr ""
+"De ster op de rechter enkel, welke is [toegepast in] De ster op de "
+"rechterenkel, die algemeen wordt [toegepast in] op de noordelijke hoorn van "
+"de Stier"
+
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr ""
+"Die noordelijk van de laatste, in de onderste zoom [van het kledingstuk]"
+
+msgid "The one north again of this, on the buttock"
+msgstr "Die weer noordelijk van dit, op de bil"
+
+msgid "The Goat"
+msgstr "De Geit"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya Watcher"
+msgstr "Al-Thurayya kijker"
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Ayyuq Al-Thurayya"
+
+msgid "The goats owner"
+msgstr "De geiten eigenaar"
+
+msgid "The more advanced of the two stars on the right shoulder"
+msgstr "De meer naar voren staande van de twee sterren op de rechterschouder"
+
+msgid "The more advanced of the two stars on the left shoulder"
+msgstr "De meer naar voren staande van de twee sterren op de linkerschouder"
+
+msgid "The more advanced of the two stars in the left hand"
+msgstr "De meer naar voren staande van de twee sterren in de linkerhand"
+
+msgid "The more advanced of the two stars in the right hand"
+msgstr "De meer naar voren staande van de twee sterren in de rechterhand"
+
+msgid "The star on the right lower leg"
+msgstr "De ster in het rechteronderbeen"
+
+msgid "The most advanced of the four stars on the right foot"
+msgstr "De voorste van de vier sterren op de rechtervoet"
+
+msgid "The one to the rear again of that"
+msgstr "Die weer achter deze"
+
+msgid "The last and rearmost of the four"
+msgstr "De laatste en de achterste van de vier"
+
+msgid "The star to the rear of these, which touches the heel"
+msgstr "De ster achter deze, die de hiel raakt"
+
+msgid "The star in the left knee"
+msgstr "De ster in de linkerknie"
+
+msgid ""
+"The northernmost of the three stars in a straight line in the left lower leg"
+msgstr ""
+"De noordelijkste van de drie sterren in een rechte lijn naar de "
+"linkeronderbeen"
+
+msgid "The middle one of these"
+msgstr "De middelste van de deze"
+
+msgid "The southernmost of the three"
+msgstr "De noordelijkste van de drie"
+
+msgid "The star touching the hollow of the left foot"
+msgstr "De ster die de holte van de linkervoet raakt"
+
+msgid ""
+"The northernmost of the three that are on a straight line, to the east of "
+"the right shoulder"
+msgstr ""
+"De noordelijkste van de drie staan in een rechte lijn, naar het oosten van "
+"de rechterschouder"
+
+msgid "The star to the rear of these three, and over the middle one"
+msgstr "De ster achter deze drie en boven de middelste"
+
+msgid "The lone star north of these four"
+msgstr "De eenzame ster ten noorden van de vier"
+
+msgid "The [southern] shepherd"
+msgstr "De [zuidelijke] herder"
+
+msgid "Second dog of the [southern] shepherd"
+msgstr "Tweede hond van de [zuidelijke] herder"
+
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr "Sterren op de vierhoek in het hooofd: die aan het eind van de kaak"
+
+msgid "The one touching the nostrils"
+msgstr "Die die de neusgaten aanraakt"
+
+msgid "The one in the temple"
+msgstr "Die in de tempel"
+
+msgid "The one where the neck joins [the head]"
+msgstr "Die waar de nek samenkomt met [de kop]"
+
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr "Die in het midden van de vierhoek, in de mond"
+
+msgid "The star outside the head, to the north of it"
+msgstr "De ster buiten de kop, ten noorden van het"
+
+msgid "The one after the first bend in the neck"
+msgstr "Die achter de eerste bocht in de nek"
+
+msgid "The northernmost of the three following this"
+msgstr "De noordelijkste van de drie die hierop volgen"
+
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr ""
+"De ster achter de volgende bocht, welke voor de linkerhand van Ophiuchus "
+"staat"
+
+msgid "The star to the rear of those in the hand of Ophiuchus"
+msgstr "De ster achter die in de hand van Ophiuchus"
+
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr "Die achter de achterkant van de dij van Ophiuchus"
+
+msgid "The southernmost of the two to the rear of the latter"
+msgstr "De zuidelijkste van de twee achter de laatste"
+
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr "Die achter de rechterhand [van Ophiuchus], op de bocht in de staart"
+
+msgid "The one to the rear of this, likewise on the tail"
+msgstr "Die achter dit, gelijk aan de staart"
+
+msgid "The star on the tip of the tail"
+msgstr "De ster aan de punt van de staart"
+
+msgid "The lone star on the arrow-head"
+msgstr "De eenzame ster op de pijlpunt"
+
+msgid "The rearmost of the three stars in the shaft"
+msgstr "De achterste van de drie sterren in de schacht"
+
+msgid "The most advanced of the three"
+msgstr "De voorste van de drie"
+
+msgid "The star on the end of the notch"
+msgstr "De ster aan het eind van de inkeping"
+
+msgid "The star in the middle of the head"
+msgstr "De ster in het midden van de kop"
+
+msgid "The one in advance of this, on the neck"
+msgstr "De voorste van dit, op de nek"
+
+msgid ""
+"The bright star on the place between the shoulders, called The flying eagle"
+msgstr ""
+"De heldere ster op de plek tussen de schouders, genaamd De vliegede adelaar"
+
+msgid "The one close to this towards the north"
+msgstr "Die dicht bij dit richting het noorden"
+
+msgid "The more advanced of the two in the left shoulder"
+msgstr "De meer naar voren staande van de twee sterren in de linkerschouder"
+
+msgid "The more advanced of the two in the right shoulder"
+msgstr "De meer naar voren staande van de twee in de rechter schouder"
+
+msgid ""
+"The star some distance under the tail of the eagle, touching the Milky Way"
+msgstr ""
+"De ster op enige afstand onder de staart van de adelaar, de Melkweg rakend"
+
+msgid "The more advanced of the two stars south of the head of the eagle"
+msgstr ""
+"De meer naar voren staande van de twee sterren in de kop van de adelaar"
+
+msgid "The star to the south and west of the right shoulder of the eagle"
+msgstr "De ster ten zuidwesten van de rechterschouder van de adelaar"
+
+msgid "The one to the south of this"
+msgstr "Die ten zuiden van dit"
+
+msgid "The one to the south again of the latter"
+msgstr "Die weer in het zuiden van de laatste"
+
+msgid "The star most in advance of all"
+msgstr "De voorste ster van allen"
+
+msgid "The most advanced of the three stars in the tail"
+msgstr "De voorste van de drie sterren in de staart"
+
+msgid ""
+"The southernmost one of the two on the advance side of the rhomboid "
+"quadrilateral"
+msgstr ""
+"De zuidelijkste van de twee aan de voorzijde van de ruitvormige vierhoek"
+
+msgid "The northernmost one on the advance side"
+msgstr "De noordelijkste aan de voorzijde"
+
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "De zuidelijkste aan de achterkant van de ruit"
+
+msgid "The northernmost one on the rear side"
+msgstr "De noordelijkste aan de achterkant"
+
+msgid "The northernmost of the three stars between the tail and the rhombus"
+msgstr "De noordelijkste van de drie sterren tussen de staart en de ruit"
+
+msgid "The more advanced of the two other northern stars"
+msgstr "De meer naar voren staande van de twee andere noordelijke sterren"
+
+msgid "The remaining, rearmost one"
+msgstr "De overgeblevene, de achterste"
+
+msgid "The more advanced of the two stars in the head"
+msgstr "De meer naar voren staande van de twee sterren in de kop"
+
+msgid "The more advanced of the two stars in the mouth"
+msgstr "De meer naar voren staande van de twee sterren in de mond"
+
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr ""
+"De ster in de navel, die in het algemeen wordt [toegepast] op de kop van "
+"Andromeda"
+
+msgid "The star on the rump and the wing-tip"
+msgstr "De ster op de romp en de vleugelpunt"
+
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "De ster op de rechterschouder en de plek waar de poot samenkomt [het]"
+
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr ""
+"De ster op de plek tussen de schouders en het schouder-deel van de vleugel"
+
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "De noordelijkste van de twee sterren in het lichaam onder de vleugel"
+
+msgid "The northernmost of the two stars in the right knee"
+msgstr "De noordelijkste van de twee sterren in de rechter knie"
+
+msgid "The more advanced of the two stars close together in the chest"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar in de borst"
+
+msgid "The more advanced of the two stars close together in the neck"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar in de nek"
+
+msgid "The southernmost of the two stars on the mane"
+msgstr "De zuidelijkste van de twee sterren op de manen"
+
+msgid "The northernmost of the two stars close together on the head"
+msgstr "De noordelijkste van de twee sterren dicht bij elkaar in de kop"
+
+msgid "The star in the muzzle"
+msgstr "De ster in de snuit"
+
+msgid "The star in the right hock"
+msgstr "De ster in de rechter hakpees"
+
+msgid "The star in the left hock"
+msgstr "De ster in de linker hakpees"
+
+msgid "The star in the place between the shoulders"
+msgstr "De ster op een plek tussen de schouders"
+
+msgid "The star in the right shoulder"
+msgstr "De ster op de rechterschouder"
+
+msgid "The star in the left shoulder"
+msgstr "De ster op de linkerschouder"
+
+msgid "The southernmost of the three stars on the right upper arm"
+msgstr "De zuidelijkste van de drie sterren op de rechter bovenarm"
+
+msgid "The southernmost of the three stars on the right hand"
+msgstr "De zuidelijkste van de drie sterren aan de rechterkant"
+
+msgid "The southernmost of the three stars over the girdle"
+msgstr "De zuidelijkste van de drie sterren boven de gordel"
+
+msgid "The star over the left foot: called the caracal"
+msgstr "De ster over de linkervoet: genaamd de caracal"
+
+msgid "The star in the right foot"
+msgstr "De ster in de rechtervoet"
+
+msgid "The one south of the latter"
+msgstr "Die ten zuiden van de laatste"
+
+msgid "The northernmost of the two stars on the left knee-bend"
+msgstr "De noordelijkste van de twee sterren in de linkerkniebocht"
+
+msgid "The northernmost of the two stars in the lower hem of the garment"
+msgstr ""
+"De noordelijkste van de twee sterren in de onderste zoom van het kledingstuk"
+
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr "De ster voor de drie in de rechterhand, buiten [van het]"
+
+msgid "Abdomen of the fish"
+msgstr "Buik van de vis"
+
+msgid "The caracal (first narrative)"
+msgstr "De caracal (eerste verhaal)"
+
+msgid "The star in the apex of the triangle"
+msgstr "De ster in de top van de driehoek"
+
+msgid "The most advanced of the three on the base"
+msgstr "De voorste van de drie op de basis"
+
+msgid "The more advanced of the two stars on the horn"
+msgstr "De meer naar voren staande van de twee sterren op het hoorn"
+
+msgid "The northernmost of the two stars on the muzzle"
+msgstr "De noordelijkste van de twee sterren in de eind van de loop"
+
+msgid "The star on the neck"
+msgstr "De ster op de nek"
+
+msgid "The star on the rump"
+msgstr "De ster op de romp"
+
+msgid "The star on the place where the fatty tail joins [the body]"
+msgstr "De ster op de plaats waar de vette staart samenkomt [het lichaam]"
+
+msgid "The most advanced of the three stars in the fatty tail"
+msgstr "De voorste van de drie sterren in de vette staart"
+
+msgid "The star in the back of the thigh"
+msgstr "De ster op de achterkant van de dij"
+
+msgid "The star over the knee-bend"
+msgstr "De ster op de kniebocht"
+
+msgid "The star on the hind hoof"
+msgstr "De ster op de achterhoef"
+
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr ""
+"De ster boven de kop, die Hipparchus [genaamd] 'die op het eind van de loop'"
+
+msgid "The rearmost, which is brighter of the four stars over the rump"
+msgstr "De meestachterste, die helderste van de vier sterren boven de romp"
+
+msgid "The northernmost of the other three, fainter stars"
+msgstr "De noordelijkste van de andere sterren, zwakkere sterren"
+
+msgid "The middle one of these three"
+msgstr "De middelste van deze drie"
+
+msgid "The butting [horn]"
+msgstr "De stoot [hoorn]"
+
+msgid "The northernmost of the four stars in the cut-off"
+msgstr "De noordelijkste van de vier sterren in de afsnijding"
+
+msgid "The one close by this"
+msgstr "Die in de buurt van dit"
+
+msgid "The one close again to the latter"
+msgstr "Die die weer dicht bij de laatste staat"
+
+msgid "The southernmost of the four"
+msgstr "De zuidelijkste van de vier"
+
+msgid "The one to the rear of the latter, on the right shoulder-blade"
+msgstr "Die aan achterkant van de laatste, op het rechterschouderblad"
+
+msgid "The star on the right hock"
+msgstr "De ster in de rechter hakpees"
+
+msgid ""
+"The one on the nostrils of the stars in the face, resembling the Greek "
+"letter Λ"
+msgstr ""
+"Die op de neusgaten van de sterren in het gezicht, die lijkt op de Griekse "
+"letter Λ"
+
+msgid "The one between the latter and the northern eye"
+msgstr "Die tussen de laatste en het noordelijke oog"
+
+msgid "The one between that latter itself and the southern eye"
+msgstr "Die tussen dat laatste zelf en het zuidelijke oog"
+
+msgid ""
+"The bright star of the group of stars resembling the Arabic letter 'dal د', "
+"the reddish one on the southern eye"
+msgstr ""
+"De heldere ster van de groep of sterren die lijkt op de Arabische letter "
+"'dal د', de roodachtige op het zuidelijke oog"
+
+msgid "The remaining one, on the northern eye"
+msgstr "De overgeblevene, op het noordelijke oog"
+
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr ""
+"De ster op de plek waar de zuidelijke hoorn en het oor samenkomt [de kop]"
+
+msgid "The southernmost of the two stars on the southern horn"
+msgstr "De zuidelijkste van de twee sterren op de zuidelijke hoorn"
+
+msgid "The northernmost of these"
+msgstr "De noordelijkste van deze"
+
+msgid "The star on the tip of the southern horn"
+msgstr "De ster op het puntje van de zuidelijke hoorn"
+
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "De ster op de plek waar de noordelijke hoorn samenkomt met [de kop]"
+
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga"
+msgstr ""
+"De ster op de punt van de noordelijke hoorn, wat de zelfde is als die op de "
+"rechtervoet van Auriga"
+
+msgid "The northernmost of the two stars close together in the northern ear"
+msgstr ""
+"De noordelijkste van de twee sterren dicht bij elkaar in het noordelijke oor"
+
+msgid "The more advanced of the two small stars in the neck"
+msgstr "De meer naar voren staande van de twee kleine sterren in de nek"
+
+msgid ""
+"The southernmost star on the advance side of the four stars forming the "
+"quadrilateral in the neck"
+msgstr ""
+"De zuidelijkste ster op de voorkant van de vier sterren die een vierhoek "
+"vormen in de nek"
+
+msgid "The northernmost star on the advance side"
+msgstr "De noordelijkste ster aan de voorzijde"
+
+msgid "The southernmost star on the rear side"
+msgstr "De zuidelijkste aan de achterkant"
+
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "De Plejaden: het noordelijke eind van de voorkant"
+
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "Het zuidelijke eind van de voorkant [van de Plejaden]"
+
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "Het achterste en smalste uiteinde van de Plejaden"
+
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "De kleine ster buiten de Plejaden, naar het noorden"
+
+msgid "The star under the right foot and the ankle"
+msgstr "De ster onder de rechtervoet en enkel"
+
+msgid "The most advanced of the three stars over the southern horn"
+msgstr "De voorste van de drie sterren boven de noordelijke hoorn"
+
+msgid "The northernmost of the two stars under the tip of the southern horn"
+msgstr ""
+"De noordelijkste van de twee sterren onder de punt van de zuidelijke hoorn"
+
+msgid "The most advanced of the next five stars under the northern horn"
+msgstr "De voorste van de volgende vijf sterren onder de noordelijke hoorn"
+
+msgid "The one to the rear again of the latter"
+msgstr "Die weer aan de achterkant van de laatste"
+
+msgid "The northernmost of the remaining, rearmost two"
+msgstr "De noordelijkste van de overgebleven, achterste twee"
+
+msgid "The southernmost of these two"
+msgstr "De zuidelijkste van deze twee"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The follower of Al-Thurayya"
+msgstr "De volger van Al-Thurayya"
+
+#. TRANSLATORS: Al-Mijdah is a proper name meaning the star of rain or the
+#. fork referring to the shape of the Hyades
+msgid "Al-Mijdah"
+msgstr "Al-Mijdah"
+
+msgid "The follower"
+msgstr "De volger"
+
+msgid "The special camel"
+msgstr "De speciale kameel"
+
+msgid "The star on the head of the advance twin"
+msgstr "De ster op de kop van de voorste tweeling"
+
+msgid "The reddish star on the head of the rear twin"
+msgstr "De roodachtige ster op de kop van de achterste tweeling"
+
+msgid "The star in the left forearm of the advance twin"
+msgstr "De ster op de rechter onderarm van de voorste tweeling"
+
+msgid "The star in the same [left] upper arm"
+msgstr "De ster op de zelfde [linker] bovenarm"
+
+msgid "The one to the rear of that, between the shoulders"
+msgstr "Die aan de achterkant van dat, tussen de schouders"
+
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr ""
+"Die aan de achterkant van dit, op de rechterschouders van de zelfde "
+"[voorste] tweeling"
+
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "De ster op de achterste schouder van de achterste tweeling"
+
+msgid "The star on the right side of the advance twin"
+msgstr "De ster op de rechter zijde van de voorste tweeling"
+
+msgid "The star on the left side of the rear twin"
+msgstr "De ster op de linker zijde van de achterste tweeling"
+
+msgid "The star on the left knee of the advance twin"
+msgstr "De ster op de linker knie van de voorste tweeling"
+
+msgid "The star in the left side of the rear twin"
+msgstr "De ster op de linker zijde van de achterste tweeling"
+
+msgid "The star over the left knee of the rear twin"
+msgstr "De ster boven de linker zijde van de achterste tweeling"
+
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr ""
+"De ster boven de bocht in de rechter knie van de zelfde [achterste] tweeling"
+
+msgid "The star in front of the left foot of the advance twin"
+msgstr "De ster voor de linkervoet van de voorste tweeling"
+
+msgid "The one to the rear of this on the same foot"
+msgstr "Die aan de achterkant van dit op de zelfde voet"
+
+msgid "The star on the right foot of the advance twin"
+msgstr "De ster op de rechtervoet van de voorste tweeling"
+
+msgid "The star on the left foot of the rear twin"
+msgstr "De ster op de linkervoet van de achterste tweeling"
+
+msgid "The star on the right foot of the rear twin"
+msgstr "De ster op de rechtervoet van de achterste tweeling"
+
+msgid "The star in advance of the one in front of the foot of the advance twin"
+msgstr "De ster voor die voor de voet van de voorste tweeling"
+
+msgid "The bright star in advance of the advance knee"
+msgstr "De heldere ster voor de voorste knie"
+
+msgid "The star in advance of the left knee of the rear twin"
+msgstr "De ster voor de linker knie van de achterste tweeling"
+
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+"De noordelijkste van de drie sterren in een rechte lijn naar de rechter arm "
+"van de achterste tweeling"
+
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr "De zuidelijkste van hen, naast de onderarm van de [rechter] arm"
+
+msgid "The bright star to the rear of the above-mentioned three"
+msgstr "De heldere ster achter de hier bovengenoemde drie"
+
+msgid ""
+"The northernmost of the two stars in advance of the quadrilateral containing "
+"the nebula"
+msgstr ""
+"De noordelijkste van de twee sterren voor de vierhoek met daarin de nevel"
+
+msgid "The southernmost of the two stars in advance"
+msgstr "De zuidelijkste van de twee sterren op de voorgrond"
+
+msgid ""
+"The northernmost of the rear two stars on the quadrilateral, which are "
+"called 'Aselli'"
+msgstr ""
+"De noordelijkste van de achterste twee sterren op de vierhoek, die 'Aselli' "
+"wordt genoemd"
+
+msgid "The star on the southern claw"
+msgstr "De ster op de zuidelijke klauw"
+
+msgid "The star on the northern claw"
+msgstr "De ster op de noordelijke klauw"
+
+msgid "The star on the northern back leg"
+msgstr "De ster op de noordelijke achterpoot"
+
+msgid "The star on the southern back leg"
+msgstr "De ster op de zuidelijke achterbeen"
+
+msgid "The star over the joint in the southern claw"
+msgstr "De ster boven het gewricht in de zuidelijke klauw"
+
+msgid "The star to the rear of the tip of the southern claw"
+msgstr "De ster op achterkant van het puntje van de zuidelijke klauw"
+
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr ""
+"De meer naar voren staande van de twee sterren boven de nevel en de "
+"achterkant van het"
+
+msgid "The rearmost of these [two]"
+msgstr "De achterste van deze [twee]"
+
+msgid "The star on the tip of the nostrils"
+msgstr "De ster op de punt van de neusgaten"
+
+msgid "The star in the gaping jaws"
+msgstr "De ster in de gapende kaken"
+
+msgid "The northernmost of the two stars in the head"
+msgstr "De noordelijkste van de twee sterren in de kop"
+
+msgid "The northernmost of the three stars in the neck"
+msgstr "De noordelijkste van de drie sterren in de nek"
+
+msgid "The one close to this, the middle one of the three"
+msgstr "Die hier dichtbij komt, de middelste van de drie"
+
+msgid "The star on the heart, called 'Regulus' and it is the lion heart"
+msgstr "De ster op het hart, genaamd 'Regulus' en het is het leeuwenhart"
+
+msgid "The one south of this, about on the chest"
+msgstr "Die ten zuiden van dit, ongeveer op de borst"
+
+msgid "The star a little in advance of the star on the heart"
+msgstr "De ster een beetje voor de ster op het hart"
+
+msgid "The star on the right front claw-clutch"
+msgstr "De ster aan de rechter voorste klauwgewricht"
+
+msgid "The star on the left front claw-clutch"
+msgstr "De ster op de linker voorste klauwgewricht"
+
+msgid "The star on the left [front] knee"
+msgstr "De ster op de linker [voorste] knie"
+
+msgid "The star on the left armpit"
+msgstr "De ster op de linker oksel"
+
+msgid "The most advanced of the three stars in the belly"
+msgstr "De voorste van de drie sterren in de buik"
+
+msgid "The northernmost of the other, rearmost two"
+msgstr "De noordelijkste van de anderen, achterste twee"
+
+msgid "The southernmost of these [two]"
+msgstr "De zuidelijkste van deze twee"
+
+msgid "The more advanced of the two stars on the rump"
+msgstr "De meer naar voren staande van de twee sterren in de romp"
+
+msgid "The northernmost of the two stars in the buttocks"
+msgstr "De noordelijkste van de twee sterren in de billen"
+
+msgid "The star in the hind thighs"
+msgstr "De ster op de achterdijen"
+
+msgid "The star in the hind leg-bends"
+msgstr "De ster op de achterpootbocht"
+
+msgid "The one south of this, about in the lower legs"
+msgstr "Die zuidelijk van dit, ongeveer in de achterpoten"
+
+msgid "The star on the hind claw-clutches"
+msgstr "De ster op de achterklauw gewricht"
+
+msgid "The star on the end of the tail"
+msgstr "De ster aan het eind van de staart"
+
+msgid "The more advanced of the two over the back"
+msgstr "De meer naar voren staande van de twee boven de rug"
+
+msgid "The northernmost of the three under the flank"
+msgstr "De noordelijkste van de drie onder de flank"
+
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+"De noordelijkste deel van de nevelmassa tussen de hoeken van Leo en de Grote "
+"[Beer], genaamd Coma [Berenices]"
+
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr "De voorste van de zuidelijke outrunners van Coma"
+
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "De achterste van hen, in de vorm van een klimopblad"
+
+msgid "Star of weather change"
+msgstr "De ster van de weersverandering"
+
+msgid "The southernmost of the two stars in the top of the skull"
+msgstr "De zuidelijkste van de twee sterren bovenaan de schedel"
+
+msgid "The northernmost of the two stars to the rear of these, in the face"
+msgstr "De noordelijkste van de twee sterren achter deze, in het gezicht"
+
+msgid "The star on the tip of the southern, left wing"
+msgstr "De ster in de punt van de zuidelijke, de linker vleugel"
+
+msgid "The most advanced of the four stars in the left wing"
+msgstr "De voorste van de drie sterren in de linkervleugel"
+
+msgid "The one to the rear again of this"
+msgstr "Die weer achter dit"
+
+msgid "The star in the right side under the girdle"
+msgstr "De ster aan de rechterzijde onder de gordel"
+
+msgid "The most advanced of the three stars in the right, northern wing"
+msgstr ""
+"De noordelijkste van de drie sterren in de rechter, noordelijke vleugel"
+
+msgid "The southernmost of the other two"
+msgstr "De zuidelijkste van de andere twee"
+
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr "De noordelijkste van deze, genaamd 'Vindemiatrix'"
+
+#. TRANSLATORS: The armless high one is the Arabic name for Spica
+msgid ""
+"The star on the left hand, called 'Spica', and it is The armless high one"
+msgstr "De ster op de linker hand, genaamd 'Spica', en het is de hoge arm loze"
+
+msgid "The star under the apron just about over the right buttock"
+msgstr "De ster onder het schort zo ongeveer over de rechterbil"
+
+msgid ""
+"The northern star on the advance side of the quadrilateral in the left thigh"
+msgstr ""
+"De noordelijke ster op de voorste zijde van het vierhoek in de linker dij"
+
+msgid "The southern star on the advance side"
+msgstr "De zuidelijke ster aan de voorzijde"
+
+msgid "The northernmost of the two stars on the rear side"
+msgstr "De noordelijkste van de twee sterren op de achterzijde"
+
+msgid "The star in the back of the right thigh"
+msgstr "De ster in de achterkant van de rechterdij"
+
+msgid "The middle star of the three in the garment-hem round the feet"
+msgstr ""
+"De middelste ster van de drie in de zoom van het kledingstuk rond de voeten"
+
+msgid "The star on the left, southern foot"
+msgstr "De ster op de linker, zuidelijke voet"
+
+msgid "The star on the right, northern foot"
+msgstr "De ster op de rechter, noordelijke voet"
+
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr "De voorste van de drie in een rechte lijn onder de linker onderarm"
+
+msgid ""
+"The most advanced of the three stars almost on a straight line under Spica"
+msgstr "De voorste van de drie sterren in een bijna rechte lijn onder Spica"
+
+msgid "The middle one of these, which is a double star"
+msgstr "De middelste van deze, wat een dubbele ster is"
+
+msgid "The brighter one of the two stars on the tip of the southern claw"
+msgstr "De helderste van de twee sterren op de punt van de zuidelijke klauw"
+
+msgid "The northern one and fainter of the two"
+msgstr "De noordelijke en zwakkere van de twee"
+
+msgid "The brighter one of the two stars on the tip of the northern claw"
+msgstr ""
+"De helderste van de twee sterren op het puntje van de noordelijke klauw"
+
+msgid "The advanced one and fainter of the two"
+msgstr "De voorste en zwakkere van de twee"
+
+msgid "The star in the middle of the southern claw"
+msgstr "De ster in het midden van de zuidelijke klauw"
+
+msgid "The one in advance of this on the same claw"
+msgstr "De voorste van dit op dezelde klauw"
+
+msgid "The star in the middle of the northern claw"
+msgstr "De ster in het midden van de noordelijke klauw"
+
+msgid "The one to the rear of this on the same claw"
+msgstr "Die achter dit op dezelfde klauw"
+
+msgid "The most advanced of the three stars north of the northern claw"
+msgstr ""
+"De noordelijkste van de drie sterren ten noorden van de noordelijke klauw"
+
+msgid "The southernmost of the rearmost two [of these]"
+msgstr "De zuidelijkste van de achterste twee [van deze]"
+
+msgid "The rearmost of the three stars between the claws"
+msgstr "De achterste van de drie sterren tussen de klauwen"
+
+msgid "The northernmost of the other two in advance [of the latter]"
+msgstr "De noordelijkste van de andere twee voor [de laatste]"
+
+msgid "The most advanced of the three stars south of the southern claw"
+msgstr "De voorste van de drie sterren ten zuiden van de zuidelijke klauw"
+
+msgid "The northernmost of the other, rear two"
+msgstr "De noordelijkste van de andere, achter twee"
+
+msgid "The northernmost of the three bright stars in the forehead"
+msgstr "De noordelijkste van de drie heldere sterren in het voorhoofd"
+
+msgid "The star south again of this, on one of the legs"
+msgstr "Die weer in het zuiden van dit, op een van de poten"
+
+msgid ""
+"The northernmost of the two stars adjacent to the northernmost of the three "
+"bright ones"
+msgstr ""
+"De noordelijkste van de twee sterren nabij de noordelijkste drie helderste"
+
+msgid "The most advanced of the three bright stars in the body"
+msgstr "De voorste van de drie heldere sterren in het lichaam"
+
+msgid ""
+"The middle one of these, which is reddish and called 'Heart of the scorpion'"
+msgstr ""
+"De middelste van deze, die roodachtig is en genaamd 'Hart van de schorpion'"
+
+msgid "The advance star of the two under these, approximately on the last legs"
+msgstr "De voorste ster van de twee onder deze, ongeveer op de laatste poten"
+
+msgid "The rearmost of these"
+msgstr "De achterste van deze"
+
+msgid "The star in the first tail-joint from the body"
+msgstr "De ster in het eerste staartgewricht van het lichaam"
+
+msgid "The one after this, in the second joint"
+msgstr "Die achter dit, in het tweede gewricht"
+
+msgid "The northern star of the double-star in the third joint"
+msgstr "De noordelijke ster van de dubbel ster in het derde gewricht"
+
+msgid "The southern star of the double-star"
+msgstr "De noordelijke ster van de dubbel ster"
+
+msgid "The one following, in the forth joint"
+msgstr "De volgende, in het vierde gewricht"
+
+msgid "The one after that, in the fifth joint"
+msgstr "Die achter dat, in het vijfde gewricht"
+
+msgid "The next one again, in the sixth joint"
+msgstr "De volgende weer, in het zesde gewricht"
+
+msgid "The star in the seventh joint, the joint next to the sting"
+msgstr "De ster in het zevende gewricht, het gewricht naast de angel"
+
+msgid "The rearmost of the two stars in the sting"
+msgstr "De achterste van de twee sterren in de angel"
+
+msgid "The nebulous star to the rear of the sting"
+msgstr "De nevelige ster aan de achterkant van de angel"
+
+msgid "The most advanced of the two stars to the north of the sting"
+msgstr "De voorste van de twee sterren ten noorden van de angel"
+
+msgid "The star on the point of the arrow"
+msgstr "De ster op de pijlpunt"
+
+msgid "The star in the bow-grip held by the left hand"
+msgstr "De ster in de booggreep vastgehouden door de linkerhand"
+
+msgid "The star in the southern portion of the bow"
+msgstr "De ster in het zuidelijke deel van de boeg"
+
+msgid "The southernmost of the two stars in the northern portion of the bow"
+msgstr ""
+"De zuidelijkste van de twee sterren in het noordelijke deel van de boog"
+
+msgid "The northernmost of these, on the tip of the bow"
+msgstr "De noordelijkste van deze, op de punt van de boog"
+
+msgid "The one in advance of this, on the arrow"
+msgstr "De voorste van dit, op de pijl"
+
+msgid "The star on the eye, which is nebulous and double"
+msgstr "De ster op het oog, die nevelig en dubbel is"
+
+msgid "The most advanced of the three stars in the head"
+msgstr "De voorste van de drie sterren in de kop"
+
+msgid "The southernmost of the three stars in the northern cloak-attachment"
+msgstr ""
+"De noordelijkste van de drie sterren in de noordelijke mantelbevestiging"
+
+msgid "The faint star to the rear of these three"
+msgstr "De zwakke ster achter deze drie"
+
+msgid "The northernmost of the two stars on the southern cloak-attachment"
+msgstr ""
+"De noordelijkste van de twee sterren op de zuidelijke mantelbevestiging"
+
+msgid "The one between the shoulders of the three stars in the back"
+msgstr "Die tussen de schouders van de drie sterren in de rug"
+
+msgid "The middle one, on the shoulder-blade"
+msgstr "De middelste op het schouderblad"
+
+msgid "The other one, under the armpit"
+msgstr "De andere, onder de oksel"
+
+msgid "The star on the front left hock"
+msgstr "De ster op de linker hakpees"
+
+msgid "The one on the knee of the same leg"
+msgstr "De ster op de knie van dezelfde been"
+
+msgid "The star on the front right hock"
+msgstr "De ster op de voorkant van de rechter hakpees"
+
+msgid "The star on the left thigh"
+msgstr "De ster op de linkerdij"
+
+msgid "The star on the right hind lower leg"
+msgstr "De ster op het rechter achter onderbeen"
+
+msgid ""
+"The advance star on the northern side of the four stars [forming a "
+"quadrilateral] in the place where the tail joins [the body]"
+msgstr ""
+"De voorste ster op de noordelijke zijde van de vier sterren [vormen een "
+"vierhoek] op de plek waar de staart samenkomt [het lichaam]"
+
+msgid "The rear star on the northern side"
+msgstr "De ster achter de noordelijke zijde"
+
+msgid "The advance star on the southern side"
+msgstr "De ster voor de zuidelijke zijde"
+
+msgid "The rear star on the southern side"
+msgstr "De ster achter de zuidelijke zijde"
+
+msgid "The northernmost of the three stars in the rear horn"
+msgstr "De noordelijkste van de drie sterren in de nek"
+
+msgid "The star on the tip of the advance horn"
+msgstr "De ster op het puntje van de voorste hoorn"
+
+msgid "The southernmost of the three stars in the muzzle"
+msgstr "De zuidelijkste van de drie sterren op het eind van de loop"
+
+msgid "The more advanced of the other two"
+msgstr "De meer naar voren staande van de andere twee"
+
+msgid "The star in advance of the three, under the right eye"
+msgstr "De ster voor de drie, onder het rechter oog"
+
+msgid "The northernmost of the two stars in the neck"
+msgstr "De noordelijkste van de drie sterren in de nek"
+
+msgid "The star under the right knee"
+msgstr "De ster onder de rechterknie"
+
+msgid "The star on the left, doubled-up knee"
+msgstr "De ster links, dubbelgevouwen knie"
+
+msgid "The more advanced of the two stars close together under the belly"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar onder de buik"
+
+msgid "The rearmost of the three stars in the middle of the body"
+msgstr "De achterste van de drie sterren in het midden van het lichaam"
+
+msgid "The fainter of the other, advance two"
+msgstr "De zwakkere van de andere, voorste twee"
+
+msgid "The more advanced of the two stars in the back"
+msgstr "De meer naar voren staande van de twee in de rug"
+
+msgid "The more advanced of the two stars in the southern spine"
+msgstr ""
+"De meer naar voren staande van de twee sterren in de zuidelijke wervelkolom"
+
+msgid ""
+"The more advanced of the two stars in the section [of the body] next to the "
+"tail"
+msgstr ""
+"De meer naar voren staande van de vier sterren in het gedeelte [van het "
+"lichaam] naast de staart"
+
+msgid "The most advanced of the four stars on the northern portion of the tail"
+msgstr "De voorste van de vier sterren op het noordelijke deel van de staart"
+
+msgid "The southernmost of the other three"
+msgstr "De zuidelijkste van de andere drie"
+
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "De noordelijkste van hen, op het eind van de staartvin"
+
+msgid "The sheep of the lucky star of the slaughterer"
+msgstr "Het schaap van de geluksster van de slager"
+
+msgid "The star on the head of Aquarius"
+msgstr "De ster op de kop vanf Aquarius"
+
+msgid "The brighter of the two stars in the right shoulder"
+msgstr "De helderste van de twee sterren in de rechterschouder"
+
+msgid "The fainter one, under it"
+msgstr "De zwakkere, eronder"
+
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr "Die onder dat, in de achtergrond, ongeveer onder de oksel"
+
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr "De achterste van de drie sterren in de linkerarm, op de jas"
+
+msgid "The star in the right forearm"
+msgstr "De ster op de rechter onderarm"
+
+msgid "The northernmost of the three stars on the right hand"
+msgstr "De noordelijkste van de drie sterren in de rechterhand"
+
+msgid "The more advanced of the other two to the south"
+msgstr "De meer naar voren staande van de andere twee in het zuiden"
+
+msgid ""
+"The more advanced of the two stars close together in the hollow of the right "
+"hip"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar in de holte "
+"van de rechterheup"
+
+msgid "The star on the right buttock"
+msgstr "De ster op de rechterbil"
+
+msgid "The southernmost of the two stars in the left buttock"
+msgstr "De zuidelijkste van de twee sterren in de linkerbil"
+
+msgid "The southernmost of the two stars in the right lower leg"
+msgstr "De noordelijkste van de twee sterren in het rechter onderbeen"
+
+msgid "The northernmost of them, under the knee-bend"
+msgstr "De noordelijkste van hen, onder de knie-buiging"
+
+msgid "The star in the back of the left thigh"
+msgstr "De ster in de achterkant van de linkerdij"
+
+msgid "The southernmost of the two stars in the left lower leg"
+msgstr "De zuidelijkste van de twee sterren in het linkeronderbeen"
+
+msgid "The northernmost of these, under the knee"
+msgstr "De noordelijkste van deze, onder de knie"
+
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr ""
+"De sterren op de stroom van water: de voorste [in de sectie] beginnend bij "
+"de hand"
+
+msgid "The one next to the latter towards the south"
+msgstr "Die naast de laatste naar het zuiden"
+
+msgid "The one next to this, after [the beginning of] the water bend"
+msgstr "Die naast dit, na [het begin van] de waterbocht"
+
+msgid "The one in the bend to the south of this"
+msgstr "Die in de bocht ten zuiden van dit"
+
+msgid "The northernmost of the two stars to the south of this"
+msgstr "De noordelijkste van de twee sterren ten zuiden van dit"
+
+msgid "The southernmost of the two"
+msgstr "De zuidelijkste van de twee"
+
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "De eenzame ster op enige afstand van deze [twee] naar het zuiden"
+
+msgid "The more advanced of the two stars close together after the latter"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar in de laatste"
+
+msgid "The northernmost of the three stars in the next bend group"
+msgstr "De noordelijkste van de drie sterren in de volgende bochten groep"
+
+msgid "The northernmost of the next three [arranged] likewise"
+msgstr "De noordelijkste van de volgende drie sterren [gerangschikt] eveneens"
+
+msgid "The most advanced of the three stars in the remaining bend group"
+msgstr "De voorste van de drie sterren in de overgebleven groep"
+
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr "De ster aan het eind van het water en op de mond van Piscis Austrinus"
+
+msgid ""
+"The most advanced of the three stars to the rear of the bend in the water"
+msgstr "De voorste van de drie sterren achter de bocht in het water"
+
+msgid "The first frog"
+msgstr "De eerste kikker"
+
+msgid "The male ostrich"
+msgstr "De manlijke struisvogel"
+
+msgid "The star in the mouth of the advance fish"
+msgstr "De ster in de mond van de voorste vis"
+
+msgid "The southernmost of the two stars in the top of its head"
+msgstr "De zuidelijkste van de twee sterren in de bovenkant van zijn hoofd"
+
+msgid "The more advanced of the two stars in the belly"
+msgstr "De meer naar voren staande van de twee sterren in de buik"
+
+msgid "The star in the tail of the same [advance] fish"
+msgstr "De ster in de staart van dezelfde [voorste] vis"
+
+msgid "The first after the tail of the stars forming its fishing-line"
+msgstr "De eerste na de staart van sterren die zijn vislijn vormen"
+
+msgid "The most advanced of the three following stars"
+msgstr "De voorste van de drie volgende sterren"
+
+msgid "The northernmost of the two small stars under these, in the bend"
+msgstr "De noordelijkste van de twee sterren onder deze, in de bocht"
+
+msgid "The most advanced of the three stars after the bend"
+msgstr "De voorste van de drie sterren na de bocht"
+
+msgid "The star on the knot joining the two fishing-lines"
+msgstr "De ster op de knoop die de twee vislijnen verbind"
+
+msgid ""
+"The first in the section beginning at the knot of the stars in the northern "
+"fishing-line"
+msgstr ""
+"De eerste in het deel dat begint bij de knoop van de sterren in de "
+"noordelijke vislijn"
+
+msgid "The southernmost of the three stars following after that"
+msgstr "De zuidelijkste van de drie sterren volgend na dit"
+
+msgid "The northernmost of the three, which is also on the end of the tail"
+msgstr "De noordelijkste van de drie, die ook aan het eind van de staart zit"
+
+msgid "The northernmost of the two stars in the mouth of the rear fish"
+msgstr "De noordelijkste van de twee sterren in de mond van de achterste vis"
+
+msgid "The rearmost of the three small stars in the head"
+msgstr "De achterste van de drie kleine sterren in de kop"
+
+msgid ""
+"The most advanced of the three stars on the spine in the back, following [i."
+"e. to the rear of] the star on the elbow of Andromeda"
+msgstr ""
+"De voorste van de drie sterren op de ruggengraat achterin, volgt [d.w.z. "
+"naar de achterkant van] de ster op de elleboog van Andromeda"
+
+msgid "The northernmost of the two stars in the belly"
+msgstr "De noordelijkste van de twee sterren in de buik"
+
+msgid "The star in the rear spine, near the tail"
+msgstr "De ster in de achterste ruggengraad, naast de staart"
+
+msgid ""
+"The more advanced of the two northern stars of the quadrilateral under the "
+"advance fish"
+msgstr ""
+"De meer naar voren staande van de twee noordelijke sterren van de vierhoek "
+"onder de voorste vis"
+
+msgid "The more advanced star on the southern side"
+msgstr "De meer naar voren staande ster op de zuidelijke zijde"
+
+msgid "The rearmost one on the southern side"
+msgstr "De achterste op de zuidelijke zijde"
+
+msgid "The rearmost, on the end of the jaw of the three stars in the snout"
+msgstr "De achterste, op het eind van de kaak van de drie sterren in de snuit"
+
+msgid "The middle one, in the middle of the mouth"
+msgstr "De middelste, in het midden van de mond"
+
+msgid "The most advanced of the three, on the cheek"
+msgstr "De voorste van de drie, op de wang"
+
+msgid "The star on the eyebrow and the eye"
+msgstr "De ster op de wenkbrauw en het oog"
+
+msgid "The one to the north of this, about on the hair"
+msgstr "Die ten noorden van dit, ongeveer op het haar"
+
+msgid "The one in advance of these, about on the mane"
+msgstr "De voorste van deze, ongeveer op de manen"
+
+msgid ""
+"The northernmost star on the advance side of the quadrilateral in the chest"
+msgstr "De noordelijke ster op de voorste zijde van het vierhoek in de borst"
+
+msgid "The southernmost one on the advance side"
+msgstr "De zuidelijkste aan de voorkant"
+
+msgid "The southernmost one on the rear side"
+msgstr "De zuidelijkste aan de achterkant"
+
+msgid "The midmost of the three stars in the body"
+msgstr "De middelste van de drie sterren in het lichaam"
+
+msgid "The rearmost of the two stars by the section next to the tail"
+msgstr "De achterste van de twee sterren in het deel naast de staart"
+
+msgid ""
+"The northernmost star on the rear side of the quadrilateral in the section "
+"next to the tail"
+msgstr ""
+"De noordelijke ster op de achterkant van het vierhoek in het deel naast de "
+"staart"
+
+msgid ""
+"The one on the northern tail-fin of the two stars at the ends of the tail-"
+"fins"
+msgstr ""
+"Die op de noordelijke staartvin van de twee sterren aan de einden van de "
+"staartvinnen"
+
+msgid "The one on the end of the southern tail-fin"
+msgstr "Die aan het eind van de zuidelijke staartvin"
+
+msgid "The second frog"
+msgstr "De tweede kikker"
+
+msgid "The nebulous star in the head of Orion, the three close stars"
+msgstr ""
+"De nevelige ster in de kop van Orion, de drie dicht bij elkaar staande "
+"sterren"
+
+msgid "The bright, reddish star on the right shoulder"
+msgstr "De heldere, roodachtige ster op de rechterschouder"
+
+msgid "The one under this to the rear"
+msgstr "Die onder dit naar achteren"
+
+msgid ""
+"The rear, double star on the southern side of the quadrilateral in the right "
+"hand"
+msgstr ""
+"De achterste dubbele ster aan de zuidkant van de vierhoek in de rechterhand"
+
+msgid "The rear one on the northern side"
+msgstr "De achterste op de noordelijke zijde"
+
+msgid "The advance one on the northern side"
+msgstr "De voorste op de noordelijke zijde"
+
+msgid "The more advanced of the two stars in the staff"
+msgstr "De meer naar voren staande van de twee sterren in de staf"
+
+msgid ""
+"The rearmost of the four stars almost on a straight line just over the back"
+msgstr ""
+"De achterste van de vier steren bijna in een rechte lijn net boven de rug"
+
+msgid "The one in advance again of this"
+msgstr "Die weer voor de dit"
+
+msgid "The last and most advanced of the four"
+msgstr "De laatste en de voorste van de vier"
+
+msgid "The northernmost of the nine stars in the pelt on the left arm"
+msgstr "De noordelijkste van de negen sterren in de huid van de linkerarm"
+
+msgid "The second from the northernmost"
+msgstr "De tweede van de noordelijkste"
+
+msgid "The third from the northernmost"
+msgstr "De derde van de noordelijkste"
+
+msgid "The fourth from the northernmost"
+msgstr "De vierde vanaf de meest noordelijke"
+
+msgid "The fifth from the northernmost"
+msgstr "De vijfde van de noordelijkste"
+
+msgid "The sixth from the northernmost"
+msgstr "De zesde van de noordelijkste"
+
+msgid "The seventh from the northernmost"
+msgstr "De zevende van de noordelijkste"
+
+msgid "The eighth from the northernmost"
+msgstr "De achtste van de noordelijkste"
+
+msgid "The last and southernmost of those in the pelt"
+msgstr "De laatste en zuidelijkste van die in de huid"
+
+msgid "The most advanced of the three stars on the belt"
+msgstr "De voorste van de drie sterren in de riem"
+
+msgid "The star near the handle of the dagger"
+msgstr "De ster naast het handvat van de dolk"
+
+msgid ""
+"The northernmost of the three stars joined together at the tip of the dagger"
+msgstr ""
+"De noordelijkste van de drie sterren die samen komen in de punt van de dolk"
+
+msgid "The rearmost of the two stars under the tip of the dagger"
+msgstr "De achterste van de twee sterren onder de punt van de dolk"
+
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr ""
+"De heldere ster in de linkervoet, die [algemeen toegepast] wordt in het "
+"water [van Eridanus]"
+
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr ""
+"De ster in het noorden van het in het onderbeen, boven het enkelgewricht"
+
+msgid "The star under the left heel, outside"
+msgstr "De ster onder de linkerhiel, buitenkant"
+
+msgid "The star under the right, rear knee"
+msgstr "De ster onder de rechter, achter knie"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shoulder of Al-Jawza"
+msgstr "Schouder van Al-Jawza"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Hand of Al-Jawza"
+msgstr "Hand van Al-Jawza"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shepherd of Al-Jawza"
+msgstr "Herder van Al-Jawza"
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr "Al-Najidh"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+#. TRANSLATORS: Al-Mirzam is a proper name
+msgid "Al-Mirzam"
+msgstr "Al-Mirzam"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Leg of Al-Jawza"
+msgstr "Been van Al-Jawza"
+
+msgid ""
+"The star after the one in the foot of Orion, at the beginning of the river"
+msgstr "De ster na die in de voet van Orion, aan het begin van de rivier"
+
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr "Die ten noorden van dit, in de bocht bij het scheenbeen van Orion"
+
+msgid "The rearmost of the two stars next in order after this"
+msgstr "De achterste van de twee sterren naast in volgorde na dit"
+
+msgid "The rearmost of the next two in order again"
+msgstr "De achterste van de volgende twee weer in volgorde"
+
+msgid "The rearmost of the three stars after this"
+msgstr "De achterste van de drie sterren na dit"
+
+msgid "The rearmost of the four stars in the next interval"
+msgstr "De achterste van de vier sterren in het volgende interval"
+
+msgid "The most advanced of the four"
+msgstr "De meest voorste van de vier"
+
+msgid "The rearmost of the four stars in the next likewise interval again"
+msgstr "De achterste van de vier sterren weer in de zelfde interval"
+
+msgid ""
+"The first star in the bend of the river, which touches the chest of Cetus"
+msgstr "De eerste ster in de bocht van de rivier, die de borst van Cetus raakt"
+
+msgid "The most advanced of the next consecutive three"
+msgstr "De meest voorste van de volgende opeenvolgende drie"
+
+msgid ""
+"The northern one on the advance side of the next four stars, nearly forming "
+"a trapezium"
+msgstr ""
+"De noordelijke aan de voorkant van de volgende vier sterren, bijna een "
+"trapezium vormend"
+
+msgid "The southernmost on the advance side"
+msgstr "De zuidelijkste aan de voorkant"
+
+msgid "The more advanced one on the rear side"
+msgstr "Die meer naar voren staat op de zuidelijke zijde"
+
+msgid "The last of the four, the rear one on that side"
+msgstr "De laatste van de vier, de achterste aan die zijde"
+
+msgid ""
+"The northernmost of the two stars close together at some distance to the east"
+msgstr ""
+"De noordelijkste van de twee sterren dicht bij elkaar op enige afstand naar "
+"het oosten"
+
+msgid "The rearmost of the next two stars after the bend"
+msgstr "De achterste van de twee sterren na de bocht"
+
+msgid "The rearmost of the three stars in the next interval"
+msgstr "De achterste van de drie sterren in de volgende interval"
+
+msgid "The last star of the river, the bright one, called 'The male ostrich'"
+msgstr ""
+"De laatste ster van de rivier, de heldere, genaamd 'De manlijke struisvogel'"
+
+msgid ""
+"The northern star on the advance side of the quadrilateral just over the ears"
+msgstr "De noordelijke ster aan de voorkant van de vierhoek net boven de oren"
+
+msgid "The northern star on the rear side"
+msgstr "De noordelijke ster aan de achterkant"
+
+msgid "The southern star on the rear side"
+msgstr "De zuidelijke ster aan de achterkant"
+
+msgid "The star in the chin"
+msgstr "De ster op de kin"
+
+msgid "The star on the left front foot"
+msgstr "De ster op de linker voorvoet"
+
+msgid "The star in the middle of the body"
+msgstr "De ster in het midden van het lichaam"
+
+msgid "The star under the belly"
+msgstr "De ster onder de buik"
+
+msgid "The northernmost of the two stars in the hind legs"
+msgstr "De noordelijkste van de twee sterren in de achterpoten"
+
+msgid "CMa_1"
+msgstr "CMa_1"
+
+msgid "CMa_2"
+msgstr "CMa_2"
+
+msgid "CMa_3"
+msgstr "CMa_3"
+
+msgid "CMa_4"
+msgstr "CMa_4"
+
+msgid "CMa_5"
+msgstr "CMa_5"
+
+msgid "CMa_6"
+msgstr "CMa_6"
+
+msgid "CMa_7"
+msgstr "CMa_7"
+
+msgid "CMa_8"
+msgstr "CMa_8"
+
+msgid "CMa_9"
+msgstr "CMa_9"
+
+msgid "CMa_10"
+msgstr "CMa_10"
+
+msgid "CMa_11"
+msgstr "CMa_11"
+
+msgid "CMa_12"
+msgstr "CMa_12"
+
+msgid "CMa_13"
+msgstr "CMa_13"
+
+msgid "CMa_14"
+msgstr "CMa_14"
+
+msgid "CMa_15"
+msgstr "CMa_15"
+
+msgid "CMa_16"
+msgstr "CMa_16"
+
+msgid "CMa_17"
+msgstr "CMa_17"
+
+msgid "CMa_18"
+msgstr "CMa_18"
+
+msgid "CMa_a_01"
+msgstr "CMa_a_01"
+
+msgid "CMa_a_02"
+msgstr "CMa_a_02"
+
+msgid "CMa_a_03"
+msgstr "CMa_a_03"
+
+msgid "CMa_a_04"
+msgstr "CMa_a_04"
+
+msgid "CMa_a_05"
+msgstr "CMa_a_05"
+
+msgid "CMa_a_06"
+msgstr "CMa_a_06"
+
+msgid "CMa_a_07"
+msgstr "CMa_a_07"
+
+msgid "CMa_a_08"
+msgstr "CMa_a_08"
+
+msgid "CMa_a_09"
+msgstr "CMa_a_09"
+
+msgid "CMa_a_10"
+msgstr "CMa_a_10"
+
+msgid "CMa_a_11"
+msgstr "CMa_a_11"
+
+#. TRANSLATORS: Shi'raa is the Arabic proper name of Sirius
+msgid ""
+"The star in the mouth, with utmost brightness, which is called 'the Dog' and "
+"'Southern or crossing Shi'raa'"
+msgstr ""
+"De ster in de mond, met de grootste helderheid, die genaamd is 'de Hond' en "
+"'Zuidelijke of kruising Shi'raa'"
+
+msgid "The star on the ears"
+msgstr "De ster op de oren"
+
+msgid "The star on the chest"
+msgstr "De ster op de borst"
+
+msgid "The northernmost of the two stars on the right knee"
+msgstr "De noordelijkste van de twee sterren op de rechter knie"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+msgid "The star on the end of the front leg, called 'Al-Mirzam'"
+msgstr "De ster op het eind van de voorpoot, genaamd 'Al-Mirzam'"
+
+msgid "The more advanced of the two stars in the left knee"
+msgstr "De meer voorste van de twee sterren in de linkerknie"
+
+msgid "The rearmost of the two stars in the left shoulder"
+msgstr "De achterste van de twee sterren in de linker schouder"
+
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr "De ster op de plek waar de linkerdij dicht aansluit op [de bil]"
+
+msgid "The star below the belly, in the place between the thighs"
+msgstr "De ster onder de buik, op de plek tussen de dijen"
+
+msgid "The star on the joint of the right leg"
+msgstr "De ster op de samenkomst van de rechterpoot"
+
+msgid "The star on the end of the right leg"
+msgstr "De ster op het einde van de rechterpoot"
+
+msgid "The star on the tail"
+msgstr "De ster in de staart"
+
+msgid "The star to the north of the top of the dog skull"
+msgstr "De ster ten noorden van de top van de hondenschedel"
+
+msgid ""
+"The southernmost of the four stars almost on a straight line under the hind "
+"legs"
+msgstr ""
+"De zuidelijkste van de vier sterren bijna in een rechte lijn onder de "
+"achterpoten"
+
+msgid "The one north of this"
+msgstr "Die ten noorden hiervan"
+
+msgid "The last and northernmost of the four"
+msgstr "De laatste en noordelijkste van de vier"
+
+msgid ""
+"The most advanced of the three stars almost on a straight line to the west "
+"of the [above] four"
+msgstr ""
+"De voorste van de drie sterren bijna in een rechte lijn ten westen van de "
+"[boven] vier"
+
+msgid "The rearmost of the two bright stars under these"
+msgstr "De achterste van de twee heldere sterren onder deze"
+
+msgid "The last star, to the south of the above"
+msgstr "De laatste ster, ten zuiden van de bovenstaande"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa that crossed [the milky way]"
+msgstr "De Mirzam van de Shi'raa dat [de Melkweg] kruist"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa"
+msgstr "De Mirzam van de Shi'raa"
+
+msgid "The dog"
+msgstr "De hond"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder.
+msgid "The star in the neck, called Al-Mirzam"
+msgstr "De ster in de nek, genaamd 'Al-Mirzam'"
+
+#. TRANSLATORS: The northern Shi'raa or tearfull Shi'raa is a proper arabic
+#. name for Procyon.
+msgid ""
+"The bright star just over the hindquarters, called 'The northern or tearfull "
+"Shi'raa'"
+msgstr ""
+"De heldere ster net boven de achterhand, genaamd 'De noordelijke of "
+"verdrietige Shi'raa'"
+
+msgid "The more advanced of the two stars at the end of the ship"
+msgstr ""
+"De meer naar voren staande van de twee sterren aan het eind van het schip"
+
+msgid ""
+"The northernmost of the two stars close together over the little shield in "
+"the poop"
+msgstr ""
+"De noordelijkste van de twee sterren dicht bij elkaar boven het kleine "
+"schild op het achterdek"
+
+msgid "The star in advance of these"
+msgstr "De ster voor deze"
+
+msgid "The bright star in the middle of the little shield"
+msgstr "De heldere ster in het midden van het kleine schild"
+
+msgid "The most advanced of the three stars under the little shield"
+msgstr "De voorste van de drie sterren onder het kleine schild"
+
+msgid "The star on the stern neck"
+msgstr "De ster op de achtersteven nek"
+
+msgid ""
+"The northernmost of the two stars in the sternpost on which are the two "
+"stern cabins"
+msgstr ""
+"De noordelijkste van twee steren in de achterstevenpost waarop zich de twee "
+"achterstevencabines bevinden"
+
+msgid "The northernmost of the stars in the poop-deck"
+msgstr "De noordelijkste van de sterren in het achterdek"
+
+msgid "The most advanced of the next three"
+msgstr "De voorste van de volgende drie"
+
+msgid "The bright star on the deck to the rear of these"
+msgstr "De heldere ster op het dek aan de achterkant van deze"
+
+msgid "The more advanced of the two faint stars under the bright one"
+msgstr "De voorste van de twee zwakkere sterren onder de heldere"
+
+msgid "The more advanced of the two stars over the above-mentioned bright one"
+msgstr "De voorste van de twee zwakkere sterren boven de bovengenoemde heldere"
+
+msgid ""
+"The northernmost of the three stars on the little shields, about on the mast-"
+"holder"
+msgstr ""
+"De noordelijkste van drie steren op het kleine op de schilden, ongeveer op "
+"de masthouder"
+
+msgid "The northernmost of the two stars close together under these"
+msgstr "De noordelijkste van de twee sterren dicht bij elkaar onder deze"
+
+msgid "The southernmost of the two stars in the middle of the mast"
+msgstr "De zuidelijkste van de twee sterren midden op de mast"
+
+msgid "The more advanced of the two stars by the tip of the mast"
+msgstr "De voorste van de twee sterren bij de top van de mast"
+
+msgid "The star below the three rear little shield"
+msgstr "De ster onder de drie kleine achter het kleine schild"
+
+msgid "The star on the cut-off of the deck"
+msgstr "De ster op de afsnijding van het dek"
+
+msgid "The star between the steering-oars in the keel"
+msgstr "De ster tussen de stuurriemen in de kiel"
+
+msgid "The faint star to the rear of this"
+msgstr "De zwakke ster achter dit"
+
+msgid "The bright star to the rear of this, under the deck"
+msgstr "De heldere ster achter dit, onder het dek"
+
+msgid "The bright star to the south of this, on the sternpost"
+msgstr "De heldere ster ten zuiden van dit, op de stuurstand"
+
+msgid "The most advanced of the three stars to the rear of this"
+msgstr "De voorste van de drie sterren aan de achter dit"
+
+msgid ""
+"The more advanced of the two stars to the rear of these, near the cut-off of "
+"the deck"
+msgstr ""
+"De meer naar voren staande van de twee sterren achter deze, nabij de "
+"afsnijding van het dek"
+
+msgid ""
+"The more advanced of the two stars in the northern, advance steering-oar"
+msgstr ""
+"De meer naar voren staande van de twee sterren in het noordelijke, voorste "
+"stuurriem"
+
+#. TRANSLATORS: Suhayl is the Arabic proper name of Canopus
+msgid ""
+"The more advanced of the two stars in the other steering-oar, called "
+"Canopus, and it is Suhayl"
+msgstr ""
+"De meer naar voren staande van de twee sterren in de andere stuurriem, "
+"genaamd Caopus en het is Suhyl"
+
+msgid "The other, rearmost star"
+msgstr "DE andere, achterste ster"
+
+msgid ""
+"The southernmost of the two advance ones, which is on the nostrils of the "
+"five stars in the head"
+msgstr ""
+"De zuidelijkste van de twee voorste, die zich in de neusgaten van de vijf "
+"sterren in de kop bevind"
+
+msgid "The northernmost of these two, which is above the eye"
+msgstr "De noordelijkste van deze twee, die zich boven het oog bevindt"
+
+msgid ""
+"The northernmost of the two to the rear of these, which is about on the skull"
+msgstr ""
+"De noordelijkste van de twee aan de achterkant van deze, die ongeveer op de "
+"schedel"
+
+msgid "The southernmost of them, on the gaping jaws"
+msgstr "De zuidelijkste van hen, op de gapende kaken"
+
+msgid "The rearmost of all, about on the chin"
+msgstr "De achterste van allen, ongeveer op de kin"
+
+msgid ""
+"The more advanced of the two stars in the place where the neck joins [the "
+"head]"
+msgstr ""
+"De meer naar voren staande van de twee sterren op de plek waar de nek "
+"samenkomt bij [de kop]"
+
+msgid "The middle star of the following three in the bend of the neck"
+msgstr "De middelste ster van de volgende drie in de bocht van de nek"
+
+msgid "The faint, northernmost star of the two close together to the south"
+msgstr ""
+"De zwakke, noordelijkste ster van de twee dicht bij elkaar in het zuiden"
+
+#. TRANSLATORS: Al-Fard is a proper name meaning the lone star
+msgid "The bright one of these two close stars, called Al-Fard"
+msgstr ""
+"De heldere van deze twee dicht bij elkaar staande sterren, genaamd Al-Fard"
+
+msgid ""
+"The most advanced of the three stars to the rear, after the bend [in the "
+"neck]"
+msgstr ""
+"De meest voorste van de drie sterren aan de achterkant, na de bocht [in de "
+"nek]"
+
+msgid "The most advanced of the next three stars almost on a straight line"
+msgstr "De meest voorste van de volgende drie sterren bijna op een rechte lijn"
+
+msgid ""
+"The northernmost of the two stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr ""
+"De noordelijkste van de twee na [d.w.z. de achterkant van] de basis van "
+"Crater"
+
+msgid ""
+"The most advanced of the three stars after these, as it were in a triangle"
+msgstr "De voorste van de drie sterren na deze, als het waren in een driehoek"
+
+msgid "The middle and southernmost one"
+msgstr "De middelste en zuidelijkste"
+
+msgid "The star after Corvus, in the section by the tail"
+msgstr "De ster nar Corvus, in het deel bij de staart"
+
+msgid "The star to the south of the head"
+msgstr "De heldere ster ten zuiden van de kop"
+
+msgid "The star some distance to the rear of those in the neck"
+msgstr "De ster op enige afstand van de achterkant van die in de nek"
+
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr ""
+"De ster in de bodem van de schaal, die gemeenschappelijk [wordt toegepast] "
+"op Hydra"
+
+msgid "The southernmost of the two stars in the middle of the bowl"
+msgstr "De zuidelijkste van de twee sterren in het midden van de schaal"
+
+msgid "The star on the southern rim of the mouth"
+msgstr "De ster op de zuidelijke rand van de mond"
+
+msgid "The star on the northern rim"
+msgstr "De ster op de noordelijke rand"
+
+msgid "The star on the southern handle"
+msgstr "De ster op het zuidelijke handvat"
+
+msgid "The star on the northern handle"
+msgstr "De ster op het noordelijke handvat"
+
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr "De ster in de snavel, die gemeenschappelijk [wordt toegepast] op Hydra"
+
+msgid "The star in the neck, by the head"
+msgstr "De ster in de nek, bij de kop"
+
+msgid "The star in the advance, right wing"
+msgstr "De ster in de voorgrond, rechtervleugel"
+
+msgid "The more advanced of the two stars in the rear wing"
+msgstr "De meer naar voren staande van de twee sterren in de achtervleugel"
+
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr ""
+"De ster op het eind van de poot, die gemeenschappelijk [wordt toegepast] op "
+"Hydra"
+
+msgid "The southernmost of the four stars in the head"
+msgstr "De zuidelijkste van de vier sterren in het hoofd"
+
+msgid "The more advanced of the other, middle two"
+msgstr "De meer naar voren staande van de andere, middelste twee"
+
+msgid "The rearmost of these, the last of the four"
+msgstr "De achterste van deze, de laatste en de vier"
+
+msgid "The star on the left, advance shoulder"
+msgstr "De ster op de linker, voorste schouder"
+
+msgid "The star on the left shoulder-blade"
+msgstr "De ster op het linkerschouderblad"
+
+msgid "The northernmost of the advance two of the four stars in the thyrsus"
+msgstr "De noordelijkste van de twee voorste van de vier sterren in de thyrsus"
+
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr "Die van de andere twee die zich op de punt van de thyrsus bevind"
+
+msgid "The last one, south of the latter"
+msgstr "De laatste, ten zuiden van de laatste"
+
+msgid "The most advanced of the three stars in the right side"
+msgstr "De voorste van de drie sterren in de rechterzijde"
+
+msgid "The star in the right hand"
+msgstr "De ster in de rechterhand"
+
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr ""
+"De heldere ster op de plek waar het menselijk lichaam samenkomt [met dat van "
+"het paard]"
+
+msgid "The rearmost of the two faint stars to the north of this"
+msgstr "De achterste van de twee zwakke sterren in het noorden van dit"
+
+msgid "The star in advance of this, on the horse's back"
+msgstr "De ster voor dit, op de paardenrug"
+
+msgid "The rearmost of the stars on the rump"
+msgstr "De achterste van de sterren op de romp"
+
+msgid "The more advanced of the two stars close together on the right thigh"
+msgstr ""
+"De meer naar voren staande van de twee sterren dicht bij elkaar in de "
+"rechterdij"
+
+msgid "The star in the chest, under the horse's armpit"
+msgstr "De ster in de borst, onder de oksel van het paard"
+
+msgid "The more advanced of the two stars under the belly"
+msgstr "De meer naar voren staande van de twee sterren onder de buik"
+
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr "De ster op de kniebocht van het rechter [achter]been"
+
+msgid "The star in the hock of the same leg"
+msgstr "De ster in de hakpees van dezelfde been"
+
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr "De ster op de kniebocht van het linker [achter]been"
+
+msgid "The star on the frog of the hoof on the same leg"
+msgstr "De ster op de frog van de hoef van hetzelfde been"
+
+msgid "The star on the end of the right front leg"
+msgstr "De ster op het einde van het rechterbeen"
+
+msgid "The star on the knee of the left [front] leg"
+msgstr "De ster op de knie van het linker [voor]been"
+
+msgid "The star outside, under the right hind leg"
+msgstr "De ster buiten, onder het linker achterbeen"
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr "Al-Wazn"
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr "Hadari"
+
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr ""
+"De ster op het eind van de achterpoot, bij de [rechter] hand van Centaurus"
+
+msgid "The star on the bend in the same leg"
+msgstr "De ster in de plooi van hetzelfde been"
+
+msgid "The more advanced of the two stars just over the shoulder-blade"
+msgstr ""
+"De meer naar voren staande van de twee sterren net boven het schouderblad"
+
+msgid "The star in the middle of the body of Lupus"
+msgstr "De ster in het midden van het lichaam van Lupus"
+
+msgid "The star in the belly, under the flank"
+msgstr "De ster in de buik, onder de flank"
+
+msgid "The star on the thigh"
+msgstr "De ster op de heup"
+
+msgid ""
+"The northernmost of the two stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+"De noordelijkste van de twee sterren naast de plek waar de dij samenkomt met "
+"[het lichaam]"
+
+msgid "The star on the end of the rump"
+msgstr "De ster op het eind van de romp"
+
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr "De zuidelijkste van de 3 sterren aan het eind van de staart"
+
+msgid "The southernmost of the two stars in the neck"
+msgstr "De zuidelijkste van de 2 sterren in de nek"
+
+msgid "The more advanced of the two stars in the snout"
+msgstr "De meer naar voren staande van de twee sterren in de snuit"
+
+msgid "The southernmost of the two stars in the front leg, on the hand"
+msgstr "De zuidelijkste van de twee sterren in het voorbeen, op de hand"
+
+msgid "The northernmost of the two stars in the base"
+msgstr "De noordelijkste van de twee sterren in de basis"
+
+msgid "The star in the middle of the little altar"
+msgstr "De ster in het midden van het kleine altaar"
+
+msgid "The northernmost of the three stars in the brazier"
+msgstr "De noordelijkste van de drie sterren in de koperslager"
+
+msgid "The southernmost of the other two which are close together"
+msgstr "De zuidelijkste van de andere twee dicht bij elkaar"
+
+msgid "The northernmost of these two"
+msgstr "De noordelijkste van deze twee"
+
+msgid "The star on the end of the burning-apparatus"
+msgstr "De ster aan het eind van het verbrandingsapparaat"
+
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr "De voorste van de sterren op zuidelijke rand, buiten [de kroon]"
+
+msgid "The star to the rear of this on the crown"
+msgstr "De ster achter dit op de kroon"
+
+msgid "The one after this, before the knee of Sagittarius"
+msgstr "Die na dit, voor de knie van Sagittarius"
+
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius]"
+msgstr ""
+"Die na dit, wat ten noorden is van de heldere ster in de knie [van "
+"Sagittarius]"
+
+msgid "The star to the north of this"
+msgstr "De ster ten noorden van dit"
+
+msgid "The one to the north again of this"
+msgstr "Die weer ten noorden van dit"
+
+msgid ""
+"The rearmost of the two stars after this, in advance, in the northern rim"
+msgstr ""
+"De achterste van de twee sterren na dit, op afstand, in de noordelijke rand"
+
+msgid "The more advanced of these two faint stars"
+msgstr "De meer naar voren staande van deze twee zwakke sterren"
+
+msgid "The star quite some distance in advance of this"
+msgstr "De ster op behoorlijke afstand van dit"
+
+msgid "The last one, which is south of the aforementioned star"
+msgstr "De laatste, die zuidelijk van de voornoemde ster"
+
+msgid "The most advanced of the three stars on the southern rim of the head"
+msgstr "De voorste van de drie sterren op de zuidelijke rand van de kop"
+
+msgid "The star by the gills"
+msgstr "De ster bij de kieuwen"
+
+msgid "The star on the southernmost spine on the back"
+msgstr "De ster op de zuidelijkste ruggengraad op de rug"
+
+msgid "The rearmost of the two stars in the belly"
+msgstr "De achterste van de twee sterren in de buik"
+
+msgid "The rearmost of the three stars on the northern spine"
+msgstr "De achterste van de drie sterren op de noordelijke ruggengraad"
+
+msgid "Tassel of the lion"
+msgstr "Kwast van de leeuw"
+
+msgid "The nebulous mass on the right hand"
+msgstr "De nevelige massa op de rechter hand"
+
+msgid "wrist of Al-Thurayya"
+msgstr "pols van Al-Thurayya"
+
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "De ster op de plaats waar de rug samenkomt [het paardenlijf]"
+
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "Het midden van de nevelige massa in de borst, genaamd Praesepe"
+
+msgid "Nose tip of the lion"
+msgstr "Neuspunt van de leeuw"

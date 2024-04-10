@@ -1,0 +1,2844 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Gediminas Tauras, 2024\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Arabic (Al-Sufi)"
+msgstr "Arabų (Al-Sufi)"
+
+msgid "The spear"
+msgstr "Ietis"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Al-Turaja"
+
+msgid "Ursa Minor"
+msgstr "Mažieji Grįžulo Ratai"
+
+msgid "Ursa Major"
+msgstr "Didieji Grįžulo Ratai"
+
+msgid "Draco"
+msgstr "Slibinas"
+
+msgid "Cepheus"
+msgstr "Cefėjas"
+
+msgid "Bootes"
+msgstr "Jaučiaganis"
+
+msgid "Corona Borealis"
+msgstr "Šiaurės Vainikas"
+
+msgid "Hercules"
+msgstr "Heraklis"
+
+msgid "Lyra"
+msgstr "Lyra"
+
+msgid "Cygnus"
+msgstr "Gulbė"
+
+msgid "Cassiopeia"
+msgstr "Kasiopėja"
+
+msgid "Perseus"
+msgstr "Persėjas"
+
+msgid "Auriga"
+msgstr "Vežėjas"
+
+msgid "Ophiuchus"
+msgstr "Gyvatnešis"
+
+msgid "Serpens"
+msgstr "Gyvatė"
+
+msgid "Sagitta"
+msgstr "Strėlė"
+
+msgid "Aquila"
+msgstr "Erelis"
+
+msgid "Delphinus"
+msgstr "Delfinas"
+
+msgid "Equuleus"
+msgstr "Žirgelis"
+
+msgid "Pegasus"
+msgstr "Pegasas"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Trikampis"
+
+msgid "Aries"
+msgstr "Avinas"
+
+msgid "Taurus"
+msgstr "Jautis"
+
+msgid "Gemini"
+msgstr "Dvyniai"
+
+msgid "Cancer"
+msgstr "Vėžys"
+
+msgid "Leo"
+msgstr "Liūtas"
+
+msgid "Virgo"
+msgstr "Mergelė"
+
+msgid "Libra"
+msgstr "Svarstyklės"
+
+msgid "Scorpius"
+msgstr "Skorpionas"
+
+msgid "Sagittarius"
+msgstr "Šaulys"
+
+msgid "Capricornus"
+msgstr "Ožiaragis"
+
+msgid "Aquarius"
+msgstr "Vandenis"
+
+msgid "Pisces"
+msgstr "Žuvys"
+
+msgid "Cetus"
+msgstr "Banginis"
+
+msgid "Orion"
+msgstr "Orionas / Šienpjoviai"
+
+msgid "Eridanus"
+msgstr "Eridanas"
+
+msgid "Lepus"
+msgstr "Kiškis"
+
+msgid "Canis Major"
+msgstr "Didysis Šuo"
+
+msgid "Canis Minor"
+msgstr "Mažasis Šuo"
+
+msgid "Argo Navis"
+msgstr ""
+
+msgid "Hydra"
+msgstr "Hidra"
+
+msgid "Crater"
+msgstr "Taurė"
+
+msgid "Corvus"
+msgstr "Varnas"
+
+msgid "Centaurus"
+msgstr "Kentauras"
+
+msgid "Lupus"
+msgstr "Vilkas"
+
+msgid "Ara"
+msgstr "Aukuras"
+
+msgid "Corona Australis"
+msgstr "Pietinis Vainikas"
+
+msgid "Piscis Austrinus"
+msgstr "Pietinė Žuvis"
+
+msgid "The Horse"
+msgstr "Arklys"
+
+msgid "The great fish"
+msgstr "Didžioji žuvis"
+
+msgid "The other fish"
+msgstr "Kita žuvis"
+
+#. TRANSLATORS: The Kid (Baby male goat) is the name of Polaris in Arabic.
+msgid "The star on the end of the tail: it is the Kid"
+msgstr "  Žvaigždė uodegos gale: tai yra vaikas"
+
+msgid "The one next to it on the tail"
+msgstr "Viena šalia jos, uodegoje"
+
+msgid "The one next to that, before the place where the tail joins [the body]"
+msgstr "Viena šalia tos prieš vietą, kur uodega prisijungia [prie kūno]"
+
+msgid "The southernmost of the stars in the advance side of the rectangle"
+msgstr "Piečiausia žvaigždė iš išsikišusios stačiakampio pusės."
+
+msgid "The northernmost of [those in] the same side"
+msgstr "Šiauriausioji iš [esančių viduje] tos pačios pusės"
+
+msgid "The southern star in the rear side: The brighter of the two calves"
+msgstr ""
+
+msgid "The northern one in the same side: The dimmer of the two calves"
+msgstr ""
+
+msgid ""
+"The star lying on a straight line with the stars in the rear side [of the "
+"rectangle] and south of them"
+msgstr ""
+
+msgid "The star on the end of the snout"
+msgstr "Žvaigždė snukio gale"
+
+msgid "The more advanced of the stars in the two eyes"
+msgstr ""
+
+msgid "The one to the rear"
+msgstr ""
+
+msgid "The more advanced of the two stars in the forehead"
+msgstr ""
+
+msgid "The star on the tip of the advance ear"
+msgstr ""
+
+msgid "The more advanced of the two stars in the neck"
+msgstr ""
+
+msgid ""
+"The one to the rear, there is an error in either the longitude or latitude"
+msgstr ""
+
+msgid "The northernmost of the two stars in the chest"
+msgstr "Šiauriausia iš dviejų žvaigždžių krūtinėje"
+
+msgid "The southernmost of them"
+msgstr "Piečiausia iš jų"
+
+msgid "The star on the left knee"
+msgstr "Kairiąjame kelyje esanti žvaigždė."
+
+msgid ""
+"The northernmost of the [two] in the front left paw: Leap [of the gazelle]"
+msgstr ""
+"Šiauriausioji iš [dviejų] priekinėje kairėje letenoje: Šuolis [gazelės]"
+
+msgid "The southernmost of them: Leap [of the gazelle]"
+msgstr "Piečiausioji iš jų: Šuolis [gazelės]"
+
+msgid "The star above the right knee"
+msgstr "Žvaigždė virš dešinio kelio"
+
+msgid "The star below the right knee"
+msgstr "Žvaigždė žemiau dešinio kelio"
+
+msgid "The stars in the quadrilateral: the one on the back"
+msgstr ""
+
+msgid "The one on the pelvis"
+msgstr "Dubenyje"
+
+msgid "The one on the place where the tail joins [the body]"
+msgstr "Vietoje, kur uodega jungiasi [su kūnu]"
+
+msgid "The remaining one, on the left hind thigh"
+msgstr ""
+
+msgid "The more advanced of the [two stars] in the left hind paw"
+msgstr ""
+
+msgid "The one to the rear of it"
+msgstr ""
+
+msgid "The star on the left knee-bend"
+msgstr ""
+
+msgid "The northernmost of the [two stars] in the right hind paw"
+msgstr "Šiauriausia iš [dviejų žvaigždžių] dešinėje užpakalinėje letenoje"
+
+msgid ""
+"The first of the three stars on the tail next to the place where it joins "
+"[the body]"
+msgstr ""
+"Pirmoji iš trijų žvaigždžių uodegoje šalia vietos, kur ji jungiasi [prie "
+"kūno]"
+
+msgid "The middle one"
+msgstr "Vidurinioji"
+
+msgid "The third, on the end of the tail"
+msgstr "Trečioji, uodegos gale"
+
+msgid "The star under the tail, at some distance towards the south"
+msgstr "Žvaigždė po uodega, šiek tiek į pietus."
+
+msgid "The rather fainter star in advance of it"
+msgstr "Šiek tiek silpnesnė žvaigždė prieš ją"
+
+msgid ""
+"The southernmost of the [two] stars between the front legs of Ursa [Major] "
+"and the head of Leo"
+msgstr ""
+"Piečiausioji iš [dviejų] žvaigždžių tarp [Didžiojo] Lokio priekinių kojų ir "
+"Liūto galvos"
+
+msgid "The one north of it"
+msgstr "Šiauriau nuo jos."
+
+msgid "The rearmost of the remaining three faint stars"
+msgstr "Paskutinė iš trijų likusių silpnų žvaigždžių"
+
+msgid "The one in advance of this"
+msgstr ""
+
+msgid "The one in advance again of the latter"
+msgstr ""
+
+msgid "The star between the front legs [of Ursa Major] and Gemini"
+msgstr "Žvaigždė tarp priekinių kojų [Didžiojo Lokio] ir Dvynių"
+
+msgid "The dark camel"
+msgstr "Tamsus kupranugaris"
+
+msgid "The Oryx"
+msgstr "Oriksai/antilopės"
+
+msgid "The little goat"
+msgstr "Mažytis ožiukas"
+
+msgid "The leader"
+msgstr "Lyderis"
+
+msgid "Liver of the lion"
+msgstr "Liūto kepenys"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr ""
+
+#. TRANSLATORS: Proper name
+msgid "Al-Suta"
+msgstr ""
+
+#. TRANSLATORS: Proper name
+msgid "Al-Saydaq"
+msgstr ""
+
+#. TRANSLATORS: Proper name
+msgid "Nua'ish"
+msgstr ""
+
+msgid "The star on the tongue"
+msgstr "Žvaigždė ant liežuvio"
+
+msgid "The star in the mouth"
+msgstr "Žvaigždė burnoje"
+
+msgid "The star above the eye"
+msgstr "Žvaigždė virš akies"
+
+msgid "The star on the chin"
+msgstr "Žvaigždė ant smakro"
+
+msgid "The star above the head"
+msgstr "Žvaigždė virš galvos"
+
+msgid ""
+"The northernmost of the three stars in a straight line in the first bend of "
+"the neck"
+msgstr ""
+"Šiauriausia iš trijų žvaigždžių tiesioje linijoje pirmojo kaklo lenkimo "
+"dalies "
+
+msgid "The southernmost of these"
+msgstr "Piečiausiai iš jų"
+
+msgid ""
+"The star to the rear of the latter and due east of the quadrilateral in the "
+"next bend after the latter"
+msgstr ""
+
+msgid "The southern star of the [two] forming the advance side"
+msgstr ""
+
+msgid "The more northerly star of the advance side"
+msgstr ""
+
+msgid "The northern star of the rear side [of the quadrilateral]"
+msgstr ""
+
+msgid "The southern star of the rear side"
+msgstr "Pietinė žvaigždė iš užpakalinės pusės"
+
+msgid "The southern star of [those forming] the triangle in the next bend"
+msgstr "Pietinė žvaigždė [tų, kurios formuoja] trikampį kitame posūkyje"
+
+msgid "The more advanced of the other two stars of the triangle"
+msgstr "Labiau pasislinkusi tarp dviejų kitų trikampio žvaigždžių"
+
+msgid ""
+"The rearmost of the three stars in the next triangle, which is in advance "
+"[of the last]"
+msgstr ""
+"Paskutinė iš trijų žvaigždžių šiame trikampyje, kuris yra pažengęs [už "
+"paskutiniojo]"
+
+msgid "The southernmost of the other two forming the triangle"
+msgstr "Piečiausioji tarp kitų dviejų, sudarančių trikampį."
+
+msgid "The northernmost of the other two"
+msgstr "Šiauriausioji tarp kitų dviejų"
+
+msgid "The rearmost of the two small stars to the west of the triangle"
+msgstr ""
+
+msgid "The one in advance"
+msgstr ""
+
+msgid "The southernmost of the next three stars in a straight line"
+msgstr "Piečiausioji iš kitų trijų žvaigždžių tiesioje linijoje"
+
+msgid "The middle one of the three"
+msgstr "Vidurinioji iš trijų"
+
+msgid "The northernmost of them"
+msgstr "Šiauriausia iš jų"
+
+msgid "The northernmost of the next two to the west"
+msgstr "Šiauriausia iš dviejų vakaruose"
+
+msgid "The star to the west of these, in the bend by the tail"
+msgstr ""
+
+msgid "The advance star of the two quite some distance from the latter"
+msgstr ""
+
+msgid "The rear star of these [two]"
+msgstr "Paskutinioji iš šių [dviejų]"
+
+msgid "The star close by these, by the tail"
+msgstr ""
+
+msgid "The remaining star, on the tip of the tail"
+msgstr "Likusi žvaigždė, ant uodegos galo"
+
+msgid "The trotting camel"
+msgstr "Risnojantis kupranugaris"
+
+msgid "The baby camel"
+msgstr "Jauniklis kupranugaris"
+
+msgid "The male hyena"
+msgstr "Hienos patinas"
+
+msgid "The star on the right leg"
+msgstr "Žvaigždė Dešinėje kojoje "
+
+msgid "The one on the left leg"
+msgstr "Žvaigždė Kairėje kojoje"
+
+msgid "The star under the belt on the right side"
+msgstr "Žvaigždė po diržu dešinėje pusėje"
+
+msgid "The star over the right shoulder, which touches it"
+msgstr "Žvaigždė virš dešiniojo peties, kuri jį liečia"
+
+msgid "The star over the right elbow, which touches it"
+msgstr "Žvaigždė virš dešiniosios alkūnės, kuri jį liečia"
+
+msgid "The one under that elbow"
+msgstr "Viena po ta alkūne"
+
+msgid "The star in the chest"
+msgstr "Žvaigždė krūtinėje"
+
+msgid "The star on the left arm"
+msgstr "Žvaigždė kairėje rankoje "
+
+msgid "The southernmost of the three stars on the hat"
+msgstr "Piečiausia iš trijų žvaigždžių  skrybėlėje."
+
+msgid "The northernmost of the three"
+msgstr "Šiauriausioji tarp trijų"
+
+msgid "The one in advance of the stars on the head"
+msgstr ""
+
+msgid "The one to the rear of them"
+msgstr ""
+
+msgid "The [northern] Shepherd"
+msgstr "[Šiaurinis] piemuo"
+
+msgid "The [northern] Shepherd dog"
+msgstr "[Šiaurinio] piemens šuo"
+
+msgid "The horse forehead star"
+msgstr "Arklio kaktos žvaigždė"
+
+msgid "The most advanced of the three in the left arm"
+msgstr ""
+
+msgid "The middle and southernmost of the three"
+msgstr ""
+
+msgid "The rearmost of the three"
+msgstr "Tolimiausioji iš trijų."
+
+msgid "The star on the left elbow"
+msgstr "Žvaigždė kairėje alkūnėje"
+
+msgid "The star on the left shoulder"
+msgstr "Kairiajame petyje esanti žvaigždė"
+
+msgid "The star on the head"
+msgstr "Žvaigždė ant galvos"
+
+msgid "The star on the right shoulder"
+msgstr "Dešiniajame petyje esanti žvaigždė"
+
+msgid "The one to the north of these, on the staff"
+msgstr ""
+
+msgid ""
+"The one farther to the north again of this, on the tip of the staff, and it "
+"is a common star [with Hercules]"
+msgstr ""
+
+msgid "The northernmost of the two stars below the shoulder, in the club"
+msgstr ""
+
+msgid "The star on the end of the right arm"
+msgstr "Žvaigždė dešinės rankos gale"
+
+msgid "The more advanced of the two stars in the wrist"
+msgstr ""
+
+msgid "The rearmost of them"
+msgstr "Tolimiausioji iš jų"
+
+msgid "The star on the end of the handle of the staff"
+msgstr ""
+
+msgid ""
+"The star on the belt which Ptolemy claims that it is on the right thigh, in "
+"the apron"
+msgstr ""
+
+msgid "The rearmost of the two stars in the belt"
+msgstr ""
+
+msgid "The more advanced of them"
+msgstr ""
+
+msgid "The star on the right heel"
+msgstr "Žvaigždė dešiniąjame kulne"
+
+msgid "The northernmost of the three stars in the left leg"
+msgstr "Šiauriausia iš trijų žvaigždžių kairėje kojoje"
+
+msgid "The star between the thighs, called 'The high one with the spear'"
+msgstr "Žvaigždė tarp šlaunų, vadinama „Aukštasis su ietimi“"
+
+msgid "The guard of the sky"
+msgstr "Dangaus sargybinis"
+
+msgid "The guard of the north"
+msgstr "Šiaurės sargybinis"
+
+msgid "Leg of the lion"
+msgstr "Liūto koja"
+
+msgid "Associate of the high one"
+msgstr ""
+
+msgid "Flag of the high one"
+msgstr ""
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "Flag of Al-Fakkah"
+msgstr ""
+
+msgid "The bright star in the crown"
+msgstr "Šviesi žvaigždė karūnoje"
+
+msgid "The star in advance of it"
+msgstr ""
+
+msgid "The one above this and due north"
+msgstr ""
+
+msgid "The one north again of this"
+msgstr ""
+
+msgid ""
+"The one to the rear of the bright star in the other half circle from the "
+"south"
+msgstr ""
+
+msgid ""
+"The one to the rear again of the latter, and it is a little more to the north"
+msgstr ""
+
+msgid "The one to the rear again of these, and again it is more to the north"
+msgstr ""
+
+msgid "The star at the end of the opening of this half circle"
+msgstr ""
+
+#. TRANSLATORS: Al-Fakkah is a proper name meaning incomplete circle referring
+#. to Corona Borealis
+msgid "The bright star of Al-Fakkah"
+msgstr ""
+
+msgid "The star on the right shoulder by the armpit"
+msgstr ""
+
+msgid "The star on the right upper arm"
+msgstr "Žvaigždė dešiniąjame žaste"
+
+msgid "The star on the right elbow"
+msgstr "Žvaigždė dešinėje alkūnėje"
+
+msgid "The star on the left upper arm"
+msgstr "Žvaigždė kairiame žaste"
+
+msgid "The rearmost of the three stars in the left wrist"
+msgstr ""
+
+msgid "The star in the right side"
+msgstr "Dešinėje pusėje žvaigždė"
+
+msgid "The star in the left side"
+msgstr "Kairiojoje pusėje esanti žvaigždė"
+
+msgid "The one north of the latter, on the left buttock"
+msgstr ""
+
+msgid "The one on the place where the thigh joins the same [buttock]"
+msgstr "Vienas toje vietoje, kur šlaunis jungiasi su tuo pačiu [užpakaliu]"
+
+msgid "The most advanced of the three in the left thigh"
+msgstr ""
+
+msgid "The one to the rear of this"
+msgstr ""
+
+msgid "The one yet further to the rear of this"
+msgstr ""
+
+msgid "The star on the left shin on the ankle place"
+msgstr ""
+
+msgid "The most advanced of the three stars in the left foot"
+msgstr ""
+
+msgid "The star on the place where the right thigh joins [the buttock]"
+msgstr ""
+
+msgid "The star north of it in the same thigh"
+msgstr ""
+
+msgid "The star on the right knee"
+msgstr "Žvaigždė dešiniąjame kelyje"
+
+msgid "The southernmost of the two stars under the right knee"
+msgstr ""
+
+msgid "The star in the right lower leg"
+msgstr ""
+
+msgid ""
+"The star on the end of the right leg is the same as the ninth star of Bootes "
+"on the tip of the staff, shared by the two constellations"
+msgstr ""
+
+msgid "The star south of the one in the right upper arm"
+msgstr "Žvaigždė į pietus nuo tos, kuri yra dešiniame žaste"
+
+msgid "First dog of [southern] shepherd"
+msgstr "Pirmasis [pietų] piemens šuo"
+
+msgid "The line"
+msgstr "Linija"
+
+msgid ""
+"The bright star on the carrying cloth, called Lyra, and it is the landing "
+"eagle"
+msgstr ""
+
+msgid "The northernmost of the two stars lying near the latter, close together"
+msgstr ""
+
+msgid ""
+"The one to the rear of these, in between the points where the horns [of the "
+"lyre] are attached"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars close together in the region to the east "
+"of the cloth"
+msgstr ""
+
+msgid "The northernmost of the two advance stars in the crossbar"
+msgstr ""
+
+msgid "The northernmost of the two rear stars in the crossbar"
+msgstr ""
+
+msgid "The star on the beak"
+msgstr ""
+
+msgid "The one to the rear of this, on the head"
+msgstr ""
+
+msgid "The star in the middle of the neck"
+msgstr "Viduryje kaklo esanti žvaigždė"
+
+msgid "The star in the breast"
+msgstr "Žvaigždė krūtinėje"
+
+msgid "The bright star in the tail"
+msgstr "Šviesi žvaigždė uodegoje"
+
+msgid "The star in the bend of the right wing"
+msgstr "Žvaigždė dešiniojo sparno lenktyje"
+
+msgid "The southernmost of the three in the right wing-feathers"
+msgstr ""
+
+msgid "The northernmost of them, on the tip of the wing-feathers"
+msgstr ""
+
+msgid "The star on the bend of the left wing"
+msgstr "Kairiojo sparno lenktyje esanti žvaigždė"
+
+msgid "The star north of this, in the middle of the same wing"
+msgstr ""
+
+msgid "The star in the tip of the feathers of the left wing"
+msgstr ""
+
+msgid "The star on the left leg"
+msgstr "Kairėje kojoje esanti žvaigždė."
+
+msgid "The more advanced of the two stars in the right leg"
+msgstr ""
+
+msgid "The northern star on the right knee"
+msgstr ""
+
+msgid "The southernmost of the two stars under the left wing"
+msgstr ""
+
+msgid "The rear knight"
+msgstr "Galinis riteris"
+
+msgid "The one north of that, on the belt"
+msgstr ""
+
+msgid "The star over the chair, just over the thighs"
+msgstr ""
+
+msgid "The star in the knees"
+msgstr "Žvaigždė keliuose"
+
+msgid "The star on the lower leg"
+msgstr "Žvaigždė apatinėje kojoje"
+
+msgid "The star on the end of the leg"
+msgstr ""
+
+msgid "The star below the left elbow"
+msgstr ""
+
+msgid "The star on the right forearm"
+msgstr ""
+
+msgid "The star above the post of the chair"
+msgstr ""
+
+msgid ""
+"The star on the middle of the chair backrest, and it is called The henna "
+"tinted hand"
+msgstr ""
+
+msgid "The star at the end of the chair backrest"
+msgstr ""
+
+msgid "The star on the place between the shoulders"
+msgstr ""
+
+msgid "The bright star in the right side"
+msgstr ""
+
+msgid "The most advanced of the three stars next to the one in the side"
+msgstr ""
+
+msgid "The bright one of the stars in the Gorgon-head"
+msgstr ""
+
+msgid "The one in advance of the bright star"
+msgstr ""
+
+msgid "The remaining one, yet again in advance of this"
+msgstr ""
+
+msgid "The star in the right knee"
+msgstr ""
+
+msgid "The one in advance of this, over the knee"
+msgstr ""
+
+msgid "The more advanced of the two stars above the bend in the knee"
+msgstr ""
+
+msgid "The rearmost of them, just over the bend in the knee"
+msgstr ""
+
+msgid "The star on the right calf"
+msgstr ""
+
+msgid "The star on the right ankle"
+msgstr ""
+
+msgid "The star in the left thigh"
+msgstr ""
+
+msgid "The star on the left lower leg"
+msgstr ""
+
+msgid "The star on the left heel"
+msgstr "Žvaigždė ant kairiojo kulno."
+
+msgid "The one to the rear of this, on the left foot"
+msgstr ""
+
+msgid "The star to the east of the one on the left knee"
+msgstr ""
+
+msgid "The star to the north of the one in the right knee"
+msgstr ""
+
+msgid "The star in advance of those in the Gorgon-head"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The elbow [of Al-Thurayya]"
+msgstr "Alkūnė [ Al-Turajos]"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Bend of the hand [of Al-Thurayya]"
+msgstr "Rankos linkis [Al-Turajos]"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Tip of the elbow [of Al-Thurayya]"
+msgstr "Alkūnės galiukas [ Al-Turajos]"
+
+msgid "The caracal (second narrative)"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The shoulder [of Al-Thurayya]"
+msgstr "Petys [ Al-Turajos]"
+
+msgid "The southernmost of the two on the head"
+msgstr ""
+
+msgid "The northernmost [of these], over the head"
+msgstr ""
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "The star on the left shoulder, called Al-Ayyuq"
+msgstr ""
+
+msgid "The star on the right wrist"
+msgstr ""
+
+#. TRANSLATORS: kids here are the baby goats
+msgid ""
+"The rearmost of the two stars on the left wrist, which are called 'The two "
+"kids'"
+msgstr ""
+
+msgid "The more advanced of these"
+msgstr ""
+
+msgid "The star on the left ankle"
+msgstr ""
+
+msgid ""
+"The star on the right ankle, which is [applied in] common to the northern "
+"horn of Taurus"
+msgstr ""
+
+msgid "The one to the north of the latter, in the lower hem [of the garment]"
+msgstr ""
+
+msgid "The one north again of this, on the buttock"
+msgstr ""
+
+msgid "The Goat"
+msgstr "Ožka"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya Watcher"
+msgstr "Al-Turajos stebėtojas"
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr ""
+
+msgid "The goats owner"
+msgstr "Ožkų savininkas"
+
+msgid "The more advanced of the two stars on the right shoulder"
+msgstr ""
+
+msgid "The more advanced of the two stars on the left shoulder"
+msgstr ""
+
+msgid "The more advanced of the two stars in the left hand"
+msgstr ""
+
+msgid "The more advanced of the two stars in the right hand"
+msgstr ""
+
+msgid "The star on the right lower leg"
+msgstr "Žvaigždė dešinėje apatinėje kojoje"
+
+msgid "The most advanced of the four stars on the right foot"
+msgstr ""
+
+msgid "The one to the rear again of that"
+msgstr ""
+
+msgid "The last and rearmost of the four"
+msgstr "Paskutinė ir galinė iš keturių"
+
+msgid "The star to the rear of these, which touches the heel"
+msgstr "Žvaigždė už šių, kurios liečia kulną"
+
+msgid "The star in the left knee"
+msgstr " Žvaigždė Kairiajame kelyje."
+
+msgid ""
+"The northernmost of the three stars in a straight line in the left lower leg"
+msgstr ""
+"Šiauriausia iš trijų žvaigždžių tiesioje linijoje su kaire apatine koja"
+
+msgid "The middle one of these"
+msgstr "Vidurinioji iš šių"
+
+msgid "The southernmost of the three"
+msgstr "Piečiausioji iš trijų"
+
+msgid "The star touching the hollow of the left foot"
+msgstr "Žvaigždė liečianti kairės pėdos ertmę"
+
+msgid ""
+"The northernmost of the three that are on a straight line, to the east of "
+"the right shoulder"
+msgstr ""
+
+msgid "The star to the rear of these three, and over the middle one"
+msgstr ""
+
+msgid "The lone star north of these four"
+msgstr "Vieniša žvaigždė šiauriau šių keturių"
+
+msgid "The [southern] shepherd"
+msgstr "[Pietinis] piemuo"
+
+msgid "Second dog of the [southern] shepherd"
+msgstr "Antrasis [Pietų] piemens šuo"
+
+msgid "Stars on the quadrilateral in the head:  the one on the end of the jaw"
+msgstr ""
+
+msgid "The one touching the nostrils"
+msgstr "Liečianti nosies šnerves"
+
+msgid "The one in the temple"
+msgstr "Šventykloje"
+
+msgid "The one where the neck joins [the head]"
+msgstr "Ten, kur kaklas jungiasi [prie galvos]"
+
+msgid "The one in the middle of the quadrilateral, in the mouth"
+msgstr ""
+
+msgid "The star outside the head, to the north of it"
+msgstr "Žvaigždė už galvos, šiaurėje nuo jos."
+
+msgid "The one after the first bend in the neck"
+msgstr "Pirmojis po pirmojo kaklo linkio"
+
+msgid "The northernmost of the three following this"
+msgstr "Šiauriausia iš trijų po šio"
+
+msgid ""
+"The star after the next bend, which is in advance of the left hand of "
+"Ophiuchus"
+msgstr ""
+
+msgid "The star to the rear of those in the hand of Ophiuchus"
+msgstr ""
+
+msgid "The one after the back of the right thigh of Ophiuchus"
+msgstr ""
+
+msgid "The southernmost of the two to the rear of the latter"
+msgstr ""
+
+msgid "The one after the right hand [of Ophiuchus], on the bend in the tail"
+msgstr ""
+
+msgid "The one to the rear of this, likewise on the tail"
+msgstr ""
+
+msgid "The star on the tip of the tail"
+msgstr "Žvaigždė uodegos gale"
+
+msgid "The lone star on the arrow-head"
+msgstr "Vieniša žvaigždė ant strėlės antgalio."
+
+msgid "The rearmost of the three stars in the shaft"
+msgstr "Galinė iš trijų ašies žvaigždžių  "
+
+msgid "The most advanced of the three"
+msgstr ""
+
+msgid "The star on the end of the notch"
+msgstr "Žvaigždė įpjovos gale"
+
+msgid "The star in the middle of the head"
+msgstr "Viduryje galvos esanti žvaigždė"
+
+msgid "The one in advance of this, on the neck"
+msgstr ""
+
+msgid ""
+"The bright star on the place between the shoulders, called The flying eagle"
+msgstr "Ryški žvaigždė vietoje tarp pečių, vadinama Skraidantis erelis"
+
+msgid "The one close to this towards the north"
+msgstr "Arti šios, šiauriau"
+
+msgid "The more advanced of the two in the left shoulder"
+msgstr ""
+
+msgid "The more advanced of the two in the right shoulder"
+msgstr ""
+
+msgid ""
+"The star some distance under the tail of the eagle, touching the Milky Way"
+msgstr "Žvaigždė tam tikru atstumu po erelio uodega, liečianti Paukščių Taką"
+
+msgid "The more advanced of the two stars south of the head of the eagle"
+msgstr ""
+
+msgid "The star to the south and west of the right shoulder of the eagle"
+msgstr ""
+
+msgid "The one to the south of this"
+msgstr "Piečiau nuo šios"
+
+msgid "The one to the south again of the latter"
+msgstr ""
+
+msgid "The star most in advance of all"
+msgstr ""
+
+msgid "The most advanced of the three stars in the tail"
+msgstr ""
+
+msgid ""
+"The southernmost one of the two on the advance side of the rhomboid "
+"quadrilateral"
+msgstr ""
+
+msgid "The northernmost one on the advance side"
+msgstr ""
+
+msgid "The southernmost one on the rear side of the rhombus"
+msgstr "Piečiausioji iš užpakalinės rombo pusės"
+
+msgid "The northernmost one on the rear side"
+msgstr "Šiauriausia iš užpakalinės pusės"
+
+msgid "The northernmost of the three stars between the tail and the rhombus"
+msgstr "Šiauriausia iš trijų žvaigždžių tarp uodegos ir rombo"
+
+msgid "The more advanced of the two other northern stars"
+msgstr ""
+
+msgid "The remaining, rearmost one"
+msgstr "Likusioji, užpakalinė"
+
+msgid "The more advanced of the two stars in the head"
+msgstr ""
+
+msgid "The more advanced of the two stars in the mouth"
+msgstr ""
+
+msgid ""
+"The star on the navel, which is [applied in] common to the head of Andromeda"
+msgstr ""
+
+msgid "The star on the rump and the wing-tip"
+msgstr "Žvaigždė ant kumpio ir sparno galiuko"
+
+msgid "The star on the right shoulder and the place where the leg joins [it]"
+msgstr "Žvaigždė peties dešinėje ir vieta, kur koja prisijungia [prie jos]"
+
+msgid ""
+"The star on the place between the shoulders and the shoulder-part of the wing"
+msgstr ""
+
+msgid "The northernmost of the two stars in the body under the wing"
+msgstr "Šiauriausia iš dviejų žvaigždžių kūne po sparnu"
+
+msgid "The northernmost of the two stars in the right knee"
+msgstr "Šiauriausia iš dviejų žvaigždžių dešiniojo kelio srityje."
+
+msgid "The more advanced of the two stars close together in the chest"
+msgstr ""
+
+msgid "The more advanced of the two stars close together in the neck"
+msgstr ""
+
+msgid "The southernmost of the two stars on the mane"
+msgstr "Piečiausia iš dviejų žvaigždžių ant karčių"
+
+msgid "The northernmost of the two stars close together on the head"
+msgstr ""
+
+msgid "The star in the muzzle"
+msgstr "Žvaigždė snukyje"
+
+msgid "The star in the right hock"
+msgstr ""
+
+msgid "The star in the left hock"
+msgstr ""
+
+msgid "The star in the place between the shoulders"
+msgstr "Žvaigždė tarp pečių"
+
+msgid "The star in the right shoulder"
+msgstr "Žvaigždė Dešiniajame petyje "
+
+msgid "The star in the left shoulder"
+msgstr "Kairiajame petyje esanti žvaigždė"
+
+msgid "The southernmost of the three stars on the right upper arm"
+msgstr "Piečiausia iš trijų dešiniojo žasto žvaigždžių ."
+
+msgid "The southernmost of the three stars on the right hand"
+msgstr ""
+
+msgid "The southernmost of the three stars over the girdle"
+msgstr ""
+
+msgid "The star over the left foot: called the caracal"
+msgstr ""
+
+msgid "The star in the right foot"
+msgstr "Žvaigždė dešinėje pėdoje "
+
+msgid "The one south of the latter"
+msgstr ""
+
+msgid "The northernmost of the two stars on the left knee-bend"
+msgstr ""
+
+msgid "The northernmost of the two stars in the lower hem of the garment"
+msgstr ""
+
+msgid "The star in advance of the three in the right hand, outside [of it]"
+msgstr ""
+
+msgid "Abdomen of the fish"
+msgstr "Žuvies pilvas"
+
+msgid "The caracal (first narrative)"
+msgstr ""
+
+msgid "The star in the apex of the triangle"
+msgstr "Žvaigždė trikampio viršūnėje"
+
+msgid "The most advanced of the three on the base"
+msgstr ""
+
+msgid "The more advanced of the two stars on the horn"
+msgstr ""
+
+msgid "The northernmost of the two stars on the muzzle"
+msgstr "Šiauriausia iš dviejų žvaigždžių ant snukio"
+
+msgid "The star on the neck"
+msgstr "Žvaigždė ant kaklo"
+
+msgid "The star on the rump"
+msgstr "Žvaigždė nugaroje"
+
+msgid "The star on the place where the fatty tail joins [the body]"
+msgstr ""
+
+msgid "The most advanced of the three stars in the fatty tail"
+msgstr ""
+
+msgid "The star in the back of the thigh"
+msgstr ""
+
+msgid "The star over the knee-bend"
+msgstr ""
+
+msgid "The star on the hind hoof"
+msgstr ""
+
+msgid ""
+"The star over the head, which Hipparchus [calls] 'the one on the muzzle'"
+msgstr ""
+
+msgid "The rearmost, which is brighter of the four stars over the rump"
+msgstr ""
+
+msgid "The northernmost of the other three, fainter stars"
+msgstr ""
+
+msgid "The middle one of these three"
+msgstr "Vidurinioji iš šių trijų"
+
+msgid "The butting [horn]"
+msgstr ""
+
+msgid "The northernmost of the four stars in the cut-off"
+msgstr ""
+
+msgid "The one close by this"
+msgstr ""
+
+msgid "The one close again to the latter"
+msgstr ""
+
+msgid "The southernmost of the four"
+msgstr "Piečiausioji iš keturių"
+
+msgid "The one to the rear of the latter, on the right shoulder-blade"
+msgstr ""
+
+msgid "The star on the right hock"
+msgstr ""
+
+msgid ""
+"The one on the nostrils of the stars in the face, resembling the Greek "
+"letter Λ"
+msgstr "Viena nosies žvaigždžių veide , sudarančių graikišką raidę Λ"
+
+msgid "The one between the latter and the northern eye"
+msgstr ""
+
+msgid "The one between that latter itself and the southern eye"
+msgstr ""
+
+msgid ""
+"The bright star of the group of stars resembling the Arabic letter 'dal د', "
+"the reddish one on the southern eye"
+msgstr ""
+"Ryški žvaigždė žvaigždyno, panašaus į arabų raidę 'dal د', raudona pietinėje "
+"akyje."
+
+msgid "The remaining one, on the northern eye"
+msgstr "Likusioji, šiaurinėje akyje"
+
+msgid ""
+"The star on the place where the southern horn and the ear join [the head]"
+msgstr ""
+
+msgid "The southernmost of the two stars on the southern horn"
+msgstr "Piečiausioji iš dviejų žvaigždžių, pietiniame rage"
+
+msgid "The northernmost of these"
+msgstr "Šiauriausioji iš jų"
+
+msgid "The star on the tip of the southern horn"
+msgstr "Žvaigždė ant pietinio rago galo"
+
+msgid "The star on the place where the northern horn joins [the head]"
+msgstr "Žvaigždė ten, kur šiaurinis ragas jungiasi [su galva]"
+
+msgid ""
+"The star on the tip of the northern horn, which is the same as the one on "
+"the right foot of Auriga"
+msgstr "Žvaigždė šiaurinio rago viršuje, ta pati ir dešinėje Vežėjo kojoje."
+
+msgid "The northernmost of the two stars close together in the northern ear"
+msgstr "Šiauriausia iš dviejų žvaigždžių, arti viena kitos šiaurinėje ausyje"
+
+msgid "The more advanced of the two small stars in the neck"
+msgstr "Daugiau pažengusi iš dviejų mažų žvaigždžių kakle"
+
+msgid ""
+"The southernmost star on the advance side of the four stars forming the "
+"quadrilateral in the neck"
+msgstr ""
+
+msgid "The northernmost star on the advance side"
+msgstr ""
+
+msgid "The southernmost star on the rear side"
+msgstr "Piečiausia žvaigždė iš užpakalinės pusės"
+
+msgid "The Pleiades:  the northern end of the advance side"
+msgstr "Plejadės: šiaurinis priekinės pusės galas"
+
+msgid "The southern end of the advance side [of the Pleiades]"
+msgstr "Pietinis priekinės [Plejadžių] pusės galas"
+
+msgid "The rearmost and narrowest end of the Pleiades"
+msgstr "Plejadžių užpakalinė ir siauriausia galinė dalis"
+
+msgid "The small star outside the Pleiades, towards the north"
+msgstr "Maža žvaigždė už Plejadžių, šiauriau"
+
+msgid "The star under the right foot and the ankle"
+msgstr "Žvaigždė po dešinės kojos pėda ir čiurna."
+
+msgid "The most advanced of the three stars over the southern horn"
+msgstr ""
+
+msgid "The northernmost of the two stars under the tip of the southern horn"
+msgstr ""
+
+msgid "The most advanced of the next five stars under the northern horn"
+msgstr ""
+
+msgid "The one to the rear again of the latter"
+msgstr ""
+
+msgid "The northernmost of the remaining, rearmost two"
+msgstr ""
+
+msgid "The southernmost of these two"
+msgstr "Piečiausia iš šių dviejų"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "The follower of Al-Thurayya"
+msgstr "Al-Turaja sekėjas"
+
+#. TRANSLATORS: Al-Mijdah is a proper name meaning the star of rain or the
+#. fork referring to the shape of the Hyades
+msgid "Al-Mijdah"
+msgstr ""
+
+msgid "The follower"
+msgstr "Sekėjas"
+
+msgid "The special camel"
+msgstr "Specialus kupranugaris"
+
+msgid "The star on the head of the advance twin"
+msgstr "Žvaigždė pirmojo dvynio galvoje "
+
+msgid "The reddish star on the head of the rear twin"
+msgstr "Raudonoka žvaigždė galinio dvynio galvoje"
+
+msgid "The star in the left forearm of the advance twin"
+msgstr "Žvaigždė kairiąjame priekinio dvynio dilbyje "
+
+msgid "The star in the same [left] upper arm"
+msgstr "Tokia pati žvaigždė [kairėje] žaste"
+
+msgid "The one to the rear of that, between the shoulders"
+msgstr ""
+
+msgid ""
+"The one to the rear of this, on the right shoulder of the same [advance] twin"
+msgstr ""
+
+msgid "The star on the rear shoulder of the rear twin"
+msgstr "Žvaigždė galinio dvynio galiniame peties "
+
+msgid "The star on the right side of the advance twin"
+msgstr "Dešinėje pusėje esanti žvaigždė ant pirmojo dvynio"
+
+msgid "The star on the left side of the rear twin"
+msgstr "Žvaigždė  galinio dvynio kairėje"
+
+msgid "The star on the left knee of the advance twin"
+msgstr "Žvaigždė pirmojo dvynio kairiąjame kelyje "
+
+msgid "The star in the left side of the rear twin"
+msgstr "Žvaigždė  galinio dvynio kairėje"
+
+msgid "The star over the left knee of the rear twin"
+msgstr "Žvaigždė virš galinio dvynio kairiojo kelio"
+
+msgid "The star over the bend in the right knee of the same [rear] twin"
+msgstr "Žvaigždė virš dešiniojo kelio lenkimo to paties [galinio] dvynio"
+
+msgid "The star in front of the left foot of the advance twin"
+msgstr "Žvaigždė priešais pimojo dvynio kairę pėdą"
+
+msgid "The one to the rear of this on the same foot"
+msgstr ""
+
+msgid "The star on the right foot of the advance twin"
+msgstr ""
+
+msgid "The star on the left foot of the rear twin"
+msgstr "Žvaigždė galinio dvynio kairiojoje pėdoje"
+
+msgid "The star on the right foot of the rear twin"
+msgstr "Žvaigždė galinio dvynio dešiniojoje pėdoje "
+
+msgid "The star in advance of the one in front of the foot of the advance twin"
+msgstr ""
+
+msgid "The bright star in advance of the advance knee"
+msgstr ""
+
+msgid "The star in advance of the left knee of the rear twin"
+msgstr ""
+
+msgid ""
+"The northernmost of the three stars in a straight line to the rear of the "
+"right arm of the rear twin"
+msgstr ""
+
+msgid "The southernmost of them, near the forearm of the [right] arm"
+msgstr ""
+
+msgid "The bright star to the rear of the above-mentioned three"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars in advance of the quadrilateral containing "
+"the nebula"
+msgstr ""
+
+msgid "The southernmost of the two stars in advance"
+msgstr ""
+
+msgid ""
+"The northernmost of the rear two stars on the quadrilateral, which are "
+"called 'Aselli'"
+msgstr ""
+
+msgid "The star on the southern claw"
+msgstr ""
+
+msgid "The star on the northern claw"
+msgstr ""
+
+msgid "The star on the northern back leg"
+msgstr "Žvaigždė šiaurinėje galinėje kojoje"
+
+msgid "The star on the southern back leg"
+msgstr "Žvaigždė pietinėje galinėje kojoje"
+
+msgid "The star over the joint in the southern claw"
+msgstr ""
+
+msgid "The star to the rear of the tip of the southern claw"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars over the nebula and to the rear of it"
+msgstr ""
+
+msgid "The rearmost of these [two]"
+msgstr "Paskutinioji iš šių [dviejų]"
+
+msgid "The star on the tip of the nostrils"
+msgstr "Žvaigždė ant nosies galiuko"
+
+msgid "The star in the gaping jaws"
+msgstr ""
+
+msgid "The northernmost of the two stars in the head"
+msgstr "Šiauriausia iš dviejų žvaigždžių galvoje."
+
+msgid "The northernmost of the three stars in the neck"
+msgstr "Šiauriausia iš trijų žvaigždžių kakle"
+
+msgid "The one close to this, the middle one of the three"
+msgstr ""
+
+msgid "The star on the heart, called 'Regulus' and it is the lion heart"
+msgstr "Žvaigždė ant širdies, 'Regulas', tai liūto širdis"
+
+msgid "The one south of this, about on the chest"
+msgstr ""
+
+msgid "The star a little in advance of the star on the heart"
+msgstr ""
+
+msgid "The star on the right front claw-clutch"
+msgstr ""
+
+msgid "The star on the left front claw-clutch"
+msgstr ""
+
+msgid "The star on the left [front] knee"
+msgstr ""
+
+msgid "The star on the left armpit"
+msgstr "Žvaigždė kairėje pažastyje"
+
+msgid "The most advanced of the three stars in the belly"
+msgstr ""
+
+msgid "The northernmost of the other, rearmost two"
+msgstr ""
+
+msgid "The southernmost of these [two]"
+msgstr "Piečiausioji iš jų [dviejų]"
+
+msgid "The more advanced of the two stars on the rump"
+msgstr ""
+
+msgid "The northernmost of the two stars in the buttocks"
+msgstr ""
+
+msgid "The star in the hind thighs"
+msgstr ""
+
+msgid "The star in the hind leg-bends"
+msgstr ""
+
+msgid "The one south of this, about in the lower legs"
+msgstr ""
+
+msgid "The star on the hind claw-clutches"
+msgstr ""
+
+msgid "The star on the end of the tail"
+msgstr "Žvaigždė uodegos gale"
+
+msgid "The more advanced of the two over the back"
+msgstr ""
+
+msgid "The northernmost of the three under the flank"
+msgstr ""
+
+msgid ""
+"The northernmost part of the nebulous mass between the edges of Leo and Ursa "
+"[Major], called Coma [Berenices]"
+msgstr ""
+
+msgid "The most advanced of the southern outrunners of Coma"
+msgstr ""
+
+msgid "The rearmost of them, shaped like an ivy leaf"
+msgstr "Paskutinė iš jų, panaši į gebenės lapą"
+
+msgid "Star of weather change"
+msgstr "Oro kaitos žvaigždė"
+
+msgid "The southernmost of the two stars in the top of the skull"
+msgstr "Piečiausioji iš dviejų žvaigždžių, kaukolės viršuje"
+
+msgid "The northernmost of the two stars to the rear of these, in the face"
+msgstr ""
+
+msgid "The star on the tip of the southern, left wing"
+msgstr ""
+
+msgid "The most advanced of the four stars in the left wing"
+msgstr ""
+
+msgid "The one to the rear again of this"
+msgstr ""
+
+msgid "The star in the right side under the girdle"
+msgstr ""
+
+msgid "The most advanced of the three stars in the right, northern wing"
+msgstr ""
+
+msgid "The southernmost of the other two"
+msgstr "Piečiausioji iš kitų dviejų"
+
+msgid "The northernmost of these, called 'Vindemiatrix'"
+msgstr ""
+
+#. TRANSLATORS: The armless high one is the Arabic name for Spica
+msgid ""
+"The star on the left hand, called 'Spica', and it is The armless high one"
+msgstr ""
+
+msgid "The star under the apron just about over the right buttock"
+msgstr ""
+
+msgid ""
+"The northern star on the advance side of the quadrilateral in the left thigh"
+msgstr ""
+
+msgid "The southern star on the advance side"
+msgstr ""
+
+msgid "The northernmost of the two stars on the rear side"
+msgstr "Šiauriausia iš dviejų žvaigždžių užpakalinėje pusėje."
+
+msgid "The star in the back of the right thigh"
+msgstr ""
+
+msgid "The middle star of the three in the garment-hem round the feet"
+msgstr ""
+
+msgid "The star on the left, southern foot"
+msgstr "Žvaigždė kairėje, pietinėje pėdoje"
+
+msgid "The star on the right, northern foot"
+msgstr "Žvaigždė dešinėje, šiaurinėje pėdoje"
+
+msgid ""
+"The most advanced of the three in a straight line under the left forearm"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars almost on a straight line under Spica"
+msgstr ""
+
+msgid "The middle one of these, which is a double star"
+msgstr "Vidurinioji iš šių, tai yra dviguba žvaigždė"
+
+msgid "The brighter one of the two stars on the tip of the southern claw"
+msgstr ""
+
+msgid "The northern one and fainter of the two"
+msgstr "Šiaurinė ir blankesnė iš dviejų"
+
+msgid "The brighter one of the two stars on the tip of the northern claw"
+msgstr ""
+
+msgid "The advanced one and fainter of the two"
+msgstr ""
+
+msgid "The star in the middle of the southern claw"
+msgstr ""
+
+msgid "The one in advance of this on the same claw"
+msgstr ""
+
+msgid "The star in the middle of the northern claw"
+msgstr ""
+
+msgid "The one to the rear of this on the same claw"
+msgstr ""
+
+msgid "The most advanced of the three stars north of the northern claw"
+msgstr ""
+
+msgid "The southernmost of the rearmost two [of these]"
+msgstr ""
+
+msgid "The rearmost of the three stars between the claws"
+msgstr ""
+
+msgid "The northernmost of the other two in advance [of the latter]"
+msgstr ""
+
+msgid "The most advanced of the three stars south of the southern claw"
+msgstr ""
+
+msgid "The northernmost of the other, rear two"
+msgstr ""
+
+msgid "The northernmost of the three bright stars in the forehead"
+msgstr ""
+
+msgid "The star south again of this, on one of the legs"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars adjacent to the northernmost of the three "
+"bright ones"
+msgstr ""
+
+msgid "The most advanced of the three bright stars in the body"
+msgstr ""
+
+msgid ""
+"The middle one of these, which is reddish and called 'Heart of the scorpion'"
+msgstr ""
+
+msgid "The advance star of the two under these, approximately on the last legs"
+msgstr ""
+
+msgid "The rearmost of these"
+msgstr "Tolimiausioji iš jų."
+
+msgid "The star in the first tail-joint from the body"
+msgstr ""
+
+msgid "The one after this, in the second joint"
+msgstr ""
+
+msgid "The northern star of the double-star in the third joint"
+msgstr ""
+
+msgid "The southern star of the double-star"
+msgstr ""
+
+msgid "The one following, in the forth joint"
+msgstr ""
+
+msgid "The one after that, in the fifth joint"
+msgstr ""
+
+msgid "The next one again, in the sixth joint"
+msgstr ""
+
+msgid "The star in the seventh joint, the joint next to the sting"
+msgstr ""
+
+msgid "The rearmost of the two stars in the sting"
+msgstr ""
+
+msgid "The nebulous star to the rear of the sting"
+msgstr ""
+
+msgid "The most advanced of the two stars to the north of the sting"
+msgstr ""
+
+msgid "The star on the point of the arrow"
+msgstr ""
+
+msgid "The star in the bow-grip held by the left hand"
+msgstr ""
+
+msgid "The star in the southern portion of the bow"
+msgstr ""
+
+msgid "The southernmost of the two stars in the northern portion of the bow"
+msgstr ""
+
+msgid "The northernmost of these, on the tip of the bow"
+msgstr ""
+
+msgid "The one in advance of this, on the arrow"
+msgstr ""
+
+msgid "The star on the eye, which is nebulous and double"
+msgstr "Žvaigždė akyje, kuri yra miglota ir dviguba"
+
+msgid "The most advanced of the three stars in the head"
+msgstr ""
+
+msgid "The southernmost of the three stars in the northern cloak-attachment"
+msgstr ""
+
+msgid "The faint star to the rear of these three"
+msgstr "Silpna žvaigždė už šių trijų"
+
+msgid "The northernmost of the two stars on the southern cloak-attachment"
+msgstr ""
+
+msgid "The one between the shoulders of the three stars in the back"
+msgstr ""
+
+msgid "The middle one, on the shoulder-blade"
+msgstr ""
+
+msgid "The other one, under the armpit"
+msgstr "Kita, po pažastimi"
+
+msgid "The star on the front left hock"
+msgstr ""
+
+msgid "The one on the knee of the same leg"
+msgstr "Ant to paties kojos kelio"
+
+msgid "The star on the front right hock"
+msgstr ""
+
+msgid "The star on the left thigh"
+msgstr ""
+
+msgid "The star on the right hind lower leg"
+msgstr ""
+
+msgid ""
+"The advance star on the northern side of the four stars [forming a "
+"quadrilateral] in the place where the tail joins [the body]"
+msgstr ""
+
+msgid "The rear star on the northern side"
+msgstr ""
+
+msgid "The advance star on the southern side"
+msgstr ""
+
+msgid "The rear star on the southern side"
+msgstr ""
+
+msgid "The northernmost of the three stars in the rear horn"
+msgstr "Šiauriausia iš trijų žvaigždžių užpakaliniame rage"
+
+msgid "The star on the tip of the advance horn"
+msgstr ""
+
+msgid "The southernmost of the three stars in the muzzle"
+msgstr ""
+
+msgid "The more advanced of the other two"
+msgstr ""
+
+msgid "The star in advance of the three, under the right eye"
+msgstr ""
+
+msgid "The northernmost of the two stars in the neck"
+msgstr "Šiauriausia iš dviejų žvaigždžių kakle"
+
+msgid "The star under the right knee"
+msgstr "Žvaigždė po dešiniu keliu"
+
+msgid "The star on the left, doubled-up knee"
+msgstr ""
+
+msgid "The more advanced of the two stars close together under the belly"
+msgstr ""
+
+msgid "The rearmost of the three stars in the middle of the body"
+msgstr ""
+
+msgid "The fainter of the other, advance two"
+msgstr ""
+
+msgid "The more advanced of the two stars in the back"
+msgstr ""
+
+msgid "The more advanced of the two stars in the southern spine"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars in the section [of the body] next to the "
+"tail"
+msgstr ""
+
+msgid "The most advanced of the four stars on the northern portion of the tail"
+msgstr ""
+
+msgid "The southernmost of the other three"
+msgstr "Piečiausioji iš kitų trijų"
+
+msgid "The northernmost of them, on the end of the tail-fin"
+msgstr "Šiauriausiioji iš jų, ant uodegos galo"
+
+msgid "The sheep of the lucky star of the slaughterer"
+msgstr "Skerdiko laimės žvaigždės avys"
+
+msgid "The star on the head of Aquarius"
+msgstr "Žvaigždė Vandenio galvoje"
+
+msgid "The brighter of the two stars in the right shoulder"
+msgstr "Ryškesnė iš dviejų žvaigždžių dešiniąjame petyje."
+
+msgid "The fainter one, under it"
+msgstr "Silpnesnioji, po ja"
+
+msgid "The one under that, in the back, approximately under the armpit"
+msgstr "Po ja esanti, nugaroje, maždaug po pažastimi."
+
+msgid "The rearmost of the three stars in the left arm, on the coat"
+msgstr ""
+
+msgid "The star in the right forearm"
+msgstr "Žvaigždė dešiniame dilbyje"
+
+msgid "The northernmost of the three stars on the right hand"
+msgstr ""
+
+msgid "The more advanced of the other two to the south"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars close together in the hollow of the right "
+"hip"
+msgstr ""
+
+msgid "The star on the right buttock"
+msgstr "Žvaigždė ant dešiniojo sėdmenio"
+
+msgid "The southernmost of the two stars in the left buttock"
+msgstr "Piečiausia iš dviejų žvaigždžių kairiajame sėdmenyje"
+
+msgid "The southernmost of the two stars in the right lower leg"
+msgstr "Piečiausia iš dviejų žvaigždžių dešiniosios blauzdos srityje."
+
+msgid "The northernmost of them, under the knee-bend"
+msgstr ""
+
+msgid "The star in the back of the left thigh"
+msgstr ""
+
+msgid "The southernmost of the two stars in the left lower leg"
+msgstr "Piečiausia iš dviejų žvaigždžių kairiojoje blauzdoje."
+
+msgid "The northernmost of these, under the knee"
+msgstr "Šiauriausioji iš jų, po keliu"
+
+msgid ""
+"The stars on the flow of water:  the most advanced [in the section] "
+"beginning at the hand"
+msgstr ""
+
+msgid "The one next to the latter towards the south"
+msgstr ""
+
+msgid "The one next to this, after [the beginning of] the water bend"
+msgstr ""
+
+msgid "The one in the bend to the south of this"
+msgstr ""
+
+msgid "The northernmost of the two stars to the south of this"
+msgstr ""
+
+msgid "The southernmost of the two"
+msgstr "Piečiausia iš šių dviejų"
+
+msgid "The lone star at some distance from these [two] towards the south"
+msgstr "Vieniša žvaigždė šiek tiek toliau nuo šių [dviejų] į pietus"
+
+msgid "The more advanced of the two stars close together after the latter"
+msgstr ""
+
+msgid "The northernmost of the three stars in the next bend group"
+msgstr ""
+
+msgid "The northernmost of the next three [arranged] likewise"
+msgstr ""
+
+msgid "The most advanced of the three stars in the remaining bend group"
+msgstr ""
+
+msgid "The star at the end of the water and on the mouth of Piscis Austrinus"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars to the rear of the bend in the water"
+msgstr ""
+
+msgid "The first frog"
+msgstr "Pirmoji varlė"
+
+msgid "The male ostrich"
+msgstr "Stručio patinas"
+
+msgid "The star in the mouth of the advance fish"
+msgstr ""
+
+msgid "The southernmost of the two stars in the top of its head"
+msgstr ""
+
+msgid "The more advanced of the two stars in the belly"
+msgstr "Daugiau pažengusi iš dviejų žvaigždžių pilve"
+
+msgid "The star in the tail of the same [advance] fish"
+msgstr "Žvaigždė tos pačios [pažengusios] žuvies uodegoje"
+
+msgid "The first after the tail of the stars forming its fishing-line"
+msgstr ""
+
+msgid "The most advanced of the three following stars"
+msgstr ""
+
+msgid "The northernmost of the two small stars under these, in the bend"
+msgstr ""
+
+msgid "The most advanced of the three stars after the bend"
+msgstr ""
+
+msgid "The star on the knot joining the two fishing-lines"
+msgstr ""
+
+msgid ""
+"The first in the section beginning at the knot of the stars in the northern "
+"fishing-line"
+msgstr ""
+
+msgid "The southernmost of the three stars following after that"
+msgstr ""
+
+msgid "The northernmost of the three, which is also on the end of the tail"
+msgstr ""
+
+msgid "The northernmost of the two stars in the mouth of the rear fish"
+msgstr ""
+
+msgid "The rearmost of the three small stars in the head"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars on the spine in the back, following [i."
+"e. to the rear of] the star on the elbow of Andromeda"
+msgstr ""
+
+msgid "The northernmost of the two stars in the belly"
+msgstr "Šiauriausia iš dviejų žvaigždžių pilve"
+
+msgid "The star in the rear spine, near the tail"
+msgstr ""
+
+msgid ""
+"The more advanced of the two northern stars of the quadrilateral under the "
+"advance fish"
+msgstr ""
+
+msgid "The more advanced star on the southern side"
+msgstr ""
+
+msgid "The rearmost one on the southern side"
+msgstr ""
+
+msgid "The rearmost, on the end of the jaw of the three stars in the snout"
+msgstr ""
+
+msgid "The middle one, in the middle of the mouth"
+msgstr ""
+
+msgid "The most advanced of the three, on the cheek"
+msgstr ""
+
+msgid "The star on the eyebrow and the eye"
+msgstr "Žvaigždė ant antakio ir akies"
+
+msgid "The one to the north of this, about on the hair"
+msgstr ""
+
+msgid "The one in advance of these, about on the mane"
+msgstr ""
+
+msgid ""
+"The northernmost star on the advance side of the quadrilateral in the chest"
+msgstr ""
+
+msgid "The southernmost one on the advance side"
+msgstr ""
+
+msgid "The southernmost one on the rear side"
+msgstr ""
+
+msgid "The midmost of the three stars in the body"
+msgstr ""
+
+msgid "The rearmost of the two stars by the section next to the tail"
+msgstr ""
+
+msgid ""
+"The northernmost star on the rear side of the quadrilateral in the section "
+"next to the tail"
+msgstr ""
+
+msgid ""
+"The one on the northern tail-fin of the two stars at the ends of the tail-"
+"fins"
+msgstr ""
+
+msgid "The one on the end of the southern tail-fin"
+msgstr ""
+
+msgid "The second frog"
+msgstr "Antra varlė"
+
+msgid "The nebulous star in the head of Orion, the three close stars"
+msgstr "Miglota žvaigždė Oriono galvoje, trys artimos žvaigždės"
+
+msgid "The bright, reddish star on the right shoulder"
+msgstr "Ryški, rausva žvaigždė ant dešiniojo peties"
+
+msgid "The one under this to the rear"
+msgstr ""
+
+msgid ""
+"The rear, double star on the southern side of the quadrilateral in the right "
+"hand"
+msgstr ""
+
+msgid "The rear one on the northern side"
+msgstr ""
+
+msgid "The advance one on the northern side"
+msgstr ""
+
+msgid "The more advanced of the two stars in the staff"
+msgstr ""
+
+msgid ""
+"The rearmost of the four stars almost on a straight line just over the back"
+msgstr ""
+
+msgid "The one in advance again of this"
+msgstr ""
+
+msgid "The last and most advanced of the four"
+msgstr ""
+
+msgid "The northernmost of the nine stars in the pelt on the left arm"
+msgstr ""
+
+msgid "The second from the northernmost"
+msgstr "Antroji nuo šiauriausios"
+
+msgid "The third from the northernmost"
+msgstr "Trečioji nuo šiauriausios"
+
+msgid "The fourth from the northernmost"
+msgstr "Ketvirtoji nuo šiauriausios"
+
+msgid "The fifth from the northernmost"
+msgstr "Penktoji nuo šiauriausios"
+
+msgid "The sixth from the northernmost"
+msgstr "Šeštoji nuo šiauriausios"
+
+msgid "The seventh from the northernmost"
+msgstr "Septintoji nuo šiauriausios"
+
+msgid "The eighth from the northernmost"
+msgstr "Aštuntoji nuo šiauriausios"
+
+msgid "The last and southernmost of those in the pelt"
+msgstr "Paskutinioji ir piečiausioji iš esančių kailyje"
+
+msgid "The most advanced of the three stars on the belt"
+msgstr ""
+
+msgid "The star near the handle of the dagger"
+msgstr "Žvaigždė prie durklo rankenos"
+
+msgid ""
+"The northernmost of the three stars joined together at the tip of the dagger"
+msgstr "Šiauriausia iš trijų žvaigždžių, sujungtų prie durklo smaigalio"
+
+msgid "The rearmost of the two stars under the tip of the dagger"
+msgstr "Tolimiausia iš žvaigždžių, esančių po durklo smaigaliu, "
+
+msgid ""
+"The bright star in the left foot, which is [applied in] common to the water "
+"[of Eridanus]"
+msgstr ""
+
+msgid "The star to the north of it in the lower leg, over the ankle-joint"
+msgstr ""
+
+msgid "The star under the left heel, outside"
+msgstr "Žvaigždė po kairiuoju kulnu, išorėje"
+
+msgid "The star under the right, rear knee"
+msgstr "Žvaigždė po dešiniuoju, galiniu keliu"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shoulder of Al-Jawza"
+msgstr "Al-Jawza petys"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Hand of Al-Jawza"
+msgstr "Al-Jawza ranka"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Shepherd of Al-Jawza"
+msgstr "Ganytojas iš Al-Jawza"
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr ""
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+#. TRANSLATORS: Al-Mirzam is a proper name
+msgid "Al-Mirzam"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of Orion
+msgid "Leg of Al-Jawza"
+msgstr "Al-Jawza koja"
+
+msgid ""
+"The star after the one in the foot of Orion, at the beginning of the river"
+msgstr "Žvaigždė po ta, kuri Oriono pėdoje, upės pradžioje"
+
+msgid "The one north of this, in the curve near the shin of Orion"
+msgstr ""
+
+msgid "The rearmost of the two stars next in order after this"
+msgstr ""
+
+msgid "The rearmost of the next two in order again"
+msgstr ""
+
+msgid "The rearmost of the three stars after this"
+msgstr ""
+
+msgid "The rearmost of the four stars in the next interval"
+msgstr ""
+
+msgid "The most advanced of the four"
+msgstr ""
+
+msgid "The rearmost of the four stars in the next likewise interval again"
+msgstr ""
+
+msgid ""
+"The first star in the bend of the river, which touches the chest of Cetus"
+msgstr ""
+
+msgid "The most advanced of the next consecutive three"
+msgstr ""
+
+msgid ""
+"The northern one on the advance side of the next four stars, nearly forming "
+"a trapezium"
+msgstr ""
+
+msgid "The southernmost on the advance side"
+msgstr ""
+
+msgid "The more advanced one on the rear side"
+msgstr ""
+
+msgid "The last of the four, the rear one on that side"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars close together at some distance to the east"
+msgstr ""
+
+msgid "The rearmost of the next two stars after the bend"
+msgstr ""
+
+msgid "The rearmost of the three stars in the next interval"
+msgstr ""
+
+msgid "The last star of the river, the bright one, called 'The male ostrich'"
+msgstr "Paskutinė upės žvaigždė, ryški, vadinama „Patinas strutis“"
+
+msgid ""
+"The northern star on the advance side of the quadrilateral just over the ears"
+msgstr ""
+
+msgid "The northern star on the rear side"
+msgstr "Šiaurinė žvaigždė iš užpakalinės pusės"
+
+msgid "The southern star on the rear side"
+msgstr "Pietinė žvaigždė iš užpakalinės pusės"
+
+msgid "The star in the chin"
+msgstr "Žvaigždė ant smakro"
+
+msgid "The star on the left front foot"
+msgstr "Žvaigždė ant kairės priekinės kojos"
+
+msgid "The star in the middle of the body"
+msgstr "Viduryje kūno esanti žvaigždė"
+
+msgid "The star under the belly"
+msgstr "Žvaigždė po pilvu"
+
+msgid "The northernmost of the two stars in the hind legs"
+msgstr ""
+
+msgid "CMa_1"
+msgstr "CMa_1"
+
+msgid "CMa_2"
+msgstr "CMa_2"
+
+msgid "CMa_3"
+msgstr "CMa_3"
+
+msgid "CMa_4"
+msgstr "CMa_4"
+
+msgid "CMa_5"
+msgstr "CMa_5"
+
+msgid "CMa_6"
+msgstr "CMa_6"
+
+msgid "CMa_7"
+msgstr "CMa_7"
+
+msgid "CMa_8"
+msgstr "CMa_8"
+
+msgid "CMa_9"
+msgstr "CMa_9"
+
+msgid "CMa_10"
+msgstr "CMa_10"
+
+msgid "CMa_11"
+msgstr "CMa_11"
+
+msgid "CMa_12"
+msgstr "CMa_12"
+
+msgid "CMa_13"
+msgstr "CMa_13"
+
+msgid "CMa_14"
+msgstr "CMa_14"
+
+msgid "CMa_15"
+msgstr "CMa_15"
+
+msgid "CMa_16"
+msgstr "CMa_16"
+
+msgid "CMa_17"
+msgstr "CMa_17"
+
+msgid "CMa_18"
+msgstr "CMa_18"
+
+msgid "CMa_a_01"
+msgstr "CMa_a_01"
+
+msgid "CMa_a_02"
+msgstr "CMa_a_02"
+
+msgid "CMa_a_03"
+msgstr "CMa_a_03"
+
+msgid "CMa_a_04"
+msgstr "CMa_a_04"
+
+msgid "CMa_a_05"
+msgstr "CMa_a_05"
+
+msgid "CMa_a_06"
+msgstr "CMa_a_06"
+
+msgid "CMa_a_07"
+msgstr "CMa_a_07"
+
+msgid "CMa_a_08"
+msgstr "CMa_a_08"
+
+msgid "CMa_a_09"
+msgstr "CMa_a_09"
+
+msgid "CMa_a_10"
+msgstr "CMa_a_10"
+
+msgid "CMa_a_11"
+msgstr "CMa_a_11"
+
+#. TRANSLATORS: Shi'raa is the Arabic proper name of Sirius
+msgid ""
+"The star in the mouth, with utmost brightness, which is called 'the Dog' and "
+"'Southern or crossing Shi'raa'"
+msgstr ""
+"Žvaigždė burnoje, su didžiausiu šviesumu, kuris vadinamas 'Šuo' ir 'Pietų "
+"arba kertančiu Shi'raa'"
+
+msgid "The star on the ears"
+msgstr "Žvaigždė ausyse"
+
+msgid "The star on the chest"
+msgstr "Žvaigždė krūtinėje"
+
+msgid "The northernmost of the two stars on the right knee"
+msgstr "Šiauriausia iš dviejų žvaigždžių dešiniojo kelio srityje."
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+msgid "The star on the end of the front leg, called 'Al-Mirzam'"
+msgstr "Priekinės kojos gale esanti žvaigždė, vadinama 'Al-Mirzam'"
+
+msgid "The more advanced of the two stars in the left knee"
+msgstr ""
+
+msgid "The rearmost of the two stars in the left shoulder"
+msgstr ""
+
+msgid "The star in the place where the left thigh joins [the body]"
+msgstr ""
+
+msgid "The star below the belly, in the place between the thighs"
+msgstr ""
+
+msgid "The star on the joint of the right leg"
+msgstr "Žvaigždė dešinės kojos sąnaryje"
+
+msgid "The star on the end of the right leg"
+msgstr "Žvaigždė dešinės kojos gale"
+
+msgid "The star on the tail"
+msgstr "Žvaigždė uodegoje"
+
+msgid "The star to the north of the top of the dog skull"
+msgstr "Žvaigždė šiauriau virš šuns kaukolės"
+
+msgid ""
+"The southernmost of the four stars almost on a straight line under the hind "
+"legs"
+msgstr ""
+"Piečiausioji iš keturių žvaigždžių, beveik tiesia linija po galinėmis "
+"kojomis."
+
+msgid "The one north of this"
+msgstr ""
+
+msgid "The last and northernmost of the four"
+msgstr "Paskutinė ir šiauriausia iš keturių"
+
+msgid ""
+"The most advanced of the three stars almost on a straight line to the west "
+"of the [above] four"
+msgstr ""
+
+msgid "The rearmost of the two bright stars under these"
+msgstr ""
+
+msgid "The last star, to the south of the above"
+msgstr ""
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa that crossed [the milky way]"
+msgstr ""
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder and Shi'raa is the Arabic proper name of Sirius
+msgid "The Mirzam of the Shi'raa"
+msgstr ""
+
+msgid "The dog"
+msgstr "Šuo"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder.
+msgid "The star in the neck, called Al-Mirzam"
+msgstr "Žvaigždė kakle, vadinama Al-Mirzam"
+
+#. TRANSLATORS: The northern Shi'raa or tearfull Shi'raa is a proper arabic
+#. name for Procyon.
+msgid ""
+"The bright star just over the hindquarters, called 'The northern or tearfull "
+"Shi'raa'"
+msgstr ""
+
+msgid "The more advanced of the two stars at the end of the ship"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars close together over the little shield in "
+"the poop"
+msgstr ""
+
+msgid "The star in advance of these"
+msgstr ""
+
+msgid "The bright star in the middle of the little shield"
+msgstr ""
+
+msgid "The most advanced of the three stars under the little shield"
+msgstr ""
+
+msgid "The star on the stern neck"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars in the sternpost on which are the two "
+"stern cabins"
+msgstr ""
+
+msgid "The northernmost of the stars in the poop-deck"
+msgstr ""
+
+msgid "The most advanced of the next three"
+msgstr ""
+
+msgid "The bright star on the deck to the rear of these"
+msgstr ""
+
+msgid "The more advanced of the two faint stars under the bright one"
+msgstr ""
+
+msgid "The more advanced of the two stars over the above-mentioned bright one"
+msgstr ""
+
+msgid ""
+"The northernmost of the three stars on the little shields, about on the mast-"
+"holder"
+msgstr ""
+
+msgid "The northernmost of the two stars close together under these"
+msgstr ""
+
+msgid "The southernmost of the two stars in the middle of the mast"
+msgstr ""
+
+msgid "The more advanced of the two stars by the tip of the mast"
+msgstr ""
+
+msgid "The star below the three rear little shield"
+msgstr ""
+
+msgid "The star on the cut-off of the deck"
+msgstr ""
+
+msgid "The star between the steering-oars in the keel"
+msgstr ""
+
+msgid "The faint star to the rear of this"
+msgstr ""
+
+msgid "The bright star to the rear of this, under the deck"
+msgstr ""
+
+msgid "The bright star to the south of this, on the sternpost"
+msgstr ""
+
+msgid "The most advanced of the three stars to the rear of this"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars to the rear of these, near the cut-off of "
+"the deck"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars in the northern, advance steering-oar"
+msgstr ""
+
+#. TRANSLATORS: Suhayl is the Arabic proper name of Canopus
+msgid ""
+"The more advanced of the two stars in the other steering-oar, called "
+"Canopus, and it is Suhayl"
+msgstr ""
+
+msgid "The other, rearmost star"
+msgstr ""
+
+msgid ""
+"The southernmost of the two advance ones, which is on the nostrils of the "
+"five stars in the head"
+msgstr ""
+
+msgid "The northernmost of these two, which is above the eye"
+msgstr ""
+
+msgid ""
+"The northernmost of the two to the rear of these, which is about on the skull"
+msgstr ""
+
+msgid "The southernmost of them, on the gaping jaws"
+msgstr ""
+
+msgid "The rearmost of all, about on the chin"
+msgstr ""
+
+msgid ""
+"The more advanced of the two stars in the place where the neck joins [the "
+"head]"
+msgstr ""
+
+msgid "The middle star of the following three in the bend of the neck"
+msgstr ""
+
+msgid "The faint, northernmost star of the two close together to the south"
+msgstr ""
+
+#. TRANSLATORS: Al-Fard is a proper name meaning the lone star
+msgid "The bright one of these two close stars, called Al-Fard"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars to the rear, after the bend [in the "
+"neck]"
+msgstr ""
+
+msgid "The most advanced of the next three stars almost on a straight line"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars after [i.e. to the rear of] the base of "
+"Crater"
+msgstr ""
+
+msgid ""
+"The most advanced of the three stars after these, as it were in a triangle"
+msgstr ""
+
+msgid "The middle and southernmost one"
+msgstr "Vidurinė ir piečiausioji"
+
+msgid "The star after Corvus, in the section by the tail"
+msgstr "Žvaigždė po Varno skiltyje už uodegos."
+
+msgid "The star to the south of the head"
+msgstr ""
+
+msgid "The star some distance to the rear of those in the neck"
+msgstr ""
+
+msgid "The star in the base of bowl, which is [applied in] common to Hydra"
+msgstr ""
+
+msgid "The southernmost of the two stars in the middle of the bowl"
+msgstr ""
+
+msgid "The star on the southern rim of the mouth"
+msgstr ""
+
+msgid "The star on the northern rim"
+msgstr ""
+
+msgid "The star on the southern handle"
+msgstr ""
+
+msgid "The star on the northern handle"
+msgstr ""
+
+msgid "The star in the beak, which is [applied in] common to Hydra"
+msgstr ""
+
+msgid "The star in the neck, by the head"
+msgstr ""
+
+msgid "The star in the advance, right wing"
+msgstr ""
+
+msgid "The more advanced of the two stars in the rear wing"
+msgstr ""
+
+msgid "The star on the end of the leg, which is [applied in] common to Hydra"
+msgstr ""
+
+msgid "The southernmost of the four stars in the head"
+msgstr ""
+
+msgid "The more advanced of the other, middle two"
+msgstr ""
+
+msgid "The rearmost of these, the last of the four"
+msgstr ""
+
+msgid "The star on the left, advance shoulder"
+msgstr ""
+
+msgid "The star on the left shoulder-blade"
+msgstr ""
+
+msgid "The northernmost of the advance two of the four stars in the thyrsus"
+msgstr ""
+
+msgid "That one of the other two which is at the tip of the thyrsus"
+msgstr ""
+
+msgid "The last one, south of the latter"
+msgstr ""
+
+msgid "The most advanced of the three stars in the right side"
+msgstr ""
+
+msgid "The star in the right hand"
+msgstr "Žvaigždė dešinėje rankoje"
+
+msgid "The bright star in the place where the human body joins [the horse's]"
+msgstr ""
+
+msgid "The rearmost of the two faint stars to the north of this"
+msgstr ""
+
+msgid "The star in advance of this, on the horse's back"
+msgstr ""
+
+msgid "The rearmost of the stars on the rump"
+msgstr ""
+
+msgid "The more advanced of the two stars close together on the right thigh"
+msgstr ""
+
+msgid "The star in the chest, under the horse's armpit"
+msgstr ""
+
+msgid "The more advanced of the two stars under the belly"
+msgstr ""
+
+msgid "The star on the knee-bend of the right [hind] leg"
+msgstr ""
+
+msgid "The star in the hock of the same leg"
+msgstr ""
+
+msgid "The star under the knee-bend of the left [hind] leg"
+msgstr ""
+
+msgid "The star on the frog of the hoof on the same leg"
+msgstr ""
+
+msgid "The star on the end of the right front leg"
+msgstr ""
+
+msgid "The star on the knee of the left [front] leg"
+msgstr ""
+
+msgid "The star outside, under the right hind leg"
+msgstr ""
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr ""
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr ""
+
+msgid "The star at the end of the hind leg, by the [right] hand of Centaurus"
+msgstr ""
+
+msgid "The star on the bend in the same leg"
+msgstr ""
+
+msgid "The more advanced of the two stars just over the shoulder-blade"
+msgstr ""
+
+msgid "The star in the middle of the body of Lupus"
+msgstr ""
+
+msgid "The star in the belly, under the flank"
+msgstr ""
+
+msgid "The star on the thigh"
+msgstr ""
+
+msgid ""
+"The northernmost of the two stars near the place where the thigh joins [the "
+"body]"
+msgstr ""
+
+msgid "The star on the end of the rump"
+msgstr ""
+
+msgid "The southernmost of the 3 stars in the end of the tail"
+msgstr ""
+
+msgid "The southernmost of the two stars in the neck"
+msgstr ""
+
+msgid "The more advanced of the two stars in the snout"
+msgstr ""
+
+msgid "The southernmost of the two stars in the front leg, on the hand"
+msgstr ""
+
+msgid "The northernmost of the two stars in the base"
+msgstr ""
+
+msgid "The star in the middle of the little altar"
+msgstr ""
+
+msgid "The northernmost of the three stars in the brazier"
+msgstr ""
+
+msgid "The southernmost of the other two which are close together"
+msgstr ""
+
+msgid "The northernmost of these two"
+msgstr "Šiauriausia iš šių dviejų"
+
+msgid "The star on the end of the burning-apparatus"
+msgstr "Žvaigždė ant degančio aparato galo"
+
+msgid "The most advanced of the stars on the southern rim, outside [the crown]"
+msgstr ""
+
+msgid "The star to the rear of this on the crown"
+msgstr ""
+
+msgid "The one after this, before the knee of Sagittarius"
+msgstr ""
+
+msgid ""
+"The one after this, which is north of the bright star in the knee [of "
+"Sagittarius]"
+msgstr ""
+
+msgid "The star to the north of this"
+msgstr ""
+
+msgid "The one to the north again of this"
+msgstr ""
+
+msgid ""
+"The rearmost of the two stars after this, in advance, in the northern rim"
+msgstr ""
+
+msgid "The more advanced of these two faint stars"
+msgstr ""
+
+msgid "The star quite some distance in advance of this"
+msgstr ""
+
+msgid "The last one, which is south of the aforementioned star"
+msgstr ""
+
+msgid "The most advanced of the three stars on the southern rim of the head"
+msgstr ""
+
+msgid "The star by the gills"
+msgstr ""
+
+msgid "The star on the southernmost spine on the back"
+msgstr ""
+
+msgid "The rearmost of the two stars in the belly"
+msgstr ""
+
+msgid "The rearmost of the three stars on the northern spine"
+msgstr ""
+
+msgid "Tassel of the lion"
+msgstr "Liūto kutas"
+
+msgid "The nebulous mass on the right hand"
+msgstr "Ūkanota masė dešinėje rankoje"
+
+msgid "wrist of Al-Thurayya"
+msgstr "Al-Turaja riešas"
+
+msgid "The star on the place where the back joins [the horse's body]"
+msgstr "Žvaigždė toje vietoje, kur nugara jungiasi [prie arklio kūno]"
+
+msgid "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "Viduryje ūkų masės , vadinamas Prakartu arba Aviliu"
+
+msgid "Nose tip of the lion"
+msgstr "Liūto nosies galiukas"
