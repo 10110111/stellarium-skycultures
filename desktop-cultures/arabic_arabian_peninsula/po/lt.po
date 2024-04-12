@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Gediminas Tauras, 2024\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Arabic (Arabian Peninsula)"
+msgstr "Arabų (Arabijos pusiasalis)"
+
+msgid "The Eyes"
+msgstr "Akys"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Al-Turaja"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+#. TRANSLATORS: Al-Mirzam is a proper name
+msgid "Al-Mirzam"
+msgstr ""
+
+#. TRANSLATORS: Aba Bzay is a proper name
+msgid "The Two Guards - The Two Refugees - The Family Of Aba Bzay"
+msgstr "Du sargai - Du pabėgėliai - Aba Bzay šeima"
+
+msgid "Al-Naayem - The Seven - Daughters Of Na'sh"
+msgstr "Al-Naayem - Septynios - Na'sh dukterys"
+
+msgid "The Saddle Of The Camel"
+msgstr "Kupranugario balnas"
+
+msgid "The Wool Spindle"
+msgstr "Vilnos verpstė"
+
+msgid "The Front"
+msgstr "Priekis"
+
+msgid "The Rear"
+msgstr "Galas"
+
+msgid "The Bucket Cord"
+msgstr "Kibiro virvė"
+
+msgid "The Two Marks"
+msgstr "Dvi žymės"
+
+msgid "The Little Abdomen"
+msgstr "Mažas pilvas"
+
+msgid "The Arm"
+msgstr "Ranka"
+
+msgid "The Two Little Dogs"
+msgstr "Du maži šunys"
+
+msgid "The Nostrils"
+msgstr "Šnervės"
+
+msgid "The Forehead"
+msgstr "Kakta"
+
+msgid "The Mane"
+msgstr "Karčiai"
+
+msgid "The Bend"
+msgstr ""
+
+msgid "The Cover"
+msgstr "Viršelis"
+
+msgid "Claws Of The Scorpion"
+msgstr "Skorpiono žnyplės"
+
+msgid "The Diadem"
+msgstr "Diadema"
+
+msgid "Raised Tail Of The Scorpion"
+msgstr "Pakelta Skorpiono Uodega"
+
+msgid "The Scorpion"
+msgstr "Skorpionas"
+
+msgid "The Empty Place"
+msgstr "Tuščia vieta"
+
+msgid "The Ostriches"
+msgstr "Stručiai"
+
+msgid "The Lucky Star Of The Slaughterer"
+msgstr "Skerdiko laimingoji žvaigždė"
+
+msgid "The Lucky Star Of The Swallower"
+msgstr "Rijiko laimingoji žvaigždė"
+
+msgid "The Luckiest Of The Lucky Stars"
+msgstr "Laimingiausia iš laimingiausių žvaigždžių"
+
+msgid "The Lucky Star Of The Tents"
+msgstr "Laimingoji palapinės žvaigždė"
+
+msgid "The Circular Mark"
+msgstr "Apskritas ženklas"
+
+msgid "The Downward Bend"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Back Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Claws Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Mosque Of Al-Thurayya"
+msgstr "Mečetė Al-Turaja"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Hawdan is a proper name
+msgid "Morning Star - Evening Star - The Sip - The Star Of Al-Hawdan"
+msgstr "Ryto žvaigždė - Vakaro žvaigždė - Gurkšnis - Al-Hawdano žvaigždė"
+
+msgid "The Kid"
+msgstr "Vaikas"
+
+msgid "The Two Guards 1"
+msgstr "Du sargai 1"
+
+msgid "The Two Guards 2"
+msgstr "Du sargai 2"
+
+msgid "The Two Refugees 1"
+msgstr "Du pabėgėliai 1"
+
+msgid "The Two Refugees 2"
+msgstr "Du pabėgėliai 2"
+
+msgid "Al aba Bzay 1"
+msgstr ""
+
+msgid "Al aba bzay 2"
+msgstr ""
+
+#. TRANSLATORS: Al-Khilj is a proper name
+msgid "Al-Khilj 1"
+msgstr ""
+
+#. TRANSLATORS: Al-Khilj is a proper name
+msgid "Al-Khilj 2"
+msgstr ""
+
+#. TRANSLATORS: Khilj is a proper name
+msgid "The first Khilj 1"
+msgstr ""
+
+#. TRANSLATORS: Al-Khilj is a proper name
+msgid "The first Khilj 2"
+msgstr ""
+
+msgid "The first two 1"
+msgstr ""
+
+msgid "The first two 2"
+msgstr ""
+
+#. TRANSLATORS: Al-Khilj is a proper name
+msgid "The Latter Khilj 1"
+msgstr ""
+
+#. TRANSLATORS: Al-Khilj is a proper name
+msgid "The Latter Khilj 2"
+msgstr ""
+
+msgid "The fourth ones 1"
+msgstr "Ketvirtieji 1"
+
+msgid "The fourth ones 2"
+msgstr "Ketvirtieji 2"
+
+msgid "The Fifth"
+msgstr "Penktoji"
+
+msgid "The Sixth"
+msgstr "Šeštoji"
+
+msgid "The Seventh"
+msgstr "Septintoji"
+
+msgid "The Watcher"
+msgstr "Stebėtojas"
+
+msgid "The Reddish One"
+msgstr "Raudonoji"
+
+msgid "The Closed Wings Eagle"
+msgstr "Erelis nuleistais sparnais"
+
+msgid "The Parallel One"
+msgstr "Lygiagretus"
+
+msgid "The Sided One"
+msgstr "Esanti šalia"
+
+msgid "The Spread Wings Eagle"
+msgstr "Erelis išskleistais sparnais"
+
+#. TRANSLATORS: Al-Kanoon is a proper name
+msgid "Al-Kanoon"
+msgstr ""
+
+msgid "The Rear 2"
+msgstr "Galas 2"
+
+msgid "The Rear 1"
+msgstr "Galas 1"
+
+msgid "The Front 2"
+msgstr "Priekis 2"
+
+msgid "The Front 1"
+msgstr "Priekis 1"
+
+msgid "The Little Follower"
+msgstr "Mažasis Sekėjas"
+
+msgid "The Latter"
+msgstr "Paskutinysis"
+
+#. TRANSLATORS: Al-Mjaidih is a proper name
+msgid "Al-Mjaidih"
+msgstr ""
+
+msgid "The Claws 1"
+msgstr "Nagai 1"
+
+msgid "The Claws 2"
+msgstr "Nagai 2"
+
+msgid "The Claws 3"
+msgstr "Nagai 3"
+
+msgid "The Claws 4"
+msgstr "Nagai 4"
+
+msgid "The Claws 5"
+msgstr "Nagai 5"
+
+msgid "The Claws 6"
+msgstr "Nagai 6"
+
+msgid "Star Of Weather Change"
+msgstr "Oro kaitos žvaigždė"
+
+msgid "The High Unarmed One"
+msgstr ""
+
+msgid "The Heart"
+msgstr "Širdis"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Northern Horn Of Al-Jawza"
+msgstr "Šiaurinis Al-Jawza ragas"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Northern Claw Of Al-Jawza"
+msgstr "Šiaurinis Al-Jawza nagas"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Leg Of Al-Jawza"
+msgstr "Al-Jawza koja"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Southern Horn Of Al-Jawza"
+msgstr "Pietinis Al-Jawza ragas"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Southern Claw Of Al-Jawza"
+msgstr "Pietinis Al-Jawza nagas"
+
+#. TRANSLATORS: Al-Shi'la is a proper name
+msgid "Al-Shi'la"
+msgstr ""
+
+#. TRANSLATORS: Suhayl is a proper name
+#. TRANSLATORS: ٍSuhayl is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl"
+msgstr ""
+
+msgid "The Oath Star"
+msgstr ""
+
+#. TRANSLATORS: Aba Alsihil is a proper name
+msgid "Aba al-sihil"
+msgstr ""
+
+#. TRANSLATORS: Al-Miss.hil is a proper name
+msgid "Al-Miss.hil"
+msgstr ""
+
+#. TRANSLATORS: As-S.hali is a proper name
+msgid "al-Naayem 1"
+msgstr ""
+
+msgid "al-Naayem 2"
+msgstr ""
