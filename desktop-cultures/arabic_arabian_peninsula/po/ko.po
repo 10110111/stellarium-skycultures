@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: ysjbserver <ysjbserver@naver.com>, 2023\n"
+"Language-Team: Korean (https://app.transifex.com/stellarium/teams/80998/"
+"ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Arabic (Arabian Peninsula)"
+msgstr "아랍 (아라비아 반도)"
+
+msgid "The Eyes"
+msgstr "눈"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "알-투라야"
+
+#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
+#. thunder
+#. TRANSLATORS: Al-Mirzam is a proper name
+msgid "Al-Mirzam"
+msgstr ""
+
+#. TRANSLATORS: Aba Bzay is a proper name
+msgid "The Two Guards - The Two Refugees - The Family Of Aba Bzay"
+msgstr ""
+
+msgid "Al-Naayem - The Seven - Daughters Of Na'sh"
+msgstr ""
+
+msgid "The Saddle Of The Camel"
+msgstr ""
+
+msgid "The Wool Spindle"
+msgstr ""
+
+msgid "The Front"
+msgstr ""
+
+msgid "The Rear"
+msgstr ""
+
+msgid "The Bucket Cord"
+msgstr ""
+
+msgid "The Two Marks"
+msgstr ""
+
+msgid "The Little Abdomen"
+msgstr ""
+
+msgid "The Arm"
+msgstr "팔"
+
+msgid "The Two Little Dogs"
+msgstr ""
+
+msgid "The Nostrils"
+msgstr ""
+
+msgid "The Forehead"
+msgstr ""
+
+msgid "The Mane"
+msgstr ""
+
+msgid "The Bend"
+msgstr "띠"
+
+msgid "The Cover"
+msgstr ""
+
+msgid "Claws Of The Scorpion"
+msgstr ""
+
+msgid "The Diadem"
+msgstr ""
+
+msgid "Raised Tail Of The Scorpion"
+msgstr ""
+
+msgid "The Scorpion"
+msgstr "전갈"
+
+msgid "The Empty Place"
+msgstr ""
+
+msgid "The Ostriches"
+msgstr "타조들"
+
+msgid "The Lucky Star Of The Slaughterer"
+msgstr ""
+
+msgid "The Lucky Star Of The Swallower"
+msgstr ""
+
+msgid "The Luckiest Of The Lucky Stars"
+msgstr ""
+
+msgid "The Lucky Star Of The Tents"
+msgstr ""
+
+msgid "The Circular Mark"
+msgstr ""
+
+msgid "The Downward Bend"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Back Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Claws Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Mosque Of Al-Thurayya"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Hawdan is a proper name
+msgid "Morning Star - Evening Star - The Sip - The Star Of Al-Hawdan"
+msgstr ""
+
+msgid "The Kid"
+msgstr "어린이"
+
+msgid "The Two Guards 1"
+msgstr ""
+
+msgid "The Two Guards 2"
+msgstr ""
+
+msgid "The Two Refugees 1"
+msgstr ""
+
+msgid "The Two Refugees 2"
+msgstr ""
+
+msgid "Al aba Bzay 1"
+msgstr ""
+
+msgid "Al aba bzay 2"
+msgstr ""
+
+#. TRANSLATORS: Al-Khilj is a proper name
+msgid "Al-Khilj 1"
+msgstr ""
+
+#. TRANSLATORS: Al-Khilj is a proper name
+msgid "Al-Khilj 2"
+msgstr ""
+
+#. TRANSLATORS: Khilj is a proper name
+msgid "The first Khilj 1"
+msgstr ""
+
+#. TRANSLATORS: Al-Khilj is a proper name
+msgid "The first Khilj 2"
+msgstr ""
+
+msgid "The first two 1"
+msgstr ""
+
+msgid "The first two 2"
+msgstr ""
+
+#. TRANSLATORS: Al-Khilj is a proper name
+msgid "The Latter Khilj 1"
+msgstr ""
+
+#. TRANSLATORS: Al-Khilj is a proper name
+msgid "The Latter Khilj 2"
+msgstr ""
+
+msgid "The fourth ones 1"
+msgstr ""
+
+msgid "The fourth ones 2"
+msgstr ""
+
+msgid "The Fifth"
+msgstr ""
+
+msgid "The Sixth"
+msgstr ""
+
+msgid "The Seventh"
+msgstr ""
+
+msgid "The Watcher"
+msgstr ""
+
+msgid "The Reddish One"
+msgstr ""
+
+msgid "The Closed Wings Eagle"
+msgstr ""
+
+msgid "The Parallel One"
+msgstr ""
+
+msgid "The Sided One"
+msgstr ""
+
+msgid "The Spread Wings Eagle"
+msgstr ""
+
+#. TRANSLATORS: Al-Kanoon is a proper name
+msgid "Al-Kanoon"
+msgstr ""
+
+msgid "The Rear 2"
+msgstr ""
+
+msgid "The Rear 1"
+msgstr ""
+
+msgid "The Front 2"
+msgstr ""
+
+msgid "The Front 1"
+msgstr ""
+
+msgid "The Little Follower"
+msgstr ""
+
+msgid "The Latter"
+msgstr ""
+
+#. TRANSLATORS: Al-Mjaidih is a proper name
+msgid "Al-Mjaidih"
+msgstr ""
+
+msgid "The Claws 1"
+msgstr ""
+
+msgid "The Claws 2"
+msgstr ""
+
+msgid "The Claws 3"
+msgstr ""
+
+msgid "The Claws 4"
+msgstr ""
+
+msgid "The Claws 5"
+msgstr ""
+
+msgid "The Claws 6"
+msgstr ""
+
+msgid "Star Of Weather Change"
+msgstr ""
+
+msgid "The High Unarmed One"
+msgstr ""
+
+msgid "The Heart"
+msgstr "심장"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Northern Horn Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Northern Claw Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Leg Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Southern Horn Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Southern Claw Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Al-Shi'la is a proper name
+msgid "Al-Shi'la"
+msgstr ""
+
+#. TRANSLATORS: Suhayl is a proper name
+#. TRANSLATORS: ٍSuhayl is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl"
+msgstr "수하일"
+
+msgid "The Oath Star"
+msgstr ""
+
+#. TRANSLATORS: Aba Alsihil is a proper name
+msgid "Aba al-sihil"
+msgstr ""
+
+#. TRANSLATORS: Al-Miss.hil is a proper name
+msgid "Al-Miss.hil"
+msgstr ""
+
+#. TRANSLATORS: As-S.hali is a proper name
+msgid "al-Naayem 1"
+msgstr ""
+
+msgid "al-Naayem 2"
+msgstr ""
