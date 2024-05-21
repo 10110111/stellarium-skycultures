@@ -1,0 +1,983 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2024\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+# Sky culture name
+msgid "Arabic (Indigenous)"
+msgstr "Арабська (тубільна)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Arabic sky culture displays the indigenous star knowledge of the ancient "
+"Arabs living in the Arabian Peninsula prior to the Greek astronomy influence "
+"in the ninth century."
+msgstr ""
+"Арабська картина зоряного неба є відтворенням тубільних знань про зірки "
+"давніх арабів, які населяли Аравійський півострів до поширення впливів "
+"грецької астрономії у дев'ятому столітті нашої ери."
+
+# Sky culture description section in markdown format
+msgid ""
+"The star knowledge of the ancient Arabs had been recorded and preserved in "
+"old poetry and in the old works of Arab philologists and lexicographers of "
+"the Islamic civilization. Many books were written on the subject of star "
+"knowledge and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. "
+"The editors of Ibn Qutaybah's *Kitāb al-Anwāʾ* (9th century) listed twenty-"
+"four books on this subject written mostly between early eighth and tenth "
+"century[#2]. The only completely preserved text is that of Ibn Qutaybah, but "
+"later scholars had quoted many of the earlier texts. One of the most "
+"significant works that recorded the indigenous Arab star names is the *Book "
+"of the stars* written in ~ 964 AD by the prominent astronomer: al-Ṣūfī, "
+"where he identified the indigenous Arab star names with the respective "
+"Ptolemaic stars of the Greek constellations[#5].\n"
+"\n"
+"### Sources of the Arabic sky culture\n"
+"\n"
+"The source of this sky culture is a study and compilation of star knowledge "
+"of ancient Arabs from the following books: [#2], [#3], [#4], [#5], [#6], "
+"[#8], [#9]."
+msgstr ""
+"Знання про зірки давніх арабів було записано і збережено у давній поезії та "
+"давніх творах арабських філологів та лексикографів ісламської цивілізації. "
+"Знанням про зірки і анва [Arabic الأنواء], арабським знанням про "
+"метеорологію, присвячено багато книг. Редактори Ібн-Кутайбової *Kitāb al-"
+"Anwāʾ* (9-е століття) наводили список з двадцяти чотирьох книг щодо цієї "
+"теми, написаних здебільшого між початком восьмого і початком десятого "
+"століть[#2]. Єдиним текстом, який зберігся повністю, є саме текст Ібн-"
+"Кутайби, але науковці пізніших часів цитували багато більш ранніх текстів. "
+"Однією із найвизначніших робіт, у яких записано тубільні арабські назви "
+"зірок, є *Книга зірок*, написана у 964 році видатним астрономом аль-Суфі. У "
+"цій книзі вказано тубільні арабські назви зірок із відповідними грецькими "
+"назвами зірок з каталогу Птолемея[#5].\n"
+"\n"
+"### Джерела арабської картини зоряного неба\n"
+"\n"
+"Джерелом для цієї картини зоряного неба є праця із вивчення та збирання "
+"знань щодо зірок давніх арабів з таких книг: [#2], [#3], [#4], [#5], [#6], "
+"[#8], [#9]."
+
+# Sky culture constellations section in markdown format
+msgid ""
+"The ancient Arabs gave names to single stars, star couples, an area in the "
+"sky, and particular shape of a group of stars. Single stars were named after "
+"a human figure or a desert animal, Arcturus is al-Simāk al-Rāmiḥ, meaning: "
+"The High one with the spear. Canopus is Suhayl, a proper name of a man. We "
+"have also stars named: The Caracal and the Kid (the young goat). If two "
+"stars of comparable brightness are close to each other, they are given a "
+"common name like: The two Calves, the Two Wolves, The Two doves. Sometimes "
+"an area is named after a group of animals. The brighter stars are adult "
+"animals, and the faint ones are the young animals like: The Hyenas and their "
+"youngsters, The horses and the foals. Particular shapes of stars were given "
+"names like the Scorpion, The lion, al-Ǧawzā’ which is a proper name of a "
+"woman for Orion stars. Other asterisms are given names according to legends "
+"and stories."
+msgstr ""
+"Давні араби давали назви окремим зіркам, парам зірок, областям на небі і "
+"окремим формам груп зірок. Окремі зірки називали за людським персонажем або "
+"за назвами тварин пустелі. Арктур називали «аль-Сімак аль-Раміх», тобто "
+"«Вишній із списом». Канопус називали «Сухайль», іменем чоловіка. Також маємо "
+"такі назви зірок: «Каракал і Дитя» (козлик). Якщо поряд на небі перебували "
+"дві зірки із схожою яскравістю, їм давали спільну назву, зокрема «Двоє "
+"телят», «Двоє вовків», «Двоє голубів». Іноді певні ділянки неба називали за "
+"групою тварин. Яскравіші зірки символізували дорослих тварин, а тьмяніші — "
+"молодших. Приклади: «Гієни та молодняк», «Коні і лошата». Зіркам, що "
+"складалися у певну форму, давали назви подібні до «Скорпіон», «Лев», «аль-"
+"Джоза» (власна жіноча назва для зірок сузір'я Оріона). Іншим астеризмам "
+"давали назви за легендами і казками."
+
+# Sky culture authors section in markdown format
+msgid "Khalid al-Ajaji: turath.alfalak@gmail.com"
+msgstr "Халід аль-Аджаджі, turath.alfalak@gmail.com"
+
+msgid "The Eyes"
+msgstr "Очі"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Аль-Турая"
+
+msgid "The Oryx"
+msgstr "Орикс"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr "Аль-Суха"
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Аюк Аль-Турая"
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr "Аль-Наджид"
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr "Аль-Вазн"
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr "Хадарі"
+
+msgid "The Little Abdomen"
+msgstr "Маленьке черевце"
+
+msgid "The Arm"
+msgstr "Рука"
+
+msgid "The Nostrils"
+msgstr "Ніздрі"
+
+msgid "The Forehead"
+msgstr "Чоло"
+
+msgid "The Mane"
+msgstr "Грива"
+
+msgid "The Bend"
+msgstr "Вигин"
+
+msgid "The Cover"
+msgstr "Накриття"
+
+msgid "The Diadem"
+msgstr "Діадема"
+
+msgid "Raised Tail Of The Scorpion"
+msgstr "Піднятий Хвіст Скорпіона"
+
+msgid "The Scorpion"
+msgstr "Скорпіон"
+
+msgid "The Empty Place"
+msgstr "Порожнє місце"
+
+msgid "The Ostriches"
+msgstr "Страуси"
+
+msgid "The Lucky Star Of The Slaughterer"
+msgstr "Щаслива зірка Вбивці"
+
+msgid "The Lucky Star Of The Swallower"
+msgstr "Щаслива зірка ковтальника"
+
+msgid "The Luckiest Of The Lucky Stars"
+msgstr "Найщасливіша зі щасливих зірок"
+
+msgid "The Lucky Star Of The Tents"
+msgstr "Щаслива зірка наметів"
+
+msgid "The Circular Mark"
+msgstr "Кругова позначка"
+
+msgid "The Downward Bend"
+msgstr "Вигин вниз"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr "Al-Jawza"
+
+msgid "The Kid"
+msgstr "Дитя"
+
+msgid "The Watcher"
+msgstr "Наглядач"
+
+msgid "The Claws 1"
+msgstr "Клешні 1"
+
+msgid "The Claws 2"
+msgstr "Клешні 2"
+
+msgid "The Claws 3"
+msgstr "Клешні 3"
+
+msgid "The Claws 4"
+msgstr "Клешні 4"
+
+msgid "The Claws 5"
+msgstr "Клешні 5"
+
+msgid "The Claws 6"
+msgstr "Клешні 6"
+
+msgid "Star Of Weather Change"
+msgstr "Зірка зміни погоди"
+
+msgid "The Heart"
+msgstr "Серце"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Leg Of Al-Jawza"
+msgstr "Нога аль-Джози"
+
+#. TRANSLATORS: Suhayl is a proper name
+#. TRANSLATORS: ٍSuhayl is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl"
+msgstr "Сухайль"
+
+msgid "The Two Oryx Calves"
+msgstr "Двоє телят орикса"
+
+msgid "The Axe Of The Grindstone"
+msgstr "Колун жорен"
+
+#. TRANSLATORS: Na'sh is a proper name meaning bier
+#. TRANSLATORS: Na'sh is a proper name
+msgid "Daughters Of Na'sh"
+msgstr "Дочки Наша"
+
+msgid "The Gazelles And Their Youngsters"
+msgstr "Газелі І Молодняк"
+
+msgid "The First Leap"
+msgstr "Перший Стрибок"
+
+msgid "The Second Leap"
+msgstr "Другий Стрибок"
+
+msgid "The Third Leap"
+msgstr "Третій Стрибок"
+
+msgid "The Two Preceding To The Water"
+msgstr "Двоє, Що Прямують До Води"
+
+msgid "The Pool"
+msgstr "Басейн"
+
+msgid "The Two Wolves"
+msgstr "Двоє Вовків"
+
+msgid "The Wolf Claws"
+msgstr "Клики вовка"
+
+msgid "The Mother Camels"
+msgstr "Верблюдиці"
+
+msgid "The Three Stone Support"
+msgstr "Три Кам'яні Опори"
+
+msgid "The Pot"
+msgstr "Казанок"
+
+msgid "The Shepherd And The Sheep"
+msgstr "Пастух З Вівцею"
+
+msgid "The Two Separated Stars"
+msgstr "Дві Відокремлені Зірки"
+
+msgid "The Armed One"
+msgstr "Озброєний"
+
+msgid "The Spear"
+msgstr "Спис"
+
+msgid "The Unarmed One"
+msgstr "Неозброєний"
+
+msgid "The Hyenas And Their Youngsters"
+msgstr "Гієни І Їхні Дитинчата"
+
+msgid "The Bowl Of The Poor"
+msgstr "Таз Бідного"
+
+msgid "The Desert Garden And The Goats"
+msgstr "Оаза і козли"
+
+msgid "The Northern Line"
+msgstr "Північна Лінія"
+
+msgid "The Southern Line"
+msgstr "Північна Лінія"
+
+msgid "The Landing Eagle"
+msgstr "Орел, Що Сідає"
+
+msgid "The Flying Eagle"
+msgstr "Орел, Що Летить"
+
+msgid "The Knights"
+msgstr "Рицарі"
+
+msgid "The She-Camel"
+msgstr "Верблюдиця"
+
+msgid "Head Of The She-Camel"
+msgstr "Голова Верблюдиці"
+
+msgid "Neck Of The She-Camel"
+msgstr "Шия Верблюдиці"
+
+msgid "Legs Of The She-Camel"
+msgstr "Ноги Голова Верблюдиці"
+
+msgid "The She-Camel's Hump - The Henna Tinted Hand"
+msgstr "Горб Верблюдиці — Пофарбована Хною Рука"
+
+msgid "The Shoulder Blade"
+msgstr "Лопатка"
+
+msgid "The Shoulder"
+msgstr "Плече"
+
+msgid "The Elbow"
+msgstr "Лікоть"
+
+msgid "The Forearm"
+msgstr "Передпліччя"
+
+msgid "The Wrist"
+msgstr "Зап'ясток"
+
+msgid "The Leprous Hand"
+msgstr "Рука Прокаженого"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "Al-Ayyuq And The Posts"
+msgstr "Аль-Айюк І Пости"
+
+msgid "The Northern Tent"
+msgstr "Північний Намет"
+
+msgid "The Young Camel"
+msgstr "Молодий Верблюд"
+
+msgid "The Caracal"
+msgstr "Каракал"
+
+msgid "The Well Bucket"
+msgstr "Криничний Ківш"
+
+msgid "The Bucket Rope Knot"
+msgstr "Вузол На Мотузці До Ковша"
+
+msgid "The Front Bucket Mouth"
+msgstr "Передній Бік Ковша"
+
+msgid "The Rear Bucket Mouth"
+msgstr "Задній Бік Ковша"
+
+msgid "The Bucket Rope"
+msgstr "Мотузка Ковша"
+
+msgid "The Fish"
+msgstr "Риба"
+
+msgid "The Empty Place Of The Fox"
+msgstr "Порожнє Місце Лисиці"
+
+msgid "The Lamb"
+msgstr "Ягня"
+
+msgid "The Two Forelegs Of The Lamb"
+msgstr "Дві Передніх Ноги Ягняти"
+
+msgid "The Two Signs"
+msgstr "Знаки двох"
+
+#. TRANSLATORS: This is a proper name
+msgid "Al-Dabaran"
+msgstr "Аль-Дабаран"
+
+#. TRANSLATORS: Al-Dabaran is a proper name meaning the follower
+msgid "The Two Dogs Of Al-Dabaran"
+msgstr "Двоє Собак Аль-Дабарана"
+
+msgid "The Young She-Camels"
+msgstr "Молоді Верблюдиці"
+
+msgid "The Lion"
+msgstr "Лев"
+
+msgid "The Retracted Arm"
+msgstr "Відтягнута Рука"
+
+msgid "The Extended Arm"
+msgstr "Протягнута Рука"
+
+msgid "The Tassel"
+msgstr "Китиця"
+
+msgid "The Scorpion's Sting"
+msgstr "Жало Скорпіона"
+
+msgid "The Ostriches Drinking At The River"
+msgstr "Страуси, Які П'ють З Річки"
+
+msgid "The Ostriches Leaving The River"
+msgstr "Страуси Полишають Ріку"
+
+msgid "The Ostrich Nest - The Necklace"
+msgstr "Гніздо Страусів — Намисто"
+
+msgid "The Dome-Like Tent"
+msgstr "Куполоподібний Намет"
+
+#. TRANSLATORS: Nashira is a proper name
+msgid "The Lucky Star Of Nashira"
+msgstr "Щаслива Зірка Нашира"
+
+msgid "The Lucky Star Of The King"
+msgstr "Щаслива Зірка Короля"
+
+msgid "The Lucky Star Of The Young Sheep"
+msgstr "Щаслива Зірка Ягняти"
+
+msgid "The Lucky Star Of The One With Great Endeavour"
+msgstr "Щаслива Зірка Того, Хто Докладає Великі Зусилля"
+
+msgid "The Lucky Star Of The Excellent One"
+msgstr "Щаслива Зірка Величного"
+
+#. TRANSLATORS: Matar is a proper name meaning rain
+#. TRANSLATORS: Matar is a proper name meaning rain.
+msgid "The Lucky Star Of Matar"
+msgstr "Щаслива Зірка Маттара"
+
+msgid "The Ringed Rope"
+msgstr "Змотана У Кільця Мотузка"
+
+msgid "The Circular Mark‎"
+msgstr "Кругова Позначка"
+
+msgid "The String"
+msgstr "Тятива"
+
+msgid "The Young Maids"
+msgstr "Молоді Дівчата"
+
+msgid "Hair Braids Of Al-Jawza"
+msgstr "Пасма волосся аль-Джози"
+
+msgid "Bow Of Al-Jawza"
+msgstr "Лук аль-Джози"
+
+msgid "Stars Of Abundant Rain"
+msgstr "Зірки Рясної Зливи"
+
+msgid "The Front Footstool Of Al-Jawza"
+msgstr "Передній Ослінчик Під Ногами аль-Джози"
+
+msgid "The Rear Footstool Of Al-Jawza"
+msgstr "Задній Ослінчик Під Ногами аль-Джози"
+
+msgid "The Virgins"
+msgstr "Діви"
+
+msgid "The Ravens"
+msgstr "Ворони"
+
+msgid "The Ostriches Nest, The Eggs And Egg Shells"
+msgstr "Гніздо Страусів, Яйця І Шкаралупа"
+
+msgid "The Oryxes"
+msgstr "Орикси"
+
+msgid "The Tied Camels"
+msgstr "Зв'язані Верблюди"
+
+msgid "The Trough"
+msgstr "Годівниця"
+
+msgid "The Southern Tent"
+msgstr "Південний Намет"
+
+msgid "The Date Clusters"
+msgstr "Скупчення Дат"
+
+msgid "The Horses And The Foals"
+msgstr "Коні І Лошата"
+
+msgid "The Two Shrikes"
+msgstr "Двоє Сорокопудів"
+
+msgid "The Two Doves"
+msgstr "Два Голуби"
+
+msgid "The Two Male Ostriches"
+msgstr "Двоє Страусів-Самців"
+
+msgid "The Young Ostriches"
+msgstr "Молоді Страуси"
+
+msgid "The Larks"
+msgstr "Жайворонки"
+
+msgid "The Sandgrouses"
+msgstr "Рябки"
+
+msgid "The Wild Asses"
+msgstr "Дикі Віслюки"
+
+msgid "The Ladder"
+msgstr "Драбина"
+
+msgid "The Wrist 1"
+msgstr "Зап'ясток 1"
+
+msgid "The Wrist 2"
+msgstr "Зап'ясток 2"
+
+msgid "The She-Camel's Brand 1"
+msgstr "Клеймо Верблюдиці 1"
+
+msgid "The She-Camel's Brand 2"
+msgstr "Клеймо Верблюдиці 2"
+
+msgid "The Lion's Nostrils"
+msgstr "Ніздрі Лева"
+
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like lightning. See Ref. # 2.
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like light shining. See Ref. # 2.
+msgid "The Shining One"
+msgstr "Сяюча"
+
+#. TRANSLATORS: Az- Zuharah is the native proper name for Venus, derived from
+#. brightness and beauty. See Ref. # 2.
+msgid "The Beautiful Bright One"
+msgstr "Красива Яскрава"
+
+#. TRANSLATORS: Al-Merrikh is the native proper name for Mars, derived from
+#. Marakh (ARABIC: مرخ), a plant which is used to start fire. See Ref. # 2.
+msgid "The Fire Starter"
+msgstr "Запалювач"
+
+#. TRANSLATORS: Zuhal is the native proper name for Saturn, derived from
+#. remoteness.  See Ref. # 2.
+msgid "The Remote one"
+msgstr "Далекий"
+
+#. TRANSLATORS: Utarid is the native proper name for Mercury, derived from
+#. unstableness (mercurial).  See Ref. # 2.
+msgid "The Unstable"
+msgstr "Нестабільний"
+
+#. TRANSLATORS: Ush-shams is the native proper name for the Sun.
+msgid "Ush-Shams"
+msgstr "Уш-Шамс"
+
+#. TRANSLATORS: Al-Qamar is the native proper name for the Moon, derived from
+#. strong whiteness.  See Ref. # 2. and Taj al-Arous lexicon.
+msgid "The Strongly White"
+msgstr "Яскраво-біла"
+
+msgid "The Two Calves 1"
+msgstr "Двоє Телят 1"
+
+msgid "The Two Calves 2"
+msgstr "Двоє Телят 2"
+
+msgid "The Two Front Ones 1"
+msgstr "Двоє Передніх 1"
+
+msgid "The Two Front Ones 2"
+msgstr "Двоє Передніх 2"
+
+msgid "The Two Lame Ones 1"
+msgstr "Двоє Кульгавих 1"
+
+msgid "The Two Lame Ones 2"
+msgstr "Двоє Кульгавих 2"
+
+msgid "The Dark Camel"
+msgstr "Темний Верблюд"
+
+msgid "The Little Goat"
+msgstr "Малий Козел"
+
+#. TRANSLATORS: Aslam is a proper name
+msgid "Aslam"
+msgstr "Аслам"
+
+#. TRANSLATORS: As-Saydaq is a proper name
+msgid "As-Saydaq"
+msgstr "Аль-Сайдак"
+
+msgid "The Leader"
+msgstr "Лідер"
+
+msgid "The Two Preceding To The Water 1"
+msgstr "Двоє, Що Прямують До Води 1"
+
+msgid "The Two Preceding To The Water 2"
+msgstr "Двоє, Що Прямують До Води 2"
+
+msgid "Liver Of The Lion"
+msgstr "Печінка Лева"
+
+msgid "The She-Camel's Hump"
+msgstr "Горб Верблюдиці"
+
+msgid "The Trotting Camel"
+msgstr "Верблюд, що біжить риссю"
+
+msgid "The Baby Camel"
+msgstr "Верблюжа"
+
+msgid "The Three Stone Support 1"
+msgstr "Три Кам'яні Опори 1"
+
+msgid "The Three Stone Support 2"
+msgstr "Три Кам'яні Опори 2"
+
+msgid "The Three Stone Support 3"
+msgstr "Три Кам'яні Опори 3"
+
+msgid "The Two Wolves 1"
+msgstr "Двоє Вовків 1"
+
+msgid "The Two Wolves 2"
+msgstr "Двоє Вовків 2"
+
+msgid "The Two Black Birds 1"
+msgstr "Дві Галки 1"
+
+msgid "The Two Black Birds 2"
+msgstr "Дві Галки 2"
+
+msgid "The Two Falcons 1"
+msgstr "Двоє Соколів 1"
+
+msgid "The Two Falcons 2"
+msgstr "Двоє Соколів 2"
+
+msgid "The Male Hyena"
+msgstr "Самець гієни"
+
+msgid "The [Northern] Shepherd"
+msgstr "[Північний] Пастух"
+
+msgid "The [Northern] Shepherd Dog"
+msgstr "Собака [Північного] Пастуха"
+
+msgid "The Two Stars Of Separation 1"
+msgstr "Дві Зірки Усамітнення 1"
+
+msgid "The White One"
+msgstr "Біла"
+
+msgid "The Two Stars Of Separation 2"
+msgstr "Дві Зірки Усамітнення 2"
+
+msgid "The Horse Forehead Star"
+msgstr "Зірка У Лобі Коня"
+
+msgid "The High One With The Spear"
+msgstr "Вишній Із Списом"
+
+msgid "The Spear 1"
+msgstr "Спис 1"
+
+msgid "The Spear 2"
+msgstr "Спис 2"
+
+msgid "The Front Spear Tassel"
+msgstr "Передня Китиця Списа"
+
+msgid "The Rear Spear Tassel"
+msgstr "Задня Китиця Списа"
+
+msgid "Flag Of The High One"
+msgstr "Прапор Правителя"
+
+#. TRANSLATORS: Al-Fakkah is an incomlete circle
+msgid "The Bright Star Of Al-Fakkah"
+msgstr "Яскрава Зірка аль-Факка"
+
+msgid "The Landing Eagle Claws 1"
+msgstr "Кігті Орла, Що Сідає 1"
+
+msgid "The Landing Eagle Claws 2"
+msgstr "Кігті Орла, Що Сідає 2"
+
+msgid "The Rear Knight"
+msgstr "Задній Рицар"
+
+msgid "The Knights 1"
+msgstr "Рицарі 1"
+
+msgid "The Knights 2"
+msgstr "Рицарі 2"
+
+msgid "The Knights 3"
+msgstr "Рицарі 3"
+
+msgid "The Knights 4"
+msgstr "Рицарі 4"
+
+msgid "The Knights 5"
+msgstr "Рицарі 5"
+
+msgid "Bend Of The Hand"
+msgstr "Вигин Руки"
+
+msgid "Tip Of The Elbow"
+msgstr "Кінчик Ліктя"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: This is a proper name
+msgid "Al-Ayyuq"
+msgstr "Аль-Айюк"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya watcher"
+msgstr "Наглядач аль-Тураї"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: Al-Ayyuq is a proper name
+msgid "Foot Of Al-Ayyuq"
+msgstr "Ступня аль-Айюка"
+
+msgid "The Posts 1"
+msgstr "Пости 1"
+
+msgid "The Posts 2"
+msgstr "Пости 2"
+
+msgid "The Posts 3"
+msgstr "Пости 3"
+
+msgid "The Associates Of Al-Ayyuq 1"
+msgstr "Приятелі аль-Айюка 1"
+
+msgid "The Associates Of Al-Ayyuq 2"
+msgstr "Приятелі аль-Айюка 2"
+
+msgid "The Associates Of Al-Ayyuq 3"
+msgstr "Приятелі аль-Айюка 3"
+
+msgid "The [Southern] Shepherd"
+msgstr "[Південний] Пастух"
+
+msgid "First Dog Of The [Southern] Shepherd"
+msgstr "Перша Собака [Південного] Пастуха"
+
+msgid "Second Dog Of The [Southern] Shepherd"
+msgstr "Другий Собака [Південного] Пастуха"
+
+msgid "The Post Of The Cross"
+msgstr "Пост Хреста"
+
+msgid "The Rear Bucket Mouth 2"
+msgstr "Задній бік ковша 2"
+
+msgid "The Rear Bucket Mouth 1"
+msgstr "Задній бік ковша 1"
+
+msgid "The Front Bucket Mouth 2"
+msgstr "Передній бік ковша 2"
+
+msgid "The Front Bucket Mouth 1"
+msgstr "Передній бік ковша 1"
+
+msgid "The Lower Cross Beam 2"
+msgstr "Нижня Балка Хреста 2"
+
+msgid "The Lower Cross Beam 1"
+msgstr "Нижня Балка Хреста 1"
+
+msgid "The Upper Cross Beam 2"
+msgstr "Верхня Балка Хреста 2"
+
+msgid "The Upper Cross Beam 1"
+msgstr "Верхня Балка Хреста 1"
+
+msgid "Abdomen Of The Fish"
+msgstr "Черево Риби"
+
+msgid "Abdomen Of The Whale"
+msgstr "Черево Кита"
+
+msgid "The Two Forelegs 1"
+msgstr "Дві Передні Ноги 1"
+
+msgid "The Two Forelegs 2"
+msgstr "Дві Передні Ноги 2"
+
+msgid "The Male Camel"
+msgstr "Верблюд"
+
+msgid "The Wood Stirring Rod"
+msgstr "Дерев'яна Мішалка"
+
+msgid "The Camel Herder"
+msgstr "Пастух Верблюдиць"
+
+msgid "Stars Of Abundant Rain 1"
+msgstr "Зірки Рясної Зливи 1"
+
+msgid "Stars Of Abundant Rain 2"
+msgstr "Зірки Рясної Зливи 2"
+
+msgid "Stars Of Abundant Rain 3"
+msgstr "Зірки Рясної Зливи 3"
+
+#. TRANSLATORS: Az-zir is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Az-Zir"
+msgstr "Аз-Зір"
+
+#. TRANSLATORS: Al-Maysan is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Maysan"
+msgstr "Аль-Майсан"
+
+msgid "The Eyelashes 1"
+msgstr "Вії 1"
+
+msgid "The Eyelashes 2"
+msgstr "Вії 2"
+
+msgid "The Eyelashes 3"
+msgstr "Вії 3"
+
+msgid "The Eyelashes 4"
+msgstr "Вії 4"
+
+msgid "The Unarmed High One"
+msgstr "Неозброєний Вишній"
+
+msgid "Veins Of The Heart 1"
+msgstr "Вени Серця 1"
+
+msgid "Veins Of The Heart 2"
+msgstr "Вени Серця 2"
+
+msgid "Tail Segments Of The Scorpion 1"
+msgstr "Сегменти Хвоста Скорпіона 1"
+
+msgid "Tail Segments Of The Scorpion 2"
+msgstr "Сегменти Хвоста Скорпіона 2"
+
+msgid "Tail Segments Of The Scorpion 3"
+msgstr "Сегменти Хвоста Скорпіона 3"
+
+msgid "Tail Segments Of The Scorpion 4"
+msgstr "Сегменти Хвоста Скорпіона 4"
+
+msgid "Tail Segments Of The Scorpion 5"
+msgstr "Сегменти Хвоста Скорпіона 5"
+
+msgid "Tail Segments Of The Scorpion 6"
+msgstr "Сегменти Хвоста Скорпіона 6"
+
+msgid "Tail Segments Of The Scorpion 7"
+msgstr "Сегменти Хвоста Скорпіона 7"
+
+msgid "The Follower"
+msgstr "Послідовник"
+
+msgid "The Two Shrikes 1"
+msgstr "Двоє Сорокопудів 1"
+
+msgid "The Two Shrikes 2"
+msgstr "Двоє Сорокопудів 2"
+
+msgid "The Two Doves 1"
+msgstr "Два Голуби 1"
+
+msgid "The Two Doves 2"
+msgstr "Два Голуби 2"
+
+msgid "The Sheep"
+msgstr "Вівця"
+
+msgid "The Two Male Ostriches 1"
+msgstr "Двоє Страусів-Самців 1"
+
+msgid "The Two Male Ostriches 2"
+msgstr "Двоє Страусів-Самців 2"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Shoulder Of Al-Jawza"
+msgstr "Плече аль-Джози"
+
+#. TRANSLATORS: The southern Shi'ra is a proper Arabic name of Sirius
+#. TRANSLATORS: Al-Shi'ra is a proper name of Sirius
+msgid "The Southern Shi'ra"
+msgstr "Південна Ші’ра"
+
+#. TRANSLATORS: The crossing Shi'ra is a proper Arabic name of Sirius
+msgid "The Crossing Shi'ra"
+msgstr "Перехрестя Ші'ра"
+
+#. TRANSLATORS: Mirzam is an associate star of the crossing Shi'ra which is a
+#. proper Arabic name of Sirius
+msgid "Mirzam Of The Crossing Shi'ra"
+msgstr "Мірцам Перехрестя Ші'раа"
+
+#. TRANSLATORS: Mirzam is an associate star of Al-Shi'ra which is a proper
+#. Arabic name of Sirius
+msgid "Mirzam Of Al-Shi'ra"
+msgstr "Мірцам Ші'раа"
+
+#. TRANSLATORS: The northern Shi'ra is a proper Arabic name of Procyon
+#. TRANSLATORS: Al-Shi'ra is a proper name
+msgid "The Northern Shi'ra"
+msgstr "Північна Ші’ра"
+
+#. TRANSLATORS: The tearful Shi'ra is a proper Arabic name of Procyon
+msgid "The Tearful Shi'ra"
+msgstr "Печальна Ші’ра"
+
+#. TRANSLATORS: Mirzam is an associate star of the tearful Shi'ra, which is a
+#. proper Arabic name of Procyon. The two stars together are called the Arm.
+msgid "Mirzam of The Arm"
+msgstr "Мірцам Руки"
+
+#. TRANSLATORS: Suhayl Balqayn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Balqayn"
+msgstr "Сухайль Балкайн"
+
+#. TRANSLATORS: Suhayl Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Hadari"
+msgstr "Сухайль Хадарі"
+
+#. TRANSLATORS: Suhayl Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Al-Wazn"
+msgstr "Сухайль аль-Вазн"
+
+#. TRANSLATORS: Suhayl Raqashi is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Raqashi"
+msgstr "Сухайль Ракаші"
+
+msgid "The Sole One"
+msgstr "Одинока"
+
+msgid "Oath Star"
+msgstr "Зірка Клятви"
+
+#. TRANSLATORS: Al-Muqil is a proper name
+msgid "Al-Muqil"
+msgstr "Аль-Мукіл"
