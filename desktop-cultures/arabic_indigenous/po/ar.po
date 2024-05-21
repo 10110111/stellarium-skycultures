@@ -1,0 +1,1221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Khalid AlAjaji, 2023\n"
+"Language-Team: Arabic (https://app.transifex.com/stellarium/teams/80998/"
+"ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+# Sky culture name
+msgid "Arabic (Indigenous)"
+msgstr "العربي (الأصيل)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Arabic sky culture displays the indigenous star knowledge of the ancient "
+"Arabs living in the Arabian Peninsula prior to the Greek astronomy influence "
+"in the ninth century."
+msgstr ""
+"يعرض هذا التراث الأسماء العربية الأصيلة للنجوم وصورها وتشكيلاتها المعروفة "
+"عند العرب القدماء في الجاهلية وصدر الإسلام قبل التأثير اليوناني في المعارف "
+"العربية في بداية العصر العباسي."
+
+# Sky culture description section in markdown format
+msgid ""
+"The star knowledge of the ancient Arabs had been recorded and preserved in "
+"old poetry and in the old works of Arab philologists and lexicographers of "
+"the Islamic civilization. Many books were written on the subject of star "
+"knowledge and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. "
+"The editors of Ibn Qutaybah's *Kitāb al-Anwāʾ* (9th century) listed twenty-"
+"four books on this subject written mostly between early eighth and tenth "
+"century[#2]. The only completely preserved text is that of Ibn Qutaybah, but "
+"later scholars had quoted many of the earlier texts. One of the most "
+"significant works that recorded the indigenous Arab star names is the *Book "
+"of the stars* written in ~ 964 AD by the prominent astronomer: al-Ṣūfī, "
+"where he identified the indigenous Arab star names with the respective "
+"Ptolemaic stars of the Greek constellations[#5].\n"
+"\n"
+"### Sources of the Arabic sky culture\n"
+"\n"
+"The source of this sky culture is a study and compilation of star knowledge "
+"of ancient Arabs from the following books: [#2], [#3], [#4], [#5], [#6], "
+"[#8], [#9]."
+msgstr ""
+"حفظ لنا الشعر العربي القديم وعلماء اللغة وأصحاب المعاجم المتقدمون في عصر "
+"الحضارة الإسلامية الكثير من علوم العرب بالنجوم والأنواء، وصنفت العديد من "
+"الكتب في هذا المجال، حيث أحصى محققو كتاب **الأنواء في مواسم العرب** لابن "
+"قتيبة أربعة وعشرين مصنفا في هذا الموضوع كتبت بين القرن الثاني والرابع للهجرة "
+"[#2]. الكتاب الوحيد الذي وصلنا كاملا هو كتاب ابن قتيبة، لكن نجد مقتبسات من "
+"الكتب الأخرى التي ضاعت في مصنفات المؤلفين المتاخرين مثل كتاب **الأزمنة "
+"والأمكنة** للمرزوقي (توفي سنة 421 للهجرة) ومثل كتاب **الأنواء والأزمنة** "
+"لابن عاصم الثقفي (توفي سنة 403 للهجرة).\n"
+"\n"
+" أحد أهم الكتب التي سجلت الأسماء العربية الأصيلة، وبقي منه كثير من النسخ "
+"المخطوطة **كتاب الكواكب** للصوفي الذي صنف قرابة سنة 353 للهجرة، حيث ذكر "
+"أسماء النجوم عند العرب وحددها بمقابلتها مع النجوم الموجودة في جداول المجسطي "
+"[#5].\n"
+" <kh3>طريقة العرب القدماء في تسمية النجوم</kh3>\n"
+" نجد عند العرب القدماء أسماءً لنجوم مفردة، ولأزواج من النجوم، ولمجموعات لها "
+"شكل مميز، ولبقع في السماء فيها نجوم متناثرة، أو بقعا تكون خالية من النجوم "
+"المضيئة.\n"
+"\n"
+" تحمل النجوم المفردة أسماءً لأشخاص أو حيوانات برية أو أنواعا من الطيور أو "
+"الحيوانات المستانسة. مثال ذلك: سهيل، والسماك الرامح، وعناق الأرض، والجدي. "
+"ويسمّي العرب أزواج النجوم المتقاربة أو المتوازية المتشابهة في اللمعان أو "
+"المتقاربة في الطلوع باسم مشترك، مثل: الفرقدين والهرارين واليمامتين. وفي بعض "
+"الأحايين يطلق على مجموعة متناثرة في بقعة من السماء أسماء مثل: الظباء "
+"وأولادها، والخيل وأفلاء الخيل، والضباع وأولادها، حيث تكون النجوم المضيئة هي "
+"الحيوانات البالغة بينما النجوم الخفية هي صغارها. أما النجوم التي لها شكل "
+"مميز فيطلق عليها اسما يشاكل صورتها مثل الجوزاء والأسد والعقرب. وربما أطلق "
+"العرب اسما على بقعة خالية من النجوم مثل البلدة ومثل بلدة الثعلب. وقد ألف "
+"العرب قصصا حول النجوم، فنجد شخوص القصص قد تمثلت في السماء، مثل العوائذ، وهي "
+"أربعة نجوم والرُّبَع مع الذئبين والذيخ، ومثل قصة الشعريين مع سهيل.\n"
+"\n"
+"### مصادر التراث الفلكي العربي\n"
+"\n"
+" تم استخلاص اسماء النجوم والصور والتشكيلات من الكتب التالية: [#2], [#3], "
+"[#4], [#5], [#6], [#8], [#9]."
+
+# Sky culture constellations section in markdown format
+msgid ""
+"The ancient Arabs gave names to single stars, star couples, an area in the "
+"sky, and particular shape of a group of stars. Single stars were named after "
+"a human figure or a desert animal, Arcturus is al-Simāk al-Rāmiḥ, meaning: "
+"The High one with the spear. Canopus is Suhayl, a proper name of a man. We "
+"have also stars named: The Caracal and the Kid (the young goat). If two "
+"stars of comparable brightness are close to each other, they are given a "
+"common name like: The two Calves, the Two Wolves, The Two doves. Sometimes "
+"an area is named after a group of animals. The brighter stars are adult "
+"animals, and the faint ones are the young animals like: The Hyenas and their "
+"youngsters, The horses and the foals. Particular shapes of stars were given "
+"names like the Scorpion, The lion, al-Ǧawzā’ which is a proper name of a "
+"woman for Orion stars. Other asterisms are given names according to legends "
+"and stories."
+msgstr ""
+"المقصود بالكوكبات هنا مجموعات من نجمين أو أكثر أطلق عليها العرب اسما مشتركا "
+"أو نجما مفردا يدل على صورة مثل عناق الأرض.\n"
+"\n"
+"#### الفرقدان\n"
+"النجمان: β UMi and γ UMi.\n"
+"#### فأس الرحى\n"
+"قوسان من النجوم على شكل سمكة يلتقيان عند نجمي الجدي وانور الفرقدين: α UMi "
+"and β UMi.\n"
+"#### بنات نعش\n"
+"سبعة نجوم شمالية شهيرة تمثل البنات وهن يحملن نعش أبيهن الذي قتله الجدي.\n"
+"#### القفزة الأولى\n"
+"أثر ظلفي قفزة الظبي الأولى: ν UMa and ξ UMa.\n"
+"#### القفزة الثانية\n"
+"أثر ظلفي قفزة الظبي الثانية: λ UMa and μ UMa.\n"
+"#### القفزة الثالثة\n"
+"أثر ظلفي قفزة الظبي الثالثة: ι UMa and κ UMa.\n"
+"#### الظباء وصغارها\n"
+"بقعة من السماء بين بنات نعش والأسد، حيث النجوم المضيئة هي الظباء البالغة، "
+"والنجوم الخفية هي صغار الظباء.\n"
+"#### الفارطان\n"
+"النجمان: h UMa and υ UMa، يمثلان رجلين يسبقان إلى الحوض لجلب الماء لحفر قبر "
+"نعش، أبي بنات نعش.\n"
+"#### الحوض\n"
+"دائرة غير مكتملة تمثل حوضا من الماء عنده الفارطان.\n"
+"#### أظفار الذئب\n"
+"نجوم خفية أمام الذئبين.\n"
+"#### الذئبان\n"
+"النجمان: f Dra and ω Dra، يمثلان ذئبين يحاولان افتراس الرُّبَع (صغير الناقة)، "
+"النجم HR 6618، الذي تحيط به العوائذ الأربع لحمايته.\n"
+"#### العوائذ\n"
+"مربع غير منتظم، يمثل أربعة من النوق تحيط بحوار صغير النجم، HR 6618، لحمايته "
+"من الضبع القريب، النجم ι Dra، ومن الذئبين.\n"
+"#### الأثافي\n"
+"مثلث من ثلاثة نجوم يمثل الأثافي وهي الحجارة التي توضع حول النار لتحمل "
+"القدر.\n"
+"#### القدر\n"
+"دائرة من النجوم تمثل قدرا بالقرب من الأثافي.\n"
+"#### كوكبا الفرق\n"
+"النجمان:α Cep and β Cep.\n"
+"#### الراعي والشاء والكلب\n"
+"مجموعة من النجوم ألمعها هو الراعي ثم كلبه والبقية هي الشاء.\n"
+"#### الرمح\n"
+"رمح السماك الرامح.\n"
+"#### ذو السلاح\n"
+"هو السماك الرامح.\n"
+"#### السماك الأعزل\n"
+"يمثل شخصا أعزلا من السلاح مقارنة بالسماك الرامح.\n"
+"#### الضباع وصغارها\n"
+"بقعة من السماء حيث النجوم المضيئة هي الضباع البالغة والخفية هي صغارها.\n"
+"#### قصعة المساكين\n"
+"تسمّى الفكة أيضا وهي دائرة فيها فتحة تمثل الثلمة في قصعة المساكين.\n"
+"#### النسق الشامي\n"
+"سطر من النجوم ربما يمثل أشجارا شمالي الروضة.\n"
+"#### النسق اليماني\n"
+"سطر آخر من النجوم على الجانب الجنوبي من الروضة.\n"
+"#### الروضة والأغنام\n"
+"بقعة من السماء ألمع نجومها الراعي وكلباه، والبقية هي الأغنام.\n"
+"#### النسر الواقع\n"
+"نجم لامع مع نجمين آخرين هما جناحاه المضمومان.\n"
+"#### النسر الطائر\n"
+"نجم لامع على جانبيه نجمان هما جناحاه المبسوطان.\n"
+"#### الفوارس\n"
+"سطر من خمسة نجوم يتبعها الردف.\n"
+"#### الناقة\n"
+"مجموعة من النجوم تشكل ناقة لها رأس وعنق وسنام ويدان.\n"
+"#### الكف الخضيب\n"
+"خمسة نجوم هي كف الثريا.\n"
+"#### الثريا ويداها\n"
+"الثريا مع نجوم تمثل عاتقها ومنكبها وعضدها ومرفقها وساعدها ومعصمها مع كفها "
+"الخضيب والكف الجذماء.\n"
+"#### الكف الجذماء\n"
+"يد الثريا اليسرى القصيرة.\n"
+"#### العيوق والأعلام\n"
+"العيوق وأربعة نجوم مضيئة حوله: أحدها رجله، والثلاثة الباقية هي الأعلام وتسمى "
+"توابع العيوق أيضا.\n"
+"#### الخباء الشمالي\n"
+"مجموعة من النجوم على هيئة الخباء.\n"
+"#### القعود\n"
+"أربعة نجوم متقاربة على شكل معيّن.\n"
+"#### عناق الأرض\n"
+"نجم يمثل عناق الأرض، وهو نوع من القطط البرية.\n"
+"#### الكرب - النعام\n"
+"نجمان متقاربان يمثلان العقدة التي تربط العراقي بالرشاء، والنعام هي الخشبتان "
+"على جانبي البئر.\n"
+"#### الفرغ المقدم\n"
+"نجمان مضيئان في ركني مربع كبير من نجوم الدلو عند العرب.\n"
+"#### الفرغ المؤخر\n"
+"نجمان مضيئان في ركني مربع كبير من نجوم الدلو عند العرب.\n"
+"#### الرشاء\n"
+"قوسان من النجوم على شكل الحوت.\n"
+"#### الحوت\n"
+"اسم آخر لنجوم الرشاء.\n"
+"#### الدلو\n"
+"جميع نجوم الفرغين والرشاء والكرب.\n"
+"#### الأيبسان\n"
+"نجمان يمثلان يدي الحمل.\n"
+"#### الشرطان\n"
+"نجمان هما قرن الحمل.\n"
+"#### البطين\n"
+"مثلث من النجوم الخفية هو عند العرب بطن الحمل.\n"
+"#### الثريا\n"
+"نجوم مجتمعة مشهورة يرى منها ستة أو سبعة نجوم وهي عند العرب رأس بين يدين "
+"تمتدان إلى الكف الخضيب والكف الجذماء، وهي أيضا ألية الحمل.\n"
+"#### الحمل\n"
+"صورة الحمل، والشرطان قرناه، والأيبسان يداه، والبطين بطنه، والثريا أليته.\n"
+"#### كلبا الدبران\n"
+"نجمان متضايقان بين الدبران والثريا.\n"
+"#### القلاص\n"
+"مجموعة من النجوم هي عند العرب النوق التي يسوقها الدبران مهرا للثريا.\n"
+"#### الدبران\n"
+"النجم اللامع الأحمر في أدبار الثريا دائما، طامعا في الزواج منها.\n"
+"#### الذراع المقبوضة\n"
+"الشعرى الشامية ومرزمها، وهما ذراع الأسد المقبوضة.\n"
+"#### الذراع المبسوطة\n"
+"ذراع الأسد المبسوطة.\n"
+"#### النثرة\n"
+"لطخة سحابية بجانبيها نجمان، وهي نثرة الأسد أي أنفه.\n"
+"#### الطرف\n"
+"نجمان هما عينا الأسد.\n"
+"#### الجبهة\n"
+"أربعة نجوم هي جبهة الأسد.\n"
+"#### الزبرة\n"
+"نجمان هما زبرة الأسد وهو الشعر الذي على كاهله.\n"
+"#### العوا\n"
+"خمسة نجوم منعطفة بشكل حرف اللام.\n"
+"#### الغفر\n"
+"ثلاثة نجوم على تقويس.\n"
+"#### الهلبة\n"
+"نجوم مجتمعة هي عند العرب هلبة السد، وهو الشعر في طرف ذيله.\n"
+"#### الأسد\n"
+"كوكبة عظيمة تشمل أعضاء السد من الذراعين المقبوضة والمبسوطة إلى السماكين وهما "
+"ساقا الأسد.\n"
+"#### الزبانى\n"
+"نجمان هما زبانى العقرب.\n"
+"#### الإكليل\n"
+"ثلاثة نجوم لامعة على تقويس في جبهة العقرب.\n"
+"#### الشولة\n"
+"شولة العقرب، وهي نجمان ها إبرته أو مجموعة النجوم التي تشكل فقرات ذيله "
+"المرتفع.\n"
+"#### العقرب\n"
+"صورة العقرب كاملة من الزبانى والإكليل والقلب والفقرات والشولة.\n"
+"#### النعام الوارد\n"
+"أربعة نجوم على تربيع في جانب المجرة، تمثل نعاما واردا ليشرب من النهر "
+"(المجرة).\n"
+"#### النعام الصادر\n"
+"أربعة نجوم على تربيع بالقرب من المجرة، تمثل نعاما صادراشرب من النهر (المجرة) "
+"وغادر.\n"
+"#### أدحي النعام - القلادة\n"
+"قوس من النجوم بالقرب من النعام الوارد والنعام الصادر يمثل أدحي النعام، وهو "
+"موضع بيضه.\n"
+"#### أدحي النعام\n"
+"أدحي آخر، ويسمى القبة أيضا وهي نجوم على شبه استدارة\n"
+"#### البلدة\n"
+"موضع بالقرب من الأدحي بين النعام وسعد الذابح خال من النجوم اللامعة.\n"
+"#### النعائم\n"
+"مجموعة نجوم النعام الوارد والنعام الصادر وأداحي النعام.\n"
+"#### سعد الذابح\n"
+"نجمان بينهما نجم خفي هو الشاة التي تذبح.\n"
+"#### سعد بلع\n"
+"ثلاثة نجوم تمثل رجلا بالعا أو فاتحا فمه.\n"
+"#### سعد السعود\n"
+"ثلاثة نجوم طلوعها في وقت فصل الربيع.\n"
+"#### سعد الأخبية\n"
+"مثلث من ثلاثة نجوم في وسطها نجم رابع يقولون هو رجل في الخباء.\n"
+"#### سعد ناشرة\n"
+"نجمان متقاربان.\n"
+"#### سعد الملك\n"
+"نجمان.\n"
+"#### سعد البهام\n"
+"نجمان.\n"
+"#### سعد الهمام\n"
+"نجمان.\n"
+"#### سعد البارع\n"
+"نجمان.\n"
+"#### سعد مطر\n"
+"نجمان.\n"
+"#### الربق\n"
+"نجوم مستديرة تمثل الربق وهو حلقة من الحبل توضع على رقبة صغار الشاء.\n"
+"#### الهقعة\n"
+"مثلث صغير من النجوم الخفية على رأس الجوزاء.\n"
+"#### النظم\n"
+"ثلاثة نجوم مضيئة في وسط الجوزاء.\n"
+"#### اللعط\n"
+"ثلاثة نجوم منحدرة تحت النظم، واللعط هو خط تضعه الحبشة على وجوهها، وتسمى هذه "
+"النجوم أيضا الجوازي أو الجواري.\n"
+"#### ذوائب الجوزاء\n"
+"نجوم على تقويس، وتسمى أيضا تاج الجوزاء.\n"
+"#### قوس الجوزاء\n"
+"نجوم اخرى على تقويس بينها وبين الأسد، يقول العرب عنها قوس الجوزاء ترمي به "
+"ذراع الأسد.\n"
+"#### الهنعة\n"
+"نجمان متوسطان في قوس الجوزاء.\n"
+"#### التحايي\n"
+"ثلاثة نجوم في قوس الجوزاء.\n"
+"#### الجوزاء\n"
+"كوكبة تشاكل صورة امرأة.\n"
+"#### كرسي الجوزاء المقدم\n"
+"مربع من النجوم عند رجل الجوزاء.\n"
+"#### كرسي الجوزاء المؤخر\n"
+"مربع من النجوم خلف الجوزاء.\n"
+"#### العذارى\n"
+"خمسة نجوم خلف الجوزاء.\n"
+"#### الأغربة\n"
+"مجموعة من النجوم ليس لها شكل معين ذكرها الصوفي.\n"
+"#### النعامات\n"
+"خمسة نجوم جنوبية تشبه بنات نعش.\n"
+"#### أدحي النعام\n"
+"أدحي نعام والبيض والقيض بالقرب من النعامات.\n"
+"#### البقر\n"
+"مجموعة من النجوم بين الكف الجذماء والدبران.\n"
+"#### الشراسيف\n"
+"الشراسيف هي الإبل المقيدة، والشراسيف سطر طويل من النجوم.\n"
+"#### المعلف\n"
+"دائرة غير مكتكلة من النجوم تمثل معلفا.\n"
+"#### الخباء الجنوبي\n"
+"مربع من النجوم على شكل الخباء.\n"
+"#### الشماريخ\n"
+"نجوم جنوبية مضيئة مبعثرة.\n"
+"#### الخيل وأفلاء الخيل\n"
+"بقعة تحت العقرب، حيث نجومها المضيئة هي الخيل والخفية هي أفلاء الخيل.\n"
+"#### الصردان\n"
+"نجمان تحت النعائم.\n"
+"#### اليمامتان\n"
+"نجمان بالقرب من الصردين.\n"
+"#### الظليمان\n"
+"نجمان مضيئان متباعدان جنوبيان.\n"
+"#### الرئال\n"
+"مجموعة من النجوم الخفية بين الظليمين.\n"
+"#### المكاكي\n"
+"مجموعة من النجوم تمثل طيور المكاء.\n"
+"#### القطا\n"
+"مجموعة متقاطرة من النجوم تمثل طيور القطا.\n"
+"#### العانة\n"
+"مجموعة من النجوم تحت السعود تمثل قطيعا من الحمر الوحشية.\n"
+"#### السلم\n"
+"سطر من النجوم بالقرب من العانة."
+
+# Sky culture authors section in markdown format
+msgid "Khalid al-Ajaji: turath.alfalak@gmail.com"
+msgstr "خالد العجاجي: turath.alfalak@gmail.com"
+
+msgid "The Eyes"
+msgstr "‎‎الطرف"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "‎‎الثريا‎‎"
+
+msgid "The Oryx"
+msgstr "الحور"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr "السها"
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "عيوق الثريا"
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr "الناجذ"
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr "الوزن"
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr "حضار"
+
+msgid "The Little Abdomen"
+msgstr "البطين"
+
+msgid "The Arm"
+msgstr "‎‎الذراع‎‎"
+
+msgid "The Nostrils"
+msgstr "النثرة"
+
+msgid "The Forehead"
+msgstr "الجبهة"
+
+msgid "The Mane"
+msgstr "الزبرة"
+
+msgid "The Bend"
+msgstr "‎‎العوا‎‎"
+
+msgid "The Cover"
+msgstr "الغفر"
+
+msgid "The Diadem"
+msgstr "الإكليل"
+
+msgid "Raised Tail Of The Scorpion"
+msgstr "الشولة"
+
+msgid "The Scorpion"
+msgstr "‎‎العقرب‎‎"
+
+msgid "The Empty Place"
+msgstr "البلدة"
+
+msgid "The Ostriches"
+msgstr "‎‎النعائم‎‎"
+
+msgid "The Lucky Star Of The Slaughterer"
+msgstr "سعد الذابح"
+
+msgid "The Lucky Star Of The Swallower"
+msgstr "سعد بلع"
+
+msgid "The Luckiest Of The Lucky Stars"
+msgstr "سعد السعود"
+
+msgid "The Lucky Star Of The Tents"
+msgstr "سعد الاخبية"
+
+msgid "The Circular Mark"
+msgstr "الهقعة"
+
+msgid "The Downward Bend"
+msgstr "الهنعة"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr "الجوزاء"
+
+msgid "The Kid"
+msgstr "‎‎الجدي‎‎"
+
+msgid "The Watcher"
+msgstr "الرقيب"
+
+msgid "The Claws 1"
+msgstr "الأظفار 1"
+
+msgid "The Claws 2"
+msgstr "الأظفار 2"
+
+msgid "The Claws 3"
+msgstr "الأظفار 3"
+
+msgid "The Claws 4"
+msgstr "الأظفار 4"
+
+msgid "The Claws 5"
+msgstr "الأظفار 5"
+
+msgid "The Claws 6"
+msgstr "الأظفار 6"
+
+msgid "Star Of Weather Change"
+msgstr "الصرفة"
+
+msgid "The Heart"
+msgstr "‎‎القلب‎‎"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Leg Of Al-Jawza"
+msgstr "رجل الجوزا"
+
+#. TRANSLATORS: Suhayl is a proper name
+#. TRANSLATORS: ٍSuhayl is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl"
+msgstr "‎‎سهيل‎‎"
+
+msgid "The Two Oryx Calves"
+msgstr "الفرقدان"
+
+msgid "The Axe Of The Grindstone"
+msgstr "فأس الرحى"
+
+#. TRANSLATORS: Na'sh is a proper name meaning bier
+#. TRANSLATORS: Na'sh is a proper name
+msgid "Daughters Of Na'sh"
+msgstr "بنات نعش"
+
+msgid "The Gazelles And Their Youngsters"
+msgstr "الظباء وأولاد الظباء"
+
+msgid "The First Leap"
+msgstr "القفزة الأولى"
+
+msgid "The Second Leap"
+msgstr "القفزة الثانية"
+
+msgid "The Third Leap"
+msgstr "القفزة الثالثة"
+
+msgid "The Two Preceding To The Water"
+msgstr "الفارطان"
+
+msgid "The Pool"
+msgstr "الحوض"
+
+msgid "The Two Wolves"
+msgstr "الذئبان"
+
+msgid "The Wolf Claws"
+msgstr "أظفار الذئب"
+
+msgid "The Mother Camels"
+msgstr "العوائذ"
+
+msgid "The Three Stone Support"
+msgstr "الأثافي"
+
+msgid "The Pot"
+msgstr "القدر"
+
+msgid "The Shepherd And The Sheep"
+msgstr "الراعي الشمالي والشاء"
+
+msgid "The Two Separated Stars"
+msgstr "كوكبا الفرق"
+
+msgid "The Armed One"
+msgstr "ذو السلاح"
+
+msgid "The Spear"
+msgstr "‎‎الرمح‎‎"
+
+msgid "The Unarmed One"
+msgstr "السماك الأعزل"
+
+msgid "The Hyenas And Their Youngsters"
+msgstr "الضباع وأولاد الضباع"
+
+msgid "The Bowl Of The Poor"
+msgstr "قصعة المساكين"
+
+msgid "The Desert Garden And The Goats"
+msgstr "الروضة والأغنام"
+
+msgid "The Northern Line"
+msgstr "النسق الشآمي"
+
+msgid "The Southern Line"
+msgstr "النسق اليماني"
+
+msgid "The Landing Eagle"
+msgstr "النسر الواقع"
+
+msgid "The Flying Eagle"
+msgstr "النسر الطائر"
+
+msgid "The Knights"
+msgstr "الفوارس"
+
+msgid "The She-Camel"
+msgstr "الناقة"
+
+msgid "Head Of The She-Camel"
+msgstr "رأس الناقة"
+
+msgid "Neck Of The She-Camel"
+msgstr "عنق الناقة"
+
+msgid "Legs Of The She-Camel"
+msgstr "يدا الناقة"
+
+msgid "The She-Camel's Hump - The Henna Tinted Hand"
+msgstr "سنام الناقة - الكف الخضيب"
+
+msgid "The Shoulder Blade"
+msgstr "العاتق"
+
+msgid "The Shoulder"
+msgstr "المنكب"
+
+msgid "The Elbow"
+msgstr "‎‎المرفق‎‎"
+
+msgid "The Forearm"
+msgstr "الساعد"
+
+msgid "The Wrist"
+msgstr "المعصم"
+
+msgid "The Leprous Hand"
+msgstr "الكف الجذماء"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "Al-Ayyuq And The Posts"
+msgstr "العيوق والأعلام"
+
+msgid "The Northern Tent"
+msgstr "الخباء الشآمي"
+
+msgid "The Young Camel"
+msgstr "القعود"
+
+msgid "The Caracal"
+msgstr "‎‎عناق الأرض‎‎"
+
+msgid "The Well Bucket"
+msgstr "الدلو"
+
+msgid "The Bucket Rope Knot"
+msgstr "الكرب"
+
+msgid "The Front Bucket Mouth"
+msgstr "الفرغ المقدم"
+
+msgid "The Rear Bucket Mouth"
+msgstr "الفرغ المؤخر"
+
+msgid "The Bucket Rope"
+msgstr "الرشاء"
+
+msgid "The Fish"
+msgstr "الحوت"
+
+msgid "The Empty Place Of The Fox"
+msgstr "بلدة الثعلب"
+
+msgid "The Lamb"
+msgstr "الحمل"
+
+msgid "The Two Forelegs Of The Lamb"
+msgstr "الأيبسان"
+
+msgid "The Two Signs"
+msgstr "الشرطان"
+
+#. TRANSLATORS: This is a proper name
+msgid "Al-Dabaran"
+msgstr "الدبران"
+
+#. TRANSLATORS: Al-Dabaran is a proper name meaning the follower
+msgid "The Two Dogs Of Al-Dabaran"
+msgstr "كلبا الدبران"
+
+msgid "The Young She-Camels"
+msgstr "القلاص"
+
+msgid "The Lion"
+msgstr "الأسد"
+
+msgid "The Retracted Arm"
+msgstr "الذراع المقبوضة"
+
+msgid "The Extended Arm"
+msgstr "الذراع المبسوطة"
+
+msgid "The Tassel"
+msgstr "الهلبة"
+
+msgid "The Scorpion's Sting"
+msgstr "الشولة"
+
+msgid "The Ostriches Drinking At The River"
+msgstr "النعام الوارد"
+
+msgid "The Ostriches Leaving The River"
+msgstr "النعام الصادر"
+
+msgid "The Ostrich Nest - The Necklace"
+msgstr "الأدحي - القلادة"
+
+msgid "The Dome-Like Tent"
+msgstr "القبة"
+
+#. TRANSLATORS: Nashira is a proper name
+msgid "The Lucky Star Of Nashira"
+msgstr "سعد ناشرة"
+
+msgid "The Lucky Star Of The King"
+msgstr "سعد الملك"
+
+msgid "The Lucky Star Of The Young Sheep"
+msgstr "سعد البهام"
+
+msgid "The Lucky Star Of The One With Great Endeavour"
+msgstr "سعد الهمام"
+
+msgid "The Lucky Star Of The Excellent One"
+msgstr "سعد البارع"
+
+#. TRANSLATORS: Matar is a proper name meaning rain
+#. TRANSLATORS: Matar is a proper name meaning rain.
+msgid "The Lucky Star Of Matar"
+msgstr "سعد مطر"
+
+msgid "The Ringed Rope"
+msgstr "الربق"
+
+msgid "The Circular Mark‎"
+msgstr "الهقعة"
+
+msgid "The String"
+msgstr "النظم"
+
+msgid "The Young Maids"
+msgstr "الجواري"
+
+msgid "Hair Braids Of Al-Jawza"
+msgstr "ذوائب الجوزاء"
+
+msgid "Bow Of Al-Jawza"
+msgstr "قوس الجوزاء"
+
+msgid "Stars Of Abundant Rain"
+msgstr "التحايي"
+
+msgid "The Front Footstool Of Al-Jawza"
+msgstr "كرسي الجوزاء المقدم"
+
+msgid "The Rear Footstool Of Al-Jawza"
+msgstr "كرسي الجوزاء المؤخر"
+
+msgid "The Virgins"
+msgstr "العذارى"
+
+msgid "The Ravens"
+msgstr "الأغربة"
+
+msgid "The Ostriches Nest, The Eggs And Egg Shells"
+msgstr "أدحي النعام والبيض والقيض"
+
+msgid "The Oryxes"
+msgstr "البقر"
+
+msgid "The Tied Camels"
+msgstr "الشراسيف"
+
+msgid "The Trough"
+msgstr "المعلف"
+
+msgid "The Southern Tent"
+msgstr "الخباء اليماني"
+
+msgid "The Date Clusters"
+msgstr "الشماريخ"
+
+msgid "The Horses And The Foals"
+msgstr "الخيل وأفلاء الخيل"
+
+msgid "The Two Shrikes"
+msgstr "الصردان"
+
+msgid "The Two Doves"
+msgstr "اليمامتان"
+
+msgid "The Two Male Ostriches"
+msgstr "الظليمان"
+
+msgid "The Young Ostriches"
+msgstr "الرئال"
+
+msgid "The Larks"
+msgstr "المكاكي"
+
+msgid "The Sandgrouses"
+msgstr "القطا"
+
+msgid "The Wild Asses"
+msgstr "العانة"
+
+msgid "The Ladder"
+msgstr "السلم"
+
+msgid "The Wrist 1"
+msgstr "المعصم 1"
+
+msgid "The Wrist 2"
+msgstr "المعصم 2"
+
+msgid "The She-Camel's Brand 1"
+msgstr "وسم الناقة 1"
+
+msgid "The She-Camel's Brand 2"
+msgstr "وسم الناقة 2"
+
+msgid "The Lion's Nostrils"
+msgstr "النثرة"
+
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like lightning. See Ref. # 2.
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like light shining. See Ref. # 2.
+msgid "The Shining One"
+msgstr "المشتري"
+
+#. TRANSLATORS: Az- Zuharah is the native proper name for Venus, derived from
+#. brightness and beauty. See Ref. # 2.
+msgid "The Beautiful Bright One"
+msgstr "الزهرة"
+
+#. TRANSLATORS: Al-Merrikh is the native proper name for Mars, derived from
+#. Marakh (ARABIC: مرخ), a plant which is used to start fire. See Ref. # 2.
+msgid "The Fire Starter"
+msgstr "المريخ"
+
+#. TRANSLATORS: Zuhal is the native proper name for Saturn, derived from
+#. remoteness.  See Ref. # 2.
+msgid "The Remote one"
+msgstr "زحل"
+
+#. TRANSLATORS: Utarid is the native proper name for Mercury, derived from
+#. unstableness (mercurial).  See Ref. # 2.
+msgid "The Unstable"
+msgstr "عطارد"
+
+#. TRANSLATORS: Ush-shams is the native proper name for the Sun.
+msgid "Ush-Shams"
+msgstr "الشمس"
+
+#. TRANSLATORS: Al-Qamar is the native proper name for the Moon, derived from
+#. strong whiteness.  See Ref. # 2. and Taj al-Arous lexicon.
+msgid "The Strongly White"
+msgstr "القمر"
+
+msgid "The Two Calves 1"
+msgstr "الفرقدان 1"
+
+msgid "The Two Calves 2"
+msgstr "الفرقدان 2"
+
+msgid "The Two Front Ones 1"
+msgstr "المقدمان 1"
+
+msgid "The Two Front Ones 2"
+msgstr "المقدمان 2"
+
+msgid "The Two Lame Ones 1"
+msgstr "الأعرجان 1"
+
+msgid "The Two Lame Ones 2"
+msgstr "الأعرجان 2"
+
+msgid "The Dark Camel"
+msgstr "الجون"
+
+msgid "The Little Goat"
+msgstr "العناق"
+
+#. TRANSLATORS: Aslam is a proper name
+msgid "Aslam"
+msgstr "أسلم"
+
+#. TRANSLATORS: As-Saydaq is a proper name
+msgid "As-Saydaq"
+msgstr "الصيدق"
+
+msgid "The Leader"
+msgstr "‎‎القائد‎‎"
+
+msgid "The Two Preceding To The Water 1"
+msgstr "الفارطان 1"
+
+msgid "The Two Preceding To The Water 2"
+msgstr "الفارطان 2"
+
+msgid "Liver Of The Lion"
+msgstr "كبد الأسد"
+
+msgid "The She-Camel's Hump"
+msgstr "سنام الناقة"
+
+msgid "The Trotting Camel"
+msgstr "‎‎الراقص‎‎"
+
+msgid "The Baby Camel"
+msgstr "الرُّبَع"
+
+msgid "The Three Stone Support 1"
+msgstr "الأثافي 1"
+
+msgid "The Three Stone Support 2"
+msgstr "الأثافي 2"
+
+msgid "The Three Stone Support 3"
+msgstr "الأثافي 3"
+
+msgid "The Two Wolves 1"
+msgstr "الذئبان 1"
+
+msgid "The Two Wolves 2"
+msgstr "الذئبان 2"
+
+msgid "The Two Black Birds 1"
+msgstr "العوهقان 1"
+
+msgid "The Two Black Birds 2"
+msgstr "العوهقان 2"
+
+msgid "The Two Falcons 1"
+msgstr "الحران 1"
+
+msgid "The Two Falcons 2"
+msgstr "الحران 2"
+
+msgid "The Male Hyena"
+msgstr "‎‎الذيخ‎‎"
+
+msgid "The [Northern] Shepherd"
+msgstr "الراعي الشمالي"
+
+msgid "The [Northern] Shepherd Dog"
+msgstr "كلب الراعي الشمالي"
+
+msgid "The Two Stars Of Separation 1"
+msgstr "كوكبا الفرق 1"
+
+msgid "The White One"
+msgstr "الأبيض"
+
+msgid "The Two Stars Of Separation 2"
+msgstr "كوكبا الفرق 2"
+
+msgid "The Horse Forehead Star"
+msgstr "القرحة"
+
+msgid "The High One With The Spear"
+msgstr "السماك الرامح"
+
+msgid "The Spear 1"
+msgstr "الرمح 1"
+
+msgid "The Spear 2"
+msgstr "الرمح 2"
+
+msgid "The Front Spear Tassel"
+msgstr "عذبة الرمح الأمامية"
+
+msgid "The Rear Spear Tassel"
+msgstr "عذبة الرمح الخلفية"
+
+msgid "Flag Of The High One"
+msgstr "راية السماك"
+
+#. TRANSLATORS: Al-Fakkah is an incomlete circle
+msgid "The Bright Star Of Al-Fakkah"
+msgstr "منير الفكة"
+
+msgid "The Landing Eagle Claws 1"
+msgstr "أظفار النسر الواقع 1"
+
+msgid "The Landing Eagle Claws 2"
+msgstr "أظفار النسر الواقع 2"
+
+msgid "The Rear Knight"
+msgstr "الردف"
+
+msgid "The Knights 1"
+msgstr "‎‎الفوارس 1‎‎"
+
+msgid "The Knights 2"
+msgstr "‎‎الفوارس 2‎‎"
+
+msgid "The Knights 3"
+msgstr "‎‎الفوارس 3‎‎"
+
+msgid "The Knights 4"
+msgstr "‎‎الفوارس 4‎‎"
+
+msgid "The Knights 5"
+msgstr "‎‎الفوارس 5‎‎"
+
+msgid "Bend Of The Hand"
+msgstr "المأبض"
+
+msgid "Tip Of The Elbow"
+msgstr "إبرة المرفق"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: This is a proper name
+msgid "Al-Ayyuq"
+msgstr "العيوق"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya watcher"
+msgstr "رقيب الثريا"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: Al-Ayyuq is a proper name
+msgid "Foot Of Al-Ayyuq"
+msgstr "رجل العيوق"
+
+msgid "The Posts 1"
+msgstr "الأعلام 1"
+
+msgid "The Posts 2"
+msgstr "الأعلام 2"
+
+msgid "The Posts 3"
+msgstr "الأعلام 3"
+
+msgid "The Associates Of Al-Ayyuq 1"
+msgstr "توابع العيوق 1"
+
+msgid "The Associates Of Al-Ayyuq 2"
+msgstr "توابع العيوق 2"
+
+msgid "The Associates Of Al-Ayyuq 3"
+msgstr "توابع العيوق 3"
+
+msgid "The [Southern] Shepherd"
+msgstr "الراعي الجنوبي"
+
+msgid "First Dog Of The [Southern] Shepherd"
+msgstr "كلب الراعي الجنوبي الأول"
+
+msgid "Second Dog Of The [Southern] Shepherd"
+msgstr "كلب الراعي الجنوبي الثاني"
+
+msgid "The Post Of The Cross"
+msgstr "عمود الصليب"
+
+msgid "The Rear Bucket Mouth 2"
+msgstr "الفرغ المؤخر 2"
+
+msgid "The Rear Bucket Mouth 1"
+msgstr "الفرغ المؤخر 1"
+
+msgid "The Front Bucket Mouth 2"
+msgstr "الفرغ المقدم 2"
+
+msgid "The Front Bucket Mouth 1"
+msgstr "الفرغ المقدم 1"
+
+msgid "The Lower Cross Beam 2"
+msgstr "العرقوة السفلى 2"
+
+msgid "The Lower Cross Beam 1"
+msgstr "العرقوة السفلى 1"
+
+msgid "The Upper Cross Beam 2"
+msgstr "العرقوة العليا 2"
+
+msgid "The Upper Cross Beam 1"
+msgstr "العرقوة العليا 1"
+
+msgid "Abdomen Of The Fish"
+msgstr "بطن السمكة"
+
+msgid "Abdomen Of The Whale"
+msgstr "بطن الحوت"
+
+msgid "The Two Forelegs 1"
+msgstr "الأيبسان 1"
+
+msgid "The Two Forelegs 2"
+msgstr "الأيبسان 2"
+
+msgid "The Male Camel"
+msgstr "الفنيق"
+
+msgid "The Wood Stirring Rod"
+msgstr "المجدح"
+
+msgid "The Camel Herder"
+msgstr "الحادي"
+
+msgid "Stars Of Abundant Rain 1"
+msgstr "التحايي 1"
+
+msgid "Stars Of Abundant Rain 2"
+msgstr "التحايي 2"
+
+msgid "Stars Of Abundant Rain 3"
+msgstr "التحايي 3"
+
+#. TRANSLATORS: Az-zir is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Az-Zir"
+msgstr "الزر"
+
+#. TRANSLATORS: Al-Maysan is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Maysan"
+msgstr "الميسان"
+
+msgid "The Eyelashes 1"
+msgstr "الأشفار 1"
+
+msgid "The Eyelashes 2"
+msgstr "الأشفار 2"
+
+msgid "The Eyelashes 3"
+msgstr "الأشفار 3"
+
+msgid "The Eyelashes 4"
+msgstr "الأشفار 4"
+
+msgid "The Unarmed High One"
+msgstr "السماك الأعزل"
+
+msgid "Veins Of The Heart 1"
+msgstr "النياط 1"
+
+msgid "Veins Of The Heart 2"
+msgstr "النياط 2"
+
+msgid "Tail Segments Of The Scorpion 1"
+msgstr "الفقرات 1"
+
+msgid "Tail Segments Of The Scorpion 2"
+msgstr "الفقرات 2"
+
+msgid "Tail Segments Of The Scorpion 3"
+msgstr "الفقرات 3"
+
+msgid "Tail Segments Of The Scorpion 4"
+msgstr "الفقرات 4"
+
+msgid "Tail Segments Of The Scorpion 5"
+msgstr "الفقرات 5"
+
+msgid "Tail Segments Of The Scorpion 6"
+msgstr "الفقرات 6"
+
+msgid "Tail Segments Of The Scorpion 7"
+msgstr "الفقرات 7"
+
+msgid "The Follower"
+msgstr "‎‎التابع"
+
+msgid "The Two Shrikes 1"
+msgstr "الصردان 1"
+
+msgid "The Two Shrikes 2"
+msgstr "الصردان 2"
+
+msgid "The Two Doves 1"
+msgstr "اليمامتان 1"
+
+msgid "The Two Doves 2"
+msgstr "اليمامتان 2"
+
+msgid "The Sheep"
+msgstr "الشاة"
+
+msgid "The Two Male Ostriches 1"
+msgstr "الظليمان 1"
+
+msgid "The Two Male Ostriches 2"
+msgstr "الظليمان 2"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Shoulder Of Al-Jawza"
+msgstr "منكب الجوزاء"
+
+#. TRANSLATORS: The southern Shi'ra is a proper Arabic name of Sirius
+#. TRANSLATORS: Al-Shi'ra is a proper name of Sirius
+msgid "The Southern Shi'ra"
+msgstr "‎‎الشعرى اليمانية‎‎"
+
+#. TRANSLATORS: The crossing Shi'ra is a proper Arabic name of Sirius
+msgid "The Crossing Shi'ra"
+msgstr "الشعرى العبور"
+
+#. TRANSLATORS: Mirzam is an associate star of the crossing Shi'ra which is a
+#. proper Arabic name of Sirius
+msgid "Mirzam Of The Crossing Shi'ra"
+msgstr "مرزم العبور"
+
+#. TRANSLATORS: Mirzam is an associate star of Al-Shi'ra which is a proper
+#. Arabic name of Sirius
+msgid "Mirzam Of Al-Shi'ra"
+msgstr "مرزم الشعرى"
+
+#. TRANSLATORS: The northern Shi'ra is a proper Arabic name of Procyon
+#. TRANSLATORS: Al-Shi'ra is a proper name
+msgid "The Northern Shi'ra"
+msgstr "‎‎الشعرى الشامية‎‎"
+
+#. TRANSLATORS: The tearful Shi'ra is a proper Arabic name of Procyon
+msgid "The Tearful Shi'ra"
+msgstr "الشعرى الغميصاء"
+
+#. TRANSLATORS: Mirzam is an associate star of the tearful Shi'ra, which is a
+#. proper Arabic name of Procyon. The two stars together are called the Arm.
+msgid "Mirzam of The Arm"
+msgstr "مرزم الذراع"
+
+#. TRANSLATORS: Suhayl Balqayn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Balqayn"
+msgstr "سهيل بلقين"
+
+#. TRANSLATORS: Suhayl Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Hadari"
+msgstr "سهيل حضار"
+
+#. TRANSLATORS: Suhayl Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Al-Wazn"
+msgstr "سهيل الوزن"
+
+#. TRANSLATORS: Suhayl Raqashi is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Raqashi"
+msgstr "سهيل رقاش"
+
+msgid "The Sole One"
+msgstr "الفرد"
+
+msgid "Oath Star"
+msgstr "المحلف"
+
+#. TRANSLATORS: Al-Muqil is a proper name
+msgid "Al-Muqil"
+msgstr "المعقل"

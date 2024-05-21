@@ -1,0 +1,897 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Vietnamese (https://app.transifex.com/stellarium/teams/80998/"
+"vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Arabic (Indigenous)"
+msgstr ""
+
+msgid "The Eyes"
+msgstr "Đôi Mắt"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Al-Thurayya"
+
+msgid "The Oryx"
+msgstr ""
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr ""
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr ""
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr ""
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr ""
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr ""
+
+msgid "The Little Abdomen"
+msgstr ""
+
+msgid "The Arm"
+msgstr "Cánh tay"
+
+msgid "The Nostrils"
+msgstr ""
+
+msgid "The Forehead"
+msgstr ""
+
+msgid "The Mane"
+msgstr ""
+
+msgid "The Bend"
+msgstr "Đường cong"
+
+msgid "The Cover"
+msgstr ""
+
+msgid "The Diadem"
+msgstr ""
+
+msgid "Raised Tail Of The Scorpion"
+msgstr ""
+
+msgid "The Scorpion"
+msgstr "Bò Cạp"
+
+msgid "The Empty Place"
+msgstr ""
+
+msgid "The Ostriches"
+msgstr "Đà điểu"
+
+msgid "The Lucky Star Of The Slaughterer"
+msgstr ""
+
+msgid "The Lucky Star Of The Swallower"
+msgstr ""
+
+msgid "The Luckiest Of The Lucky Stars"
+msgstr ""
+
+msgid "The Lucky Star Of The Tents"
+msgstr ""
+
+msgid "The Circular Mark"
+msgstr ""
+
+msgid "The Downward Bend"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr ""
+
+msgid "The Kid"
+msgstr "Đứa trẻ"
+
+msgid "The Watcher"
+msgstr ""
+
+msgid "The Claws 1"
+msgstr ""
+
+msgid "The Claws 2"
+msgstr ""
+
+msgid "The Claws 3"
+msgstr ""
+
+msgid "The Claws 4"
+msgstr ""
+
+msgid "The Claws 5"
+msgstr ""
+
+msgid "The Claws 6"
+msgstr ""
+
+msgid "Star Of Weather Change"
+msgstr ""
+
+msgid "The Heart"
+msgstr "Trái tim"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Leg Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: Suhayl is a proper name
+#. TRANSLATORS: ٍSuhayl is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl"
+msgstr "Suhayl"
+
+msgid "The Two Oryx Calves"
+msgstr ""
+
+msgid "The Axe Of The Grindstone"
+msgstr ""
+
+#. TRANSLATORS: Na'sh is a proper name meaning bier
+#. TRANSLATORS: Na'sh is a proper name
+msgid "Daughters Of Na'sh"
+msgstr ""
+
+msgid "The Gazelles And Their Youngsters"
+msgstr ""
+
+msgid "The First Leap"
+msgstr ""
+
+msgid "The Second Leap"
+msgstr ""
+
+msgid "The Third Leap"
+msgstr ""
+
+msgid "The Two Preceding To The Water"
+msgstr ""
+
+msgid "The Pool"
+msgstr ""
+
+msgid "The Two Wolves"
+msgstr ""
+
+msgid "The Wolf Claws"
+msgstr ""
+
+msgid "The Mother Camels"
+msgstr ""
+
+msgid "The Three Stone Support"
+msgstr ""
+
+msgid "The Pot"
+msgstr ""
+
+msgid "The Shepherd And The Sheep"
+msgstr ""
+
+msgid "The Two Separated Stars"
+msgstr ""
+
+msgid "The Armed One"
+msgstr ""
+
+msgid "The Spear"
+msgstr "Cây giáo"
+
+msgid "The Unarmed One"
+msgstr ""
+
+msgid "The Hyenas And Their Youngsters"
+msgstr ""
+
+msgid "The Bowl Of The Poor"
+msgstr ""
+
+msgid "The Desert Garden And The Goats"
+msgstr ""
+
+msgid "The Northern Line"
+msgstr ""
+
+msgid "The Southern Line"
+msgstr ""
+
+msgid "The Landing Eagle"
+msgstr ""
+
+msgid "The Flying Eagle"
+msgstr ""
+
+msgid "The Knights"
+msgstr ""
+
+msgid "The She-Camel"
+msgstr ""
+
+msgid "Head Of The She-Camel"
+msgstr ""
+
+msgid "Neck Of The She-Camel"
+msgstr ""
+
+msgid "Legs Of The She-Camel"
+msgstr ""
+
+msgid "The She-Camel's Hump - The Henna Tinted Hand"
+msgstr ""
+
+msgid "The Shoulder Blade"
+msgstr ""
+
+msgid "The Shoulder"
+msgstr ""
+
+msgid "The Elbow"
+msgstr "Khuỷu Tay"
+
+msgid "The Forearm"
+msgstr ""
+
+msgid "The Wrist"
+msgstr ""
+
+msgid "The Leprous Hand"
+msgstr ""
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "Al-Ayyuq And The Posts"
+msgstr ""
+
+msgid "The Northern Tent"
+msgstr ""
+
+msgid "The Young Camel"
+msgstr ""
+
+msgid "The Caracal"
+msgstr "Linh miêu"
+
+msgid "The Well Bucket"
+msgstr ""
+
+msgid "The Bucket Rope Knot"
+msgstr ""
+
+msgid "The Front Bucket Mouth"
+msgstr ""
+
+msgid "The Rear Bucket Mouth"
+msgstr ""
+
+msgid "The Bucket Rope"
+msgstr ""
+
+msgid "The Fish"
+msgstr ""
+
+msgid "The Empty Place Of The Fox"
+msgstr ""
+
+msgid "The Lamb"
+msgstr ""
+
+msgid "The Two Forelegs Of The Lamb"
+msgstr ""
+
+msgid "The Two Signs"
+msgstr ""
+
+#. TRANSLATORS: This is a proper name
+msgid "Al-Dabaran"
+msgstr ""
+
+#. TRANSLATORS: Al-Dabaran is a proper name meaning the follower
+msgid "The Two Dogs Of Al-Dabaran"
+msgstr ""
+
+msgid "The Young She-Camels"
+msgstr ""
+
+msgid "The Lion"
+msgstr "Sư Tử"
+
+msgid "The Retracted Arm"
+msgstr ""
+
+msgid "The Extended Arm"
+msgstr ""
+
+msgid "The Tassel"
+msgstr ""
+
+msgid "The Scorpion's Sting"
+msgstr ""
+
+msgid "The Ostriches Drinking At The River"
+msgstr ""
+
+msgid "The Ostriches Leaving The River"
+msgstr ""
+
+msgid "The Ostrich Nest - The Necklace"
+msgstr ""
+
+msgid "The Dome-Like Tent"
+msgstr ""
+
+#. TRANSLATORS: Nashira is a proper name
+msgid "The Lucky Star Of Nashira"
+msgstr ""
+
+msgid "The Lucky Star Of The King"
+msgstr ""
+
+msgid "The Lucky Star Of The Young Sheep"
+msgstr ""
+
+msgid "The Lucky Star Of The One With Great Endeavour"
+msgstr ""
+
+msgid "The Lucky Star Of The Excellent One"
+msgstr ""
+
+#. TRANSLATORS: Matar is a proper name meaning rain
+#. TRANSLATORS: Matar is a proper name meaning rain.
+msgid "The Lucky Star Of Matar"
+msgstr ""
+
+msgid "The Ringed Rope"
+msgstr ""
+
+msgid "The Circular Mark‎"
+msgstr ""
+
+msgid "The String"
+msgstr ""
+
+msgid "The Young Maids"
+msgstr ""
+
+msgid "Hair Braids Of Al-Jawza"
+msgstr ""
+
+msgid "Bow Of Al-Jawza"
+msgstr ""
+
+msgid "Stars Of Abundant Rain"
+msgstr ""
+
+msgid "The Front Footstool Of Al-Jawza"
+msgstr ""
+
+msgid "The Rear Footstool Of Al-Jawza"
+msgstr ""
+
+msgid "The Virgins"
+msgstr ""
+
+msgid "The Ravens"
+msgstr ""
+
+msgid "The Ostriches Nest, The Eggs And Egg Shells"
+msgstr ""
+
+msgid "The Oryxes"
+msgstr ""
+
+msgid "The Tied Camels"
+msgstr ""
+
+msgid "The Trough"
+msgstr ""
+
+msgid "The Southern Tent"
+msgstr ""
+
+msgid "The Date Clusters"
+msgstr ""
+
+msgid "The Horses And The Foals"
+msgstr ""
+
+msgid "The Two Shrikes"
+msgstr ""
+
+msgid "The Two Doves"
+msgstr ""
+
+msgid "The Two Male Ostriches"
+msgstr ""
+
+msgid "The Young Ostriches"
+msgstr ""
+
+msgid "The Larks"
+msgstr ""
+
+msgid "The Sandgrouses"
+msgstr ""
+
+msgid "The Wild Asses"
+msgstr ""
+
+msgid "The Ladder"
+msgstr ""
+
+msgid "The Wrist 1"
+msgstr ""
+
+msgid "The Wrist 2"
+msgstr ""
+
+msgid "The She-Camel's Brand 1"
+msgstr ""
+
+msgid "The She-Camel's Brand 2"
+msgstr ""
+
+msgid "The Lion's Nostrils"
+msgstr ""
+
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like lightning. See Ref. # 2.
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like light shining. See Ref. # 2.
+msgid "The Shining One"
+msgstr ""
+
+#. TRANSLATORS: Az- Zuharah is the native proper name for Venus, derived from
+#. brightness and beauty. See Ref. # 2.
+msgid "The Beautiful Bright One"
+msgstr ""
+
+#. TRANSLATORS: Al-Merrikh is the native proper name for Mars, derived from
+#. Marakh (ARABIC: مرخ), a plant which is used to start fire. See Ref. # 2.
+msgid "The Fire Starter"
+msgstr ""
+
+#. TRANSLATORS: Zuhal is the native proper name for Saturn, derived from
+#. remoteness.  See Ref. # 2.
+msgid "The Remote one"
+msgstr ""
+
+#. TRANSLATORS: Utarid is the native proper name for Mercury, derived from
+#. unstableness (mercurial).  See Ref. # 2.
+msgid "The Unstable"
+msgstr ""
+
+#. TRANSLATORS: Ush-shams is the native proper name for the Sun.
+msgid "Ush-Shams"
+msgstr ""
+
+#. TRANSLATORS: Al-Qamar is the native proper name for the Moon, derived from
+#. strong whiteness.  See Ref. # 2. and Taj al-Arous lexicon.
+msgid "The Strongly White"
+msgstr ""
+
+msgid "The Two Calves 1"
+msgstr ""
+
+msgid "The Two Calves 2"
+msgstr ""
+
+msgid "The Two Front Ones 1"
+msgstr ""
+
+msgid "The Two Front Ones 2"
+msgstr ""
+
+msgid "The Two Lame Ones 1"
+msgstr ""
+
+msgid "The Two Lame Ones 2"
+msgstr ""
+
+msgid "The Dark Camel"
+msgstr ""
+
+msgid "The Little Goat"
+msgstr ""
+
+#. TRANSLATORS: Aslam is a proper name
+msgid "Aslam"
+msgstr ""
+
+#. TRANSLATORS: As-Saydaq is a proper name
+msgid "As-Saydaq"
+msgstr ""
+
+msgid "The Leader"
+msgstr "Người lãnh đạo"
+
+msgid "The Two Preceding To The Water 1"
+msgstr ""
+
+msgid "The Two Preceding To The Water 2"
+msgstr ""
+
+msgid "Liver Of The Lion"
+msgstr ""
+
+msgid "The She-Camel's Hump"
+msgstr ""
+
+msgid "The Trotting Camel"
+msgstr "Lạc đà Kéo xe"
+
+msgid "The Baby Camel"
+msgstr ""
+
+msgid "The Three Stone Support 1"
+msgstr ""
+
+msgid "The Three Stone Support 2"
+msgstr ""
+
+msgid "The Three Stone Support 3"
+msgstr ""
+
+msgid "The Two Wolves 1"
+msgstr ""
+
+msgid "The Two Wolves 2"
+msgstr ""
+
+msgid "The Two Black Birds 1"
+msgstr ""
+
+msgid "The Two Black Birds 2"
+msgstr ""
+
+msgid "The Two Falcons 1"
+msgstr ""
+
+msgid "The Two Falcons 2"
+msgstr ""
+
+msgid "The Male Hyena"
+msgstr "Linh Cẩu Đực"
+
+msgid "The [Northern] Shepherd"
+msgstr ""
+
+msgid "The [Northern] Shepherd Dog"
+msgstr ""
+
+msgid "The Two Stars Of Separation 1"
+msgstr ""
+
+msgid "The White One"
+msgstr ""
+
+msgid "The Two Stars Of Separation 2"
+msgstr ""
+
+msgid "The Horse Forehead Star"
+msgstr ""
+
+msgid "The High One With The Spear"
+msgstr ""
+
+msgid "The Spear 1"
+msgstr ""
+
+msgid "The Spear 2"
+msgstr ""
+
+msgid "The Front Spear Tassel"
+msgstr ""
+
+msgid "The Rear Spear Tassel"
+msgstr ""
+
+msgid "Flag Of The High One"
+msgstr ""
+
+#. TRANSLATORS: Al-Fakkah is an incomlete circle
+msgid "The Bright Star Of Al-Fakkah"
+msgstr ""
+
+msgid "The Landing Eagle Claws 1"
+msgstr ""
+
+msgid "The Landing Eagle Claws 2"
+msgstr ""
+
+msgid "The Rear Knight"
+msgstr ""
+
+msgid "The Knights 1"
+msgstr "Hiệp sĩ 1"
+
+msgid "The Knights 2"
+msgstr "Hiệp sĩ 2"
+
+msgid "The Knights 3"
+msgstr "Hiệp sĩ 3"
+
+msgid "The Knights 4"
+msgstr "Hiệp sĩ 4"
+
+msgid "The Knights 5"
+msgstr "Hiệp sĩ 5"
+
+msgid "Bend Of The Hand"
+msgstr ""
+
+msgid "Tip Of The Elbow"
+msgstr ""
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: This is a proper name
+msgid "Al-Ayyuq"
+msgstr ""
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya watcher"
+msgstr ""
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: Al-Ayyuq is a proper name
+msgid "Foot Of Al-Ayyuq"
+msgstr ""
+
+msgid "The Posts 1"
+msgstr ""
+
+msgid "The Posts 2"
+msgstr ""
+
+msgid "The Posts 3"
+msgstr ""
+
+msgid "The Associates Of Al-Ayyuq 1"
+msgstr ""
+
+msgid "The Associates Of Al-Ayyuq 2"
+msgstr ""
+
+msgid "The Associates Of Al-Ayyuq 3"
+msgstr ""
+
+msgid "The [Southern] Shepherd"
+msgstr ""
+
+msgid "First Dog Of The [Southern] Shepherd"
+msgstr ""
+
+msgid "Second Dog Of The [Southern] Shepherd"
+msgstr ""
+
+msgid "The Post Of The Cross"
+msgstr ""
+
+msgid "The Rear Bucket Mouth 2"
+msgstr ""
+
+msgid "The Rear Bucket Mouth 1"
+msgstr ""
+
+msgid "The Front Bucket Mouth 2"
+msgstr ""
+
+msgid "The Front Bucket Mouth 1"
+msgstr ""
+
+msgid "The Lower Cross Beam 2"
+msgstr ""
+
+msgid "The Lower Cross Beam 1"
+msgstr ""
+
+msgid "The Upper Cross Beam 2"
+msgstr ""
+
+msgid "The Upper Cross Beam 1"
+msgstr ""
+
+msgid "Abdomen Of The Fish"
+msgstr ""
+
+msgid "Abdomen Of The Whale"
+msgstr ""
+
+msgid "The Two Forelegs 1"
+msgstr ""
+
+msgid "The Two Forelegs 2"
+msgstr ""
+
+msgid "The Male Camel"
+msgstr ""
+
+msgid "The Wood Stirring Rod"
+msgstr ""
+
+msgid "The Camel Herder"
+msgstr ""
+
+msgid "Stars Of Abundant Rain 1"
+msgstr ""
+
+msgid "Stars Of Abundant Rain 2"
+msgstr ""
+
+msgid "Stars Of Abundant Rain 3"
+msgstr ""
+
+#. TRANSLATORS: Az-zir is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Az-Zir"
+msgstr ""
+
+#. TRANSLATORS: Al-Maysan is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Maysan"
+msgstr ""
+
+msgid "The Eyelashes 1"
+msgstr ""
+
+msgid "The Eyelashes 2"
+msgstr ""
+
+msgid "The Eyelashes 3"
+msgstr ""
+
+msgid "The Eyelashes 4"
+msgstr ""
+
+msgid "The Unarmed High One"
+msgstr ""
+
+msgid "Veins Of The Heart 1"
+msgstr ""
+
+msgid "Veins Of The Heart 2"
+msgstr ""
+
+msgid "Tail Segments Of The Scorpion 1"
+msgstr ""
+
+msgid "Tail Segments Of The Scorpion 2"
+msgstr ""
+
+msgid "Tail Segments Of The Scorpion 3"
+msgstr ""
+
+msgid "Tail Segments Of The Scorpion 4"
+msgstr ""
+
+msgid "Tail Segments Of The Scorpion 5"
+msgstr ""
+
+msgid "Tail Segments Of The Scorpion 6"
+msgstr ""
+
+msgid "Tail Segments Of The Scorpion 7"
+msgstr ""
+
+msgid "The Follower"
+msgstr "Người theo dõi"
+
+msgid "The Two Shrikes 1"
+msgstr ""
+
+msgid "The Two Shrikes 2"
+msgstr ""
+
+msgid "The Two Doves 1"
+msgstr ""
+
+msgid "The Two Doves 2"
+msgstr ""
+
+msgid "The Sheep"
+msgstr ""
+
+msgid "The Two Male Ostriches 1"
+msgstr ""
+
+msgid "The Two Male Ostriches 2"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Shoulder Of Al-Jawza"
+msgstr ""
+
+#. TRANSLATORS: The southern Shi'ra is a proper Arabic name of Sirius
+#. TRANSLATORS: Al-Shi'ra is a proper name of Sirius
+msgid "The Southern Shi'ra"
+msgstr "The Southern Shi'ra"
+
+#. TRANSLATORS: The crossing Shi'ra is a proper Arabic name of Sirius
+msgid "The Crossing Shi'ra"
+msgstr ""
+
+#. TRANSLATORS: Mirzam is an associate star of the crossing Shi'ra which is a
+#. proper Arabic name of Sirius
+msgid "Mirzam Of The Crossing Shi'ra"
+msgstr ""
+
+#. TRANSLATORS: Mirzam is an associate star of Al-Shi'ra which is a proper
+#. Arabic name of Sirius
+msgid "Mirzam Of Al-Shi'ra"
+msgstr ""
+
+#. TRANSLATORS: The northern Shi'ra is a proper Arabic name of Procyon
+#. TRANSLATORS: Al-Shi'ra is a proper name
+msgid "The Northern Shi'ra"
+msgstr "Shi'ra phương nam"
+
+#. TRANSLATORS: The tearful Shi'ra is a proper Arabic name of Procyon
+msgid "The Tearful Shi'ra"
+msgstr ""
+
+#. TRANSLATORS: Mirzam is an associate star of the tearful Shi'ra, which is a
+#. proper Arabic name of Procyon. The two stars together are called the Arm.
+msgid "Mirzam of The Arm"
+msgstr ""
+
+#. TRANSLATORS: Suhayl Balqayn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Balqayn"
+msgstr ""
+
+#. TRANSLATORS: Suhayl Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Hadari"
+msgstr ""
+
+#. TRANSLATORS: Suhayl Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Al-Wazn"
+msgstr ""
+
+#. TRANSLATORS: Suhayl Raqashi is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Raqashi"
+msgstr ""
+
+msgid "The Sole One"
+msgstr ""
+
+msgid "Oath Star"
+msgstr ""
+
+#. TRANSLATORS: Al-Muqil is a proper name
+msgid "Al-Muqil"
+msgstr ""
