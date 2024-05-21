@@ -1,0 +1,982 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alex Rijckaert, 2023\n"
+"Language-Team: Dutch (https://app.transifex.com/stellarium/teams/80998/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Arabic (Indigenous)"
+msgstr "Arabisch Iinheems)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Arabic sky culture displays the indigenous star knowledge of the ancient "
+"Arabs living in the Arabian Peninsula prior to the Greek astronomy influence "
+"in the ninth century."
+msgstr ""
+"De Arabische hemelcultuur toont de inheemse sterrenkennis van de oude "
+"Arabieren die op het Arabisch schiereiland leefden vóór de Griekse invloed "
+"op de astronomie in de negende eeuw."
+
+# Sky culture description section in markdown format
+msgid ""
+"The star knowledge of the ancient Arabs had been recorded and preserved in "
+"old poetry and in the old works of Arab philologists and lexicographers of "
+"the Islamic civilization. Many books were written on the subject of star "
+"knowledge and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. "
+"The editors of Ibn Qutaybah's *Kitāb al-Anwāʾ* (9th century) listed twenty-"
+"four books on this subject written mostly between early eighth and tenth "
+"century[#2]. The only completely preserved text is that of Ibn Qutaybah, but "
+"later scholars had quoted many of the earlier texts. One of the most "
+"significant works that recorded the indigenous Arab star names is the *Book "
+"of the stars* written in ~ 964 AD by the prominent astronomer: al-Ṣūfī, "
+"where he identified the indigenous Arab star names with the respective "
+"Ptolemaic stars of the Greek constellations[#5].\n"
+"\n"
+"### Sources of the Arabic sky culture\n"
+"\n"
+"The source of this sky culture is a study and compilation of star knowledge "
+"of ancient Arabs from the following books: [#2], [#3], [#4], [#5], [#6], "
+"[#8], [#9]."
+msgstr ""
+"De sterrenkennis van de oude Arabieren is opgetekend en bewaard gebleven in "
+"oude poëzie en in de oude werken van Arabische filologen en lexicografen van "
+"de islamitische beschaving. Vele boeken werden geschreven over het onderwerp "
+"van sterrenkennis en anwāʾ [Arabisch الأنواء], de Arabische kennis van de "
+"meteorologie. De redactie van Ibn Qutaybah's *Kitāb al-Anwāʾ* ((9e eeuw) "
+"vermeldde vierentwintig boeken over dit onderwerp die meestal tussen het "
+"begin van de achtste en de tiende eeuw zijn geschreven[#2]. De enige "
+"volledig bewaarde tekst is die van Ibn Qutaybah, maar latere geleerden "
+"hadden veel van de vroegere teksten geciteerd. Een van de belangrijkste "
+"werken waarin de inheemse Arabische sterrennamen zijn vastgelegd is het "
+"*Book of the stars* geschreven in ~ 964 AD door de vooraanstaande astronoom: "
+"al-Ṣūfī, waarin hij de inheemse Arabische sterrennamen identificeerde met de "
+"respectievelijke Ptolemaeïsche sterren van de Griekse sterrenbeelden[#5].\n"
+"\n"
+"### Bronnen van de Arabische hemelcultuur\n"
+"\n"
+"De bron van deze hemelcultuur is een studie en compilatie van de "
+"sterrenkennis van de oude Arabieren uit de volgende boeken: [#2], [#3], "
+"[#4], [#5], [#6], [#8], [#9]."
+
+# Sky culture constellations section in markdown format
+msgid ""
+"The ancient Arabs gave names to single stars, star couples, an area in the "
+"sky, and particular shape of a group of stars. Single stars were named after "
+"a human figure or a desert animal, Arcturus is al-Simāk al-Rāmiḥ, meaning: "
+"The High one with the spear. Canopus is Suhayl, a proper name of a man. We "
+"have also stars named: The Caracal and the Kid (the young goat). If two "
+"stars of comparable brightness are close to each other, they are given a "
+"common name like: The two Calves, the Two Wolves, The Two doves. Sometimes "
+"an area is named after a group of animals. The brighter stars are adult "
+"animals, and the faint ones are the young animals like: The Hyenas and their "
+"youngsters, The horses and the foals. Particular shapes of stars were given "
+"names like the Scorpion, The lion, al-Ǧawzā’ which is a proper name of a "
+"woman for Orion stars. Other asterisms are given names according to legends "
+"and stories."
+msgstr ""
+"De oude Arabieren gaven namen aan afzonderlijke sterren, sterrenparen, een "
+"gebied aan de hemel, en een bepaalde vorm van een groep sterren. "
+"Enkelvoudige sterren werden genoemd naar een menselijke figuur of een "
+"woestijndier, Arcturus is al-Simāk al-Rāmiḥ, wat betekent: De Verhevene met "
+"de speer. Canopus is Suhayl, een eigennaam van een mens. Wij hebben ook "
+"sterren genaamd: De Caracal en de Kid (de jonge geit). Als twee sterren van "
+"vergelijkbare helderheid dicht bij elkaar staan, krijgen ze een "
+"gemeenschappelijke naam zoals: De twee Kalveren, de Twee Wolven, De Twee "
+"Duiven. Soms wordt een gebied naar een groep dieren genoemd. De helderste "
+"sterren zijn volwassen dieren, en de zwakke sterren zijn de jonge dieren "
+"zoals: De Hyena's en hun jongen, De paarden en de veulens. Bijzondere vormen "
+"van sterren hebben namen gekregen zoals de schorpioen, de leeuw, al-Ǧawzā' "
+"wat een eigennaam van een vrouw is voor de Orionsterren. Andere asterismen "
+"hebben namen gekregen volgens legenden en verhalen."
+
+# Sky culture authors section in markdown format
+msgid "Khalid al-Ajaji: turath.alfalak@gmail.com"
+msgstr "Khalid al-Ajaji: turath.alfalak@gmail.com"
+
+msgid "The Eyes"
+msgstr "De ogen"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Al-Thurayya"
+
+msgid "The Oryx"
+msgstr "De Oryx"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr "Al-Suha"
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Ayyuq Al-Thurayya"
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr "Al-Najidh"
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr "Al-Wazn"
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr "Hadari"
+
+msgid "The Little Abdomen"
+msgstr "De Kleine Buik"
+
+msgid "The Arm"
+msgstr "De arm"
+
+msgid "The Nostrils"
+msgstr "De Neusgaten"
+
+msgid "The Forehead"
+msgstr "Het Voorhoofd"
+
+msgid "The Mane"
+msgstr "De Manen"
+
+msgid "The Bend"
+msgstr "De bocht"
+
+msgid "The Cover"
+msgstr "De Omslag"
+
+msgid "The Diadem"
+msgstr "De Diadeem"
+
+msgid "Raised Tail Of The Scorpion"
+msgstr "Opgeheven Staart Van De Schorpioen"
+
+msgid "The Scorpion"
+msgstr "De Schorpioen"
+
+msgid "The Empty Place"
+msgstr "De Lege Plek"
+
+msgid "The Ostriches"
+msgstr "De struisvogels"
+
+msgid "The Lucky Star Of The Slaughterer"
+msgstr "De Geluksster Van De Slachter"
+
+msgid "The Lucky Star Of The Swallower"
+msgstr "De Geluksster Van De Zwaluw"
+
+msgid "The Luckiest Of The Lucky Stars"
+msgstr "De Gelukkigste Van De Gelukkige Sterren"
+
+msgid "The Lucky Star Of The Tents"
+msgstr "De Geluksster Van De Tenten"
+
+msgid "The Circular Mark"
+msgstr "Het Cirkelvormige Teken"
+
+msgid "The Downward Bend"
+msgstr "De Neerwaartse Bocht"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr "Al-Jawza"
+
+msgid "The Kid"
+msgstr "De uitrusting"
+
+msgid "The Watcher"
+msgstr "De Wachter"
+
+msgid "The Claws 1"
+msgstr "De Klauwen 1"
+
+msgid "The Claws 2"
+msgstr "De Klauwen 2"
+
+msgid "The Claws 3"
+msgstr "De Klauwen 3"
+
+msgid "The Claws 4"
+msgstr "De Klauwen 4"
+
+msgid "The Claws 5"
+msgstr "De Klauwen 5"
+
+msgid "The Claws 6"
+msgstr "De Klauwen 6"
+
+msgid "Star Of Weather Change"
+msgstr "Ster Van De Weerverandering"
+
+msgid "The Heart"
+msgstr "Het hart"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Leg Of Al-Jawza"
+msgstr "Been Van Al-Jawza"
+
+#. TRANSLATORS: Suhayl is a proper name
+#. TRANSLATORS: ٍSuhayl is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl"
+msgstr "Suhayl"
+
+msgid "The Two Oryx Calves"
+msgstr "De Twee Oryx-kalveren"
+
+msgid "The Axe Of The Grindstone"
+msgstr "De Bijl Van De Slijpsteen"
+
+#. TRANSLATORS: Na'sh is a proper name meaning bier
+#. TRANSLATORS: Na'sh is a proper name
+msgid "Daughters Of Na'sh"
+msgstr "Dochters Van Na'sh"
+
+msgid "The Gazelles And Their Youngsters"
+msgstr "De Gazellen En Hun Jongen"
+
+msgid "The First Leap"
+msgstr "De Eerste Sprong"
+
+msgid "The Second Leap"
+msgstr "De Tweede Sprong"
+
+msgid "The Third Leap"
+msgstr "De Derde Sprong"
+
+msgid "The Two Preceding To The Water"
+msgstr "De Twee Voorafgaand Naar Het Water"
+
+msgid "The Pool"
+msgstr "De Poel"
+
+msgid "The Two Wolves"
+msgstr "De Twee Wolven"
+
+msgid "The Wolf Claws"
+msgstr "De Wolfsklauwen"
+
+msgid "The Mother Camels"
+msgstr "De Moederkamelen"
+
+msgid "The Three Stone Support"
+msgstr "De Drie Stenen Steun"
+
+msgid "The Pot"
+msgstr "De Pot"
+
+msgid "The Shepherd And The Sheep"
+msgstr "De Herder En De Schapen"
+
+msgid "The Two Separated Stars"
+msgstr "De Twee Gescheiden Sterren"
+
+msgid "The Armed One"
+msgstr "De Gewapende"
+
+msgid "The Spear"
+msgstr "De speer"
+
+msgid "The Unarmed One"
+msgstr "De Ongewapende"
+
+msgid "The Hyenas And Their Youngsters"
+msgstr "De Hyena's En Hun Jongen"
+
+msgid "The Bowl Of The Poor"
+msgstr "De Kom Der Armen"
+
+msgid "The Desert Garden And The Goats"
+msgstr "De Woestijntuin En De Geiten"
+
+msgid "The Northern Line"
+msgstr "De Noorderlijn"
+
+msgid "The Southern Line"
+msgstr "De Zuiderlijn"
+
+msgid "The Landing Eagle"
+msgstr "De Landende Adelaar"
+
+msgid "The Flying Eagle"
+msgstr "De Vliegende Adelaar"
+
+msgid "The Knights"
+msgstr "De Ridders"
+
+msgid "The She-Camel"
+msgstr "De Vrouwtjeskameel"
+
+msgid "Head Of The She-Camel"
+msgstr "Het Hoofd Van De Vrouwtjeskameel"
+
+msgid "Neck Of The She-Camel"
+msgstr "De Nek Van De Vrouwtjeskameel"
+
+msgid "Legs Of The She-Camel"
+msgstr "Poten Van De Vrouwtjeskameel"
+
+msgid "The She-Camel's Hump - The Henna Tinted Hand"
+msgstr "De Vrouwtjeskameel Bult - De Henna Getinte Hand"
+
+msgid "The Shoulder Blade"
+msgstr "Het Schouderblad"
+
+msgid "The Shoulder"
+msgstr "De Schouder"
+
+msgid "The Elbow"
+msgstr "De elleboog"
+
+msgid "The Forearm"
+msgstr "De Onderarm"
+
+msgid "The Wrist"
+msgstr "De Pols"
+
+msgid "The Leprous Hand"
+msgstr "De Melaatse Hand"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "Al-Ayyuq And The Posts"
+msgstr "Al-Ayyuq En De Posten"
+
+msgid "The Northern Tent"
+msgstr "De Noorse Tent"
+
+msgid "The Young Camel"
+msgstr "De Jonge Kameel"
+
+msgid "The Caracal"
+msgstr "De Caracal"
+
+msgid "The Well Bucket"
+msgstr "De Put Emmer"
+
+msgid "The Bucket Rope Knot"
+msgstr "De Emmer-Touw Knoop"
+
+msgid "The Front Bucket Mouth"
+msgstr "De Voorste Emmermond"
+
+msgid "The Rear Bucket Mouth"
+msgstr "De Achterste Emmermond"
+
+msgid "The Bucket Rope"
+msgstr "Het Emmertouw"
+
+msgid "The Fish"
+msgstr "De vis"
+
+msgid "The Empty Place Of The Fox"
+msgstr "De Lege Plaats Van De Vos"
+
+msgid "The Lamb"
+msgstr "Het Lam"
+
+msgid "The Two Forelegs Of The Lamb"
+msgstr "De Twee Voorpoten Van Het Lam"
+
+msgid "The Two Signs"
+msgstr "De Twee Tekens"
+
+#. TRANSLATORS: This is a proper name
+msgid "Al-Dabaran"
+msgstr "Al-Dabaran"
+
+#. TRANSLATORS: Al-Dabaran is a proper name meaning the follower
+msgid "The Two Dogs Of Al-Dabaran"
+msgstr "De Twee Honden Van Al-Dabaran"
+
+msgid "The Young She-Camels"
+msgstr "De Jonge Vrouwtjeskameel"
+
+msgid "The Lion"
+msgstr "De leeuw"
+
+msgid "The Retracted Arm"
+msgstr "De Ingetrokken Arm"
+
+msgid "The Extended Arm"
+msgstr "De Uitgestrekte Arm"
+
+msgid "The Tassel"
+msgstr "Het Kwastje"
+
+msgid "The Scorpion's Sting"
+msgstr "De Angel Van De Schorpioen"
+
+msgid "The Ostriches Drinking At The River"
+msgstr "De Struisvogels Drinken Bij De Rivier"
+
+msgid "The Ostriches Leaving The River"
+msgstr "De Struisvogels Verlaten De Rivier"
+
+msgid "The Ostrich Nest - The Necklace"
+msgstr "Het Struisvogelnest - De Halsketting"
+
+msgid "The Dome-Like Tent"
+msgstr "De Koepelvormige Tent"
+
+#. TRANSLATORS: Nashira is a proper name
+msgid "The Lucky Star Of Nashira"
+msgstr "De Geluksster Van Nashira"
+
+msgid "The Lucky Star Of The King"
+msgstr "De Geluksster Van De Koning"
+
+msgid "The Lucky Star Of The Young Sheep"
+msgstr "De Geluksster Van Het Jonge Schaap"
+
+msgid "The Lucky Star Of The One With Great Endeavour"
+msgstr "De Geluksster Van Diegene Met Groot Doorzettingsvermogen"
+
+msgid "The Lucky Star Of The Excellent One"
+msgstr "De Geluksster Van De Uitmuntende"
+
+#. TRANSLATORS: Matar is a proper name meaning rain
+#. TRANSLATORS: Matar is a proper name meaning rain.
+msgid "The Lucky Star Of Matar"
+msgstr "De Geluksster Van Matar"
+
+msgid "The Ringed Rope"
+msgstr "Het Geringde Touw"
+
+msgid "The Circular Mark‎"
+msgstr "Het Cirkelvormige Teken"
+
+msgid "The String"
+msgstr "De Snaar"
+
+msgid "The Young Maids"
+msgstr "De Jonge Meiden"
+
+msgid "Hair Braids Of Al-Jawza"
+msgstr "Haarvlechten Van Al-Jawza"
+
+msgid "Bow Of Al-Jawza"
+msgstr "Boog Van Al-Jawza"
+
+msgid "Stars Of Abundant Rain"
+msgstr "Sterren Van Overvloedige Regen"
+
+msgid "The Front Footstool Of Al-Jawza"
+msgstr "De Voorste Voetbank Van Al-Jawza"
+
+msgid "The Rear Footstool Of Al-Jawza"
+msgstr "De Achterste Voetbank Van Al-Jawza"
+
+msgid "The Virgins"
+msgstr "De Maagden"
+
+msgid "The Ravens"
+msgstr "De Raven"
+
+msgid "The Ostriches Nest, The Eggs And Egg Shells"
+msgstr "Het Struisvogelnest, De Eieren En Eierschalen"
+
+msgid "The Oryxes"
+msgstr "De Mijnbouw"
+
+msgid "The Tied Camels"
+msgstr "De Vastgebonden Kamelen"
+
+msgid "The Trough"
+msgstr "De Trog"
+
+msgid "The Southern Tent"
+msgstr "De Zuidelijke Tent"
+
+msgid "The Date Clusters"
+msgstr "De Datum Clusters"
+
+msgid "The Horses And The Foals"
+msgstr "De Paarden En De Veulens"
+
+msgid "The Two Shrikes"
+msgstr "De Twee Spitsmuizen"
+
+msgid "The Two Doves"
+msgstr "De Twee Duiven"
+
+msgid "The Two Male Ostriches"
+msgstr "De Twee Mannetjes Struisvogels"
+
+msgid "The Young Ostriches"
+msgstr "De Jonge Struisvogels"
+
+msgid "The Larks"
+msgstr "De Leeuweriken"
+
+msgid "The Sandgrouses"
+msgstr "De Zandhoenen"
+
+msgid "The Wild Asses"
+msgstr "De Wilde Ezels"
+
+msgid "The Ladder"
+msgstr "De Ladder"
+
+msgid "The Wrist 1"
+msgstr "De Pols 1"
+
+msgid "The Wrist 2"
+msgstr "De Pols 2"
+
+msgid "The She-Camel's Brand 1"
+msgstr "Het Vrouwtjeskameel Brandmerk 1"
+
+msgid "The She-Camel's Brand 2"
+msgstr "Het Vrouwtjeskameel Brandmerk 2"
+
+msgid "The Lion's Nostrils"
+msgstr "De Neusgaten Van De Leeuw"
+
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like lightning. See Ref. # 2.
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like light shining. See Ref. # 2.
+msgid "The Shining One"
+msgstr "De Stralende"
+
+#. TRANSLATORS: Az- Zuharah is the native proper name for Venus, derived from
+#. brightness and beauty. See Ref. # 2.
+msgid "The Beautiful Bright One"
+msgstr "De Mooie Heldere"
+
+#. TRANSLATORS: Al-Merrikh is the native proper name for Mars, derived from
+#. Marakh (ARABIC: مرخ), a plant which is used to start fire. See Ref. # 2.
+msgid "The Fire Starter"
+msgstr "De Vuurstarter"
+
+#. TRANSLATORS: Zuhal is the native proper name for Saturn, derived from
+#. remoteness.  See Ref. # 2.
+msgid "The Remote one"
+msgstr "De Afgelegene"
+
+#. TRANSLATORS: Utarid is the native proper name for Mercury, derived from
+#. unstableness (mercurial).  See Ref. # 2.
+msgid "The Unstable"
+msgstr "De Onstabiele"
+
+#. TRANSLATORS: Ush-shams is the native proper name for the Sun.
+msgid "Ush-Shams"
+msgstr "Ush-Shams"
+
+#. TRANSLATORS: Al-Qamar is the native proper name for the Moon, derived from
+#. strong whiteness.  See Ref. # 2. and Taj al-Arous lexicon.
+msgid "The Strongly White"
+msgstr "De Sterk Witte"
+
+msgid "The Two Calves 1"
+msgstr "De Twee Kalveren 1"
+
+msgid "The Two Calves 2"
+msgstr "De Twee Kalveren 2"
+
+msgid "The Two Front Ones 1"
+msgstr "De Twee Voorste 1"
+
+msgid "The Two Front Ones 2"
+msgstr "De Twee Voorste 2"
+
+msgid "The Two Lame Ones 1"
+msgstr "De Twee Kreupele 1"
+
+msgid "The Two Lame Ones 2"
+msgstr "De Twee Kreupele 2"
+
+msgid "The Dark Camel"
+msgstr "De Donkere Kameel"
+
+msgid "The Little Goat"
+msgstr "De Kleine Geit"
+
+#. TRANSLATORS: Aslam is a proper name
+msgid "Aslam"
+msgstr "Aslam"
+
+#. TRANSLATORS: As-Saydaq is a proper name
+msgid "As-Saydaq"
+msgstr "As-Saydaq"
+
+msgid "The Leader"
+msgstr "De leider"
+
+msgid "The Two Preceding To The Water 1"
+msgstr "De Twee Voor Het Water 1"
+
+msgid "The Two Preceding To The Water 2"
+msgstr "De Twee Voor Het Water 2"
+
+msgid "Liver Of The Lion"
+msgstr "Lever Van De Leeuw"
+
+msgid "The She-Camel's Hump"
+msgstr "De Vrouwtjeskameel Bult"
+
+msgid "The Trotting Camel"
+msgstr "De dravende kameel"
+
+msgid "The Baby Camel"
+msgstr "De Babykameel"
+
+msgid "The Three Stone Support 1"
+msgstr "De Drie Stenen Steun 1"
+
+msgid "The Three Stone Support 2"
+msgstr "De Drie Stenen Steun 2"
+
+msgid "The Three Stone Support 3"
+msgstr "De Drie Stenen Steun 3"
+
+msgid "The Two Wolves 1"
+msgstr "De Twee Wolven 1"
+
+msgid "The Two Wolves 2"
+msgstr "De Twee Wolven 2"
+
+msgid "The Two Black Birds 1"
+msgstr "De Twee Zwarte Vogels 1"
+
+msgid "The Two Black Birds 2"
+msgstr "De Twee Zwarte Vogels 2"
+
+msgid "The Two Falcons 1"
+msgstr "De Twee Valken 1"
+
+msgid "The Two Falcons 2"
+msgstr "De Twee Valken 2"
+
+msgid "The Male Hyena"
+msgstr "De mannelijke Hyena"
+
+msgid "The [Northern] Shepherd"
+msgstr "De [Noordelijke] Herder"
+
+msgid "The [Northern] Shepherd Dog"
+msgstr "De [Noordelijke] Herdershond"
+
+msgid "The Two Stars Of Separation 1"
+msgstr "De Twee Sterren Van Scheiding 1"
+
+msgid "The White One"
+msgstr "De Witte"
+
+msgid "The Two Stars Of Separation 2"
+msgstr "De Twee Sterren Van Scheiding 2"
+
+msgid "The Horse Forehead Star"
+msgstr "De Paardenvoorhoofd Ster"
+
+msgid "The High One With The Spear"
+msgstr "De Hoge Met De Speer"
+
+msgid "The Spear 1"
+msgstr "De Speer 1"
+
+msgid "The Spear 2"
+msgstr "De Speer 2"
+
+msgid "The Front Spear Tassel"
+msgstr "Het Voorste Speer Kwastje"
+
+msgid "The Rear Spear Tassel"
+msgstr "Het Achterste Speer Kwastje"
+
+msgid "Flag Of The High One"
+msgstr "Vlag Van De Verhevene"
+
+#. TRANSLATORS: Al-Fakkah is an incomlete circle
+msgid "The Bright Star Of Al-Fakkah"
+msgstr "De Heldere Ster Van Al-Fakkah"
+
+msgid "The Landing Eagle Claws 1"
+msgstr "De Landende Adelaarsklauwen 1"
+
+msgid "The Landing Eagle Claws 2"
+msgstr "De Landende Adelaarsklauwen 2"
+
+msgid "The Rear Knight"
+msgstr "De Achterste Ridder"
+
+msgid "The Knights 1"
+msgstr "De ridders 1"
+
+msgid "The Knights 2"
+msgstr "De ridders 2"
+
+msgid "The Knights 3"
+msgstr "De ridders 3"
+
+msgid "The Knights 4"
+msgstr "De ridders 4"
+
+msgid "The Knights 5"
+msgstr "De ridders 5"
+
+msgid "Bend Of The Hand"
+msgstr "Kromming Van De Hand"
+
+msgid "Tip Of The Elbow"
+msgstr "De Top Van De Elleboog"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: This is a proper name
+msgid "Al-Ayyuq"
+msgstr "Al-Ayyuq"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya watcher"
+msgstr "Al-Thurayya wachter"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: Al-Ayyuq is a proper name
+msgid "Foot Of Al-Ayyuq"
+msgstr "Voet Van Al-Ayyuq"
+
+msgid "The Posts 1"
+msgstr "De Posten 1"
+
+msgid "The Posts 2"
+msgstr "De Posten 2"
+
+msgid "The Posts 3"
+msgstr "De Posten 3"
+
+msgid "The Associates Of Al-Ayyuq 1"
+msgstr "De Bondgenoten Van Al-Ayyuq 1"
+
+msgid "The Associates Of Al-Ayyuq 2"
+msgstr "De Bondgenoten Van Al-Ayyuq 2"
+
+msgid "The Associates Of Al-Ayyuq 3"
+msgstr "De Bondgenoten Van Al-Ayyuq 3"
+
+msgid "The [Southern] Shepherd"
+msgstr "De [Zuidelijke] Herder"
+
+msgid "First Dog Of The [Southern] Shepherd"
+msgstr "Eerste Hond Van De [Zuidelijke] Herder"
+
+msgid "Second Dog Of The [Southern] Shepherd"
+msgstr "Tweede Hond Van De [Zuidelijke] Herder"
+
+msgid "The Post Of The Cross"
+msgstr "De Paal Van Het Kruis"
+
+msgid "The Rear Bucket Mouth 2"
+msgstr "De Achterste Emmermond 2"
+
+msgid "The Rear Bucket Mouth 1"
+msgstr "De Achterste Emmermond 1"
+
+msgid "The Front Bucket Mouth 2"
+msgstr "De Voorste Emmermond 2"
+
+msgid "The Front Bucket Mouth 1"
+msgstr "De Achterste Emmermond 1"
+
+msgid "The Lower Cross Beam 2"
+msgstr "De Onderste Dwarsbalk 2"
+
+msgid "The Lower Cross Beam 1"
+msgstr "De Onderste Dwarsbalk 1"
+
+msgid "The Upper Cross Beam 2"
+msgstr "De Bovenste Dwarsbalk 2"
+
+msgid "The Upper Cross Beam 1"
+msgstr "De Bovenste Dwarsbalk 1"
+
+msgid "Abdomen Of The Fish"
+msgstr "Buik Van De Vis"
+
+msgid "Abdomen Of The Whale"
+msgstr "Buik Van De Walvis"
+
+msgid "The Two Forelegs 1"
+msgstr "De Twee Voorpoten 1"
+
+msgid "The Two Forelegs 2"
+msgstr "De Twee Voorpoten 2"
+
+msgid "The Male Camel"
+msgstr "De Mannetjeskameel"
+
+msgid "The Wood Stirring Rod"
+msgstr "De Houten Roerstaaf"
+
+msgid "The Camel Herder"
+msgstr "De Kamelenhoeder"
+
+msgid "Stars Of Abundant Rain 1"
+msgstr "Sterren Van Overvloedige Regen 1"
+
+msgid "Stars Of Abundant Rain 2"
+msgstr "Sterren Van Overvloedige Regen 2"
+
+msgid "Stars Of Abundant Rain 3"
+msgstr "Sterren Van Overvloedige Regen 3"
+
+#. TRANSLATORS: Az-zir is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Az-Zir"
+msgstr "Az-Zir"
+
+#. TRANSLATORS: Al-Maysan is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Maysan"
+msgstr "Al-Maysan"
+
+msgid "The Eyelashes 1"
+msgstr "De Wimpers 1"
+
+msgid "The Eyelashes 2"
+msgstr "De Wimpers 2"
+
+msgid "The Eyelashes 3"
+msgstr "De Wimpers 3"
+
+msgid "The Eyelashes 4"
+msgstr "De Wimpers 4"
+
+msgid "The Unarmed High One"
+msgstr "De Ongewapende Hoogheid"
+
+msgid "Veins Of The Heart 1"
+msgstr "Aders Van Het Hart 1"
+
+msgid "Veins Of The Heart 2"
+msgstr "Aders Van Het Hart 2"
+
+msgid "Tail Segments Of The Scorpion 1"
+msgstr "Staartsegmenten Van De Schorpioen 1"
+
+msgid "Tail Segments Of The Scorpion 2"
+msgstr "Staartsegmenten Van De Schorpioen 2"
+
+msgid "Tail Segments Of The Scorpion 3"
+msgstr "Staartsegmenten Van De Schorpioen 3"
+
+msgid "Tail Segments Of The Scorpion 4"
+msgstr "Staartsegmenten Van De Schorpioen 4"
+
+msgid "Tail Segments Of The Scorpion 5"
+msgstr "Staartsegmenten Van De Schorpioen 5"
+
+msgid "Tail Segments Of The Scorpion 6"
+msgstr "Staartsegmenten Van De Schorpioen 6"
+
+msgid "Tail Segments Of The Scorpion 7"
+msgstr "Staartsegmenten Van De Schorpioen 7"
+
+msgid "The Follower"
+msgstr "De volger"
+
+msgid "The Two Shrikes 1"
+msgstr "De Twee Spitsmuizen 1"
+
+msgid "The Two Shrikes 2"
+msgstr "De Twee Spitsmuizen 2"
+
+msgid "The Two Doves 1"
+msgstr "De Twee Duiven 1"
+
+msgid "The Two Doves 2"
+msgstr "De Twee Duiven 2"
+
+msgid "The Sheep"
+msgstr "Het Schaap"
+
+msgid "The Two Male Ostriches 1"
+msgstr "De Twee Mannelijke Struisvogels 1"
+
+msgid "The Two Male Ostriches 2"
+msgstr "De Twee Mannelijke Struisvogels 2"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Shoulder Of Al-Jawza"
+msgstr "Schouder Van Al-Jawza"
+
+#. TRANSLATORS: The southern Shi'ra is a proper Arabic name of Sirius
+#. TRANSLATORS: Al-Shi'ra is a proper name of Sirius
+msgid "The Southern Shi'ra"
+msgstr "De zuidelijke Shi'ra"
+
+#. TRANSLATORS: The crossing Shi'ra is a proper Arabic name of Sirius
+msgid "The Crossing Shi'ra"
+msgstr "De Overstekende Sirius"
+
+#. TRANSLATORS: Mirzam is an associate star of the crossing Shi'ra which is a
+#. proper Arabic name of Sirius
+msgid "Mirzam Of The Crossing Shi'ra"
+msgstr "Mirzam Van De Kruisende Sirius"
+
+#. TRANSLATORS: Mirzam is an associate star of Al-Shi'ra which is a proper
+#. Arabic name of Sirius
+msgid "Mirzam Of Al-Shi'ra"
+msgstr "Mirzam Van Al-Shi'ra"
+
+#. TRANSLATORS: The northern Shi'ra is a proper Arabic name of Procyon
+#. TRANSLATORS: Al-Shi'ra is a proper name
+msgid "The Northern Shi'ra"
+msgstr "De noordelijke Shi'ra"
+
+#. TRANSLATORS: The tearful Shi'ra is a proper Arabic name of Procyon
+msgid "The Tearful Shi'ra"
+msgstr "De Trieste Sirius"
+
+#. TRANSLATORS: Mirzam is an associate star of the tearful Shi'ra, which is a
+#. proper Arabic name of Procyon. The two stars together are called the Arm.
+msgid "Mirzam of The Arm"
+msgstr "Mirzam Van De Arm"
+
+#. TRANSLATORS: Suhayl Balqayn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Balqayn"
+msgstr "Suhayl Balqayn"
+
+#. TRANSLATORS: Suhayl Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Hadari"
+msgstr "Suhayl Hadari"
+
+#. TRANSLATORS: Suhayl Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Al-Wazn"
+msgstr "Suhayl Hadari"
+
+#. TRANSLATORS: Suhayl Raqashi is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Raqashi"
+msgstr "Suhayl Raqashi"
+
+msgid "The Sole One"
+msgstr "De Enige"
+
+msgid "Oath Star"
+msgstr "Eed Ster"
+
+#. TRANSLATORS: Al-Muqil is a proper name
+msgid "Al-Muqil"
+msgstr "Al-Muqil"

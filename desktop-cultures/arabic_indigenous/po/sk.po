@@ -1,0 +1,979 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Lubomir Hambalek <lubomir.hambalek@gmail.com>, 2024\n"
+"Language-Team: Slovak (https://app.transifex.com/stellarium/teams/80998/"
+"sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n "
+">= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Arabic (Indigenous)"
+msgstr "Arabská (Domorodá)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Arabic sky culture displays the indigenous star knowledge of the ancient "
+"Arabs living in the Arabian Peninsula prior to the Greek astronomy influence "
+"in the ninth century."
+msgstr ""
+"Arabská kultúra oblohy zobrazuje poznatky o oblohe domorodých starovekých "
+"Arabov žijúcich na Arabskom polostrove pred vplyvom gréckej astronómie v "
+"deviatom storočí."
+
+# Sky culture description section in markdown format
+msgid ""
+"The star knowledge of the ancient Arabs had been recorded and preserved in "
+"old poetry and in the old works of Arab philologists and lexicographers of "
+"the Islamic civilization. Many books were written on the subject of star "
+"knowledge and anwāʾ [Arabic الأنواء], the Arabic knowledge of meteorology. "
+"The editors of Ibn Qutaybah's *Kitāb al-Anwāʾ* (9th century) listed twenty-"
+"four books on this subject written mostly between early eighth and tenth "
+"century[#2]. The only completely preserved text is that of Ibn Qutaybah, but "
+"later scholars had quoted many of the earlier texts. One of the most "
+"significant works that recorded the indigenous Arab star names is the *Book "
+"of the stars* written in ~ 964 AD by the prominent astronomer: al-Ṣūfī, "
+"where he identified the indigenous Arab star names with the respective "
+"Ptolemaic stars of the Greek constellations[#5].\n"
+"\n"
+"### Sources of the Arabic sky culture\n"
+"\n"
+"The source of this sky culture is a study and compilation of star knowledge "
+"of ancient Arabs from the following books: [#2], [#3], [#4], [#5], [#6], "
+"[#8], [#9]."
+msgstr ""
+"Poznatky o hviezdach starovekých Arabov sa zaznamenali a zachovali v starej "
+"poézii a dielach arabských filológov a lexikografov Islamskej civilizácie. O "
+"poznatkoch o hviezdach a anwá [arabsky الأنواء] - arabskej meteorológii bolo "
+"napísaných veľa kníh. Editori Ibn Kutajbáovej *Kitáb al-Anwá* (9. storočie) "
+"vymenovali k tejto problematike dvadsaťštyri kníh, najčastejšie napísaných "
+"medzi ôsmym a desiatym storočím [#2]. Jediný kompletne zachovaný text je ten "
+"od Ibn Kutajbá, ale neskorší učenci citovali mnoho skorších textov. Jedným z "
+"najdôležitejších diel, ktoré zaznamenali pôvodné arabské mená hviezd je "
+"*Kniha hviezd* napísaná okolo 964 n.l. prominentným astronómom al Súfím. V "
+"nej stotožnil mená hviezd domorodých Arabov s príslušnými hviezdami "
+"Ptolemajovských gréckych súhvezdí [#5].\n"
+"\n"
+"### Zdroje k Arabskej kultúre oblohy\n"
+"\n"
+"Zdrojom pre túto kultúru oblohy je štúdia a súhrn poznatkov o hviezdach "
+"starovekých Arabov z nasledujúcich kníh: [#2], [#3], [#4], [#5], [#6], [#8], "
+"[#9]."
+
+# Sky culture constellations section in markdown format
+msgid ""
+"The ancient Arabs gave names to single stars, star couples, an area in the "
+"sky, and particular shape of a group of stars. Single stars were named after "
+"a human figure or a desert animal, Arcturus is al-Simāk al-Rāmiḥ, meaning: "
+"The High one with the spear. Canopus is Suhayl, a proper name of a man. We "
+"have also stars named: The Caracal and the Kid (the young goat). If two "
+"stars of comparable brightness are close to each other, they are given a "
+"common name like: The two Calves, the Two Wolves, The Two doves. Sometimes "
+"an area is named after a group of animals. The brighter stars are adult "
+"animals, and the faint ones are the young animals like: The Hyenas and their "
+"youngsters, The horses and the foals. Particular shapes of stars were given "
+"names like the Scorpion, The lion, al-Ǧawzā’ which is a proper name of a "
+"woman for Orion stars. Other asterisms are given names according to legends "
+"and stories."
+msgstr ""
+"Starovekí Arabi dávali mená jednotlivým hviezdam, párom hviezd, oblastiam na "
+"oblohe aj konkrétnym tvarom skupiny hviezd. Jednotlivé hviezdy boli "
+"pomenované po postave alebo púštnom zvierati. Arktúr je al-Simák al-Rámih, "
+"čo znamená: Vysoký s kopijou. Canopus je Suhajl, vlastné mužské meno. Máme "
+"aj hviezdy pomenované ako: Karakal a Dieťa (Kozľa). Ak sú dve porovnateľne "
+"jasné hviezdy blízko seba, majú spoločné meno ako: Dve teľatá, Dva vlky, Dve "
+"holubice. Niekedy je oblasť pomenovaná po skupine zvierat. Jasné hviezdy sú "
+"dospelé zvieratá a slabšie sú mláďatá, ako: Hyeny a ich mladé, Kone a "
+"žriebätká. Konkrétne tvary hviezd dostali mená ako Škorpión, Lev, al-Džawza, "
+"čo je vlastné ženské meno pre hviezdy Orióna. Ostatné asterizmy boli "
+"pomenované podľa legiend a príbehov."
+
+# Sky culture authors section in markdown format
+msgid "Khalid al-Ajaji: turath.alfalak@gmail.com"
+msgstr "Chalid al-Adžadži: turath.alfalak@gmail.com"
+
+msgid "The Eyes"
+msgstr "Oči"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Al-Turájja"
+
+msgid "The Oryx"
+msgstr "Gazela Oryx"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr "Al-Suha"
+
+#. TRANSLATORS: Ayyuq Al-Thurayya is a proper name meaning the obstructor of
+#. Al-Thurayya
+msgid "Ayyuq Al-Thurayya"
+msgstr "Ajjuk Al-Turájja"
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr "Al-Nadžidh"
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr "Al-Wazn"
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr "Hadari"
+
+msgid "The Little Abdomen"
+msgstr "Bruško"
+
+msgid "The Arm"
+msgstr "Rameno"
+
+msgid "The Nostrils"
+msgstr "Nozdry"
+
+msgid "The Forehead"
+msgstr "Čelo"
+
+msgid "The Mane"
+msgstr "Hriva"
+
+msgid "The Bend"
+msgstr "Ohyb"
+
+msgid "The Cover"
+msgstr "Kryt"
+
+msgid "The Diadem"
+msgstr "Diadém"
+
+msgid "Raised Tail Of The Scorpion"
+msgstr "Zdvihnutý chvost Škorpióna"
+
+msgid "The Scorpion"
+msgstr "Škorpión"
+
+msgid "The Empty Place"
+msgstr "Prázdne miesto"
+
+msgid "The Ostriches"
+msgstr "Pštrosy"
+
+msgid "The Lucky Star Of The Slaughterer"
+msgstr "Šťastná hviezda porážača"
+
+msgid "The Lucky Star Of The Swallower"
+msgstr "Šťastná hviezda prehĺtača"
+
+msgid "The Luckiest Of The Lucky Stars"
+msgstr "Najšťastnejšia zo šťastných hviezd"
+
+msgid "The Lucky Star Of The Tents"
+msgstr "Šťastná hviezda stanov"
+
+msgid "The Circular Mark"
+msgstr "Okrúhle znamenie"
+
+msgid "The Downward Bend"
+msgstr "Dolný ohyb"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr "Al-Džavza"
+
+msgid "The Kid"
+msgstr "Dieťa"
+
+msgid "The Watcher"
+msgstr "Strážca"
+
+msgid "The Claws 1"
+msgstr "Pazúre 1"
+
+msgid "The Claws 2"
+msgstr "Pazúre 2"
+
+msgid "The Claws 3"
+msgstr "Pazúre 3"
+
+msgid "The Claws 4"
+msgstr "Pazúre 4"
+
+msgid "The Claws 5"
+msgstr "Pazúre 5"
+
+msgid "The Claws 6"
+msgstr "Pazúre 6"
+
+msgid "Star Of Weather Change"
+msgstr "Hviezda zmeny počasia"
+
+msgid "The Heart"
+msgstr "Srdce"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Leg Of Al-Jawza"
+msgstr "Noha Al-Džavzy"
+
+#. TRANSLATORS: Suhayl is a proper name
+#. TRANSLATORS: ٍSuhayl is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl"
+msgstr "Suhayl"
+
+msgid "The Two Oryx Calves"
+msgstr "Dve teľatá priamorožca"
+
+msgid "The Axe Of The Grindstone"
+msgstr "Os brúsneho kameňa"
+
+#. TRANSLATORS: Na'sh is a proper name meaning bier
+#. TRANSLATORS: Na'sh is a proper name
+msgid "Daughters Of Na'sh"
+msgstr "Dcéry Na'šu"
+
+msgid "The Gazelles And Their Youngsters"
+msgstr "Gazely s mladými"
+
+msgid "The First Leap"
+msgstr "Prvý skok"
+
+msgid "The Second Leap"
+msgstr "Druhý skok"
+
+msgid "The Third Leap"
+msgstr "Tretí skok"
+
+msgid "The Two Preceding To The Water"
+msgstr "Dve pred vodou"
+
+msgid "The Pool"
+msgstr "Mláka"
+
+msgid "The Two Wolves"
+msgstr "Dvaja vlci"
+
+msgid "The Wolf Claws"
+msgstr "Vlčie pazúre"
+
+msgid "The Mother Camels"
+msgstr "Ťavie matky"
+
+msgid "The Three Stone Support"
+msgstr "Tri kamenné podpery"
+
+msgid "The Pot"
+msgstr "Hrniec"
+
+msgid "The Shepherd And The Sheep"
+msgstr "Pastier s ovcami"
+
+msgid "The Two Separated Stars"
+msgstr "Dve oddelené hviezdy"
+
+msgid "The Armed One"
+msgstr "Ozbrojený"
+
+msgid "The Spear"
+msgstr "Kopija"
+
+msgid "The Unarmed One"
+msgstr "Neozbrojený"
+
+msgid "The Hyenas And Their Youngsters"
+msgstr "Hyeny a ich mladé"
+
+msgid "The Bowl Of The Poor"
+msgstr "Miska chudobných"
+
+msgid "The Desert Garden And The Goats"
+msgstr "Púštna záhrada a kozy"
+
+msgid "The Northern Line"
+msgstr "Severná čiara"
+
+msgid "The Southern Line"
+msgstr "Južná čiara"
+
+msgid "The Landing Eagle"
+msgstr "Pristávajúci orol"
+
+msgid "The Flying Eagle"
+msgstr "Letiaci orol"
+
+msgid "The Knights"
+msgstr "Rytieri"
+
+msgid "The She-Camel"
+msgstr "Samica ťavy"
+
+msgid "Head Of The She-Camel"
+msgstr "Hlava samice ťavy"
+
+msgid "Neck Of The She-Camel"
+msgstr "Krk samice ťavy"
+
+msgid "Legs Of The She-Camel"
+msgstr "Nohy samice ťavy"
+
+msgid "The She-Camel's Hump - The Henna Tinted Hand"
+msgstr "Hrb samice ťavy - Ruka maľovaná hennou"
+
+msgid "The Shoulder Blade"
+msgstr "Lopatka"
+
+msgid "The Shoulder"
+msgstr "Plece"
+
+msgid "The Elbow"
+msgstr "Lakeť"
+
+msgid "The Forearm"
+msgstr "Predlaktie"
+
+msgid "The Wrist"
+msgstr "Zápästie"
+
+msgid "The Leprous Hand"
+msgstr "Leprózna ruka"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+msgid "Al-Ayyuq And The Posts"
+msgstr "Al-Ajjúk a stĺpy"
+
+msgid "The Northern Tent"
+msgstr "Severný stan"
+
+msgid "The Young Camel"
+msgstr "Mladá ťava"
+
+msgid "The Caracal"
+msgstr "Karakal"
+
+msgid "The Well Bucket"
+msgstr "Vedro zo studne"
+
+msgid "The Bucket Rope Knot"
+msgstr "Uzol na lane k vedru"
+
+msgid "The Front Bucket Mouth"
+msgstr "Predné ústie vedra"
+
+msgid "The Rear Bucket Mouth"
+msgstr "Zadné ústie vedra"
+
+msgid "The Bucket Rope"
+msgstr "Lano k vedru"
+
+msgid "The Fish"
+msgstr "Ryba"
+
+msgid "The Empty Place Of The Fox"
+msgstr "Prázdne miesto líšky"
+
+msgid "The Lamb"
+msgstr "Jahňa"
+
+msgid "The Two Forelegs Of The Lamb"
+msgstr "Dve predné nohy jahňaťa"
+
+msgid "The Two Signs"
+msgstr "Dve znamenia"
+
+#. TRANSLATORS: This is a proper name
+msgid "Al-Dabaran"
+msgstr "Al-Dabaran"
+
+#. TRANSLATORS: Al-Dabaran is a proper name meaning the follower
+msgid "The Two Dogs Of Al-Dabaran"
+msgstr "Dva psy Al-Dabarana"
+
+msgid "The Young She-Camels"
+msgstr "Mladé samice ťavy"
+
+msgid "The Lion"
+msgstr "Lev"
+
+msgid "The Retracted Arm"
+msgstr "Stiahnuté rameno"
+
+msgid "The Extended Arm"
+msgstr "Natiahnuté rameno"
+
+msgid "The Tassel"
+msgstr "Strapec"
+
+msgid "The Scorpion's Sting"
+msgstr "Žihadlo Škorpióna"
+
+msgid "The Ostriches Drinking At The River"
+msgstr "Pštrosy pijúce pri rieke"
+
+msgid "The Ostriches Leaving The River"
+msgstr "Pštrosy odchádzajúce od rieky"
+
+msgid "The Ostrich Nest - The Necklace"
+msgstr "Pštrosie hniezdo - Náhrdelník"
+
+msgid "The Dome-Like Tent"
+msgstr "Kupolovitý stan"
+
+#. TRANSLATORS: Nashira is a proper name
+msgid "The Lucky Star Of Nashira"
+msgstr "Šťastná hviezda Naširy"
+
+msgid "The Lucky Star Of The King"
+msgstr "Šťastná hviezda kráľa"
+
+msgid "The Lucky Star Of The Young Sheep"
+msgstr "Šťastná hviezda jahňaťa"
+
+msgid "The Lucky Star Of The One With Great Endeavour"
+msgstr "Šťastná hviezda usilovného"
+
+msgid "The Lucky Star Of The Excellent One"
+msgstr "Šťastná hviezda vynikajúceho"
+
+#. TRANSLATORS: Matar is a proper name meaning rain
+#. TRANSLATORS: Matar is a proper name meaning rain.
+msgid "The Lucky Star Of Matar"
+msgstr "Šťastná hviezda Mataru"
+
+msgid "The Ringed Rope"
+msgstr "Kruhový povraz"
+
+msgid "The Circular Mark‎"
+msgstr "Okrúhle znamenie"
+
+msgid "The String"
+msgstr "Reťaz"
+
+msgid "The Young Maids"
+msgstr "Mladé slúžky"
+
+msgid "Hair Braids Of Al-Jawza"
+msgstr "Vrkoče Al-Džavzy"
+
+msgid "Bow Of Al-Jawza"
+msgstr "Luk Al-Džavzy"
+
+msgid "Stars Of Abundant Rain"
+msgstr "Hviezdy hojného dažďa"
+
+msgid "The Front Footstool Of Al-Jawza"
+msgstr "Predná podnožka Al-Džavzy"
+
+msgid "The Rear Footstool Of Al-Jawza"
+msgstr "Zadná podnožka Al-Džavzy"
+
+msgid "The Virgins"
+msgstr "Panny"
+
+msgid "The Ravens"
+msgstr "Havrany"
+
+msgid "The Ostriches Nest, The Eggs And Egg Shells"
+msgstr "Pštrosie hniezdo, vajcia a škrupiny"
+
+msgid "The Oryxes"
+msgstr "Gazely Oryx"
+
+msgid "The Tied Camels"
+msgstr "Uviazané ťavy"
+
+msgid "The Trough"
+msgstr "Koryto"
+
+msgid "The Southern Tent"
+msgstr "Južný stan"
+
+msgid "The Date Clusters"
+msgstr "Strapce ďatlí"
+
+msgid "The Horses And The Foals"
+msgstr "Kone a žriebätká"
+
+msgid "The Two Shrikes"
+msgstr "Dva strakoše"
+
+msgid "The Two Doves"
+msgstr "Dve holubice"
+
+msgid "The Two Male Ostriches"
+msgstr "Dvaja pštrosí samci"
+
+msgid "The Young Ostriches"
+msgstr "Mladé pštrosy"
+
+msgid "The Larks"
+msgstr "Škovránky"
+
+msgid "The Sandgrouses"
+msgstr "Stepiare"
+
+msgid "The Wild Asses"
+msgstr "Divoké osly"
+
+msgid "The Ladder"
+msgstr "Rebrík"
+
+msgid "The Wrist 1"
+msgstr "Zápästie 1"
+
+msgid "The Wrist 2"
+msgstr "Zápästie 2"
+
+msgid "The She-Camel's Brand 1"
+msgstr "Značka samice ťavy 1"
+
+msgid "The She-Camel's Brand 2"
+msgstr "Značka samice ťavy 2"
+
+msgid "The Lion's Nostrils"
+msgstr "Nozdry leva"
+
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like lightning. See Ref. # 2.
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like light shining. See Ref. # 2.
+msgid "The Shining One"
+msgstr "Žiariaci"
+
+#. TRANSLATORS: Az- Zuharah is the native proper name for Venus, derived from
+#. brightness and beauty. See Ref. # 2.
+msgid "The Beautiful Bright One"
+msgstr "Krásna jasná"
+
+#. TRANSLATORS: Al-Merrikh is the native proper name for Mars, derived from
+#. Marakh (ARABIC: مرخ), a plant which is used to start fire. See Ref. # 2.
+msgid "The Fire Starter"
+msgstr "Podpaľač"
+
+#. TRANSLATORS: Zuhal is the native proper name for Saturn, derived from
+#. remoteness.  See Ref. # 2.
+msgid "The Remote one"
+msgstr "Vzdialený"
+
+#. TRANSLATORS: Utarid is the native proper name for Mercury, derived from
+#. unstableness (mercurial).  See Ref. # 2.
+msgid "The Unstable"
+msgstr "Nestály"
+
+#. TRANSLATORS: Ush-shams is the native proper name for the Sun.
+msgid "Ush-Shams"
+msgstr "Uš-Šams"
+
+#. TRANSLATORS: Al-Qamar is the native proper name for the Moon, derived from
+#. strong whiteness.  See Ref. # 2. and Taj al-Arous lexicon.
+msgid "The Strongly White"
+msgstr "Silno biely"
+
+msgid "The Two Calves 1"
+msgstr "Dve teľatá 1"
+
+msgid "The Two Calves 2"
+msgstr "Dve teľatá 2"
+
+msgid "The Two Front Ones 1"
+msgstr "Dve predné 1"
+
+msgid "The Two Front Ones 2"
+msgstr "Dve predné 2"
+
+msgid "The Two Lame Ones 1"
+msgstr "Dvaja chromí 1"
+
+msgid "The Two Lame Ones 2"
+msgstr "Dvaja chromí 2"
+
+msgid "The Dark Camel"
+msgstr "Tmavá ťava"
+
+msgid "The Little Goat"
+msgstr "Malá koza"
+
+#. TRANSLATORS: Aslam is a proper name
+msgid "Aslam"
+msgstr "Aslam"
+
+#. TRANSLATORS: As-Saydaq is a proper name
+msgid "As-Saydaq"
+msgstr "As-Sajdak"
+
+msgid "The Leader"
+msgstr "Vodca"
+
+msgid "The Two Preceding To The Water 1"
+msgstr "Dve pred vodou 1"
+
+msgid "The Two Preceding To The Water 2"
+msgstr "Dve pred vodou 2"
+
+msgid "Liver Of The Lion"
+msgstr "Pečeň leva"
+
+msgid "The She-Camel's Hump"
+msgstr "Hrb samice ťavy"
+
+msgid "The Trotting Camel"
+msgstr "Klusajúca ťava"
+
+msgid "The Baby Camel"
+msgstr "Mláďa ťavy"
+
+msgid "The Three Stone Support 1"
+msgstr "Tri kamenné podpery 1"
+
+msgid "The Three Stone Support 2"
+msgstr "Tri kamenné podpery 2"
+
+msgid "The Three Stone Support 3"
+msgstr "Tri kamenné podpery 3"
+
+msgid "The Two Wolves 1"
+msgstr "Dvaja vlci 1"
+
+msgid "The Two Wolves 2"
+msgstr "Dvaja vlci 2"
+
+msgid "The Two Black Birds 1"
+msgstr "Dva čierne vtáky 1"
+
+msgid "The Two Black Birds 2"
+msgstr "Dva čierne vtáky 2"
+
+msgid "The Two Falcons 1"
+msgstr "Dva sokoly 1"
+
+msgid "The Two Falcons 2"
+msgstr "Dva sokoly 2"
+
+msgid "The Male Hyena"
+msgstr "Hyena"
+
+msgid "The [Northern] Shepherd"
+msgstr "[Severný] Pastier"
+
+msgid "The [Northern] Shepherd Dog"
+msgstr "Pes [severného] Pastiera"
+
+msgid "The Two Stars Of Separation 1"
+msgstr "Dve hviezdy odlúčenia 1"
+
+msgid "The White One"
+msgstr "Biela"
+
+msgid "The Two Stars Of Separation 2"
+msgstr "Dve hviezdy odlúčenia 2"
+
+msgid "The Horse Forehead Star"
+msgstr "Hviezda čela koňa"
+
+msgid "The High One With The Spear"
+msgstr "Vysoký s kopijou"
+
+msgid "The Spear 1"
+msgstr "Kopija 1"
+
+msgid "The Spear 2"
+msgstr "Kopija 2"
+
+msgid "The Front Spear Tassel"
+msgstr "Predný strapec kopije"
+
+msgid "The Rear Spear Tassel"
+msgstr "Zadný strapec kopije"
+
+msgid "Flag Of The High One"
+msgstr "Zástava vysokého"
+
+#. TRANSLATORS: Al-Fakkah is an incomlete circle
+msgid "The Bright Star Of Al-Fakkah"
+msgstr "Jasná hviezda Al-Fakkacha"
+
+msgid "The Landing Eagle Claws 1"
+msgstr "Pazúre pristávajúceho orla 1"
+
+msgid "The Landing Eagle Claws 2"
+msgstr "Pazúre pristávajúceho orla 2"
+
+msgid "The Rear Knight"
+msgstr "Zadný rytier"
+
+msgid "The Knights 1"
+msgstr "Rytieri 1"
+
+msgid "The Knights 2"
+msgstr "Rytieri 2"
+
+msgid "The Knights 3"
+msgstr "Rytieri 3"
+
+msgid "The Knights 4"
+msgstr "Rytieri 4"
+
+msgid "The Knights 5"
+msgstr "Rytieri 5"
+
+msgid "Bend Of The Hand"
+msgstr "Ohyb ruky"
+
+msgid "Tip Of The Elbow"
+msgstr "Špička lakťa"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: This is a proper name
+msgid "Al-Ayyuq"
+msgstr "Al-Ajjúk"
+
+#. TRANSLATORS: Al-Thurayya is a proper name
+msgid "Al-Thurayya watcher"
+msgstr "Strážca Al-Turájja"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: Al-Ayyuq is a proper name
+msgid "Foot Of Al-Ayyuq"
+msgstr "Chodidlo Al-Ajjúka"
+
+msgid "The Posts 1"
+msgstr "Stĺpy 1"
+
+msgid "The Posts 2"
+msgstr "Stĺpy 2"
+
+msgid "The Posts 3"
+msgstr "Stĺpy 3"
+
+msgid "The Associates Of Al-Ayyuq 1"
+msgstr "Spoločníci Al-Ajjúka 1"
+
+msgid "The Associates Of Al-Ayyuq 2"
+msgstr "Spoločníci Al-Ajjúka 2"
+
+msgid "The Associates Of Al-Ayyuq 3"
+msgstr "Spoločníci Al-Ajjúka 3"
+
+msgid "The [Southern] Shepherd"
+msgstr "[Južný] Pastier"
+
+msgid "First Dog Of The [Southern] Shepherd"
+msgstr "Prvý pes [južného] pastiera"
+
+msgid "Second Dog Of The [Southern] Shepherd"
+msgstr "Druhý pes [južného] pastiera"
+
+msgid "The Post Of The Cross"
+msgstr "Základňa kríža"
+
+msgid "The Rear Bucket Mouth 2"
+msgstr "Zadné ústie vedra 2"
+
+msgid "The Rear Bucket Mouth 1"
+msgstr "Zadné ústie vedra 1"
+
+msgid "The Front Bucket Mouth 2"
+msgstr "Predné ústie vedra 2"
+
+msgid "The Front Bucket Mouth 1"
+msgstr "Predné ústie vedra 1"
+
+msgid "The Lower Cross Beam 2"
+msgstr "Spodná lata kríža 2"
+
+msgid "The Lower Cross Beam 1"
+msgstr "Spodná lata kríža 1"
+
+msgid "The Upper Cross Beam 2"
+msgstr "Vrchná lata kríža 2"
+
+msgid "The Upper Cross Beam 1"
+msgstr "Vrchná lata kríža 1"
+
+msgid "Abdomen Of The Fish"
+msgstr "Brucho ryby"
+
+msgid "Abdomen Of The Whale"
+msgstr "Brucho veľryby"
+
+msgid "The Two Forelegs 1"
+msgstr "Dve predné nohy 1"
+
+msgid "The Two Forelegs 2"
+msgstr "Dve predné nohy 2"
+
+msgid "The Male Camel"
+msgstr "Samec ťavy"
+
+msgid "The Wood Stirring Rod"
+msgstr "Drevené miešadlo"
+
+msgid "The Camel Herder"
+msgstr "Pastier tiav"
+
+msgid "Stars Of Abundant Rain 1"
+msgstr "Hviezdy hojného dažďa 1"
+
+msgid "Stars Of Abundant Rain 2"
+msgstr "Hviezdy hojného dažďa 2"
+
+msgid "Stars Of Abundant Rain 3"
+msgstr "Hviezdy hojného dažďa 3"
+
+#. TRANSLATORS: Az-zir is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Az-Zir"
+msgstr "Az-Zir"
+
+#. TRANSLATORS: Al-Maysan is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Maysan"
+msgstr "Al-Majsan"
+
+msgid "The Eyelashes 1"
+msgstr "Mihalnice 1"
+
+msgid "The Eyelashes 2"
+msgstr "Mihalnice 2"
+
+msgid "The Eyelashes 3"
+msgstr "Mihalnice 3"
+
+msgid "The Eyelashes 4"
+msgstr "Mihalnice 4"
+
+msgid "The Unarmed High One"
+msgstr "Neozbrojený vysoký"
+
+msgid "Veins Of The Heart 1"
+msgstr "Cievy srdca 1"
+
+msgid "Veins Of The Heart 2"
+msgstr "Cievy srdca 2"
+
+msgid "Tail Segments Of The Scorpion 1"
+msgstr "Články chvosta škorpióna 1"
+
+msgid "Tail Segments Of The Scorpion 2"
+msgstr "Články chvosta škorpióna 2"
+
+msgid "Tail Segments Of The Scorpion 3"
+msgstr "Články chvosta škorpióna 3"
+
+msgid "Tail Segments Of The Scorpion 4"
+msgstr "Články chvosta škorpióna 4"
+
+msgid "Tail Segments Of The Scorpion 5"
+msgstr "Články chvosta škorpióna 5"
+
+msgid "Tail Segments Of The Scorpion 6"
+msgstr "Články chvosta škorpióna 6"
+
+msgid "Tail Segments Of The Scorpion 7"
+msgstr "Články chvosta škorpióna 7"
+
+msgid "The Follower"
+msgstr "Následovník"
+
+msgid "The Two Shrikes 1"
+msgstr "Dva strakoše 1"
+
+msgid "The Two Shrikes 2"
+msgstr "Dva strakoše 2"
+
+msgid "The Two Doves 1"
+msgstr "Dve holubice 1"
+
+msgid "The Two Doves 2"
+msgstr "Dve holubice 2"
+
+msgid "The Sheep"
+msgstr "Ovca"
+
+msgid "The Two Male Ostriches 1"
+msgstr "Dvaja pštrosí samci 1"
+
+msgid "The Two Male Ostriches 2"
+msgstr "Dvaja pštrosí samci 2"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Shoulder Of Al-Jawza"
+msgstr "Plece Al-Džavzy"
+
+#. TRANSLATORS: The southern Shi'ra is a proper Arabic name of Sirius
+#. TRANSLATORS: Al-Shi'ra is a proper name of Sirius
+msgid "The Southern Shi'ra"
+msgstr "Južná Shi'ra"
+
+#. TRANSLATORS: The crossing Shi'ra is a proper Arabic name of Sirius
+msgid "The Crossing Shi'ra"
+msgstr "Križujúca Ši'ra"
+
+#. TRANSLATORS: Mirzam is an associate star of the crossing Shi'ra which is a
+#. proper Arabic name of Sirius
+msgid "Mirzam Of The Crossing Shi'ra"
+msgstr "Mirzam Križujúcej Ši'ry"
+
+#. TRANSLATORS: Mirzam is an associate star of Al-Shi'ra which is a proper
+#. Arabic name of Sirius
+msgid "Mirzam Of Al-Shi'ra"
+msgstr "Mirzam Al Ši'ry"
+
+#. TRANSLATORS: The northern Shi'ra is a proper Arabic name of Procyon
+#. TRANSLATORS: Al-Shi'ra is a proper name
+msgid "The Northern Shi'ra"
+msgstr "Severná Shi'ra"
+
+#. TRANSLATORS: The tearful Shi'ra is a proper Arabic name of Procyon
+msgid "The Tearful Shi'ra"
+msgstr "Slziaci Ši'ra"
+
+#. TRANSLATORS: Mirzam is an associate star of the tearful Shi'ra, which is a
+#. proper Arabic name of Procyon. The two stars together are called the Arm.
+msgid "Mirzam of The Arm"
+msgstr "Mirzam Ramena"
+
+#. TRANSLATORS: Suhayl Balqayn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Balqayn"
+msgstr "Suhail Balkain"
+
+#. TRANSLATORS: Suhayl Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Hadari"
+msgstr "Suhail Hadari"
+
+#. TRANSLATORS: Suhayl Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Al-Wazn"
+msgstr "Suhail Al-Wazn"
+
+#. TRANSLATORS: Suhayl Raqashi is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Raqashi"
+msgstr "Suhail Rakaši"
+
+msgid "The Sole One"
+msgstr "Jediná"
+
+msgid "Oath Star"
+msgstr "Hviezda prísahy"
+
+#. TRANSLATORS: Al-Muqil is a proper name
+msgid "Al-Muqil"
+msgstr "Al-Mukil"
