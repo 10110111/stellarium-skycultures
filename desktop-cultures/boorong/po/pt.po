@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Portuguese (https://app.transifex.com/stellarium/teams/80998/"
+"pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Boorong"
+msgstr ""
+
+msgid "Long-necked tortoise"
+msgstr "Tartaruga de pescoço comprido"
+
+msgid "Fan-tailed cockatoo"
+msgstr "Cacatua rabo de leque"
+
+msgid "Two teenage boys"
+msgstr "Dois adolescentes"
+
+msgid "Girls"
+msgstr "Meninas"
+
+msgid "Red kangaroo"
+msgstr "Canguru vermelho"
+
+msgid "Ring-tail possum"
+msgstr "Gambá de cauda anelada"
+
+msgid "Red-rumped parrot"
+msgstr "Papagaio de garupa vermelha"
+
+msgid "Crow"
+msgstr "Corvo"
+
+msgid "Female crow, wife of War"
+msgstr "Corvo fêmea, esposa do War"
+
+msgid "Owlet nightjar"
+msgstr "Corujinha noitibó"
+
+msgid "Needlewood hakea and willie wagtails"
+msgstr "Haqueia pinulada e alvéolas"
+
+msgid "Red-kneed dotterel"
+msgstr "Tarambola de joelho vermelho"
+
+msgid "Australian kestrel"
+msgstr "Peneireiro australiano"
+
+msgid "Mallee fowl"
+msgstr "Faisão-australiano"
+
+msgid "Jacky lizard"
+msgstr "Lagarto-dragão"
+
+msgid "Male and female brolga"
+msgstr "Brolga macho e fêmea"
+
+msgid "Great fish"
+msgstr "Peixe grande"
+
+msgid "Wedge tailed eagle"
+msgstr "Águia de rabo em cunha"
+
+msgid "Female eagle, wife of Warepil"
+msgstr "Águia fêmea, esposa do Warepil"
+
+msgid "Emu"
+msgstr "Emu"
+
+msgid "Purple crowned lorikeet"
+msgstr "Lório de coroa púrpura"
+
+msgid "Meat ant"
+msgstr "Formiga carnívora"
+
+msgid "Galaxy"
+msgstr "Galáxia"
+
+msgid "Singing bushlark"
+msgstr "Cotovia cantora"
+
+msgid "Pink cockatoo"
+msgstr "Cacatua-rosa"
+
+msgid "Species of ant"
+msgstr "Espécie de formiga"
+
+msgid "Boomerang"
+msgstr "Bumerangue"
+
+msgid "The maned snake"
+msgstr "A Cobra de Juba"
+
+msgid "Marpeankurrk"
+msgstr "Marpeankurrk"
+
+msgid "Djuit"
+msgstr "Djuit"
+
+msgid "Neilloan"
+msgstr "Neilloan"
+
+msgid "Totyarguil"
+msgstr "Totyarguil"
+
+msgid "Karik Karik"
+msgstr "Karik Karik"
+
+msgid "Berm-berm-gle"
+msgstr "Berm-berm-gle"
+
+msgid "Bunya"
+msgstr "Bunya"
+
+msgid "Tourchingboiongerra"
+msgstr "Tourchingboiongerra"
+
+msgid "Kourt-chin"
+msgstr "Kourt-chin"
+
+msgid "Warring"
+msgstr "Warring"
+
+msgid "Kulkanbulla"
+msgstr "Kulkanbulla"
+
+msgid "Lamankurrk"
+msgstr "Lamankurrk"
+
+msgid "Gellarlec"
+msgstr "Gellarlec"
+
+msgid "Warepil"
+msgstr "Warepil"
+
+msgid "Colowgulloric Warepil"
+msgstr "Colowgulloric Warepil"
+
+msgid "Won"
+msgstr "Won"
+
+msgid "Weetkurrk"
+msgstr "Weetkurrk"
+
+msgid "War"
+msgstr "War"
+
+msgid "Collowgulloric War"
+msgstr "Collowgulloric War"
+
+msgid "Yerredetkurrk"
+msgstr "Yerredetkurrk"
+
+msgid "Otchocut"
+msgstr "Otchocut"
+
+msgid "Collenbitchick"
+msgstr "Collenbitchick"
+
+msgid "Yurree"
+msgstr "Yurree"
+
+msgid "Wanjel"
+msgstr "Wanjel"
+
+msgid "Purra"
+msgstr "Purra"
+
+msgid "Unurgunite"
+msgstr "Unurgunite"
+
+#. TRANSLATORS: Native name of the Sun in Boorong culture
+msgid "Day"
+msgstr "Dia"
+
+#. TRANSLATORS: Native name of the Moon in Boorong culture
+msgid "Mityan"
+msgstr "Mityan"
+
+#. TRANSLATORS: Native name of Venus in Boorong culture
+msgid "Elder sister"
+msgstr ""
+
+#. TRANSLATORS: Native name of Jupiter in Boorong culture
+msgid "Sulphur-crested white cockatoo"
+msgstr ""
