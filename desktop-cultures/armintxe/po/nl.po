@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alex Rijckaert, 2023\n"
+"Language-Team: Dutch (https://app.transifex.com/stellarium/teams/80998/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Armintxe Cave"
+msgstr "Grot van Armintxe"
+
+msgid "Big Bison"
+msgstr "Grote bison"
+
+msgid "The Lions"
+msgstr "De leeuwen"
+
+msgid "Second Ibex"
+msgstr "Tweede steenbok"
+
+msgid "Horse Head"
+msgstr "Paardenhoofd"
+
+msgid "Second Horse"
+msgstr "Tweede paard"
+
+msgid "Double Horse"
+msgstr "Dubbel paard"
+
+msgid "Third Ibex"
+msgstr "Derde steenbok"
+
+msgid "The River"
+msgstr "De rivier"
+
+msgid "Dead Horse"
+msgstr "Dood paard"
+
+msgid "Little Bison"
+msgstr "Kleine bizon"
+
+msgid "Wounded Ibex"
+msgstr "Gewonde steenbok"

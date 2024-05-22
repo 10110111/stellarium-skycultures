@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander Shopov <ash@kambanaria.org>, 2022\n"
+"Language-Team: Bulgarian (https://app.transifex.com/stellarium/teams/80998/"
+"bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Armintxe Cave"
+msgstr ""
+
+msgid "Big Bison"
+msgstr "Голям бизон"
+
+msgid "The Lions"
+msgstr "Лъвовете"
+
+msgid "Second Ibex"
+msgstr "Втора дива коза"
+
+msgid "Horse Head"
+msgstr "Конска глава"
+
+msgid "Second Horse"
+msgstr "Втори кон"
+
+msgid "Double Horse"
+msgstr "Двоен кон"
+
+msgid "Third Ibex"
+msgstr "Трета дива коза"
+
+msgid "The River"
+msgstr "Реката"
+
+msgid "Dead Horse"
+msgstr "Мъртъв кон"
+
+msgid "Little Bison"
+msgstr "Малък бизон"
+
+msgid "Wounded Ibex"
+msgstr "Ранена дива коза"
