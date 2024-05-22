@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Armintxe Cave"
+msgstr ""
+
+msgid "Big Bison"
+msgstr "పెద్ద దున్నపోతు"
+
+msgid "The Lions"
+msgstr "సింహాలు"
+
+msgid "Second Ibex"
+msgstr "రెండవ ఐబెక్స్"
+
+msgid "Horse Head"
+msgstr "గుర్రపు తల"
+
+msgid "Second Horse"
+msgstr "రెండవ గుర్రం"
+
+msgid "Double Horse"
+msgstr "జమిలి గుర్రం"
+
+msgid "Third Ibex"
+msgstr "మూడవ ఐబెక్స్"
+
+msgid "The River"
+msgstr "ది రివర్"
+
+msgid "Dead Horse"
+msgstr "చచ్చిన గుర్రం"
+
+msgid "Little Bison"
+msgstr "చిన్న దున్నపోతు"
+
+msgid "Wounded Ibex"
+msgstr "గాయపడ్డ ఐబెక్స్"

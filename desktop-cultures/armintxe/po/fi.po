@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ilpo Kantonen, 2024\n"
+"Language-Team: Finnish (https://app.transifex.com/stellarium/teams/80998/"
+"fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Armintxe Cave"
+msgstr "Armintxe Cave"
+
+msgid "Big Bison"
+msgstr "Iso biisoni"
+
+msgid "The Lions"
+msgstr "Leijonat"
+
+msgid "Second Ibex"
+msgstr "Toinen Ibex"
+
+msgid "Horse Head"
+msgstr "Hevosen pää"
+
+msgid "Second Horse"
+msgstr "Toinen hevonen"
+
+msgid "Double Horse"
+msgstr "Kaksoishevonen"
+
+msgid "Third Ibex"
+msgstr "Kolmas Ibex"
+
+msgid "The River"
+msgstr "Joki"
+
+msgid "Dead Horse"
+msgstr "Kuollut hevonen"
+
+msgid "Little Bison"
+msgstr "Pieni biisoni"
+
+msgid "Wounded Ibex"
+msgstr "Haavoittunut Ibex"

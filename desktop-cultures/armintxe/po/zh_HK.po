@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Thomas P C Chu, 2023\n"
+"Language-Team: Chinese (Hong Kong) (https://app.transifex.com/stellarium/"
+"teams/80998/zh_HK/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Armintxe Cave"
+msgstr "阿明特洞穴"
+
+msgid "Big Bison"
+msgstr ""
+
+msgid "The Lions"
+msgstr ""
+
+msgid "Second Ibex"
+msgstr ""
+
+msgid "Horse Head"
+msgstr "馬頭"
+
+msgid "Second Horse"
+msgstr ""
+
+msgid "Double Horse"
+msgstr ""
+
+msgid "Third Ibex"
+msgstr ""
+
+msgid "The River"
+msgstr "河流"
+
+msgid "Dead Horse"
+msgstr ""
+
+msgid "Little Bison"
+msgstr ""
+
+msgid "Wounded Ibex"
+msgstr ""
