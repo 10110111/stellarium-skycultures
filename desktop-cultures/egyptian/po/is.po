@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Icelandic (https://app.transifex.com/stellarium/teams/80998/"
+"is/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+# Sky culture name
+msgid "Egyptian"
+msgstr "Egypsk"
+
+msgid "Bird"
+msgstr "Fuglinn"
+
+msgid "Sheep"
+msgstr "Kindin"
+
+msgid "Net"
+msgstr "Netið"
+
+msgid "Triangle"
+msgstr "Þríhyrningurinn"
+
+msgid "Bull's Foreleg"
+msgstr "Nautsfóturinn"
+
+msgid "Two Poles"
+msgstr "Stangirnar tvær"
+
+msgid "Lion"
+msgstr "Ljónið"
+
+msgid "Two Jaws"
+msgstr "Kjálkarnir tveir"
+
+msgid "Sah"
+msgstr "Sah"
+
+msgid "Sek"
+msgstr "Sek"
+
+msgid "Ferry Boat"
+msgstr "Ferjubáturinn"
+
+msgid "Boat"
+msgstr "Báturinn"
+
+msgid "Crocodile"
+msgstr "Krókódíllinn"
+
+msgid "Selkis"
+msgstr "Selkis"
+
+msgid "Prow"
+msgstr "Stefnið"
+
+msgid "Horus"
+msgstr "Hórus"
+
+msgid "Sheepfold"
+msgstr "Fjárréttin"
+
+msgid "Giant"
+msgstr "Risinn"
+
+msgid "Hippopotamus"
+msgstr "Flóðhesturinn"
+
+msgid "Flock"
+msgstr "Hjörðin"
+
+msgid "Pair of Stars"
+msgstr "Stjörnuparið"
+
+msgid "Khanuwy Fish"
+msgstr "Khanuwyfiskurinn"
+
+msgid "Jaw"
+msgstr "Kjálkinn"
+
+msgid "Mooring Post"
+msgstr "Bryggjustólpinn"
+
+msgid "Kenemet"
+msgstr "Kenemet"
+
+msgid "Chematy"
+msgstr "Kematy"
+
+msgid "Waty Bekety"
+msgstr "Waty Bekety"
+
+msgid "Stars of Water"
+msgstr "Vatnastjörnurnar"
+
+msgid "Procyon"
+msgstr "Prókýon"
+
+msgid "Sirius"
+msgstr "Síríus"
+
+#. TRANSLATORS: Native name of the Sun in Egyptian culture
+msgid "God of Sun"
+msgstr ""
+
+#. TRANSLATORS: Native name of the Moon in Egyptian culture
+msgid "The Traveler"
+msgstr ""
+
+#. TRANSLATORS: Native name of Mercury in Egyptian culture
+msgid "Unknown"
+msgstr "Óþekkt"
+
+#. TRANSLATORS: Native name of Venus in Egyptian culture
+msgid "Star that Crosses / The God of the Morning"
+msgstr ""
+
+#. TRANSLATORS: Native name of Mars in Egyptian culture
+msgid "Red Horus"
+msgstr ""
+
+#. TRANSLATORS: Native name of Jupiter in Egyptian culture
+msgid "Horus Who Binds the Two Lands"
+msgstr ""
+
+#. TRANSLATORS: Native name of Saturn in Egyptian culture
+msgid "Horus, the Bull of Heaven"
+msgstr ""
