@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Khalid AlAjaji, 2023\n"
+"Language-Team: Arabic (https://app.transifex.com/stellarium/teams/80998/"
+"ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+# Sky culture name
+msgid "Egyptian"
+msgstr "المصري"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"Late Egyptian astronomy/astrology follows that of Greco/Roman culture. The "
+"belief that the stars could influence human destiny does not appear to have "
+"reached Egypt until the Ptolemaic period. The temple of Hathor at Denderah "
+"dates from Ptolemaic times, probably the first century BCE, and has a "
+"wonderful illustration of the sky that illustrates this point."
+msgstr ""
+"تتبع المعرفة الفلكية المصرية المتأخرة الحضارة الإغريقية الرومانية. ولم يوجد "
+"التنجيم أي الاعتقاد بوجود تأثير للنجوم على حياة وأقدار الناس إلا بعد الفترة "
+"البطليموسية. ويحوي معبد هاذور في الدنديره الذي يعود تاريخه إلى عهد بطليموس، "
+"ربما القرن الأول بعد الميلاد على رسم رائع للسماء يوضح هذا الأمر."
+
+# Sky culture description section in markdown format
+msgid ""
+"However there were differences in names. For example, Cancer the Crab is "
+"represented by the Scarab Beetle. The figure of the Lion near the Scales "
+"(which is not the zodiacal Lion) is the constellation Centaurus [#1].\n"
+"\n"
+"Earlier constellations are more problematic, but some indications exist that "
+"some modern zodiac signs are very ancient indeed [#2], although the "
+"constellations did change significantly over time [#3].\n"
+"\n"
+"The Egyptians recognized five planets and called them the \"stars that knew "
+"no rest\". Their movement across the heavens reminded the Egyptians of the "
+"five gods sailing across the sky in their solar barque (boat). The planet "
+"now known as Jupiter was called \"Horus Who Limits the Two Lands\"; Mars was "
+"\"Horus of the Horizon\"; Mercury was \"Sebegu\", associated with Set; "
+"Saturn was \"Horus the Bull of the Sky\"; and Venus was \"the God of the "
+"Morning\" [#7]."
+msgstr ""
+"وعلى أي حال فقد وجد اختلاف في التسميات. مثلاً، السرطان كان يمثله خنفساء "
+"الجعل. وشكل الأسد بالقرب من الميزان(ليس برج الأسد) هو كوكبة قنطورس [1].\n"
+"\n"
+"أما الكوكبات الأقدم فتثير إشكالات أكثر، ولكن يوجد بعض المؤشرات أن البروج "
+"التي يستخدمها المنجمون لها أصل قديم في الحقيقة [2], مع أن البروج قد تغيرت "
+"بشكل كبير عبر العصور [3]."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: Gary D. Thompson. *Ancient Zodiacs, Star Names, and Constellations: "
+"Essays and Annotated Bibliographies*. Section 11: *Episodic survey of the "
+"history of the Occidental/Oriental constellations, and significant "
+"investigators.* [Illustration 17: *Mithraic uranography*](http://members."
+"westnet.com.au/Gary-David-Thompson/page11-17.html).\n"
+" - [#2]: [Three archaic Egyptian constellations used as seasonal markers?]"
+"(http://www.catchpenny.org/thoth/3arch.htm)\n"
+" - [#3]: Gary D. Thompson. *Ancient Zodiacs, Star Names, and Constellations: "
+"Essays and Annotated Bibliographies*. Section 11: *Episodic survey of the "
+"history of the Occidental/Oriental constellations, and significant "
+"investigators.* [Illustration 15: *Farnese celestial globe*](http://members."
+"westnet.com.au/Gary-David-Thompson/page11-15.html).\n"
+" - [#4]: [http://ecuip.lib.uchicago.edu/diglib/science/cultural_astronomy/"
+"cultures_egypt-2.html](http://ecuip.lib.uchicago.edu/diglib/science/"
+"cultural_astronomy/cultures_egypt-2.html)\n"
+" - [#5]: [http://www.egyptologyonline.com/astronomy.htm](http://www."
+"egyptologyonline.com/astronomy.htm)\n"
+" - [#6]: [http://www.starteachastronomy.com/egyptian.html](http://www."
+"starteachastronomy.com/egyptian.html)\n"
+" - [#7]: <notr>Pat Remler: Egyptian mythology A to Z / 3rd ed., 2010, "
+"Chelsea House, ISBN 978-1-60413-926-6</notr>"
+msgstr ""
+" - [#1]: Gary D. Thompson. *Ancient Zodiacs, Star Names, and Constellations: "
+"Essays and Annotated Bibliographies*. Section 11: *Episodic survey of the "
+"history of the Occidental/Oriental constellations, and significant "
+"investigators.* [Illustration 17: *Mithraic uranography*](http://members."
+"westnet.com.au/Gary-David-Thompson/page11-17.html).\n"
+" - [#2]: [Three archaic Egyptian constellations used as seasonal markers?]"
+"(http://www.catchpenny.org/thoth/3arch.htm)\n"
+" - [#3]: Gary D. Thompson. *Ancient Zodiacs, Star Names, and Constellations: "
+"Essays and Annotated Bibliographies*. Section 11: *Episodic survey of the "
+"history of the Occidental/Oriental constellations, and significant "
+"investigators.* [Illustration 15: *Farnese celestial globe*](http://members."
+"westnet.com.au/Gary-David-Thompson/page11-15.html).\n"
+" - [#4]: [http://ecuip.lib.uchicago.edu/diglib/science/cultural_astronomy/"
+"cultures_egypt-2.html](http://ecuip.lib.uchicago.edu/diglib/science/"
+"cultural_astronomy/cultures_egypt-2.html)\n"
+" - [#5]: [http://www.egyptologyonline.com/astronomy.htm](http://www."
+"egyptologyonline.com/astronomy.htm)\n"
+" - [#6]: [http://www.starteachastronomy.com/egyptian.html](http://www."
+"starteachastronomy.com/egyptian.html)\n"
+" - [#7]: Pat Remler: Egyptian mythology A to Z / 3rd ed., 2010, Chelsea "
+"House, ISBN 978-1-60413-926-6"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by *Karrie Berglund* of Digitalis Education "
+"Solutions, Inc. based on the paper \"A Map of the Ancient Egyptian "
+"Firmament” by Juan Antonio Belmonte.\n"
+"\n"
+"This sky culture was updated by misibacsi (names of planets)"
+msgstr ""
+"هذا التراث الفلكي ساهم به:\n"
+"\n"
+"Karrie Berglund\n"
+"\n"
+"من\n"
+"\n"
+"Digitalis Education Solutions, Inc.\n"
+"\n"
+"بالاعتماد على البحث:\n"
+"\n"
+"A Map of the Ancient Egyptian Firmament - by Juan Antonio Belmonte\n"
+"\n"
+"قام بهذه الترجمة:\n"
+"\n"
+"خالد بن عبدالله العجاجي - الرياض - السعودية"
+
+msgid "Bird"
+msgstr "‎الطير‎"
+
+msgid "Sheep"
+msgstr "‎‎غنم‎‎"
+
+msgid "Net"
+msgstr "‎‎شبكة‎‎"
+
+msgid "Triangle"
+msgstr "‎‎مثلث‎‎"
+
+msgid "Bull's Foreleg"
+msgstr "‎‎رجل ثور أمامية‎‎"
+
+msgid "Two Poles"
+msgstr "‎‎ساريتان‎‎"
+
+msgid "Lion"
+msgstr "‎‎الأسد‎‎"
+
+msgid "Two Jaws"
+msgstr "‎‎فكّان‎‎"
+
+msgid "Sah"
+msgstr "‎‎ساه‎‎"
+
+msgid "Sek"
+msgstr "‎‎سيك‎‎"
+
+msgid "Ferry Boat"
+msgstr "‎‎عبارة بحرية‎‎"
+
+msgid "Boat"
+msgstr "‎‎قارب‎‎"
+
+msgid "Crocodile"
+msgstr "‎‎تمساح‎‎"
+
+msgid "Selkis"
+msgstr "‎‎سيلكس‎‎"
+
+msgid "Prow"
+msgstr "‎‎مقدمة السفينة‎‎"
+
+msgid "Horus"
+msgstr "‎‎حورس‎‎"
+
+msgid "Sheepfold"
+msgstr "‎‎حضيرة غنم‎‎"
+
+msgid "Giant"
+msgstr "‎‎عملاق‎‎"
+
+msgid "Hippopotamus"
+msgstr "‎‎فرس النهر‎‎"
+
+msgid "Flock"
+msgstr "‎‎قطيع‎‎"
+
+msgid "Pair of Stars"
+msgstr "‎‎زوج من النجوم‎‎"
+
+msgid "Khanuwy Fish"
+msgstr "‎‎سمكة كانوي‎‎"
+
+msgid "Jaw"
+msgstr "‎‎فك‎‎"
+
+msgid "Mooring Post"
+msgstr "‎‎عمود مرسى‎‎"
+
+msgid "Kenemet"
+msgstr "‎‎كينيميت‎‎"
+
+msgid "Chematy"
+msgstr "‎‎كيماتي‎‎"
+
+msgid "Waty Bekety"
+msgstr "‎‎واتي بيكيتي‎‎"
+
+msgid "Stars of Water"
+msgstr "‎‎نجوم الماء‎‎"
+
+msgid "Procyon"
+msgstr "‎‎الشعرى الشامية‎‎"
+
+msgid "Sirius"
+msgstr "الشعرى"
+
+#. TRANSLATORS: Native name of the Sun in Egyptian culture
+msgid "God of Sun"
+msgstr "الشمس"
+
+#. TRANSLATORS: Native name of the Moon in Egyptian culture
+msgid "The Traveler"
+msgstr "الرحالة"
+
+#. TRANSLATORS: Native name of Mercury in Egyptian culture
+msgid "Unknown"
+msgstr "المجهول"
+
+#. TRANSLATORS: Native name of Venus in Egyptian culture
+msgid "Star that Crosses / The God of the Morning"
+msgstr "النجم العابر / نجم الصبح"
+
+#. TRANSLATORS: Native name of Mars in Egyptian culture
+msgid "Red Horus"
+msgstr "حورس الأحمر"
+
+#. TRANSLATORS: Native name of Jupiter in Egyptian culture
+msgid "Horus Who Binds the Two Lands"
+msgstr "حورس الواصل بين البلدين"
+
+#. TRANSLATORS: Native name of Saturn in Egyptian culture
+msgid "Horus, the Bull of Heaven"
+msgstr "حورس، ثور السماء"
