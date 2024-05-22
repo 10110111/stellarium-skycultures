@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Gediminas Tauras, 2024\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Belarusian"
+msgstr "Baltarusų"
+
+msgid "The Goat"
+msgstr "Ožka"
+
+msgid "Elias's Cart"
+msgstr ""
+
+msgid "The Bride"
+msgstr "Nuotaka"
+
+msgid "The Chicks"
+msgstr ""
+
+msgid "The Cross"
+msgstr "Kryžius"
+
+msgid "The Crown"
+msgstr "Karūna"
+
+msgid "The Grass Snakes"
+msgstr "Žolės gyvatės"
+
+msgid "Poland and Lithuania"
+msgstr "Lenkija ir Lietuva"
+
+msgid "The Mowers"
+msgstr ""
+
+msgid "The Nail"
+msgstr "Vinis"
+
+msgid "The Ploughman"
+msgstr "Artojas"
+
+msgid "The Rake"
+msgstr "Grėblys"
+
+msgid "The Ram"
+msgstr "Avinas"
+
+msgid "The Serpent"
+msgstr "Gyvatė"
+
+msgid "The Sieve"
+msgstr "Sietas"
+
+msgid "The Small Cart"
+msgstr "Mažasis krepšys"
+
+msgid "The Throne"
+msgstr "Sostas"
+
+msgid "The Twins"
+msgstr "Dvyniai"
+
+msgid "The Wild Goat"
+msgstr "Laukinė ožka"
+
+msgid "The Goose's Way"
+msgstr "Žąsies kelias"
+
+msgid "Kaza"
+msgstr "Kaza"

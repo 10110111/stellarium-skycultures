@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Belarusian"
+msgstr ""
+
+msgid "The Goat"
+msgstr "మేక"
+
+msgid "Elias's Cart"
+msgstr "ఎలియా బండి"
+
+msgid "The Bride"
+msgstr "పెళ్ళికూతురు"
+
+msgid "The Chicks"
+msgstr "కోడిపిల్లలు "
+
+msgid "The Cross"
+msgstr "క్రాస్"
+
+msgid "The Crown"
+msgstr "కిరీటం"
+
+msgid "The Grass Snakes"
+msgstr "గడ్డి పాములు"
+
+msgid "Poland and Lithuania"
+msgstr "పోలండ్, లిథుయేనియా"
+
+msgid "The Mowers"
+msgstr "గడ్డి చెక్కేవి"
+
+msgid "The Nail"
+msgstr "గోరు"
+
+msgid "The Ploughman"
+msgstr "దుక్కి దున్నేవాడు"
+
+msgid "The Rake"
+msgstr "రేక్"
+
+msgid "The Ram"
+msgstr "ది ర్యామ్"
+
+msgid "The Serpent"
+msgstr "పాము"
+
+msgid "The Sieve"
+msgstr "జల్లెడ"
+
+msgid "The Small Cart"
+msgstr "చిన్న బండి"
+
+msgid "The Throne"
+msgstr "ముల్లు"
+
+msgid "The Twins"
+msgstr "ది ట్విన్స్"
+
+msgid "The Wild Goat"
+msgstr "కొండ గొర్రె"
+
+msgid "The Goose's Way"
+msgstr "బాతుల బాట"
+
+msgid "Kaza"
+msgstr "కాజా"
