@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Gaelic, Scottish (https://app.transifex.com/stellarium/"
+"teams/80998/gd/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gd\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+
+# Sky culture name
+msgid "Boorong"
+msgstr ""
+
+msgid "Long-necked tortoise"
+msgstr "Seilche le amhach fhada"
+
+msgid "Fan-tailed cockatoo"
+msgstr ""
+
+msgid "Two teenage boys"
+msgstr "Dithis òigfhear"
+
+msgid "Girls"
+msgstr "A’ chlann-nighean"
+
+msgid "Red kangaroo"
+msgstr "Cangaru dearg"
+
+msgid "Ring-tail possum"
+msgstr ""
+
+msgid "Red-rumped parrot"
+msgstr "Piorraid le dronn ruadh"
+
+msgid "Crow"
+msgstr "An fheannag"
+
+msgid "Female crow, wife of War"
+msgstr "Feannag, bean a’ chogaidh"
+
+msgid "Owlet nightjar"
+msgstr ""
+
+msgid "Needlewood hakea and willie wagtails"
+msgstr ""
+
+msgid "Red-kneed dotterel"
+msgstr ""
+
+msgid "Australian kestrel"
+msgstr ""
+
+msgid "Mallee fowl"
+msgstr ""
+
+msgid "Jacky lizard"
+msgstr ""
+
+msgid "Male and female brolga"
+msgstr ""
+
+msgid "Great fish"
+msgstr "Iasg mòr"
+
+msgid "Wedge tailed eagle"
+msgstr ""
+
+msgid "Female eagle, wife of Warepil"
+msgstr ""
+
+msgid "Emu"
+msgstr "Eumu"
+
+msgid "Purple crowned lorikeet"
+msgstr ""
+
+msgid "Meat ant"
+msgstr "Seangan feòla"
+
+msgid "Galaxy"
+msgstr "An reul-chrios"
+
+msgid "Singing bushlark"
+msgstr "Uiseag-pris a’ seinn"
+
+msgid "Pink cockatoo"
+msgstr ""
+
+msgid "Species of ant"
+msgstr "Seòrsa seangain"
+
+msgid "Boomerang"
+msgstr "Bùmarang"
+
+msgid "The maned snake"
+msgstr "An Nathair Mhuingeach"
+
+msgid "Marpeankurrk"
+msgstr "Marpeankurrk"
+
+msgid "Djuit"
+msgstr "Djuit"
+
+msgid "Neilloan"
+msgstr "Neilloan"
+
+msgid "Totyarguil"
+msgstr "Totyarguil"
+
+msgid "Karik Karik"
+msgstr "Karik Karik"
+
+msgid "Berm-berm-gle"
+msgstr "Berm-berm-gle"
+
+msgid "Bunya"
+msgstr "Bunya"
+
+msgid "Tourchingboiongerra"
+msgstr "Tourchingboiongerra"
+
+msgid "Kourt-chin"
+msgstr "Kourt-chin"
+
+msgid "Warring"
+msgstr "Warring"
+
+msgid "Kulkanbulla"
+msgstr "Kulkanbulla"
+
+msgid "Lamankurrk"
+msgstr "Lamankurrk"
+
+msgid "Gellarlec"
+msgstr "Gellarlec"
+
+msgid "Warepil"
+msgstr "Warepil"
+
+msgid "Colowgulloric Warepil"
+msgstr "Colowgulloric Warepil"
+
+msgid "Won"
+msgstr "Won"
+
+msgid "Weetkurrk"
+msgstr "Weetkurrk"
+
+msgid "War"
+msgstr "An cogadh"
+
+msgid "Collowgulloric War"
+msgstr ""
+
+msgid "Yerredetkurrk"
+msgstr "Yerredetkurrk"
+
+msgid "Otchocut"
+msgstr "Otchocut"
+
+msgid "Collenbitchick"
+msgstr "Collenbitchick"
+
+msgid "Yurree"
+msgstr "Yurree"
+
+msgid "Wanjel"
+msgstr "Wanjel"
+
+msgid "Purra"
+msgstr "Purra"
+
+msgid "Unurgunite"
+msgstr "Unurgunite"
+
+#. TRANSLATORS: Native name of the Sun in Boorong culture
+msgid "Day"
+msgstr "Latha"
+
+#. TRANSLATORS: Native name of the Moon in Boorong culture
+msgid "Mityan"
+msgstr "Mityan"
+
+#. TRANSLATORS: Native name of Venus in Boorong culture
+msgid "Elder sister"
+msgstr ""
+
+#. TRANSLATORS: Native name of Jupiter in Boorong culture
+msgid "Sulphur-crested white cockatoo"
+msgstr ""

@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Serbian (https://app.transifex.com/stellarium/teams/80998/"
+"sr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+# Sky culture name
+msgid "Boorong"
+msgstr ""
+
+msgid "Long-necked tortoise"
+msgstr "Дуговрата корњача"
+
+msgid "Fan-tailed cockatoo"
+msgstr "Какаду лепезастог репа"
+
+msgid "Two teenage boys"
+msgstr "Два тинејџера"
+
+msgid "Girls"
+msgstr "Девојке"
+
+msgid "Red kangaroo"
+msgstr "Црвени кенгур"
+
+msgid "Ring-tail possum"
+msgstr "Прстенасти реп опосума"
+
+msgid "Red-rumped parrot"
+msgstr "Папагај црвених леђа"
+
+msgid "Crow"
+msgstr "Врана"
+
+msgid "Female crow, wife of War"
+msgstr "Врана (женка), жена ата"
+
+msgid "Owlet nightjar"
+msgstr "Ноћна ласта"
+
+msgid "Needlewood hakea and willie wagtails"
+msgstr "Игличасто дрво и птичице"
+
+msgid "Red-kneed dotterel"
+msgstr "Пијукавац црвених колена"
+
+msgid "Australian kestrel"
+msgstr "Аустралијски кликтавац"
+
+msgid "Mallee fowl"
+msgstr "Леипоа оцелатус (латински назив)"
+
+msgid "Jacky lizard"
+msgstr "Џеки гуштер"
+
+msgid "Male and female brolga"
+msgstr "Мужијак и женка бролга"
+
+msgid "Great fish"
+msgstr "Велика риба"
+
+msgid "Wedge tailed eagle"
+msgstr "Орао клинастог репа"
+
+msgid "Female eagle, wife of Warepil"
+msgstr "Женка Орла, Варепилова жена"
+
+msgid "Emu"
+msgstr "Ему"
+
+msgid "Purple crowned lorikeet"
+msgstr "Зелено-плави папагај са љубичастом круницом"
+
+msgid "Meat ant"
+msgstr "Мрави месоједи"
+
+msgid "Galaxy"
+msgstr "Галаксија"
+
+msgid "Singing bushlark"
+msgstr "Шева"
+
+msgid "Pink cockatoo"
+msgstr "Ружичасти какаду"
+
+msgid "Species of ant"
+msgstr "Врста мрава"
+
+msgid "Boomerang"
+msgstr "Бумеранг"
+
+msgid "The maned snake"
+msgstr "Гриваста змија"
+
+msgid "Marpeankurrk"
+msgstr "Глава Мрава"
+
+msgid "Djuit"
+msgstr "Реп папагаја"
+
+msgid "Neilloan"
+msgstr "Нога Леипоа оцелатуса"
+
+msgid "Totyarguil"
+msgstr "Леђа Лорикета"
+
+msgid "Karik Karik"
+msgstr "Карик Карик"
+
+msgid "Berm-berm-gle"
+msgstr "Берм-берм-гле"
+
+msgid "Bunya"
+msgstr "Грана"
+
+msgid "Tourchingboiongerra"
+msgstr "Стабло"
+
+msgid "Kourt-chin"
+msgstr "Груди"
+
+msgid "Warring"
+msgstr "Зараћен"
+
+msgid "Kulkanbulla"
+msgstr "Кулканбула"
+
+msgid "Lamankurrk"
+msgstr "Ламанкурк"
+
+msgid "Gellarlec"
+msgstr "Геларлек"
+
+msgid "Warepil"
+msgstr "Груди"
+
+msgid "Colowgulloric Warepil"
+msgstr "Реп"
+
+msgid "Won"
+msgstr "Добитак"
+
+msgid "Weetkurrk"
+msgstr "Виткурк"
+
+msgid "War"
+msgstr "Рат"
+
+msgid "Collowgulloric War"
+msgstr "Ратни реп"
+
+msgid "Yerredetkurrk"
+msgstr "Глава"
+
+msgid "Otchocut"
+msgstr "Пераја велике рибе"
+
+msgid "Collenbitchick"
+msgstr "Торзо мрава"
+
+msgid "Yurree"
+msgstr "Реп"
+
+msgid "Wanjel"
+msgstr "Оклоп"
+
+msgid "Purra"
+msgstr "Ноге кенгура"
+
+msgid "Unurgunite"
+msgstr "Глава гуштера"
+
+#. TRANSLATORS: Native name of the Sun in Boorong culture
+msgid "Day"
+msgstr ""
+
+#. TRANSLATORS: Native name of the Moon in Boorong culture
+msgid "Mityan"
+msgstr ""
+
+#. TRANSLATORS: Native name of Venus in Boorong culture
+msgid "Elder sister"
+msgstr ""
+
+#. TRANSLATORS: Native name of Jupiter in Boorong culture
+msgid "Sulphur-crested white cockatoo"
+msgstr ""
