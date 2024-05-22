@@ -1,0 +1,1014 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2024\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+# Sky culture name
+msgid "Arabic (Lunar Mansions)"
+msgstr "Арабська (місячні станції)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Arabic lunar stations describes the 28 sky areas chosen in ancient "
+"Arabia to define the daily location of the moon during its monthly trip "
+"around the sky."
+msgstr ""
+"Арабські місячні станції описують 28 ділянок на небі, які було вибрано у "
+"давній Аравії для визначення щоденних позицій Місяця під час його руху небом."
+
+# Sky culture description section in markdown format
+msgid ""
+"#### Historical Overview\n"
+"\n"
+"Originally, *Manāzil al-Qamar*, the Arabic for the lunar mansions, or "
+"stations of the moon, were a system of 28 stars, group of stars, or spots in "
+"the sky near which the moon can be found in each of the 28 nights of its "
+"monthly revolution. Early mentions of the complete list of the lunar "
+"stations are reported by ʿAbd al-Malik ibn Ḥabīb (d. 852) on the authority "
+"of Mālik ibn Anas (d. 795) [#1]. However, this system had been adopted "
+"already in the pre-Islamic period, prior to the 7th century of the common "
+"era.\n"
+"\n"
+" Using heliacal observations, the asterisms of the lunar mansions served to "
+"divide the sidereal and solar year of 365 days into 28 periods of 13 days "
+"each except for one period that is given 14 days. These 28 periods are "
+"called *Anwāʾ*, plural of *nawʾ*. Each *Nawʾ* is determined by a "
+"characteristical star: when this star rises in the morning during dawn (in "
+"the east, so, shortly before the Sun), this is the beginning of the next "
+"*nawʾ*. The name of the *nawʾ* (period of time, half month), gives the lunar "
+"mansion its name. One complete cycle of setting and rising for each of the "
+"28 lunar mansions, one after the other, makes a solar year. This system was "
+"used to determine the seasons and predict weather, especially rain [#2]. The "
+"Arabs said: each *nawʾ* (period of 13/14 days) is characterized by a "
+"distinctive weather pattern of rain, wind, and temperature [#3].\n"
+"\n"
+"A detailed description of the stars of each lunar mansion, the times of "
+"their heliacal rising and a compilation of astronomical and meteorological "
+"knowledge of the ancient Arabs can be found in the *Book of meteorology* "
+"(Arabic: Kitāb al-anwāʾ), authored by Ibn Qutaybah (b. 828 - d. 884 or 889). "
+"Copies of this book manuscripts survived, and it was printed in India in "
+"1956 [#4].\n"
+"\n"
+" The usage of the lunar mansions continued to schedule the times of "
+"agricultural, travel and medicine practices. Due to the importance of "
+"observing the times of their heliacal risings, short treatises have been "
+"written, and poems have been composed describing the asterisms of the 28 "
+"mansions. A poem dedicated to description of the stars of the lunar mansions "
+"was published by Gustave-Adolphe de Calassanti-Motylinski in 1899 in his "
+"book *Les mansions lunaires chez les Arabes*, attributed to Muḥammad al-"
+"Maqri (1578-1638) [#5][#6]. A sample treatise is the one written by Shaikh "
+"Ṣāliḥ al-Shethrī (d. ~1891), titled *A time-table for farmers* [#7].\n"
+"\n"
+"#### Current Usage of Lunar Stations\n"
+"\n"
+" Agricultural almanacs based on the heliacal rising of lunar stations are "
+"still in active use today. The official calendar of Saudi Arabia includes "
+"these times [#8]. The following is an example of the use of a calendar based "
+"on the lunar stations for the 13 days period starting with the rise of the "
+"3rd lunar station *al-Thurayya* (Pleiades) on June 7th [#9]:\n"
+"\n"
+"> Weather gets hotter and wind gets stronger. Wild grasses dry. Water in "
+"wells gets shallower. Rain is rare during this time. Spring insects start to "
+"disappear. Palm tree dates starts to get its colors. It is recommended to "
+"irrigate trees with the right amounts and stop irrigation of vines when "
+"grapes start to get its color.\n"
+"\n"
+"#### Identification of the Lunar Stations\n"
+"\n"
+"Ibn Qutaybah (b. 828 - d. 884 or 889) in his book *Kitāb al-anwāʾ* gives "
+"detailed description of the stars of each lunar station while an accurate "
+"identification can be extracted from the *Book of Stars* by al-Sufi (d. "
+"986). In his book, al-Sufi maps the stars known to ancient Arabs to those of "
+"the Ptolemaic Constellations. An example of al-Sufi definitions of the stars "
+"of the lunar mansions, here is the definition of *al-Ġafr* [#10][#11]:\n"
+"\n"
+"> And the 22nd [star of Virgo] and the 23rd which is on the tail [hem of the "
+"garment] with the 25th on the left foot [of Virgo] are named [by the Arabs] "
+"*al-Ghafr* which is the 15th lunar mansion.\n"
+"\n"
+" Because the stars of the Ptolemaic constellations have known coordinates, "
+"it is relatively easy to identify the Arab star names.\n"
+"\n"
+"#### The 28 lunar stations\n"
+"\n"
+" 1. (Arabic: الشرطان) *Al-Sharaṭān* (The two signs) or (Arabic: الأشراط) *"
+"\"al-Ashrāṭ\"* (The signs) composed of the 3 stars: α Ari (Hamal), β Ari "
+"(Sheratan) and γ<sup>2</sup> Ari (Mesarthim)\n"
+" 1. (Arabic: البطين) *Al-Buṭayn* (The small belly [of the little ram]) "
+"composed of the 3 stars: ε Ari, δ Ari (Botein), and ρ<sup>3</sup> Ari\n"
+" 1. (Arabic: الثريا) *Al-Thurayyā* (Pleiades) composed of the star cluster "
+"of the Pleiades\n"
+" 1. (Arabic: الدبران) *Al-Dabarān* (The Follower [of the Pleiades]) composed "
+"of the single star α Tau (Aldebaran)\n"
+" 1. (Arabic: الهقعة) *Al-Haqʿah* (The mark on the horse side) composed of "
+"the three stars on the head of Orion: λ Ori (Meissa), φ<sup>1</sup> Ori and "
+"φ<sup>2</sup> Ori\n"
+" 1. (Arabic: الهنعة*Al-Hanʿah* (The bend in the neck of a camel) composed of "
+"the 2 stars: γ Gem (Alhena) and ξ Gem\n"
+" 1. (Arabic: الذراع) *Al-Dhirāʾ* (Retracted arm [of the lion]) composed of "
+"the 2 stars: α CMi (Procyon) and β CMi (Gomeisa)\n"
+" 1. (Arabic: النثرة) *Al-Nathrah* (The tip of the nose of the lion) composed "
+"of the Praesepe cluster and the 2 stars: γ Cnc (Asellus Borealis) and δ Cnc "
+"(Asellus Australis)\n"
+" 1. (Arabic: الطرف) *Al-Ṭarf* (The eyes of the lion) composed of the 2 "
+"stars: ε Leo and ο Leo (Subra)\n"
+" 1. (Arabic: الجبهة) *Al-Ǧabhah* (The forehead of the lion) composed of 4 "
+"stars: ζ Leo (Adhafera), γ<sup>1</sup> Leo (Algieba), η Leo and α Leo "
+"(Regulus)\n"
+" 1. (Arabic: الزبرة) *Al-Zubrah* (The mane of the lion) composed of the 2 "
+"stars: δ Leo (Zosma) and θ Leo (Chertan)\n"
+" 1. (Arabic: الصرفة) *Al-Ṣarfah* (The change to colder weather) composed of "
+"one star: β Leo (Denebola)\n"
+" 1. (Arabic: العوا) *Al-ʿAwwā* (The bend) composed of 5 stars: β Vir "
+"(Zavijava), η Vir (Zaniah), γ Vir (Porrima), δ Vir and ε Vir (Vindemiatrix)\n"
+" 1. (Arabic: السماك) *Al-Simāk* (The unarmed high one) composed of the star "
+"α Vir (Spica)\n"
+" 1. (Arabic: الغفر) *Al-Ġafr* (The cover) composed of 3 stars: ι Vir "
+"(Syrma), κ Vir and λ Vir\n"
+" 1. (Arabic: الزبانى) *Al-Zubānā* (The claws of the scorpion) composed of "
+"the 2 stars: α<sup>2</sup> Lib (Zubenelgenubi) and β Lib (Zubeneschamali)\n"
+" 1. (Arabic: الإكليل) *Al-Iklīl* (The ornamented headband, The diadem) "
+"composed of the 3 stars: β<sup>1</sup> Sco (Acrab), δ Sco (Dschubba) and π "
+"Sco.\n"
+" 1. (Arabic: القلب) *Al-Qalb* (The heart of the scorpion) composed of the "
+"star α Sco (Antares)\n"
+" 1. (Arabic: الشولة) *Al-Shawlah* (The sting of the scorpion) composed of "
+"the 2 stars: λ Sco (Shaula) and υ Sco (Lesath)\n"
+" 1. (Arabic: النعائم) *Al-Naʿaʾim* (The Ostriches) 8 stars: γ2 Sgr, δ Sgr, ε "
+"Sgr, η Sgr, σ Sgr, φ Sgr, τ Sgr, and ζ Sgr\n"
+" 1. (Arabic: البلدة*Al-Baldah* (The empty area) is the area where there are "
+"no stars (between *al-Naayem* and *Saad al-Thabih*)\n"
+" 1. (Arabic: سعد الذابح) *Saʿd al-Dhābiḥ* (The lucky star of the "
+"Slaughterer) composed of the 3 stars: α<sup>1</sup> Cap (Algedi), β Cap "
+"(Dabih), and ν Cap\n"
+" 1. (Arabic: سعد بلع) *Saʿd Bulaʿ* (The lucky star of the swallower) "
+"composed of the 3 stars: ν Aqr, μ Aqr and ε Aqr (Albali)\n"
+" 1. (Arabic: سعد السعود) *Saʿd al-Suʿūd* (The luckiest of the lucky stars) "
+"composed of the 3 stars: β Aqr (Sadalsuud), ξ Aqr and λ Cap\n"
+" 1. (Arabic: سعد الأخبية) *Saʿd al-Aḫbiyah* (The lucky stars of the tent "
+"dwellers) composed of the 4 stars: γ Aqr (Sadachbia), π Aqr, ζ<sup>2</sup> "
+"Aqr and η Aqr\n"
+" 1. (Arabic: المقدم) *Al-Muqaddam* (The front bucket mouth) composed of the "
+"2 stars: α And (Alpheratz) and γ Peg (Algenib)\n"
+" 1. (Arabic: المؤخر) *Al-Muʾaḫar* (The rear bucket mouth) composed of the 2 "
+"stars: β Peg (Scheat) and α Peg (Markab)\n"
+" 1. (Arabic: الرشاء أو الحوت) *Al-Rishāʾ* or *al-Ḥūt* (The rope of the well "
+"bucket or The Fish) composed of the star β And (Mirach) and two arcs of "
+"stars making a figure of a fish\n"
+"\n"
+"##### The Super lion and al-Ǧawzāʾ figures of the ancient Arab star lore\n"
+"\n"
+" One may notice from the names of the 7th to the 15th lunar stations that "
+"they are part of a lion figure. This Arab lion figure covers around 100 "
+"degrees, a little bit more than half of the sky dome. From the names of "
+"these stars a lion figure can be constructed.\n"
+"\n"
+" Two of the lunar stations, *al-Haqʿah* and *al-Hanʿah*, are part of al-"
+"Ǧawzāʾ stars. al-Ǧawzāʾ is the figure covering Orion plus some stars around "
+"it. The ancient Arabs imagined these stars as a figure of a woman with a bow "
+"and arrow aimed at the lion (an image, probably influenced from Roman Egypt: "
+"see depiction on Denderah zodiac which shows Babylonian as well as Greek "
+"traces of constellations). Mr. Roland Laffitte discussed these two figures "
+"and offered a depiction of each in his article: [Our Arab Heritage in the "
+"CelestialVault](http://www.muslimheritage.com/article/our-arab-heritage-"
+"celestial-vault). A more detailed discussion of ancient Arab star lore is "
+"found in his book: &quot;Le Ciel des Arabes&quot; [#12]."
+msgstr ""
+"#### Історичний огляд\n"
+"\n"
+"Арабською мовою *Маназіл аль-Камар*. Назва місячних станцій або станцій "
+"Місяця. Це система з 28 зірок, груп зірок або місць на небі, де можна "
+"спостерігати Місяць у кожну з 28 ноче його щомісячного руху. Перші згадки "
+"повного списку місячних станцій можна знайти у Абд аль-Маліка ібн-Хабіба "
+"(помер 852 р.) із авторством Маліка ібн-Анаса (помер 795 р.) [#1]. Втім, цю "
+"систему використовували ще у доісламський період, до 7-го століття нашої "
+"ери.\n"
+"\n"
+" На основі спостережень за Сонцем, астеризми місячних станцій слугували для "
+"поділу сидеричного і солярного років з 365 днів на 28 періодів у 13 днів "
+"кожен, окрім одного періоду з 14 днів. Ці періоди мали назви *Анва*, множина "
+"від *нав*. Кожен *нав* визначався характерною зіркою: коли вранці під час "
+"сходу сонця сходила ця зірка (на сході, тому трохи перед Сонцем), це "
+"означало початок наступного *нава*. Назва *нава* (періоду часу, половини "
+"місяця) давала назву місячним станціям. Один повний цикл заходу і сходу для "
+"кожної із 28 місячних станцій, одна за одною, складав один солярний рік. Цю "
+"систему використовували для визначення пір року та передбачення погоди, "
+"особливо дощів[#2]. Араби казали: «Кожен *нав* (період з 13/14 днів) має "
+"власний візерунок погоди з дощу, вітру і температури»[#3].\n"
+"\n"
+"Докладний опис зірок у кожній із місячних областей, час їхнього сонячного "
+"сходу та збірку астрономічних і метеорологічних знань давніх арабів можна "
+"знайти у *Книзі метеорології* (арабською «Кітаб аль-Анва»), автором якої є "
+"Ібн-Кутайба (828 - 884 або 889 рр.). До нас дійшли копії цього рукопису. "
+"Друковану копію опубліковано в Індії у 1946 році.[#4].\n"
+"\n"
+" Місячні станції визначали планування для сільського господарства, подорожей "
+"та лікарської практики. Через важливість спостереження часу сонячних сходів, "
+"було складено короткі твори, а також поеми з описом астеризмів 28 станцій. "
+"Поему, присвячену опису зірок місячних станцій, було опубліковано Густавом-"
+"Адольфом де Калассанті-Мотилінським у 1899 році у його книзі *Les mansions "
+"lunaires chez les Arabes*. Авторство приписано Мухаммаду аль-Макрі "
+"(1578-1638) [#5][#6]. Зразком твору є твір, написаний Шейхом Саліхом аль-"
+"Шетрі (помер ~1891 року), із назвою *Розклад для селян* [#7].\n"
+"\n"
+"#### Сучасне використання місячних станцій\n"
+"\n"
+" Сільськогосподарські календарі на основі сонячних сходів місячних станцій "
+"використовуються і до сьогодні. До офіційного календаря Саудівської Аравії "
+"включено відповідні дані[#8]. Нижче наведено приклад використання календаря "
+"на основі місячних станцій для 13-денного періоду, що починається зі сходу 3-"
+"ої місячної станції *аль-Турайя* (Плеяди) 7 червня[#9]:\n"
+"\n"
+"> Стає спекотніше і сильнішає вітер. Дикі трави висихають. Вода у колодязях "
+"стає мілкішою. У цей час дощ є рідкісним. Починають зникати весняні комахи. "
+"Фініки починають набувати свого кольору. Рекомендуємо поливати дерева "
+"належною кількістю води і припинити поливати виноград, коли виноградини "
+"почнуть набувати свого кольору.\n"
+"\n"
+"#### Ідентифікація місячних станцій\n"
+"\n"
+"Ібн Кутайба (народився 828 року – помер 884 або 889 року) у своїй книзі "
+"*Кітаб аль-анва* виклав докладний опис зірок кожної з місячних станцій, а "
+"точна ідентифікація можлива завдяки *Книзі зірок* аль-Суфі (помер 986 року). "
+"У своїй книзі аль-Суфі пов'язав зірки, які були відомі давнім арабам, із "
+"сузір'ями Птолемея. Прикладом визначень зірок місячних станцій за аль-Суфі є "
+"визначення *аль-Гафра* [#10][#11]:\n"
+"\n"
+"> А 22-у [зірку Діви] та 23-ю, яка перебуває на хвості [рубці одягу] із 25-"
+"ою на лівій ступні [Діви] названо [арабами] *аль-Гафр* і це 15-а місячна "
+"станція.\n"
+"\n"
+" Оскільки зірки птолемеєвих сузір'їв мають відомі координати, відносно "
+"просто визначити арабські назви зірок.\n"
+"\n"
+"#### 28 місячних станцій\n"
+"\n"
+" 1. (арабською: الشرطان) *Аль-Шаратан* (Два знаки) або (арабською: الأشراط) "
+"*аль-Ашрат* (Знаки) складається з 3 зірок: α Овна (Гамаль), β Овна (Шератан) "
+"та γ<sup>2</sup> Овна (Месартхім)\n"
+" 1. (арабською: البطين) Аль-Бутайн (маленький живіт [малого барана]) "
+"складається з 3 зірок: ε Овна, δ Овна (Ботейн) та ρ<sup>3</sup> Овна\n"
+" 1. (арабською: الثريا) *аль-Турайя* (Плеяди) складається з зірок скупчення "
+"Плеяди\n"
+" 1. (арабською: الدبران) *Аль-Дабаран* (Переслідувач [плеяд]) складається із "
+"однієї зірки α Тільця (Альдебаран)\n"
+" 1. (арабською: الهقعة) *Аль-Гекаа* (мітка на боці коня) складається з трьох "
+"зірок на голові Оріона: λ Оріона (Мейсса), φ<sup>1</sup> Оріона та φ<sup>2</"
+"sup> Оріона\n"
+" 1. (Arabic: الهنعة) *Аль-Ханаа* (вигин на шиї верблюда) складається з двох "
+"зірок: γ Близнюків (Альхена) та ξ Близнюків\n"
+" 1. (арабською: الذراع) *аль-Дхіра* (Витягнута лапа [Лева]) складається з 2 "
+"зірок: α CMi (Проціон) і β CMi (Гомейза)\n"
+" 1. (арабською: النثرة) *Аль-Натра* (кінчик носу лева) складається із "
+"скупчення Ясла та двох зірок: γ Рака (Азеллюс Бореаліс) та δ Рака (Азеллюс "
+"Аустраліс)\n"
+" 1. (арабською: الطرف) *аль-Тарф* (Очі Лева) складається з 2 зірок: ε Leo і "
+"ο Leo (Зубра)\n"
+" 1. (арабською: الجبهة) *Аль-Джабха* (чоло лева) складається з 4 зірок: ζ "
+"Лева (Адхафера), γ<sup>1</sup> Лева (Альджиба), η Лева та α Лева (Регул)\n"
+" 1. (арабською: الزبرة) *Аль-Зубра* (грива лева) складається з двох зірок: δ "
+"Лева (Зосма) та θ Лева (Шертан)\n"
+" 1. (арабською: الصرفة) *Аль-Зарфа* (зміна погоди на холодну) складається з "
+"однієї зірки: β Лева (Денебола)\n"
+" 1. (арабською: العوا) *Аль-Увва* (поворот) складається з п’яти зірок: β "
+"Діви (Завіджава), η Діви (Занія), γ Діви (Порріма), δ Діви та ε Діви "
+"(Віндеміатрікс)\n"
+" 1. (арабською: السماك) *Аль-Сімак* (неозброєний вишній) складається із "
+"зірки α Діви (Спіка)\n"
+" 1. (арабською: الغفر) *Аль-Гафр* (волосся на хвості лева) складається із "
+"трьох зірок: ι Діви (Сирма), κ Діви та λ Діви\n"
+" 1. (арабською: الزبانى) *Аль-Зубана* (клешні скорпіона) складається із двох "
+"зірок: α<sup>2</sup> Терезів (Зубен Ельгенубі) та β Терезів (Зубен "
+"Ельшемалі)\n"
+" 1. (арабською: الإكليل) *Аль-Ікліл* (головна стрічка з орнаментом, Діадема) "
+"складається з трьох зірок: β<sup>1</sup> Скорпіона (Акраб), δ Скорпіона "
+"(Дшубба) та π Скорпіона.\n"
+" 1. (Arabic: القلب) *Аль-Кальб* (серце скорпіона) складається із зірки α "
+"Скорпіона (Антарес)\n"
+" 1. (арабською: الشولة) *Аль-Шола* (жало скорпіона) складається з двох "
+"зірок: λ Скорпіона (Шаула) та υ Sco (Лесат)\n"
+" 1. (арабською: النعائم) *аль-Наїм* (Страуси) 8 зірок: γ2 Sgr, δ Sgr, ε Sgr, "
+"η Sgr, σ Sgr, φ Sgr, τ Sgr і ζ Sgr\n"
+" 1. (Arabic: البلدة) *Аль-Балда* (порожня область) — порожня ділянка неба "
+"без зірок між *Аль-Найєм* та *Саад Аль-Табіх*)\n"
+" 1. (арабською: سعد الذابح) *Саад Аль-Табіх* (Щаслива зірка Вбивці) "
+"складається з 3 зірок: α<sup>1</sup> Cap (Альгеді), β Cap (Дабіх) та ν Cap\n"
+" 1. (арабською: سعد بلع) *Саад Булаа* (щаслива зірка ковтальника) "
+"складається з трьох зірок: ν Водолія, μ Водолія та ε Водолія (Альбалі)\n"
+" 1. (арабською: سعد السعود) *Саад аль-Сууд* (Найщасливіші зі щасливих зірок) "
+"складається з 3 зірок: β Водолія (Садалсууд), ξ Водолія та λ Козорога\n"
+" 1. (арабською: سعد الأخبية) *Саад Аль-Ахбіа* (щасливі зірки жителів "
+"наметів) складається з чотирьох зірок: γ Водолія (Садахбія), π Водолія, "
+"ζ<sup>2</sup> Водолія та η Водолія\n"
+" 1. (арабською: المقدم) *Аль-Мукаддам* (Передня частина ковша) складається з "
+"2 зірок: α Андромеди (Альферац) та γ Пегаса (Альгеніб)\n"
+" 1. (арабською: المؤخر) *Аль-Муахар* (Задня частина ковша) складається з 2 "
+"зірок: β Пегаса (Шеат) та α Пегаса (Маркаб)\n"
+" 1. (арабською: الرشاء أو الحوت) *Аль-Ріша* або *Аль-Хут* («Мотузка "
+"колодязного міха» або «Риба») складається із зірки β Андромеди (Міраха) та "
+"двох дуг зірок, які утворюють фігуру риби.\n"
+"\n"
+"##### Фігури Суперлева та Аль-Даузи із давньої арабської зоряної карти\n"
+"\n"
+" Як можна зауважити, назви місячних станцій з сьомої до п'ятнадцятої є "
+"частинами фігури лева. Ця арабська фігура лева займає понад 100 градусів "
+"небесного кола, трохи більше половини небозводу. За назвами цих зірок можна "
+"побудувати фігуру лева.\n"
+"\n"
+" Дві місячних станції, *аль-Хака* і *аль-Хана*, є частиною зірок аль-Джози. "
+"Аль-Джоза — фігура, що вкриває сузір'я Оріона і деякі зірки навколо нього. "
+"Давні араби уявляли ці зірки фігурою жінки з луком і стрілами, що цілиться у "
+"Лева (образ, ймовірно, запозичений у римському Єгипті: див. зображення "
+"зодіака Дендера, де показано фігури вавилонських та грецьких сузір'їв). "
+"Роланд Лаффітт обговорює ці дві фігури і пропонує зображення кожної з них у "
+"своїй статті [Our Arab Heritage in the Celestial Vault](http://www."
+"muslimheritage.com/article/our-arab-heritage-celestial-vault). Докладніше "
+"обговорення набору давньоарабських зірок можна знайти у його книзі &quot;Le "
+"Ciel des Arabes&quot; [#12]."
+
+# Sky culture constellations section in markdown format
+msgid ""
+"In addition to the lunar stations, the prominent indigenous Arab asterisms "
+"have been added."
+msgstr ""
+"Окрім місячних станцій, Додано назви визначних тубільних арабських "
+"астеризмів."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: <notr>Kunitzsch P. The Arabs and the Stars, Variorum reprints "
+"Northampton 1989, Al-Manazil, Item XX pp 1-7.</notr>\n"
+" - [#2]: <notr>Helaine Selin, Encyclopaedia of the History of Science, "
+"Technology, and Medicine in Non-Western Cultures, Lunar Mansions in Islamic "
+"History, Kunitzsch P. p 520</notr>\n"
+" - [#3]: <notr>Ibn Qutaybah (b. 828 d. 884 or 889), Kitab al-Anwā’, pp 6,7 "
+"(Arabic print of the original book in 1956 in India Hydarabad/Deccan)</"
+"notr>\n"
+" - [#4]: <notr>Helaine Selin, Encyclopaedia of the History of Science, "
+"Technology, and Medicine in Non-Western Cultures, Ibn Qutayba, Kunitzsch P. "
+"p 429</notr>\n"
+" - [#5]: <notr>Ta̕rīf manāzil alkamar, Les mansions lunaires des Arabes; "
+"Muhammad al-Mukrī.; A de Calassanti-Motylinski published in Alger, "
+"Imprimerie orientale, 1899.</notr>\n"
+" - [#6]: <notr>[<notr>Muhammad al-Muqrī poem</notr>](http://www.uranos.fr/"
+"DOCU_03_T03.htm)</notr>\n"
+" - [#7]: <notr>Salih al-Shethri, Timetable for farmers *<notr>Jadwal fi ilm "
+"al-harth ala hisaab al-shuthoor</notr>* (جدول في علم الحرث على حساب الشثور) "
+"ISBN 9960-49-971-5</notr>\n"
+" - [#8]: <notr>[<notr>Official Calendar of the Kingdom of Saudi Arabia</"
+"notr>](http://www.ummulqura.org.sa/)</notr>\n"
+" - [#9]: <notr>Moon stations and Agriculture seasons. A bulletin by the "
+"Agriculture Administration of the Chamber of Commerce in Riyadh, Saudi "
+"Arabia. 2002</notr>\n"
+" - [#10]: <notr>Book of the Stars by al-Sufi (died 986): Critical edition "
+"with commentary by Khalid AlAjaji, digital edition, 2021 AD, كتاب الكواكب "
+"لأبي الحسين عبد الرحمن بن عمر الرازي المعروف بالصوفي (291-376)، تحقيق خالد "
+"بن عبد الله .</notr>\n"
+" - [#11]: <notr>Schjellerup, Description des etoiles fixes, 1874, p. 163. "
+"(Translation into French)</notr>\n"
+" - [#12]: <notr>Laffitte, Roland, Le Ciel des Arabes, Geuthner, Paris 2012</"
+"notr>\n"
+" - [#13]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b. Muslim (died "
+"~ 889), Kitab al-Anwāʾ (Book of meteorolgy), (Arabic print of the original "
+"book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956), أبو محمد عبد "
+"الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، "
+"دائرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ\n"
+" - [#14]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), "
+"Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original "
+"book in 2002, World of Books, Beirut, Lebanon)., الإمام أبو علي أحمد بن محمد "
+"بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف "
+"الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.\n"
+" - [#15]: Al-Ṯaqafī, ʿAbd Allah b. Ḥussayn b. ʿĀṣim (died ~ 1012), Al-Anwāʾ "
+"wa al-azminah (Meteorology and times), (Arabic print of the original book in "
+"1996, Dar al-jeel, Beirut, Lebanon), عبد الله بن حسين بن عاصم الثقفي (توفي "
+"403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف "
+"الدليمي، دار الجيل، بيروت، لبنان، 1416 هـ.\n"
+" - [#16]:  [Book of the stars by al-Ṣūfī (died 986): Critical edition with "
+"commentary by Khalid al-Ajaji, digital edition, 2021, كتاب الكواكب لأبي "
+"الحسين عبد الرحمن بن عمر الرازي المعروف بالصوفي (291-376)، تحقيق خالد بن عبد "
+"الله العجاجي](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)"
+msgstr ""
+" - [#1]: Kunitzsch P. The Arabs and the Stars, Variorum reprints Northampton "
+"1989, Al-Manazil, Item XX pp 1-7.\n"
+" - [#2]: Helaine Selin, Encyclopaedia of the History of Science, Technology, "
+"and Medicine in Non-Western Cultures, Lunar Mansions in Islamic History, "
+"Kunitzsch P. p 520\n"
+" - [#3]: Ibn Qutaybah (b. 828 d. 884 or 889), Kitab al-Anwā’, pp 6,7 (Arabic "
+"print of the original book in 1956 in India Hydarabad/Deccan)\n"
+" - [#4]: Helaine Selin, Encyclopaedia of the History of Science, Technology, "
+"and Medicine in Non-Western Cultures, Ibn Qutayba, Kunitzsch P. p 429\n"
+" - [#5]: Ta̕rīf manāzil alkamar, Les mansions lunaires des Arabes; Muhammad "
+"al-Mukrī.; A de Calassanti-Motylinski published in Alger, Imprimerie "
+"orientale, 1899.\n"
+" - [#6]:  [Muhammad al-Muqrī poem](http://www.uranos.fr/DOCU_03_T03.htm)\n"
+" - [#7]: Salih al-Shethri, Timetable for farmers *Jadwal fi ilm al-harth ala "
+"hisaab al-shuthoor* (جدول في علم الحرث على حساب الشثور) ISBN 9960-49-971-5\n"
+" - [#8]:  [Official Calendar of the Kingdom of Saudi Arabia](http://www."
+"ummulqura.org.sa/)\n"
+" - [#9]: Moon stations and Agriculture seasons. A bulletin by the "
+"Agriculture Administration of the Chamber of Commerce in Riyadh, Saudi "
+"Arabia. 2002\n"
+" - [#10]: Book of the Stars by al-Sufi (died 986): Critical edition with "
+"commentary by Khalid AlAjaji, digital edition, 2021 AD, كتاب الكواكب لأبي "
+"الحسين عبد الرحمن بن عمر الرازي المعروف بالصوفي (291-376)، تحقيق خالد بن عبد "
+"الله .\n"
+" - [#11]: Schjellerup, Description des etoiles fixes, 1874, p. 163. "
+"(Translation into French)\n"
+" - [#12]: Laffitte, Roland, Le Ciel des Arabes, Geuthner, Paris 2012\n"
+" - [#13]: Ibn Qutaybah, Al-Dinawarī, Abū Muḥammad ʿAbd Allah b. Muslim (died "
+"~ 889), Kitab al-Anwāʾ (Book of meteorolgy), (Arabic print of the original "
+"book, Daʾirat al-Maʿarif al-Osmania, Hydarabad, India, 1956), أبو محمد عبد "
+"الله بن مسلم ابن قتيبة الدينوري (توفي 276 هـ)، كتاب الأنواء في مواسم العرب، "
+"دائرة المعارف العثمانية، حيدر أباد، الهند، 1375 هـ\n"
+" - [#14]: Al-Marzūqī, Abū ʿAli Aḥmad b. Muḥammad b. al-Ḥassan (died 1030), "
+"Al-Azminah wa al-amkinah (Times and Places), (Arabic print of the original "
+"book in 2002, World of Books, Beirut, Lebanon)., الإمام أبو علي أحمد بن محمد "
+"بن الحسن المرزوقي (توفي سنة 421 هـ)، الأزمنة والأمكنة، تحقيق د. محمد نايف "
+"الدليمي، عالم الكتب، بيروت، لبنان، 1422 هـ.\n"
+" - [#15]: Al-Ṯaqafī, ʿAbd Allah b. Ḥussayn b. ʿĀṣim (died ~ 1012), Al-Anwāʾ "
+"wa al-azminah (Meteorology and times), (Arabic print of the original book in "
+"1996, Dar al-jeel, Beirut, Lebanon), عبد الله بن حسين بن عاصم الثقفي (توفي "
+"403 هـ)، الأنواء والأزمنة، تحقيق: د. نوري حمودي القيسي، د. محمد نايف "
+"الدليمي، دار الجيل، بيروت، لبنان، 1416 هـ.\n"
+" - [#16]:  [Book of the stars by al-Ṣūfī (died 986): Critical edition with "
+"commentary by Khalid al-Ajaji, digital edition, 2021, كتاب الكواكب لأبي "
+"الحسين عبد الرحمن بن عمر الرازي المعروف بالصوفي (291-376)، تحقيق خالد بن عبد "
+"الله العجاجي](https://drive.google.com/drive/"
+"folders/1s6JXzftwjMQ5rgZoGE3718EtBLBZtjzr?usp=sharing)"
+
+# Sky culture authors section in markdown format
+msgid ""
+" Khalid al-Ajaji with additional documentation of this file by Susanne M "
+"Hoffmann."
+msgstr ""
+" Халід аль-Аджаджі із додатковою документацією цього файла від Сузанни М. "
+"Гофманн."
+
+msgid "The Eyes"
+msgstr "Очі"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Аль-Турая"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr "Аль-Суха"
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr "Аль-Наджид"
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr "Аль-Вазн"
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr "Хадарі"
+
+msgid "The Little Abdomen"
+msgstr "Маленьке черевце"
+
+msgid "The Arm"
+msgstr "Рука"
+
+msgid "The Nostrils"
+msgstr "Ніздрі"
+
+msgid "The Forehead"
+msgstr "Чоло"
+
+msgid "The Mane"
+msgstr "Грива"
+
+msgid "The Bend"
+msgstr "Вигин"
+
+msgid "The Cover"
+msgstr "Накриття"
+
+msgid "Claws Of The Scorpion"
+msgstr "Клешні Скорпіона"
+
+msgid "The Diadem"
+msgstr "Діадема"
+
+msgid "Raised Tail Of The Scorpion"
+msgstr "Піднятий Хвіст Скорпіона"
+
+msgid "The Scorpion"
+msgstr "Скорпіон"
+
+msgid "The Empty Place"
+msgstr "Порожнє місце"
+
+msgid "The Ostriches"
+msgstr "Страуси"
+
+msgid "The Lucky Star Of The Slaughterer"
+msgstr "Щаслива зірка Вбивці"
+
+msgid "The Lucky Star Of The Swallower"
+msgstr "Щаслива зірка ковтальника"
+
+msgid "The Luckiest Of The Lucky Stars"
+msgstr "Найщасливіша зі щасливих зірок"
+
+msgid "The Lucky Star Of The Tents"
+msgstr "Щаслива зірка наметів"
+
+msgid "The Circular Mark"
+msgstr "Кругова позначка"
+
+msgid "The Downward Bend"
+msgstr "Вигин вниз"
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr "Al-Jawza"
+
+msgid "The Kid"
+msgstr "Дитя"
+
+msgid "The Claws 1"
+msgstr "Клешні 1"
+
+msgid "The Claws 2"
+msgstr "Клешні 2"
+
+msgid "The Claws 3"
+msgstr "Клешні 3"
+
+msgid "The Claws 4"
+msgstr "Клешні 4"
+
+msgid "The Claws 5"
+msgstr "Клешні 5"
+
+msgid "The Claws 6"
+msgstr "Клешні 6"
+
+msgid "Star Of Weather Change"
+msgstr "Зірка зміни погоди"
+
+msgid "The Heart"
+msgstr "Серце"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Leg Of Al-Jawza"
+msgstr "Нога аль-Джози"
+
+#. TRANSLATORS: Suhayl is a proper name
+#. TRANSLATORS: ٍSuhayl is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl"
+msgstr "Сухайль"
+
+msgid "The Two Oryx Calves"
+msgstr "Двоє телят орикса"
+
+msgid "The Axe Of The Grindstone"
+msgstr "Колун жорен"
+
+#. TRANSLATORS: Na'sh is a proper name meaning bier
+#. TRANSLATORS: Na'sh is a proper name
+msgid "Daughters Of Na'sh"
+msgstr "Дочки Наша"
+
+msgid "The First Leap"
+msgstr "Перший Стрибок"
+
+msgid "The Second Leap"
+msgstr "Другий Стрибок"
+
+msgid "The Third Leap"
+msgstr "Третій Стрибок"
+
+msgid "The Two Wolves"
+msgstr "Двоє Вовків"
+
+msgid "The Mother Camels"
+msgstr "Верблюдиці"
+
+msgid "The Bowl Of The Poor"
+msgstr "Таз Бідного"
+
+msgid "The Landing Eagle"
+msgstr "Орел, Що Сідає"
+
+msgid "The Flying Eagle"
+msgstr "Орел, Що Летить"
+
+msgid "The She-Camel"
+msgstr "Верблюдиця"
+
+msgid "The Shoulder Blade"
+msgstr "Лопатка"
+
+msgid "The Shoulder"
+msgstr "Плече"
+
+msgid "The Elbow"
+msgstr "Лікоть"
+
+msgid "The Forearm"
+msgstr "Передпліччя"
+
+msgid "The Wrist"
+msgstr "Зап'ясток"
+
+msgid "The Caracal"
+msgstr "Каракал"
+
+msgid "The Front Bucket Mouth"
+msgstr "Передній Бік Ковша"
+
+msgid "The Rear Bucket Mouth"
+msgstr "Задній Бік Ковша"
+
+msgid "The Fish"
+msgstr "Риба"
+
+msgid "The Two Signs"
+msgstr "Знаки двох"
+
+#. TRANSLATORS: This is a proper name
+msgid "Al-Dabaran"
+msgstr "Аль-Дабаран"
+
+msgid "The Retracted Arm"
+msgstr "Відтягнута Рука"
+
+msgid "The Extended Arm"
+msgstr "Протягнута Рука"
+
+msgid "The Ostriches Drinking At The River"
+msgstr "Страуси, Які П'ють З Річки"
+
+msgid "The Ostriches Leaving The River"
+msgstr "Страуси Полишають Ріку"
+
+msgid "The Ostrich Nest - The Necklace"
+msgstr "Гніздо Страусів — Намисто"
+
+#. TRANSLATORS: Nashira is a proper name
+msgid "The Lucky Star Of Nashira"
+msgstr "Щаслива Зірка Нашира"
+
+msgid "The Lucky Star Of The King"
+msgstr "Щаслива Зірка Короля"
+
+msgid "The Lucky Star Of The Young Sheep"
+msgstr "Щаслива Зірка Ягняти"
+
+msgid "The Lucky Star Of The One With Great Endeavour"
+msgstr "Щаслива Зірка Того, Хто Докладає Великі Зусилля"
+
+msgid "The Lucky Star Of The Excellent One"
+msgstr "Щаслива Зірка Величного"
+
+#. TRANSLATORS: Matar is a proper name meaning rain
+#. TRANSLATORS: Matar is a proper name meaning rain.
+msgid "The Lucky Star Of Matar"
+msgstr "Щаслива Зірка Маттара"
+
+msgid "The String"
+msgstr "Тятива"
+
+msgid "The Two Shrikes"
+msgstr "Двоє Сорокопудів"
+
+msgid "The Two Doves"
+msgstr "Два Голуби"
+
+msgid "The Two Male Ostriches"
+msgstr "Двоє Страусів-Самців"
+
+msgid "The Wrist 1"
+msgstr "Зап'ясток 1"
+
+msgid "The Wrist 2"
+msgstr "Зап'ясток 2"
+
+msgid "The Lion's Nostrils"
+msgstr "Ніздрі Лева"
+
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like lightning. See Ref. # 2.
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like light shining. See Ref. # 2.
+msgid "The Shining One"
+msgstr "Сяюча"
+
+#. TRANSLATORS: Az- Zuharah is the native proper name for Venus, derived from
+#. brightness and beauty. See Ref. # 2.
+msgid "The Beautiful Bright One"
+msgstr "Красива Яскрава"
+
+#. TRANSLATORS: Al-Merrikh is the native proper name for Mars, derived from
+#. Marakh (ARABIC: مرخ), a plant which is used to start fire. See Ref. # 2.
+msgid "The Fire Starter"
+msgstr "Запалювач"
+
+#. TRANSLATORS: Utarid is the native proper name for Mercury, derived from
+#. unstableness (mercurial).  See Ref. # 2.
+msgid "The Unstable"
+msgstr "Нестабільний"
+
+#. TRANSLATORS: Ush-shams is the native proper name for the Sun.
+msgid "Ush-Shams"
+msgstr "Уш-Шамс"
+
+#. TRANSLATORS: Al-Qamar is the native proper name for the Moon, derived from
+#. strong whiteness.  See Ref. # 2. and Taj al-Arous lexicon.
+msgid "The Strongly White"
+msgstr "Яскраво-біла"
+
+msgid "The Two Calves 1"
+msgstr "Двоє Телят 1"
+
+msgid "The Two Calves 2"
+msgstr "Двоє Телят 2"
+
+msgid "The Dark Camel"
+msgstr "Темний Верблюд"
+
+msgid "The Little Goat"
+msgstr "Малий Козел"
+
+msgid "The Leader"
+msgstr "Лідер"
+
+msgid "Liver Of The Lion"
+msgstr "Печінка Лева"
+
+msgid "The Baby Camel"
+msgstr "Верблюжа"
+
+msgid "The Two Wolves 1"
+msgstr "Двоє Вовків 1"
+
+msgid "The Two Wolves 2"
+msgstr "Двоє Вовків 2"
+
+msgid "The Male Hyena"
+msgstr "Самець гієни"
+
+msgid "The [Northern] Shepherd"
+msgstr "[Північний] Пастух"
+
+msgid "The [Northern] Shepherd Dog"
+msgstr "Собака [Північного] Пастуха"
+
+msgid "The White One"
+msgstr "Біла"
+
+msgid "The Horse Forehead Star"
+msgstr "Зірка У Лобі Коня"
+
+msgid "The High One With The Spear"
+msgstr "Вишній Із Списом"
+
+msgid "The Spear 1"
+msgstr "Спис 1"
+
+msgid "The Spear 2"
+msgstr "Спис 2"
+
+#. TRANSLATORS: Al-Fakkah is an incomlete circle
+msgid "The Bright Star Of Al-Fakkah"
+msgstr "Яскрава Зірка аль-Факка"
+
+msgid "The Rear Knight"
+msgstr "Задній Рицар"
+
+msgid "The Knights 1"
+msgstr "Рицарі 1"
+
+msgid "The Knights 2"
+msgstr "Рицарі 2"
+
+msgid "The Knights 3"
+msgstr "Рицарі 3"
+
+msgid "The Knights 4"
+msgstr "Рицарі 4"
+
+msgid "The Knights 5"
+msgstr "Рицарі 5"
+
+msgid "Bend Of The Hand"
+msgstr "Вигин Руки"
+
+msgid "Tip Of The Elbow"
+msgstr "Кінчик Ліктя"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: This is a proper name
+msgid "Al-Ayyuq"
+msgstr "Аль-Айюк"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: Al-Ayyuq is a proper name
+msgid "Foot Of Al-Ayyuq"
+msgstr "Ступня аль-Айюка"
+
+msgid "The Posts 1"
+msgstr "Пости 1"
+
+msgid "The Posts 2"
+msgstr "Пости 2"
+
+msgid "The Posts 3"
+msgstr "Пости 3"
+
+msgid "The [Southern] Shepherd"
+msgstr "[Південний] Пастух"
+
+msgid "First Dog Of The [Southern] Shepherd"
+msgstr "Перша Собака [Південного] Пастуха"
+
+msgid "Second Dog Of The [Southern] Shepherd"
+msgstr "Другий Собака [Південного] Пастуха"
+
+msgid "The Rear Bucket Mouth 2"
+msgstr "Задній бік ковша 2"
+
+msgid "The Rear Bucket Mouth 1"
+msgstr "Задній бік ковша 1"
+
+msgid "The Front Bucket Mouth 2"
+msgstr "Передній бік ковша 2"
+
+msgid "The Front Bucket Mouth 1"
+msgstr "Передній бік ковша 1"
+
+msgid "Abdomen Of The Fish"
+msgstr "Черево Риби"
+
+msgid "The Two Forelegs 1"
+msgstr "Дві Передні Ноги 1"
+
+msgid "The Two Forelegs 2"
+msgstr "Дві Передні Ноги 2"
+
+msgid "Stars Of Abundant Rain 1"
+msgstr "Зірки Рясної Зливи 1"
+
+msgid "Stars Of Abundant Rain 2"
+msgstr "Зірки Рясної Зливи 2"
+
+msgid "Stars Of Abundant Rain 3"
+msgstr "Зірки Рясної Зливи 3"
+
+#. TRANSLATORS: Az-zir is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Az-Zir"
+msgstr "Аз-Зір"
+
+#. TRANSLATORS: Al-Maysan is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Maysan"
+msgstr "Аль-Майсан"
+
+msgid "The Unarmed High One"
+msgstr "Неозброєний Вишній"
+
+msgid "Veins Of The Heart 1"
+msgstr "Вени Серця 1"
+
+msgid "Veins Of The Heart 2"
+msgstr "Вени Серця 2"
+
+msgid "Tail Segments Of The Scorpion 1"
+msgstr "Сегменти Хвоста Скорпіона 1"
+
+msgid "Tail Segments Of The Scorpion 2"
+msgstr "Сегменти Хвоста Скорпіона 2"
+
+msgid "Tail Segments Of The Scorpion 3"
+msgstr "Сегменти Хвоста Скорпіона 3"
+
+msgid "Tail Segments Of The Scorpion 4"
+msgstr "Сегменти Хвоста Скорпіона 4"
+
+msgid "Tail Segments Of The Scorpion 5"
+msgstr "Сегменти Хвоста Скорпіона 5"
+
+msgid "Tail Segments Of The Scorpion 6"
+msgstr "Сегменти Хвоста Скорпіона 6"
+
+msgid "Tail Segments Of The Scorpion 7"
+msgstr "Сегменти Хвоста Скорпіона 7"
+
+msgid "The Two Shrikes 1"
+msgstr "Двоє Сорокопудів 1"
+
+msgid "The Two Shrikes 2"
+msgstr "Двоє Сорокопудів 2"
+
+msgid "The Two Doves 1"
+msgstr "Два Голуби 1"
+
+msgid "The Two Doves 2"
+msgstr "Два Голуби 2"
+
+msgid "The Two Male Ostriches 1"
+msgstr "Двоє Страусів-Самців 1"
+
+msgid "The Two Male Ostriches 2"
+msgstr "Двоє Страусів-Самців 2"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Shoulder Of Al-Jawza"
+msgstr "Плече аль-Джози"
+
+#. TRANSLATORS: The southern Shi'ra is a proper Arabic name of Sirius
+#. TRANSLATORS: Al-Shi'ra is a proper name of Sirius
+msgid "The Southern Shi'ra"
+msgstr "Південна Ші’ра"
+
+#. TRANSLATORS: Mirzam is an associate star of the crossing Shi'ra which is a
+#. proper Arabic name of Sirius
+msgid "Mirzam Of The Crossing Shi'ra"
+msgstr "Мірцам Перехрестя Ші'раа"
+
+#. TRANSLATORS: The northern Shi'ra is a proper Arabic name of Procyon
+#. TRANSLATORS: Al-Shi'ra is a proper name
+msgid "The Northern Shi'ra"
+msgstr "Північна Ші’ра"
+
+#. TRANSLATORS: Mirzam is an associate star of the tearful Shi'ra, which is a
+#. proper Arabic name of Procyon. The two stars together are called the Arm.
+msgid "Mirzam of The Arm"
+msgstr "Мірцам Руки"
+
+#. TRANSLATORS: Suhayl Balqayn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Balqayn"
+msgstr "Сухайль Балкайн"
+
+#. TRANSLATORS: Suhayl Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Hadari"
+msgstr "Сухайль Хадарі"
+
+#. TRANSLATORS: Suhayl Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Al-Wazn"
+msgstr "Сухайль аль-Вазн"
+
+#. TRANSLATORS: Suhayl Raqashi is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Raqashi"
+msgstr "Сухайль Ракаші"
+
+msgid "Oath Star"
+msgstr "Зірка Клятви"
+
+msgid "The Camel Head"
+msgstr "Голова Верблюда"
+
+msgid "The Camel Neck"
+msgstr "Шия Верблюда"
+
+msgid "The Camel Front Legs"
+msgstr "Передні Ноги Верблюда"
+
+msgid "The Bucket Rope Knot - The Well Poles"
+msgstr "Вузол На Мотузці До Ковша — Жердина Колодязя"
+
+#. TRANSLATORS: Zuhal is the native proper name for Saturn, derived from
+#. remoteness.  See Ref. # 2.
+msgid "The Remote One"
+msgstr "Далека"
+
+msgid "The Camel Hump"
+msgstr "Горб Верблюда"
+
+msgid "The sole one"
+msgstr "Одинока"

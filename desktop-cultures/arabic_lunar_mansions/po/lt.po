@@ -1,0 +1,575 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Gediminas Tauras, 2024\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Arabic (Lunar Mansions)"
+msgstr "Arabų (mėnulio stotelės)"
+
+msgid "The Eyes"
+msgstr "Akys"
+
+#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
+#. TRANSLATORS: Al-Thurayya is a proper name
+#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+msgid "Al-Thurayya"
+msgstr "Al-Turaja"
+
+#. TRANSLATORS: Proper name
+#. TRANSLATORS: Al-Suha is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Suha"
+msgstr ""
+
+#. TRANSLATORS: Al-Najidh is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Najidh"
+msgstr ""
+
+#. TRANSLATORS: Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Wazn"
+msgstr ""
+
+#. TRANSLATORS: Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Hadari"
+msgstr ""
+
+msgid "The Little Abdomen"
+msgstr "Mažas pilvas"
+
+msgid "The Arm"
+msgstr "Ranka"
+
+msgid "The Nostrils"
+msgstr "Šnervės"
+
+msgid "The Forehead"
+msgstr "Kakta"
+
+msgid "The Mane"
+msgstr "Karčiai"
+
+msgid "The Bend"
+msgstr ""
+
+msgid "The Cover"
+msgstr "Viršelis"
+
+msgid "Claws Of The Scorpion"
+msgstr "Skorpiono žnyplės"
+
+msgid "The Diadem"
+msgstr "Diadema"
+
+msgid "Raised Tail Of The Scorpion"
+msgstr "Pakelta Skorpiono Uodega"
+
+msgid "The Scorpion"
+msgstr "Skorpionas"
+
+msgid "The Empty Place"
+msgstr "Tuščia vieta"
+
+msgid "The Ostriches"
+msgstr "Stručiai"
+
+msgid "The Lucky Star Of The Slaughterer"
+msgstr "Skerdiko laimingoji žvaigždė"
+
+msgid "The Lucky Star Of The Swallower"
+msgstr "Rijiko laimingoji žvaigždė"
+
+msgid "The Luckiest Of The Lucky Stars"
+msgstr "Laimingiausia iš laimingiausių žvaigždžių"
+
+msgid "The Lucky Star Of The Tents"
+msgstr "Laimingoji palapinės žvaigždė"
+
+msgid "The Circular Mark"
+msgstr "Apskritas ženklas"
+
+msgid "The Downward Bend"
+msgstr ""
+
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Al-Jawza"
+msgstr ""
+
+msgid "The Kid"
+msgstr "Vaikas"
+
+msgid "The Claws 1"
+msgstr "Nagai 1"
+
+msgid "The Claws 2"
+msgstr "Nagai 2"
+
+msgid "The Claws 3"
+msgstr "Nagai 3"
+
+msgid "The Claws 4"
+msgstr "Nagai 4"
+
+msgid "The Claws 5"
+msgstr "Nagai 5"
+
+msgid "The Claws 6"
+msgstr "Nagai 6"
+
+msgid "Star Of Weather Change"
+msgstr "Oro kaitos žvaigždė"
+
+msgid "The Heart"
+msgstr "Širdis"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Leg Of Al-Jawza"
+msgstr "Al-Jawza koja"
+
+#. TRANSLATORS: Suhayl is a proper name
+#. TRANSLATORS: ٍSuhayl is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl"
+msgstr ""
+
+msgid "The Two Oryx Calves"
+msgstr "Du Orikso jaunikliai"
+
+msgid "The Axe Of The Grindstone"
+msgstr ""
+
+#. TRANSLATORS: Na'sh is a proper name meaning bier
+#. TRANSLATORS: Na'sh is a proper name
+msgid "Daughters Of Na'sh"
+msgstr "Naš dukterys"
+
+msgid "The First Leap"
+msgstr "Pirmasis šuolis"
+
+msgid "The Second Leap"
+msgstr "Antrasis šuolis"
+
+msgid "The Third Leap"
+msgstr "Trečiasis šuolis"
+
+msgid "The Two Wolves"
+msgstr "Du vilkai"
+
+msgid "The Mother Camels"
+msgstr "Motinos kupranugarės"
+
+msgid "The Bowl Of The Poor"
+msgstr ""
+
+msgid "The Landing Eagle"
+msgstr "Besileidžiantis erelis"
+
+msgid "The Flying Eagle"
+msgstr "Skraidantis erelis"
+
+msgid "The She-Camel"
+msgstr "Kupranugarė"
+
+msgid "The Shoulder Blade"
+msgstr ""
+
+msgid "The Shoulder"
+msgstr "Petys"
+
+msgid "The Elbow"
+msgstr "Alkūnė"
+
+msgid "The Forearm"
+msgstr "Dilbis"
+
+msgid "The Wrist"
+msgstr "Riešas"
+
+msgid "The Caracal"
+msgstr "Karakalas"
+
+msgid "The Front Bucket Mouth"
+msgstr ""
+
+msgid "The Rear Bucket Mouth"
+msgstr ""
+
+msgid "The Fish"
+msgstr "Žuvis"
+
+msgid "The Two Signs"
+msgstr "Du ženklai"
+
+#. TRANSLATORS: This is a proper name
+msgid "Al-Dabaran"
+msgstr ""
+
+msgid "The Retracted Arm"
+msgstr ""
+
+msgid "The Extended Arm"
+msgstr "Ištiesta ranka"
+
+msgid "The Ostriches Drinking At The River"
+msgstr "Stručiai prie upės geria vandenį"
+
+msgid "The Ostriches Leaving The River"
+msgstr "Stručiai palieka upę"
+
+msgid "The Ostrich Nest - The Necklace"
+msgstr "Stručio lizdas - Vėrinys"
+
+#. TRANSLATORS: Nashira is a proper name
+msgid "The Lucky Star Of Nashira"
+msgstr "Laimingoji Naširos žvaigždė"
+
+msgid "The Lucky Star Of The King"
+msgstr "Karaliaus laimingoji žvaigždė"
+
+msgid "The Lucky Star Of The Young Sheep"
+msgstr "Jauno avinėlio laimingoji žvaigždė"
+
+msgid "The Lucky Star Of The One With Great Endeavour"
+msgstr "Laimingoji žvaigždė to, kuris labai stengiasi"
+
+msgid "The Lucky Star Of The Excellent One"
+msgstr "Puikiojo Laimingoji žvaigždė"
+
+#. TRANSLATORS: Matar is a proper name meaning rain
+#. TRANSLATORS: Matar is a proper name meaning rain.
+msgid "The Lucky Star Of Matar"
+msgstr "Laimingoji Mataro žvaigždė"
+
+msgid "The String"
+msgstr ""
+
+msgid "The Two Shrikes"
+msgstr "Du skėriai"
+
+msgid "The Two Doves"
+msgstr "Du balandžiai"
+
+msgid "The Two Male Ostriches"
+msgstr "Du patinai stručiai"
+
+msgid "The Wrist 1"
+msgstr "Riešas 1"
+
+msgid "The Wrist 2"
+msgstr "Riešas 2"
+
+msgid "The Lion's Nostrils"
+msgstr "Liūto šnervės"
+
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like lightning. See Ref. # 2.
+#. TRANSLATORS: Al-Mushtari is the native proper name for Jupiter, derived
+#. from shining like light shining. See Ref. # 2.
+msgid "The Shining One"
+msgstr "Švytintis"
+
+#. TRANSLATORS: Az- Zuharah is the native proper name for Venus, derived from
+#. brightness and beauty. See Ref. # 2.
+msgid "The Beautiful Bright One"
+msgstr ""
+
+#. TRANSLATORS: Al-Merrikh is the native proper name for Mars, derived from
+#. Marakh (ARABIC: مرخ), a plant which is used to start fire. See Ref. # 2.
+msgid "The Fire Starter"
+msgstr "Degtuvas"
+
+#. TRANSLATORS: Utarid is the native proper name for Mercury, derived from
+#. unstableness (mercurial).  See Ref. # 2.
+msgid "The Unstable"
+msgstr "Nestabilus"
+
+#. TRANSLATORS: Ush-shams is the native proper name for the Sun.
+msgid "Ush-Shams"
+msgstr ""
+
+#. TRANSLATORS: Al-Qamar is the native proper name for the Moon, derived from
+#. strong whiteness.  See Ref. # 2. and Taj al-Arous lexicon.
+msgid "The Strongly White"
+msgstr ""
+
+msgid "The Two Calves 1"
+msgstr "Du veršeliai 1"
+
+msgid "The Two Calves 2"
+msgstr "Du veršeliai 2"
+
+msgid "The Dark Camel"
+msgstr "Tamsus kupranugaris"
+
+msgid "The Little Goat"
+msgstr "Mažytis ožiukas"
+
+msgid "The Leader"
+msgstr "Lyderis"
+
+msgid "Liver Of The Lion"
+msgstr "Liūto kepenys"
+
+msgid "The Baby Camel"
+msgstr "Jauniklis kupranugaris"
+
+msgid "The Two Wolves 1"
+msgstr "Du vilkai 1"
+
+msgid "The Two Wolves 2"
+msgstr "Du vilkai 2"
+
+msgid "The Male Hyena"
+msgstr "Hienos patinas"
+
+msgid "The [Northern] Shepherd"
+msgstr "[Šiaurinis] piemuo"
+
+msgid "The [Northern] Shepherd Dog"
+msgstr "[Šiaurinio] piemens šuo"
+
+msgid "The White One"
+msgstr "Baltasis"
+
+msgid "The Horse Forehead Star"
+msgstr "Arklio kaktos žvaigždė"
+
+msgid "The High One With The Spear"
+msgstr "Aukštasis su ietimi"
+
+msgid "The Spear 1"
+msgstr "Ietis 1"
+
+msgid "The Spear 2"
+msgstr "Ietis 2"
+
+#. TRANSLATORS: Al-Fakkah is an incomlete circle
+msgid "The Bright Star Of Al-Fakkah"
+msgstr "Šviesi žvaigždė Al-Fakkah"
+
+msgid "The Rear Knight"
+msgstr "Galinis riteris"
+
+msgid "The Knights 1"
+msgstr "Riteriai 1"
+
+msgid "The Knights 2"
+msgstr "Riteriai 2"
+
+msgid "The Knights 3"
+msgstr "Riteriai 3"
+
+msgid "The Knights 4"
+msgstr "Riteriai 4"
+
+msgid "The Knights 5"
+msgstr "Riteriai 5"
+
+msgid "Bend Of The Hand"
+msgstr ""
+
+msgid "Tip Of The Elbow"
+msgstr "Alkūnės galiukas"
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: This is a proper name
+msgid "Al-Ayyuq"
+msgstr ""
+
+#. TRANSLATORS: Al-Ayyuq is a proper name meaning the obstructor
+#. TRANSLATORS: Al-Ayyuq is a proper name
+msgid "Foot Of Al-Ayyuq"
+msgstr ""
+
+msgid "The Posts 1"
+msgstr ""
+
+msgid "The Posts 2"
+msgstr ""
+
+msgid "The Posts 3"
+msgstr ""
+
+msgid "The [Southern] Shepherd"
+msgstr "[Pietinis] piemuo"
+
+msgid "First Dog Of The [Southern] Shepherd"
+msgstr "Pirmasis [Pietų] piemens šuo"
+
+msgid "Second Dog Of The [Southern] Shepherd"
+msgstr "Antrasis [Pietų] piemens šuo"
+
+msgid "The Rear Bucket Mouth 2"
+msgstr ""
+
+msgid "The Rear Bucket Mouth 1"
+msgstr ""
+
+msgid "The Front Bucket Mouth 2"
+msgstr ""
+
+msgid "The Front Bucket Mouth 1"
+msgstr ""
+
+msgid "Abdomen Of The Fish"
+msgstr "Žuvies pilvas"
+
+msgid "The Two Forelegs 1"
+msgstr "Dvi priekinės kojos 1"
+
+msgid "The Two Forelegs 2"
+msgstr "Dvi priekinės kojos 2"
+
+msgid "Stars Of Abundant Rain 1"
+msgstr ""
+
+msgid "Stars Of Abundant Rain 2"
+msgstr ""
+
+msgid "Stars Of Abundant Rain 3"
+msgstr ""
+
+#. TRANSLATORS: Az-zir is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Az-Zir"
+msgstr ""
+
+#. TRANSLATORS: Al-Maysan is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Al-Maysan"
+msgstr ""
+
+msgid "The Unarmed High One"
+msgstr ""
+
+msgid "Veins Of The Heart 1"
+msgstr "Širdies venos 1"
+
+msgid "Veins Of The Heart 2"
+msgstr "Širdies venos 2"
+
+msgid "Tail Segments Of The Scorpion 1"
+msgstr "Skorpiono uodegos segmentai 1"
+
+msgid "Tail Segments Of The Scorpion 2"
+msgstr "Skorpiono uodegos segmentai 2"
+
+msgid "Tail Segments Of The Scorpion 3"
+msgstr "Skorpiono uodegos segmentai 3"
+
+msgid "Tail Segments Of The Scorpion 4"
+msgstr "Skorpiono uodegos segmentai 4"
+
+msgid "Tail Segments Of The Scorpion 5"
+msgstr "Skorpiono uodegos segmentai 5"
+
+msgid "Tail Segments Of The Scorpion 6"
+msgstr "Skorpiono uodegos segmentai 6"
+
+msgid "Tail Segments Of The Scorpion 7"
+msgstr "Skorpiono uodegos segmentai 7"
+
+msgid "The Two Shrikes 1"
+msgstr "Dvi medšarkės 1"
+
+msgid "The Two Shrikes 2"
+msgstr "Dvi medšarkės 2"
+
+msgid "The Two Doves 1"
+msgstr "Du balandžiai 1"
+
+msgid "The Two Doves 2"
+msgstr "Du balandžiai 2"
+
+msgid "The Two Male Ostriches 1"
+msgstr "Du patinai stručiai 1"
+
+msgid "The Two Male Ostriches 2"
+msgstr "Du patinai stručiai 2"
+
+#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
+#. TRANSLATORS: Al-Jawza is a proper name
+msgid "Shoulder Of Al-Jawza"
+msgstr "Al-Jawza petys"
+
+#. TRANSLATORS: The southern Shi'ra is a proper Arabic name of Sirius
+#. TRANSLATORS: Al-Shi'ra is a proper name of Sirius
+msgid "The Southern Shi'ra"
+msgstr ""
+
+#. TRANSLATORS: Mirzam is an associate star of the crossing Shi'ra which is a
+#. proper Arabic name of Sirius
+msgid "Mirzam Of The Crossing Shi'ra"
+msgstr ""
+
+#. TRANSLATORS: The northern Shi'ra is a proper Arabic name of Procyon
+#. TRANSLATORS: Al-Shi'ra is a proper name
+msgid "The Northern Shi'ra"
+msgstr ""
+
+#. TRANSLATORS: Mirzam is an associate star of the tearful Shi'ra, which is a
+#. proper Arabic name of Procyon. The two stars together are called the Arm.
+msgid "Mirzam of The Arm"
+msgstr ""
+
+#. TRANSLATORS: Suhayl Balqayn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Balqayn"
+msgstr ""
+
+#. TRANSLATORS: Suhayl Hadari is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Hadari"
+msgstr ""
+
+#. TRANSLATORS: Suhayl Al-wazn is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Al-Wazn"
+msgstr ""
+
+#. TRANSLATORS: Suhayl Raqashi is a proper name
+#. TRANSLATORS: This is a proper name
+msgid "Suhayl Raqashi"
+msgstr ""
+
+msgid "Oath Star"
+msgstr ""
+
+msgid "The Camel Head"
+msgstr "Kupranugario galva"
+
+msgid "The Camel Neck"
+msgstr "Kupranugario kaklas"
+
+msgid "The Camel Front Legs"
+msgstr "Kuranugario priekinės kojos"
+
+msgid "The Bucket Rope Knot - The Well Poles"
+msgstr "Kibiro virvės mazgas - Šulinio stulpai"
+
+#. TRANSLATORS: Zuhal is the native proper name for Saturn, derived from
+#. remoteness.  See Ref. # 2.
+msgid "The Remote One"
+msgstr ""
+
+msgid "The Camel Hump"
+msgstr ""
+
+msgid "The sole one"
+msgstr ""
