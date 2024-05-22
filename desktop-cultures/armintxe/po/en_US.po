@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: English (United States) (https://app.transifex.com/stellarium/"
+"teams/80998/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Armintxe Cave"
+msgstr "Armintxe Cave"
+
+msgid "Big Bison"
+msgstr "Big Bison"
+
+msgid "The Lions"
+msgstr "The Lions"
+
+msgid "Second Ibex"
+msgstr "Second Ibex"
+
+msgid "Horse Head"
+msgstr "Horse Head"
+
+msgid "Second Horse"
+msgstr "Second Horse"
+
+msgid "Double Horse"
+msgstr "Double Horse"
+
+msgid "Third Ibex"
+msgstr "Third Ibex"
+
+msgid "The River"
+msgstr "The River"
+
+msgid "Dead Horse"
+msgstr "Dead Horse"
+
+msgid "Little Bison"
+msgstr "Little Bison"
+
+msgid "Wounded Ibex"
+msgstr "Wounded Ibex"

@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Josef S, 2023\n"
+"Language-Team: Japanese (https://app.transifex.com/stellarium/teams/80998/"
+"ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Armintxe Cave"
+msgstr ""
+
+msgid "Big Bison"
+msgstr "大きなバイソン"
+
+msgid "The Lions"
+msgstr "ライオン"
+
+msgid "Second Ibex"
+msgstr "二匹目のアイベックス(野生山羊)"
+
+msgid "Horse Head"
+msgstr "馬の頭"
+
+msgid "Second Horse"
+msgstr "二匹目の馬"
+
+msgid "Double Horse"
+msgstr "二匹の馬"
+
+msgid "Third Ibex"
+msgstr "三匹目のアイベックス(野生山羊)"
+
+msgid "The River"
+msgstr "川"
+
+msgid "Dead Horse"
+msgstr "死んだ馬"
+
+msgid "Little Bison"
+msgstr "子バイソン"
+
+msgid "Wounded Ibex"
+msgstr "怪我をしたアイベックス(野生山羊)"
