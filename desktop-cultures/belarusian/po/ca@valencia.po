@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Catalan (Valencian) (https://app.transifex.com/stellarium/"
+"teams/80998/ca@valencia/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca@valencia\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Belarusian"
+msgstr ""
+
+msgid "The Goat"
+msgstr "La cabra"
+
+msgid "Elias's Cart"
+msgstr "El carro d'Elies"
+
+msgid "The Bride"
+msgstr "La nóvia"
+
+msgid "The Chicks"
+msgstr "Els pollets"
+
+msgid "The Cross"
+msgstr "La creu"
+
+msgid "The Crown"
+msgstr "La corona"
+
+msgid "The Grass Snakes"
+msgstr "Les serps de collaret"
+
+msgid "Poland and Lithuania"
+msgstr "Polònia i Lituània"
+
+msgid "The Mowers"
+msgstr "La segadora de gespa"
+
+msgid "The Nail"
+msgstr "L'ungla"
+
+msgid "The Ploughman"
+msgstr "El llaurador"
+
+msgid "The Rake"
+msgstr "El rasclet"
+
+msgid "The Ram"
+msgstr "el Moltó"
+
+msgid "The Serpent"
+msgstr "La serp"
+
+msgid "The Sieve"
+msgstr "El sedàs"
+
+msgid "The Small Cart"
+msgstr "El carro xicotet"
+
+msgid "The Throne"
+msgstr "El tron"
+
+msgid "The Twins"
+msgstr "Els Bessons"
+
+msgid "The Wild Goat"
+msgstr "La cabra salvatge"
+
+msgid "The Goose's Way"
+msgstr "El camí de l'oca"
+
+msgid "Kaza"
+msgstr "Kaza"

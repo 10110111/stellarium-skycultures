@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Greek (https://app.transifex.com/stellarium/teams/80998/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Belarusian"
+msgstr ""
+
+msgid "The Goat"
+msgstr ""
+
+msgid "Elias's Cart"
+msgstr ""
+
+msgid "The Bride"
+msgstr ""
+
+msgid "The Chicks"
+msgstr ""
+
+msgid "The Cross"
+msgstr ""
+
+msgid "The Crown"
+msgstr ""
+
+msgid "The Grass Snakes"
+msgstr ""
+
+msgid "Poland and Lithuania"
+msgstr ""
+
+msgid "The Mowers"
+msgstr ""
+
+msgid "The Nail"
+msgstr ""
+
+msgid "The Ploughman"
+msgstr ""
+
+msgid "The Rake"
+msgstr ""
+
+msgid "The Ram"
+msgstr "Ο Κριός"
+
+msgid "The Serpent"
+msgstr ""
+
+msgid "The Sieve"
+msgstr ""
+
+msgid "The Small Cart"
+msgstr ""
+
+msgid "The Throne"
+msgstr ""
+
+msgid "The Twins"
+msgstr "Οι Δίδυμοι"
+
+msgid "The Wild Goat"
+msgstr ""
+
+msgid "The Goose's Way"
+msgstr ""
+
+msgid "Kaza"
+msgstr ""

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: ysjbserver <ysjbserver@naver.com>, 2023\n"
+"Language-Team: Korean (https://app.transifex.com/stellarium/teams/80998/"
+"ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Belarusian"
+msgstr "벨라루스"
+
+msgid "The Goat"
+msgstr "염소"
+
+msgid "Elias's Cart"
+msgstr "엘리아스의 수레"
+
+msgid "The Bride"
+msgstr "말굴레"
+
+msgid "The Chicks"
+msgstr "병아리"
+
+msgid "The Cross"
+msgstr "십자가"
+
+msgid "The Crown"
+msgstr "왕관"
+
+msgid "The Grass Snakes"
+msgstr "풀뱀"
+
+msgid "Poland and Lithuania"
+msgstr "폴란드-리투아니아 연방"
+
+msgid "The Mowers"
+msgstr "잔디깎이"
+
+msgid "The Nail"
+msgstr "손발톱"
+
+msgid "The Ploughman"
+msgstr "쟁기질하는 사람"
+
+msgid "The Rake"
+msgstr "갈퀴"
+
+msgid "The Ram"
+msgstr "숫양"
+
+msgid "The Serpent"
+msgstr "뱀"
+
+msgid "The Sieve"
+msgstr "체"
+
+msgid "The Small Cart"
+msgstr "작은 수레"
+
+msgid "The Throne"
+msgstr "왕좌"
+
+msgid "The Twins"
+msgstr "쌍둥이"
+
+msgid "The Wild Goat"
+msgstr "야생 염소"
+
+msgid "The Goose's Way"
+msgstr "거위의 길"
+
+msgid "Kaza"
+msgstr "카자"
