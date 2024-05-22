@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Khalid AlAjaji, 2023\n"
+"Language-Team: Arabic (https://app.transifex.com/stellarium/teams/80998/"
+"ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+# Sky culture name
+msgid "Boorong"
+msgstr "البورونج"
+
+msgid "Long-necked tortoise"
+msgstr "‎‎السلحفاة ذات العنق الطويل‎‎"
+
+msgid "Fan-tailed cockatoo"
+msgstr "‎‎الببغاء ذو الذيل المروحي‎‎"
+
+msgid "Two teenage boys"
+msgstr "‎‎المراهقان الإثنان‎‎"
+
+msgid "Girls"
+msgstr "‎‎البنات‎‎"
+
+msgid "Red kangaroo"
+msgstr "‎‎الكنجارو الأحمر‎‎"
+
+msgid "Ring-tail possum"
+msgstr "‎‎البوسم ذو الذيل الحلقي‎‎"
+
+msgid "Red-rumped parrot"
+msgstr "‎‎الببغاء ذو الظهر الأحمر‎‎"
+
+msgid "Crow"
+msgstr "‎‎الغراب‎‎"
+
+msgid "Female crow, wife of War"
+msgstr "‎‎أنثى الغراب‎‎"
+
+msgid "Owlet nightjar"
+msgstr "‎‎بوم السبد‎‎"
+
+msgid "Needlewood hakea and willie wagtails"
+msgstr "‎‎شجيرة الهاكيا الشوكية وطائر الويلي واجتيل‎‎"
+
+msgid "Red-kneed dotterel"
+msgstr "‎‎طائر الزقزاق ذو الركبة الحمراء‎‎"
+
+msgid "Australian kestrel"
+msgstr "‎‎صقر الكستريل السترالي‎‎"
+
+msgid "Mallee fowl"
+msgstr "‎‎دجاجة الماولي‎‎"
+
+msgid "Jacky lizard"
+msgstr "‎‎سحلية جاكي‎‎"
+
+msgid "Male and female brolga"
+msgstr "‎‎ذكر وأنثى كركي‎‎"
+
+msgid "Great fish"
+msgstr "‎‎السمكة العظيمة‎‎"
+
+msgid "Wedge tailed eagle"
+msgstr "‎‎النسر ذو الذيل المثلث‎‎"
+
+msgid "Female eagle, wife of Warepil"
+msgstr "‎‎أنثى النسر‎‎"
+
+msgid "Emu"
+msgstr "‎‎طائر الإيمو‎‎"
+
+msgid "Purple crowned lorikeet"
+msgstr "‎‎الببغاء ذو التاج البنفسجي‎‎"
+
+msgid "Meat ant"
+msgstr "‎‎نملة اللحم‎‎"
+
+msgid "Galaxy"
+msgstr "‎‎مجرة‎‎"
+
+msgid "Singing bushlark"
+msgstr "‎‎القبرة المغردة‎‎"
+
+msgid "Pink cockatoo"
+msgstr "‎‎الببغاء الزهري‎‎"
+
+msgid "Species of ant"
+msgstr "‎‎فصيلة من النمل‎‎"
+
+msgid "Boomerang"
+msgstr "‎‎البومارانج‎‎"
+
+msgid "The maned snake"
+msgstr "‎‎الحية ذات العرف‎‎"
+
+msgid "Marpeankurrk"
+msgstr "‎‎نملة اللحم‎‎"
+
+msgid "Djuit"
+msgstr "‎‎الببغاء ذو الظهر الأحمر‎‎"
+
+msgid "Neilloan"
+msgstr "‎‎نيلون‎‎"
+
+msgid "Totyarguil"
+msgstr "‎‎توتيارجويل‎‎"
+
+msgid "Karik Karik"
+msgstr "‎‎كاريك كاريك‎‎"
+
+msgid "Berm-berm-gle"
+msgstr "‎‎برم برم جلي‎‎"
+
+msgid "Bunya"
+msgstr "‎‎بونيا‎‎"
+
+msgid "Tourchingboiongerra"
+msgstr "‎‎تورشنجبويونجيرا‎‎"
+
+msgid "Kourt-chin"
+msgstr "‎‎كورت تشين‎‎"
+
+msgid "Warring"
+msgstr "‎‎وارينج‎‎"
+
+msgid "Kulkanbulla"
+msgstr "‎‎كولكانبولا‎‎"
+
+msgid "Lamankurrk"
+msgstr "‎‎لامانكورك‎‎"
+
+msgid "Gellarlec"
+msgstr "‎‎جيللارليك‎‎"
+
+msgid "Warepil"
+msgstr "‎‎ويربيل‎‎"
+
+msgid "Colowgulloric Warepil"
+msgstr "‎‎كولووجلوريك ويربيل‎‎"
+
+msgid "Won"
+msgstr "‎‎وون‎‎"
+
+msgid "Weetkurrk"
+msgstr "‎‎ويتكرك‎‎"
+
+msgid "War"
+msgstr "‎‎وار‎‎"
+
+msgid "Collowgulloric War"
+msgstr "‎‎كولووجلوريك وار‎‎"
+
+msgid "Yerredetkurrk"
+msgstr "‎‎ييريدديتكرك‎‎"
+
+msgid "Otchocut"
+msgstr "‎‎أوتشوكت‎‎"
+
+msgid "Collenbitchick"
+msgstr "‎‎كوللينبيتتشيك‎‎"
+
+msgid "Yurree"
+msgstr "‎‎يوري‎‎"
+
+msgid "Wanjel"
+msgstr "‎‎وانجل‎‎"
+
+msgid "Purra"
+msgstr "‎‎بوررا‎‎"
+
+msgid "Unurgunite"
+msgstr "‎‎أونورجنايت‎‎"
+
+#. TRANSLATORS: Native name of the Sun in Boorong culture
+msgid "Day"
+msgstr "دي"
+
+#. TRANSLATORS: Native name of the Moon in Boorong culture
+msgid "Mityan"
+msgstr "‎‎ميتيان - القمر‎‎"
+
+#. TRANSLATORS: Native name of Venus in Boorong culture
+msgid "Elder sister"
+msgstr "الأخت الكبيرة"
+
+#. TRANSLATORS: Native name of Jupiter in Boorong culture
+msgid "Sulphur-crested white cockatoo"
+msgstr "الببغاء الأبيض ذو العرف الأصفر"
