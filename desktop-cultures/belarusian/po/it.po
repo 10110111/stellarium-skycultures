@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Luigi Ghia <luigi.ghia@gmail.com>, 2023\n"
+"Language-Team: Italian (https://app.transifex.com/stellarium/teams/80998/"
+"it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+
+# Sky culture name
+msgid "Belarusian"
+msgstr "Bielorusso"
+
+msgid "The Goat"
+msgstr "La Capra"
+
+msgid "Elias's Cart"
+msgstr "Il Carrello di Elias"
+
+msgid "The Bride"
+msgstr "La Sposa"
+
+msgid "The Chicks"
+msgstr "I Pulcini"
+
+msgid "The Cross"
+msgstr "La Croce"
+
+msgid "The Crown"
+msgstr "La Corona"
+
+msgid "The Grass Snakes"
+msgstr "I Serpenti d'erba"
+
+msgid "Poland and Lithuania"
+msgstr "Polonia e Lituania"
+
+msgid "The Mowers"
+msgstr "Le Falciatrici"
+
+msgid "The Nail"
+msgstr "L'Unghia"
+
+msgid "The Ploughman"
+msgstr "L' Aratore"
+
+msgid "The Rake"
+msgstr "Il Rastrello"
+
+msgid "The Ram"
+msgstr "L'ariete"
+
+msgid "The Serpent"
+msgstr "Il Serpente"
+
+msgid "The Sieve"
+msgstr "Il Setaccio"
+
+msgid "The Small Cart"
+msgstr "Il Piccolo Carrello"
+
+msgid "The Throne"
+msgstr "Il Trono"
+
+msgid "The Twins"
+msgstr "I gemelli"
+
+msgid "The Wild Goat"
+msgstr "La Capra Selvatica"
+
+msgid "The Goose's Way"
+msgstr "L'Aspetto dell'oca"
+
+msgid "Kaza"
+msgstr "Kaza"

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Georg Zotti <Georg.Zotti@univie.ac.at>, 2023\n"
+"Language-Team: German (https://app.transifex.com/stellarium/teams/80998/"
+"de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Belarusian"
+msgstr "Weißrussisch"
+
+msgid "The Goat"
+msgstr "Die Ziege"
+
+msgid "Elias's Cart"
+msgstr "Elias-Wagen"
+
+msgid "The Bride"
+msgstr "Die Braut"
+
+msgid "The Chicks"
+msgstr "Die Küken"
+
+msgid "The Cross"
+msgstr "Kreuz"
+
+msgid "The Crown"
+msgstr "Krone"
+
+msgid "The Grass Snakes"
+msgstr "Ringelnattern"
+
+msgid "Poland and Lithuania"
+msgstr "Polen und Litauen"
+
+msgid "The Mowers"
+msgstr "Die Schnitter"
+
+msgid "The Nail"
+msgstr "Nagel"
+
+msgid "The Ploughman"
+msgstr "Der Pflüger"
+
+msgid "The Rake"
+msgstr "Der Rechen"
+
+msgid "The Ram"
+msgstr "Der Widder"
+
+msgid "The Serpent"
+msgstr "Die Schlange"
+
+msgid "The Sieve"
+msgstr "Sieb"
+
+msgid "The Small Cart"
+msgstr "Kleiner Wagen"
+
+msgid "The Throne"
+msgstr "Thron"
+
+msgid "The Twins"
+msgstr "DIe Zwillinge"
+
+msgid "The Wild Goat"
+msgstr "Wildziege"
+
+msgid "The Goose's Way"
+msgstr "Gänsezug"
+
+msgid "Kaza"
+msgstr "Kaza"

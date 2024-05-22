@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Karl Birgersson <birgerssonkarl@outlook.com>, 2022\n"
+"Language-Team: Swedish (https://app.transifex.com/stellarium/teams/80998/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Belarusian"
+msgstr "Belarusisk"
+
+msgid "The Goat"
+msgstr "Geten"
+
+msgid "Elias's Cart"
+msgstr "Elias kärra"
+
+msgid "The Bride"
+msgstr "Bruden"
+
+msgid "The Chicks"
+msgstr "Kycklingarna"
+
+msgid "The Cross"
+msgstr "Korset"
+
+msgid "The Crown"
+msgstr "Kronan"
+
+msgid "The Grass Snakes"
+msgstr "Snokarna"
+
+msgid "Poland and Lithuania"
+msgstr "Polen och Litauen"
+
+msgid "The Mowers"
+msgstr "Grässkördarna"
+
+msgid "The Nail"
+msgstr "Spiken"
+
+msgid "The Ploughman"
+msgstr "Bonden som plöjer"
+
+msgid "The Rake"
+msgstr "Krattan"
+
+msgid "The Ram"
+msgstr "Baggen"
+
+msgid "The Serpent"
+msgstr "Ormen"
+
+msgid "The Sieve"
+msgstr "Sållet"
+
+msgid "The Small Cart"
+msgstr "Lilla kärran"
+
+msgid "The Throne"
+msgstr "Tronen"
+
+msgid "The Twins"
+msgstr "Tvillingarna"
+
+msgid "The Wild Goat"
+msgstr "Vildgeten"
+
+msgid "The Goose's Way"
+msgstr "Gåsens väg"
+
+msgid "Kaza"
+msgstr "Kaza"

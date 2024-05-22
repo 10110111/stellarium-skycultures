@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: English (United States) (https://app.transifex.com/stellarium/"
+"teams/80998/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Belarusian"
+msgstr "Belarusian"
+
+msgid "The Goat"
+msgstr "The Goat"
+
+msgid "Elias's Cart"
+msgstr "Elias's Cart"
+
+msgid "The Bride"
+msgstr "The Bride"
+
+msgid "The Chicks"
+msgstr "The Chicks"
+
+msgid "The Cross"
+msgstr "The Cross"
+
+msgid "The Crown"
+msgstr "The Crown"
+
+msgid "The Grass Snakes"
+msgstr "The Grass Snakes"
+
+msgid "Poland and Lithuania"
+msgstr "Poland and Lithuania"
+
+msgid "The Mowers"
+msgstr "The Mowers"
+
+msgid "The Nail"
+msgstr "The Nail"
+
+msgid "The Ploughman"
+msgstr "The Ploughman"
+
+msgid "The Rake"
+msgstr "The Rake"
+
+msgid "The Ram"
+msgstr "The Ram"
+
+msgid "The Serpent"
+msgstr "The Serpent"
+
+msgid "The Sieve"
+msgstr "The Sieve"
+
+msgid "The Small Cart"
+msgstr "The Small Cart"
+
+msgid "The Throne"
+msgstr "The Throne"
+
+msgid "The Twins"
+msgstr "The Twins"
+
+msgid "The Wild Goat"
+msgstr "The Wild Goat"
+
+msgid "The Goose's Way"
+msgstr "The Goose's Way"
+
+msgid "Kaza"
+msgstr "Kaza"
