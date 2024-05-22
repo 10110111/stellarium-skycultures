@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Indonesian (https://app.transifex.com/stellarium/teams/80998/"
+"id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Egyptian"
+msgstr "Mesir"
+
+msgid "Bird"
+msgstr "Burung"
+
+msgid "Sheep"
+msgstr "Domba"
+
+msgid "Net"
+msgstr "Jaring"
+
+msgid "Triangle"
+msgstr "Segitiga"
+
+msgid "Bull's Foreleg"
+msgstr "Kaki depannya banteng"
+
+msgid "Two Poles"
+msgstr "Dua kutub"
+
+msgid "Lion"
+msgstr "Singa"
+
+msgid "Two Jaws"
+msgstr "Dua Rahang Hiu"
+
+msgid "Sah"
+msgstr "Sah"
+
+msgid "Sek"
+msgstr "Sek"
+
+msgid "Ferry Boat"
+msgstr "Kapal Feri"
+
+msgid "Boat"
+msgstr "Kapal laut"
+
+msgid "Crocodile"
+msgstr "Buaya"
+
+msgid "Selkis"
+msgstr "Selkis"
+
+msgid "Prow"
+msgstr "Haluan kapal"
+
+msgid "Horus"
+msgstr "Horus"
+
+msgid "Sheepfold"
+msgstr "Kawanan domba"
+
+msgid "Giant"
+msgstr "Raksasa"
+
+msgid "Hippopotamus"
+msgstr "Kuda Nil"
+
+msgid "Flock"
+msgstr "Berkumpul"
+
+msgid "Pair of Stars"
+msgstr "Pasangan dari Bintang"
+
+msgid "Khanuwy Fish"
+msgstr "Ikan Khanuwy"
+
+msgid "Jaw"
+msgstr "rahang"
+
+msgid "Mooring Post"
+msgstr "Tiang sandaran"
+
+msgid "Kenemet"
+msgstr "Kenemet"
+
+msgid "Chematy"
+msgstr "Chematy"
+
+msgid "Waty Bekety"
+msgstr "Waty Bekety"
+
+msgid "Stars of Water"
+msgstr "Bintangnya air"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Sirius"
+msgstr "Sirius"
+
+#. TRANSLATORS: Native name of the Sun in Egyptian culture
+msgid "God of Sun"
+msgstr ""
+
+#. TRANSLATORS: Native name of the Moon in Egyptian culture
+msgid "The Traveler"
+msgstr ""
+
+#. TRANSLATORS: Native name of Mercury in Egyptian culture
+msgid "Unknown"
+msgstr "Tidak diketahui"
+
+#. TRANSLATORS: Native name of Venus in Egyptian culture
+msgid "Star that Crosses / The God of the Morning"
+msgstr ""
+
+#. TRANSLATORS: Native name of Mars in Egyptian culture
+msgid "Red Horus"
+msgstr ""
+
+#. TRANSLATORS: Native name of Jupiter in Egyptian culture
+msgid "Horus Who Binds the Two Lands"
+msgstr ""
+
+#. TRANSLATORS: Native name of Saturn in Egyptian culture
+msgid "Horus, the Bull of Heaven"
+msgstr ""
