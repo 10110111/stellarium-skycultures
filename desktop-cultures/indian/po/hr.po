@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Orr Nuts <orrnuts@gmail.com>, 2022\n"
+"Language-Team: Croatian (https://app.transifex.com/stellarium/teams/80998/"
+"hr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Indian Vedic"
+msgstr ""
+
+msgid "Ursa Major"
+msgstr "Ursa Major"
+
+msgid "Aries"
+msgstr "Aries"
+
+msgid "Taurus"
+msgstr "Taurus"
+
+msgid "Gemini"
+msgstr "Blizanci"
+
+msgid "Cancer"
+msgstr "Cancer"
+
+msgid "Leo"
+msgstr "Leo"
+
+msgid "Virgo"
+msgstr "Virgo"
+
+msgid "Libra"
+msgstr "Libra"
+
+msgid "Scorpius"
+msgstr "Scorpius"
+
+msgid "Aquarius"
+msgstr "Aquarius"
+
+msgid "Pisces"
+msgstr "Pisces"
+
+msgid "Arrow"
+msgstr "Strelica"
+
+msgid "Bow"
+msgstr "Bow"
+
+msgid "Root"
+msgstr "Korijen"
+
+msgid "Crocodile"
+msgstr "Krokodil"
+
+msgid "Charioteer"
+msgstr "Kočijaš"
+
+msgid "Dolphin"
+msgstr "Delfin"
+
+msgid "With Horses"
+msgstr ""
+
+msgid "Bearer"
+msgstr ""
+
+msgid "Cutter"
+msgstr ""
+
+msgid "Climber"
+msgstr ""
+
+msgid "Deer's head"
+msgstr ""
+
+msgid "Moist"
+msgstr ""
+
+msgid "Wealth-restorer"
+msgstr ""
+
+msgid "Nourisher"
+msgstr ""
+
+msgid "Embrace"
+msgstr "Embrace"
+
+msgid "Bountiful"
+msgstr ""
+
+msgid "Former Fruitful"
+msgstr ""
+
+msgid "Latter Fruitful"
+msgstr ""
+
+msgid "Hand"
+msgstr ""
+
+msgid "Spectacular"
+msgstr ""
+
+msgid "Self mover"
+msgstr ""
+
+msgid "Following Rādhā"
+msgstr ""
+
+msgid "Well branched"
+msgstr ""
+
+msgid "Elder"
+msgstr ""
+
+msgid "Former invincible one"
+msgstr ""
+
+msgid "Latter invincible one"
+msgstr ""
+
+msgid "Victorious"
+msgstr ""
+
+msgid "Ear"
+msgstr ""
+
+msgid "Wealthiest"
+msgstr ""
+
+msgid "Hundred cures"
+msgstr ""
+
+msgid "The first of the blessed feet"
+msgstr "The first of the blessed feet"
+
+msgid "The second of the blessed feet"
+msgstr "The second of the blessed feet"
+
+msgid "Leaper"
+msgstr ""
+
+msgid "Deer Hunter"
+msgstr "Lovac na Jelene"
+
+msgid "King Trishanku"
+msgstr ""
+
+msgid "7 Sages"
+msgstr ""
+
+msgid "Reed forest"
+msgstr ""
+
+msgid "River Yamunā"
+msgstr ""
+
+#. TRANSLATORS:   A sage
+#. TRANSLATORS:   A great sage (Caph)
+msgid "Jamadagni"
+msgstr "Jamadagni"
+
+#. TRANSLATORS: A hero. Literally: Steadfast one.
+#. TRANSLATORS:   Fixed (Pole star)
+msgid "Dhruva"
+msgstr "Dhruva"
+
+#. TRANSLATORS:   Red (Aldeberan)
+msgid "Rohiṇī"
+msgstr "Rohiṇī"
+
+#. TRANSLATORS:   Moist (Betelgeuse)
+msgid "Ārdrā"
+msgstr "Ārdrā"
+
+#. TRANSLATORS:   Bountiful one (Regulus)
+msgid "Maghā"
+msgstr "Maghā"
+
+#. TRANSLATORS:   Spectacular (Spica)
+msgid "Chitrā"
+msgstr "Chitrā"
+
+#. TRANSLATORS:   Honest one (Arcturus)
+msgid "Svāti"
+msgstr "Svāti"
+
+msgid "Kārtavīrya"
+msgstr "Kārtavīrya"
+
+msgid "Revatī"
+msgstr "Revatī"
+
+msgid "Śatabhiṣak"
+msgstr ""
+
+#. TRANSLATORS:   To hear or Ear (Altair)
+msgid "Śravaṇa"
+msgstr "Śravaṇa"
+
+#. TRANSLATORS:   Heart of the Creator (Capella)
+msgid "Bramha-hṛdaya"
+msgstr "Bramha-hṛdaya"
+
+#. TRANSLATORS:   Hunter (Sirius)
+msgid "Lubdhaka"
+msgstr "Lubdhaka"
+
+#. TRANSLATORS:   Monarch (Rigel)
+msgid "Vānrājā"
+msgstr "Vānrājā"
+
+#. TRANSLATORS:   One of the seven sages (Dhube)
+msgid "Kratu"
+msgstr "Kratu"
+
+#. TRANSLATORS:   One of the seven sages (Merak)
+msgid "Pulaha"
+msgstr "Pulaha"
+
+#. TRANSLATORS:   One of the seven sages (Phecda)
+msgid "Pulasta"
+msgstr "Pulasta"
+
+#. TRANSLATORS:   One of the seven sages (Megrez)
+msgid "Atri"
+msgstr "Atri"
+
+#. TRANSLATORS:   One of the seven sages (Alioth)
+msgid "Angirā"
+msgstr "Angirā"
+
+#. TRANSLATORS:   One of the seven sages (Mizar)
+msgid "Vaśisṭha"
+msgstr "Vaśisṭha"
+
+#. TRANSLATORS:   One of the seven sages (Alkaid)
+msgid "Mārīchi"
+msgstr "Mārīchi"
+
+#. TRANSLATORS:   Wife of Vasisṭha, a great sage (Alcor)
+msgid "Arundhati"
+msgstr "Arundhati"
+
+#. TRANSLATORS:   Invincible (Vega)
+msgid "Abhijit"
+msgstr "Abhijit"
+
+#. TRANSLATORS:   Eldest (Antares)
+msgid "jyeṣṭhā"
+msgstr "jyeṣṭhā"
+
+#. TRANSLATORS:   A great sage who went south (Canopus)
+msgid "Agastya"
+msgstr "Agastya"
+
+#. TRANSLATORS:   Fire (Elnath)
+msgid "Agni"
+msgstr "Agni"
+
+#. TRANSLATORS:   Dawn (Alnitak)
+msgid "Uṣā"
+msgstr "Uṣā"
+
+#. TRANSLATORS:   Unbounded (Alnilam)
+msgid "Aniruddha"
+msgstr "Aniruddha"
+
+#. TRANSLATORS:   As beautiful as a picture (Mintaka)
+msgid "Chitralekhā"
+msgstr "Chitralekhā"
+
+#. TRANSLATORS:   Fire (Alhena)
+msgid "Anala"
+msgstr "Anala"
+
+#. TRANSLATORS:   Mother of demons (Pollux)
+msgid "Diti"
+msgstr "Diti"
+
+#. TRANSLATORS:   Mother of gods (Castor)
+msgid "Aditi"
+msgstr "Aditi"
+
+#. TRANSLATORS:   Son of lord Shiva (Bellatrix)
+msgid "Kārtikeya"
+msgstr "Kārtikeya"
+
+#. TRANSLATORS: Native name for the Sun
+msgid "Vigorous"
+msgstr ""
+
+#. TRANSLATORS: Native name for the Moon
+msgid "Delighter"
+msgstr ""
+
+#. TRANSLATORS: Native name for Mercury
+msgid "Wise one"
+msgstr ""
+
+#. TRANSLATORS: Native name for Venus
+msgid "Bright one"
+msgstr ""
+
+#. TRANSLATORS: Native name for Mars
+msgid "Auspicious one"
+msgstr ""
+
+#. TRANSLATORS: Native name for Jupiter
+msgid "Mentor"
+msgstr ""
+
+#. TRANSLATORS: Native name for Saturn
+msgid "Slow mover"
+msgstr ""
