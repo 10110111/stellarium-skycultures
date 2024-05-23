@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: English (United States) (https://app.transifex.com/stellarium/"
+"teams/80998/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Lokono"
+msgstr "Lokono"
+
+msgid "Spirit of the black curassow"
+msgstr "Spirit of the black curassow"
+
+msgid "Grill"
+msgstr "Grill"
+
+msgid "Scores of stars"
+msgstr "Scores of stars"
+
+msgid "Man without a thigh"
+msgstr "Man without a thigh"
+
+msgid "Jaw of the tapir"
+msgstr "Jaw of the tapir"
+
+msgid "Spirit of the awara palm"
+msgstr "Spirit of the awara palm"
+
+msgid "Spirit of the blue crab"
+msgstr "Spirit of the blue crab"
+
+msgid "Spirit of the cocoi heron"
+msgstr "Spirit of the cocoi heron"
+
+msgid "Spirit of the four-eyed fish"
+msgstr "Spirit of the four-eyed fish"
+
+msgid "Spirit of green sea turtle"
+msgstr "Spirit of green sea turtle"
+
+msgid "Spirit of the Muscovy duck"
+msgstr "Spirit of the Muscovy duck"
+
+msgid "Alêti"
+msgstr "Alêti"
+
+msgid "Yokhârhin"
+msgstr "Yokhârhin"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Hadali"
+msgstr "Hadali"
+
+msgid "Kathi"
+msgstr "Kathi"
+
+msgid "Warokuma"
+msgstr "Warokuma"
+
+msgid "Wiwa kalemero"
+msgstr "Wiwa kalemero"

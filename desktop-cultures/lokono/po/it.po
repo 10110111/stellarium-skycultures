@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Luigi Ghia <luigi.ghia@gmail.com>, 2023\n"
+"Language-Team: Italian (https://app.transifex.com/stellarium/teams/80998/"
+"it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+
+# Sky culture name
+msgid "Lokono"
+msgstr "Lokono"
+
+msgid "Spirit of the black curassow"
+msgstr "Spirito del burrone nero"
+
+msgid "Grill"
+msgstr "Griglia"
+
+msgid "Scores of stars"
+msgstr "Decine di stelle"
+
+msgid "Man without a thigh"
+msgstr "Uomo senza coscia"
+
+msgid "Jaw of the tapir"
+msgstr "Mascella di tapiro"
+
+msgid "Spirit of the awara palm"
+msgstr "Spirito della palma awara"
+
+msgid "Spirit of the blue crab"
+msgstr "Spirito del granchio blu"
+
+msgid "Spirit of the cocoi heron"
+msgstr "Spirito dell'airone cocoi"
+
+msgid "Spirit of the four-eyed fish"
+msgstr "Spirito del pesce quattrocchi"
+
+msgid "Spirit of green sea turtle"
+msgstr "Spirito della tartaruga verde"
+
+msgid "Spirit of the Muscovy duck"
+msgstr "Spirito dell'anatra muta"
+
+msgid "Alêti"
+msgstr "Alêti"
+
+msgid "Yokhârhin"
+msgstr "Yokhârhin"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Hadali"
+msgstr "Hadali"
+
+msgid "Kathi"
+msgstr "Kathi"
+
+msgid "Warokuma"
+msgstr "Warokuma"
+
+msgid "Wiwa kalemero"
+msgstr "Wiwa kalemero"
