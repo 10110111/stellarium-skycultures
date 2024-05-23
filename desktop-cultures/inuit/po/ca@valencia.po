@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Catalan (Valencian) (https://app.transifex.com/stellarium/"
+"teams/80998/ca@valencia/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca@valencia\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "Dos Raigs de Sol"
+
+msgid "Two Placed Far Apart"
+msgstr "Dos Situats Lluny"
+
+msgid "Dogs"
+msgstr "Gossos"
+
+msgid "Collarbones"
+msgstr "Clavícules"
+
+msgid "Lamp Stand"
+msgstr "Lum de Peu"
+
+msgid "Caribou"
+msgstr "Caribú"
+
+msgid "Two in Front"
+msgstr "Dos al front"
+
+msgid "Breastbone"
+msgstr "Estèrnum"
+
+msgid "Runners"
+msgstr "Corredors"
+
+msgid "Blubber Container"
+msgstr "Contenidor de greix de balena"
+
+msgid "The One Behind"
+msgstr "El que Està Darrere"
+
+msgid "The Old Woman"
+msgstr "L'Anciana"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Esperit de l'os polar"
+
+msgid "Never Moves"
+msgstr "Mai es mou"
+
+msgid "Name of a Murdered Man"
+msgstr "Nom d'un home assassinat"
+
+msgid "Flickering"
+msgstr "Parpelleig"
+
+msgid "Nephews"
+msgstr "Nebots"
+
+msgid "The Old Man"
+msgstr "l'Ancià"
+
+msgid "The Little Orphan Boy"
+msgstr "El xicotet orfe"

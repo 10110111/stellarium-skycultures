@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Translator, 2022\n"
+"Language-Team: Slovenian (https://app.transifex.com/stellarium/teams/80998/"
+"sl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "Sončna žarka"
+
+msgid "Two Placed Far Apart"
+msgstr "Razmaknjena dvojica"
+
+msgid "Dogs"
+msgstr "Psi"
+
+msgid "Collarbones"
+msgstr "Ključnici"
+
+msgid "Lamp Stand"
+msgstr "Svečnik"
+
+msgid "Caribou"
+msgstr "Severni jelen"
+
+msgid "Two in Front"
+msgstr "Prednja dva"
+
+msgid "Breastbone"
+msgstr "Prsnica"
+
+msgid "Runners"
+msgstr "Tekači"
+
+msgid "Blubber Container"
+msgstr "Posoda loja"
+
+msgid "The One Behind"
+msgstr "Tisti zadaj"
+
+msgid "The Old Woman"
+msgstr ""
+
+msgid "Spirit of a Polar Bear"
+msgstr ""
+
+msgid "Never Moves"
+msgstr ""
+
+msgid "Name of a Murdered Man"
+msgstr ""
+
+msgid "Flickering"
+msgstr "Utripajoča"
+
+msgid "Nephews"
+msgstr ""
+
+msgid "The Old Man"
+msgstr ""
+
+msgid "The Little Orphan Boy"
+msgstr ""
