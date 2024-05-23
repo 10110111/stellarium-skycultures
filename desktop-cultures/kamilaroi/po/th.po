@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Worachate Boonplod, 2024\n"
+"Language-Team: Thai (https://app.transifex.com/stellarium/teams/80998/th/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Kamilaroi/Euahlayi"
+msgstr "คามีลารอย/ยูอาลายี"
+
+msgid "Gawaargay"
+msgstr ""
+
+msgid "Birraybirray"
+msgstr ""
+
+msgid "Birringoloo"
+msgstr ""
+
+msgid "Yarran"
+msgstr ""
+
+msgid "Old Wiringin"
+msgstr ""
+
+msgid "Old Dthillar and gunya"
+msgstr ""
+
+msgid "Wamba Wamba"
+msgstr ""
+
+msgid "Miyaymiyay"
+msgstr ""
+
+msgid "Wadhaagudjaaylwan"
+msgstr ""
+
+msgid "Bandaarr"
+msgstr ""
+
+msgid "MuraayMuyaay"
+msgstr ""
+
+msgid "Warrawilbaarru"
+msgstr ""

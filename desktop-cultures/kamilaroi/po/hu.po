@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Hungarian (https://app.transifex.com/stellarium/teams/80998/"
+"hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Kamilaroi/Euahlayi"
+msgstr ""
+
+msgid "Gawaargay"
+msgstr "Gavargéj"
+
+msgid "Birraybirray"
+msgstr "Birrébirré"
+
+msgid "Birringoloo"
+msgstr "Birringolu"
+
+msgid "Yarran"
+msgstr "Jarran"
+
+msgid "Old Wiringin"
+msgstr ""
+
+msgid "Old Dthillar and gunya"
+msgstr ""
+
+msgid "Wamba Wamba"
+msgstr "Vambavamba"
+
+msgid "Miyaymiyay"
+msgstr "Mijéjmijéj"
+
+msgid "Wadhaagudjaaylwan"
+msgstr "Vadhagudzséjluan"
+
+msgid "Bandaarr"
+msgstr "Bandárr"
+
+msgid "MuraayMuyaay"
+msgstr "Muréjmujéj"
+
+msgid "Warrawilbaarru"
+msgstr "Varavilbarru"
