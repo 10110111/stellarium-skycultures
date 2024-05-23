@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Hawaiian Starlines"
+msgstr ""
+
+msgid "Leo"
+msgstr "లియో"
+
+msgid "The Canoe Bailer of Makali`i"
+msgstr "మకాలి కానో బెయిలర్`i"
+
+msgid "The Cat's Cradle"
+msgstr "పిల్లి ఉయ్యాల"
+
+msgid "The Backbone"
+msgstr "వెన్నెముక"
+
+msgid "The Chief's Fishline"
+msgstr "నాయకుడి చేపల గేలపు దారం"
+
+msgid "The Chief's Eyes"
+msgstr "నాయకుడి కళ్ళు"
+
+msgid "Kite of Kawelo"
+msgstr "కావెలో గాలిపటం"
+
+msgid "The Seven"
+msgstr "ఏడు"
+
+msgid "Voice of Joy"
+msgstr "సంతోషపు స్వరం"
+
+msgid "Chief Frigate Bird"
+msgstr "ముఖ్య ఫ్రిగేట్ పక్షి"
+
+msgid "Cared for by Moon"
+msgstr "చంద్రుడి సంరక్షణలో"
+
+msgid "The Pointers"
+msgstr "చూపుడుచుక్కలు"
+
+msgid "Navigator's Triangle"
+msgstr "దిక్సూచి త్రికోణం"
+
+msgid "Hokulei"
+msgstr "హోకులే"
+
+msgid "Nana-mua"
+msgstr "నానా-మువా"
+
+msgid "Nana-hope"
+msgstr "నానా-హోపె"
+
+msgid "Puana"
+msgstr "పువానా-కౌ"
+
+msgid "A‘a"
+msgstr "ఆ అ"
+
+msgid "Puana-kau"
+msgstr "పువానా-కౌ"
+
+msgid "Pu'uhonua"
+msgstr "పూహోనువా"
+
+msgid "Kaulua-koko"
+msgstr "కౌలువా-కోకో"
+
+msgid "Hokupa‘a"
+msgstr "హొకుపా"
+
+msgid "Hokule‘a"
+msgstr "హొకులే"
+
+msgid "Hiki-analia"
+msgstr "హికి-అనాలియా"
+
+msgid "Holopuni"
+msgstr "హోలోపుని"
+
+msgid "Hawaiki"
+msgstr "హవాయికి"
+
+msgid "Humu"
+msgstr "హుము"
+
+msgid "Keoe"
+msgstr "కే"
+
+msgid "Hoku‘ula"
+msgstr "హోకు ఉలా"
+
+msgid "Lehua-Kona"
+msgstr "లేహువా-కోనా"
+
+msgid "Ke ali'i o kona i ka lewa"
+msgstr "కే ఆలి ఓ కోనా ఇ కా లేవా"
+
+msgid "Pu‘uhonua"
+msgstr "పు ఉహోనువా"
+
+msgid "Hiku-kahi"
+msgstr "హికు-కాహి"
+
+msgid "Hiku-lua"
+msgstr "హికు-లువా"
+
+msgid "Hiku-kolu"
+msgstr "హికు-కోలు"
+
+msgid "Hiku-ha"
+msgstr "హికు-హా"
+
+msgid "Hiku-lima"
+msgstr "హికు-లిమా"
+
+msgid "Hiku-ono"
+msgstr "హికు-ఓనో"
+
+msgid "Hiku-pau"
+msgstr "హికు-పౌ"
+
+msgid "Kaulia"
+msgstr "కౌలియా"
+
+msgid "Ka Mole Honua"
+msgstr "కా మోలే హోనువా"
+
+msgid "Ka-maile-mua"
+msgstr "కా-మైలే-మువా"
+
+msgid "Ka-maile-hope"
+msgstr "కా-మైలే-హోపె"
+
+msgid "Ka Maka"
+msgstr "కా మాకా"
+
+msgid "Kapuahi"
+msgstr "కాపువాహి"
+
+msgid "Keawe"
+msgstr "కేవే"
+
+msgid "Manokalanipo"
+msgstr "మనోకలానిపో"
+
+msgid "Pi‘ilani"
+msgstr "పీలానీ"
+
+msgid "Kakuhihewa"
+msgstr "కాకుహిహేవా"
+
+msgid "Pi‘ikea"
+msgstr "పీకియా"
+
+msgid "Kaikilani"
+msgstr "కైకిలాని"
+
+msgid "Kukaniloko"
+msgstr "కుకానిలోకో"
+
+msgid "Kealohalani-po-keao"
+msgstr "కీలోహలాని-పో-కేయో"
+
+msgid "Kamoanalipoli-po-keao"
+msgstr "కమో అనాలిపోలి-పో-కేయో"
+
+msgid "Kaheihiwahiwa-o-keao"
+msgstr "కాహెహివాహివా-పో-కేయో"
+
+msgid "Kapalinihinihi-o-keao"
+msgstr "కపాలినిహినిహి-పో-కేయో"
+
+msgid "Haumea"
+msgstr "హౌమియా"
+
+msgid "Mirzim"
+msgstr "మిర్జిమ్"
+
+msgid "‘Ekekeu’ena’ena"
+msgstr "ఎకెకియు ఎనా ఎనా"
+
+msgid "‘Ekekeuehuehu"
+msgstr "ఎకె కు ఎహు ఎహు"
+
+msgid "‘Ekekeuhe’ehe’e"
+msgstr "ఎకె కియుహె ఎహె ఎ"
+
+msgid "‘Ekekeukolokolo"
+msgstr "ఎకెకె యుకోలోకోలో"
+
+msgid "Bellatrix"
+msgstr "బెల్లాట్రిక్స్"
+
+msgid "Alnitak"
+msgstr "ఆల్నిటాక్"
+
+msgid "Alnilam"
+msgstr "ఆల్నిలమ్"
+
+msgid "Mintaka"
+msgstr "మింటాకా"
+
+msgid "Pua‘i"
+msgstr "పువాయి"
+
+msgid "Mili’opu"
+msgstr "మిలియోపు"
+
+msgid "Kahe"
+msgstr "కాహే"
+
+msgid "Hihiwai"
+msgstr "హిహివై"
+
+msgid "Kawelaokapo"
+msgstr "కవెలావోకాపో"
+
+msgid "‘Ohelokulu"
+msgstr "ఓహెలోకులు"
+
+msgid "‘Ohelokoko"
+msgstr "ఓహెలోకోకో"
+
+msgid "‘Ohelouli"
+msgstr "ఓహెలౌలి"
+
+msgid "‘Oheloawa"
+msgstr "ఓహెలొవావా"
+
+msgid "‘Ohelowaha"
+msgstr "ఓహెలోవాహా"
+
+msgid "Kawilikolokio"
+msgstr "కావిలికోలోకియో"
+
+msgid "Ka‘ielawei‘a"
+msgstr "కా ఎలావీయా"
+
+msgid "Kalipo‘eu‘eu"
+msgstr "కాలిపోయుయు"
+
+msgid "Momonapikowalu"
+msgstr "మోమోనాపికోవాలు"
+
+msgid "Mokopapa‘i"
+msgstr "మోకోపాపాయి"
+
+msgid "Wainielela"
+msgstr "వైనియెలేలా"
+
+msgid "Makali‘i"
+msgstr ""

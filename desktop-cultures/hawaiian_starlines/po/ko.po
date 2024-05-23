@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: ysjbserver <ysjbserver@naver.com>, 2023\n"
+"Language-Team: Korean (https://app.transifex.com/stellarium/teams/80998/"
+"ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Hawaiian Starlines"
+msgstr "하와이 성좌"
+
+msgid "Leo"
+msgstr "사자자리"
+
+msgid "The Canoe Bailer of Makali`i"
+msgstr "마칼리이의 카누 파래박"
+
+msgid "The Cat's Cradle"
+msgstr "고양이의 요람"
+
+msgid "The Backbone"
+msgstr "등뼈"
+
+msgid "The Chief's Fishline"
+msgstr "추장의 낚싯줄"
+
+msgid "The Chief's Eyes"
+msgstr "추장의 눈"
+
+msgid "Kite of Kawelo"
+msgstr "카윌로의 연"
+
+msgid "The Seven"
+msgstr "일곱"
+
+msgid "Voice of Joy"
+msgstr "기쁜 목소리"
+
+msgid "Chief Frigate Bird"
+msgstr "추장의 군함새"
+
+msgid "Cared for by Moon"
+msgstr "달의 가호"
+
+msgid "The Pointers"
+msgstr "지극성"
+
+msgid "Navigator's Triangle"
+msgstr "항해사의 삼각자"
+
+msgid "Hokulei"
+msgstr "호쿨레이"
+
+msgid "Nana-mua"
+msgstr "나나-무아"
+
+msgid "Nana-hope"
+msgstr "나나-호페"
+
+msgid "Puana"
+msgstr "푸아나"
+
+msgid "A‘a"
+msgstr "아아"
+
+msgid "Puana-kau"
+msgstr "푸아나-카우"
+
+msgid "Pu'uhonua"
+msgstr "푸우호누아"
+
+msgid "Kaulua-koko"
+msgstr "카울루아-코코"
+
+msgid "Hokupa‘a"
+msgstr "호쿠파아"
+
+msgid "Hokule‘a"
+msgstr "호쿨레아"
+
+msgid "Hiki-analia"
+msgstr "히키-아날리아"
+
+msgid "Holopuni"
+msgstr "호로푸니"
+
+msgid "Hawaiki"
+msgstr "하와이키"
+
+msgid "Humu"
+msgstr "후무"
+
+msgid "Keoe"
+msgstr "케오에"
+
+msgid "Hoku‘ula"
+msgstr "호쿠울라"
+
+msgid "Lehua-Kona"
+msgstr "레후아-코나"
+
+msgid "Ke ali'i o kona i ka lewa"
+msgstr "케 알리이 오 코나 이 카 레와"
+
+msgid "Pu‘uhonua"
+msgstr "푸우호누아"
+
+msgid "Hiku-kahi"
+msgstr "히키-카니"
+
+msgid "Hiku-lua"
+msgstr "히키-루아"
+
+msgid "Hiku-kolu"
+msgstr "히키-콜루"
+
+msgid "Hiku-ha"
+msgstr "히키-하"
+
+msgid "Hiku-lima"
+msgstr "히키-리마"
+
+msgid "Hiku-ono"
+msgstr "히키-오노"
+
+msgid "Hiku-pau"
+msgstr "히키-파우"
+
+msgid "Kaulia"
+msgstr "카울리아"
+
+msgid "Ka Mole Honua"
+msgstr "카 몰레 호누아"
+
+msgid "Ka-maile-mua"
+msgstr "카-말리에-무아"
+
+msgid "Ka-maile-hope"
+msgstr "카-말리에-호페"
+
+msgid "Ka Maka"
+msgstr "카 마카"
+
+msgid "Kapuahi"
+msgstr "카푸아히"
+
+msgid "Keawe"
+msgstr "케아웨"
+
+msgid "Manokalanipo"
+msgstr "마노칼라니포"
+
+msgid "Pi‘ilani"
+msgstr "필리아니"
+
+msgid "Kakuhihewa"
+msgstr "카쿠히헤와"
+
+msgid "Pi‘ikea"
+msgstr "피이케아"
+
+msgid "Kaikilani"
+msgstr "카이키라니"
+
+msgid "Kukaniloko"
+msgstr "쿠카닐로코"
+
+msgid "Kealohalani-po-keao"
+msgstr "케아로할라니-포-케아오"
+
+msgid "Kamoanalipoli-po-keao"
+msgstr "카모아날리폴리-포-케아오"
+
+msgid "Kaheihiwahiwa-o-keao"
+msgstr "카헤이히와히와-오-케아오"
+
+msgid "Kapalinihinihi-o-keao"
+msgstr "카팔리니히니히-오-케아오"
+
+msgid "Haumea"
+msgstr "하우메아"
+
+msgid "Mirzim"
+msgstr "미르짐"
+
+msgid "‘Ekekeu’ena’ena"
+msgstr "에케케우에나에나"
+
+msgid "‘Ekekeuehuehu"
+msgstr "에케케우에후에후"
+
+msgid "‘Ekekeuhe’ehe’e"
+msgstr "에케케우헤에헤에"
+
+msgid "‘Ekekeukolokolo"
+msgstr "에케케우콜로콜로"
+
+msgid "Bellatrix"
+msgstr "벨라트릭스"
+
+msgid "Alnitak"
+msgstr "알니탁"
+
+msgid "Alnilam"
+msgstr "알닐람"
+
+msgid "Mintaka"
+msgstr "민타카"
+
+msgid "Pua‘i"
+msgstr "푸아이"
+
+msgid "Mili’opu"
+msgstr "밀리오푸"
+
+msgid "Kahe"
+msgstr "카헤"
+
+msgid "Hihiwai"
+msgstr "히히와이"
+
+msgid "Kawelaokapo"
+msgstr "카웰라오카포"
+
+msgid "‘Ohelokulu"
+msgstr "오헤로쿨루"
+
+msgid "‘Ohelokoko"
+msgstr "오헤로코코"
+
+msgid "‘Ohelouli"
+msgstr "오헤로울리"
+
+msgid "‘Oheloawa"
+msgstr "오헤로아와"
+
+msgid "‘Ohelowaha"
+msgstr "오헤로와하"
+
+msgid "Kawilikolokio"
+msgstr "카윌리코로키오"
+
+msgid "Ka‘ielawei‘a"
+msgstr "카이엘라웨이아"
+
+msgid "Kalipo‘eu‘eu"
+msgstr "칼리포에우에우"
+
+msgid "Momonapikowalu"
+msgstr "모모나피코왈루"
+
+msgid "Mokopapa‘i"
+msgstr "모코파파이"
+
+msgid "Wainielela"
+msgstr "와이니엘엘라"
+
+msgid "Makali‘i"
+msgstr ""
