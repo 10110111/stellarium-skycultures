@@ -1,0 +1,1029 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Khalid AlAjaji, 2023\n"
+"Language-Team: Arabic (https://app.transifex.com/stellarium/teams/80998/"
+"ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "الكوري"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Chinese, Korean, and Japanese constellations have the same origin and "
+"look very similar in shape. They are represented respectively in the Dun "
+"Huang starmap from the 8th century, the Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do map "
+"and in the Kitora skymap painted in A.D.7C ~ 8C. Their positions and their "
+"names are similar in the Chinese alphabet. The name of the constellations "
+"first appear in the Records of the Grand Historian(史記) in Han dynasty "
+"describing Xia dynasty in about 2000 B.C."
+msgstr ""
+"ترجع الكوكبات الصينية والكورية واليابانية إلى نفس الأصل ولها أشكال متشابهة "
+"إلى حد كبير. تعرض الكوكبات الصينية الخريطة السماوية لدن هوانج \"Dun Huang\" "
+"من القرن الثامن الميلادي، وتعرض خريطة Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do "
+"الكوكبات الكورية، بينما تعرض الخريطة السماوية لكيتورا \"Kitora\" والتي رسمت "
+"في فترة القرن السابع أو الثامن الميلادي الكوكبات اليابانية. ومواقعها "
+"وأسماؤها متشابهة في الأبجدية الصينية. وكان أول ظهور لأسماء الكوكبات في سجل "
+"المؤرخ العظيم(史記) في سلالة هان \"Han dynasty\" واصفاً سلالة شيا \"Xia "
+"dynasty\" حوالي 2000 سنة قبل الميلاد."
+
+# Sky culture description section in markdown format
+msgid ""
+"### Origin\n"
+"\n"
+"The 272 constellations displayed in this Stellarium sky culture are based on "
+"the Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do, the Korean Constellation map, which "
+"was carved on the stone on 1395 but has its origin from another sky map "
+"which existed about 2,000 years ago. This map represents 1467 stars in about "
+"190 constellations whose shapes are slightly different from the chinese "
+"ones. The interpretation of the map is not easy: the map is so old that only "
+"about 300 stars are found to match with the real stars. All the stars of the "
+"map were drawn on a circle, so the equator seems smaller than the southern "
+"limit. Because the density of constellation does not change with respect to "
+"the position, the position and the size of the constellations were somewhat "
+"altered in a way unknown by the author. It is assumed that there should be "
+"no bright stars which do not belong to any constellations. The work of the "
+"author is subject to interpretation, and could be changed at a later time. "
+"It will however roughly show what the Korean Constellation are like."
+msgstr ""
+"### الأصل\n"
+"\n"
+"تعتمد الكوكبات ال 272 في التراث الفلكي الكوري المعروض في ستيللاريوم على "
+"خريطة Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do للكوكبات الكورية ، والتي نحتت على "
+"الصخر عام 1395 ولكن تأخذ أصلها من خريطة أخرى كانت موجودة قبل ألفي عام. هذه "
+"الخريطة تمثل 1467 نجماً في حوالي 190 كوكبة أشكالها مختلفة قليلاً عن الكوكبات "
+"الصينية.\n"
+"\n"
+" تفسير هذه الخريطة ليس سهلاً: الخريطة قديمة جداً بحيث أمكن مطابقة 300 نجم فقط "
+"مع النجوم الحقيقية. جميع النجوم رسمت على دائرة، بحيث يبدو خط الإستواء أصغر "
+"من الحد الجنوبي. ولأن كثافة الكوكبة لاتتغير بحسب الموقع، فإن موقع وحجم "
+"الكوكبات قد تم تغييره من قبل راسم الخريطة لسبب غير معروف. إن الفرضية هي أنه "
+"يجب أن لايكون هناك نجم لامع لا ينتمي إلى كوكبة. إن عمل راسم الخريطة لا يزال "
+"خاضعاً للتفسيرات وربما تغير هذا التفسير في وقت لاحق. وعلى أي حال فإنها تقرِّب "
+"لنا أشكال الكوكبات الكورية."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+msgstr ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *[Jeong, Tae-Min](http://"
+"user.chollian.net/~jtm71/)*"
+msgstr ""
+"ساهم بهذا التراث الفلكي مستخدم ستيللاريوم *[Jeong, Tae-Min](http://user."
+"chollian.net/~jtm71/)*\n"
+"\n"
+"ترجمة:\n"
+"\n"
+"خالد بن عبدالله العجاجي - الرياض - السعودية"
+
+msgid "Dog"
+msgstr "‎‎كلب‎‎"
+
+msgid "Arrow"
+msgstr "‎‎السهم‎‎"
+
+msgid "Bow"
+msgstr "‎‎القوس‎‎"
+
+msgid "Fish"
+msgstr "‎‎سمكة‎‎"
+
+msgid "Northern Dipper"
+msgstr "‎‎المغرفة الشمالية‎‎"
+
+msgid "Toilet"
+msgstr "‎‎حمّام‎‎"
+
+msgid "Whip"
+msgstr "‎‎جلد‎‎"
+
+msgid "Mausoleum"
+msgstr "‎‎ضريح‎‎"
+
+msgid "Mortar"
+msgstr "‎‎مدفع‎‎"
+
+msgid "Rolled Tongue"
+msgstr "‎‎لسان ملوي"
+
+msgid "Chaff"
+msgstr "‎‎تبن"
+
+msgid "Whetstone"
+msgstr "‎‎حجر الشحذ‎‎"
+
+msgid "Inner Kitchen"
+msgstr "‎‎المطبخ الداخلي‎‎"
+
+msgid "Three Steps"
+msgstr "‎‎ثلاث عتبات‎‎"
+
+msgid "Eunuch"
+msgstr "‎‎المخصي‎‎"
+
+msgid "Crown Prince"
+msgstr "‎‎ولي العهد‎‎"
+
+msgid "Official for Materials Supply"
+msgstr "‎‎مسؤول التموين"
+
+msgid "Outer Kitchen"
+msgstr "‎‎مطبخ خارجي‎‎"
+
+msgid "Five Lords"
+msgstr "‎‎خمسة أسياد‎‎"
+
+msgid "Right Flag"
+msgstr "‎‎علم أيمن‎‎"
+
+msgid "Son"
+msgstr "‎‎ابن‎‎"
+
+msgid "Left Flag"
+msgstr "‎‎علم أيسر‎‎"
+
+msgid "Charioteer"
+msgstr "‎‎سائق العربة‎‎"
+
+msgid "Holy Kettle"
+msgstr "‎‎غلاية مقدسة‎‎"
+
+msgid "Farm of Capital City"
+msgstr "‎‎مزرعة العاصمة‎‎"
+
+msgid "Dignity of King"
+msgstr "‎‎جلال ملك‎‎"
+
+msgid "Nomination"
+msgstr "‎‎ترشيح‎‎"
+
+msgid "Gate of Sky"
+msgstr "‎‎بوابة سماء‎‎"
+
+msgid "Equality"
+msgstr "‎‎مساواة‎‎"
+
+msgid "Helper"
+msgstr "‎‎مُساعد‎‎"
+
+msgid "Position of Holy King"
+msgstr "‎‎موقع ملك مقدس‎‎"
+
+msgid "Neck of Dragon"
+msgstr "‎‎عُنق تنين‎‎"
+
+msgid "Beheading"
+msgstr "‎‎قطع رأس‎‎"
+
+msgid "Judge"
+msgstr "‎‎قاضي‎‎"
+
+msgid "Flutting Flag"
+msgstr "‎‎علم الأخدود‎‎"
+
+msgid "Javelin of Sky"
+msgstr "‎‎رمح السماء‎‎"
+
+msgid "Seat for Longevity"
+msgstr "‎‎مقعد المعمرين‎‎"
+
+msgid "Oar for visitor"
+msgstr "‎‎مجداف للزائر‎‎"
+
+msgid "Milk of Sky"
+msgstr "‎‎حليب سماء‎‎"
+
+msgid "House of Queen"
+msgstr "‎‎بيت ملكة‎‎"
+
+msgid "Ancient Chariot"
+msgstr "‎‎العربة القديمة‎‎"
+
+msgid "Carriage for King"
+msgstr "‎‎مركبة للملك‎‎"
+
+msgid "General of Cavalry"
+msgstr "‎‎لواء الفرسان‎‎"
+
+msgid "Cavalry of Emperor"
+msgstr "‎‎فرسان الإمبراطور‎‎"
+
+msgid "General of Mobile Troops"
+msgstr "‎‎لواء القوات المتحركة‎‎"
+
+msgid "East Road"
+msgstr "‎‎طريق الشرق‎‎"
+
+msgid "Gate Bolt"
+msgstr "‎‎مزلاج البوابة‎‎"
+
+msgid "Door Lock and Key"
+msgstr "‎‎قفل باب و مفتاح‎‎"
+
+msgid "Penalty"
+msgstr "‎‎عقوبة‎‎"
+
+msgid "Royal Hall"
+msgstr "‎‎قاعة ملكية‎‎"
+
+msgid "Chamberlain"
+msgstr "‎‎حاجب ملك‎‎"
+
+msgid "Sun"
+msgstr "‎الشمس‎"
+
+msgid "West Road"
+msgstr "‎‎طريق الغرب‎‎"
+
+msgid "Seat of Emperor"
+msgstr "‎‎مقعد إمبراطور‎‎"
+
+msgid "Five Troops"
+msgstr "‎‎قوات خمسة‎‎"
+
+msgid "River of Sky"
+msgstr "‎‎نهر سماء‎‎"
+
+msgid "Prayer for Progeny"
+msgstr "‎‎دعاء للذرية‎‎"
+
+msgid "Forcast"
+msgstr "‎‎توقع‎‎"
+
+msgid "Yard for Empresses"
+msgstr "‎‎ساحة للإمبراطورة‎‎"
+
+msgid "Holy Palace"
+msgstr "‎‎مكان مقدس‎‎"
+
+msgid "Winnow"
+msgstr "‎‎مذراة‎‎"
+
+msgid "Outer Pestle"
+msgstr "‎‎يد الهاون الخارجية‎‎"
+
+msgid "Head of Town"
+msgstr "‎‎رئيس البلدة‎‎"
+
+msgid "Build"
+msgstr "‎‎بنية‎‎"
+
+msgid "Fowl of Sky"
+msgstr "‎‎طير السماء‎‎"
+
+msgid "Shrine of Sky"
+msgstr "‎‎مزار السماء‎‎"
+
+msgid "Northeastern Nations"
+msgstr "‎‎بلاد الشمال الشرقي‎‎"
+
+msgid "Old Farmer"
+msgstr "‎‎مزارع كهل‎‎"
+
+msgid "Snapping Turtle"
+msgstr "‎‎سلحفاة قاضمة‎‎"
+
+msgid "Road for Emperor"
+msgstr "‎‎طريق امبراطور‎‎"
+
+msgid "The Weaver"
+msgstr "‎‎الحائك‎‎"
+
+msgid "River adjoining Tower"
+msgstr "‎‎برج بجوار النهر‎‎"
+
+msgid "Drum of River"
+msgstr "‎‎طبلة نهر‎‎"
+
+msgid "Drumstick of Sky"
+msgstr "‎‎عصا طبلة السماء‎‎"
+
+msgid "Cow leading Man"
+msgstr "‎‎بقرة تقود رجل‎‎"
+
+msgid "Bank Spread"
+msgstr "‎‎انتشار الضفة‎‎"
+
+msgid "Basket for Silkworm"
+msgstr "‎‎سلة لدودة القز‎‎"
+
+msgid "Officer for Cart"
+msgstr "‎‎مسؤول للعربة‎‎"
+
+msgid "Ferry of Sky"
+msgstr "‎‎عبارة السماء‎‎"
+
+msgid "Fruit"
+msgstr "‎‎فاكهة‎‎"
+
+msgid "Seed"
+msgstr "‎‎بذرة‎‎"
+
+msgid "Storage for Lady"
+msgstr "‎‎مخزن سيدة‎‎"
+
+msgid "Court Lady"
+msgstr "‎‎سيدة محكمة‎‎"
+
+msgid "Judge Fault"
+msgstr "‎‎غلطة قاضي‎‎"
+
+msgid "Amend Fault"
+msgstr "‎‎إصلاح خطأ‎‎"
+
+msgid "Grant Life"
+msgstr "‎‎منح حياة‎‎"
+
+msgid "Punish"
+msgstr "‎‎عقاب‎‎"
+
+msgid "Empty House"
+msgstr "‎‎منزل خال‎‎"
+
+msgid "Weep"
+msgstr "‎‎بكاء‎‎"
+
+msgid "Sob"
+msgstr "‎‎نشيج‎‎"
+
+msgid "Castle with Rampart"
+msgstr "‎‎قلعة بمتراس‎‎"
+
+msgid "Hook for Dress"
+msgstr "‎‎معلاق لرداء‎‎"
+
+msgid "Groom"
+msgstr "‎‎سائس‎‎"
+
+msgid "Human"
+msgstr "‎‎إنسان‎‎"
+
+msgid "Inner Pestle"
+msgstr "‎‎يد الهاون الداخلية‎‎"
+
+msgid "Warehouse of Sky"
+msgstr "‎‎مستودع السماء‎‎"
+
+msgid "Tomb"
+msgstr "‎‎ضريح‎‎"
+
+msgid "Cover of House"
+msgstr "‎‎غطاء منزل‎‎"
+
+msgid "Broken Mortar"
+msgstr "‎‎مدفع معطوب‎‎"
+
+msgid "Climbing Serpent"
+msgstr "‎‎حية متسلقة‎‎"
+
+msgid "Palace of Emperor"
+msgstr "‎‎قصر الأمبراطور‎‎"
+
+msgid "Detached Palace"
+msgstr "‎‎قصر منفصل‎‎"
+
+msgid "Lightening"
+msgstr "‎‎برق‎‎"
+
+msgid "Rampart"
+msgstr "‎‎متراس‎‎"
+
+msgid "Troops of Sky"
+msgstr "‎‎قوات السماء‎‎"
+
+msgid "Village for Patrol"
+msgstr "‎‎قرية للخفر‎‎"
+
+msgid "Net of Sky"
+msgstr "‎‎شبكة السماء‎‎"
+
+msgid "Stable of Sky"
+msgstr "‎‎اسطبل السماء‎‎"
+
+msgid "Eastern Wall"
+msgstr "‎‎السور الشرقي‎‎"
+
+msgid "Civil Engineer"
+msgstr "‎‎مهندس إنشائي‎‎"
+
+msgid "Thunderbolts"
+msgstr "‎‎صاعقة‎‎"
+
+msgid "Clouds and Rain"
+msgstr "‎‎سحب ومطر‎‎"
+
+msgid "Highway"
+msgstr "‎‎طريق عام‎‎"
+
+msgid "Officer for Chariot of"
+msgstr "‎‎مسؤول عربة‎‎"
+
+msgid "Side Road"
+msgstr "‎‎طريق جانبي‎‎"
+
+msgid "Armory"
+msgstr "‎‎ترسانة‎‎"
+
+msgid "Southern Gate of Emperator"
+msgstr "‎‎بوابة الإمبراطور الجنوبية‎‎"
+
+msgid "Outer Folding Screen"
+msgstr "‎‎ستارة خارجية تنطوي‎‎"
+
+msgid "Toilet of Sky"
+msgstr "‎‎دورة مياه‎‎"
+
+msgid "Architect"
+msgstr "‎‎معماري‎‎"
+
+msgid "Emperator"
+msgstr "‎‎إمبراطور‎‎"
+
+msgid "Watchtower"
+msgstr "‎‎برج المراقبة‎‎"
+
+msgid "Left Elm"
+msgstr "‎‎شجرة الدردار اليسرى‎‎"
+
+msgid "Right Elm"
+msgstr "‎‎شجرة الدردار اليمنى‎‎"
+
+msgid "Storehouse of Sky"
+msgstr "‎‎مخزن السماء‎‎"
+
+msgid "Stack of Cereals"
+msgstr "‎‎كومة الحبوب‎‎"
+
+msgid "Ship of Sky"
+msgstr "‎‎سفينة السماء‎‎"
+
+msgid "Store of Water"
+msgstr "‎‎مخزن الماء‎‎"
+
+msgid "Heap of Corpse"
+msgstr "‎‎جثث مكدسة‎‎"
+
+msgid "Stomach of Tiger"
+msgstr "‎‎معدة النمر‎‎"
+
+msgid "Store of Millet for"
+msgstr "‎‎دكان الدخن‎‎"
+
+msgid "Storehouse for Cereals"
+msgstr "‎‎مخزن الحبوب‎‎"
+
+msgid "Shaman of Sky"
+msgstr "‎‎كاهن السماء‎‎"
+
+msgid "Ear and Eye of"
+msgstr "‎‎أذن وعين‎‎"
+
+msgid "Moon"
+msgstr "‎‎‎‎القمر‎‎"
+
+msgid "Hill of Sky"
+msgstr "‎‎رابية السماء‎‎"
+
+msgid "Conspiracy of Sky"
+msgstr "‎‎مؤامرة السماء‎‎"
+
+msgid "Fodder"
+msgstr "‎‎علف‎‎"
+
+msgid "Garage for Chariot"
+msgstr "‎‎مرآب للعربة‎‎"
+
+msgid "Pond for Fish"
+msgstr "‎‎بركة السمك‎‎"
+
+msgid "Pillar"
+msgstr "‎‎عمود‎‎"
+
+msgid "Puddle of Sky"
+msgstr "‎‎منقع السماء‎‎"
+
+msgid "Kings"
+msgstr "‎‎ملوك‎‎"
+
+msgid "Gateway of Sky"
+msgstr "‎‎بوابة السماء‎‎"
+
+msgid "Flage of Saam"
+msgstr "‎‎علم سام‎‎"
+
+msgid "Village of Sky"
+msgstr "‎‎قرية السماء‎‎"
+
+msgid "Belvedere of Sky"
+msgstr "‎‎مبنى السماء ذو الإطلالة‎‎"
+
+msgid "General of Border"
+msgstr "‎‎لواء الحدود‎‎"
+
+msgid "Celebration of Sky"
+msgstr "‎‎احتفال السماء‎‎"
+
+msgid "Flag of Emperor"
+msgstr "‎‎علم الأمبراطور‎‎"
+
+msgid "Nine Territory"
+msgstr "‎‎تسع مقاطعات‎‎"
+
+msgid "Garden of Sky"
+msgstr "‎‎حديقة السماء‎‎"
+
+msgid "Settled Flag"
+msgstr "‎‎علم ساكن‎‎"
+
+msgid "Forcast Calamity"
+msgstr "‎‎توقع مصيبة‎‎"
+
+msgid "Scout of Three Troups"
+msgstr "‎‎كشافة من ثلاثة مقاتلين‎‎"
+
+msgid "Saam"
+msgstr "‎‎سام‎‎"
+
+msgid "Expeditionary Force"
+msgstr "‎‎قوة تدخل سريع‎‎"
+
+msgid "Well for Millitary"
+msgstr "‎‎بئر الجيش‎‎"
+
+msgid "Well of Jade"
+msgstr "‎‎بئر اليشم‎‎"
+
+msgid "Folding Screen"
+msgstr "‎‎ستارة تنطوي‎‎"
+
+msgid "Piled Brushwood"
+msgstr "‎‎عيدان مكدسة‎‎"
+
+msgid "Northern River"
+msgstr "‎‎النهر الشمالي‎‎"
+
+msgid "Wine Glass of Sky"
+msgstr "‎‎كأس النبيذ‎‎"
+
+msgid "Eastern Well"
+msgstr "‎‎البئر الشرقية‎‎"
+
+msgid "Flood control"
+msgstr "‎‎التحكم بالفيضان‎‎"
+
+msgid "Balance of Water"
+msgstr "‎‎ميزان الماء‎‎"
+
+msgid "Four Spirit of River"
+msgstr "‎‎أرواح النهر الأربعة‎‎"
+
+msgid "Southern River"
+msgstr "‎‎النهر الجنوبي‎‎"
+
+msgid "Twin Gate"
+msgstr "‎‎البوابة التوأم‎‎"
+
+msgid "Star of Wolf"
+msgstr "‎‎نجمة الذئب‎‎"
+
+msgid "Wild Fowls"
+msgstr "‎‎طيور برية‎‎"
+
+msgid "Market for Army"
+msgstr "‎‎سوق للجيش‎‎"
+
+msgid "Grandchildren"
+msgstr "‎‎أحفاد‎‎"
+
+msgid "Grown-up"
+msgstr "‎‎كبار‎‎"
+
+msgid "Oldman"
+msgstr "‎‎رجل مسن‎‎"
+
+msgid "Beacon"
+msgstr "‎‎منار‎‎"
+
+msgid "Eye of Sky"
+msgstr "‎‎عين السماء‎‎"
+
+msgid "Pile of Dead"
+msgstr "‎‎كوم الموتى‎‎"
+
+msgid "Green Ridge"
+msgstr "‎‎قمة خضراء‎‎"
+
+msgid "Dog of Sky"
+msgstr "‎‎كلب السماء‎‎"
+
+msgid "Spirit of GuRyoung"
+msgstr "‎‎روح جوريونج‎‎"
+
+msgid "Flag of Wine Officer"
+msgstr "‎‎علم مسؤول النبيذ‎‎"
+
+msgid "Officer of Kitchen"
+msgstr "‎‎مسؤول المطبخ‎‎"
+
+msgid "Equality and Fair"
+msgstr "‎‎العدل والمساواة‎‎"
+
+msgid "Emperor HeonWon"
+msgstr "‎‎الإمبراطور هيونون‎‎"
+
+msgid "Capital of Sky"
+msgstr "‎‎عاصمة السماء‎‎"
+
+msgid "Chief of Farming"
+msgstr "‎‎رئيس الزراعة‎‎"
+
+msgid "Officer of Tomb"
+msgstr "‎‎مسؤول الضريح‎‎"
+
+msgid "Tomb of Sky"
+msgstr "‎‎ضريح السماء‎‎"
+
+msgid "Wing of Red Bird"
+msgstr "‎‎جناح الطير الأحمر‎‎"
+
+msgid "Eastern Pottery"
+msgstr "‎‎مصنع الفخار الشرقي‎‎"
+
+msgid "Chariot of Emperor"
+msgstr "‎‎عربة الإمبراطور‎‎"
+
+msgid "Sand for Life"
+msgstr "‎‎رمل للحياة‎‎"
+
+msgid "Gateway for Troops"
+msgstr "‎‎بوابة للجيوش‎‎"
+
+msgid "Guardian Knight"
+msgstr "‎‎فارس الحراسة‎‎"
+
+msgid "Five Feudal Lords"
+msgstr "‎‎خمسة أسياد إقطاعيين‎‎"
+
+msgid "SangJiin"
+msgstr "‎‎سانغ جين‎‎"
+
+msgid "Low Fence"
+msgstr "‎‎السياج المنخفض‎‎"
+
+msgid "Tall Fence"
+msgstr "‎‎السياج المرتفع‎‎"
+
+msgid "Nine Lords"
+msgstr "‎‎تسعة أسياد‎‎"
+
+msgid "Dung of Tiger"
+msgstr "‎‎روث النمر‎‎"
+
+msgid "Five Emperor"
+msgstr "‎‎خمسة أباطرة‎‎"
+
+msgid "Three Minister"
+msgstr "‎‎ثلاثة وزراء‎‎"
+
+msgid "Officer for Audience"
+msgstr "‎‎ضابط الحضور‎‎"
+
+msgid "Grave Front"
+msgstr "‎‎مقدمة القبر‎‎"
+
+msgid "Observatory"
+msgstr "‎‎المرصد‎‎"
+
+msgid "Female Officer"
+msgstr "‎‎شرطية‎‎"
+
+msgid "Wide Lodging Area"
+msgstr "‎‎مساحة إيواء واسعة‎‎"
+
+msgid "Eight Cereals"
+msgstr "‎‎ثمانية حبوب‎‎"
+
+msgid "Advance Guard"
+msgstr "‎‎طليعة الحرس‎‎"
+
+msgid "Three Ministers"
+msgstr "‎‎ثلاثة وزراء‎‎"
+
+msgid "Virtue"
+msgstr "‎‎فضيلة‎‎"
+
+msgid "Emperor's God of War"
+msgstr "‎‎امبراطور إله الحرب‎‎"
+
+msgid "Emperor's God of Weather"
+msgstr "‎‎امبراطور إله الطقس‎‎"
+
+msgid "Flap of Flag"
+msgstr "‎‎رفرفة العلم‎‎"
+
+msgid "Minister"
+msgstr "‎‎وزير‎‎"
+
+msgid "General and Minister"
+msgstr "‎‎لواء ووزير‎‎"
+
+msgid "Jail of Sky"
+msgstr "‎‎سجن السماء‎‎"
+
+msgid "Six Department"
+msgstr "‎‎ستة أقسام‎‎"
+
+msgid "Inner Stairway"
+msgstr "‎‎الدرج الداخلي‎‎"
+
+msgid "Spear of Sky"
+msgstr "‎‎رمح السماء‎‎"
+
+msgid "Cover for Emperor"
+msgstr "‎‎غطاء للإمبراطور‎‎"
+
+msgid "Place for Five Emperor"
+msgstr "‎‎مكان لخمسة أباطرة‎‎"
+
+msgid "60 Years"
+msgstr "‎‎ستون سنة‎‎"
+
+msgid "Kitchen of Sky"
+msgstr "‎‎مطبخ السماء‎‎"
+
+msgid "North Pole"
+msgstr "القطب الشمالي"
+
+msgid "Wound Lodge"
+msgstr "‎‎مأوى الجرحى‎‎"
+
+msgid "Single-log Bridge"
+msgstr "‎‎جسر من خشبة واحدة‎‎"
+
+msgid "Great Emperor"
+msgstr "‎‎إمبراطور عظيم‎‎"
+
+msgid "Officer for Opinion"
+msgstr "‎‎مسؤول الآراء‎‎"
+
+msgid "Pillar of Sky"
+msgstr "‎‎عمود السماء‎‎"
+
+msgid "Secretary"
+msgstr "‎‎أمين السر‎‎"
+
+msgid "Maid"
+msgstr "‎‎الخادمة‎‎"
+
+msgid "Desk of Woman"
+msgstr "‎‎مكتب مرأة‎‎"
+
+msgid "Judge Prison"
+msgstr "‎‎سجن القاضي‎‎"
+
+msgid "Purple Fence"
+msgstr "‎‎سياج أرجواني‎‎"
+
+msgid "Order of Sky"
+msgstr "‎‎نظام السماء‎‎"
+
+msgid "Seven Minister"
+msgstr "‎‎سبعة وزراء‎‎"
+
+msgid "Thread Straw"
+msgstr "‎‎قشة الخيط‎‎"
+
+msgid "Market Fence"
+msgstr "‎‎سياج السوق‎‎"
+
+msgid "Feudal Lord"
+msgstr "‎‎سيد إقطاعي‎‎"
+
+msgid "Seat for Emperor"
+msgstr "‎‎مقعد للإمبراطور‎‎"
+
+msgid "Royal Family"
+msgstr "‎‎عائلة ملكية‎‎"
+
+msgid "Head of Family"
+msgstr "‎‎رئيس العائلة‎‎"
+
+msgid "Record of Family"
+msgstr "‎‎سجل العائلة‎‎"
+
+msgid "Officer for Family"
+msgstr "‎‎مسؤول للعائلة‎‎"
+
+msgid "Tower in Market"
+msgstr "‎‎برج في السوق‎‎"
+
+msgid "Measure Cereal"
+msgstr "‎‎مكيال الحبوب‎‎"
+
+msgid "Cereal Measure Regulation"
+msgstr "‎‎تنظيم مكاييل الحبوب‎‎"
+
+msgid "Officer for Chariots"
+msgstr "‎‎مسؤول العربات‎‎"
+
+msgid "Measure Amount"
+msgstr "‎‎مقدار الكيل‎‎"
+
+msgid "Butchery"
+msgstr "‎‎محل جزار‎‎"
+
+msgid "Officer for Jewel"
+msgstr "‎‎مسؤول الجوهرة‎‎"
+
+msgid "Royal"
+msgstr "‎‎ملكي‎‎"
+
+msgid "Lord"
+msgstr "‎‎سيد‎‎"
+
+msgid "Left Executor"
+msgstr "‎‎منفذ الإعدام الأيسر‎‎"
+
+msgid "Right Executor"
+msgstr "‎‎منفذ الإعدام الأيمن‎‎"
+
+msgid "Crossbeam for Heo"
+msgstr "‎‎مرباع متقاطع للبطل‎‎"
+
+msgid "Threading Coins"
+msgstr "‎‎عملة خياطة‎‎"
+
+msgid "SangSang"
+msgstr "‎سانغسانغ‎"
+
+msgid "ChaSang"
+msgstr "‎تشاسانغ‎"
+
+msgid "ChaJang"
+msgstr "‎تشاجانغ‎"
+
+msgid "UJangGun"
+msgstr "‎أوجانغغن‎"
+
+msgid "DaeJangGun"
+msgstr "‎دايجانغغن‎"
+
+msgid "JwaJangGun"
+msgstr "‎جواجانغغن‎"
+
+msgid "WangRang"
+msgstr "‎وانغرانغ‎"
+
+msgid "CheonSa"
+msgstr "‎تشيونسا‎"
+
+msgid "CheonGou"
+msgstr "‎‎تشيونجو ‎‎‎"
+
+msgid "SaGong"
+msgstr "‎ساجونغ‎"
+
+msgid "CheonOk"
+msgstr "‎تشيونوكي‎"
+
+msgid "CheonChang"
+msgstr "‎تشيونغتشانغ‎"
+
+msgid "Gyeong"
+msgstr "‎‎جايونج ‎‎‎"
+
+msgid "HuJangGun"
+msgstr "‎هوجانغغن‎"
+
+msgid "PyeonJangGun"
+msgstr "‎باييونجانغغن‎"
+
+msgid "SamJangGun"
+msgstr "‎سامجانغغن‎"
+
+msgid "TaeSa"
+msgstr "‎تايسا‎"
+
+msgid "BakSa"
+msgstr "‎باكسا‎"
+
+msgid "SamGong"
+msgstr "‎سامجونغ‎"
+
+msgid "JaeUu"
+msgstr "‎‎جاي أو ‎‎‎"
+
+msgid "JaeSa"
+msgstr "‎جايسا‎"
+
+msgid "YeoJu"
+msgstr "‎ييوجو‎"
+
+msgid "YeoEo"
+msgstr "‎‎يو إيو ‎‎‎"
+
+msgid "TaeMin"
+msgstr "‎‎تاي من ‎‎‎"
+
+msgid "SouMin"
+msgstr "‎‎سو من ‎‎‎"
+
+msgid "Buin"
+msgstr "‎بوين‎"
+
+msgid "WangBi"
+msgstr "‎وانغبي‎"
+
+msgid "HuGung"
+msgstr "‎هونغجنغ‎"
+
+msgid "HwangJae"
+msgstr "‎‎هوانج جاي ‎‎‎"
+
+msgid "CheoSa"
+msgstr "‎تشيوسا‎"
+
+msgid "EuiSa"
+msgstr "‎يويسا‎"
+
+msgid "DaeBu"
+msgstr "‎دايبو‎"
+
+msgid "SangTae"
+msgstr "‎سونغتاي‎"
+
+msgid "JungTae"
+msgstr "‎جونغتاي‎"
+
+msgid "HaTae"
+msgstr "‎هاتاي‎"
+
+msgid "TaeJa"
+msgstr "‎تايجا‎"
+
+msgid "JaeWang"
+msgstr "‎جايوانغ‎"
+
+msgid "SeoJa"
+msgstr "‎سيوجا‎"
+
+msgid "CheonChu"
+msgstr "‎تشيونتشو‎"
+
+msgid "SangJang"
+msgstr "‎سانغ جانغ‎"
+
+msgid "TaeSang"
+msgstr "‎تاي سانغ‎"
+
+msgid "SaJu.DaeRi"
+msgstr "‎ساجو دا إيري‎"
+
+msgid "Jeong"
+msgstr "‎‎جيونج ‎‎‎"
+
+msgid "Beop"
+msgstr "‎‎بيوب ‎‎‎"
+
+msgid "Ryeong"
+msgstr "‎‎رايونج ‎‎‎"
+
+msgid "Beol"
+msgstr "‎‎بيول ‎‎‎"
+
+msgid "Sal"
+msgstr "‎سال‎"
+
+msgid "Wi"
+msgstr "‎وي‎"
+
+msgid "Eung"
+msgstr "‎‎إيونج ‎‎‎"
+
+msgid "MyeongDang"
+msgstr "‎مايونج دانغ‎"
+
+msgid "Hu"
+msgstr "‎هو‎"
+
+msgid "Bin"
+msgstr "‎بن‎"
+
+msgid "DaeJang"
+msgstr "‎داي جانغ‎"

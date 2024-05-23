@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2022-09-30 13:16+0700\n"
+"PO-Revision-Date: 2017-11-29 01:17+0000\n"
+"Last-Translator: hoe noue <ydpfyvhpc6qw@opayq.com>, 2022\n"
+"Language-Team: Afrikaans (https://www.transifex.com/stellarium/teams/80998/"
+"af/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: af\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "Hond"
+
+msgid "Arrow"
+msgstr "Pyl"
+
+msgid "Bow"
+msgstr "Boog"
+
+msgid "Fish"
+msgstr "Vis"
+
+msgid "Northern Dipper"
+msgstr "Noordelike Steelpan"
+
+msgid "Toilet"
+msgstr "Toilet"
+
+msgid "Whip"
+msgstr "Sweep"
+
+msgid "Mausoleum"
+msgstr "Mausoleum"
+
+msgid "Mortar"
+msgstr "Mortier"
+
+msgid "Rolled Tongue"
+msgstr "Gerolde Tong"
+
+msgid "Chaff"
+msgstr "Kaf"
+
+msgid "Whetstone"
+msgstr "Slypsteen"
+
+msgid "Inner Kitchen"
+msgstr "Binneste Kombuis"
+
+msgid "Three Steps"
+msgstr "Drie Stappe"
+
+msgid "Eunuch"
+msgstr ""
+
+msgid "Crown Prince"
+msgstr "93 Leonis"
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr "Buitenste Kombuis"
+
+msgid "Five Lords"
+msgstr "Vyf Meesters"
+
+msgid "Right Flag"
+msgstr "Regter Vlag"
+
+msgid "Son"
+msgstr "Seun"
+
+msgid "Left Flag"
+msgstr "Linker Vlag"
+
+msgid "Charioteer"
+msgstr ""
+
+msgid "Holy Kettle"
+msgstr "Heilige Ketel"
+
+msgid "Farm of Capital City"
+msgstr "Plaas van die Hoofstad"
+
+msgid "Dignity of King"
+msgstr ""
+
+msgid "Nomination"
+msgstr "Nominasie"
+
+msgid "Gate of Sky"
+msgstr "Hemel se Hek"
+
+msgid "Equality"
+msgstr "Gelykheid"
+
+msgid "Helper"
+msgstr "Helper"
+
+msgid "Position of Holy King"
+msgstr "Plek van die Heilige Koning"
+
+msgid "Neck of Dragon"
+msgstr "Nek van die Draak"
+
+msgid "Beheading"
+msgstr "Onthoofding"
+
+msgid "Judge"
+msgstr "Regter"
+
+msgid "Flutting Flag"
+msgstr "Waaiende Vlag"
+
+msgid "Javelin of Sky"
+msgstr ""
+
+msgid "Seat for Longevity"
+msgstr ""
+
+msgid "Oar for visitor"
+msgstr "Spaan vir Besoeker"
+
+msgid "Milk of Sky"
+msgstr "Melk van die Hemel"
+
+msgid "House of Queen"
+msgstr "Huis van die Koningin"
+
+msgid "Ancient Chariot"
+msgstr "Antieke Strydwa"
+
+msgid "Carriage for King"
+msgstr "Koets van die Koning"
+
+msgid "General of Cavalry"
+msgstr ""
+
+msgid "Cavalry of Emperor"
+msgstr ""
+
+msgid "General of Mobile Troops"
+msgstr ""
+
+msgid "East Road"
+msgstr "Oospad"
+
+msgid "Gate Bolt"
+msgstr ""
+
+msgid "Door Lock and Key"
+msgstr "Deur Slot en Sleutel"
+
+msgid "Penalty"
+msgstr "Boete"
+
+msgid "Royal Hall"
+msgstr ""
+
+msgid "Chamberlain"
+msgstr ""
+
+msgid "Sun"
+msgstr "Son"
+
+msgid "West Road"
+msgstr "Wespad"
+
+msgid "Seat of Emperor"
+msgstr "Stoel van die Keiser"
+
+msgid "Five Troops"
+msgstr "Vyf Troepe"
+
+msgid "River of Sky"
+msgstr "Rivier van die Lug"
+
+msgid "Prayer for Progeny"
+msgstr ""
+
+msgid "Forcast"
+msgstr "Voorspelling"
+
+msgid "Yard for Empresses"
+msgstr ""
+
+msgid "Holy Palace"
+msgstr "Heilige Paleis"
+
+msgid "Winnow"
+msgstr ""
+
+msgid "Outer Pestle"
+msgstr ""
+
+msgid "Head of Town"
+msgstr "Stadsklerk"
+
+msgid "Build"
+msgstr "Bou"
+
+msgid "Fowl of Sky"
+msgstr ""
+
+msgid "Shrine of Sky"
+msgstr ""
+
+msgid "Northeastern Nations"
+msgstr "Noordoostelike Nasies"
+
+msgid "Old Farmer"
+msgstr "Ou Boer"
+
+msgid "Snapping Turtle"
+msgstr ""
+
+msgid "Road for Emperor"
+msgstr ""
+
+msgid "The Weaver"
+msgstr "Die Wewer"
+
+msgid "River adjoining Tower"
+msgstr "Rivier lang Toring"
+
+msgid "Drum of River"
+msgstr "Drom van die Rivier"
+
+msgid "Drumstick of Sky"
+msgstr "Dromstokkie van die Hemel"
+
+msgid "Cow leading Man"
+msgstr "Koei lei Man"
+
+msgid "Bank Spread"
+msgstr ""
+
+msgid "Basket for Silkworm"
+msgstr "Mandjie vir Sywurm"
+
+msgid "Officer for Cart"
+msgstr ""
+
+msgid "Ferry of Sky"
+msgstr ""
+
+msgid "Fruit"
+msgstr "Vrug"
+
+msgid "Seed"
+msgstr "Saad"
+
+msgid "Storage for Lady"
+msgstr "Stoorplek vir Dame"
+
+msgid "Court Lady"
+msgstr "Hofdame"
+
+msgid "Judge Fault"
+msgstr ""
+
+msgid "Amend Fault"
+msgstr ""
+
+msgid "Grant Life"
+msgstr ""
+
+msgid "Punish"
+msgstr "Vonnis"
+
+msgid "Empty House"
+msgstr "Leë Huis"
+
+msgid "Weep"
+msgstr "Ween"
+
+msgid "Sob"
+msgstr "Huil"
+
+msgid "Castle with Rampart"
+msgstr ""
+
+msgid "Hook for Dress"
+msgstr "Rok se Hak"
+
+msgid "Groom"
+msgstr "Bruidegom"
+
+msgid "Human"
+msgstr "Menslik"
+
+msgid "Inner Pestle"
+msgstr ""
+
+msgid "Warehouse of Sky"
+msgstr ""
+
+msgid "Tomb"
+msgstr "Baar"
+
+msgid "Cover of House"
+msgstr ""
+
+msgid "Broken Mortar"
+msgstr ""
+
+msgid "Climbing Serpent"
+msgstr ""
+
+msgid "Palace of Emperor"
+msgstr ""
+
+msgid "Detached Palace"
+msgstr ""
+
+msgid "Lightening"
+msgstr "Weerlig"
+
+msgid "Rampart"
+msgstr ""
+
+msgid "Troops of Sky"
+msgstr ""
+
+msgid "Village for Patrol"
+msgstr ""
+
+msgid "Net of Sky"
+msgstr ""
+
+msgid "Stable of Sky"
+msgstr ""
+
+msgid "Eastern Wall"
+msgstr "Oostelike Muur"
+
+msgid "Civil Engineer"
+msgstr "Siviele Ingenieur"
+
+msgid "Thunderbolts"
+msgstr ""
+
+msgid "Clouds and Rain"
+msgstr ""
+
+msgid "Highway"
+msgstr "Hoofweg"
+
+msgid "Officer for Chariot of"
+msgstr "Offisier vir die Strydwa van"
+
+msgid "Side Road"
+msgstr "Sypad"
+
+msgid "Armory"
+msgstr "Wapenstoor"
+
+msgid "Southern Gate of Emperator"
+msgstr "Suidelike Hek van die Keiser"
+
+msgid "Outer Folding Screen"
+msgstr "Buitenste Vouskerm"
+
+msgid "Toilet of Sky"
+msgstr "Toilet van Lug"
+
+msgid "Architect"
+msgstr "Argitek"
+
+msgid "Emperator"
+msgstr "Keiser"
+
+msgid "Watchtower"
+msgstr "Wagtoring"
+
+msgid "Left Elm"
+msgstr "Linker Olm"
+
+msgid "Right Elm"
+msgstr "Regter Olm"
+
+msgid "Storehouse of Sky"
+msgstr "Hemel se Pakhuis"
+
+msgid "Stack of Cereals"
+msgstr "Graan Stapel"
+
+msgid "Ship of Sky"
+msgstr "Hemel Skip"
+
+msgid "Store of Water"
+msgstr "Waterstoor"
+
+msgid "Heap of Corpse"
+msgstr "Hoop van Lyke"
+
+msgid "Stomach of Tiger"
+msgstr "Tier se Maag"
+
+msgid "Store of Millet for"
+msgstr "Stoor van Giers vir"
+
+msgid "Storehouse for Cereals"
+msgstr "Pakhuis vir Graan"
+
+msgid "Shaman of Sky"
+msgstr "Hemelse Sjaman"
+
+msgid "Ear and Eye of"
+msgstr "Oor en Oog van"
+
+msgid "Moon"
+msgstr "Maan"
+
+msgid "Hill of Sky"
+msgstr "Hemelse Berg"
+
+msgid "Conspiracy of Sky"
+msgstr "Hemelse Sameswering"
+
+msgid "Fodder"
+msgstr "Voer"
+
+msgid "Garage for Chariot"
+msgstr "Huis vir Koets"
+
+msgid "Pond for Fish"
+msgstr "Poel vir Vis"
+
+msgid "Pillar"
+msgstr "Pilaar"
+
+msgid "Puddle of Sky"
+msgstr "Hemelse Plas"
+
+msgid "Kings"
+msgstr "Konings"
+
+msgid "Gateway of Sky"
+msgstr "Hemelse Hek"
+
+msgid "Flage of Saam"
+msgstr ""
+
+msgid "Village of Sky"
+msgstr "Hemelse Dorp"
+
+msgid "Belvedere of Sky"
+msgstr ""
+
+msgid "General of Border"
+msgstr "Grens se Generaal"
+
+msgid "Celebration of Sky"
+msgstr ""
+
+msgid "Flag of Emperor"
+msgstr "Keiser se Vlag"
+
+msgid "Nine Territory"
+msgstr "Nege Gebied"
+
+msgid "Garden of Sky"
+msgstr "Hemel se Tuin"
+
+msgid "Settled Flag"
+msgstr "Gevestigde Vlag"
+
+msgid "Forcast Calamity"
+msgstr ""
+
+msgid "Scout of Three Troups"
+msgstr ""
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr ""
+
+msgid "Well for Millitary"
+msgstr "Weermag se Put"
+
+msgid "Well of Jade"
+msgstr "Put van Niersteen"
+
+msgid "Folding Screen"
+msgstr "Vou Skerm"
+
+msgid "Piled Brushwood"
+msgstr "Opgehoopde Kreupelhout"
+
+msgid "Northern River"
+msgstr "Noordelike Rivier"
+
+msgid "Wine Glass of Sky"
+msgstr "Hemel se Wynglas"
+
+msgid "Eastern Well"
+msgstr "Oostelike Put"
+
+msgid "Flood control"
+msgstr "Vloedbeheer"
+
+msgid "Balance of Water"
+msgstr "Balans van Water"
+
+msgid "Four Spirit of River"
+msgstr ""
+
+msgid "Southern River"
+msgstr "Suidelike Rivier"
+
+msgid "Twin Gate"
+msgstr "Tweeling Hek"
+
+msgid "Star of Wolf"
+msgstr "Wolf se Ster"
+
+msgid "Wild Fowls"
+msgstr "Wilde Pluimvee"
+
+msgid "Market for Army"
+msgstr "Weermag se Mark"
+
+msgid "Grandchildren"
+msgstr "Kleinkinders"
+
+msgid "Grown-up"
+msgstr "Volwassene"
+
+msgid "Oldman"
+msgstr "Bejaarde Man"
+
+msgid "Beacon"
+msgstr "Baken"
+
+msgid "Eye of Sky"
+msgstr "Hemel se Oog"
+
+msgid "Pile of Dead"
+msgstr "Hoop van Dooies"
+
+msgid "Green Ridge"
+msgstr "Groen Rif"
+
+msgid "Dog of Sky"
+msgstr "Hemel se Hond"
+
+msgid "Spirit of GuRyoung"
+msgstr "GuRyoung se Gees"
+
+msgid "Flag of Wine Officer"
+msgstr "Wynoffisier se Vlag"
+
+msgid "Officer of Kitchen"
+msgstr "Kombuis Offisier"
+
+msgid "Equality and Fair"
+msgstr "Gelykheid en Billik"
+
+msgid "Emperor HeonWon"
+msgstr "KeiserHeonWon"
+
+msgid "Capital of Sky"
+msgstr "Hemel se Hoofstad"
+
+msgid "Chief of Farming"
+msgstr "Hoof van Boerdery"
+
+msgid "Officer of Tomb"
+msgstr "Grafkelder se Offisier"
+
+msgid "Tomb of Sky"
+msgstr "Hemel se Gafkelder"
+
+msgid "Wing of Red Bird"
+msgstr "Rooi VoëL se Vlerk"
+
+msgid "Eastern Pottery"
+msgstr "Oostelike Potte"
+
+msgid "Chariot of Emperor"
+msgstr "Keiser se Koets"
+
+msgid "Sand for Life"
+msgstr "Sand vir Lewe"
+
+msgid "Gateway for Troops"
+msgstr "Troepe se Hek"
+
+msgid "Guardian Knight"
+msgstr "Beskerm Ridder"
+
+msgid "Five Feudal Lords"
+msgstr "Vyf Leenprinse"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Lae Heining"
+
+msgid "Tall Fence"
+msgstr "Hoë Heining"
+
+msgid "Nine Lords"
+msgstr "Nege Here"
+
+msgid "Dung of Tiger"
+msgstr "Tier se Mis"
+
+msgid "Five Emperor"
+msgstr "Vyf Keiser"
+
+msgid "Three Minister"
+msgstr "Drie Minister"
+
+msgid "Officer for Audience"
+msgstr "Offisier vir Gehoor"
+
+msgid "Grave Front"
+msgstr "Graf Voorkant"
+
+msgid "Observatory"
+msgstr "Sterrewag"
+
+msgid "Female Officer"
+msgstr "Vroulike Offisier"
+
+msgid "Wide Lodging Area"
+msgstr ""
+
+msgid "Eight Cereals"
+msgstr "Agt Grane"
+
+msgid "Advance Guard"
+msgstr "Voorste Wag"
+
+msgid "Three Ministers"
+msgstr "Drie Ministers"
+
+msgid "Virtue"
+msgstr "Deug"
+
+msgid "Emperor's God of War"
+msgstr "Keiser se god van Oorlog"
+
+msgid "Emperor's God of Weather"
+msgstr "Keiser se god van Weer"
+
+msgid "Flap of Flag"
+msgstr "Flap van Vlag"
+
+msgid "Minister"
+msgstr "Minister"
+
+msgid "General and Minister"
+msgstr "Generaal en Minister"
+
+msgid "Jail of Sky"
+msgstr "Hemel se Tronk"
+
+msgid "Six Department"
+msgstr "Ses Departement"
+
+msgid "Inner Stairway"
+msgstr "Binneste Trappe"
+
+msgid "Spear of Sky"
+msgstr "Hemel se Spies"
+
+msgid "Cover for Emperor"
+msgstr "Bedekking vir Keiser"
+
+msgid "Place for Five Emperor"
+msgstr "Plek vir Vyf Keiser"
+
+msgid "60 Years"
+msgstr "60 Jaar"
+
+msgid "Kitchen of Sky"
+msgstr "Hemel se Kombuis"
+
+msgid "North Pole"
+msgstr "Noord Pool"
+
+msgid "Wound Lodge"
+msgstr "Wond Woning"
+
+msgid "Single-log Bridge"
+msgstr ""
+
+msgid "Great Emperor"
+msgstr ""
+
+msgid "Officer for Opinion"
+msgstr ""
+
+msgid "Pillar of Sky"
+msgstr ""
+
+msgid "Secretary"
+msgstr ""
+
+msgid "Maid"
+msgstr ""
+
+msgid "Desk of Woman"
+msgstr ""
+
+msgid "Judge Prison"
+msgstr ""
+
+msgid "Purple Fence"
+msgstr ""
+
+msgid "Order of Sky"
+msgstr ""
+
+msgid "Seven Minister"
+msgstr ""
+
+msgid "Thread Straw"
+msgstr ""
+
+msgid "Market Fence"
+msgstr ""
+
+msgid "Feudal Lord"
+msgstr ""
+
+msgid "Seat for Emperor"
+msgstr ""
+
+msgid "Royal Family"
+msgstr ""
+
+msgid "Head of Family"
+msgstr ""
+
+msgid "Record of Family"
+msgstr ""
+
+msgid "Officer for Family"
+msgstr ""
+
+msgid "Tower in Market"
+msgstr ""
+
+msgid "Measure Cereal"
+msgstr ""
+
+msgid "Cereal Measure Regulation"
+msgstr ""
+
+msgid "Officer for Chariots"
+msgstr ""
+
+msgid "Measure Amount"
+msgstr ""
+
+msgid "Butchery"
+msgstr ""
+
+msgid "Officer for Jewel"
+msgstr ""
+
+msgid "Royal"
+msgstr ""
+
+msgid "Lord"
+msgstr ""
+
+msgid "Left Executor"
+msgstr ""
+
+msgid "Right Executor"
+msgstr ""
+
+msgid "Crossbeam for Heo"
+msgstr ""
+
+msgid "Threading Coins"
+msgstr ""
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr ""
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr ""
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr ""
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr ""
+
+msgid "TaeMin"
+msgstr ""
+
+msgid "SouMin"
+msgstr ""
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr ""
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr ""
+
+msgid "Beop"
+msgstr ""
+
+msgid "Ryeong"
+msgstr ""
+
+msgid "Beol"
+msgstr ""
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr ""
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

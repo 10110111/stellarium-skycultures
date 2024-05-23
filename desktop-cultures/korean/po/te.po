@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "కుక్క"
+
+msgid "Arrow"
+msgstr "బాణం"
+
+msgid "Bow"
+msgstr "విల్లు"
+
+msgid "Fish"
+msgstr "చేప"
+
+msgid "Northern Dipper"
+msgstr "నార్దర్న్ డిప్పర్"
+
+msgid "Toilet"
+msgstr "టాయిలెట్"
+
+msgid "Whip"
+msgstr "విప్"
+
+msgid "Mausoleum"
+msgstr "మసోలియం"
+
+msgid "Mortar"
+msgstr "రోలు"
+
+msgid "Rolled Tongue"
+msgstr "మడతపడ్డ నాలుక"
+
+msgid "Chaff"
+msgstr "ఊక"
+
+msgid "Whetstone"
+msgstr "ఆకురాయి"
+
+msgid "Inner Kitchen"
+msgstr "లోపలి వంటగది"
+
+msgid "Three Steps"
+msgstr "మూడు మెట్లు"
+
+msgid "Eunuch"
+msgstr "కొజ్జా"
+
+msgid "Crown Prince"
+msgstr "యువరాజు"
+
+msgid "Official for Materials Supply"
+msgstr "వస్తుసామాగ్రి సరఫరా అధికారి"
+
+msgid "Outer Kitchen"
+msgstr "బయటి వంటగది"
+
+msgid "Five Lords"
+msgstr "ఐదుగురు ప్రభువులు"
+
+msgid "Right Flag"
+msgstr "కుడి జెండా"
+
+msgid "Son"
+msgstr "కొడుకు"
+
+msgid "Left Flag"
+msgstr "ఎడమ జెండా"
+
+msgid "Charioteer"
+msgstr "రథసారథి"
+
+msgid "Holy Kettle"
+msgstr "పవిత్ర కెటిల్"
+
+msgid "Farm of Capital City"
+msgstr "రాజధాని పొలం"
+
+msgid "Dignity of King"
+msgstr "రాజు గారి హుందాతనం"
+
+msgid "Nomination"
+msgstr "నామాంకనం"
+
+msgid "Gate of Sky"
+msgstr "ఆకాశ ద్వారం"
+
+msgid "Equality"
+msgstr "సమానత్వం"
+
+msgid "Helper"
+msgstr "సహాయకుడు"
+
+msgid "Position of Holy King"
+msgstr "పావన మహరాజు స్థానం"
+
+msgid "Neck of Dragon"
+msgstr "డ్రాగన్ మెడ"
+
+msgid "Beheading"
+msgstr "తల తీత"
+
+msgid "Judge"
+msgstr "న్యాయమూర్తి"
+
+msgid "Flutting Flag"
+msgstr "ఎగిరే జెండా"
+
+msgid "Javelin of Sky"
+msgstr "అకాశపు బల్లెం"
+
+msgid "Seat for Longevity"
+msgstr "దీర్ఘాయువు కోసం పీఠం"
+
+msgid "Oar for visitor"
+msgstr "సందర్శకునికి తెడ్డు"
+
+msgid "Milk of Sky"
+msgstr "ఆకాశ క్షీరం"
+
+msgid "House of Queen"
+msgstr "రాణివాసం"
+
+msgid "Ancient Chariot"
+msgstr "ప్రాచీన రథం"
+
+msgid "Carriage for King"
+msgstr "రాజు గారి పల్లకి"
+
+msgid "General of Cavalry"
+msgstr "కాల్బలం అధికారి"
+
+msgid "Cavalry of Emperor"
+msgstr "చక్రవర్తి కాల్బలం"
+
+msgid "General of Mobile Troops"
+msgstr "కదిలే సేనల నయకులు"
+
+msgid "East Road"
+msgstr "తూర్పు దారి"
+
+msgid "Gate Bolt"
+msgstr "ద్వారపు గొళ్ళెం"
+
+msgid "Door Lock and Key"
+msgstr "తలుపు తాళము, చెవీ"
+
+msgid "Penalty"
+msgstr "దండన"
+
+msgid "Royal Hall"
+msgstr "రాజ దర్బారు"
+
+msgid "Chamberlain"
+msgstr "ప్రతీహారి"
+
+msgid "Sun"
+msgstr "సూర్యుడు"
+
+msgid "West Road"
+msgstr "పడమర దారి"
+
+msgid "Seat of Emperor"
+msgstr "చక్రవర్తి సింహాసనం"
+
+msgid "Five Troops"
+msgstr "ఐదు దళాలు"
+
+msgid "River of Sky"
+msgstr "ఆకశ నది"
+
+msgid "Prayer for Progeny"
+msgstr "సంతాన కామేష్ఠి"
+
+msgid "Forcast"
+msgstr "భవిష్య వాక్కు"
+
+msgid "Yard for Empresses"
+msgstr "మహారాణుల మైదానం"
+
+msgid "Holy Palace"
+msgstr "పావన మందిరం"
+
+msgid "Winnow"
+msgstr "తూర్పార"
+
+msgid "Outer Pestle"
+msgstr "బయటి రోలు"
+
+msgid "Head of Town"
+msgstr "పట్టణాధికారి"
+
+msgid "Build"
+msgstr "నిర్మాణం"
+
+msgid "Fowl of Sky"
+msgstr "ఆకాశ నెమలి"
+
+msgid "Shrine of Sky"
+msgstr "ఆకాశ ఆలయం"
+
+msgid "Northeastern Nations"
+msgstr "ఈశాన్య రాజ్యాలు"
+
+msgid "Old Farmer"
+msgstr "ముసలి రైతు"
+
+msgid "Snapping Turtle"
+msgstr "కరిచే తాబేలు"
+
+msgid "Road for Emperor"
+msgstr "చక్రవర్తి రహదారి"
+
+msgid "The Weaver"
+msgstr "నేతగాడు"
+
+msgid "River adjoining Tower"
+msgstr "భవంతి పక్కనే ఉన్న నది"
+
+msgid "Drum of River"
+msgstr "నది డోలు"
+
+msgid "Drumstick of Sky"
+msgstr "అకాశపు ములక్కాయ"
+
+msgid "Cow leading Man"
+msgstr "మనిషి ముందర నడుస్తున్న ఆవు"
+
+msgid "Bank Spread"
+msgstr "బ్యాంకు స్ప్రెడ్"
+
+msgid "Basket for Silkworm"
+msgstr "పట్టు పురుగుల బుట్ట"
+
+msgid "Officer for Cart"
+msgstr "బండి అధికారి"
+
+msgid "Ferry of Sky"
+msgstr "ఆకాశ డింగీ"
+
+msgid "Fruit"
+msgstr "పండు"
+
+msgid "Seed"
+msgstr "విత్తనం"
+
+msgid "Storage for Lady"
+msgstr "స్త్రీల అలమారు"
+
+msgid "Court Lady"
+msgstr "సభలోని స్త్రీ"
+
+msgid "Judge Fault"
+msgstr "న్యాయమూర్తి పొరపాటు"
+
+msgid "Amend Fault"
+msgstr "పొరపాటు సవరణ"
+
+msgid "Grant Life"
+msgstr "జీవన దానం"
+
+msgid "Punish"
+msgstr "శిక్షించు"
+
+msgid "Empty House"
+msgstr "ఖాళీ ఇల్లు"
+
+msgid "Weep"
+msgstr "ఏడ్చు"
+
+msgid "Sob"
+msgstr "ఎక్కెక్కి ఏడ్చు"
+
+msgid "Castle with Rampart"
+msgstr "బురుజులున్న్న కోట"
+
+msgid "Hook for Dress"
+msgstr "దుస్తుల కొక్కెం"
+
+msgid "Groom"
+msgstr "చీపురు"
+
+msgid "Human"
+msgstr "మానవుడు"
+
+msgid "Inner Pestle"
+msgstr "లోపలి రోకలి"
+
+msgid "Warehouse of Sky"
+msgstr "ఆకాశ గోడౌను"
+
+msgid "Tomb"
+msgstr "సమాధి"
+
+msgid "Cover of House"
+msgstr "ఇంటి కప్పు"
+
+msgid "Broken Mortar"
+msgstr "విరిగిన రోలు"
+
+msgid "Climbing Serpent"
+msgstr "ఎక్కే పాము"
+
+msgid "Palace of Emperor"
+msgstr "చక్రవర్తి మహలు"
+
+msgid "Detached Palace"
+msgstr "విడిగా ఉన్న భవంతి"
+
+msgid "Lightening"
+msgstr "మెరుపు"
+
+msgid "Rampart"
+msgstr "బురుజు"
+
+msgid "Troops of Sky"
+msgstr "ఆకాశ సేనలు"
+
+msgid "Village for Patrol"
+msgstr "నిఘాలో ఉన్న గ్రామం"
+
+msgid "Net of Sky"
+msgstr "ఆకాశపు వల"
+
+msgid "Stable of Sky"
+msgstr "ఆకాశపు గుర్రపుశాల"
+
+msgid "Eastern Wall"
+msgstr "తూర్పు గోడ"
+
+msgid "Civil Engineer"
+msgstr "సివిల్ ఇంజనీరు"
+
+msgid "Thunderbolts"
+msgstr "పిడుగులు"
+
+msgid "Clouds and Rain"
+msgstr "మబ్బులూ వానా"
+
+msgid "Highway"
+msgstr "హైవే"
+
+msgid "Officer for Chariot of"
+msgstr "రథాల అధికారి"
+
+msgid "Side Road"
+msgstr "పక్క దారి"
+
+msgid "Armory"
+msgstr "ఆయుధాగారం"
+
+msgid "Southern Gate of Emperator"
+msgstr "చక్రవర్తి దక్షిణ ద్వారం"
+
+msgid "Outer Folding Screen"
+msgstr "బయటి మడిచే తెర"
+
+msgid "Toilet of Sky"
+msgstr "ఆకాశపు టాయిలెట్"
+
+msgid "Architect"
+msgstr "వాస్తుశిల్పి"
+
+msgid "Emperator"
+msgstr "చక్రవర్తి"
+
+msgid "Watchtower"
+msgstr "కావలి బురుజు"
+
+msgid "Left Elm"
+msgstr "ఎడమ తవిశె చెట్టు"
+
+msgid "Right Elm"
+msgstr "కుడి తవిశె చెట్టు"
+
+msgid "Storehouse of Sky"
+msgstr "ఆకాశపు స్టోరు"
+
+msgid "Stack of Cereals"
+msgstr "ధాన్యపు బస్తాల మేటు"
+
+msgid "Ship of Sky"
+msgstr "ఆకాశపు ఓడ"
+
+msgid "Store of Water"
+msgstr "నీటి గోలెం"
+
+msgid "Heap of Corpse"
+msgstr "శవాల గుట్ట"
+
+msgid "Stomach of Tiger"
+msgstr "పులి పొట్ట"
+
+msgid "Store of Millet for"
+msgstr "వీరి తృణధాన్యాల స్టోరు"
+
+msgid "Storehouse for Cereals"
+msgstr "ధాన్యాల గది"
+
+msgid "Shaman of Sky"
+msgstr "ఆకాశ షామాన్"
+
+msgid "Ear and Eye of"
+msgstr "దీని చెవి కన్ను"
+
+msgid "Moon"
+msgstr "చంద్రుడు"
+
+msgid "Hill of Sky"
+msgstr "ఆకాశపు కొండ"
+
+msgid "Conspiracy of Sky"
+msgstr "ఆకాశపు కుట్ర"
+
+msgid "Fodder"
+msgstr "మేతగడ్డి"
+
+msgid "Garage for Chariot"
+msgstr "రథాల శాల"
+
+msgid "Pond for Fish"
+msgstr "చేపల చెరువు"
+
+msgid "Pillar"
+msgstr "స్తంభం"
+
+msgid "Puddle of Sky"
+msgstr "ఆకాశపు దొరువు"
+
+msgid "Kings"
+msgstr "రాజులు"
+
+msgid "Gateway of Sky"
+msgstr "ఆకాశపు ముఖద్వారం"
+
+msgid "Flage of Saam"
+msgstr "శామ్ జెండా"
+
+msgid "Village of Sky"
+msgstr "ఆకాశపు గ్రామం"
+
+msgid "Belvedere of Sky"
+msgstr "ఆకాశపు శంగార మంటపం"
+
+msgid "General of Border"
+msgstr "సరిహద్దు సైన్యాధిపతి"
+
+msgid "Celebration of Sky"
+msgstr "ఆకాశపు పండుగ"
+
+msgid "Flag of Emperor"
+msgstr "చక్రవర్తి పతాకం"
+
+msgid "Nine Territory"
+msgstr "తొమ్మిది రాజ్యం"
+
+msgid "Garden of Sky"
+msgstr "ఆకాశ వనం"
+
+msgid "Settled Flag"
+msgstr "ముడుచుకున్న జెండా"
+
+msgid "Forcast Calamity"
+msgstr "విపత్తు జ్యోతిష్యం"
+
+msgid "Scout of Three Troups"
+msgstr "మూడు దళాల కవాతు"
+
+msgid "Saam"
+msgstr "శామ్"
+
+msgid "Expeditionary Force"
+msgstr "వేగు దళం"
+
+msgid "Well for Millitary"
+msgstr "సైనికుల బావి"
+
+msgid "Well of Jade"
+msgstr "పచ్చల బావి"
+
+msgid "Folding Screen"
+msgstr "మడత తెర"
+
+msgid "Piled Brushwood"
+msgstr "బ్రష్‌వుడ్ మోపు"
+
+msgid "Northern River"
+msgstr "ఉతరపు నది"
+
+msgid "Wine Glass of Sky"
+msgstr "ఆకాశపు సారా గ్లాసు"
+
+msgid "Eastern Well"
+msgstr "తూర్పు గోడ"
+
+msgid "Flood control"
+msgstr "వరద నియంత్రణ"
+
+msgid "Balance of Water"
+msgstr "నీటి త్రాసు"
+
+msgid "Four Spirit of River"
+msgstr "నది నాలుగు ఆత్మ"
+
+msgid "Southern River"
+msgstr "దక్షిణపు నది"
+
+msgid "Twin Gate"
+msgstr "జంట ద్వారం"
+
+msgid "Star of Wolf"
+msgstr "తోడేలు నక్షత్రం"
+
+msgid "Wild Fowls"
+msgstr "అడవి నెమళ్ళు"
+
+msgid "Market for Army"
+msgstr "సైన్యపు మార్కెట్టు"
+
+msgid "Grandchildren"
+msgstr "మనుమలు, మనుమరాళ్ళు"
+
+msgid "Grown-up"
+msgstr "ఎదిగిన"
+
+msgid "Oldman"
+msgstr "వృద్ధుడు"
+
+msgid "Beacon"
+msgstr "వేగువెలుగు"
+
+msgid "Eye of Sky"
+msgstr "ఆకాశ నేత్రం"
+
+msgid "Pile of Dead"
+msgstr "చచ్చిన వాళ్ళ గుట్ట"
+
+msgid "Green Ridge"
+msgstr "పచ్చటి గుట్ట"
+
+msgid "Dog of Sky"
+msgstr "ఆకాశపు కుక్క"
+
+msgid "Spirit of GuRyoung"
+msgstr "గుర్యోంగ్ ఆత్మ"
+
+msgid "Flag of Wine Officer"
+msgstr "సారా అధికారి జెండా"
+
+msgid "Officer of Kitchen"
+msgstr "వంటగది అధికారి"
+
+msgid "Equality and Fair"
+msgstr "సమానత్వం, న్యాయం"
+
+msgid "Emperor HeonWon"
+msgstr "హియోన్‌వన్ చక్రవర్తి"
+
+msgid "Capital of Sky"
+msgstr "ఆకాశ రాజధాని"
+
+msgid "Chief of Farming"
+msgstr "వ్యవసాయ అధికారి"
+
+msgid "Officer of Tomb"
+msgstr "సమాధి అధికారి"
+
+msgid "Tomb of Sky"
+msgstr "ఆకాశ సమాధి"
+
+msgid "Wing of Red Bird"
+msgstr "ఎర్ర పక్షి రెక్క"
+
+msgid "Eastern Pottery"
+msgstr "తూర్పు కుండలు"
+
+msgid "Chariot of Emperor"
+msgstr "చక్రవర్తి రథం"
+
+msgid "Sand for Life"
+msgstr "జీవన ఇసుక"
+
+msgid "Gateway for Troops"
+msgstr "దళాల ముఖద్వారం"
+
+msgid "Guardian Knight"
+msgstr "సంరక్షక ముఖ్యుడు"
+
+msgid "Five Feudal Lords"
+msgstr "ఐదుగురు భూస్వామిక ప్రభువులు"
+
+msgid "SangJiin"
+msgstr "సాంగ్‌జిన్"
+
+msgid "Low Fence"
+msgstr "పొట్టి కంచె"
+
+msgid "Tall Fence"
+msgstr "ఎత్తైన కంచె"
+
+msgid "Nine Lords"
+msgstr "తొమ్మిది మంది ప్రభువులు"
+
+msgid "Dung of Tiger"
+msgstr "పులి పెంట"
+
+msgid "Five Emperor"
+msgstr "ఐదు చక్రవర్తి"
+
+msgid "Three Minister"
+msgstr "మూడు మంత్రి"
+
+msgid "Officer for Audience"
+msgstr "ప్రేక్షక అధికారి"
+
+msgid "Grave Front"
+msgstr "సమాధి ముఖం"
+
+msgid "Observatory"
+msgstr "ఖగోళ వేధశాల"
+
+msgid "Female Officer"
+msgstr "మహిళా అధికారి"
+
+msgid "Wide Lodging Area"
+msgstr "విశాలమైన వసతి ప్రదేశం"
+
+msgid "Eight Cereals"
+msgstr "ఎనిమిది ధాన్యాలు"
+
+msgid "Advance Guard"
+msgstr "ముందస్తు రక్షక భటుడు"
+
+msgid "Three Ministers"
+msgstr "ముగ్గురు మంత్రులు"
+
+msgid "Virtue"
+msgstr "సుగుణం"
+
+msgid "Emperor's God of War"
+msgstr "చక్రవర్తి యుద్ధ దేవుడు"
+
+msgid "Emperor's God of Weather"
+msgstr "చక్రవర్తి వాతావరణ దేవుడు"
+
+msgid "Flap of Flag"
+msgstr "జెండా రెపరెప"
+
+msgid "Minister"
+msgstr "మంత్రి"
+
+msgid "General and Minister"
+msgstr "దలపతి, మంత్రి"
+
+msgid "Jail of Sky"
+msgstr "ఆకాశపు కారాగారం"
+
+msgid "Six Department"
+msgstr "ఆరు విభాగం"
+
+msgid "Inner Stairway"
+msgstr "లోపలి మెట్ల వరుస"
+
+msgid "Spear of Sky"
+msgstr "ఆకాశ శూలం"
+
+msgid "Cover for Emperor"
+msgstr "చక్రవర్తి ముసుగు"
+
+msgid "Place for Five Emperor"
+msgstr "ఐదు చక్రవర్తి స్థానం"
+
+msgid "60 Years"
+msgstr "60 ఏళ్ళు"
+
+msgid "Kitchen of Sky"
+msgstr "ఆకాశపు వంటగది"
+
+msgid "North Pole"
+msgstr "ఉత్తర ధ్రువం"
+
+msgid "Wound Lodge"
+msgstr "గాయం బస"
+
+msgid "Single-log Bridge"
+msgstr "ఏక-చెక్క వంతెన"
+
+msgid "Great Emperor"
+msgstr "గొప్ప చక్రవర్తి"
+
+msgid "Officer for Opinion"
+msgstr "అభిప్రాయాల అధికారి"
+
+msgid "Pillar of Sky"
+msgstr "ఆకాశ స్తంభం"
+
+msgid "Secretary"
+msgstr "ఆంతరంగికుడు"
+
+msgid "Maid"
+msgstr "పరిచారిక"
+
+msgid "Desk of Woman"
+msgstr "స్త్రీల డెస్కు"
+
+msgid "Judge Prison"
+msgstr "న్యాయమూర్తి కారాగారం"
+
+msgid "Purple Fence"
+msgstr "ఊదా కంచె"
+
+msgid "Order of Sky"
+msgstr "ఆకాశ నీతి"
+
+msgid "Seven Minister"
+msgstr "ఏడు మంత్రి"
+
+msgid "Thread Straw"
+msgstr "దారపు గడ్డి"
+
+msgid "Market Fence"
+msgstr "మార్కెట్టు కంచె"
+
+msgid "Feudal Lord"
+msgstr "భూస్వామిక ప్రభువు"
+
+msgid "Seat for Emperor"
+msgstr "చక్రవర్తి సింహాసనం"
+
+msgid "Royal Family"
+msgstr "రాచ కుటుంబం"
+
+msgid "Head of Family"
+msgstr "కుటుంబ పెద్ద"
+
+msgid "Record of Family"
+msgstr "కుటుంబ చరిత్ర"
+
+msgid "Officer for Family"
+msgstr "కుటుంబ అధికారి"
+
+msgid "Tower in Market"
+msgstr "మార్కెట్లోని స్తంభం"
+
+msgid "Measure Cereal"
+msgstr "ధాన్యపు కొలత"
+
+msgid "Cereal Measure Regulation"
+msgstr "ధాన్యపు కొలతల నియంత్రణ"
+
+msgid "Officer for Chariots"
+msgstr "రథాల అధికారి"
+
+msgid "Measure Amount"
+msgstr "కొలత మొత్తం"
+
+msgid "Butchery"
+msgstr "కసాయితనం"
+
+msgid "Officer for Jewel"
+msgstr "నగల అధికారి"
+
+msgid "Royal"
+msgstr "రాచరికపు"
+
+msgid "Lord"
+msgstr "ప్రభువు"
+
+msgid "Left Executor"
+msgstr "ఎడమ తలారి"
+
+msgid "Right Executor"
+msgstr "కుడి తలారి"
+
+msgid "Crossbeam for Heo"
+msgstr "హియో కు క్రాస్‌బీమ్"
+
+msgid "Threading Coins"
+msgstr "వడికే నాణేలు"
+
+msgid "SangSang"
+msgstr "సాంగ్‌సాంగ్"
+
+msgid "ChaSang"
+msgstr "చాసాంగ్"
+
+msgid "ChaJang"
+msgstr "చాజాంగ్"
+
+msgid "UJangGun"
+msgstr "ఉజాంగ్‌గున్"
+
+msgid "DaeJangGun"
+msgstr "డేజాంగ్‌గున్"
+
+msgid "JwaJangGun"
+msgstr "జ్వజాంగ్‌గున్"
+
+msgid "WangRang"
+msgstr "వాంగ్‌రాంగ్"
+
+msgid "CheonSa"
+msgstr "చియోన్‌సా"
+
+msgid "CheonGou"
+msgstr "చియోన్‌గౌ"
+
+msgid "SaGong"
+msgstr "సాగాంగ్"
+
+msgid "CheonOk"
+msgstr "చియోనోక్"
+
+msgid "CheonChang"
+msgstr "చియోన్‌చాంగ్"
+
+msgid "Gyeong"
+msgstr "గయోంగ్"
+
+msgid "HuJangGun"
+msgstr "హుజాంగ్‌గున్"
+
+msgid "PyeonJangGun"
+msgstr "పయోన్‌జాంగ్‌గున్"
+
+msgid "SamJangGun"
+msgstr "సాంజాంగ్‌గున్"
+
+msgid "TaeSa"
+msgstr "టేసా"
+
+msgid "BakSa"
+msgstr "బక్సా"
+
+msgid "SamGong"
+msgstr "సాంగాంగ్"
+
+msgid "JaeUu"
+msgstr "జేయూ"
+
+msgid "JaeSa"
+msgstr "జేసా"
+
+msgid "YeoJu"
+msgstr "యేజూ"
+
+msgid "YeoEo"
+msgstr "యోయీ"
+
+msgid "TaeMin"
+msgstr "టేమిన్"
+
+msgid "SouMin"
+msgstr "సౌమిన్"
+
+msgid "Buin"
+msgstr "బూయిన్"
+
+msgid "WangBi"
+msgstr "వాంగ్‌బీ"
+
+msgid "HuGung"
+msgstr "హుగుంగ్"
+
+msgid "HwangJae"
+msgstr "హ్వాంగ్‌జే"
+
+msgid "CheoSa"
+msgstr "చియోసా"
+
+msgid "EuiSa"
+msgstr "యూసా"
+
+msgid "DaeBu"
+msgstr "డేబూ"
+
+msgid "SangTae"
+msgstr "సాంగ్‌టే"
+
+msgid "JungTae"
+msgstr "జుంగ్‌టే"
+
+msgid "HaTae"
+msgstr "హాటే"
+
+msgid "TaeJa"
+msgstr "టేజా"
+
+msgid "JaeWang"
+msgstr "జేవాంగ్"
+
+msgid "SeoJa"
+msgstr "సియోజా"
+
+msgid "CheonChu"
+msgstr "చియోన్‌చు"
+
+msgid "SangJang"
+msgstr "సాంగ్‌జాంగ్"
+
+msgid "TaeSang"
+msgstr "టేసాంగ్"
+
+msgid "SaJu.DaeRi"
+msgstr "సాజు.డేరి"
+
+msgid "Jeong"
+msgstr "జియోంగ్"
+
+msgid "Beop"
+msgstr "బియోప్"
+
+msgid "Ryeong"
+msgstr "రయోంగ్"
+
+msgid "Beol"
+msgstr "బియోల్"
+
+msgid "Sal"
+msgstr "సాల్"
+
+msgid "Wi"
+msgstr "వీ"
+
+msgid "Eung"
+msgstr "యుంగ్"
+
+msgid "MyeongDang"
+msgstr "మయోంగ్‌డాంగ్"
+
+msgid "Hu"
+msgstr "హు"
+
+msgid "Bin"
+msgstr "బిన్"
+
+msgid "DaeJang"
+msgstr "డేజాంగ్"

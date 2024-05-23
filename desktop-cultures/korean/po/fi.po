@@ -1,0 +1,1024 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ilpo Kantonen, 2024\n"
+"Language-Team: Finnish (https://app.transifex.com/stellarium/teams/80998/"
+"fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "Korealainen"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Chinese, Korean, and Japanese constellations have the same origin and "
+"look very similar in shape. They are represented respectively in the Dun "
+"Huang starmap from the 8th century, the Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do map "
+"and in the Kitora skymap painted in A.D.7C ~ 8C. Their positions and their "
+"names are similar in the Chinese alphabet. The name of the constellations "
+"first appear in the Records of the Grand Historian(史記) in Han dynasty "
+"describing Xia dynasty in about 2000 B.C."
+msgstr ""
+"Kiinan, Korean ja Japanin tähtikuvioilla on sama alkuperä ja ne näyttävät "
+"muodoltaan hyvin samanlaisilta. Ne on edustettuna Dun Huangin tähtikartassa "
+"800-luvulta, Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do-kartassa ja Kitoran "
+"taivaskartassa, joka on maalattu vuosina jKr. 7C ~ 8C. Heidän asemansa ja "
+"nimensä ovat samanlaiset kiinalaisessa aakkosessa. Tähtikuvioiden nimet "
+"esiintyvät ensimmäisen kerran Han-dynastian suuren historiolaisen (史記) "
+"kirjassa, joka kuvaa Xia-dynastiaa noin vuonna 2000 eaa."
+
+# Sky culture description section in markdown format
+msgid ""
+"### Origin\n"
+"\n"
+"The 272 constellations displayed in this Stellarium sky culture are based on "
+"the Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do, the Korean Constellation map, which "
+"was carved on the stone on 1395 but has its origin from another sky map "
+"which existed about 2,000 years ago. This map represents 1467 stars in about "
+"190 constellations whose shapes are slightly different from the chinese "
+"ones. The interpretation of the map is not easy: the map is so old that only "
+"about 300 stars are found to match with the real stars. All the stars of the "
+"map were drawn on a circle, so the equator seems smaller than the southern "
+"limit. Because the density of constellation does not change with respect to "
+"the position, the position and the size of the constellations were somewhat "
+"altered in a way unknown by the author. It is assumed that there should be "
+"no bright stars which do not belong to any constellations. The work of the "
+"author is subject to interpretation, and could be changed at a later time. "
+"It will however roughly show what the Korean Constellation are like."
+msgstr ""
+"### Alkuperä\n"
+"\n"
+"Tässä Stellarium-taivaskulttuurissa näkyvät 272 tähtikuviota perustuvat "
+"Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do-korealaisen tähtikuvion karttaan, joka "
+"kaiverrettiin kiveen vuonna 1395, mutta joka on peräisin toisesta "
+"taivaskartasta. joka oli olemassa noin 2000 vuotta sitten. Tämä kartta "
+"edustaa 1467 tähteä noin 190 tähdistössä, joiden muodot eroavat hieman "
+"kiinalaisista tähtikuvioista. Kartan tulkinta ei ole helppoa: kartta on niin "
+"vanha, että vain noin 300 tähteä löytyy, jotka vastaavat todellisia tähtiä. "
+"Kaikki kartan tähdet piirrettiin ympyrään, joten päiväntasaaja näyttää "
+"etelärajaa pienemmältä. Koska tähdistön tiheys ei muutu sijainnin suhteen, "
+"tähdistöjen sijaintia ja kokoa muutettiin jonkin verran tekijän "
+"tuntemattomalla tavalla. Oletetaan, että ei pitäisi olla kirkkaita tähtiä, "
+"jotka eivät kuulu mihinkään tähdistöihin. Tekijän teos on tulkinnanvarainen, "
+"ja sitä voidaan muuttaa myöhemmin. Se kuitenkin näyttää karkeasti, millainen "
+"Korean tähdistö on."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+msgstr ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *[Jeong, Tae-Min](http://"
+"user.chollian.net/~jtm71/)*"
+msgstr ""
+"Stellariumin käyttö vaikutti tähän taivaskulttuuriin *[Jeong, Tae-Min]"
+"(http://user.chollian.net/~jtm71/)*"
+
+msgid "Dog"
+msgstr "Koira"
+
+msgid "Arrow"
+msgstr "Nuoli"
+
+msgid "Bow"
+msgstr "Jousi"
+
+msgid "Fish"
+msgstr "Kala"
+
+msgid "Northern Dipper"
+msgstr "Iso Karhu"
+
+msgid "Toilet"
+msgstr "Käymälä"
+
+msgid "Whip"
+msgstr "Ruoska"
+
+msgid "Mausoleum"
+msgstr "Mausoleumi"
+
+msgid "Mortar"
+msgstr "Huhmare"
+
+msgid "Rolled Tongue"
+msgstr "Rullattu kieli"
+
+msgid "Chaff"
+msgstr "Akanat"
+
+msgid "Whetstone"
+msgstr "Hiomakivi"
+
+msgid "Inner Kitchen"
+msgstr "Sisempi keittiö"
+
+msgid "Three Steps"
+msgstr "Kolme porrasta"
+
+msgid "Eunuch"
+msgstr "Eunukki"
+
+msgid "Crown Prince"
+msgstr "Kruunuprinssi"
+
+msgid "Official for Materials Supply"
+msgstr "Välineupseeri"
+
+msgid "Outer Kitchen"
+msgstr "Ulompi keittiö"
+
+msgid "Five Lords"
+msgstr "Viisi herraa"
+
+msgid "Right Flag"
+msgstr "Oikea lippu"
+
+msgid "Son"
+msgstr "Poika"
+
+msgid "Left Flag"
+msgstr "Vasen lippu"
+
+msgid "Charioteer"
+msgstr "Sotavaunujen ajaja"
+
+msgid "Holy Kettle"
+msgstr "Pyhä kattila"
+
+msgid "Farm of Capital City"
+msgstr "Pääkaupungin maatila"
+
+msgid "Dignity of King"
+msgstr "Kuninkaan arvokkuus"
+
+msgid "Nomination"
+msgstr "Nimitys"
+
+msgid "Gate of Sky"
+msgstr "Taivaan portti"
+
+msgid "Equality"
+msgstr "Tasa-arvo"
+
+msgid "Helper"
+msgstr "Apuri"
+
+msgid "Position of Holy King"
+msgstr "Pyhän kuninkaan asema"
+
+msgid "Neck of Dragon"
+msgstr "Lohikäärmeen kaula"
+
+msgid "Beheading"
+msgstr "Mestaus"
+
+msgid "Judge"
+msgstr "Tuomari"
+
+msgid "Flutting Flag"
+msgstr "Lepattava lippu"
+
+msgid "Javelin of Sky"
+msgstr "Taivaan keihäs"
+
+msgid "Seat for Longevity"
+msgstr "Pitkäikäisen istuin"
+
+msgid "Oar for visitor"
+msgstr "Vierailijan airo"
+
+msgid "Milk of Sky"
+msgstr "Taivaan maito"
+
+msgid "House of Queen"
+msgstr "Kuningattaren talo"
+
+msgid "Ancient Chariot"
+msgstr "Ikivanha sotavaunu"
+
+msgid "Carriage for King"
+msgstr "Kuninkaan vaunut"
+
+msgid "General of Cavalry"
+msgstr "Ratsuväen kenraali"
+
+msgid "Cavalry of Emperor"
+msgstr "Keisarin ratsuväki"
+
+msgid "General of Mobile Troops"
+msgstr "Liikkuvien joukkojen kenraali"
+
+msgid "East Road"
+msgstr "Itäinen tie"
+
+msgid "Gate Bolt"
+msgstr "Portin salpa"
+
+msgid "Door Lock and Key"
+msgstr "Oven lukko ja avain"
+
+msgid "Penalty"
+msgstr "Rangaistus"
+
+msgid "Royal Hall"
+msgstr "Kuninkaallinen sali"
+
+msgid "Chamberlain"
+msgstr "Kamariherra"
+
+msgid "Sun"
+msgstr "Aurinko"
+
+msgid "West Road"
+msgstr "Läntinen tie"
+
+msgid "Seat of Emperor"
+msgstr "Keisarin istuin"
+
+msgid "Five Troops"
+msgstr "Viisi sotajoukkoa"
+
+msgid "River of Sky"
+msgstr "Taivaan joki"
+
+msgid "Prayer for Progeny"
+msgstr "Rukous jälkeläisistä"
+
+msgid "Forcast"
+msgstr "Ennustus"
+
+msgid "Yard for Empresses"
+msgstr "Keisarin piha"
+
+msgid "Holy Palace"
+msgstr "Pyhä palatsi"
+
+msgid "Winnow"
+msgstr "Seulonta"
+
+msgid "Outer Pestle"
+msgstr "Ulompi survin"
+
+msgid "Head of Town"
+msgstr "Kaupunginjohtaja"
+
+msgid "Build"
+msgstr "Rakennus"
+
+msgid "Fowl of Sky"
+msgstr "Taivaan kana"
+
+msgid "Shrine of Sky"
+msgstr "Taivaan pyhäkkö"
+
+msgid "Northeastern Nations"
+msgstr "Luoteiset kansat"
+
+msgid "Old Farmer"
+msgstr "Vanha maamies"
+
+msgid "Snapping Turtle"
+msgstr "Näykkijäkilpikonna"
+
+msgid "Road for Emperor"
+msgstr "Keisarin tie"
+
+msgid "The Weaver"
+msgstr "Kutoja"
+
+msgid "River adjoining Tower"
+msgstr "Joki tornin vieressä"
+
+msgid "Drum of River"
+msgstr "Joen rumpu"
+
+msgid "Drumstick of Sky"
+msgstr "Taivaan rumpukapula"
+
+msgid "Cow leading Man"
+msgstr "Lehmää taluttava mies"
+
+msgid "Bank Spread"
+msgstr "Penkereen levennys"
+
+msgid "Basket for Silkworm"
+msgstr "Silkkitoukkakori"
+
+msgid "Officer for Cart"
+msgstr "Kärrymestari"
+
+msgid "Ferry of Sky"
+msgstr "Taivaan lautta"
+
+msgid "Fruit"
+msgstr "Hedelmä"
+
+msgid "Seed"
+msgstr "Siemen"
+
+msgid "Storage for Lady"
+msgstr "Naisen varasto"
+
+msgid "Court Lady"
+msgstr "Hovinainen"
+
+msgid "Judge Fault"
+msgstr "Tuomarin virhe"
+
+msgid "Amend Fault"
+msgstr "Virheen korjaus"
+
+msgid "Grant Life"
+msgstr "Myönnetty elämä"
+
+msgid "Punish"
+msgstr "Tuomio"
+
+msgid "Empty House"
+msgstr "Tyhjä talo"
+
+msgid "Weep"
+msgstr "Itku"
+
+msgid "Sob"
+msgstr "Nyyhkytys"
+
+msgid "Castle with Rampart"
+msgstr "Vallitettu linna"
+
+msgid "Hook for Dress"
+msgstr "Puvun hakanen"
+
+msgid "Groom"
+msgstr "Renki"
+
+msgid "Human"
+msgstr "Ihminen"
+
+msgid "Inner Pestle"
+msgstr "Sisempi survin"
+
+msgid "Warehouse of Sky"
+msgstr "Taivaan varasto"
+
+msgid "Tomb"
+msgstr "Hauta"
+
+msgid "Cover of House"
+msgstr "Talon julkisivu"
+
+msgid "Broken Mortar"
+msgstr "Särkynyt huhmare"
+
+msgid "Climbing Serpent"
+msgstr "Kiipeävä käärme"
+
+msgid "Palace of Emperor"
+msgstr "Keisarin palatsi"
+
+msgid "Detached Palace"
+msgstr "Erillinen palatsi"
+
+msgid "Lightening"
+msgstr "Valaistuminen"
+
+msgid "Rampart"
+msgstr "Vallitus"
+
+msgid "Troops of Sky"
+msgstr "Taivaan sotajoukot"
+
+msgid "Village for Patrol"
+msgstr "Partion kylä"
+
+msgid "Net of Sky"
+msgstr "Taivaan verkko"
+
+msgid "Stable of Sky"
+msgstr "Taivaan talli"
+
+msgid "Eastern Wall"
+msgstr "Itäinen muuri"
+
+msgid "Civil Engineer"
+msgstr "Insinööri"
+
+msgid "Thunderbolts"
+msgstr "Ukonvasamat"
+
+msgid "Clouds and Rain"
+msgstr "Pilvet ja sade"
+
+msgid "Highway"
+msgstr "Valtatie"
+
+msgid "Officer for Chariot of"
+msgstr "Vaunu-upseeri"
+
+msgid "Side Road"
+msgstr "Sivutie"
+
+msgid "Armory"
+msgstr "Asevarasto"
+
+msgid "Southern Gate of Emperator"
+msgstr "Ylipäällikön eteläinen portti"
+
+msgid "Outer Folding Screen"
+msgstr "Ulompi taitettava kaihdin"
+
+msgid "Toilet of Sky"
+msgstr "Taivaan käymälä"
+
+msgid "Architect"
+msgstr "Arkkitehti"
+
+msgid "Emperator"
+msgstr "Ylipäällikkö"
+
+msgid "Watchtower"
+msgstr "Vartiotorni"
+
+msgid "Left Elm"
+msgstr "Vasen jalava"
+
+msgid "Right Elm"
+msgstr "Oikea jalava"
+
+msgid "Storehouse of Sky"
+msgstr "Taivaan varasto"
+
+msgid "Stack of Cereals"
+msgstr "Viljasuova"
+
+msgid "Ship of Sky"
+msgstr "Taivaan laiva"
+
+msgid "Store of Water"
+msgstr "Vesivarasto"
+
+msgid "Heap of Corpse"
+msgstr "Ruumiskasa"
+
+msgid "Stomach of Tiger"
+msgstr "Tiikerin vatsa"
+
+msgid "Store of Millet for"
+msgstr "Hirssivarasto"
+
+msgid "Storehouse for Cereals"
+msgstr "Viljavarasto"
+
+msgid "Shaman of Sky"
+msgstr "Taivaan shamaani"
+
+msgid "Ear and Eye of"
+msgstr "Korva ja silmä"
+
+msgid "Moon"
+msgstr "Kuu"
+
+msgid "Hill of Sky"
+msgstr "Taivaan kukkula"
+
+msgid "Conspiracy of Sky"
+msgstr "Taivaan salaliitto"
+
+msgid "Fodder"
+msgstr "Rehu"
+
+msgid "Garage for Chariot"
+msgstr "Vaunutalli"
+
+msgid "Pond for Fish"
+msgstr "Kalalampi"
+
+msgid "Pillar"
+msgstr "Pilari"
+
+msgid "Puddle of Sky"
+msgstr "Taivaan lätäkkö"
+
+msgid "Kings"
+msgstr "Kuninkaat"
+
+msgid "Gateway of Sky"
+msgstr "Taivaan käytävä"
+
+msgid "Flage of Saam"
+msgstr "Saamin lippu"
+
+msgid "Village of Sky"
+msgstr "Taivaan kylä"
+
+msgid "Belvedere of Sky"
+msgstr "Taivaan sypressi"
+
+msgid "General of Border"
+msgstr "Rajakenraali"
+
+msgid "Celebration of Sky"
+msgstr "Taivaan juhla"
+
+msgid "Flag of Emperor"
+msgstr "Keisarin lippu"
+
+msgid "Nine Territory"
+msgstr "Yhdeksän territoriota"
+
+msgid "Garden of Sky"
+msgstr "Taivaan puutarha"
+
+msgid "Settled Flag"
+msgstr "Laskostunut lippu"
+
+msgid "Forcast Calamity"
+msgstr "Ennustettu onnettomuus"
+
+msgid "Scout of Three Troups"
+msgstr "Kolmen joukon tiedustelija"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Siirtoarmeija"
+
+msgid "Well for Millitary"
+msgstr "Armeijan kaivo"
+
+msgid "Well of Jade"
+msgstr "Jadekaivo"
+
+msgid "Folding Screen"
+msgstr "Taitettava kaihdin"
+
+msgid "Piled Brushwood"
+msgstr "Risukasa"
+
+msgid "Northern River"
+msgstr "Pohjoinen joki"
+
+msgid "Wine Glass of Sky"
+msgstr "Taivaan viinilasi"
+
+msgid "Eastern Well"
+msgstr "Itäinen kaivo"
+
+msgid "Flood control"
+msgstr "Tulvavahti"
+
+msgid "Balance of Water"
+msgstr "Veden tasapaino"
+
+msgid "Four Spirit of River"
+msgstr "Joen neljä henkeä"
+
+msgid "Southern River"
+msgstr "Eteläinen joki"
+
+msgid "Twin Gate"
+msgstr "Kaksoisportti"
+
+msgid "Star of Wolf"
+msgstr "Suden tähti"
+
+msgid "Wild Fowls"
+msgstr "Riistalinnut"
+
+msgid "Market for Army"
+msgstr "Armeijan tori"
+
+msgid "Grandchildren"
+msgstr "Lapsenlapset"
+
+msgid "Grown-up"
+msgstr "Aikuinen"
+
+msgid "Oldman"
+msgstr "Vanhus"
+
+msgid "Beacon"
+msgstr "Merkkituli"
+
+msgid "Eye of Sky"
+msgstr "Taivaan silmä"
+
+msgid "Pile of Dead"
+msgstr "Kuolleiden pino"
+
+msgid "Green Ridge"
+msgstr "Vihreä harjanne"
+
+msgid "Dog of Sky"
+msgstr "Taivaan koira"
+
+msgid "Spirit of GuRyoung"
+msgstr "GuRyoungin henki"
+
+msgid "Flag of Wine Officer"
+msgstr "Viininlaskijan lippu"
+
+msgid "Officer of Kitchen"
+msgstr "Keittiömestari"
+
+msgid "Equality and Fair"
+msgstr "Tasa-arvo ja oikeudenmukaisuus"
+
+msgid "Emperor HeonWon"
+msgstr "Keisari HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Taivaan pääkaupunki"
+
+msgid "Chief of Farming"
+msgstr "Maaviljelyksen johtaja"
+
+msgid "Officer of Tomb"
+msgstr "Hautavirkailija"
+
+msgid "Tomb of Sky"
+msgstr "Taivaan hauta"
+
+msgid "Wing of Red Bird"
+msgstr "Punaisen linnun siipi"
+
+msgid "Eastern Pottery"
+msgstr "Idän keramiikka"
+
+msgid "Chariot of Emperor"
+msgstr "Keisarin vaunut"
+
+msgid "Sand for Life"
+msgstr "Elämän hiekka"
+
+msgid "Gateway for Troops"
+msgstr "Joukkojen portti"
+
+msgid "Guardian Knight"
+msgstr "Vahtiritari"
+
+msgid "Five Feudal Lords"
+msgstr "Viisi feodaaliherraa"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Matala aita"
+
+msgid "Tall Fence"
+msgstr "Korkea aita"
+
+msgid "Nine Lords"
+msgstr "Yhdeksän herraa"
+
+msgid "Dung of Tiger"
+msgstr "Tiikerin lanta"
+
+msgid "Five Emperor"
+msgstr "Viisi keisaria"
+
+msgid "Three Minister"
+msgstr "Kolme ministeriä"
+
+msgid "Officer for Audience"
+msgstr "Vastaanottovirkailija"
+
+msgid "Grave Front"
+msgstr "Haudan edusta"
+
+msgid "Observatory"
+msgstr "Observatorio"
+
+msgid "Female Officer"
+msgstr "Naisvirkailija"
+
+msgid "Wide Lodging Area"
+msgstr "Laaja asuntoalue"
+
+msgid "Eight Cereals"
+msgstr "Kahdeksan viljaa"
+
+msgid "Advance Guard"
+msgstr "Erikoisvartija"
+
+msgid "Three Ministers"
+msgstr "Kolme ministeriä"
+
+msgid "Virtue"
+msgstr "Siveys"
+
+msgid "Emperor's God of War"
+msgstr "Keisarin sodan jumala"
+
+msgid "Emperor's God of Weather"
+msgstr "Keisarin sään jumala"
+
+msgid "Flap of Flag"
+msgstr "Lipun lepatus"
+
+msgid "Minister"
+msgstr "Ministeri"
+
+msgid "General and Minister"
+msgstr "Kenraali ja ministeri"
+
+msgid "Jail of Sky"
+msgstr "Taivaan vankila"
+
+msgid "Six Department"
+msgstr "Kuusi osastoa"
+
+msgid "Inner Stairway"
+msgstr "Sisemmät portaat"
+
+msgid "Spear of Sky"
+msgstr "Taivaan keihäs"
+
+msgid "Cover for Emperor"
+msgstr "Keisarin suoja"
+
+msgid "Place for Five Emperor"
+msgstr "Viiden keisarin paikka"
+
+msgid "60 Years"
+msgstr "60 vuotta"
+
+msgid "Kitchen of Sky"
+msgstr "Taivaan keittiö"
+
+msgid "North Pole"
+msgstr "Pohjoisnapa"
+
+msgid "Wound Lodge"
+msgstr "Haavoittuneen maja"
+
+msgid "Single-log Bridge"
+msgstr "Yhden tukin silta"
+
+msgid "Great Emperor"
+msgstr "Suuri keisari"
+
+msgid "Officer for Opinion"
+msgstr "Neuvonantaja"
+
+msgid "Pillar of Sky"
+msgstr "Taivaan pilari"
+
+msgid "Secretary"
+msgstr "Sihteeri"
+
+msgid "Maid"
+msgstr "Piika"
+
+msgid "Desk of Woman"
+msgstr "Naisen pöytä"
+
+msgid "Judge Prison"
+msgstr "Tuomarivankila"
+
+msgid "Purple Fence"
+msgstr "Purppura-aita"
+
+msgid "Order of Sky"
+msgstr "Taivaan järjestys"
+
+msgid "Seven Minister"
+msgstr "Seitsemän ministeriä"
+
+msgid "Thread Straw"
+msgstr "Pujotetut oljet"
+
+msgid "Market Fence"
+msgstr "Torin aita"
+
+msgid "Feudal Lord"
+msgstr "Feodaaliherra"
+
+msgid "Seat for Emperor"
+msgstr "Keisarin istuin"
+
+msgid "Royal Family"
+msgstr "Kuninkaallinen perhe"
+
+msgid "Head of Family"
+msgstr "Perheenpää"
+
+msgid "Record of Family"
+msgstr "Sukukirja"
+
+msgid "Officer for Family"
+msgstr "Perhevirkailija"
+
+msgid "Tower in Market"
+msgstr "Torin torni"
+
+msgid "Measure Cereal"
+msgstr "Viljamitta"
+
+msgid "Cereal Measure Regulation"
+msgstr "Viljanmittaussäännöt"
+
+msgid "Officer for Chariots"
+msgstr "Vaunuvirkailija"
+
+msgid "Measure Amount"
+msgstr "Mittamäärä"
+
+msgid "Butchery"
+msgstr "Teurastamo"
+
+msgid "Officer for Jewel"
+msgstr "Jalokivivirkailija"
+
+msgid "Royal"
+msgstr "Kuninkaallinen"
+
+msgid "Lord"
+msgstr "Herra"
+
+msgid "Left Executor"
+msgstr "Vasen teloittaja"
+
+msgid "Right Executor"
+msgstr "Oikea teloittaja"
+
+msgid "Crossbeam for Heo"
+msgstr "Heon poikkihirsi"
+
+msgid "Threading Coins"
+msgstr "Pujotetut kolikot"
+
+msgid "SangSang"
+msgstr "SangSang"
+
+msgid "ChaSang"
+msgstr "ChaSang"
+
+msgid "ChaJang"
+msgstr "ChaJang"
+
+msgid "UJangGun"
+msgstr "UJangGun"
+
+msgid "DaeJangGun"
+msgstr "DaeJangGun"
+
+msgid "JwaJangGun"
+msgstr "JwaJangGun"
+
+msgid "WangRang"
+msgstr "WangRang"
+
+msgid "CheonSa"
+msgstr "CheonSa"
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr "SaGong"
+
+msgid "CheonOk"
+msgstr "CheonOk"
+
+msgid "CheonChang"
+msgstr "CheonChang"
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr "HuJangGun"
+
+msgid "PyeonJangGun"
+msgstr "PyeonJangGun"
+
+msgid "SamJangGun"
+msgstr "SamJangGun"
+
+msgid "TaeSa"
+msgstr "TaeSa"
+
+msgid "BakSa"
+msgstr "BakSa"
+
+msgid "SamGong"
+msgstr "SamGong"
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr "JaeSa"
+
+msgid "YeoJu"
+msgstr "YeoJu"
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr "Buin"
+
+msgid "WangBi"
+msgstr "WangBi"
+
+msgid "HuGung"
+msgstr "HuGung"
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr "CheoSa"
+
+msgid "EuiSa"
+msgstr "EuiSa"
+
+msgid "DaeBu"
+msgstr "DaeBu"
+
+msgid "SangTae"
+msgstr "SangTae"
+
+msgid "JungTae"
+msgstr "JungTae"
+
+msgid "HaTae"
+msgstr "HaTae"
+
+msgid "TaeJa"
+msgstr "TaeJa"
+
+msgid "JaeWang"
+msgstr "JaeWang"
+
+msgid "SeoJa"
+msgstr "SeoJa"
+
+msgid "CheonChu"
+msgstr "CheonChu"
+
+msgid "SangJang"
+msgstr "SangJang"
+
+msgid "TaeSang"
+msgstr "TaeSang"
+
+msgid "SaJu.DaeRi"
+msgstr "SaJu.DaeRi"
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr "Sal"
+
+msgid "Wi"
+msgstr "Wi"
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr "MyeongDang"
+
+msgid "Hu"
+msgstr "Hu"
+
+msgid "Bin"
+msgstr "Bin"
+
+msgid "DaeJang"
+msgstr "DaeJang"

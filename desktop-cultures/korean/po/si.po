@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Sinhala (https://app.transifex.com/stellarium/teams/80998/"
+"si/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: si\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "සුනඛයා"
+
+msgid "Arrow"
+msgstr "ඊ තලය"
+
+msgid "Bow"
+msgstr "දුන්න"
+
+msgid "Fish"
+msgstr "මාලුවා"
+
+msgid "Northern Dipper"
+msgstr "උතුරු සාස්පාන"
+
+msgid "Toilet"
+msgstr "වැසිකිලිය"
+
+msgid "Whip"
+msgstr "කසය"
+
+msgid "Mausoleum"
+msgstr "සොහොන් ගැබ"
+
+msgid "Mortar"
+msgstr "වංගෙඩිය"
+
+msgid "Rolled Tongue"
+msgstr "රෝල් වූ දිව"
+
+msgid "Chaff"
+msgstr "දහයියා"
+
+msgid "Whetstone"
+msgstr "කරගල"
+
+msgid "Inner Kitchen"
+msgstr "ඇතුළු මුළුතැන්ගෙය"
+
+msgid "Three Steps"
+msgstr "පියගැට පේලි තුන"
+
+msgid "Eunuch"
+msgstr "නපුංසකයා"
+
+msgid "Crown Prince"
+msgstr "කිරුළු පලන් කුමරු"
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr "පිටත මුළුතැන්ගෙය"
+
+msgid "Five Lords"
+msgstr "උතුමන් පස්දෙනා"
+
+msgid "Right Flag"
+msgstr "දකුණු කොඩිය"
+
+msgid "Son"
+msgstr "පුතා"
+
+msgid "Left Flag"
+msgstr "වම් කොඩිය"
+
+msgid "Charioteer"
+msgstr ""
+
+msgid "Holy Kettle"
+msgstr "ශුද්ධවූ කේතලය"
+
+msgid "Farm of Capital City"
+msgstr "අගනගරයේ ගොවිපල"
+
+msgid "Dignity of King"
+msgstr "අහංකාර රජු"
+
+msgid "Nomination"
+msgstr "නාමයෝජනාව"
+
+msgid "Gate of Sky"
+msgstr "ගගන ද්වාරය"
+
+msgid "Equality"
+msgstr "සමානාත්මතාව"
+
+msgid "Helper"
+msgstr "උදව්කරු"
+
+msgid "Position of Holy King"
+msgstr "ශුද්ධවූ රජතුමාගේ ස්ථානය"
+
+msgid "Neck of Dragon"
+msgstr "මකරාගේ ගෙල"
+
+msgid "Beheading"
+msgstr "ශ්‍රීර්ෂච්ඡේදනය"
+
+msgid "Judge"
+msgstr "විනිසුරු"
+
+msgid "Flutting Flag"
+msgstr "ලෙලදෙන ධජය"
+
+msgid "Javelin of Sky"
+msgstr "අහස් කුන්තය"
+
+msgid "Seat for Longevity"
+msgstr "දීර්ඝායුෂ ආසනය"
+
+msgid "Oar for visitor"
+msgstr "අමුත්තාගේ හබල"
+
+msgid "Milk of Sky"
+msgstr "අහස් කිරි"
+
+msgid "House of Queen"
+msgstr "රැජිනගේ නිවස"
+
+msgid "Ancient Chariot"
+msgstr "ඉපැරණි කරත්තය"
+
+msgid "Carriage for King"
+msgstr "රජුගේ කරත්තය"
+
+msgid "General of Cavalry"
+msgstr "තුරඟ සේනාවේ ජෙනරාල්"
+
+msgid "Cavalry of Emperor"
+msgstr "අධිරාජ්‍යාගේ තුරඟ සේනාව"
+
+msgid "General of Mobile Troops"
+msgstr "ජංගම හමුදාවේ ජෙනරාල්"
+
+msgid "East Road"
+msgstr "නැගෙනහිර මාවත"
+
+msgid "Gate Bolt"
+msgstr "‍ගේට්ටුවේ ඇණය"
+
+msgid "Door Lock and Key"
+msgstr "දොර අගුල සහ යතුර"
+
+msgid "Penalty"
+msgstr "දඩය"
+
+msgid "Royal Hall"
+msgstr "රාජකීය ශාලාව"
+
+msgid "Chamberlain"
+msgstr "කංචුකී"
+
+msgid "Sun"
+msgstr "සූර්යයා"
+
+msgid "West Road"
+msgstr "බටහිර මාවත"
+
+msgid "Seat of Emperor"
+msgstr "අධිරාජ්‍යයාගේ ආසනය"
+
+msgid "Five Troops"
+msgstr "පංච හමුදා"
+
+msgid "River of Sky"
+msgstr "අහස් ගඟ"
+
+msgid "Prayer for Progeny"
+msgstr "ප්‍රජාවට අයැදුම"
+
+msgid "Forcast"
+msgstr "අනාවැකිය"
+
+msgid "Yard for Empresses"
+msgstr "අධිරාජිණියන් සඳහා වන ප්‍රදේශය"
+
+msgid "Holy Palace"
+msgstr "ශුද්ධ වූ මාලිගය"
+
+msgid "Winnow"
+msgstr "කුල්ල"
+
+msgid "Outer Pestle"
+msgstr "පිටත මෝල්ගස"
+
+msgid "Head of Town"
+msgstr "නගර ප්‍රධානී"
+
+msgid "Build"
+msgstr "සැදුම"
+
+msgid "Fowl of Sky"
+msgstr "අහසේ කුකුළා"
+
+msgid "Shrine of Sky"
+msgstr ""
+
+msgid "Northeastern Nations"
+msgstr "උතුරුනැගෙනහිර රාජ්‍ය"
+
+msgid "Old Farmer"
+msgstr "නාකි ගොවියා"
+
+msgid "Snapping Turtle"
+msgstr "ශබ්ද කරන ඉබ්බා"
+
+msgid "Road for Emperor"
+msgstr "අධිරාජ්‍යයා සදහා මාර්ගය"
+
+msgid "The Weaver"
+msgstr "වියන්නා"
+
+msgid "River adjoining Tower"
+msgstr "ගඟ සහ කුළුන"
+
+msgid "Drum of River"
+msgstr "භේරී ගඟුල"
+
+msgid "Drumstick of Sky"
+msgstr "ගගන කඩිප්පුව"
+
+msgid "Cow leading Man"
+msgstr "මිනිසා කැඳවාගෙන යන ගවයා"
+
+msgid "Bank Spread"
+msgstr "ගං ධරය"
+
+msgid "Basket for Silkworm"
+msgstr "සේද පණුවන් මල්ල"
+
+msgid "Officer for Cart"
+msgstr "කරත්තවේ කිලධාරියා"
+
+msgid "Ferry of Sky"
+msgstr "අහස් තොටුපල"
+
+msgid "Fruit"
+msgstr "පළතුර"
+
+msgid "Seed"
+msgstr "බීජය"
+
+msgid "Storage for Lady"
+msgstr "කාත්තාව සදහා ගබඩාව"
+
+msgid "Court Lady"
+msgstr "නීති කත"
+
+msgid "Judge Fault"
+msgstr "වැරදි විනිශ්ච්‍ය"
+
+msgid "Amend Fault"
+msgstr "වැරදි සංශෝදනය"
+
+msgid "Grant Life"
+msgstr "අභය දානය"
+
+msgid "Punish"
+msgstr "දඬුවම"
+
+msgid "Empty House"
+msgstr "හිස් නිවස"
+
+msgid "Weep"
+msgstr "වැලපුම"
+
+msgid "Sob"
+msgstr "ඉකිබිඳුම"
+
+msgid "Castle with Rampart"
+msgstr "ප්‍රාකාරයක් ඇති බලකොටුව"
+
+msgid "Hook for Dress"
+msgstr "ඇදුම් එල්ලනය"
+
+msgid "Groom"
+msgstr "මනාලයා"
+
+msgid "Human"
+msgstr "මනුෂ්‍යයා"
+
+msgid "Inner Pestle"
+msgstr "මෝල්ගස"
+
+msgid "Warehouse of Sky"
+msgstr "අහස් ගබඩාව"
+
+msgid "Tomb"
+msgstr "සොහොන"
+
+msgid "Cover of House"
+msgstr "ගෙදර ආවරණය"
+
+msgid "Broken Mortar"
+msgstr "කැඩුනු කාලතුවක්කුව"
+
+msgid "Climbing Serpent"
+msgstr "බඩගාන සර්පයා"
+
+msgid "Palace of Emperor"
+msgstr "අධිරාජ්‍යයාගේ මාලිගය"
+
+msgid "Detached Palace"
+msgstr "වෙන්වුනු මාලිගාව"
+
+msgid "Lightening"
+msgstr "අකුණ"
+
+msgid "Rampart"
+msgstr "පවුර"
+
+msgid "Troops of Sky"
+msgstr "ගුවන් සොල්දාදුවෝ"
+
+msgid "Village for Patrol"
+msgstr "මුරසංචාර සදහා ගම"
+
+msgid "Net of Sky"
+msgstr "අහසේ දැල"
+
+msgid "Stable of Sky"
+msgstr "ගුවන් අශ්ව ගාල"
+
+msgid "Eastern Wall"
+msgstr "නැගෙනහිර බිත්තිය"
+
+msgid "Civil Engineer"
+msgstr "සිවිල් ඉන්ජිනේරුවා"
+
+msgid "Thunderbolts"
+msgstr "අකුණු පහර"
+
+msgid "Clouds and Rain"
+msgstr "වලාකුළු සහ වැස්ස"
+
+msgid "Highway"
+msgstr "අධිවේගි මාර්ගය"
+
+msgid "Officer for Chariot of"
+msgstr "රථ භාර නිලධාරියා"
+
+msgid "Side Road"
+msgstr "පැති මාවත"
+
+msgid "Armory"
+msgstr "අවි ගබඩාව"
+
+msgid "Southern Gate of Emperator"
+msgstr "අධිපති‍ගේ දකුණු දොරටුව"
+
+msgid "Outer Folding Screen"
+msgstr "පිටත නමන තිරය"
+
+msgid "Toilet of Sky"
+msgstr "අහසේ වැසිකිලිය"
+
+msgid "Architect"
+msgstr "නිර්මාණ ශිල්පය"
+
+msgid "Emperator"
+msgstr "අග රජ"
+
+msgid "Watchtower"
+msgstr "නැරඹුම් කුළුන"
+
+msgid "Left Elm"
+msgstr "වම් එල්ම්"
+
+msgid "Right Elm"
+msgstr "දකුණු එල්ම්"
+
+msgid "Storehouse of Sky"
+msgstr "අහසේ ගබඩාව"
+
+msgid "Stack of Cereals"
+msgstr "ධාන්‍ය ගොඩ"
+
+msgid "Ship of Sky"
+msgstr "ගුවන් නැව"
+
+msgid "Store of Water"
+msgstr "ජල ගබඩාව"
+
+msgid "Heap of Corpse"
+msgstr "මළ කුණු කන්ද"
+
+msgid "Stomach of Tiger"
+msgstr "කොටියාගේ බඩ"
+
+msgid "Store of Millet for"
+msgstr "මිල්ට් ගබඩාව"
+
+msgid "Storehouse for Cereals"
+msgstr "ධාන්‍ය ගබඩාව"
+
+msgid "Shaman of Sky"
+msgstr "අහසේ යකදුරා"
+
+msgid "Ear and Eye of"
+msgstr "...ගේ කන සහ ඇස"
+
+msgid "Moon"
+msgstr "චන්ද්‍රයා"
+
+msgid "Hill of Sky"
+msgstr "ගුවන් කදු මුදුන"
+
+msgid "Conspiracy of Sky"
+msgstr "අහසේ කුමන්ත්‍රණය"
+
+msgid "Fodder"
+msgstr "සත්ව ආහාර"
+
+msgid "Garage for Chariot"
+msgstr "කරත්ත ගරාජය"
+
+msgid "Pond for Fish"
+msgstr "මාළුන් සදහා පොකුණ"
+
+msgid "Pillar"
+msgstr "කුළුන"
+
+msgid "Puddle of Sky"
+msgstr "ගුවන් මඩ කඩිත්ත"
+
+msgid "Kings"
+msgstr "රජවරු"
+
+msgid "Gateway of Sky"
+msgstr "ගගන ද්වාරය"
+
+msgid "Flage of Saam"
+msgstr "සාම්ගේ ධජය"
+
+msgid "Village of Sky"
+msgstr "ගුවන් ගම"
+
+msgid "Belvedere of Sky"
+msgstr "අහස් සදළුතලය"
+
+msgid "General of Border"
+msgstr "සීමාවේ ජනරාල්වරයා"
+
+msgid "Celebration of Sky"
+msgstr ""
+
+msgid "Flag of Emperor"
+msgstr "අධිරාජ්‍යාගේ කොඩිය"
+
+msgid "Nine Territory"
+msgstr "භූමි නමය"
+
+msgid "Garden of Sky"
+msgstr "ගුවනේ උද්‍යානය"
+
+msgid "Settled Flag"
+msgstr "සිටවූ කොඩිය"
+
+msgid "Forcast Calamity"
+msgstr "ආපදා අනාවැකිය"
+
+msgid "Scout of Three Troups"
+msgstr "කණ්ඩායම් තුනෙහි ඔත්තුකරුවා"
+
+msgid "Saam"
+msgstr "සාම්"
+
+msgid "Expeditionary Force"
+msgstr "කාර්ය සාධක බලකාය"
+
+msgid "Well for Millitary"
+msgstr "හමුදාව සදහා ලිද"
+
+msgid "Well of Jade"
+msgstr "ජේඩ් ලිඳ"
+
+msgid "Folding Screen"
+msgstr "නමන තිරය"
+
+msgid "Piled Brushwood"
+msgstr "ගොඩගසන ලද අකුල"
+
+msgid "Northern River"
+msgstr "උතුරු ගඟ"
+
+msgid "Wine Glass of Sky"
+msgstr "අහසේ වයින් වීදුරුව"
+
+msgid "Eastern Well"
+msgstr "නැගෙනහිර ලිඳ"
+
+msgid "Flood control"
+msgstr "ගංවතුර පාලනය"
+
+msgid "Balance of Water"
+msgstr "ජල තරාදිය"
+
+msgid "Four Spirit of River"
+msgstr "නදියේ ප්‍රාණීන් සතරදෙනා"
+
+msgid "Southern River"
+msgstr "දකුණු ගඟ"
+
+msgid "Twin Gate"
+msgstr "ද්විත්ව ගේට්ටුව"
+
+msgid "Star of Wolf"
+msgstr "වෘකයාගේ තරකාව"
+
+msgid "Wild Fowls"
+msgstr "වල් කුකුළන් (සැවුලන්)"
+
+msgid "Market for Army"
+msgstr "හමුදා වෙලඳපොළ"
+
+msgid "Grandchildren"
+msgstr "මුනුඹුරෝ"
+
+msgid "Grown-up"
+msgstr "වැඩෙනවා"
+
+msgid "Oldman"
+msgstr "වයසක මිනිහා"
+
+msgid "Beacon"
+msgstr "ප්‍රදීපය"
+
+msgid "Eye of Sky"
+msgstr "ගුවනෙ ඇස"
+
+msgid "Pile of Dead"
+msgstr "මළමිනී කන්ද"
+
+msgid "Green Ridge"
+msgstr "හරිත වැටිය"
+
+msgid "Dog of Sky"
+msgstr "ගුවනේ බල්ලා"
+
+msgid "Spirit of GuRyoung"
+msgstr "ග්‍යු රියොන්ගේ අවතාරය"
+
+msgid "Flag of Wine Officer"
+msgstr "ව‍යින් නිලධාරියාගේ කොඩිය"
+
+msgid "Officer of Kitchen"
+msgstr "මුලුතැන්ගෙයි නිලධාරියා"
+
+msgid "Equality and Fair"
+msgstr "දුන්න"
+
+msgid "Emperor HeonWon"
+msgstr "හිඔන්වොන් අධිරාජ්‍යයා"
+
+msgid "Capital of Sky"
+msgstr "ගුවනේ අගනගරය"
+
+msgid "Chief of Farming"
+msgstr "ගොවිතැනට නායක"
+
+msgid "Officer of Tomb"
+msgstr "සොහොනේ නිලධාරියා"
+
+msgid "Tomb of Sky"
+msgstr "ගුවනේ සොහොන"
+
+msgid "Wing of Red Bird"
+msgstr "රතු කුරුල්ලාගෙ පිහාටුව"
+
+msgid "Eastern Pottery"
+msgstr "නැගෙනහිර වළං සාදන්නා (කුඹලා)"
+
+msgid "Chariot of Emperor"
+msgstr "අධිරාජ්‍යාගේ රථය"
+
+msgid "Sand for Life"
+msgstr "ජීවය පිණිස වැලි"
+
+msgid "Gateway for Troops"
+msgstr "සෙබලුන් සදහා ද්වාරය"
+
+msgid "Guardian Knight"
+msgstr "ආරක්ෂක නයිට්වරයා"
+
+msgid "Five Feudal Lords"
+msgstr "වැඩවසම් රජවරු පස්දෙනා"
+
+msgid "SangJiin"
+msgstr "සැන්ග්ජින්"
+
+msgid "Low Fence"
+msgstr "කොට වැට"
+
+msgid "Tall Fence"
+msgstr "උස වැට"
+
+msgid "Nine Lords"
+msgstr "අධිරාජ්‍යයින් නමදෙනා"
+
+msgid "Dung of Tiger"
+msgstr "කො‍ටි අසූචි"
+
+msgid "Five Emperor"
+msgstr "පස්වන අධිරාජ්‍යයා"
+
+msgid "Three Minister"
+msgstr "තුන්වන ඇමති"
+
+msgid "Officer for Audience"
+msgstr "සභාවෙ නිලධාරියා"
+
+msgid "Grave Front"
+msgstr "මිනීවළෙහි ඉදිරිය"
+
+msgid "Observatory"
+msgstr "නිරීක්ෂණාගාරය"
+
+msgid "Female Officer"
+msgstr "නිලධාරිනිය"
+
+msgid "Wide Lodging Area"
+msgstr "පුළුල් නවාතැන"
+
+msgid "Eight Cereals"
+msgstr "ධාන්‍ය අට"
+
+msgid "Advance Guard"
+msgstr "විශේෂ ආරක්ෂකයා"
+
+msgid "Three Ministers"
+msgstr "ඇමතිවරු තිදෙනා"
+
+msgid "Virtue"
+msgstr "සීලය"
+
+msgid "Emperor's God of War"
+msgstr "‍යුධ දෙවිගේ පන්සල"
+
+msgid "Emperor's God of Weather"
+msgstr "කාලගුණ දෙවිගේ පන්සල"
+
+msgid "Flap of Flag"
+msgstr "ලෙළදෙන ධජය"
+
+msgid "Minister"
+msgstr "ඇමති"
+
+msgid "General and Minister"
+msgstr "ජෙනරාල් සහ ඇමති"
+
+msgid "Jail of Sky"
+msgstr "ගුවන් සිරගෙය"
+
+msgid "Six Department"
+msgstr "දෙපාර්තමේන්තු හය"
+
+msgid "Inner Stairway"
+msgstr "ඇතුළු පඩිපෙළ"
+
+msgid "Spear of Sky"
+msgstr "අහසේ හෙල්ල"
+
+msgid "Cover for Emperor"
+msgstr "අධිරාජ්‍යයා සදහා ආවරණය"
+
+msgid "Place for Five Emperor"
+msgstr "පංච අධිරාජ්‍යයාගේ ස්ථානය"
+
+msgid "60 Years"
+msgstr "අවුරුදු 60"
+
+msgid "Kitchen of Sky"
+msgstr "ගගනේ මුළුතැන්ගෙය"
+
+msgid "North Pole"
+msgstr "උතුරු ධ්‍රැවය"
+
+msgid "Wound Lodge"
+msgstr "කැඩුනු ගෙදර"
+
+msgid "Single-log Bridge"
+msgstr "ඒදන්ඩ"
+
+msgid "Great Emperor"
+msgstr "උතුම් අධිරාජ්‍යා"
+
+msgid "Officer for Opinion"
+msgstr "අදහස් පිලිබඳ නිලධාරියා"
+
+msgid "Pillar of Sky"
+msgstr "ගගනේ ස්ථම්භය"
+
+msgid "Secretary"
+msgstr "ලේකම්"
+
+msgid "Maid"
+msgstr "මෙහෙකාරිය"
+
+msgid "Desk of Woman"
+msgstr "කාන්තාවගේ මේසය"
+
+msgid "Judge Prison"
+msgstr "නඩුකාර සිරගෙය"
+
+msgid "Purple Fence"
+msgstr "දඹ වැට"
+
+msgid "Order of Sky"
+msgstr "අහසේ අණ"
+
+msgid "Seven Minister"
+msgstr "ඇමතිවරු හත්දෙනා"
+
+msgid "Thread Straw"
+msgstr "පිදුරු වලින් හැදු නූල"
+
+msgid "Market Fence"
+msgstr "වෙළඳ පොලේ වැට"
+
+msgid "Feudal Lord"
+msgstr "වැඩවසම් රජු"
+
+msgid "Seat for Emperor"
+msgstr "සිංහාසනය"
+
+msgid "Royal Family"
+msgstr "පවුල"
+
+msgid "Head of Family"
+msgstr "ගෘහ මූලිකයා"
+
+msgid "Record of Family"
+msgstr "පවුලේ සටහන"
+
+msgid "Officer for Family"
+msgstr "පවුලේ කිලධාරියා"
+
+msgid "Tower in Market"
+msgstr "වෙළඳපොලේ ඇති කුළුන"
+
+msgid "Measure Cereal"
+msgstr "ධනය මැණීම"
+
+msgid "Cereal Measure Regulation"
+msgstr "ධනය මැණිමේ නීති"
+
+msgid "Officer for Chariots"
+msgstr "රථ නිලධාරියා"
+
+msgid "Measure Amount"
+msgstr "මැනුම් ප්‍රමාණය"
+
+msgid "Butchery"
+msgstr "ඝාතකාගාරය"
+
+msgid "Officer for Jewel"
+msgstr "ආභරණ නිලධාරියා"
+
+msgid "Royal"
+msgstr "රාජකීයයා"
+
+msgid "Lord"
+msgstr "උතුමා"
+
+msgid "Left Executor"
+msgstr "වම් බලකාරයා"
+
+msgid "Right Executor"
+msgstr "දකුණු බලකාරයා"
+
+msgid "Crossbeam for Heo"
+msgstr "හිඔගේ හරස් බාල්කය"
+
+msgid "Threading Coins"
+msgstr "අමුණන ලද කාසි"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "චියොන්ගො"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "ගෙයොං"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "ජේඌ"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "යෝඊ"
+
+msgid "TaeMin"
+msgstr "ටේමිං"
+
+msgid "SouMin"
+msgstr "සෝමි"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "හ්වංජේ"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "ජියොං"
+
+msgid "Beop"
+msgstr "බෙයොප්"
+
+msgid "Ryeong"
+msgstr "රියොං"
+
+msgid "Beol"
+msgstr "බෙයොල්"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "ඉයුං"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

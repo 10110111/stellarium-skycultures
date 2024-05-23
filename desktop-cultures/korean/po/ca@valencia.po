@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Catalan (Valencian) (https://app.transifex.com/stellarium/"
+"teams/80998/ca@valencia/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca@valencia\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "Gos"
+
+msgid "Arrow"
+msgstr "Fletxa"
+
+msgid "Bow"
+msgstr "Arc"
+
+msgid "Fish"
+msgstr "Peix"
+
+msgid "Northern Dipper"
+msgstr "El carro del nord"
+
+msgid "Toilet"
+msgstr "Lavabo"
+
+msgid "Whip"
+msgstr "Fuet"
+
+msgid "Mausoleum"
+msgstr "Mausoleu"
+
+msgid "Mortar"
+msgstr "Morter"
+
+msgid "Rolled Tongue"
+msgstr "Llengua enrotllada"
+
+msgid "Chaff"
+msgstr "Segó"
+
+msgid "Whetstone"
+msgstr "Pedra d'esmolar"
+
+msgid "Inner Kitchen"
+msgstr "Cuina Interior"
+
+msgid "Three Steps"
+msgstr "Tres escalons"
+
+msgid "Eunuch"
+msgstr "Eunuc"
+
+msgid "Crown Prince"
+msgstr "Príncep hereu"
+
+msgid "Official for Materials Supply"
+msgstr "Oficial per al subministrament de materials"
+
+msgid "Outer Kitchen"
+msgstr "Cuina Exterior"
+
+msgid "Five Lords"
+msgstr "Cinc senyors"
+
+msgid "Right Flag"
+msgstr "Bandera de la dreta"
+
+msgid "Son"
+msgstr "Fill"
+
+msgid "Left Flag"
+msgstr "Bandera de l'esquerra"
+
+msgid "Charioteer"
+msgstr "l'Auriga"
+
+msgid "Holy Kettle"
+msgstr "Calder sagrat"
+
+msgid "Farm of Capital City"
+msgstr "La Granja de la ciutat capital"
+
+msgid "Dignity of King"
+msgstr "Dignitat del Rei"
+
+msgid "Nomination"
+msgstr "Nominació"
+
+msgid "Gate of Sky"
+msgstr "Portó del Cel"
+
+msgid "Equality"
+msgstr "Igualtat"
+
+msgid "Helper"
+msgstr "Ajudant"
+
+msgid "Position of Holy King"
+msgstr "Posició del Rei Sant"
+
+msgid "Neck of Dragon"
+msgstr "Coll del Drac"
+
+msgid "Beheading"
+msgstr "Decapitació"
+
+msgid "Judge"
+msgstr "Jutge"
+
+msgid "Flutting Flag"
+msgstr "Bandera Ondejant"
+
+msgid "Javelin of Sky"
+msgstr "Javelina del Cel"
+
+msgid "Seat for Longevity"
+msgstr "Seient per a la Longevitat"
+
+msgid "Oar for visitor"
+msgstr "Rem del Visitant"
+
+msgid "Milk of Sky"
+msgstr "Llet del Cel"
+
+msgid "House of Queen"
+msgstr "Casa de la Reina"
+
+msgid "Ancient Chariot"
+msgstr "Carro Antic"
+
+msgid "Carriage for King"
+msgstr "Carruatge per al Rei"
+
+msgid "General of Cavalry"
+msgstr "General de Cavalleria"
+
+msgid "Cavalry of Emperor"
+msgstr "Cavalleria de l'Emperador"
+
+msgid "General of Mobile Troops"
+msgstr "General d'Infanteria"
+
+msgid "East Road"
+msgstr "Carretera de l'est"
+
+msgid "Gate Bolt"
+msgstr "Forrellat de Porta"
+
+msgid "Door Lock and Key"
+msgstr "Pany i Clau"
+
+msgid "Penalty"
+msgstr "Càstig"
+
+msgid "Royal Hall"
+msgstr "Sala Reial"
+
+msgid "Chamberlain"
+msgstr "Camarlenc"
+
+msgid "Sun"
+msgstr "Sol"
+
+msgid "West Road"
+msgstr "Carretera de l'Oest"
+
+msgid "Seat of Emperor"
+msgstr "Seient de l'Emperador"
+
+msgid "Five Troops"
+msgstr "Cinc Tropes"
+
+msgid "River of Sky"
+msgstr "Riu del Cel"
+
+msgid "Prayer for Progeny"
+msgstr "Pregària per la Progènie"
+
+msgid "Forcast"
+msgstr "Predicció"
+
+msgid "Yard for Empresses"
+msgstr "Pati per a Emperadrius"
+
+msgid "Holy Palace"
+msgstr "Palau Sagrat"
+
+msgid "Winnow"
+msgstr "Ventador"
+
+msgid "Outer Pestle"
+msgstr "Mà de Morter Exterior"
+
+msgid "Head of Town"
+msgstr "Cap de Poble"
+
+msgid "Build"
+msgstr "Construcció"
+
+msgid "Fowl of Sky"
+msgstr "Aus del Cel"
+
+msgid "Shrine of Sky"
+msgstr "Santuari del Cel"
+
+msgid "Northeastern Nations"
+msgstr "Nacions del Nord-est"
+
+msgid "Old Farmer"
+msgstr "El Vell Granger"
+
+msgid "Snapping Turtle"
+msgstr "Tortuga Mossegadora"
+
+msgid "Road for Emperor"
+msgstr "Carretera per a l'Emperador"
+
+msgid "The Weaver"
+msgstr "La teixidora"
+
+msgid "River adjoining Tower"
+msgstr "Riu Contigu a la Torre"
+
+msgid "Drum of River"
+msgstr "Tambor del Riu"
+
+msgid "Drumstick of Sky"
+msgstr "Baqueta del Cel"
+
+msgid "Cow leading Man"
+msgstr "L'home que Seguix el Camí de la Vaca"
+
+msgid "Bank Spread"
+msgstr "Extensió del Banc"
+
+msgid "Basket for Silkworm"
+msgstr "Cistella per a Cucs de Seda"
+
+msgid "Officer for Cart"
+msgstr "Oficial de la Carreta"
+
+msgid "Ferry of Sky"
+msgstr "Transbordador del Cel"
+
+msgid "Fruit"
+msgstr "Fruita"
+
+msgid "Seed"
+msgstr "Llavor"
+
+msgid "Storage for Lady"
+msgstr "Magatzem de la Dama"
+
+msgid "Court Lady"
+msgstr "Dama de la Cort"
+
+msgid "Judge Fault"
+msgstr "Error del Jutge"
+
+msgid "Amend Fault"
+msgstr "Correcció de l'error"
+
+msgid "Grant Life"
+msgstr "Concessió de la vida"
+
+msgid "Punish"
+msgstr "Càstig"
+
+msgid "Empty House"
+msgstr "Casa buida"
+
+msgid "Weep"
+msgstr "Plor"
+
+msgid "Sob"
+msgstr "Sanglot"
+
+msgid "Castle with Rampart"
+msgstr "Castell Emmurallat"
+
+msgid "Hook for Dress"
+msgstr "Penjador"
+
+msgid "Groom"
+msgstr "Mosso"
+
+msgid "Human"
+msgstr "Humà"
+
+msgid "Inner Pestle"
+msgstr "Mà de Morter Interior"
+
+msgid "Warehouse of Sky"
+msgstr "Magatzem del Cel"
+
+msgid "Tomb"
+msgstr "Tomba"
+
+msgid "Cover of House"
+msgstr "Coberta de la Casa"
+
+msgid "Broken Mortar"
+msgstr "Morter Trencat"
+
+msgid "Climbing Serpent"
+msgstr "Serp Escaladora"
+
+msgid "Palace of Emperor"
+msgstr "Palau de l'Emperador"
+
+msgid "Detached Palace"
+msgstr "Palau Independent"
+
+msgid "Lightening"
+msgstr "Llamp"
+
+msgid "Rampart"
+msgstr "Muralla"
+
+msgid "Troops of Sky"
+msgstr "Tropes del Cel"
+
+msgid "Village for Patrol"
+msgstr "Poble per a la Patrulla"
+
+msgid "Net of Sky"
+msgstr "Xarxa del Cel"
+
+msgid "Stable of Sky"
+msgstr "Estable del Cel"
+
+msgid "Eastern Wall"
+msgstr "Mur Oriental"
+
+msgid "Civil Engineer"
+msgstr "Enginyer Civil"
+
+msgid "Thunderbolts"
+msgstr "Llamps"
+
+msgid "Clouds and Rain"
+msgstr "Núvols i Pluja"
+
+msgid "Highway"
+msgstr "Autopista"
+
+msgid "Officer for Chariot of"
+msgstr "Oficial del carro"
+
+msgid "Side Road"
+msgstr "Carretera Secundària"
+
+msgid "Armory"
+msgstr "Armeria"
+
+msgid "Southern Gate of Emperator"
+msgstr "Porta Sud de l'Emperador"
+
+msgid "Outer Folding Screen"
+msgstr "Paravent Exterior"
+
+msgid "Toilet of Sky"
+msgstr "Lavabo del Cel"
+
+msgid "Architect"
+msgstr "Arquitecte"
+
+msgid "Emperator"
+msgstr "Emperador"
+
+msgid "Watchtower"
+msgstr "Talaia"
+
+msgid "Left Elm"
+msgstr "Om de l'Esquerra"
+
+msgid "Right Elm"
+msgstr "Om de la Dreta"
+
+msgid "Storehouse of Sky"
+msgstr "Magatzem del Cel"
+
+msgid "Stack of Cereals"
+msgstr "Muntó de Cereals"
+
+msgid "Ship of Sky"
+msgstr "Vaixell del Cel"
+
+msgid "Store of Water"
+msgstr "Reserva d'Aigua"
+
+msgid "Heap of Corpse"
+msgstr "Muntó de Cadàvers"
+
+msgid "Stomach of Tiger"
+msgstr "Estómac del Tigre"
+
+msgid "Store of Millet for"
+msgstr "Magatzem de Mill per a"
+
+msgid "Storehouse for Cereals"
+msgstr "Magatzem de Cereals"
+
+msgid "Shaman of Sky"
+msgstr "Xaman de Cel"
+
+msgid "Ear and Eye of"
+msgstr "Orella i Ull"
+
+msgid "Moon"
+msgstr "Lluna"
+
+msgid "Hill of Sky"
+msgstr "Pujol del Cel"
+
+msgid "Conspiracy of Sky"
+msgstr "Conspiració del Cel"
+
+msgid "Fodder"
+msgstr "Farratge"
+
+msgid "Garage for Chariot"
+msgstr "Garatge del Carro"
+
+msgid "Pond for Fish"
+msgstr "Estany de Peixos"
+
+msgid "Pillar"
+msgstr "Pilar"
+
+msgid "Puddle of Sky"
+msgstr "Toll del Cel"
+
+msgid "Kings"
+msgstr "Reis"
+
+msgid "Gateway of Sky"
+msgstr "Porta del Cel"
+
+msgid "Flage of Saam"
+msgstr "Bandera de Saam"
+
+msgid "Village of Sky"
+msgstr "Poble del Cel"
+
+msgid "Belvedere of Sky"
+msgstr "Mirador del Cel"
+
+msgid "General of Border"
+msgstr "General de Frontera"
+
+msgid "Celebration of Sky"
+msgstr "La Celebració del Cel"
+
+msgid "Flag of Emperor"
+msgstr "Bandera de l'Emperador"
+
+msgid "Nine Territory"
+msgstr "Nou Territoris"
+
+msgid "Garden of Sky"
+msgstr "Jardí del Cel"
+
+msgid "Settled Flag"
+msgstr "Bandera Plantada"
+
+msgid "Forcast Calamity"
+msgstr "Predicció de Calamitat"
+
+msgid "Scout of Three Troups"
+msgstr "Escolta de Tres Tropes"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Força Expedicionària"
+
+msgid "Well for Millitary"
+msgstr "Pou Militar"
+
+msgid "Well of Jade"
+msgstr "Pou de Jade"
+
+msgid "Folding Screen"
+msgstr "Paravent"
+
+msgid "Piled Brushwood"
+msgstr "Brossa Apilada"
+
+msgid "Northern River"
+msgstr "Riu del Nord"
+
+msgid "Wine Glass of Sky"
+msgstr "Copa de Vi del Cel"
+
+msgid "Eastern Well"
+msgstr "Pou de l'Est"
+
+msgid "Flood control"
+msgstr "Control d'Inundacions"
+
+msgid "Balance of Water"
+msgstr "Balança d'Aigua"
+
+msgid "Four Spirit of River"
+msgstr "Quatre Esperits del Riu"
+
+msgid "Southern River"
+msgstr "Riu del Sud"
+
+msgid "Twin Gate"
+msgstr "Porta Doble"
+
+msgid "Star of Wolf"
+msgstr "Estrella del Llop"
+
+msgid "Wild Fowls"
+msgstr "Aus Silvestres"
+
+msgid "Market for Army"
+msgstr "Mercat de l'Exèrcit"
+
+msgid "Grandchildren"
+msgstr "Nets"
+
+msgid "Grown-up"
+msgstr "Adult"
+
+msgid "Oldman"
+msgstr "El Vell"
+
+msgid "Beacon"
+msgstr "Far"
+
+msgid "Eye of Sky"
+msgstr "Ull del Cel"
+
+msgid "Pile of Dead"
+msgstr "Muntó de Morts"
+
+msgid "Green Ridge"
+msgstr "Cresta Verda"
+
+msgid "Dog of Sky"
+msgstr "Gos del Cel"
+
+msgid "Spirit of GuRyoung"
+msgstr "Esperit de GuRyoung"
+
+msgid "Flag of Wine Officer"
+msgstr "Bandera del Gerent de Vi"
+
+msgid "Officer of Kitchen"
+msgstr "Oficial de Cuina"
+
+msgid "Equality and Fair"
+msgstr "Igualtat i Justícia"
+
+msgid "Emperor HeonWon"
+msgstr "Emperador HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Capital del Cel"
+
+msgid "Chief of Farming"
+msgstr "Cap d'Agricultura"
+
+msgid "Officer of Tomb"
+msgstr "Oficial de la Tomba"
+
+msgid "Tomb of Sky"
+msgstr "Tomba del Cel"
+
+msgid "Wing of Red Bird"
+msgstr "Ala d'Ocell Roig"
+
+msgid "Eastern Pottery"
+msgstr "Ceràmica de l'Est"
+
+msgid "Chariot of Emperor"
+msgstr "Carro de l'Emperador"
+
+msgid "Sand for Life"
+msgstr "Arena per a la Vida"
+
+msgid "Gateway for Troops"
+msgstr "Porta de les Tropes"
+
+msgid "Guardian Knight"
+msgstr "Cavaller Guardià"
+
+msgid "Five Feudal Lords"
+msgstr "Cinc Senyors Feudals"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Tanca Baixa"
+
+msgid "Tall Fence"
+msgstr "Tanca Alta"
+
+msgid "Nine Lords"
+msgstr "Nou Senyors"
+
+msgid "Dung of Tiger"
+msgstr "Fems del Tigre"
+
+msgid "Five Emperor"
+msgstr "Cinc Emperadors"
+
+msgid "Three Minister"
+msgstr "Tres Ministres"
+
+msgid "Officer for Audience"
+msgstr "Oficial de l'Audiència"
+
+msgid "Grave Front"
+msgstr "Front de la Tomba"
+
+msgid "Observatory"
+msgstr "Observatori"
+
+msgid "Female Officer"
+msgstr "Oficiala"
+
+msgid "Wide Lodging Area"
+msgstr "Àmplia Zona d'Allotjament"
+
+msgid "Eight Cereals"
+msgstr "Huit Cereals"
+
+msgid "Advance Guard"
+msgstr "Guàrdia Avançada"
+
+msgid "Three Ministers"
+msgstr "Tres Ministres"
+
+msgid "Virtue"
+msgstr "Virtut"
+
+msgid "Emperor's God of War"
+msgstr "Déu de la Guerra de l'Emperador"
+
+msgid "Emperor's God of Weather"
+msgstr "Déu del Clima de l'Emperador"
+
+msgid "Flap of Flag"
+msgstr "Ondejar de la bandera"
+
+msgid "Minister"
+msgstr "Ministre"
+
+msgid "General and Minister"
+msgstr "General i Ministre"
+
+msgid "Jail of Sky"
+msgstr "Presó del Cel"
+
+msgid "Six Department"
+msgstr "Sis Departaments"
+
+msgid "Inner Stairway"
+msgstr "Escala Interior"
+
+msgid "Spear of Sky"
+msgstr "Llança del Cel"
+
+msgid "Cover for Emperor"
+msgstr "Coberta per a l'Emperador"
+
+msgid "Place for Five Emperor"
+msgstr "Lloc per a Cinc Emperadors "
+
+msgid "60 Years"
+msgstr "60 Anys"
+
+msgid "Kitchen of Sky"
+msgstr "Cuina del Cel"
+
+msgid "North Pole"
+msgstr "Pol Nord"
+
+msgid "Wound Lodge"
+msgstr "Refugi dels Ferits"
+
+msgid "Single-log Bridge"
+msgstr "Pont de fusta"
+
+msgid "Great Emperor"
+msgstr "Gran Emperador"
+
+msgid "Officer for Opinion"
+msgstr "Oficial d'Opinió"
+
+msgid "Pillar of Sky"
+msgstr "Pilar del Cel"
+
+msgid "Secretary"
+msgstr "Secretaria"
+
+msgid "Maid"
+msgstr "Criada"
+
+msgid "Desk of Woman"
+msgstr "Escriptori de Dona"
+
+msgid "Judge Prison"
+msgstr "Presó del Jutge"
+
+msgid "Purple Fence"
+msgstr "Tanca Púrpura"
+
+msgid "Order of Sky"
+msgstr "Ordre del Cel"
+
+msgid "Seven Minister"
+msgstr "Set Ministres"
+
+msgid "Thread Straw"
+msgstr "Fil de Palla"
+
+msgid "Market Fence"
+msgstr "Tanca del Mercat"
+
+msgid "Feudal Lord"
+msgstr "Senyor Feudal"
+
+msgid "Seat for Emperor"
+msgstr "Seient de l'Emperador"
+
+msgid "Royal Family"
+msgstr "Família Reial"
+
+msgid "Head of Family"
+msgstr "Cap de Família"
+
+msgid "Record of Family"
+msgstr "Registre de Família"
+
+msgid "Officer for Family"
+msgstr "Oficial de Família"
+
+msgid "Tower in Market"
+msgstr "Torre al Mercat"
+
+msgid "Measure Cereal"
+msgstr "Mesura de Cereal"
+
+msgid "Cereal Measure Regulation"
+msgstr "Regulació de la Mesura de Cereals"
+
+msgid "Officer for Chariots"
+msgstr "Oficial de Carros"
+
+msgid "Measure Amount"
+msgstr "Quantitat de Mesura"
+
+msgid "Butchery"
+msgstr "Carnisseria"
+
+msgid "Officer for Jewel"
+msgstr "Oficial de joies"
+
+msgid "Royal"
+msgstr "Reial"
+
+msgid "Lord"
+msgstr "Senyor"
+
+msgid "Left Executor"
+msgstr "Executor Testamentari"
+
+msgid "Right Executor"
+msgstr "Executor de Drets"
+
+msgid "Crossbeam for Heo"
+msgstr "Biga Transversal per a Heo"
+
+msgid "Threading Coins"
+msgstr "Monedes enfilades"
+
+msgid "SangSang"
+msgstr "SangSang"
+
+msgid "ChaSang"
+msgstr "ChaSang"
+
+msgid "ChaJang"
+msgstr "ChaJang"
+
+msgid "UJangGun"
+msgstr "UJangGun"
+
+msgid "DaeJangGun"
+msgstr "DaeJangGun"
+
+msgid "JwaJangGun"
+msgstr "JwaJangGun"
+
+msgid "WangRang"
+msgstr "WangRang"
+
+msgid "CheonSa"
+msgstr "CheonSa"
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr "SaGong"
+
+msgid "CheonOk"
+msgstr "CheonOk"
+
+msgid "CheonChang"
+msgstr "CheonChang"
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr "HuJangGun"
+
+msgid "PyeonJangGun"
+msgstr "PyeonJangGun"
+
+msgid "SamJangGun"
+msgstr "SamJangGun"
+
+msgid "TaeSa"
+msgstr "TaeSa"
+
+msgid "BakSa"
+msgstr "BakSa"
+
+msgid "SamGong"
+msgstr "SamGong"
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr "JaeSa"
+
+msgid "YeoJu"
+msgstr "YeoJu"
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr "Buin"
+
+msgid "WangBi"
+msgstr "WangBi"
+
+msgid "HuGung"
+msgstr "HuGung"
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr "CheoSa"
+
+msgid "EuiSa"
+msgstr "EuiSa"
+
+msgid "DaeBu"
+msgstr "DaeBu"
+
+msgid "SangTae"
+msgstr "SangTae"
+
+msgid "JungTae"
+msgstr "JungTae"
+
+msgid "HaTae"
+msgstr "HaTae"
+
+msgid "TaeJa"
+msgstr "TaeJa"
+
+msgid "JaeWang"
+msgstr "JaeWang"
+
+msgid "SeoJa"
+msgstr "SeoJa"
+
+msgid "CheonChu"
+msgstr "CheonChu"
+
+msgid "SangJang"
+msgstr "SangJang"
+
+msgid "TaeSang"
+msgstr "TaeSang"
+
+msgid "SaJu.DaeRi"
+msgstr "SaJu.DaeRi"
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr "Sal"
+
+msgid "Wi"
+msgstr "Wi"
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr "MyeongDang"
+
+msgid "Hu"
+msgstr "Hu"
+
+msgid "Bin"
+msgstr "Bin"
+
+msgid "DaeJang"
+msgstr "DaeJang"

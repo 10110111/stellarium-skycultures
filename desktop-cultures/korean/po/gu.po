@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2022-09-30 13:16+0700\n"
+"PO-Revision-Date: 2017-11-29 01:17+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Gujarati (https://www.transifex.com/stellarium/teams/80998/"
+"gu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "કૂતરો"
+
+msgid "Arrow"
+msgstr "તીર"
+
+msgid "Bow"
+msgstr "કમાન"
+
+msgid "Fish"
+msgstr "માછલી"
+
+msgid "Northern Dipper"
+msgstr "Northern Dipper"
+
+msgid "Toilet"
+msgstr "મુતરડી"
+
+msgid "Whip"
+msgstr "ચાબુક"
+
+msgid "Mausoleum"
+msgstr "Mausoleum"
+
+msgid "Mortar"
+msgstr "ખાંડની"
+
+msgid "Rolled Tongue"
+msgstr "Rolled Tongue"
+
+msgid "Chaff"
+msgstr "Chaff"
+
+msgid "Whetstone"
+msgstr "Whetstone"
+
+msgid "Inner Kitchen"
+msgstr "Inner Kitchen"
+
+msgid "Three Steps"
+msgstr "Three Steps"
+
+msgid "Eunuch"
+msgstr "Eunuch"
+
+msgid "Crown Prince"
+msgstr "Crown Prince"
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr "Outer Kitchen"
+
+msgid "Five Lords"
+msgstr "Five Lords"
+
+msgid "Right Flag"
+msgstr "Right Flag"
+
+msgid "Son"
+msgstr "પુત્ર"
+
+msgid "Left Flag"
+msgstr "Left Flag"
+
+msgid "Charioteer"
+msgstr ""
+
+msgid "Holy Kettle"
+msgstr "Holy Kettle"
+
+msgid "Farm of Capital City"
+msgstr "Farm of Capital City"
+
+msgid "Dignity of King"
+msgstr "Dignity of King"
+
+msgid "Nomination"
+msgstr "Nomination"
+
+msgid "Gate of Sky"
+msgstr "આકાશી દરવાજો"
+
+msgid "Equality"
+msgstr "Equality"
+
+msgid "Helper"
+msgstr "મદદગાર"
+
+msgid "Position of Holy King"
+msgstr "Position of Holy King"
+
+msgid "Neck of Dragon"
+msgstr "ડ્રેગોનનું ગળું"
+
+msgid "Beheading"
+msgstr "Beheading"
+
+msgid "Judge"
+msgstr "નિર્ણાયક"
+
+msgid "Flutting Flag"
+msgstr "Flutting Flag"
+
+msgid "Javelin of Sky"
+msgstr "Javelin of Sky"
+
+msgid "Seat for Longevity"
+msgstr "Seat for Longevity"
+
+msgid "Oar for visitor"
+msgstr "Oar for visitor"
+
+msgid "Milk of Sky"
+msgstr "આકાશ નું દૂધ"
+
+msgid "House of Queen"
+msgstr "રાણી નું ઘર"
+
+msgid "Ancient Chariot"
+msgstr "Ancient Chariot"
+
+msgid "Carriage for King"
+msgstr "Carriage for King"
+
+msgid "General of Cavalry"
+msgstr "General of Cavalry"
+
+msgid "Cavalry of Emperor"
+msgstr "Cavalry of Emperor"
+
+msgid "General of Mobile Troops"
+msgstr "General of Mobile Troops"
+
+msgid "East Road"
+msgstr "પૂર્વી માર્ગ"
+
+msgid "Gate Bolt"
+msgstr "Gate Bolt"
+
+msgid "Door Lock and Key"
+msgstr "દરવાજાનું તાળું અને ચાવી"
+
+msgid "Penalty"
+msgstr "સજા"
+
+msgid "Royal Hall"
+msgstr "Royal Hall"
+
+msgid "Chamberlain"
+msgstr "ચામ્બર્લિન"
+
+msgid "Sun"
+msgstr "સૂર્ય"
+
+msgid "West Road"
+msgstr "પશ્ચિમી માર્ગ"
+
+msgid "Seat of Emperor"
+msgstr "Seat of Emperor"
+
+msgid "Five Troops"
+msgstr "Five Troops"
+
+msgid "River of Sky"
+msgstr "આકાશ ની નદી"
+
+msgid "Prayer for Progeny"
+msgstr "Prayer for Progeny"
+
+msgid "Forcast"
+msgstr "Forcast"
+
+msgid "Yard for Empresses"
+msgstr "Yard for Empresses"
+
+msgid "Holy Palace"
+msgstr "Holy Palace"
+
+msgid "Winnow"
+msgstr "Winnow"
+
+msgid "Outer Pestle"
+msgstr "Outer Pestle"
+
+msgid "Head of Town"
+msgstr "Head of Town"
+
+msgid "Build"
+msgstr "Build"
+
+msgid "Fowl of Sky"
+msgstr "Fowl of Sky"
+
+msgid "Shrine of Sky"
+msgstr ""
+
+msgid "Northeastern Nations"
+msgstr "Northeastern Nations"
+
+msgid "Old Farmer"
+msgstr "જુનો ખેડૂત"
+
+msgid "Snapping Turtle"
+msgstr "મીઠા પાણીનો કાચબો"
+
+msgid "Road for Emperor"
+msgstr "Road for Emperor"
+
+msgid "The Weaver"
+msgstr "ગૂંથણીયો"
+
+msgid "River adjoining Tower"
+msgstr "River adjoining Tower"
+
+msgid "Drum of River"
+msgstr "Drum of River"
+
+msgid "Drumstick of Sky"
+msgstr "Drumstick of Sky"
+
+msgid "Cow leading Man"
+msgstr "Cow leading Man"
+
+msgid "Bank Spread"
+msgstr "Bank Spread"
+
+msgid "Basket for Silkworm"
+msgstr "Basket for Silkworm"
+
+msgid "Officer for Cart"
+msgstr "Officer for Cart"
+
+msgid "Ferry of Sky"
+msgstr "Ferry of Sky"
+
+msgid "Fruit"
+msgstr "ફળ"
+
+msgid "Seed"
+msgstr "બીજ"
+
+msgid "Storage for Lady"
+msgstr "Storage for Lady"
+
+msgid "Court Lady"
+msgstr "Court Lady"
+
+msgid "Judge Fault"
+msgstr "Judge Fault"
+
+msgid "Amend Fault"
+msgstr "Amend Fault"
+
+msgid "Grant Life"
+msgstr "Grant Life"
+
+msgid "Punish"
+msgstr "સજા"
+
+msgid "Empty House"
+msgstr "ખાલી ઘર"
+
+msgid "Weep"
+msgstr "વિપ્"
+
+msgid "Sob"
+msgstr "Sob"
+
+msgid "Castle with Rampart"
+msgstr "Castle with Rampart"
+
+msgid "Hook for Dress"
+msgstr "Hook for Dress"
+
+msgid "Groom"
+msgstr "Groom"
+
+msgid "Human"
+msgstr "મનુષ્ય"
+
+msgid "Inner Pestle"
+msgstr "Inner Pestle"
+
+msgid "Warehouse of Sky"
+msgstr "Warehouse of Sky"
+
+msgid "Tomb"
+msgstr "મકબરો"
+
+msgid "Cover of House"
+msgstr "Cover of House"
+
+msgid "Broken Mortar"
+msgstr "Broken Mortar"
+
+msgid "Climbing Serpent"
+msgstr "Climbing Serpent"
+
+msgid "Palace of Emperor"
+msgstr "Palace of Emperor"
+
+msgid "Detached Palace"
+msgstr "Detached Palace"
+
+msgid "Lightening"
+msgstr "વીજળી"
+
+msgid "Rampart"
+msgstr "Rampart"
+
+msgid "Troops of Sky"
+msgstr "Troops of Sky"
+
+msgid "Village for Patrol"
+msgstr "Village for Patrol"
+
+msgid "Net of Sky"
+msgstr "આકાશી જાળ"
+
+msgid "Stable of Sky"
+msgstr "Stable of Sky"
+
+msgid "Eastern Wall"
+msgstr "પૂર્વી દીવાલ"
+
+msgid "Civil Engineer"
+msgstr "સીવીલ ઇજનેર"
+
+msgid "Thunderbolts"
+msgstr "Thunderbolts"
+
+msgid "Clouds and Rain"
+msgstr "વાદળ અને વરસાદ"
+
+msgid "Highway"
+msgstr "મુખ્યમાર્ગ"
+
+msgid "Officer for Chariot of"
+msgstr "Officer for Chariot of"
+
+msgid "Side Road"
+msgstr "બાજુનો રસ્તો"
+
+msgid "Armory"
+msgstr "શસ્ત્રાગાર"
+
+msgid "Southern Gate of Emperator"
+msgstr "Southern Gate of Emperator"
+
+msgid "Outer Folding Screen"
+msgstr "Outer Folding Screen"
+
+msgid "Toilet of Sky"
+msgstr "Toilet of Sky"
+
+msgid "Architect"
+msgstr "વાસ્તુકાર"
+
+msgid "Emperator"
+msgstr "રાજા"
+
+msgid "Watchtower"
+msgstr "Watchtower"
+
+msgid "Left Elm"
+msgstr "Left Elm"
+
+msgid "Right Elm"
+msgstr "Right Elm"
+
+msgid "Storehouse of Sky"
+msgstr "Storehouse of Sky"
+
+msgid "Stack of Cereals"
+msgstr "Stack of Cereals"
+
+msgid "Ship of Sky"
+msgstr "આકાશી જહાજ"
+
+msgid "Store of Water"
+msgstr "Store of Water"
+
+msgid "Heap of Corpse"
+msgstr "Heap of Corpse"
+
+msgid "Stomach of Tiger"
+msgstr "વાઘનું પેટ"
+
+msgid "Store of Millet for"
+msgstr "Store of Millet for"
+
+msgid "Storehouse for Cereals"
+msgstr "Storehouse for Cereals"
+
+msgid "Shaman of Sky"
+msgstr "Shaman of Sky"
+
+msgid "Ear and Eye of"
+msgstr "Ear and Eye of"
+
+msgid "Moon"
+msgstr "ચંદ્ર"
+
+msgid "Hill of Sky"
+msgstr "આકાશી ટેકરી"
+
+msgid "Conspiracy of Sky"
+msgstr "Conspiracy of Sky"
+
+msgid "Fodder"
+msgstr "Fodder"
+
+msgid "Garage for Chariot"
+msgstr "Garage for Chariot"
+
+msgid "Pond for Fish"
+msgstr "માછલી નું તળાવ"
+
+msgid "Pillar"
+msgstr "સ્તંભ"
+
+msgid "Puddle of Sky"
+msgstr "આકાશી ખાબોચિયું"
+
+msgid "Kings"
+msgstr "રજાઓ"
+
+msgid "Gateway of Sky"
+msgstr "આકાશી દરવાજો"
+
+msgid "Flage of Saam"
+msgstr "Flage of Saam"
+
+msgid "Village of Sky"
+msgstr "આકાશી ગામ"
+
+msgid "Belvedere of Sky"
+msgstr "Belvedere of Sky"
+
+msgid "General of Border"
+msgstr "સીમા નો સેનાપતિ"
+
+msgid "Celebration of Sky"
+msgstr ""
+
+msgid "Flag of Emperor"
+msgstr "Flag of Emperor"
+
+msgid "Nine Territory"
+msgstr "Nine Territory"
+
+msgid "Garden of Sky"
+msgstr "આકાશી બગીચો"
+
+msgid "Settled Flag"
+msgstr "Settled Flag"
+
+msgid "Forcast Calamity"
+msgstr "Forcast Calamity"
+
+msgid "Scout of Three Troups"
+msgstr "Scout of Three Troups"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Expeditionary Force"
+
+msgid "Well for Millitary"
+msgstr "સેના માટે નો કુંવો"
+
+msgid "Well of Jade"
+msgstr "Well of Jade"
+
+msgid "Folding Screen"
+msgstr "Folding Screen"
+
+msgid "Piled Brushwood"
+msgstr "Piled Brushwood"
+
+msgid "Northern River"
+msgstr "ઉત્તરી નદી"
+
+msgid "Wine Glass of Sky"
+msgstr "Wine Glass of Sky"
+
+msgid "Eastern Well"
+msgstr "પૂર્વી કુંવો"
+
+msgid "Flood control"
+msgstr "પૂર નિયંત્રણ"
+
+msgid "Balance of Water"
+msgstr "પાણીનું નિયંત્રણ"
+
+msgid "Four Spirit of River"
+msgstr "Four Spirit of River"
+
+msgid "Southern River"
+msgstr "દક્ષિણી નદી"
+
+msgid "Twin Gate"
+msgstr "જોડિયા દરવાજા"
+
+msgid "Star of Wolf"
+msgstr "Star of Wolf"
+
+msgid "Wild Fowls"
+msgstr "જંગલી પક્ષીઓ"
+
+msgid "Market for Army"
+msgstr "શૈન્ય માટેનું બજાર"
+
+msgid "Grandchildren"
+msgstr "પૌત્ર/પુત્રીઓ"
+
+msgid "Grown-up"
+msgstr "મોટા થવું"
+
+msgid "Oldman"
+msgstr "ઘરડો માણસ"
+
+msgid "Beacon"
+msgstr "Beacon"
+
+msgid "Eye of Sky"
+msgstr "આકાશ ની આંખ"
+
+msgid "Pile of Dead"
+msgstr "મૃત ઢગ"
+
+msgid "Green Ridge"
+msgstr "Green Ridge"
+
+msgid "Dog of Sky"
+msgstr "આકાશ નો કુતરો"
+
+msgid "Spirit of GuRyoung"
+msgstr "Spirit of GuRyoung"
+
+msgid "Flag of Wine Officer"
+msgstr "Flag of Wine Officer"
+
+msgid "Officer of Kitchen"
+msgstr "Officer of Kitchen"
+
+msgid "Equality and Fair"
+msgstr "Equality and Fair"
+
+msgid "Emperor HeonWon"
+msgstr "Emperor HeonWon"
+
+msgid "Capital of Sky"
+msgstr "આકાશનું પાટનગર"
+
+msgid "Chief of Farming"
+msgstr "ખેતીનો મુખીયા"
+
+msgid "Officer of Tomb"
+msgstr "મકબરા નો અધિકારી"
+
+msgid "Tomb of Sky"
+msgstr "આકાશનો મકબરો"
+
+msgid "Wing of Red Bird"
+msgstr "Wing of Red Bird"
+
+msgid "Eastern Pottery"
+msgstr "પૂર્વી માટીકામ"
+
+msgid "Chariot of Emperor"
+msgstr "રાજા નો રથ"
+
+msgid "Sand for Life"
+msgstr "Sand for Life"
+
+msgid "Gateway for Troops"
+msgstr "Gateway for Troops"
+
+msgid "Guardian Knight"
+msgstr "Guardian Knight"
+
+msgid "Five Feudal Lords"
+msgstr "Five Feudal Lords"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Low Fence"
+
+msgid "Tall Fence"
+msgstr "Tall Fence"
+
+msgid "Nine Lords"
+msgstr "Nine Lords"
+
+msgid "Dung of Tiger"
+msgstr "Dung of Tiger"
+
+msgid "Five Emperor"
+msgstr "Five Emperor"
+
+msgid "Three Minister"
+msgstr "Three Minister"
+
+msgid "Officer for Audience"
+msgstr "Officer for Audience"
+
+msgid "Grave Front"
+msgstr "Grave Front"
+
+msgid "Observatory"
+msgstr "નિરીક્ષણ કેન્દ્ર"
+
+msgid "Female Officer"
+msgstr "મહિલા અધિકારી"
+
+msgid "Wide Lodging Area"
+msgstr "Wide Lodging Area"
+
+msgid "Eight Cereals"
+msgstr "Eight Cereals"
+
+msgid "Advance Guard"
+msgstr "Advance Guard"
+
+msgid "Three Ministers"
+msgstr "Three Ministers"
+
+msgid "Virtue"
+msgstr "Virtue"
+
+msgid "Emperor's God of War"
+msgstr "Emperor's God of War"
+
+msgid "Emperor's God of Weather"
+msgstr "Emperor's God of Weather"
+
+msgid "Flap of Flag"
+msgstr "Flap of Flag"
+
+msgid "Minister"
+msgstr "Minister"
+
+msgid "General and Minister"
+msgstr "General and Minister"
+
+msgid "Jail of Sky"
+msgstr "Jail of Sky"
+
+msgid "Six Department"
+msgstr "Six Department"
+
+msgid "Inner Stairway"
+msgstr "Inner Stairway"
+
+msgid "Spear of Sky"
+msgstr "Spear of Sky"
+
+msgid "Cover for Emperor"
+msgstr "Cover for Emperor"
+
+msgid "Place for Five Emperor"
+msgstr "Place for Five Emperor"
+
+msgid "60 Years"
+msgstr "૬૦ વર્ષ"
+
+msgid "Kitchen of Sky"
+msgstr "Kitchen of Sky"
+
+msgid "North Pole"
+msgstr "ઉત્તર ધૂવ"
+
+msgid "Wound Lodge"
+msgstr "Wound Lodge"
+
+msgid "Single-log Bridge"
+msgstr "Single-log Bridge"
+
+msgid "Great Emperor"
+msgstr "મહાન શાસક"
+
+msgid "Officer for Opinion"
+msgstr "Officer for Opinion"
+
+msgid "Pillar of Sky"
+msgstr "આકાશ નો સ્તંભ"
+
+msgid "Secretary"
+msgstr "Secretary"
+
+msgid "Maid"
+msgstr "Maid"
+
+msgid "Desk of Woman"
+msgstr "Desk of Woman"
+
+msgid "Judge Prison"
+msgstr "Judge Prison"
+
+msgid "Purple Fence"
+msgstr "Purple Fence"
+
+msgid "Order of Sky"
+msgstr "Order of Sky"
+
+msgid "Seven Minister"
+msgstr "Seven Minister"
+
+msgid "Thread Straw"
+msgstr "Thread Straw"
+
+msgid "Market Fence"
+msgstr "Market Fence"
+
+msgid "Feudal Lord"
+msgstr "Feudal Lord"
+
+msgid "Seat for Emperor"
+msgstr "Seat for Emperor"
+
+msgid "Royal Family"
+msgstr "Royal Family"
+
+msgid "Head of Family"
+msgstr "Head of Family"
+
+msgid "Record of Family"
+msgstr "Record of Family"
+
+msgid "Officer for Family"
+msgstr "Officer for Family"
+
+msgid "Tower in Market"
+msgstr "Tower in Market"
+
+msgid "Measure Cereal"
+msgstr "Measure Cereal"
+
+msgid "Cereal Measure Regulation"
+msgstr "Cereal Measure Regulation"
+
+msgid "Officer for Chariots"
+msgstr "Officer for Chariots"
+
+msgid "Measure Amount"
+msgstr "Measure Amount"
+
+msgid "Butchery"
+msgstr "Butchery"
+
+msgid "Officer for Jewel"
+msgstr "Officer for Jewel"
+
+msgid "Royal"
+msgstr "Royal"
+
+msgid "Lord"
+msgstr "Lord"
+
+msgid "Left Executor"
+msgstr "Left Executor"
+
+msgid "Right Executor"
+msgstr "Right Executor"
+
+msgid "Crossbeam for Heo"
+msgstr "Crossbeam for Heo"
+
+msgid "Threading Coins"
+msgstr "Threading Coins"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr ""
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr ""
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr ""
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr ""
+
+msgid "TaeMin"
+msgstr ""
+
+msgid "SouMin"
+msgstr ""
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr ""
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr ""
+
+msgid "Beop"
+msgstr ""
+
+msgid "Ryeong"
+msgstr ""
+
+msgid "Beol"
+msgstr ""
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr ""
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""
