@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Luigi Ghia <luigi.ghia@gmail.com>, 2023\n"
+"Language-Team: Italian (https://app.transifex.com/stellarium/teams/80998/"
+"it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+
+# Sky culture name
+msgid "Hawaiian Starlines"
+msgstr "Costellazioni Hawaiane"
+
+msgid "Leo"
+msgstr "Leone"
+
+msgid "The Canoe Bailer of Makali`i"
+msgstr "Il Canoe Bailer di Makali`i"
+
+msgid "The Cat's Cradle"
+msgstr "La Culla del Gatto"
+
+msgid "The Backbone"
+msgstr "La Spina Dorsale"
+
+msgid "The Chief's Fishline"
+msgstr "La Lenza del Capo"
+
+msgid "The Chief's Eyes"
+msgstr "L'Occhio del Capo"
+
+msgid "Kite of Kawelo"
+msgstr "L'aquilone di Kawelo"
+
+msgid "The Seven"
+msgstr "I sette"
+
+msgid "Voice of Joy"
+msgstr "Voce Gioiosa"
+
+msgid "Chief Frigate Bird"
+msgstr "Capo della Fregata Bird"
+
+msgid "Cared for by Moon"
+msgstr "Accudito dalla Luna"
+
+msgid "The Pointers"
+msgstr "I Puntatori"
+
+msgid "Navigator's Triangle"
+msgstr "Triangolo del navigatore"
+
+msgid "Hokulei"
+msgstr "Hokulei"
+
+msgid "Nana-mua"
+msgstr "Nana-mua"
+
+msgid "Nana-hope"
+msgstr "Nana-hope"
+
+msgid "Puana"
+msgstr "Puana"
+
+msgid "A‘a"
+msgstr "A‘a"
+
+msgid "Puana-kau"
+msgstr "Puana-kau"
+
+msgid "Pu'uhonua"
+msgstr "Pu'uhonua"
+
+msgid "Kaulua-koko"
+msgstr "Kaulua-koko"
+
+msgid "Hokupa‘a"
+msgstr "Hokupa‘a"
+
+msgid "Hokule‘a"
+msgstr "Hokule‘a"
+
+msgid "Hiki-analia"
+msgstr "Hiki-analia"
+
+msgid "Holopuni"
+msgstr "Holopuni"
+
+msgid "Hawaiki"
+msgstr "Hawaiki"
+
+msgid "Humu"
+msgstr "Humu"
+
+msgid "Keoe"
+msgstr "Keoe"
+
+msgid "Hoku‘ula"
+msgstr "Hoku‘ula"
+
+msgid "Lehua-Kona"
+msgstr "Lehua-Kona"
+
+msgid "Ke ali'i o kona i ka lewa"
+msgstr "Ke ali'i o kona i ka lewa"
+
+msgid "Pu‘uhonua"
+msgstr "Pu‘uhonua"
+
+msgid "Hiku-kahi"
+msgstr "Hiku-kahi"
+
+msgid "Hiku-lua"
+msgstr "Hiku-lua"
+
+msgid "Hiku-kolu"
+msgstr "Hiku-kolu"
+
+msgid "Hiku-ha"
+msgstr "Hiku-ha"
+
+msgid "Hiku-lima"
+msgstr "Hiku-lima"
+
+msgid "Hiku-ono"
+msgstr "Hiku-ono"
+
+msgid "Hiku-pau"
+msgstr "Hiku-pau"
+
+msgid "Kaulia"
+msgstr "Kaulia"
+
+msgid "Ka Mole Honua"
+msgstr "Ka Mole Honua"
+
+msgid "Ka-maile-mua"
+msgstr "Ka-maile-mua"
+
+msgid "Ka-maile-hope"
+msgstr "Ka-maile-hope"
+
+msgid "Ka Maka"
+msgstr "Ka Maka"
+
+msgid "Kapuahi"
+msgstr "Kapuahi"
+
+msgid "Keawe"
+msgstr "Keawe"
+
+msgid "Manokalanipo"
+msgstr "Manokalanipo"
+
+msgid "Pi‘ilani"
+msgstr "Pi‘ilani"
+
+msgid "Kakuhihewa"
+msgstr "Kakuhihewa"
+
+msgid "Pi‘ikea"
+msgstr "Pi‘ikea"
+
+msgid "Kaikilani"
+msgstr "Kaikilani"
+
+msgid "Kukaniloko"
+msgstr "Kukaniloko"
+
+msgid "Kealohalani-po-keao"
+msgstr "Kealohalani-po-keao"
+
+msgid "Kamoanalipoli-po-keao"
+msgstr "Kamoanalipoli-po-keao"
+
+msgid "Kaheihiwahiwa-o-keao"
+msgstr "Kaheihiwahiwa-o-keao"
+
+msgid "Kapalinihinihi-o-keao"
+msgstr "Kapalinihinihi-o-keao"
+
+msgid "Haumea"
+msgstr "Haumea"
+
+msgid "Mirzim"
+msgstr "Mirzim"
+
+msgid "‘Ekekeu’ena’ena"
+msgstr "‘Ekekeu’ena’ena"
+
+msgid "‘Ekekeuehuehu"
+msgstr "‘Ekekeuehuehu"
+
+msgid "‘Ekekeuhe’ehe’e"
+msgstr "‘Ekekeuhe’ehe’e"
+
+msgid "‘Ekekeukolokolo"
+msgstr "‘Ekekeukolokolo"
+
+msgid "Bellatrix"
+msgstr "Bellatrix"
+
+msgid "Alnitak"
+msgstr "Alnitak"
+
+msgid "Alnilam"
+msgstr "Alnilam"
+
+msgid "Mintaka"
+msgstr "Mintaka"
+
+msgid "Pua‘i"
+msgstr "Pua‘i"
+
+msgid "Mili’opu"
+msgstr "Mili’opu"
+
+msgid "Kahe"
+msgstr "Kahe"
+
+msgid "Hihiwai"
+msgstr "Hihiwai"
+
+msgid "Kawelaokapo"
+msgstr "Kawelaokapo"
+
+msgid "‘Ohelokulu"
+msgstr "‘Ohelokulu"
+
+msgid "‘Ohelokoko"
+msgstr "‘Ohelokoko"
+
+msgid "‘Ohelouli"
+msgstr "‘Ohelouli"
+
+msgid "‘Oheloawa"
+msgstr "‘Oheloawa"
+
+msgid "‘Ohelowaha"
+msgstr "‘Ohelowaha"
+
+msgid "Kawilikolokio"
+msgstr "Kawilikolokio"
+
+msgid "Ka‘ielawei‘a"
+msgstr "Ka‘ielawei‘a"
+
+msgid "Kalipo‘eu‘eu"
+msgstr "Kalipo‘eu‘eu"
+
+msgid "Momonapikowalu"
+msgstr "Momonapikowalu"
+
+msgid "Mokopapa‘i"
+msgstr "Mokopapa‘i"
+
+msgid "Wainielela"
+msgstr "Wainielela"
+
+msgid "Makali‘i"
+msgstr ""

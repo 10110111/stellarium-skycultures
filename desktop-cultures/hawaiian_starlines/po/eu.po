@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Urtzi Odriozola <urtzi.odriozola@gmail.com>, 2022\n"
+"Language-Team: Basque (https://app.transifex.com/stellarium/teams/80998/"
+"eu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: eu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Hawaiian Starlines"
+msgstr ""
+
+msgid "Leo"
+msgstr "Leo"
+
+msgid "The Canoe Bailer of Makali`i"
+msgstr ""
+
+msgid "The Cat's Cradle"
+msgstr ""
+
+msgid "The Backbone"
+msgstr ""
+
+msgid "The Chief's Fishline"
+msgstr ""
+
+msgid "The Chief's Eyes"
+msgstr ""
+
+msgid "Kite of Kawelo"
+msgstr "Kawelo-ren kometa"
+
+msgid "The Seven"
+msgstr "Zazpiak"
+
+msgid "Voice of Joy"
+msgstr "Alaitasunaren ahotsa"
+
+msgid "Chief Frigate Bird"
+msgstr ""
+
+msgid "Cared for by Moon"
+msgstr "Ilargiak zaindua"
+
+msgid "The Pointers"
+msgstr ""
+
+msgid "Navigator's Triangle"
+msgstr "Nabigatzailearen triangelua"
+
+msgid "Hokulei"
+msgstr "Hokulei"
+
+msgid "Nana-mua"
+msgstr "Nana-mua"
+
+msgid "Nana-hope"
+msgstr "Nana-hope"
+
+msgid "Puana"
+msgstr "Puana"
+
+msgid "A‘a"
+msgstr ""
+
+msgid "Puana-kau"
+msgstr "Puana-kau"
+
+msgid "Pu'uhonua"
+msgstr "Pu'uhonua"
+
+msgid "Kaulua-koko"
+msgstr "Kaulua-koko"
+
+msgid "Hokupa‘a"
+msgstr ""
+
+msgid "Hokule‘a"
+msgstr ""
+
+msgid "Hiki-analia"
+msgstr "Hiki-analia"
+
+msgid "Holopuni"
+msgstr "Holopuni"
+
+msgid "Hawaiki"
+msgstr "Hawaiki"
+
+msgid "Humu"
+msgstr "Humu"
+
+msgid "Keoe"
+msgstr "Keoe"
+
+msgid "Hoku‘ula"
+msgstr ""
+
+msgid "Lehua-Kona"
+msgstr "Lehua-Kona"
+
+msgid "Ke ali'i o kona i ka lewa"
+msgstr "Ke ali'i o kona i ka lewa"
+
+msgid "Pu‘uhonua"
+msgstr ""
+
+msgid "Hiku-kahi"
+msgstr "Hiku-kahi"
+
+msgid "Hiku-lua"
+msgstr "Hiku-lua"
+
+msgid "Hiku-kolu"
+msgstr "Hiku-kolu"
+
+msgid "Hiku-ha"
+msgstr "Hiku-ha"
+
+msgid "Hiku-lima"
+msgstr "Hiku-lima"
+
+msgid "Hiku-ono"
+msgstr "Hiku-ono"
+
+msgid "Hiku-pau"
+msgstr "Hiku-pau"
+
+msgid "Kaulia"
+msgstr "Kaulia"
+
+msgid "Ka Mole Honua"
+msgstr ""
+
+msgid "Ka-maile-mua"
+msgstr "Ka-maile-mua"
+
+msgid "Ka-maile-hope"
+msgstr "Ka-maile-hope"
+
+msgid "Ka Maka"
+msgstr "Ka Maka"
+
+msgid "Kapuahi"
+msgstr ""
+
+msgid "Keawe"
+msgstr ""
+
+msgid "Manokalanipo"
+msgstr ""
+
+msgid "Pi‘ilani"
+msgstr ""
+
+msgid "Kakuhihewa"
+msgstr ""
+
+msgid "Pi‘ikea"
+msgstr ""
+
+msgid "Kaikilani"
+msgstr ""
+
+msgid "Kukaniloko"
+msgstr ""
+
+msgid "Kealohalani-po-keao"
+msgstr ""
+
+msgid "Kamoanalipoli-po-keao"
+msgstr ""
+
+msgid "Kaheihiwahiwa-o-keao"
+msgstr ""
+
+msgid "Kapalinihinihi-o-keao"
+msgstr ""
+
+msgid "Haumea"
+msgstr "Haumea"
+
+msgid "Mirzim"
+msgstr ""
+
+msgid "‘Ekekeu’ena’ena"
+msgstr ""
+
+msgid "‘Ekekeuehuehu"
+msgstr ""
+
+msgid "‘Ekekeuhe’ehe’e"
+msgstr ""
+
+msgid "‘Ekekeukolokolo"
+msgstr ""
+
+msgid "Bellatrix"
+msgstr "Bellatrix"
+
+msgid "Alnitak"
+msgstr "Alnitak"
+
+msgid "Alnilam"
+msgstr "Alnilam"
+
+msgid "Mintaka"
+msgstr "Mintaka"
+
+msgid "Pua‘i"
+msgstr ""
+
+msgid "Mili’opu"
+msgstr ""
+
+msgid "Kahe"
+msgstr ""
+
+msgid "Hihiwai"
+msgstr ""
+
+msgid "Kawelaokapo"
+msgstr ""
+
+msgid "‘Ohelokulu"
+msgstr ""
+
+msgid "‘Ohelokoko"
+msgstr ""
+
+msgid "‘Ohelouli"
+msgstr ""
+
+msgid "‘Oheloawa"
+msgstr ""
+
+msgid "‘Ohelowaha"
+msgstr ""
+
+msgid "Kawilikolokio"
+msgstr ""
+
+msgid "Ka‘ielawei‘a"
+msgstr ""
+
+msgid "Kalipo‘eu‘eu"
+msgstr ""
+
+msgid "Momonapikowalu"
+msgstr ""
+
+msgid "Mokopapa‘i"
+msgstr ""
+
+msgid "Wainielela"
+msgstr ""
+
+msgid "Makali‘i"
+msgstr ""

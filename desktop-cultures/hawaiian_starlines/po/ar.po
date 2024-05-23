@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Khalid AlAjaji, 2023\n"
+"Language-Team: Arabic (https://app.transifex.com/stellarium/teams/80998/"
+"ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+# Sky culture name
+msgid "Hawaiian Starlines"
+msgstr "خطوط النجوم الهاوائية"
+
+msgid "Leo"
+msgstr "‎‎الأسد‎‎"
+
+msgid "The Canoe Bailer of Makali`i"
+msgstr "‎مغرفة تفريغ الماء لزورق ماكاليئي‎"
+
+msgid "The Cat's Cradle"
+msgstr "‎مهد القط‎"
+
+msgid "The Backbone"
+msgstr "‎العمود الفقري‎"
+
+msgid "The Chief's Fishline"
+msgstr "‎خيط سنارة الزعيم‎"
+
+msgid "The Chief's Eyes"
+msgstr "‎عيون الزعيم‎"
+
+msgid "Kite of Kawelo"
+msgstr "‎‎طائرة كاويلو الورقية‎‎"
+
+msgid "The Seven"
+msgstr "‎‎السبعة‎‎"
+
+msgid "Voice of Joy"
+msgstr "‎‎صوت الفرح‎‎"
+
+msgid "Chief Frigate Bird"
+msgstr "‎طير الفريجيت الزعيم‎"
+
+msgid "Cared for by Moon"
+msgstr "‎‎يعتني به القمر‎‎"
+
+msgid "The Pointers"
+msgstr "‎المؤشران‎"
+
+msgid "Navigator's Triangle"
+msgstr "‎‎مثلث الملاح‎‎"
+
+msgid "Hokulei"
+msgstr "‎‎هوكولي ‎‎‎"
+
+msgid "Nana-mua"
+msgstr "‎‎نانا-موا ‎‎‎"
+
+msgid "Nana-hope"
+msgstr "‎‎نانا-هوب ‎‎‎"
+
+msgid "Puana"
+msgstr "‎‎بوانا ‎‎‎"
+
+msgid "A‘a"
+msgstr "‎آ‘آ‎"
+
+msgid "Puana-kau"
+msgstr "‎‎بوانا-كاو ‎‎‎"
+
+msgid "Pu'uhonua"
+msgstr "‎‎بوئوهنوا ‎‎‎"
+
+msgid "Kaulua-koko"
+msgstr "‎‎كوالوا-كوكو ‎‎‎"
+
+msgid "Hokupa‘a"
+msgstr "‎هوكوباءا‎"
+
+msgid "Hokule‘a"
+msgstr "‎هوكوليئا‎"
+
+msgid "Hiki-analia"
+msgstr "‎‎هيكي-اناليا ‎‎‎"
+
+msgid "Holopuni"
+msgstr "‎‎هولوبوني ‎‎‎"
+
+msgid "Hawaiki"
+msgstr "‎‎هاوايكي ‎‎‎"
+
+msgid "Humu"
+msgstr "‎‎هومو ‎‎‎"
+
+msgid "Keoe"
+msgstr "‎‎كيوي ‎‎‎"
+
+msgid "Hoku‘ula"
+msgstr "‎هوكوأولا‎"
+
+msgid "Lehua-Kona"
+msgstr "‎‎ليهوا-كونا ‎‎‎"
+
+msgid "Ke ali'i o kona i ka lewa"
+msgstr "‎‎كي اليئي أو كونا إي كا ليوا ‎‎‎"
+
+msgid "Pu‘uhonua"
+msgstr "‎بوئوهونوا‎"
+
+msgid "Hiku-kahi"
+msgstr "‎‎هيكو-كاهي ‎‎‎"
+
+msgid "Hiku-lua"
+msgstr "‎‎هيكو-لوا ‎‎‎"
+
+msgid "Hiku-kolu"
+msgstr "‎‎هيكو-كولو ‎‎‎"
+
+msgid "Hiku-ha"
+msgstr "‎‎هيكو-ها ‎‎‎"
+
+msgid "Hiku-lima"
+msgstr "‎‎هيكو-ليما ‎‎‎"
+
+msgid "Hiku-ono"
+msgstr "‎‎هيكو-أونو ‎‎‎"
+
+msgid "Hiku-pau"
+msgstr "‎‎هيكو-باو ‎‎‎"
+
+msgid "Kaulia"
+msgstr "‎‎كاوليا ‎‎‎"
+
+msgid "Ka Mole Honua"
+msgstr "‎كا مول هونوا‎"
+
+msgid "Ka-maile-mua"
+msgstr "‎‎كا-مايلي-موا ‎‎‎"
+
+msgid "Ka-maile-hope"
+msgstr "‎‎كا-مايلي-هوب ‎‎‎"
+
+msgid "Ka Maka"
+msgstr "‎‎كا ماكا ‎‎‎"
+
+msgid "Kapuahi"
+msgstr "‎كابواهي‎"
+
+msgid "Keawe"
+msgstr "‎كياوي‎"
+
+msgid "Manokalanipo"
+msgstr "‎مانوكالانيبو‎"
+
+msgid "Pi‘ilani"
+msgstr "‎بيئيلاني‎"
+
+msgid "Kakuhihewa"
+msgstr "‎كاكوهيهيوا‎"
+
+msgid "Pi‘ikea"
+msgstr "‎بيئيكيا‎"
+
+msgid "Kaikilani"
+msgstr "‎كايكيلاني‎"
+
+msgid "Kukaniloko"
+msgstr "‎كوكانيلوكو‎"
+
+msgid "Kealohalani-po-keao"
+msgstr "‎كيالوهالاني-بو-كياو‎"
+
+msgid "Kamoanalipoli-po-keao"
+msgstr "‎كامواناليبولي-بو-كياو‎"
+
+msgid "Kaheihiwahiwa-o-keao"
+msgstr "‎كاهيئيهيواهيوا-او-كياو‎"
+
+msgid "Kapalinihinihi-o-keao"
+msgstr "‎كابالينيهينيهي-أو-كياو‎"
+
+msgid "Haumea"
+msgstr "‎‎هاوميا‎‎"
+
+msgid "Mirzim"
+msgstr "‎مرزم‎"
+
+msgid "‘Ekekeu’ena’ena"
+msgstr "‎إيكيكيوإيناإينا‎"
+
+msgid "‘Ekekeuehuehu"
+msgstr "‎إكيكيأوإيهوإيهو‎"
+
+msgid "‘Ekekeuhe’ehe’e"
+msgstr "‎إكيكيأوهيئيهيئي‎"
+
+msgid "‘Ekekeukolokolo"
+msgstr "‎إكيكيأوكولوكولو‎"
+
+msgid "Bellatrix"
+msgstr "‎‎الناجذ ‎‎‎"
+
+msgid "Alnitak"
+msgstr "‎‎نظم الجوزاء 3‎‎"
+
+msgid "Alnilam"
+msgstr "‎‎نظم الجوزاء 2‎‎"
+
+msgid "Mintaka"
+msgstr "‎‎نظم الجوزاء 1‎‎"
+
+msgid "Pua‘i"
+msgstr "‎بوائي‎"
+
+msgid "Mili’opu"
+msgstr "‎ميليئوبو‎"
+
+msgid "Kahe"
+msgstr "‎كاهي‎"
+
+msgid "Hihiwai"
+msgstr "‎هيهيواي‎"
+
+msgid "Kawelaokapo"
+msgstr "‎كاويلاوكابو‎"
+
+msgid "‘Ohelokulu"
+msgstr "‎أوهيلوكولو‎"
+
+msgid "‘Ohelokoko"
+msgstr "‎أوهيلوكوكو‎"
+
+msgid "‘Ohelouli"
+msgstr "‎أوهيلوأولي‎"
+
+msgid "‘Oheloawa"
+msgstr "‎أوهيلواوا‎"
+
+msgid "‘Ohelowaha"
+msgstr "‎أوهيلواها‎"
+
+msgid "Kawilikolokio"
+msgstr "‎كاويليكولوكيو‎"
+
+msgid "Ka‘ielawei‘a"
+msgstr "‎كائيئيلاويئا‎"
+
+msgid "Kalipo‘eu‘eu"
+msgstr "‎كاليبوإيئو‎"
+
+msgid "Momonapikowalu"
+msgstr "‎مومونابيكوالو‎"
+
+msgid "Mokopapa‘i"
+msgstr "‎موكوبابائي‎"
+
+msgid "Wainielela"
+msgstr "‎واينيئيليلا‎"
+
+msgid "Makali‘i"
+msgstr "مكاليئل"
