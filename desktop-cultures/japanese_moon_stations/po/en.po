@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: stellarium 0.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-18 14:03+0700\n"
+"PO-Revision-Date: 2010-05-07 20:47+0000\n"
+"Last-Translator: Fabien Chéreau <Unknown>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Wings"
+msgstr "Wings"
+
+msgid "Tail"
+msgstr "Tail"
+
+msgid "Dipper"
+msgstr "Dipper"
+
+msgid "Horn"
+msgstr "Horn"
+
+msgid "Willow"
+msgstr "Willow"
+
+msgid "Stomach"
+msgstr "Stomach"
+
+msgid "Wall"
+msgstr "Wall"
+
+msgid "Root"
+msgstr "Root"
+
+msgid "Net"
+msgstr "Net"
+
+msgid "Well"
+msgstr "Well"
+
+msgid "Emptiness"
+msgstr "Emptiness"
+
+msgid "Heart"
+msgstr "Heart"
+
+msgid "Room"
+msgstr "Room"
+
+msgid "Neck"
+msgstr "Neck"
+
+msgid "Chamber"
+msgstr ""
+
+msgid "Basket"
+msgstr ""
+
+msgid "Cow"
+msgstr ""
+
+msgid "Woman"
+msgstr ""
+
+msgid "Roof Top"
+msgstr ""
+
+msgid "Stride"
+msgstr ""
+
+msgid "Hill"
+msgstr ""
+
+msgid "Stopping Place"
+msgstr ""
+
+msgid "Turtle Snout"
+msgstr ""
+
+msgid "Investigator"
+msgstr ""
+
+msgid "Ogre"
+msgstr ""
+
+msgid "Stars"
+msgstr ""
+
+msgid "Stretched Net"
+msgstr ""
+
+msgid "Chariot Cross-Board"
+msgstr ""

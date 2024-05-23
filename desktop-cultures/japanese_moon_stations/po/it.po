@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Luigi Ghia <luigi.ghia@gmail.com>, 2023\n"
+"Language-Team: Italian (https://app.transifex.com/stellarium/teams/80998/"
+"it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr "Case lunari giapponesi"
+
+msgid "Net"
+msgstr "Rete"
+
+msgid "Wall"
+msgstr "Muro"
+
+msgid "Root"
+msgstr "Radice"
+
+msgid "Dipper"
+msgstr "Calatore"
+
+msgid "Room"
+msgstr "Stanza"
+
+msgid "Horn"
+msgstr "Corno"
+
+msgid "Well"
+msgstr "Pozzo"
+
+msgid "Neck"
+msgstr "Collo"
+
+msgid "Willow"
+msgstr "Salice"
+
+msgid "Tail"
+msgstr "Coda"
+
+msgid "Stomach"
+msgstr "Stomaco"
+
+msgid "Heart"
+msgstr "Cuore"
+
+msgid "Emptiness"
+msgstr "Vuoto"
+
+msgid "Wings"
+msgstr "Ali"
+
+msgid "Chamber"
+msgstr "Camera"
+
+msgid "Basket"
+msgstr "Cesto"
+
+msgid "Cow"
+msgstr "Vacca"
+
+msgid "Woman"
+msgstr "Donna"
+
+msgid "Roof Top"
+msgstr "Tetto"
+
+msgid "Stride"
+msgstr "Passo"
+
+msgid "Hill"
+msgstr "Collina"
+
+msgid "Stopping Place"
+msgstr "Punto di Stop"
+
+msgid "Turtle Snout"
+msgstr "Muso di Tartaruga"
+
+msgid "Investigator"
+msgstr "Investigatore"
+
+msgid "Ogre"
+msgstr "Orco"
+
+msgid "Stars"
+msgstr "Stelle"
+
+msgid "Stretched Net"
+msgstr "Rete Stirata"
+
+msgid "Chariot Cross-Board"
+msgstr "Carro a tavole incrociate"

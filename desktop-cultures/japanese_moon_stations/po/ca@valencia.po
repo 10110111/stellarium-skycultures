@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Catalan (Valencian) (https://app.transifex.com/stellarium/"
+"teams/80998/ca@valencia/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca@valencia\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr ""
+
+msgid "Net"
+msgstr "Xarxa"
+
+msgid "Wall"
+msgstr "Mur"
+
+msgid "Root"
+msgstr "Arrel"
+
+msgid "Dipper"
+msgstr "Cullerot"
+
+msgid "Room"
+msgstr "Habitació"
+
+msgid "Horn"
+msgstr "Banya"
+
+msgid "Well"
+msgstr "Pou"
+
+msgid "Neck"
+msgstr "Coll"
+
+msgid "Willow"
+msgstr "Salze"
+
+msgid "Tail"
+msgstr "Cua"
+
+msgid "Stomach"
+msgstr "Estómac"
+
+msgid "Heart"
+msgstr "Cor"
+
+msgid "Emptiness"
+msgstr "Buidor"
+
+msgid "Wings"
+msgstr "Ales"
+
+msgid "Chamber"
+msgstr "Cambra"
+
+msgid "Basket"
+msgstr "Cistella"
+
+msgid "Cow"
+msgstr "Vaca"
+
+msgid "Woman"
+msgstr "Dona"
+
+msgid "Roof Top"
+msgstr "Terrat"
+
+msgid "Stride"
+msgstr "Camallada"
+
+msgid "Hill"
+msgstr "Turó"
+
+msgid "Stopping Place"
+msgstr "Lloc de parada"
+
+msgid "Turtle Snout"
+msgstr "Musell de tortuga"
+
+msgid "Investigator"
+msgstr "Investigador"
+
+msgid "Ogre"
+msgstr "Ogre"
+
+msgid "Stars"
+msgstr "Estreles"
+
+msgid "Stretched Net"
+msgstr "Xarxa estirada"
+
+msgid "Chariot Cross-Board"
+msgstr "Tauló creuat del carro"
