@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Hungarian (https://app.transifex.com/stellarium/teams/80998/"
+"hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr ""
+
+msgid "Net"
+msgstr "Háló"
+
+msgid "Wall"
+msgstr "Fal"
+
+msgid "Root"
+msgstr "Gyökér"
+
+msgid "Dipper"
+msgstr "Merőkanál"
+
+msgid "Room"
+msgstr "Szoba"
+
+msgid "Horn"
+msgstr "Szarv"
+
+msgid "Well"
+msgstr "Kút"
+
+msgid "Neck"
+msgstr "Nyak"
+
+msgid "Willow"
+msgstr "Fűzfa"
+
+msgid "Tail"
+msgstr "Far"
+
+msgid "Stomach"
+msgstr "Gyomor"
+
+msgid "Heart"
+msgstr "Szív, az Antares kínai neve a Skorpió csillagképben"
+
+msgid "Emptiness"
+msgstr "Üresség"
+
+msgid "Wings"
+msgstr "Szárnyak"
+
+msgid "Chamber"
+msgstr "Kamra"
+
+msgid "Basket"
+msgstr "Kosár"
+
+msgid "Cow"
+msgstr "Tehén"
+
+msgid "Woman"
+msgstr "Nő"
+
+msgid "Roof Top"
+msgstr "Tető"
+
+msgid "Stride"
+msgstr ""
+
+msgid "Hill"
+msgstr "Domb"
+
+msgid "Stopping Place"
+msgstr "Megállóhely"
+
+msgid "Turtle Snout"
+msgstr "Teknős orr"
+
+msgid "Investigator"
+msgstr "Nyomozó"
+
+msgid "Ogre"
+msgstr "Ogre"
+
+msgid "Stars"
+msgstr "Csillagok"
+
+msgid "Stretched Net"
+msgstr "Kifeszített háló"
+
+msgid "Chariot Cross-Board"
+msgstr "Harciszekér deszkája"

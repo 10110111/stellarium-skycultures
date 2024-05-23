@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Karl Birgersson <birgerssonkarl@outlook.com>, 2022\n"
+"Language-Team: Swedish (https://app.transifex.com/stellarium/teams/80998/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr "Japanska månhus"
+
+msgid "Net"
+msgstr "Nät"
+
+msgid "Wall"
+msgstr "Mur"
+
+msgid "Root"
+msgstr "Rot"
+
+msgid "Dipper"
+msgstr "Slev"
+
+msgid "Room"
+msgstr "Rum"
+
+msgid "Horn"
+msgstr "Horn"
+
+msgid "Well"
+msgstr "Brunn"
+
+msgid "Neck"
+msgstr "Nacke"
+
+msgid "Willow"
+msgstr "Pilträd"
+
+msgid "Tail"
+msgstr "Svans"
+
+msgid "Stomach"
+msgstr "Mage"
+
+msgid "Heart"
+msgstr "Hjärta"
+
+msgid "Emptiness"
+msgstr "Tomhet"
+
+msgid "Wings"
+msgstr "Vingar"
+
+msgid "Chamber"
+msgstr "Kammare"
+
+msgid "Basket"
+msgstr "Korg"
+
+msgid "Cow"
+msgstr "Ko"
+
+msgid "Woman"
+msgstr "Kvinna"
+
+msgid "Roof Top"
+msgstr "Tak"
+
+msgid "Stride"
+msgstr "Framsteg"
+
+msgid "Hill"
+msgstr "Kulle"
+
+msgid "Stopping Place"
+msgstr "Rastplats"
+
+msgid "Turtle Snout"
+msgstr "Sköldpaddenos"
+
+msgid "Investigator"
+msgstr "Undersökare"
+
+msgid "Ogre"
+msgstr "Troll"
+
+msgid "Stars"
+msgstr "Stjärnor"
+
+msgid "Stretched Net"
+msgstr "Sträckt nät"
+
+msgid "Chariot Cross-Board"
+msgstr "Stridsvagn"

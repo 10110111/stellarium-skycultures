@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: abuyop <abuyop@gmail.com>, 2022\n"
+"Language-Team: Malay (https://app.transifex.com/stellarium/teams/80998/ms/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ms\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr ""
+
+msgid "Net"
+msgstr "Jaring"
+
+msgid "Wall"
+msgstr "Dinding"
+
+msgid "Root"
+msgstr "Akar"
+
+msgid "Dipper"
+msgstr "Senduk"
+
+msgid "Room"
+msgstr "Bilik"
+
+msgid "Horn"
+msgstr "Tanduk"
+
+msgid "Well"
+msgstr "Perigi"
+
+msgid "Neck"
+msgstr "Leher"
+
+msgid "Willow"
+msgstr "Willow"
+
+msgid "Tail"
+msgstr "Ekor"
+
+msgid "Stomach"
+msgstr "Perut"
+
+msgid "Heart"
+msgstr "Hati"
+
+msgid "Emptiness"
+msgstr "Kekosongan"
+
+msgid "Wings"
+msgstr "Sayap"
+
+msgid "Chamber"
+msgstr ""
+
+msgid "Basket"
+msgstr ""
+
+msgid "Cow"
+msgstr ""
+
+msgid "Woman"
+msgstr ""
+
+msgid "Roof Top"
+msgstr ""
+
+msgid "Stride"
+msgstr ""
+
+msgid "Hill"
+msgstr ""
+
+msgid "Stopping Place"
+msgstr ""
+
+msgid "Turtle Snout"
+msgstr ""
+
+msgid "Investigator"
+msgstr ""
+
+msgid "Ogre"
+msgstr ""
+
+msgid "Stars"
+msgstr "Bintang"
+
+msgid "Stretched Net"
+msgstr ""
+
+msgid "Chariot Cross-Board"
+msgstr ""

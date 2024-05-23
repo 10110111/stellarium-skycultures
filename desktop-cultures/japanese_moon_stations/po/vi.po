@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Vietnamese (https://app.transifex.com/stellarium/teams/80998/"
+"vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr ""
+
+msgid "Net"
+msgstr "Tất"
+
+msgid "Wall"
+msgstr "Bích"
+
+msgid "Root"
+msgstr "Thị Túc"
+
+msgid "Dipper"
+msgstr "Đẩu"
+
+msgid "Room"
+msgstr "Phòng"
+
+msgid "Horn"
+msgstr "Giác"
+
+msgid "Well"
+msgstr "Tỉnh"
+
+msgid "Neck"
+msgstr "Cang"
+
+msgid "Willow"
+msgstr "Liễu"
+
+msgid "Tail"
+msgstr "Vĩ"
+
+msgid "Stomach"
+msgstr "Vị"
+
+msgid "Heart"
+msgstr "Tâm"
+
+msgid "Emptiness"
+msgstr "Hư"
+
+msgid "Wings"
+msgstr "Dực"
+
+msgid "Chamber"
+msgstr "Căn Phòng"
+
+msgid "Basket"
+msgstr "Cái rổ"
+
+msgid "Cow"
+msgstr "Con bò cái"
+
+msgid "Woman"
+msgstr "Phụ nữ"
+
+msgid "Roof Top"
+msgstr "Mái nhà"
+
+msgid "Stride"
+msgstr "Bước dài"
+
+msgid "Hill"
+msgstr "Đồi"
+
+msgid "Stopping Place"
+msgstr "Nơi dừng chân"
+
+msgid "Turtle Snout"
+msgstr "Mõm rùa"
+
+msgid "Investigator"
+msgstr "Người nghiên cứu"
+
+msgid "Ogre"
+msgstr "Yêu tinh"
+
+msgid "Stars"
+msgstr "Sao"
+
+msgid "Stretched Net"
+msgstr "Stretched Net"
+
+msgid "Chariot Cross-Board"
+msgstr "Chariot Cross-Board"

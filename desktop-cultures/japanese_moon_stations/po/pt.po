@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Portuguese (https://app.transifex.com/stellarium/teams/80998/"
+"pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr ""
+
+msgid "Net"
+msgstr "Rede"
+
+msgid "Wall"
+msgstr "Muro"
+
+msgid "Root"
+msgstr "Raiz"
+
+msgid "Dipper"
+msgstr "Melro d'água"
+
+msgid "Room"
+msgstr "Sala"
+
+msgid "Horn"
+msgstr "Corno"
+
+msgid "Well"
+msgstr "Poço"
+
+msgid "Neck"
+msgstr "Pescoço"
+
+msgid "Willow"
+msgstr "Pardal"
+
+msgid "Tail"
+msgstr "Cauda"
+
+msgid "Stomach"
+msgstr "Estômago"
+
+msgid "Heart"
+msgstr "Coração"
+
+msgid "Emptiness"
+msgstr "Vazio"
+
+msgid "Wings"
+msgstr "Asas"
+
+msgid "Chamber"
+msgstr "Câmara"
+
+msgid "Basket"
+msgstr "Cesta"
+
+msgid "Cow"
+msgstr "Vaca"
+
+msgid "Woman"
+msgstr "Mulher"
+
+msgid "Roof Top"
+msgstr "Terraço"
+
+msgid "Stride"
+msgstr "Passo"
+
+msgid "Hill"
+msgstr "Colina"
+
+msgid "Stopping Place"
+msgstr "Lugar de Parada"
+
+msgid "Turtle Snout"
+msgstr "Focinho de Tartaruga"
+
+msgid "Investigator"
+msgstr "Investigador"
+
+msgid "Ogre"
+msgstr "Ogre"
+
+msgid "Stars"
+msgstr "Estrelas"
+
+msgid "Stretched Net"
+msgstr "Rede Esticada"
+
+msgid "Chariot Cross-Board"
+msgstr "Prancha da Carruagem"

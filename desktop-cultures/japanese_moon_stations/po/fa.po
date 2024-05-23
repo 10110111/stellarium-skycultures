@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ali Azadegan <sel3ulba@yahoo.com>, 2023\n"
+"Language-Team: Persian (https://app.transifex.com/stellarium/teams/80998/"
+"fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr ""
+
+msgid "Net"
+msgstr "تور"
+
+msgid "Wall"
+msgstr "دیوار"
+
+msgid "Root"
+msgstr "ریشه"
+
+msgid "Dipper"
+msgstr "ملاقه"
+
+msgid "Room"
+msgstr "اتاق"
+
+msgid "Horn"
+msgstr "شاخ"
+
+msgid "Well"
+msgstr "چاه"
+
+msgid "Neck"
+msgstr "گردن"
+
+msgid "Willow"
+msgstr "بید"
+
+msgid "Tail"
+msgstr "دم"
+
+msgid "Stomach"
+msgstr "معده"
+
+msgid "Heart"
+msgstr "دل"
+
+msgid "Emptiness"
+msgstr "خلأ"
+
+msgid "Wings"
+msgstr "بال‌ها"
+
+msgid "Chamber"
+msgstr ""
+
+msgid "Basket"
+msgstr "سبد"
+
+msgid "Cow"
+msgstr "گاو"
+
+msgid "Woman"
+msgstr ""
+
+msgid "Roof Top"
+msgstr ""
+
+msgid "Stride"
+msgstr ""
+
+msgid "Hill"
+msgstr ""
+
+msgid "Stopping Place"
+msgstr ""
+
+msgid "Turtle Snout"
+msgstr ""
+
+msgid "Investigator"
+msgstr ""
+
+msgid "Ogre"
+msgstr ""
+
+msgid "Stars"
+msgstr "ستارگان"
+
+msgid "Stretched Net"
+msgstr ""
+
+msgid "Chariot Cross-Board"
+msgstr ""

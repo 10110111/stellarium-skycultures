@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: ysjbserver <ysjbserver@naver.com>, 2023\n"
+"Language-Team: Korean (https://app.transifex.com/stellarium/teams/80998/"
+"ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr "일본 28수"
+
+msgid "Net"
+msgstr "필(畢)"
+
+msgid "Wall"
+msgstr "벽(壁)"
+
+msgid "Root"
+msgstr "저(氐)"
+
+msgid "Dipper"
+msgstr "두(斗)"
+
+msgid "Room"
+msgstr "방(房)"
+
+msgid "Horn"
+msgstr "각(角)"
+
+msgid "Well"
+msgstr "정(井)"
+
+msgid "Neck"
+msgstr "항(亢)"
+
+msgid "Willow"
+msgstr "유(柳)"
+
+msgid "Tail"
+msgstr "미(尾)"
+
+msgid "Stomach"
+msgstr "위(胃)"
+
+msgid "Heart"
+msgstr "심(心)"
+
+msgid "Emptiness"
+msgstr "허(虛)"
+
+msgid "Wings"
+msgstr "익(翼)"
+
+msgid "Chamber"
+msgstr "방"
+
+msgid "Basket"
+msgstr "바구니"
+
+msgid "Cow"
+msgstr "소"
+
+msgid "Woman"
+msgstr "여자"
+
+msgid "Roof Top"
+msgstr "옥상"
+
+msgid "Stride"
+msgstr "걷는 모습"
+
+msgid "Hill"
+msgstr "언덕"
+
+msgid "Stopping Place"
+msgstr "정류장"
+
+msgid "Turtle Snout"
+msgstr "거북의 주둥이"
+
+msgid "Investigator"
+msgstr "조사관"
+
+msgid "Ogre"
+msgstr "거인"
+
+msgid "Stars"
+msgstr "별"
+
+msgid "Stretched Net"
+msgstr "늘어난 그물"
+
+msgid "Chariot Cross-Board"
+msgstr "전차 교차로"
