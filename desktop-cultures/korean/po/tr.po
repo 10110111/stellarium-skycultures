@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: 03bfdb1e3bdfa21b80c8160ea93f1c67_2436d66, 2022\n"
+"Language-Team: Turkish (https://app.transifex.com/stellarium/teams/80998/"
+"tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "Kore"
+
+msgid "Dog"
+msgstr "Köpek"
+
+msgid "Arrow"
+msgstr "Ok"
+
+msgid "Bow"
+msgstr "Yay"
+
+msgid "Fish"
+msgstr "Balıklar"
+
+msgid "Northern Dipper"
+msgstr "Kuzey Kepçesi"
+
+msgid "Toilet"
+msgstr "Tuvalet"
+
+msgid "Whip"
+msgstr "Kırbaç"
+
+msgid "Mausoleum"
+msgstr "Anıt Mezar"
+
+msgid "Mortar"
+msgstr "Havan"
+
+msgid "Rolled Tongue"
+msgstr "Yuvarlanmış Dil"
+
+msgid "Chaff"
+msgstr "Saman"
+
+msgid "Whetstone"
+msgstr "Bileği Taşı"
+
+msgid "Inner Kitchen"
+msgstr "İç Mutfak"
+
+msgid "Three Steps"
+msgstr "Üç Adım"
+
+msgid "Eunuch"
+msgstr "Hadım"
+
+msgid "Crown Prince"
+msgstr "Prens Tacı"
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr "Dış Mutfak"
+
+msgid "Five Lords"
+msgstr "Beş Lord"
+
+msgid "Right Flag"
+msgstr "Sağ Bayrak"
+
+msgid "Son"
+msgstr "Oğul"
+
+msgid "Left Flag"
+msgstr "Sol Bayrak"
+
+msgid "Charioteer"
+msgstr ""
+
+msgid "Holy Kettle"
+msgstr "Kutsal Çaydanlık"
+
+msgid "Farm of Capital City"
+msgstr "Başkent'in Çiftliği"
+
+msgid "Dignity of King"
+msgstr "Kral'ın Haysiyeti"
+
+msgid "Nomination"
+msgstr "Adaylık"
+
+msgid "Gate of Sky"
+msgstr "Gökyüzü'nün Kapısı"
+
+msgid "Equality"
+msgstr "Eşitlik"
+
+msgid "Helper"
+msgstr "Yardımcı"
+
+msgid "Position of Holy King"
+msgstr "Kutsal Kral'ın Mevkisi"
+
+msgid "Neck of Dragon"
+msgstr "Ejderha'nın Boynu"
+
+msgid "Beheading"
+msgstr "Kafa kesme"
+
+msgid "Judge"
+msgstr "Yargıç"
+
+msgid "Flutting Flag"
+msgstr "Dalgalanan Bayrak"
+
+msgid "Javelin of Sky"
+msgstr "Gökyüzü'nün Ciriti"
+
+msgid "Seat for Longevity"
+msgstr "Uzun Ömürlülük için Koltuk"
+
+msgid "Oar for visitor"
+msgstr "Ziyaretçi için Kürek"
+
+msgid "Milk of Sky"
+msgstr "Gökyüzü'nün Sütü"
+
+msgid "House of Queen"
+msgstr "Kraliçe'nin Evi"
+
+msgid "Ancient Chariot"
+msgstr "Antik Savaş Arabası"
+
+msgid "Carriage for King"
+msgstr "Kral için Taşıma"
+
+msgid "General of Cavalry"
+msgstr "Süvarilerin Generali"
+
+msgid "Cavalry of Emperor"
+msgstr "İmparator'un Süvarisi"
+
+msgid "General of Mobile Troops"
+msgstr "Taşınabilir Birliklerin Generali"
+
+msgid "East Road"
+msgstr "Doğu Yolu"
+
+msgid "Gate Bolt"
+msgstr "Kapı Cıvatası"
+
+msgid "Door Lock and Key"
+msgstr "Kapı Kilidi ve Anahtarı"
+
+msgid "Penalty"
+msgstr "Ceza"
+
+msgid "Royal Hall"
+msgstr "Kraliyet Salonu"
+
+msgid "Chamberlain"
+msgstr "Kahya"
+
+msgid "Sun"
+msgstr "Güneş"
+
+msgid "West Road"
+msgstr "Batı Yolu"
+
+msgid "Seat of Emperor"
+msgstr "İmparator'un Koltuğu"
+
+msgid "Five Troops"
+msgstr "Beş Birlik"
+
+msgid "River of Sky"
+msgstr "Gökyüzü'nün Irmağı"
+
+msgid "Prayer for Progeny"
+msgstr ""
+
+msgid "Forcast"
+msgstr ""
+
+msgid "Yard for Empresses"
+msgstr "İmparatoriçeler için Avlu"
+
+msgid "Holy Palace"
+msgstr "Kutsal Saray"
+
+msgid "Winnow"
+msgstr "Yaba"
+
+msgid "Outer Pestle"
+msgstr "Dış Havan Tokmağı"
+
+msgid "Head of Town"
+msgstr "Kasabanın Başı"
+
+msgid "Build"
+msgstr "Yapı"
+
+msgid "Fowl of Sky"
+msgstr "Gökyüzü'nün Kümes Hayvanı"
+
+msgid "Shrine of Sky"
+msgstr ""
+
+msgid "Northeastern Nations"
+msgstr "Kuzeydoğu Ulusları"
+
+msgid "Old Farmer"
+msgstr "Yaşlı Çiftçi"
+
+msgid "Snapping Turtle"
+msgstr "Isıran Kaplumbağa"
+
+msgid "Road for Emperor"
+msgstr "İmparator için Yol"
+
+msgid "The Weaver"
+msgstr "Dokumacı"
+
+msgid "River adjoining Tower"
+msgstr "Kule ile bitişik Irmak"
+
+msgid "Drum of River"
+msgstr "Irmak'ın Davulu"
+
+msgid "Drumstick of Sky"
+msgstr "Gökyüzü'nün Bageti"
+
+msgid "Cow leading Man"
+msgstr "İnek süren Adam"
+
+msgid "Bank Spread"
+msgstr "Banka Yayılışı"
+
+msgid "Basket for Silkworm"
+msgstr "İpekböceği için Sepet"
+
+msgid "Officer for Cart"
+msgstr "Araba Memuru"
+
+msgid "Ferry of Sky"
+msgstr "Gökyüzü'nün Feribotu"
+
+msgid "Fruit"
+msgstr "Meyve"
+
+msgid "Seed"
+msgstr "Tohum"
+
+msgid "Storage for Lady"
+msgstr "Hanım için Depo"
+
+msgid "Court Lady"
+msgstr "Mahkeme Hanımı"
+
+msgid "Judge Fault"
+msgstr "Yargıç Hatası"
+
+msgid "Amend Fault"
+msgstr "Değiştirme Hatası"
+
+msgid "Grant Life"
+msgstr "Hayat Bağışı"
+
+msgid "Punish"
+msgstr "Cezalandırma"
+
+msgid "Empty House"
+msgstr "Boş Ev"
+
+msgid "Weep"
+msgstr "Ağlamak"
+
+msgid "Sob"
+msgstr "Hıçkırık"
+
+msgid "Castle with Rampart"
+msgstr "Sur ile Kale"
+
+msgid "Hook for Dress"
+msgstr "Elbise için Çengel"
+
+msgid "Groom"
+msgstr "Damat"
+
+msgid "Human"
+msgstr "İnsan"
+
+msgid "Inner Pestle"
+msgstr "İç Havan Tokmağı"
+
+msgid "Warehouse of Sky"
+msgstr "Gökyüzü'nün Deposu"
+
+msgid "Tomb"
+msgstr "Mezar"
+
+msgid "Cover of House"
+msgstr "Ev'in Örtüsü"
+
+msgid "Broken Mortar"
+msgstr "Kırık Havan"
+
+msgid "Climbing Serpent"
+msgstr "Tırmanan Yılan"
+
+msgid "Palace of Emperor"
+msgstr "İmparator'un Sarayı"
+
+msgid "Detached Palace"
+msgstr "Kopuk Saray"
+
+msgid "Lightening"
+msgstr "Şimşek"
+
+msgid "Rampart"
+msgstr "Sur"
+
+msgid "Troops of Sky"
+msgstr "Gökyüzü'nün Birlikleri"
+
+msgid "Village for Patrol"
+msgstr "Devriye için Köy"
+
+msgid "Net of Sky"
+msgstr "Gökyüzü'nün Ağı"
+
+msgid "Stable of Sky"
+msgstr "Gökyüzü'nün Ahırı"
+
+msgid "Eastern Wall"
+msgstr "Doğu Duvarı"
+
+msgid "Civil Engineer"
+msgstr "Sivil Mühendis"
+
+msgid "Thunderbolts"
+msgstr "Yıldırımlar"
+
+msgid "Clouds and Rain"
+msgstr "Bulutlar ve Yağmur"
+
+msgid "Highway"
+msgstr "Anayol"
+
+msgid "Officer for Chariot of"
+msgstr "Savaş Arabası Memuru"
+
+msgid "Side Road"
+msgstr "Yan Yol"
+
+msgid "Armory"
+msgstr "Cephanelik"
+
+msgid "Southern Gate of Emperator"
+msgstr "İmparator'un Güney Kapısı"
+
+msgid "Outer Folding Screen"
+msgstr "Dış Perde"
+
+msgid "Toilet of Sky"
+msgstr "Gökyüzü'nün Tuvaleti"
+
+msgid "Architect"
+msgstr "Mimar"
+
+msgid "Emperator"
+msgstr "İmparator"
+
+msgid "Watchtower"
+msgstr "Gözetleme Kulesi"
+
+msgid "Left Elm"
+msgstr "Sol Karaağaç"
+
+msgid "Right Elm"
+msgstr "Sağ Karaağaç"
+
+msgid "Storehouse of Sky"
+msgstr "Gökyüzü'nün Ambarı"
+
+msgid "Stack of Cereals"
+msgstr "Tahıl Yığını"
+
+msgid "Ship of Sky"
+msgstr "Gökyüzü'nün Gemisi"
+
+msgid "Store of Water"
+msgstr "Suyun Deposu"
+
+msgid "Heap of Corpse"
+msgstr "Ceset Yığını"
+
+msgid "Stomach of Tiger"
+msgstr "Kaplan'ın Karnı"
+
+msgid "Store of Millet for"
+msgstr "Darı Ambarı"
+
+msgid "Storehouse for Cereals"
+msgstr "Tahıllar için Ambar"
+
+msgid "Shaman of Sky"
+msgstr "Gökyüzü'nün Şamanı"
+
+msgid "Ear and Eye of"
+msgstr "Kulağı ve Gözü"
+
+msgid "Moon"
+msgstr "Ay"
+
+msgid "Hill of Sky"
+msgstr "Gökyüzü Tepesi"
+
+msgid "Conspiracy of Sky"
+msgstr "Gökyüzü'nün Komplosu"
+
+msgid "Fodder"
+msgstr "Yem"
+
+msgid "Garage for Chariot"
+msgstr "Savaş Arabası için Garaj"
+
+msgid "Pond for Fish"
+msgstr "Balıklar için Gölet"
+
+msgid "Pillar"
+msgstr "Sütun"
+
+msgid "Puddle of Sky"
+msgstr "Gökyüzü Birikintisi"
+
+msgid "Kings"
+msgstr "Krallar"
+
+msgid "Gateway of Sky"
+msgstr "Gökyüzü Geçidi"
+
+msgid "Flage of Saam"
+msgstr ""
+
+msgid "Village of Sky"
+msgstr "Gökyüzü Köyü"
+
+msgid "Belvedere of Sky"
+msgstr "Gökyüzü Taraçası"
+
+msgid "General of Border"
+msgstr "Sınır Generali"
+
+msgid "Celebration of Sky"
+msgstr ""
+
+msgid "Flag of Emperor"
+msgstr "İmparator'un Bayrağı"
+
+msgid "Nine Territory"
+msgstr "Dokuz Bölge"
+
+msgid "Garden of Sky"
+msgstr "Gökyüzü'nün Bahçesi"
+
+msgid "Settled Flag"
+msgstr "İnik Bayrak"
+
+msgid "Forcast Calamity"
+msgstr ""
+
+msgid "Scout of Three Troups"
+msgstr ""
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Keşif Birliği"
+
+msgid "Well for Millitary"
+msgstr "Askeriye için Kuyu"
+
+msgid "Well of Jade"
+msgstr "Yeşim Kuyusu"
+
+msgid "Folding Screen"
+msgstr "Perde"
+
+msgid "Piled Brushwood"
+msgstr "Yığılı Çalıçırpı"
+
+msgid "Northern River"
+msgstr "Kuzey Irmağı"
+
+msgid "Wine Glass of Sky"
+msgstr "Gökyüzü'nün Şarap Bardağı"
+
+msgid "Eastern Well"
+msgstr "Doğu Kuyusu"
+
+msgid "Flood control"
+msgstr "Sel kontrolü"
+
+msgid "Balance of Water"
+msgstr "Suyun Dengesi"
+
+msgid "Four Spirit of River"
+msgstr "Irmağın Dört Ruhu"
+
+msgid "Southern River"
+msgstr "Güney Irmağı"
+
+msgid "Twin Gate"
+msgstr "İkiz Kapı"
+
+msgid "Star of Wolf"
+msgstr "Kurdun Yıldızı"
+
+msgid "Wild Fowls"
+msgstr "Vahşi Av Kuşları"
+
+msgid "Market for Army"
+msgstr "Ordu için Pazar"
+
+msgid "Grandchildren"
+msgstr "Torunlar"
+
+msgid "Grown-up"
+msgstr "Yetişkin"
+
+msgid "Oldman"
+msgstr "İhtiyar"
+
+msgid "Beacon"
+msgstr "Işın"
+
+msgid "Eye of Sky"
+msgstr "Gökyüzü'nün Gözü"
+
+msgid "Pile of Dead"
+msgstr "Ceset Yığını"
+
+msgid "Green Ridge"
+msgstr "Yeşil Tepe"
+
+msgid "Dog of Sky"
+msgstr "Gökyüzü'nün Köpeği"
+
+msgid "Spirit of GuRyoung"
+msgstr "GuRyoung'un Ruhu"
+
+msgid "Flag of Wine Officer"
+msgstr "Şarap Memuru'nun Bayrağı"
+
+msgid "Officer of Kitchen"
+msgstr "Mutfak Memuru"
+
+msgid "Equality and Fair"
+msgstr "Eşitlik ve Adil"
+
+msgid "Emperor HeonWon"
+msgstr "İmparator HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Gökyüzü'nün Başkenti"
+
+msgid "Chief of Farming"
+msgstr "Çiftçilik Şefi"
+
+msgid "Officer of Tomb"
+msgstr "Mezar Memuru"
+
+msgid "Tomb of Sky"
+msgstr "Gökyüzü'nün Mezarı"
+
+msgid "Wing of Red Bird"
+msgstr "Kırmızı Kuşun Kanadı"
+
+msgid "Eastern Pottery"
+msgstr "Doğu Çömleği"
+
+msgid "Chariot of Emperor"
+msgstr "İmparator'un Savaş Arabası"
+
+msgid "Sand for Life"
+msgstr "Hayat için Kum"
+
+msgid "Gateway for Troops"
+msgstr "Birlikler için Geçit"
+
+msgid "Guardian Knight"
+msgstr "Muhafız Şövalye"
+
+msgid "Five Feudal Lords"
+msgstr "Beş Feodal Lord"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Kısa Çit"
+
+msgid "Tall Fence"
+msgstr "Uzun Çİt"
+
+msgid "Nine Lords"
+msgstr "Dokuz Lord"
+
+msgid "Dung of Tiger"
+msgstr "Kaplan Dışkısı"
+
+msgid "Five Emperor"
+msgstr "Beş İmparator"
+
+msgid "Three Minister"
+msgstr "Üç Rahip"
+
+msgid "Officer for Audience"
+msgstr "Kitle Memuru"
+
+msgid "Grave Front"
+msgstr "Mezar Önü"
+
+msgid "Observatory"
+msgstr "Gözlemevi"
+
+msgid "Female Officer"
+msgstr "Kadın Memur"
+
+msgid "Wide Lodging Area"
+msgstr "Geniş Konaklama Alanı"
+
+msgid "Eight Cereals"
+msgstr "Sekiz Tahıl"
+
+msgid "Advance Guard"
+msgstr "Öncü"
+
+msgid "Three Ministers"
+msgstr "Üç Bakan"
+
+msgid "Virtue"
+msgstr "Erdem"
+
+msgid "Emperor's God of War"
+msgstr "İmparator'un Savaş Tanrısı"
+
+msgid "Emperor's God of Weather"
+msgstr "İmparator'un Hava Durumu Tanrısı"
+
+msgid "Flap of Flag"
+msgstr "Bayrağın Dalgalanışı"
+
+msgid "Minister"
+msgstr "Bakan"
+
+msgid "General and Minister"
+msgstr "General ve Bakan"
+
+msgid "Jail of Sky"
+msgstr "Gökyüzü'nün Hapishanesi"
+
+msgid "Six Department"
+msgstr "Altı Bölüm"
+
+msgid "Inner Stairway"
+msgstr "İç Merdiven"
+
+msgid "Spear of Sky"
+msgstr "Gökyüzü'nün Mızrağı"
+
+msgid "Cover for Emperor"
+msgstr "İmparator için Korunak"
+
+msgid "Place for Five Emperor"
+msgstr "Beş İmparator için Yer"
+
+msgid "60 Years"
+msgstr "Altmış Yıl"
+
+msgid "Kitchen of Sky"
+msgstr "Gökyüzü'nün Mutfağı"
+
+msgid "North Pole"
+msgstr "Kuzey Kutbu"
+
+msgid "Wound Lodge"
+msgstr "Yara Köşkü"
+
+msgid "Single-log Bridge"
+msgstr "Tek Kütükten Köprü"
+
+msgid "Great Emperor"
+msgstr "Büyük İmparator"
+
+msgid "Officer for Opinion"
+msgstr "Seçenek Memuru"
+
+msgid "Pillar of Sky"
+msgstr "Gökyüzü'nün Sütunu"
+
+msgid "Secretary"
+msgstr "Sekreterlik"
+
+msgid "Maid"
+msgstr "Hizmetçi"
+
+msgid "Desk of Woman"
+msgstr ""
+
+msgid "Judge Prison"
+msgstr "Mahkeme Hapishanesi"
+
+msgid "Purple Fence"
+msgstr "Mor Çit"
+
+msgid "Order of Sky"
+msgstr "Gökyüzü'nün Düzeni"
+
+msgid "Seven Minister"
+msgstr "Yedi Bakan"
+
+msgid "Thread Straw"
+msgstr "İplik Hasır"
+
+msgid "Market Fence"
+msgstr "Pazar Çiti"
+
+msgid "Feudal Lord"
+msgstr "Feodal Lord"
+
+msgid "Seat for Emperor"
+msgstr "İmparator için Koltuk"
+
+msgid "Royal Family"
+msgstr "Kraliyet Ailesi"
+
+msgid "Head of Family"
+msgstr "Aile Reisi"
+
+msgid "Record of Family"
+msgstr "Aile'nin Kayıdı"
+
+msgid "Officer for Family"
+msgstr "Aile Memuru"
+
+msgid "Tower in Market"
+msgstr "Pazar'daki Kule"
+
+msgid "Measure Cereal"
+msgstr "Ölçüm Tahılı"
+
+msgid "Cereal Measure Regulation"
+msgstr "Tahıl Ölçüm Düzenlemesi"
+
+msgid "Officer for Chariots"
+msgstr "Savaş Arabaları Memuru"
+
+msgid "Measure Amount"
+msgstr "Ölçüm Miktarı"
+
+msgid "Butchery"
+msgstr "Mezbaha"
+
+msgid "Officer for Jewel"
+msgstr "Mücevher Memuru"
+
+msgid "Royal"
+msgstr "Kraliyet"
+
+msgid "Lord"
+msgstr "Lord"
+
+msgid "Left Executor"
+msgstr ""
+
+msgid "Right Executor"
+msgstr ""
+
+msgid "Crossbeam for Heo"
+msgstr ""
+
+msgid "Threading Coins"
+msgstr ""
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

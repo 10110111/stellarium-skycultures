@@ -1,0 +1,1023 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Lubomir Hambalek <lubomir.hambalek@gmail.com>, 2024\n"
+"Language-Team: Slovak (https://app.transifex.com/stellarium/teams/80998/"
+"sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n "
+">= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "Kórejská"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Chinese, Korean, and Japanese constellations have the same origin and "
+"look very similar in shape. They are represented respectively in the Dun "
+"Huang starmap from the 8th century, the Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do map "
+"and in the Kitora skymap painted in A.D.7C ~ 8C. Their positions and their "
+"names are similar in the Chinese alphabet. The name of the constellations "
+"first appear in the Records of the Grand Historian(史記) in Han dynasty "
+"describing Xia dynasty in about 2000 B.C."
+msgstr ""
+"Čínske, kórejské a japonské súhvezdia majú rovnaký pôvod a tvarom vyzerajú "
+"veľmi podobne. Sú zobrazené na zodpovedajúcich hviezdnych mapách Dun Huang z "
+"8. storočia, mape Čchon-Sang-Jol-Čcha-Bun-Ja-Či-Do a mape Kitora namaľovej v "
+"7.-8. stor. n.l. Ich polohy a mená sú podobné v čínskom písme. Mená súhvezdí "
+"sa po prvý raz objavili v Záznamoch Veľkého historika (史記) z dynastie "
+"Chan, popisujúcimi dynastiu Sia z obdobia asi 2000 p.n.l."
+
+# Sky culture description section in markdown format
+msgid ""
+"### Origin\n"
+"\n"
+"The 272 constellations displayed in this Stellarium sky culture are based on "
+"the Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do, the Korean Constellation map, which "
+"was carved on the stone on 1395 but has its origin from another sky map "
+"which existed about 2,000 years ago. This map represents 1467 stars in about "
+"190 constellations whose shapes are slightly different from the chinese "
+"ones. The interpretation of the map is not easy: the map is so old that only "
+"about 300 stars are found to match with the real stars. All the stars of the "
+"map were drawn on a circle, so the equator seems smaller than the southern "
+"limit. Because the density of constellation does not change with respect to "
+"the position, the position and the size of the constellations were somewhat "
+"altered in a way unknown by the author. It is assumed that there should be "
+"no bright stars which do not belong to any constellations. The work of the "
+"author is subject to interpretation, and could be changed at a later time. "
+"It will however roughly show what the Korean Constellation are like."
+msgstr ""
+"### Pôvod\n"
+"\n"
+"Týchto 272 súhvezdí zobrazených v tejto kultúre oblohy je založených na "
+"kórejskej mape súhvezdí Čchon-Sang-Jol-Čcha-Bun-Ja-Či-Do, ktorá bola vyrytá "
+"do kameňa v roku 1395, ale pochádza z inej mapy, ktorá existovala po asi "
+"2000 rokov pred ňou. V tejto mape je 1467 hviezd v asi 190 súhvezdiach, "
+"ktorých tvar je mierne odlišný od tých čínskych. Interpretácia mapy nie je "
+"jednoduchá: mapa je taká stará, že sa podarilo stotožniť len asi 300 hviezd "
+"so skutočnými hviezdami. Všetky hviezdy na mape boli nakreslené na kruhu, "
+"takže rovník sa zdá kratší, než južný okraj. Pretože hustota súhvezdí sa "
+"vzhľadom na polohu nemení, poloha a veľkosť súhvezdí je mierne zmenená, čo "
+"autorovi nebolo známe. Predpokladá sa, že by v nej nemali byť jasné hviezdy, "
+"ktoré nepatria žiadnemu súhvezdiu. Práca autora je závislá na interpretácii "
+"a môže sa časom zmeniť. Aspoň nahrubo však ukazuje, ako vyzerajú kórejské "
+"súhvezdia."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+msgstr ""
+" - [#1]: [Čchonsang Jolčcha Bunjačido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *[Jeong, Tae-Min](http://"
+"user.chollian.net/~jtm71/)*"
+msgstr ""
+"Túto kultúru oblohy do Stellaria pridal užívateľ *[Čeong, Tchae-Min](http://"
+"user.chollian.net/~jtm71/)*"
+
+msgid "Dog"
+msgstr "Pes"
+
+msgid "Arrow"
+msgstr "Šíp"
+
+msgid "Bow"
+msgstr "Luk"
+
+msgid "Fish"
+msgstr "Ryba"
+
+msgid "Northern Dipper"
+msgstr "Severná naberačka"
+
+msgid "Toilet"
+msgstr "Kúpeľňa"
+
+msgid "Whip"
+msgstr "Bič"
+
+msgid "Mausoleum"
+msgstr "Mauzóleum"
+
+msgid "Mortar"
+msgstr "Mažiar"
+
+msgid "Rolled Tongue"
+msgstr "Zrolovaný jazyk"
+
+msgid "Chaff"
+msgstr "Plevy"
+
+msgid "Whetstone"
+msgstr "Brúsny kameň"
+
+msgid "Inner Kitchen"
+msgstr "Vnútorná kuchyňa"
+
+msgid "Three Steps"
+msgstr "Tri schody"
+
+msgid "Eunuch"
+msgstr "Eunuch"
+
+msgid "Crown Prince"
+msgstr "Korunný princ"
+
+msgid "Official for Materials Supply"
+msgstr "Úradník pre materiálne zásobovanie"
+
+msgid "Outer Kitchen"
+msgstr "Vonkajšia kuchyňa"
+
+msgid "Five Lords"
+msgstr "Päť pánov"
+
+msgid "Right Flag"
+msgstr "Pravá zástava"
+
+msgid "Son"
+msgstr "Syn"
+
+msgid "Left Flag"
+msgstr "Ľavá zástava"
+
+msgid "Charioteer"
+msgstr "Vozataj"
+
+msgid "Holy Kettle"
+msgstr "Svätá kanvica"
+
+msgid "Farm of Capital City"
+msgstr "Farma Hlavného mesta"
+
+msgid "Dignity of King"
+msgstr "Dôstojnosť kráľa"
+
+msgid "Nomination"
+msgstr "Nominácia"
+
+msgid "Gate of Sky"
+msgstr "Brána oblohy"
+
+msgid "Equality"
+msgstr "Rovnosť"
+
+msgid "Helper"
+msgstr "Pomocník"
+
+msgid "Position of Holy King"
+msgstr "Pozícia svätého kráľa"
+
+msgid "Neck of Dragon"
+msgstr "Krk draka"
+
+msgid "Beheading"
+msgstr "Poprava"
+
+msgid "Judge"
+msgstr "Sudca"
+
+msgid "Flutting Flag"
+msgstr "Vlajúca zástava"
+
+msgid "Javelin of Sky"
+msgstr "Oštep oblohy"
+
+msgid "Seat for Longevity"
+msgstr "Kreslo dlhovekosti"
+
+msgid "Oar for visitor"
+msgstr "Veslo pre hosťa"
+
+msgid "Milk of Sky"
+msgstr "Mlieko oblohy"
+
+msgid "House of Queen"
+msgstr "Dom kráľovnej"
+
+msgid "Ancient Chariot"
+msgstr "Staroveký bojový voz"
+
+msgid "Carriage for King"
+msgstr "Nosidlá pre kráľa"
+
+msgid "General of Cavalry"
+msgstr "Generál kavalérie"
+
+msgid "Cavalry of Emperor"
+msgstr "Kavaléria cisára"
+
+msgid "General of Mobile Troops"
+msgstr "Generál mobilných jednotiek"
+
+msgid "East Road"
+msgstr "Východná cesta"
+
+msgid "Gate Bolt"
+msgstr "Závora na bráne"
+
+msgid "Door Lock and Key"
+msgstr "Zámka dverí a kľúč"
+
+msgid "Penalty"
+msgstr "Trest"
+
+msgid "Royal Hall"
+msgstr "Kráľovská sála"
+
+msgid "Chamberlain"
+msgstr "Komorník"
+
+msgid "Sun"
+msgstr "Slnko"
+
+msgid "West Road"
+msgstr "Západná cesta"
+
+msgid "Seat of Emperor"
+msgstr "Trón cisára"
+
+msgid "Five Troops"
+msgstr "Päť vojakov"
+
+msgid "River of Sky"
+msgstr "Nebeská rieka"
+
+msgid "Prayer for Progeny"
+msgstr "Modlidba za plodnosť"
+
+msgid "Forcast"
+msgstr "Predpoveď"
+
+msgid "Yard for Empresses"
+msgstr "Dvor pre cisárovnú"
+
+msgid "Holy Palace"
+msgstr "Svätý palác"
+
+msgid "Winnow"
+msgstr "Osievadlo"
+
+msgid "Outer Pestle"
+msgstr "Vonkajší tĺčik"
+
+msgid "Head of Town"
+msgstr "Vedúci mesta"
+
+msgid "Build"
+msgstr "Stavba"
+
+msgid "Fowl of Sky"
+msgstr "Hydina oblohy"
+
+msgid "Shrine of Sky"
+msgstr "Svätyňa oblohy"
+
+msgid "Northeastern Nations"
+msgstr "Severovýchodné národy"
+
+msgid "Old Farmer"
+msgstr "Starý farmár"
+
+msgid "Snapping Turtle"
+msgstr "Kajmanka dravá"
+
+msgid "Road for Emperor"
+msgstr "Cesta pre cisára"
+
+msgid "The Weaver"
+msgstr "Tkáč"
+
+msgid "River adjoining Tower"
+msgstr "Rieka susediaca s vežou"
+
+msgid "Drum of River"
+msgstr "Bubon z rieky"
+
+msgid "Drumstick of Sky"
+msgstr "Palička oblohy"
+
+msgid "Cow leading Man"
+msgstr "Krava vedúca človeka"
+
+msgid "Bank Spread"
+msgstr "Rozšírený breh"
+
+msgid "Basket for Silkworm"
+msgstr "Košík pre hodvábniky"
+
+msgid "Officer for Cart"
+msgstr "Dôstojník pre vozík"
+
+msgid "Ferry of Sky"
+msgstr "Kompa oblohy"
+
+msgid "Fruit"
+msgstr "Ovocie"
+
+msgid "Seed"
+msgstr "Semienko"
+
+msgid "Storage for Lady"
+msgstr "Sklad pre dámu"
+
+msgid "Court Lady"
+msgstr "Dvorná dáma"
+
+msgid "Judge Fault"
+msgstr "Chyba sudcu"
+
+msgid "Amend Fault"
+msgstr "Nápraviť chybu"
+
+msgid "Grant Life"
+msgstr "Udeliť život"
+
+msgid "Punish"
+msgstr "Strestať"
+
+msgid "Empty House"
+msgstr "Prázdny dom"
+
+msgid "Weep"
+msgstr "Plač"
+
+msgid "Sob"
+msgstr "Vzlykot"
+
+msgid "Castle with Rampart"
+msgstr "Hrad s opevnením"
+
+msgid "Hook for Dress"
+msgstr "Háčik na šaty"
+
+msgid "Groom"
+msgstr "Ženích"
+
+msgid "Human"
+msgstr "Človek"
+
+msgid "Inner Pestle"
+msgstr "Vnútorný tĺčik"
+
+msgid "Warehouse of Sky"
+msgstr "Sklad oblohy"
+
+msgid "Tomb"
+msgstr "Hrobka"
+
+msgid "Cover of House"
+msgstr "Prikrývka z domu"
+
+msgid "Broken Mortar"
+msgstr "Rozbitý mažiar"
+
+msgid "Climbing Serpent"
+msgstr "Lezúci had"
+
+msgid "Palace of Emperor"
+msgstr "Palác cisára"
+
+msgid "Detached Palace"
+msgstr "Oddelený palác"
+
+msgid "Lightening"
+msgstr "Blesky"
+
+msgid "Rampart"
+msgstr "Hradba"
+
+msgid "Troops of Sky"
+msgstr "Vojaci oblohy"
+
+msgid "Village for Patrol"
+msgstr "Dedina pre hliadku"
+
+msgid "Net of Sky"
+msgstr "Sieť oblohy"
+
+msgid "Stable of Sky"
+msgstr "Stajňa oblohy"
+
+msgid "Eastern Wall"
+msgstr "Východná stena"
+
+msgid "Civil Engineer"
+msgstr "Stavebný inžinier"
+
+msgid "Thunderbolts"
+msgstr "Hromy"
+
+msgid "Clouds and Rain"
+msgstr "Mraky a dážď"
+
+msgid "Highway"
+msgstr "Hlavná cesta"
+
+msgid "Officer for Chariot of"
+msgstr "Dôstojník bojového voza"
+
+msgid "Side Road"
+msgstr "Vedľajšia cesta"
+
+msgid "Armory"
+msgstr "Zbrojnica"
+
+msgid "Southern Gate of Emperator"
+msgstr "Južná brána cisára"
+
+msgid "Outer Folding Screen"
+msgstr "Vonkajší paraván"
+
+msgid "Toilet of Sky"
+msgstr "Kúpeľňa oblohy"
+
+msgid "Architect"
+msgstr "Architekt"
+
+msgid "Emperator"
+msgstr "Cisár"
+
+msgid "Watchtower"
+msgstr "Strážna veža"
+
+msgid "Left Elm"
+msgstr "Ľavý brest"
+
+msgid "Right Elm"
+msgstr "Pravý brest"
+
+msgid "Storehouse of Sky"
+msgstr "Skladisko oblohy"
+
+msgid "Stack of Cereals"
+msgstr "Stoh obilia"
+
+msgid "Ship of Sky"
+msgstr "Loď oblohy"
+
+msgid "Store of Water"
+msgstr "Sklad vody"
+
+msgid "Heap of Corpse"
+msgstr "Hromada mŕtvol"
+
+msgid "Stomach of Tiger"
+msgstr "Žalúdok tigra"
+
+msgid "Store of Millet for"
+msgstr "Sklad prosa pre"
+
+msgid "Storehouse for Cereals"
+msgstr "Skladisko pre obilie"
+
+msgid "Shaman of Sky"
+msgstr "Šaman oblohy"
+
+msgid "Ear and Eye of"
+msgstr "Ucho a Oko - "
+
+msgid "Moon"
+msgstr "Mesiac"
+
+msgid "Hill of Sky"
+msgstr "Kopec oblohy"
+
+msgid "Conspiracy of Sky"
+msgstr "Sprisahanie oblohy"
+
+msgid "Fodder"
+msgstr "Krmivo"
+
+msgid "Garage for Chariot"
+msgstr "Opravovňa pre bojové vozy"
+
+msgid "Pond for Fish"
+msgstr "Rybník pre ryby"
+
+msgid "Pillar"
+msgstr "Stĺp"
+
+msgid "Puddle of Sky"
+msgstr "Kaluž oblohy"
+
+msgid "Kings"
+msgstr "Králi"
+
+msgid "Gateway of Sky"
+msgstr "Brána oblohy"
+
+msgid "Flage of Saam"
+msgstr "Zástava Saamu"
+
+msgid "Village of Sky"
+msgstr "Dedina oblohy"
+
+msgid "Belvedere of Sky"
+msgstr "Belvedér oblohy"
+
+msgid "General of Border"
+msgstr "Pohraničný generál"
+
+msgid "Celebration of Sky"
+msgstr "Oslava oblohy"
+
+msgid "Flag of Emperor"
+msgstr "Zástava cisára"
+
+msgid "Nine Territory"
+msgstr "Deväť území"
+
+msgid "Garden of Sky"
+msgstr "Nebeská záhrada"
+
+msgid "Settled Flag"
+msgstr "Pokojná zástava"
+
+msgid "Forcast Calamity"
+msgstr "Predpovedaná pohroma"
+
+msgid "Scout of Three Troups"
+msgstr "Zved troch vojsk"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Expedičné vojsko"
+
+msgid "Well for Millitary"
+msgstr "Studňa pre vojsko"
+
+msgid "Well of Jade"
+msgstr "Nefritová studňa"
+
+msgid "Folding Screen"
+msgstr "Paraván"
+
+msgid "Piled Brushwood"
+msgstr "Hromada chrastia"
+
+msgid "Northern River"
+msgstr "Severná rieka"
+
+msgid "Wine Glass of Sky"
+msgstr "Nebeský pohár vína"
+
+msgid "Eastern Well"
+msgstr "Východná studňa"
+
+msgid "Flood control"
+msgstr "Protipovodňová kontrola"
+
+msgid "Balance of Water"
+msgstr "Vodováha"
+
+msgid "Four Spirit of River"
+msgstr "Štyria duchovia rieky"
+
+msgid "Southern River"
+msgstr "Južná rieka"
+
+msgid "Twin Gate"
+msgstr "Dvojitá brána"
+
+msgid "Star of Wolf"
+msgstr "Vlčia hviezda"
+
+msgid "Wild Fowls"
+msgstr "Divé vtáky"
+
+msgid "Market for Army"
+msgstr "Vojenská tržnica"
+
+msgid "Grandchildren"
+msgstr "Vnuci"
+
+msgid "Grown-up"
+msgstr "Dospelý"
+
+msgid "Oldman"
+msgstr "Starec"
+
+msgid "Beacon"
+msgstr "Maják"
+
+msgid "Eye of Sky"
+msgstr "Oko oblohy"
+
+msgid "Pile of Dead"
+msgstr "Hromada mŕtvych"
+
+msgid "Green Ridge"
+msgstr "Zelená vyvýšenina"
+
+msgid "Dog of Sky"
+msgstr "Pes oblohy"
+
+msgid "Spirit of GuRyoung"
+msgstr "Duch GuRyoung-a"
+
+msgid "Flag of Wine Officer"
+msgstr "Zástava úradníka s vínom"
+
+msgid "Officer of Kitchen"
+msgstr "Úradník pre kuchyňu"
+
+msgid "Equality and Fair"
+msgstr "Rovnosť a Čestnosť"
+
+msgid "Emperor HeonWon"
+msgstr "Cisár HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Hlavné mesto oblohy"
+
+msgid "Chief of Farming"
+msgstr "Náčelník poľnohospodárstva"
+
+msgid "Officer of Tomb"
+msgstr "Úradník hrobky"
+
+msgid "Tomb of Sky"
+msgstr "Hrobka oblohy"
+
+msgid "Wing of Red Bird"
+msgstr "Krídlo červeného vtáka"
+
+msgid "Eastern Pottery"
+msgstr "Východné hrnčiarstvo"
+
+msgid "Chariot of Emperor"
+msgstr "Bojový voz cisára"
+
+msgid "Sand for Life"
+msgstr "Piesok pre život"
+
+msgid "Gateway for Troops"
+msgstr "Brána pre vojsko"
+
+msgid "Guardian Knight"
+msgstr "Strážny rytier"
+
+msgid "Five Feudal Lords"
+msgstr "Päť feudálnych pánov"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Nízky plot"
+
+msgid "Tall Fence"
+msgstr "Vysoký plot"
+
+msgid "Nine Lords"
+msgstr "Deväť pánov"
+
+msgid "Dung of Tiger"
+msgstr "Tigrí trus"
+
+msgid "Five Emperor"
+msgstr "Päť cisárov"
+
+msgid "Three Minister"
+msgstr "Traja ministri"
+
+msgid "Officer for Audience"
+msgstr "Úradník pre obecenstvo"
+
+msgid "Grave Front"
+msgstr "Predná strana hrobu"
+
+msgid "Observatory"
+msgstr "Hvezdáreň"
+
+msgid "Female Officer"
+msgstr "Úradníčka"
+
+msgid "Wide Lodging Area"
+msgstr "Široká ubytovacia oblasť"
+
+msgid "Eight Cereals"
+msgstr "Osem obilí"
+
+msgid "Advance Guard"
+msgstr "Predsunutá stráž"
+
+msgid "Three Ministers"
+msgstr "Traja ministri"
+
+msgid "Virtue"
+msgstr "Cnosť"
+
+msgid "Emperor's God of War"
+msgstr "Cisárov boh vojny"
+
+msgid "Emperor's God of Weather"
+msgstr "Cisárov boh počasia"
+
+msgid "Flap of Flag"
+msgstr "Mávnutie zástavou"
+
+msgid "Minister"
+msgstr "Minister"
+
+msgid "General and Minister"
+msgstr "Generál a minister"
+
+msgid "Jail of Sky"
+msgstr "Väznica oblohy"
+
+msgid "Six Department"
+msgstr "Šesť ministerstiev"
+
+msgid "Inner Stairway"
+msgstr "Vnútorné schodisko"
+
+msgid "Spear of Sky"
+msgstr "Oštep oblohy"
+
+msgid "Cover for Emperor"
+msgstr "Prikrývka pre Cisára"
+
+msgid "Place for Five Emperor"
+msgstr "Miesto pre piatich cisárov"
+
+msgid "60 Years"
+msgstr "60 rokov"
+
+msgid "Kitchen of Sky"
+msgstr "Nebeská kuchyňa"
+
+msgid "North Pole"
+msgstr "Severný pól"
+
+msgid "Wound Lodge"
+msgstr "Dom ranených"
+
+msgid "Single-log Bridge"
+msgstr "Most z jedného kmeňa"
+
+msgid "Great Emperor"
+msgstr "Vznešený cisár"
+
+msgid "Officer for Opinion"
+msgstr "Úradník pre mienku"
+
+msgid "Pillar of Sky"
+msgstr "Nebeský pilier"
+
+msgid "Secretary"
+msgstr "Sekretár"
+
+msgid "Maid"
+msgstr "Služobná"
+
+msgid "Desk of Woman"
+msgstr "Stôl žien"
+
+msgid "Judge Prison"
+msgstr "Sudcova Väznica"
+
+msgid "Purple Fence"
+msgstr "Purpurový plot"
+
+msgid "Order of Sky"
+msgstr "Rozkaz z Neba"
+
+msgid "Seven Minister"
+msgstr "Sedem ministrov"
+
+msgid "Thread Straw"
+msgstr "Prepletená Slama"
+
+msgid "Market Fence"
+msgstr "Plot tržnice"
+
+msgid "Feudal Lord"
+msgstr "Feudálny pán"
+
+msgid "Seat for Emperor"
+msgstr "Cisársky trón"
+
+msgid "Royal Family"
+msgstr "Kráľovská rodina"
+
+msgid "Head of Family"
+msgstr "Hlava rodiny"
+
+msgid "Record of Family"
+msgstr "Záznam rodiny"
+
+msgid "Officer for Family"
+msgstr "Úradník pre Rodinu"
+
+msgid "Tower in Market"
+msgstr "Veža v tržnici"
+
+msgid "Measure Cereal"
+msgstr "Dávka Obilnín"
+
+msgid "Cereal Measure Regulation"
+msgstr "Ustanovenie Dávky Obilnín"
+
+msgid "Officer for Chariots"
+msgstr "Dôstojník bojových vozov"
+
+msgid "Measure Amount"
+msgstr "Množstvo Dávky"
+
+msgid "Butchery"
+msgstr "Jatky"
+
+msgid "Officer for Jewel"
+msgstr "Úradník pre drahokamy"
+
+msgid "Royal"
+msgstr "Kráľovský"
+
+msgid "Lord"
+msgstr "Pán"
+
+msgid "Left Executor"
+msgstr "Ľavý vykonávateľ"
+
+msgid "Right Executor"
+msgstr "Pravý vykonávateľ"
+
+msgid "Crossbeam for Heo"
+msgstr "Nosník pre Hea"
+
+msgid "Threading Coins"
+msgstr "Navliekajúce sa mince"
+
+msgid "SangSang"
+msgstr "Sangsang"
+
+msgid "ChaSang"
+msgstr "Čchasang"
+
+msgid "ChaJang"
+msgstr "Čchadžang"
+
+msgid "UJangGun"
+msgstr "Udžanggun"
+
+msgid "DaeJangGun"
+msgstr "Dädžanggun"
+
+msgid "JwaJangGun"
+msgstr "Džwadžanggun"
+
+msgid "WangRang"
+msgstr "Wangrang"
+
+msgid "CheonSa"
+msgstr "Čeonsa"
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr "Sagong"
+
+msgid "CheonOk"
+msgstr "Čeonok"
+
+msgid "CheonChang"
+msgstr "Čeončang"
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr "Hudžanggun"
+
+msgid "PyeonJangGun"
+msgstr "Pjeondžanggun"
+
+msgid "SamJangGun"
+msgstr "Samdžanggun"
+
+msgid "TaeSa"
+msgstr "Täsa"
+
+msgid "BakSa"
+msgstr "Baksa"
+
+msgid "SamGong"
+msgstr "Samgong"
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr "Džäsa"
+
+msgid "YeoJu"
+msgstr "Jeodžu"
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr "Buin"
+
+msgid "WangBi"
+msgstr "Wangbi"
+
+msgid "HuGung"
+msgstr "Hugung"
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr "Čeosa"
+
+msgid "EuiSa"
+msgstr "Euisa"
+
+msgid "DaeBu"
+msgstr "Däbu"
+
+msgid "SangTae"
+msgstr "Sangtä"
+
+msgid "JungTae"
+msgstr "Džungtä"
+
+msgid "HaTae"
+msgstr "Hatä"
+
+msgid "TaeJa"
+msgstr "Tädža"
+
+msgid "JaeWang"
+msgstr "Džäwang"
+
+msgid "SeoJa"
+msgstr "Seodža"
+
+msgid "CheonChu"
+msgstr "Čeonču"
+
+msgid "SangJang"
+msgstr "Sangdžang"
+
+msgid "TaeSang"
+msgstr "Täsang"
+
+msgid "SaJu.DaeRi"
+msgstr "Sadžu Däri"
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr "Sal"
+
+msgid "Wi"
+msgstr "Wi"
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr "Mjeongdang"
+
+msgid "Hu"
+msgstr "Chu"
+
+msgid "Bin"
+msgstr "Pin"
+
+msgid "DaeJang"
+msgstr "Dädžang"

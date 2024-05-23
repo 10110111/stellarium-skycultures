@@ -1,0 +1,956 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Gediminas Tauras, 2024\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "Korėjiečių"
+
+msgid "Dog"
+msgstr "Šuo"
+
+msgid "Arrow"
+msgstr "Strėlė"
+
+msgid "Bow"
+msgstr "Lankas"
+
+msgid "Fish"
+msgstr "Žuvis"
+
+msgid "Northern Dipper"
+msgstr "Šiaurinis samtis"
+
+msgid "Toilet"
+msgstr "Tualetas"
+
+msgid "Whip"
+msgstr "Botagas"
+
+msgid "Mausoleum"
+msgstr "Mauzoliejus"
+
+msgid "Mortar"
+msgstr "Piesta"
+
+msgid "Rolled Tongue"
+msgstr "Susuktas liežuvis"
+
+msgid "Chaff"
+msgstr "Pelai"
+
+msgid "Whetstone"
+msgstr "Galąstuvas"
+
+msgid "Inner Kitchen"
+msgstr "Vidinė virtuvė"
+
+msgid "Three Steps"
+msgstr "Trys laipteliai"
+
+msgid "Eunuch"
+msgstr "Eunuchas"
+
+msgid "Crown Prince"
+msgstr "Sosto įpėdinis"
+
+msgid "Official for Materials Supply"
+msgstr "Oficialus medžiagų tiekimo pareigūnas"
+
+msgid "Outer Kitchen"
+msgstr "Išorinė virtuvė"
+
+msgid "Five Lords"
+msgstr "Penki valdovai"
+
+msgid "Right Flag"
+msgstr "Dešinė vėliava"
+
+msgid "Son"
+msgstr "Sūnus"
+
+msgid "Left Flag"
+msgstr "Kairė vėliava"
+
+msgid "Charioteer"
+msgstr "Važnyčiotojas"
+
+msgid "Holy Kettle"
+msgstr "Šventasis katilas"
+
+msgid "Farm of Capital City"
+msgstr "Sostinės ūkis"
+
+msgid "Dignity of King"
+msgstr "Karaliaus orumas"
+
+msgid "Nomination"
+msgstr "Paskyrimas"
+
+msgid "Gate of Sky"
+msgstr "Dangaus vartai"
+
+msgid "Equality"
+msgstr "Lygybė"
+
+msgid "Helper"
+msgstr "Padėjėjas"
+
+msgid "Position of Holy King"
+msgstr "Šventojo karaliaus padėtis"
+
+msgid "Neck of Dragon"
+msgstr "Drakono kaklas"
+
+msgid "Beheading"
+msgstr "Galvos nukirtimas"
+
+msgid "Judge"
+msgstr "Teisėjas"
+
+msgid "Flutting Flag"
+msgstr "Plėvesuojanti vėliava"
+
+msgid "Javelin of Sky"
+msgstr "Dangaus ietis"
+
+msgid "Seat for Longevity"
+msgstr "Ilgaamžiškumo sostas"
+
+msgid "Oar for visitor"
+msgstr "Svečio irklas"
+
+msgid "Milk of Sky"
+msgstr "Dangaus pienas"
+
+msgid "House of Queen"
+msgstr "Karalienės namas"
+
+msgid "Ancient Chariot"
+msgstr "Senovinis vežimas"
+
+msgid "Carriage for King"
+msgstr "Karaliaus karieta"
+
+msgid "General of Cavalry"
+msgstr "Raitininkų generolas"
+
+msgid "Cavalry of Emperor"
+msgstr "Imperatoriaus raitininkai"
+
+msgid "General of Mobile Troops"
+msgstr "Karinių pajėgų generolas"
+
+msgid "East Road"
+msgstr "Rytinis kelias"
+
+msgid "Gate Bolt"
+msgstr "Vartų skląstis"
+
+msgid "Door Lock and Key"
+msgstr "Durų spyna ir raktas"
+
+msgid "Penalty"
+msgstr "Bausmė"
+
+msgid "Royal Hall"
+msgstr "Karališkoji salė"
+
+msgid "Chamberlain"
+msgstr "Dvaro rūmų valdytojas"
+
+msgid "Sun"
+msgstr "Saulė"
+
+msgid "West Road"
+msgstr "Vakarinis kelias"
+
+msgid "Seat of Emperor"
+msgstr "Imperatoriaus sostas"
+
+msgid "Five Troops"
+msgstr "Penki kareiviai"
+
+msgid "River of Sky"
+msgstr "Dangaus upė"
+
+msgid "Prayer for Progeny"
+msgstr "Malda palikuonims"
+
+msgid "Forcast"
+msgstr "Prognozė"
+
+msgid "Yard for Empresses"
+msgstr "Imperatorienės kiemas"
+
+msgid "Holy Palace"
+msgstr "Šventieji rūmai"
+
+msgid "Winnow"
+msgstr "Vėtymas"
+
+msgid "Outer Pestle"
+msgstr "Išorinis grūstuvas"
+
+msgid "Head of Town"
+msgstr "Miesto viršininkas"
+
+msgid "Build"
+msgstr "Konstrukcija"
+
+msgid "Fowl of Sky"
+msgstr "Dangaus paukštis"
+
+msgid "Shrine of Sky"
+msgstr "Dangaus šventykla"
+
+msgid "Northeastern Nations"
+msgstr "Šiaurės rytų tautos"
+
+msgid "Old Farmer"
+msgstr "Senas ūkininkas"
+
+msgid "Snapping Turtle"
+msgstr "Kandantis vėžlys"
+
+msgid "Road for Emperor"
+msgstr "Imperatoriaus kelias"
+
+msgid "The Weaver"
+msgstr "Audėjas"
+
+msgid "River adjoining Tower"
+msgstr "Bokštas prie upės"
+
+msgid "Drum of River"
+msgstr "Upės mūša"
+
+msgid "Drumstick of Sky"
+msgstr "Dangaus būgno lazdelė"
+
+msgid "Cow leading Man"
+msgstr "Karviavedys"
+
+msgid "Bank Spread"
+msgstr "Krantas"
+
+msgid "Basket for Silkworm"
+msgstr "Krepšys šilkaverpiui"
+
+msgid "Officer for Cart"
+msgstr "Pareigūnas vežimui"
+
+msgid "Ferry of Sky"
+msgstr "Dangaus keltas"
+
+msgid "Fruit"
+msgstr "Vaisius"
+
+msgid "Seed"
+msgstr "Sėkla"
+
+msgid "Storage for Lady"
+msgstr "Saugykla damai"
+
+msgid "Court Lady"
+msgstr "Rūmų dama"
+
+msgid "Judge Fault"
+msgstr "Teisėjo kaltė"
+
+msgid "Amend Fault"
+msgstr "Ištaisyti klaidą"
+
+msgid "Grant Life"
+msgstr "Dovanoti gyvybę"
+
+msgid "Punish"
+msgstr "Nubausti"
+
+msgid "Empty House"
+msgstr "Tuščias namas"
+
+msgid "Weep"
+msgstr "Raudoti"
+
+msgid "Sob"
+msgstr "Kūkčioti"
+
+msgid "Castle with Rampart"
+msgstr "Pilis su pylimu"
+
+msgid "Hook for Dress"
+msgstr "Kabliukas drabužiams"
+
+msgid "Groom"
+msgstr "Arklininkas"
+
+msgid "Human"
+msgstr "Žmogus"
+
+msgid "Inner Pestle"
+msgstr "Vidinis grūstuvas"
+
+msgid "Warehouse of Sky"
+msgstr "Dangaus sandėlis"
+
+msgid "Tomb"
+msgstr "Kapas"
+
+msgid "Cover of House"
+msgstr "Namo danga"
+
+msgid "Broken Mortar"
+msgstr "Sudaužyta piesta"
+
+msgid "Climbing Serpent"
+msgstr "Lipanti gyvatė"
+
+msgid "Palace of Emperor"
+msgstr "Rūmai imperatoriui"
+
+msgid "Detached Palace"
+msgstr "Atskiri rūmai"
+
+msgid "Lightening"
+msgstr "Žaibas"
+
+msgid "Rampart"
+msgstr "Pylimas"
+
+msgid "Troops of Sky"
+msgstr "Dangaus kariai"
+
+msgid "Village for Patrol"
+msgstr "Kaimas sargybai"
+
+msgid "Net of Sky"
+msgstr "Dangaus tinklas"
+
+msgid "Stable of Sky"
+msgstr "Dangaus arklidės"
+
+msgid "Eastern Wall"
+msgstr "Rytinė siena"
+
+msgid "Civil Engineer"
+msgstr "Inžinierius statybininkas"
+
+msgid "Thunderbolts"
+msgstr "Žaibai"
+
+msgid "Clouds and Rain"
+msgstr "Debesys ir lietus"
+
+msgid "Highway"
+msgstr "Vieškelis"
+
+msgid "Officer for Chariot of"
+msgstr "Vežimo valdininkas"
+
+msgid "Side Road"
+msgstr "Šalutinis kelias"
+
+msgid "Armory"
+msgstr "Ginklų sandėlis"
+
+msgid "Southern Gate of Emperator"
+msgstr "Pietiniai imparatoriaus vartai"
+
+msgid "Outer Folding Screen"
+msgstr "Išorinė sustumiamoji širma"
+
+msgid "Toilet of Sky"
+msgstr "Dangaus tualetas"
+
+msgid "Architect"
+msgstr "Architektas"
+
+msgid "Emperator"
+msgstr "Imperatorius"
+
+msgid "Watchtower"
+msgstr "Stebėjimo bokštas"
+
+msgid "Left Elm"
+msgstr "Kairiuoji guoba"
+
+msgid "Right Elm"
+msgstr "Dešinioji guoba"
+
+msgid "Storehouse of Sky"
+msgstr "Dangaus saugykla"
+
+msgid "Stack of Cereals"
+msgstr "Javų kupeta"
+
+msgid "Ship of Sky"
+msgstr "Dangaus laivas"
+
+msgid "Store of Water"
+msgstr "Vandens saugykla"
+
+msgid "Heap of Corpse"
+msgstr "Lavonų krūva"
+
+msgid "Stomach of Tiger"
+msgstr "Tigro skrandis"
+
+msgid "Store of Millet for"
+msgstr "Soros sandėlis"
+
+msgid "Storehouse for Cereals"
+msgstr "Javų saugykla"
+
+msgid "Shaman of Sky"
+msgstr "Dangaus šamanas"
+
+msgid "Ear and Eye of"
+msgstr "Ausis ir akis"
+
+msgid "Moon"
+msgstr "Mėnulis"
+
+msgid "Hill of Sky"
+msgstr "Dangaus kalnas"
+
+msgid "Conspiracy of Sky"
+msgstr "Dangaus sąmokslas"
+
+msgid "Fodder"
+msgstr "Pašaras"
+
+msgid "Garage for Chariot"
+msgstr "Garažas vežimui"
+
+msgid "Pond for Fish"
+msgstr "Tvenkinys žuvims"
+
+msgid "Pillar"
+msgstr "Kolona"
+
+msgid "Puddle of Sky"
+msgstr "Dangaus klanas"
+
+msgid "Kings"
+msgstr "Karaliai"
+
+msgid "Gateway of Sky"
+msgstr "Dangaus vartai"
+
+msgid "Flage of Saam"
+msgstr "Saam vėliava"
+
+msgid "Village of Sky"
+msgstr "Dangaus kaimas"
+
+msgid "Belvedere of Sky"
+msgstr "Dangaus belvederis"
+
+msgid "General of Border"
+msgstr "Sienos generolas"
+
+msgid "Celebration of Sky"
+msgstr ""
+
+msgid "Flag of Emperor"
+msgstr "Imperatoriaus vėliava"
+
+msgid "Nine Territory"
+msgstr "Devynių žemė"
+
+msgid "Garden of Sky"
+msgstr "Dangaus sodas"
+
+msgid "Settled Flag"
+msgstr "Įsmeigta vėliava"
+
+msgid "Forcast Calamity"
+msgstr "Nelaimės nuspėjimas"
+
+msgid "Scout of Three Troups"
+msgstr "Trijų karių žvalgas"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Ekspedicinės pajėgos"
+
+msgid "Well for Millitary"
+msgstr "Šulinys kariuomenei"
+
+msgid "Well of Jade"
+msgstr "Žalsvas šulinys"
+
+msgid "Folding Screen"
+msgstr "Sustumiamoji širma"
+
+msgid "Piled Brushwood"
+msgstr "Žabų krūva"
+
+msgid "Northern River"
+msgstr "Šiaurinė upė"
+
+msgid "Wine Glass of Sky"
+msgstr "Dangaus vyno taurė"
+
+msgid "Eastern Well"
+msgstr "Rytinis šulinys"
+
+msgid "Flood control"
+msgstr "Vandens lygio reguliavimas"
+
+msgid "Balance of Water"
+msgstr "Vandens pusiausvyra"
+
+msgid "Four Spirit of River"
+msgstr "Upės keturių dvasia"
+
+msgid "Southern River"
+msgstr "Pietinė upė"
+
+msgid "Twin Gate"
+msgstr "Dveji vartai"
+
+msgid "Star of Wolf"
+msgstr "Vilko žvaigždė"
+
+msgid "Wild Fowls"
+msgstr "Laukiniai paukščiai"
+
+msgid "Market for Army"
+msgstr "Kariuomenės turgus"
+
+msgid "Grandchildren"
+msgstr "Anūkai"
+
+msgid "Grown-up"
+msgstr "Suaugėlis"
+
+msgid "Oldman"
+msgstr "Senis"
+
+msgid "Beacon"
+msgstr "Švyturys"
+
+msgid "Eye of Sky"
+msgstr "Dangaus akis"
+
+msgid "Pile of Dead"
+msgstr "Krūva negyvėlių"
+
+msgid "Green Ridge"
+msgstr "Žalias kalvagūbris"
+
+msgid "Dog of Sky"
+msgstr "Dangaus šuo"
+
+msgid "Spirit of GuRyoung"
+msgstr "GuRyoung dvasia"
+
+msgid "Flag of Wine Officer"
+msgstr "Vyno valdininko vėliava"
+
+msgid "Officer of Kitchen"
+msgstr "Virtuvės valdininkas"
+
+msgid "Equality and Fair"
+msgstr "Lygybė ir teisybė"
+
+msgid "Emperor HeonWon"
+msgstr "Imperatorius HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Dangaus sostinė"
+
+msgid "Chief of Farming"
+msgstr "Ūkininkavimo viršininkas"
+
+msgid "Officer of Tomb"
+msgstr "Kapo valdininkas"
+
+msgid "Tomb of Sky"
+msgstr "Dangaus kapas"
+
+msgid "Wing of Red Bird"
+msgstr "Raudonojo paukščio sparnas"
+
+msgid "Eastern Pottery"
+msgstr "Rytų keramika"
+
+msgid "Chariot of Emperor"
+msgstr "Imperatoriaus vežimas"
+
+msgid "Sand for Life"
+msgstr "Gyvenimo smėlis"
+
+msgid "Gateway for Troops"
+msgstr "Vartai kariams"
+
+msgid "Guardian Knight"
+msgstr "Riteris sergėtojas"
+
+msgid "Five Feudal Lords"
+msgstr "Penki valdovai feodalai"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Žema tvora"
+
+msgid "Tall Fence"
+msgstr "Aukšta tvora"
+
+msgid "Nine Lords"
+msgstr "Devyni valdovai"
+
+msgid "Dung of Tiger"
+msgstr "Tigro mėšlas"
+
+msgid "Five Emperor"
+msgstr "Penkių imperatorius"
+
+msgid "Three Minister"
+msgstr "Trijų ministras"
+
+msgid "Officer for Audience"
+msgstr "Publikos valdininkas"
+
+msgid "Grave Front"
+msgstr "grėsmingas priešakys"
+
+msgid "Observatory"
+msgstr "Observatorija"
+
+msgid "Female Officer"
+msgstr "Valdininkė moteris"
+
+msgid "Wide Lodging Area"
+msgstr "Plati buveinė"
+
+msgid "Eight Cereals"
+msgstr "Aštuoni grūdai"
+
+msgid "Advance Guard"
+msgstr "Puolantis sargybinis"
+
+msgid "Three Ministers"
+msgstr "Trys ministrai"
+
+msgid "Virtue"
+msgstr "Dorybė"
+
+msgid "Emperor's God of War"
+msgstr "Imperatoriaus karo dievas"
+
+msgid "Emperor's God of Weather"
+msgstr "Imperatoriaus oro dievas"
+
+msgid "Flap of Flag"
+msgstr "Plėvesuojanti vėliava"
+
+msgid "Minister"
+msgstr "Ministras"
+
+msgid "General and Minister"
+msgstr "Generolas ir ministras"
+
+msgid "Jail of Sky"
+msgstr "Dangaus kalėjimas"
+
+msgid "Six Department"
+msgstr "Šešių skyrius"
+
+msgid "Inner Stairway"
+msgstr "Vidinis laiptatakis"
+
+msgid "Spear of Sky"
+msgstr "Dangaus ietis"
+
+msgid "Cover for Emperor"
+msgstr "Apdangalas imperatoriui"
+
+msgid "Place for Five Emperor"
+msgstr "vieta penkių imperatoriui"
+
+msgid "60 Years"
+msgstr "60 metų"
+
+msgid "Kitchen of Sky"
+msgstr "Dangaus virtuvė"
+
+msgid "North Pole"
+msgstr "Šiaurės polius"
+
+msgid "Wound Lodge"
+msgstr "Apsuptas namelis"
+
+msgid "Single-log Bridge"
+msgstr "Vieno rąsto tiltas"
+
+msgid "Great Emperor"
+msgstr "Didysis imperatorius"
+
+msgid "Officer for Opinion"
+msgstr "Požiūrio valdininkas"
+
+msgid "Pillar of Sky"
+msgstr "Dangaus kolona"
+
+msgid "Secretary"
+msgstr "Sekretorius"
+
+msgid "Maid"
+msgstr "Tarnaitė"
+
+msgid "Desk of Woman"
+msgstr "Stalas moteriai"
+
+msgid "Judge Prison"
+msgstr "Teisėjo kalėjimas"
+
+msgid "Purple Fence"
+msgstr "Purpurinė tvora"
+
+msgid "Order of Sky"
+msgstr "Dangaus tvarka"
+
+msgid "Seven Minister"
+msgstr "Septynių ministras"
+
+msgid "Thread Straw"
+msgstr "Suverti šiaudai"
+
+msgid "Market Fence"
+msgstr "Turgaus tvora"
+
+msgid "Feudal Lord"
+msgstr "Valdovas feodalas"
+
+msgid "Seat for Emperor"
+msgstr "Imperatoriaus sostas"
+
+msgid "Royal Family"
+msgstr "Karališkoji šeimyna"
+
+msgid "Head of Family"
+msgstr "Šeimos galva"
+
+msgid "Record of Family"
+msgstr "Šeimos įrašas"
+
+msgid "Officer for Family"
+msgstr "Šeimos valdininkas"
+
+msgid "Tower in Market"
+msgstr "Bokštas turguje"
+
+msgid "Measure Cereal"
+msgstr "Grūdų matas"
+
+msgid "Cereal Measure Regulation"
+msgstr "Grūdų mato taisyklė"
+
+msgid "Officer for Chariots"
+msgstr "Valdininkas vežimams"
+
+msgid "Measure Amount"
+msgstr "Mato kiekis"
+
+msgid "Butchery"
+msgstr "Skerdykla"
+
+msgid "Officer for Jewel"
+msgstr "Brangakmenio valdininkas"
+
+msgid "Royal"
+msgstr "Karališkosios šeimos narys"
+
+msgid "Lord"
+msgstr "Valdovas"
+
+msgid "Left Executor"
+msgstr "Kairysis vykdytojas"
+
+msgid "Right Executor"
+msgstr "Dešinysis vykdytojas"
+
+msgid "Crossbeam for Heo"
+msgstr "Skersinė sija Heo"
+
+msgid "Threading Coins"
+msgstr "Veriamos monetos"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr ""
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr ""
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr ""
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr ""
+
+msgid "TaeMin"
+msgstr ""
+
+msgid "SouMin"
+msgstr ""
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr ""
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr ""
+
+msgid "Beop"
+msgstr ""
+
+msgid "Ryeong"
+msgstr ""
+
+msgid "Beol"
+msgstr ""
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr ""
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

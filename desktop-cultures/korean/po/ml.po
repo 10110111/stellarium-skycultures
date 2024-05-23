@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2022-09-30 13:16+0700\n"
+"PO-Revision-Date: 2017-11-29 01:17+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Malayalam (https://www.transifex.com/stellarium/teams/80998/"
+"ml/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ml\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr ""
+
+msgid "Arrow"
+msgstr "അമ്പ്"
+
+msgid "Bow"
+msgstr "വില്ല്"
+
+msgid "Fish"
+msgstr "മത്സ്യം"
+
+msgid "Northern Dipper"
+msgstr ""
+
+msgid "Toilet"
+msgstr ""
+
+msgid "Whip"
+msgstr "ചാട്ടവാര്‍"
+
+msgid "Mausoleum"
+msgstr ""
+
+msgid "Mortar"
+msgstr ""
+
+msgid "Rolled Tongue"
+msgstr ""
+
+msgid "Chaff"
+msgstr ""
+
+msgid "Whetstone"
+msgstr "ശാണി"
+
+msgid "Inner Kitchen"
+msgstr ""
+
+msgid "Three Steps"
+msgstr ""
+
+msgid "Eunuch"
+msgstr ""
+
+msgid "Crown Prince"
+msgstr ""
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr ""
+
+msgid "Five Lords"
+msgstr "അഞ്ച പ്രഭുക്കള്‍"
+
+msgid "Right Flag"
+msgstr ""
+
+msgid "Son"
+msgstr "മകന്‍"
+
+msgid "Left Flag"
+msgstr ""
+
+msgid "Charioteer"
+msgstr ""
+
+msgid "Holy Kettle"
+msgstr "പരിശുദ്ധ കെറ്റില്‍"
+
+msgid "Farm of Capital City"
+msgstr "തലസ്ഥാനത്തിന്റെ കൃഷിയിടം"
+
+msgid "Dignity of King"
+msgstr "രാജാവിന്റെ അന്തസ്സ്"
+
+msgid "Nomination"
+msgstr "നാമനിര്‍ദ്ദേശം"
+
+msgid "Gate of Sky"
+msgstr "ആകാശത്തിന്റെ കവാടം"
+
+msgid "Equality"
+msgstr "സമത്വം"
+
+msgid "Helper"
+msgstr "സഹായി"
+
+msgid "Position of Holy King"
+msgstr "വിശുദ്ധ രാജാവിന്റെ സ്ഥാനം"
+
+msgid "Neck of Dragon"
+msgstr "വ്യാളിയുടെ കഴുത്ത്"
+
+msgid "Beheading"
+msgstr "ശിരച്ഛേദം"
+
+msgid "Judge"
+msgstr "ന്യായധിപന്‍"
+
+msgid "Flutting Flag"
+msgstr "ഫ്ലൂട്ടിങ്ങ് പതാക"
+
+msgid "Javelin of Sky"
+msgstr "ആകാശത്തിന്റെ വാരികുന്തം"
+
+msgid "Seat for Longevity"
+msgstr "ആയുഷ്യത്തിന്റെ പീഠം"
+
+msgid "Oar for visitor"
+msgstr "സന്ദര്‍ശകന്റെ തുഴ"
+
+msgid "Milk of Sky"
+msgstr "ആകാശത്തിന്റെ ക്ഷീരം"
+
+msgid "House of Queen"
+msgstr "രാജ്ഞിയുടെ വീട്"
+
+msgid "Ancient Chariot"
+msgstr "പുരാഥന രഥം"
+
+msgid "Carriage for King"
+msgstr "രജാവിന്റെ വാഹിനി"
+
+msgid "General of Cavalry"
+msgstr "കുതിരപ്പടയുടെ മേധാവി"
+
+msgid "Cavalry of Emperor"
+msgstr "ചക്രവര്‍ത്തിയുടെ കുതിരപ്പട്ടാളം"
+
+msgid "General of Mobile Troops"
+msgstr "മുന്നണിപ്പോരാളികളുടെ മേധാവി"
+
+msgid "East Road"
+msgstr "കിഴക്കേ പാത"
+
+msgid "Gate Bolt"
+msgstr "പ്രവേശന വാതില്‍ സാക്ഷ"
+
+msgid "Door Lock and Key"
+msgstr "വാതില്‍പ്പൂട്ടും താക്കോലും"
+
+msgid "Penalty"
+msgstr ""
+
+msgid "Royal Hall"
+msgstr "രാജകീയ സദസ്സ്"
+
+msgid "Chamberlain"
+msgstr "കാര്യസ്ഥന്‍"
+
+msgid "Sun"
+msgstr "സൂര്യൻ"
+
+msgid "West Road"
+msgstr "പടിഞ്ഞാറേ പാത"
+
+msgid "Seat of Emperor"
+msgstr "ചക്രവര്‍ത്തിയുടെ പീഠം"
+
+msgid "Five Troops"
+msgstr "അഞ്ച് മുന്നണികള്‍"
+
+msgid "River of Sky"
+msgstr "ആകാശത്തിന്റെ നദി"
+
+msgid "Prayer for Progeny"
+msgstr "പിന്‍‌ഗാമിക്കു വേണ്ടിയുള്ള പ്രാര്‍ത്ഥന"
+
+msgid "Forcast"
+msgstr "പ്രവചിക്കുക"
+
+msgid "Yard for Empresses"
+msgstr "ചക്രവര്‍ത്തിനിയുടെ അന്തപ്പുര"
+
+msgid "Holy Palace"
+msgstr "വിശുദ്ധ കൊട്ടാരം"
+
+msgid "Winnow"
+msgstr "പാറിപ്പറക്കുക"
+
+msgid "Outer Pestle"
+msgstr "പുറത്തെ ഇടിയന്ത്രം"
+
+msgid "Head of Town"
+msgstr "പട്ടണത്തിന്റെ അധികാരി"
+
+msgid "Build"
+msgstr "നിര്‍മ്മിക്കുക"
+
+msgid "Fowl of Sky"
+msgstr "ആകാശത്തിന്റെ പക്ഷി"
+
+msgid "Shrine of Sky"
+msgstr ""
+
+msgid "Northeastern Nations"
+msgstr "വടക്കുകിഴക്കന്‍ രാജ്യങ്ങള്‍"
+
+msgid "Old Farmer"
+msgstr "വൃദ്ധനായ കൃഷിക്കാരന്‍"
+
+msgid "Snapping Turtle"
+msgstr "ചുറുചുറുക്കന്‍ ആമ"
+
+msgid "Road for Emperor"
+msgstr "ചക്രവര്‍ത്തിക്കുള്ള പാത"
+
+msgid "The Weaver"
+msgstr "നെയ്ത്തുകാരന്‍"
+
+msgid "River adjoining Tower"
+msgstr "കൊട്ടാരത്തോടു ചേര്‍ന്നുള്ള പുഴ"
+
+msgid "Drum of River"
+msgstr "നദിയുടെ ചെണ്ട"
+
+msgid "Drumstick of Sky"
+msgstr "ആകാശത്തിന്റെ ചെണ്ടക്കോല്‍"
+
+msgid "Cow leading Man"
+msgstr "മനുഷ്യനെ അനുഗമിക്കുന്ന പശു"
+
+msgid "Bank Spread"
+msgstr "വിശാലമായ തീരം"
+
+msgid "Basket for Silkworm"
+msgstr "പട്ടുനൂല്‍പ്പുഴുവിനുള്ള കുട്ട"
+
+msgid "Officer for Cart"
+msgstr "കാളവണ്ടിയുടെ ഉദ്യോഗസ്ഥന്‍"
+
+msgid "Ferry of Sky"
+msgstr "ആകാശത്തിന്റെ കടവ്"
+
+msgid "Fruit"
+msgstr "പഴം"
+
+msgid "Seed"
+msgstr "വിത്ത്"
+
+msgid "Storage for Lady"
+msgstr "സ്ത്രീക്കുള്ള സൂക്ഷിപ്പ്"
+
+msgid "Court Lady"
+msgstr "കോടതിയിലെ സ്ത്രീ"
+
+msgid "Judge Fault"
+msgstr "ന്യായാധിപന്റെ അബദ്ധം"
+
+msgid "Amend Fault"
+msgstr "അബദ്ധം തിരുത്തുക"
+
+msgid "Grant Life"
+msgstr "ജീവിതം നല്‍കുക"
+
+msgid "Punish"
+msgstr "ശിക്ഷിക്കുക"
+
+msgid "Empty House"
+msgstr "ശൂന്യമായ വീട്"
+
+msgid "Weep"
+msgstr "വിങ്ങുക"
+
+msgid "Sob"
+msgstr "ഏങ്ങി കരയുക"
+
+msgid "Castle with Rampart"
+msgstr "കൊത്തളമുള്ള കോട്ട"
+
+msgid "Hook for Dress"
+msgstr "വസ്ത്രത്തിന്റെ കൊളുത്ത്"
+
+msgid "Groom"
+msgstr "വരന്‍"
+
+msgid "Human"
+msgstr "മനുഷ്യന്‍"
+
+msgid "Inner Pestle"
+msgstr "അകത്തെ ഇടിയന്ത്രം"
+
+msgid "Warehouse of Sky"
+msgstr "ആകാശത്തിന്റെ സൂക്ഷിപ്പുപുര"
+
+msgid "Tomb"
+msgstr "കുടീരം"
+
+msgid "Cover of House"
+msgstr "വീട്ടിന്റെ മറ"
+
+msgid "Broken Mortar"
+msgstr "തകര്‍ന്ന പീരങ്കി"
+
+msgid "Climbing Serpent"
+msgstr "കയറുന്ന സര്‍പ്പം"
+
+msgid "Palace of Emperor"
+msgstr "ചക്രവര്‍ത്തിയുടെ കൊട്ടാ‍രം"
+
+msgid "Detached Palace"
+msgstr "ഒഴിവാ‍ക്കിയ കൊട്ടാരം"
+
+msgid "Lightening"
+msgstr "മിന്നല്‍"
+
+msgid "Rampart"
+msgstr "കൊത്തളം"
+
+msgid "Troops of Sky"
+msgstr "ആകാശത്തിലെ മുന്നണികള്‍"
+
+msgid "Village for Patrol"
+msgstr "റോന്തുചുറ്റാനുള്ള ഗ്രാമം"
+
+msgid "Net of Sky"
+msgstr "ആകാശാത്തിലെ വല"
+
+msgid "Stable of Sky"
+msgstr "ആകാശത്തിലെ കുതിരാലയം"
+
+msgid "Eastern Wall"
+msgstr "കിഴക്കേ ഭിത്തി"
+
+msgid "Civil Engineer"
+msgstr "സിവില്‍ എന്‍‌ജിനീയര്‍"
+
+msgid "Thunderbolts"
+msgstr "മേഘഗര്‍ജ്ജനങ്ങള്‍"
+
+msgid "Clouds and Rain"
+msgstr "മേഘങ്ങളും മഴയും"
+
+msgid "Highway"
+msgstr "ഉയര്‍ന്ന പാത"
+
+msgid "Officer for Chariot of"
+msgstr ""
+
+msgid "Side Road"
+msgstr "വഴിവക്ക്"
+
+msgid "Armory"
+msgstr "ആയുധശാല"
+
+msgid "Southern Gate of Emperator"
+msgstr "ചക്രവര്‍ത്തിയുടെ തെക്കേ കവാടം"
+
+msgid "Outer Folding Screen"
+msgstr "പുറത്തെ മടക്കും തിരശ്ശീല"
+
+msgid "Toilet of Sky"
+msgstr "ആകാശത്തിന്റെ ശൌചാലയം"
+
+msgid "Architect"
+msgstr "വാസ്തുശില്പി"
+
+msgid "Emperator"
+msgstr "ചക്രവര്‍ത്തി"
+
+msgid "Watchtower"
+msgstr "നിരീക്ഷണ ഗോപുരം"
+
+msgid "Left Elm"
+msgstr ""
+
+msgid "Right Elm"
+msgstr ""
+
+msgid "Storehouse of Sky"
+msgstr "ആകാശത്തിലെ സൂക്ഷിപ്പുപുര"
+
+msgid "Stack of Cereals"
+msgstr "പുല്‍ക്കെട്ടുകളുടെ അടുക്ക്"
+
+msgid "Ship of Sky"
+msgstr "ആകാശത്തിന്റെ യാനം"
+
+msgid "Store of Water"
+msgstr "വെള്ളത്തിന്റെ സൂക്ഷിപ്പുപുര"
+
+msgid "Heap of Corpse"
+msgstr "മൃതദേഹങ്ങളുടെ കൂമ്പാരം"
+
+msgid "Stomach of Tiger"
+msgstr "നരിയുടെ ഉദരം"
+
+msgid "Store of Millet for"
+msgstr ""
+
+msgid "Storehouse for Cereals"
+msgstr "പുല്‍ക്കെട്ടുകളുടെ സൂക്ഷിപ്പുപുര"
+
+msgid "Shaman of Sky"
+msgstr "ആകാശത്തിന്റെ ശമാന്‍"
+
+msgid "Ear and Eye of"
+msgstr ""
+
+msgid "Moon"
+msgstr "ചന്ദ്രൻ"
+
+msgid "Hill of Sky"
+msgstr "ആകാശത്തിലെ കുന്ന്"
+
+msgid "Conspiracy of Sky"
+msgstr "ആകാശത്തിലെ ഗൂഢാലോചന"
+
+msgid "Fodder"
+msgstr "അഗ്നിശമനക്കാരന്‍"
+
+msgid "Garage for Chariot"
+msgstr "രഥത്തിന്റെ ആലയം"
+
+msgid "Pond for Fish"
+msgstr ""
+
+msgid "Pillar"
+msgstr "തൂണ്‍"
+
+msgid "Puddle of Sky"
+msgstr ""
+
+msgid "Kings"
+msgstr "രാജാക്കന്മാര്‍"
+
+msgid "Gateway of Sky"
+msgstr "ആകാശത്തിന്റെ പ്രവേശനപഥം"
+
+msgid "Flage of Saam"
+msgstr "സാമിന്റെ പതാക"
+
+msgid "Village of Sky"
+msgstr "ആകാശത്തിന്റെ ഗ്രാമം"
+
+msgid "Belvedere of Sky"
+msgstr ""
+
+msgid "General of Border"
+msgstr "അതിര്‍ത്തിയുടെ മേധാവി"
+
+msgid "Celebration of Sky"
+msgstr ""
+
+msgid "Flag of Emperor"
+msgstr "ചക്രവര്‍ത്തിയുടെ പതാക"
+
+msgid "Nine Territory"
+msgstr "ഒന്‍പത് ഭരണപ്രദേശങ്ങള്‍"
+
+msgid "Garden of Sky"
+msgstr "ആകാശത്തിന്റെ പൂന്തോട്ടം"
+
+msgid "Settled Flag"
+msgstr "സ്ഥാപിക്കപ്പെട്ട പതാക"
+
+msgid "Forcast Calamity"
+msgstr "അനിഷ്ടം പ്രവചിക്കുക"
+
+msgid "Scout of Three Troups"
+msgstr "മൂന്ന് മുന്നണികളുടെ അകമ്പടിക്കാരന്‍"
+
+msgid "Saam"
+msgstr ""
+
+msgid "Expeditionary Force"
+msgstr ""
+
+msgid "Well for Millitary"
+msgstr "സൈന്യത്തിന്റെ കിണര്‍"
+
+msgid "Well of Jade"
+msgstr "ജേഡിന്റെ കിണര്‍"
+
+msgid "Folding Screen"
+msgstr "മടങ്ങുന്ന തിരശ്ശീല"
+
+msgid "Piled Brushwood"
+msgstr ""
+
+msgid "Northern River"
+msgstr "വടക്കേ നദി"
+
+msgid "Wine Glass of Sky"
+msgstr "ആകാശത്തിന്റെ വിഞ്ഞ് സ്ഫടിക പാത്രം"
+
+msgid "Eastern Well"
+msgstr "കിഴക്കേ ഭിത്തി"
+
+msgid "Flood control"
+msgstr ""
+
+msgid "Balance of Water"
+msgstr ""
+
+msgid "Four Spirit of River"
+msgstr ""
+
+msgid "Southern River"
+msgstr "തെക്കേ നദി"
+
+msgid "Twin Gate"
+msgstr "ഇരട്ട കവാടം"
+
+msgid "Star of Wolf"
+msgstr "ചെന്നായയുടെ നക്ഷത്രം"
+
+msgid "Wild Fowls"
+msgstr "വന്യ പക്ഷികള്‍"
+
+msgid "Market for Army"
+msgstr "സൈന്യത്തിനുള്ള ചന്ത"
+
+msgid "Grandchildren"
+msgstr "പേരക്കുട്ടികള്‍"
+
+msgid "Grown-up"
+msgstr "വളരുക"
+
+msgid "Oldman"
+msgstr "വൃദ്ധന്‍"
+
+msgid "Beacon"
+msgstr "അഗ്നിസ്തംഭം"
+
+msgid "Eye of Sky"
+msgstr "ആകാശത്തിന്റെ കണ്ണ്"
+
+msgid "Pile of Dead"
+msgstr ""
+
+msgid "Green Ridge"
+msgstr ""
+
+msgid "Dog of Sky"
+msgstr ""
+
+msgid "Spirit of GuRyoung"
+msgstr ""
+
+msgid "Flag of Wine Officer"
+msgstr ""
+
+msgid "Officer of Kitchen"
+msgstr ""
+
+msgid "Equality and Fair"
+msgstr ""
+
+msgid "Emperor HeonWon"
+msgstr ""
+
+msgid "Capital of Sky"
+msgstr ""
+
+msgid "Chief of Farming"
+msgstr ""
+
+msgid "Officer of Tomb"
+msgstr ""
+
+msgid "Tomb of Sky"
+msgstr ""
+
+msgid "Wing of Red Bird"
+msgstr ""
+
+msgid "Eastern Pottery"
+msgstr ""
+
+msgid "Chariot of Emperor"
+msgstr ""
+
+msgid "Sand for Life"
+msgstr ""
+
+msgid "Gateway for Troops"
+msgstr ""
+
+msgid "Guardian Knight"
+msgstr ""
+
+msgid "Five Feudal Lords"
+msgstr ""
+
+msgid "SangJiin"
+msgstr ""
+
+msgid "Low Fence"
+msgstr ""
+
+msgid "Tall Fence"
+msgstr ""
+
+msgid "Nine Lords"
+msgstr ""
+
+msgid "Dung of Tiger"
+msgstr ""
+
+msgid "Five Emperor"
+msgstr ""
+
+msgid "Three Minister"
+msgstr ""
+
+msgid "Officer for Audience"
+msgstr ""
+
+msgid "Grave Front"
+msgstr ""
+
+msgid "Observatory"
+msgstr ""
+
+msgid "Female Officer"
+msgstr ""
+
+msgid "Wide Lodging Area"
+msgstr ""
+
+msgid "Eight Cereals"
+msgstr ""
+
+msgid "Advance Guard"
+msgstr ""
+
+msgid "Three Ministers"
+msgstr ""
+
+msgid "Virtue"
+msgstr ""
+
+msgid "Emperor's God of War"
+msgstr ""
+
+msgid "Emperor's God of Weather"
+msgstr ""
+
+msgid "Flap of Flag"
+msgstr ""
+
+msgid "Minister"
+msgstr ""
+
+msgid "General and Minister"
+msgstr ""
+
+msgid "Jail of Sky"
+msgstr ""
+
+msgid "Six Department"
+msgstr ""
+
+msgid "Inner Stairway"
+msgstr ""
+
+msgid "Spear of Sky"
+msgstr ""
+
+msgid "Cover for Emperor"
+msgstr ""
+
+msgid "Place for Five Emperor"
+msgstr ""
+
+msgid "60 Years"
+msgstr ""
+
+msgid "Kitchen of Sky"
+msgstr ""
+
+msgid "North Pole"
+msgstr ""
+
+msgid "Wound Lodge"
+msgstr ""
+
+msgid "Single-log Bridge"
+msgstr ""
+
+msgid "Great Emperor"
+msgstr ""
+
+msgid "Officer for Opinion"
+msgstr ""
+
+msgid "Pillar of Sky"
+msgstr ""
+
+msgid "Secretary"
+msgstr ""
+
+msgid "Maid"
+msgstr ""
+
+msgid "Desk of Woman"
+msgstr ""
+
+msgid "Judge Prison"
+msgstr ""
+
+msgid "Purple Fence"
+msgstr ""
+
+msgid "Order of Sky"
+msgstr ""
+
+msgid "Seven Minister"
+msgstr ""
+
+msgid "Thread Straw"
+msgstr ""
+
+msgid "Market Fence"
+msgstr ""
+
+msgid "Feudal Lord"
+msgstr ""
+
+msgid "Seat for Emperor"
+msgstr ""
+
+msgid "Royal Family"
+msgstr ""
+
+msgid "Head of Family"
+msgstr ""
+
+msgid "Record of Family"
+msgstr ""
+
+msgid "Officer for Family"
+msgstr ""
+
+msgid "Tower in Market"
+msgstr ""
+
+msgid "Measure Cereal"
+msgstr ""
+
+msgid "Cereal Measure Regulation"
+msgstr ""
+
+msgid "Officer for Chariots"
+msgstr ""
+
+msgid "Measure Amount"
+msgstr ""
+
+msgid "Butchery"
+msgstr ""
+
+msgid "Officer for Jewel"
+msgstr ""
+
+msgid "Royal"
+msgstr ""
+
+msgid "Lord"
+msgstr ""
+
+msgid "Left Executor"
+msgstr ""
+
+msgid "Right Executor"
+msgstr ""
+
+msgid "Crossbeam for Heo"
+msgstr ""
+
+msgid "Threading Coins"
+msgstr ""
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr ""
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr ""
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr ""
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr ""
+
+msgid "TaeMin"
+msgstr ""
+
+msgid "SouMin"
+msgstr ""
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr ""
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr ""
+
+msgid "Beop"
+msgstr ""
+
+msgid "Ryeong"
+msgstr ""
+
+msgid "Beol"
+msgstr ""
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr ""
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

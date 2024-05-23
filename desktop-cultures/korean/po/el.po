@@ -1,0 +1,953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Greek (https://app.transifex.com/stellarium/teams/80998/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "Σκύλος"
+
+msgid "Arrow"
+msgstr "Βέλος"
+
+msgid "Bow"
+msgstr "Τόξο"
+
+msgid "Fish"
+msgstr "Ιχθύς"
+
+msgid "Northern Dipper"
+msgstr "Βόρεια Κουτάλα"
+
+msgid "Toilet"
+msgstr "Τουαλέτα"
+
+msgid "Whip"
+msgstr "Μαστίγιο"
+
+msgid "Mausoleum"
+msgstr "Μαυσωλείο"
+
+msgid "Mortar"
+msgstr "Γουδί"
+
+msgid "Rolled Tongue"
+msgstr "Τυλιγμένη Γλώσσα"
+
+msgid "Chaff"
+msgstr "Άχυρο"
+
+msgid "Whetstone"
+msgstr "Ακόνι"
+
+msgid "Inner Kitchen"
+msgstr "Εσωτερικά Μαγειρία"
+
+msgid "Three Steps"
+msgstr "Τρία Βήματα"
+
+msgid "Eunuch"
+msgstr "Ευνούχος"
+
+msgid "Crown Prince"
+msgstr "Διάδοχος Πρίγκιπας"
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr "Εξωτερική Κουζίνα"
+
+msgid "Five Lords"
+msgstr "Πέντε Λόρδοι"
+
+msgid "Right Flag"
+msgstr "Δεξιά Σημαία"
+
+msgid "Son"
+msgstr "Υιός"
+
+msgid "Left Flag"
+msgstr "Αριστερή Σημαία"
+
+msgid "Charioteer"
+msgstr ""
+
+msgid "Holy Kettle"
+msgstr "Ιερή Κατσαρόλα"
+
+msgid "Farm of Capital City"
+msgstr "Χωράφι της Πρωτεύουσας"
+
+msgid "Dignity of King"
+msgstr "Υπόληψη του Βασιλιά"
+
+msgid "Nomination"
+msgstr "Πρόταση"
+
+msgid "Gate of Sky"
+msgstr "Πύλη του Ουρανού"
+
+msgid "Equality"
+msgstr "Ισότητα"
+
+msgid "Helper"
+msgstr "Βοηθός"
+
+msgid "Position of Holy King"
+msgstr "Θέση του Ιερού Βασιλιά"
+
+msgid "Neck of Dragon"
+msgstr "Ο σβέρκος του Δράκου"
+
+msgid "Beheading"
+msgstr "Αποκεφαλισμός"
+
+msgid "Judge"
+msgstr "Δικαστής"
+
+msgid "Flutting Flag"
+msgstr "Κυματίζουσα Σημαία"
+
+msgid "Javelin of Sky"
+msgstr "Ακόντιο του Ουρανού"
+
+msgid "Seat for Longevity"
+msgstr "Θέση Μακροζωίας"
+
+msgid "Oar for visitor"
+msgstr "Κουπί του Επισκέπτη"
+
+msgid "Milk of Sky"
+msgstr "Γάλα του Ουρανού"
+
+msgid "House of Queen"
+msgstr "Οίκος της Βασίλισσας"
+
+msgid "Ancient Chariot"
+msgstr "Αρχαίο Άρμα"
+
+msgid "Carriage for King"
+msgstr "Άμαξα του Βασιλιά"
+
+msgid "General of Cavalry"
+msgstr "Στρατηγός Ιππικού"
+
+msgid "Cavalry of Emperor"
+msgstr "Ιππικό του Αυτοκράτορα"
+
+msgid "General of Mobile Troops"
+msgstr "Στρατηγός των Κινητών Στρατευμάτων"
+
+msgid "East Road"
+msgstr "Ανατολικός Δρόμος"
+
+msgid "Gate Bolt"
+msgstr "Ο Συρτής της Πύλης"
+
+msgid "Door Lock and Key"
+msgstr "Κλειδαριά και Κλειδί της Πόρτας"
+
+msgid "Penalty"
+msgstr "Ποινή"
+
+msgid "Royal Hall"
+msgstr "Βασιλική Αίθουσα"
+
+msgid "Chamberlain"
+msgstr "Οικονόμος"
+
+msgid "Sun"
+msgstr "Ήλιος"
+
+msgid "West Road"
+msgstr "Δυτικός Δρόμος"
+
+msgid "Seat of Emperor"
+msgstr "Θέση του Αυτοκράτορα"
+
+msgid "Five Troops"
+msgstr "Πέντε Στρατεύματα"
+
+msgid "River of Sky"
+msgstr "Ποταμός του Ουρανού"
+
+msgid "Prayer for Progeny"
+msgstr "Προσευχή για Απογόνους"
+
+msgid "Forcast"
+msgstr "Πρόβλεψη"
+
+msgid "Yard for Empresses"
+msgstr "Αυλή της Αυτοκράτειρας"
+
+msgid "Holy Palace"
+msgstr "Ιερό Παλάτι"
+
+msgid "Winnow"
+msgstr "Κόσκινο"
+
+msgid "Outer Pestle"
+msgstr "Εξωτερικό Γουδοχέρι"
+
+msgid "Head of Town"
+msgstr "Κεφαλή της Πόλης"
+
+msgid "Build"
+msgstr "Κατασκευή"
+
+msgid "Fowl of Sky"
+msgstr "Όρνιθα του Ουρανού"
+
+msgid "Shrine of Sky"
+msgstr ""
+
+msgid "Northeastern Nations"
+msgstr "Βορειοανατολικά Έθνη"
+
+msgid "Old Farmer"
+msgstr "Παλιός Αγρότης"
+
+msgid "Snapping Turtle"
+msgstr "Επιθετική Χελώνα"
+
+msgid "Road for Emperor"
+msgstr "Οδός τους Αυτοκράτορα"
+
+msgid "The Weaver"
+msgstr "Υφαντής"
+
+msgid "River adjoining Tower"
+msgstr "Πύργος με γειτονικό ρέμα"
+
+msgid "Drum of River"
+msgstr "Τύμπανο του Ρέματος"
+
+msgid "Drumstick of Sky"
+msgstr "Τυμπανόξυλο του Ουρανού"
+
+msgid "Cow leading Man"
+msgstr "Γελαδάρης"
+
+msgid "Bank Spread"
+msgstr "Απλωμένη Όχθη"
+
+msgid "Basket for Silkworm"
+msgstr "Καλάθι του Μεταξοσκώληκα"
+
+msgid "Officer for Cart"
+msgstr "Υπεύθυνος για τη Χειράμαξα"
+
+msgid "Ferry of Sky"
+msgstr "Μεταφορέας του Ουρανού"
+
+msgid "Fruit"
+msgstr "Φρούτο"
+
+msgid "Seed"
+msgstr "Σπόρος"
+
+msgid "Storage for Lady"
+msgstr "Γυναικωνίτης"
+
+msgid "Court Lady"
+msgstr "Κυρία της Αυλής"
+
+msgid "Judge Fault"
+msgstr "Το Λάθος του Δικαστή"
+
+msgid "Amend Fault"
+msgstr "Επανόρθωση"
+
+msgid "Grant Life"
+msgstr "Δωρεά Ζωής"
+
+msgid "Punish"
+msgstr "Τιμωρία"
+
+msgid "Empty House"
+msgstr "Άδειο Σπίτι"
+
+msgid "Weep"
+msgstr "Θρήνος"
+
+msgid "Sob"
+msgstr "Οδυρμός"
+
+msgid "Castle with Rampart"
+msgstr "Κάστρο με επάλξεις"
+
+msgid "Hook for Dress"
+msgstr "Κρεμάστρα"
+
+msgid "Groom"
+msgstr "Ιπποκόμος"
+
+msgid "Human"
+msgstr "Άνθρωπος"
+
+msgid "Inner Pestle"
+msgstr "Γουδοχέρι"
+
+msgid "Warehouse of Sky"
+msgstr "Αποθήκη του Ουρανού"
+
+msgid "Tomb"
+msgstr "Τύμβος"
+
+msgid "Cover of House"
+msgstr "Σκεπή Σπιτιού"
+
+msgid "Broken Mortar"
+msgstr "Σπασμένο Γουδί"
+
+msgid "Climbing Serpent"
+msgstr "Αναρριχόμενος όφις"
+
+msgid "Palace of Emperor"
+msgstr "Παλάτι του Αυτοκράτορα"
+
+msgid "Detached Palace"
+msgstr "Απόμακρο Παλάτι"
+
+msgid "Lightening"
+msgstr "Αστραπή"
+
+msgid "Rampart"
+msgstr "Προμαχώνας"
+
+msgid "Troops of Sky"
+msgstr "Στρατιές του Ουρανού"
+
+msgid "Village for Patrol"
+msgstr "Χωριό για Περιπολία"
+
+msgid "Net of Sky"
+msgstr "Δίχτυ του Ουρανού"
+
+msgid "Stable of Sky"
+msgstr "Σταύλος του Ουρανού"
+
+msgid "Eastern Wall"
+msgstr "Ανατολικός Τοίχος"
+
+msgid "Civil Engineer"
+msgstr "Πολιτικός Μηχανικός"
+
+msgid "Thunderbolts"
+msgstr "Αστροπελέκια"
+
+msgid "Clouds and Rain"
+msgstr "Σύννεφα και Βροχή"
+
+msgid "Highway"
+msgstr "Δημοσιά"
+
+msgid "Officer for Chariot of"
+msgstr "Υπεύθυνος για την Άμαξα του"
+
+msgid "Side Road"
+msgstr "Παράδρομος"
+
+msgid "Armory"
+msgstr "Oπλοστάσιο"
+
+msgid "Southern Gate of Emperator"
+msgstr "Νοτια Αυτοκρατορική Πύλη"
+
+msgid "Outer Folding Screen"
+msgstr "Έξω από την Αναδιπλούμενη Οθόνη"
+
+msgid "Toilet of Sky"
+msgstr "Τουαλέτα Ουρανού"
+
+msgid "Architect"
+msgstr "Αρχιτέκτων"
+
+msgid "Emperator"
+msgstr "Aυτοκράτωρ"
+
+msgid "Watchtower"
+msgstr "Βίγλα"
+
+msgid "Left Elm"
+msgstr "Αριστερή Λεύκη"
+
+msgid "Right Elm"
+msgstr "Δεξιά Λεύκη"
+
+msgid "Storehouse of Sky"
+msgstr "Αποθήκη του Ουρανού"
+
+msgid "Stack of Cereals"
+msgstr "Σωρός Δημητριακών"
+
+msgid "Ship of Sky"
+msgstr "Καράβι τ' Ουρανού"
+
+msgid "Store of Water"
+msgstr "Στάμνα"
+
+msgid "Heap of Corpse"
+msgstr "Στοιβαγμένα Πτώματα"
+
+msgid "Stomach of Tiger"
+msgstr "Στομάχι της Τίγρης"
+
+msgid "Store of Millet for"
+msgstr "Αποθήκη Κεχριού για"
+
+msgid "Storehouse for Cereals"
+msgstr "Σιταποθήκη"
+
+msgid "Shaman of Sky"
+msgstr "Σαμάνος"
+
+msgid "Ear and Eye of"
+msgstr "Αυτί και Μάτι του"
+
+msgid "Moon"
+msgstr "Σελήνη"
+
+msgid "Hill of Sky"
+msgstr "Λόφος του Ουρανού"
+
+msgid "Conspiracy of Sky"
+msgstr "Συνομωσία του Ουρανού"
+
+msgid "Fodder"
+msgstr "Χορτονομή"
+
+msgid "Garage for Chariot"
+msgstr "Γκαράζ για Άμαξα"
+
+msgid "Pond for Fish"
+msgstr "Λίμνη των Ψαριών"
+
+msgid "Pillar"
+msgstr "Κίονας"
+
+msgid "Puddle of Sky"
+msgstr "Λακκούβα Ουρανού"
+
+msgid "Kings"
+msgstr "Βασιλιάδες"
+
+msgid "Gateway of Sky"
+msgstr "Ουράνια Πύλη"
+
+msgid "Flage of Saam"
+msgstr "Flage of Saam"
+
+msgid "Village of Sky"
+msgstr "Χωριό του Ουρανού"
+
+msgid "Belvedere of Sky"
+msgstr "Θερινή Κατοικία του Ουρανού"
+
+msgid "General of Border"
+msgstr "Διγενής Ακρίτας"
+
+msgid "Celebration of Sky"
+msgstr ""
+
+msgid "Flag of Emperor"
+msgstr "Λάβαρο του Αυτοκράτορα"
+
+msgid "Nine Territory"
+msgstr "Περιοχή Εννιά"
+
+msgid "Garden of Sky"
+msgstr "Κήποι του Ουρανου"
+
+msgid "Settled Flag"
+msgstr "Αποκαθεστημένη Σημαία"
+
+msgid "Forcast Calamity"
+msgstr "Κασσάνδρα"
+
+msgid "Scout of Three Troups"
+msgstr "Κατάσκοπος των Τριών Στρατευμάτων"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Εκστρατευτική Δύναμη"
+
+msgid "Well for Millitary"
+msgstr "Πηγάδι του Στρατού"
+
+msgid "Well of Jade"
+msgstr "Το πηγάδι της Γκόλφως"
+
+msgid "Folding Screen"
+msgstr "Αναδιπλούμενη Οθόνη"
+
+msgid "Piled Brushwood"
+msgstr "Σωρός Χαμόκλαδων"
+
+msgid "Northern River"
+msgstr "Ποταμός του Βορρά"
+
+msgid "Wine Glass of Sky"
+msgstr "Κρασοπότηρο του Ουρανού"
+
+msgid "Eastern Well"
+msgstr "Ανατολικό Πηγάδι"
+
+msgid "Flood control"
+msgstr "Ανάχωμα"
+
+msgid "Balance of Water"
+msgstr "Ισορροπία του Νερού"
+
+msgid "Four Spirit of River"
+msgstr "Τέσσερα Πνεύματα του Ποταμού"
+
+msgid "Southern River"
+msgstr "Βόρειος Ποταμός"
+
+msgid "Twin Gate"
+msgstr "Διπλη Πύλη"
+
+msgid "Star of Wolf"
+msgstr "Λυκάων"
+
+msgid "Wild Fowls"
+msgstr "Άγρια Πτηνά"
+
+msgid "Market for Army"
+msgstr "Αγορά για Στράτευμα"
+
+msgid "Grandchildren"
+msgstr "Εγγόνια"
+
+msgid "Grown-up"
+msgstr "Ώριμος"
+
+msgid "Oldman"
+msgstr "Γέρος"
+
+msgid "Beacon"
+msgstr "Φάρος"
+
+msgid "Eye of Sky"
+msgstr "Οφθαλμός του Ουρανού"
+
+msgid "Pile of Dead"
+msgstr "Συνοθύλευμα Πτωμάτων"
+
+msgid "Green Ridge"
+msgstr "Πράσινη Κορυφογραμμή"
+
+msgid "Dog of Sky"
+msgstr "Κύων του Ουρανού"
+
+msgid "Spirit of GuRyoung"
+msgstr "Πνευμα του Οδυσσέα"
+
+msgid "Flag of Wine Officer"
+msgstr "Σημαία του Αξιοματούχου Οίνου"
+
+msgid "Officer of Kitchen"
+msgstr "Υπάλληλος της Μαγειρείου"
+
+msgid "Equality and Fair"
+msgstr "Ισότητα και Δίκαιο"
+
+msgid "Emperor HeonWon"
+msgstr "Αυτοκράτορας HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Βασιλεύουσα του Ουρανού"
+
+msgid "Chief of Farming"
+msgstr "Αρχηγός της Καλλιέργειας"
+
+msgid "Officer of Tomb"
+msgstr "Λειτουργός του Τάφου"
+
+msgid "Tomb of Sky"
+msgstr "Τάφος του Ουρανού"
+
+msgid "Wing of Red Bird"
+msgstr "Φτερό της πέρδικας"
+
+msgid "Eastern Pottery"
+msgstr "Ανατολικό Αγγειοπλαστείο"
+
+msgid "Chariot of Emperor"
+msgstr "Άρμα του Αυτοκράτωρα"
+
+msgid "Sand for Life"
+msgstr "Άμμος για Ζωή"
+
+msgid "Gateway for Troops"
+msgstr "Πύλη των Βαράγγων"
+
+msgid "Guardian Knight"
+msgstr "Κατάφρακτος Φρουρός"
+
+msgid "Five Feudal Lords"
+msgstr "Πέντε Φεουδάρχες Λόρδοι"
+
+msgid "SangJiin"
+msgstr "Νικηφόρος Φωκάς"
+
+msgid "Low Fence"
+msgstr "Χαμηλός Φράχτης"
+
+msgid "Tall Fence"
+msgstr "Ψηλός Φράχτης"
+
+msgid "Nine Lords"
+msgstr "Εννέα Λόρδοι"
+
+msgid "Dung of Tiger"
+msgstr "Κοπριά του Τίγρη"
+
+msgid "Five Emperor"
+msgstr "Πέντε Αυτοκράτορες"
+
+msgid "Three Minister"
+msgstr "Τρεις Υπουργοί"
+
+msgid "Officer for Audience"
+msgstr "Αξιοματούχος για της Ακρόαση"
+
+msgid "Grave Front"
+msgstr "Ταφόπλακα"
+
+msgid "Observatory"
+msgstr "Παρατηρητήριο"
+
+msgid "Female Officer"
+msgstr "Θηλυκή Αξιοματούχος"
+
+msgid "Wide Lodging Area"
+msgstr "Ευρεία Περιοχή Οικημάτων"
+
+msgid "Eight Cereals"
+msgstr "Οκτώ Σιτηρά"
+
+msgid "Advance Guard"
+msgstr "Φρουρά Προέλασης"
+
+msgid "Three Ministers"
+msgstr "Τρείς Υπουργοί"
+
+msgid "Virtue"
+msgstr "Αρετή"
+
+msgid "Emperor's God of War"
+msgstr "Ο Θεός του Πολέμου του Αυτοκράτορα"
+
+msgid "Emperor's God of Weather"
+msgstr "Του Αυτοκράτορα ο Θεός του Καιρού"
+
+msgid "Flap of Flag"
+msgstr "Κυματισμός της Σημαίας"
+
+msgid "Minister"
+msgstr "Υπουργός"
+
+msgid "General and Minister"
+msgstr "Στρατηγός και Υπουργός"
+
+msgid "Jail of Sky"
+msgstr "Φυλακή του Ουρανού"
+
+msgid "Six Department"
+msgstr "6ο Τμήμα"
+
+msgid "Inner Stairway"
+msgstr "Εσωτερική Σκάλα"
+
+msgid "Spear of Sky"
+msgstr "Λόγχη του Ουρανού"
+
+msgid "Cover for Emperor"
+msgstr "Σκέπασμα για Αυτοκράτορα"
+
+msgid "Place for Five Emperor"
+msgstr "Μέρος για Πέντε Αυτοκράτορες"
+
+msgid "60 Years"
+msgstr "Εξήντα Χρόνια"
+
+msgid "Kitchen of Sky"
+msgstr "Μαγειρίο του Ουρανού"
+
+msgid "North Pole"
+msgstr "Βόρειος Πώλος"
+
+msgid "Wound Lodge"
+msgstr "Οίκημα Πληγών"
+
+msgid "Single-log Bridge"
+msgstr "Γέφυρα Ενός Kορμό ξύλου"
+
+msgid "Great Emperor"
+msgstr "Μέγας Αυτοκράτορας"
+
+msgid "Officer for Opinion"
+msgstr "Αξιοματούχος για Γνώμη"
+
+msgid "Pillar of Sky"
+msgstr "Η Κολόνα του Ουρανού"
+
+msgid "Secretary"
+msgstr "Γραμματέας"
+
+msgid "Maid"
+msgstr "Κόρη"
+
+msgid "Desk of Woman"
+msgstr "Γυναικείο Τραπέζι"
+
+msgid "Judge Prison"
+msgstr "Φυλακη Δικαστών"
+
+msgid "Purple Fence"
+msgstr "Πορφυρός Φράχτης"
+
+msgid "Order of Sky"
+msgstr "Διαταγη Ουρανού"
+
+msgid "Seven Minister"
+msgstr "7 Υπουργοί"
+
+msgid "Thread Straw"
+msgstr "Καλαμοκλωστή"
+
+msgid "Market Fence"
+msgstr "Φράχτης Αγοράς"
+
+msgid "Feudal Lord"
+msgstr "Φεουδάρχης"
+
+msgid "Seat for Emperor"
+msgstr "Κάθισμα του Αυτοκράτορα"
+
+msgid "Royal Family"
+msgstr "Βασιλική Οικογένεια"
+
+msgid "Head of Family"
+msgstr "Αρχηγός της Οικογένειας"
+
+msgid "Record of Family"
+msgstr "Αρχείο της Οικογένειας"
+
+msgid "Officer for Family"
+msgstr "Αξιοματούχος της Οικογένειας"
+
+msgid "Tower in Market"
+msgstr "Πύργος στην Αγορά"
+
+msgid "Measure Cereal"
+msgstr "Μέτρημα Δημητριακών"
+
+msgid "Cereal Measure Regulation"
+msgstr "Κανονισμός Μέτρησης Δημητριακών"
+
+msgid "Officer for Chariots"
+msgstr "Αξιοματούχος Αρμάτων"
+
+msgid "Measure Amount"
+msgstr "Μετρήσιμη Ποσότητα"
+
+msgid "Butchery"
+msgstr "Σφαγείο"
+
+msgid "Officer for Jewel"
+msgstr "Αξιοματουχος Κοσμήματος"
+
+msgid "Royal"
+msgstr "Βασιλικό"
+
+msgid "Lord"
+msgstr "Κύριος"
+
+msgid "Left Executor"
+msgstr "Αριστερός Εκτελεστής"
+
+msgid "Right Executor"
+msgstr "Δεξής Εκτελεστής"
+
+msgid "Crossbeam for Heo"
+msgstr "Δοκάρι για την Ιω"
+
+msgid "Threading Coins"
+msgstr "Αρμαθιασμένα Νομίσματα"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr ""
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr ""
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr ""
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr ""
+
+msgid "TaeMin"
+msgstr ""
+
+msgid "SouMin"
+msgstr ""
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr ""
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr ""
+
+msgid "Beop"
+msgstr ""
+
+msgid "Ryeong"
+msgstr ""
+
+msgid "Beol"
+msgstr ""
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr ""
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

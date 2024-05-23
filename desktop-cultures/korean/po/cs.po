@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Zdeněk Moravec <moravec@hapteplice.cz>, 2023\n"
+"Language-Team: Czech (https://app.transifex.com/stellarium/teams/80998/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n "
+"<= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "Korejská"
+
+msgid "Dog"
+msgstr "Pes"
+
+msgid "Arrow"
+msgstr "Šíp"
+
+msgid "Bow"
+msgstr "Luk"
+
+msgid "Fish"
+msgstr "Ryba"
+
+msgid "Northern Dipper"
+msgstr "Severní naběračka"
+
+msgid "Toilet"
+msgstr "Záchod"
+
+msgid "Whip"
+msgstr "Bič"
+
+msgid "Mausoleum"
+msgstr "Mauzoleum"
+
+msgid "Mortar"
+msgstr "Hmoždíř"
+
+msgid "Rolled Tongue"
+msgstr "Svinutý jazyk"
+
+msgid "Chaff"
+msgstr "Plevy"
+
+msgid "Whetstone"
+msgstr "Brousek"
+
+msgid "Inner Kitchen"
+msgstr "Vnitřní kuchyně"
+
+msgid "Three Steps"
+msgstr "Tři schody"
+
+msgid "Eunuch"
+msgstr "Kleštěnec"
+
+msgid "Crown Prince"
+msgstr "Korunní princ"
+
+msgid "Official for Materials Supply"
+msgstr "Úředník pro materiální zásoby"
+
+msgid "Outer Kitchen"
+msgstr "Vnější kuchyně"
+
+msgid "Five Lords"
+msgstr "Pět pánů"
+
+msgid "Right Flag"
+msgstr "Pravý prapor"
+
+msgid "Son"
+msgstr "Syn"
+
+msgid "Left Flag"
+msgstr "Levý prapor"
+
+msgid "Charioteer"
+msgstr "Vozataj"
+
+msgid "Holy Kettle"
+msgstr "Nebeská konvice"
+
+msgid "Farm of Capital City"
+msgstr "Statek hlavního města"
+
+msgid "Dignity of King"
+msgstr "Důstojnost krále"
+
+msgid "Nomination"
+msgstr "Nominace"
+
+msgid "Gate of Sky"
+msgstr "Brána oblohy"
+
+msgid "Equality"
+msgstr "Rovnost"
+
+msgid "Helper"
+msgstr "Pomocník"
+
+msgid "Position of Holy King"
+msgstr "Postavení Svatého Krále"
+
+msgid "Neck of Dragon"
+msgstr "Krk draka"
+
+msgid "Beheading"
+msgstr "Stínání"
+
+msgid "Judge"
+msgstr "Soudce"
+
+msgid "Flutting Flag"
+msgstr "Vlající vlajka"
+
+msgid "Javelin of Sky"
+msgstr "Nebeský oštěp"
+
+msgid "Seat for Longevity"
+msgstr "Místo pro dlouhověkost"
+
+msgid "Oar for visitor"
+msgstr "Pádlo pro návštěvníka"
+
+msgid "Milk of Sky"
+msgstr "Mléko nebe"
+
+msgid "House of Queen"
+msgstr "Dům královny"
+
+msgid "Ancient Chariot"
+msgstr "Starověký vůz"
+
+msgid "Carriage for King"
+msgstr "Kočár pro krále"
+
+msgid "General of Cavalry"
+msgstr "Generál kavalérie"
+
+msgid "Cavalry of Emperor"
+msgstr "Kavalérie císaře"
+
+msgid "General of Mobile Troops"
+msgstr "Generál mobilních jednotek"
+
+msgid "East Road"
+msgstr "Východní cesta"
+
+msgid "Gate Bolt"
+msgstr "Čep brány"
+
+msgid "Door Lock and Key"
+msgstr "Zámek u dveří a klíč"
+
+msgid "Penalty"
+msgstr "Postih"
+
+msgid "Royal Hall"
+msgstr "Královský sál"
+
+msgid "Chamberlain"
+msgstr "Komorník"
+
+msgid "Sun"
+msgstr "Slunce"
+
+msgid "West Road"
+msgstr "Západní cesta"
+
+msgid "Seat of Emperor"
+msgstr "Trůn císaře"
+
+msgid "Five Troops"
+msgstr "Pět jednotek"
+
+msgid "River of Sky"
+msgstr "Nebeská řeka"
+
+msgid "Prayer for Progeny"
+msgstr "Modlitba za potomstvo"
+
+msgid "Forcast"
+msgstr "Předpověď"
+
+msgid "Yard for Empresses"
+msgstr "Dvůr pro královnu"
+
+msgid "Holy Palace"
+msgstr "Svatý palác"
+
+msgid "Winnow"
+msgstr "Prosívání"
+
+msgid "Outer Pestle"
+msgstr "Vnější tlouček"
+
+msgid "Head of Town"
+msgstr "Vůdce města"
+
+msgid "Build"
+msgstr "Stavět"
+
+msgid "Fowl of Sky"
+msgstr "Nebeská drůbež"
+
+msgid "Shrine of Sky"
+msgstr "Nebeská svatyně"
+
+msgid "Northeastern Nations"
+msgstr "Severovýchodní státy"
+
+msgid "Old Farmer"
+msgstr "Starý farmář"
+
+msgid "Snapping Turtle"
+msgstr "Kajmanka dravá"
+
+msgid "Road for Emperor"
+msgstr "Cesta pro císaře"
+
+msgid "The Weaver"
+msgstr "Tkadlec"
+
+msgid "River adjoining Tower"
+msgstr "Věž přilehlá u řeky"
+
+msgid "Drum of River"
+msgstr "Buben řeky"
+
+msgid "Drumstick of Sky"
+msgstr "Nebeská palička"
+
+msgid "Cow leading Man"
+msgstr "Kráva vedoucí muže"
+
+msgid "Bank Spread"
+msgstr "Rozpětí břehu"
+
+msgid "Basket for Silkworm"
+msgstr "Košík pro bource morušového"
+
+msgid "Officer for Cart"
+msgstr "Úředník pro vůz"
+
+msgid "Ferry of Sky"
+msgstr "Nebeský převozník"
+
+msgid "Fruit"
+msgstr "Ovoce"
+
+msgid "Seed"
+msgstr "Semeno"
+
+msgid "Storage for Lady"
+msgstr "Sklad pro dámu"
+
+msgid "Court Lady"
+msgstr "Dvorská dáma"
+
+msgid "Judge Fault"
+msgstr "Chyba soudce"
+
+msgid "Amend Fault"
+msgstr "Napravení chyby"
+
+msgid "Grant Life"
+msgstr "Udělit život"
+
+msgid "Punish"
+msgstr "Potrestat"
+
+msgid "Empty House"
+msgstr "Prázdný dům"
+
+msgid "Weep"
+msgstr "Plakat"
+
+msgid "Sob"
+msgstr "Vzlykat"
+
+msgid "Castle with Rampart"
+msgstr "Zámek s valem"
+
+msgid "Hook for Dress"
+msgstr "Háček na šaty"
+
+msgid "Groom"
+msgstr "Ženich"
+
+msgid "Human"
+msgstr "Člověk"
+
+msgid "Inner Pestle"
+msgstr "Vnitřní tlouček"
+
+msgid "Warehouse of Sky"
+msgstr "Nebeský sklad"
+
+msgid "Tomb"
+msgstr "Hrobka"
+
+msgid "Cover of House"
+msgstr "Kryt domu"
+
+msgid "Broken Mortar"
+msgstr "Rozbitý hmoždíř"
+
+msgid "Climbing Serpent"
+msgstr "Lezoucí had"
+
+msgid "Palace of Emperor"
+msgstr "Palác císaře"
+
+msgid "Detached Palace"
+msgstr "Oddělený palác"
+
+msgid "Lightening"
+msgstr "Osvětlení"
+
+msgid "Rampart"
+msgstr "Val"
+
+msgid "Troops of Sky"
+msgstr "Nebeské jednotky"
+
+msgid "Village for Patrol"
+msgstr "Vesnice na hlídce"
+
+msgid "Net of Sky"
+msgstr "Nebeská síť"
+
+msgid "Stable of Sky"
+msgstr "Nebeská stáj"
+
+msgid "Eastern Wall"
+msgstr "Východní zeď"
+
+msgid "Civil Engineer"
+msgstr "Stavební inženýr"
+
+msgid "Thunderbolts"
+msgstr "Blesky"
+
+msgid "Clouds and Rain"
+msgstr "Mraky a déšť"
+
+msgid "Highway"
+msgstr "Silnice"
+
+msgid "Officer for Chariot of"
+msgstr "Úředník pro vůz od"
+
+msgid "Side Road"
+msgstr "Vedlejší cesta"
+
+msgid "Armory"
+msgstr "Zbrojnice"
+
+msgid "Southern Gate of Emperator"
+msgstr "Jižní brána císaře"
+
+msgid "Outer Folding Screen"
+msgstr "Vnější paraván"
+
+msgid "Toilet of Sky"
+msgstr "Nebeský záchod"
+
+msgid "Architect"
+msgstr "Architekt"
+
+msgid "Emperator"
+msgstr "Císař"
+
+msgid "Watchtower"
+msgstr "Strážní věž"
+
+msgid "Left Elm"
+msgstr "Levý jilm"
+
+msgid "Right Elm"
+msgstr "Pravý jilm"
+
+msgid "Storehouse of Sky"
+msgstr "Nebeské skladiště"
+
+msgid "Stack of Cereals"
+msgstr "Stoh obilovin"
+
+msgid "Ship of Sky"
+msgstr "Nebeská loď"
+
+msgid "Store of Water"
+msgstr "Skladiště vody"
+
+msgid "Heap of Corpse"
+msgstr "Hromada mrtvol"
+
+msgid "Stomach of Tiger"
+msgstr "Žaludek tygra"
+
+msgid "Store of Millet for"
+msgstr "Skladiště prosa pro"
+
+msgid "Storehouse for Cereals"
+msgstr "Skladiště obilovin"
+
+msgid "Shaman of Sky"
+msgstr "Nebeský šaman"
+
+msgid "Ear and Eye of"
+msgstr "Ucho a oko"
+
+msgid "Moon"
+msgstr "Měsíc"
+
+msgid "Hill of Sky"
+msgstr "Nebeský kopec"
+
+msgid "Conspiracy of Sky"
+msgstr "Nebeské spiknutí"
+
+msgid "Fodder"
+msgstr "Krmivo"
+
+msgid "Garage for Chariot"
+msgstr "Garáž pro vůz"
+
+msgid "Pond for Fish"
+msgstr "Rybník pro ryby"
+
+msgid "Pillar"
+msgstr "Sloup"
+
+msgid "Puddle of Sky"
+msgstr "Nebeská louže"
+
+msgid "Kings"
+msgstr "Králové"
+
+msgid "Gateway of Sky"
+msgstr "Nebeská brána"
+
+msgid "Flage of Saam"
+msgstr "Saamova vlajka"
+
+msgid "Village of Sky"
+msgstr "Nebeská vesnice"
+
+msgid "Belvedere of Sky"
+msgstr "Nebeská vyhlídka"
+
+msgid "General of Border"
+msgstr "Generál hranice"
+
+msgid "Celebration of Sky"
+msgstr "Nebeská oslava"
+
+msgid "Flag of Emperor"
+msgstr "Vlajka císaře"
+
+msgid "Nine Territory"
+msgstr "Devátá oblast"
+
+msgid "Garden of Sky"
+msgstr "Nebeská zahrada"
+
+msgid "Settled Flag"
+msgstr "Ustálená vlajka"
+
+msgid "Forcast Calamity"
+msgstr "Předpověď kalamity"
+
+msgid "Scout of Three Troups"
+msgstr "Zvěd ze tří jednotek"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Expediční síly"
+
+msgid "Well for Millitary"
+msgstr "Studna pro vojáky"
+
+msgid "Well of Jade"
+msgstr "Studna z nefritu"
+
+msgid "Folding Screen"
+msgstr "Paraván"
+
+msgid "Piled Brushwood"
+msgstr "Hromada klestí"
+
+msgid "Northern River"
+msgstr "Severní řeka"
+
+msgid "Wine Glass of Sky"
+msgstr "Nebeská sklenka vína"
+
+msgid "Eastern Well"
+msgstr "Východní zeď"
+
+msgid "Flood control"
+msgstr "Protipovodňová ochrana"
+
+msgid "Balance of Water"
+msgstr "Rovnováha vody"
+
+msgid "Four Spirit of River"
+msgstr "Čtyři duchové řeky"
+
+msgid "Southern River"
+msgstr "Jižní řeka"
+
+msgid "Twin Gate"
+msgstr "Dvojitá brána"
+
+msgid "Star of Wolf"
+msgstr "Vlčí hvězda"
+
+msgid "Wild Fowls"
+msgstr "Divoké ptactvo"
+
+msgid "Market for Army"
+msgstr "Trh pro armádu"
+
+msgid "Grandchildren"
+msgstr "Vnoučata"
+
+msgid "Grown-up"
+msgstr "Dospělý"
+
+msgid "Oldman"
+msgstr "Stařec"
+
+msgid "Beacon"
+msgstr "Maják"
+
+msgid "Eye of Sky"
+msgstr "Nebeské oko"
+
+msgid "Pile of Dead"
+msgstr "Hromada mrtvých"
+
+msgid "Green Ridge"
+msgstr "Zelený hřbet"
+
+msgid "Dog of Sky"
+msgstr "Nebeský pes"
+
+msgid "Spirit of GuRyoung"
+msgstr "Duše GuRyounga"
+
+msgid "Flag of Wine Officer"
+msgstr "Vlajka úředníka vína"
+
+msgid "Officer of Kitchen"
+msgstr "Úředník kuchyně"
+
+msgid "Equality and Fair"
+msgstr "Rovnost a spravedlnost"
+
+msgid "Emperor HeonWon"
+msgstr "Císař HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Nebeské hlavní město"
+
+msgid "Chief of Farming"
+msgstr "Šéf zemědělství"
+
+msgid "Officer of Tomb"
+msgstr "Úředník hrobky"
+
+msgid "Tomb of Sky"
+msgstr "Nebeská hrobka"
+
+msgid "Wing of Red Bird"
+msgstr "Křídlo červeného ptáka"
+
+msgid "Eastern Pottery"
+msgstr "Východní hrnčířství"
+
+msgid "Chariot of Emperor"
+msgstr "Vůz císaře"
+
+msgid "Sand for Life"
+msgstr "Písek pro život"
+
+msgid "Gateway for Troops"
+msgstr "Brána pro jednotky"
+
+msgid "Guardian Knight"
+msgstr "Rytíř strážce"
+
+msgid "Five Feudal Lords"
+msgstr "Pět feudálních pánů"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Nízký plot"
+
+msgid "Tall Fence"
+msgstr "Vysoký plot"
+
+msgid "Nine Lords"
+msgstr "Devět pánů"
+
+msgid "Dung of Tiger"
+msgstr "Tygří trus"
+
+msgid "Five Emperor"
+msgstr "Pět císařů"
+
+msgid "Three Minister"
+msgstr "Tři ministři"
+
+msgid "Officer for Audience"
+msgstr "Úředník pro diváky"
+
+msgid "Grave Front"
+msgstr "Čelo hrobu"
+
+msgid "Observatory"
+msgstr "Observatoř"
+
+msgid "Female Officer"
+msgstr "Úřednice"
+
+msgid "Wide Lodging Area"
+msgstr "Široká oblast ubytování"
+
+msgid "Eight Cereals"
+msgstr "Osm obilovin"
+
+msgid "Advance Guard"
+msgstr "Předsunutá hlídka"
+
+msgid "Three Ministers"
+msgstr "Tři ministři"
+
+msgid "Virtue"
+msgstr "Ctnost"
+
+msgid "Emperor's God of War"
+msgstr "Bůh války císaře"
+
+msgid "Emperor's God of Weather"
+msgstr "Bůh počasí císaře"
+
+msgid "Flap of Flag"
+msgstr "Klapka vlajky"
+
+msgid "Minister"
+msgstr "Ministr"
+
+msgid "General and Minister"
+msgstr "Generál a ministr"
+
+msgid "Jail of Sky"
+msgstr "Nebeské vězení"
+
+msgid "Six Department"
+msgstr "Šest oddělení"
+
+msgid "Inner Stairway"
+msgstr "Vnitřní schodiště"
+
+msgid "Spear of Sky"
+msgstr "Nebeský oštěp"
+
+msgid "Cover for Emperor"
+msgstr "Kryt pro císaře"
+
+msgid "Place for Five Emperor"
+msgstr "Místo pro pět císařů"
+
+msgid "60 Years"
+msgstr "60 let"
+
+msgid "Kitchen of Sky"
+msgstr "Nebeská kuchyň"
+
+msgid "North Pole"
+msgstr "Severní pól"
+
+msgid "Wound Lodge"
+msgstr "Chata zranění"
+
+msgid "Single-log Bridge"
+msgstr "Most tvořený jednou kládou"
+
+msgid "Great Emperor"
+msgstr "Velký císař"
+
+msgid "Officer for Opinion"
+msgstr "Úředník pro názory"
+
+msgid "Pillar of Sky"
+msgstr "Nebeský sloup"
+
+msgid "Secretary"
+msgstr "Sekretář"
+
+msgid "Maid"
+msgstr "Služka"
+
+msgid "Desk of Woman"
+msgstr "Stůl ženy"
+
+msgid "Judge Prison"
+msgstr "Soudce vězení"
+
+msgid "Purple Fence"
+msgstr "Fialový plot"
+
+msgid "Order of Sky"
+msgstr "Nebeský řád"
+
+msgid "Seven Minister"
+msgstr "Sedm ministrů"
+
+msgid "Thread Straw"
+msgstr "Vlákno slámy"
+
+msgid "Market Fence"
+msgstr "Plot tržiště"
+
+msgid "Feudal Lord"
+msgstr "Feudální pán"
+
+msgid "Seat for Emperor"
+msgstr "Místo pro císaře"
+
+msgid "Royal Family"
+msgstr "Královská rodina"
+
+msgid "Head of Family"
+msgstr "Hlava rodiny"
+
+msgid "Record of Family"
+msgstr "Záznam rodiny"
+
+msgid "Officer for Family"
+msgstr "Úředník pro rodinu"
+
+msgid "Tower in Market"
+msgstr "Věž v tržišti"
+
+msgid "Measure Cereal"
+msgstr "Měření obiloviny"
+
+msgid "Cereal Measure Regulation"
+msgstr "Pravidla měření obilovin"
+
+msgid "Officer for Chariots"
+msgstr "Úředník pro vozy"
+
+msgid "Measure Amount"
+msgstr "Změřit množství"
+
+msgid "Butchery"
+msgstr "Řeznictví"
+
+msgid "Officer for Jewel"
+msgstr "Úředník pro drahokamy"
+
+msgid "Royal"
+msgstr "Královské"
+
+msgid "Lord"
+msgstr "Pán"
+
+msgid "Left Executor"
+msgstr "Vykonavatel vlevo"
+
+msgid "Right Executor"
+msgstr "Vykonavatel vpravo"
+
+msgid "Crossbeam for Heo"
+msgstr "Nosník pro Heo"
+
+msgid "Threading Coins"
+msgstr "Vázání mincí"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

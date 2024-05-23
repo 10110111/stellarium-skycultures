@@ -1,0 +1,1029 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2024\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "Корейська"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Chinese, Korean, and Japanese constellations have the same origin and "
+"look very similar in shape. They are represented respectively in the Dun "
+"Huang starmap from the 8th century, the Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do map "
+"and in the Kitora skymap painted in A.D.7C ~ 8C. Their positions and their "
+"names are similar in the Chinese alphabet. The name of the constellations "
+"first appear in the Records of the Grand Historian(史記) in Han dynasty "
+"describing Xia dynasty in about 2000 B.C."
+msgstr ""
+"Китайські, корейські та японські сузір’я мають спільне походження і дуже "
+"схожі за формою. Ці сузір’я зображено, відповідно, на зоряній карті Дунь "
+"Хуаня (VIII ст.), карті Чон-Сан-Йол-Ча-Бун-Я-Джі-До та на карті неба Кітори, "
+"намальованій у VII-VIII ст. н.е. Розташування та назви сузір’їв є подібними "
+"у китайському записів. Назви сузір’їв вперше згадуються у «Історичних "
+"записках» (史記), створених під час правління династії Хань, коли автор "
+"описує події, які відбулися під час правління династії Ся у другому "
+"тисячолітті до н.е."
+
+# Sky culture description section in markdown format
+msgid ""
+"### Origin\n"
+"\n"
+"The 272 constellations displayed in this Stellarium sky culture are based on "
+"the Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do, the Korean Constellation map, which "
+"was carved on the stone on 1395 but has its origin from another sky map "
+"which existed about 2,000 years ago. This map represents 1467 stars in about "
+"190 constellations whose shapes are slightly different from the chinese "
+"ones. The interpretation of the map is not easy: the map is so old that only "
+"about 300 stars are found to match with the real stars. All the stars of the "
+"map were drawn on a circle, so the equator seems smaller than the southern "
+"limit. Because the density of constellation does not change with respect to "
+"the position, the position and the size of the constellations were somewhat "
+"altered in a way unknown by the author. It is assumed that there should be "
+"no bright stars which do not belong to any constellations. The work of the "
+"author is subject to interpretation, and could be changed at a later time. "
+"It will however roughly show what the Korean Constellation are like."
+msgstr ""
+"### Походження\n"
+"\n"
+"272 сузір’я, показані на цій карті зоряного неба Stellarium відповідають "
+"зображенням Чон-Сан-Йол-Ча-Бун-Я-Джі-До, корейської карти сузір’їв, яку було "
+"вирізьблено на камені у 1395 році. Цю карту засновано на іншій карті "
+"зоряного неба, створеній близько двох тисяч років тому. На карті зображено "
+"1467 зірок і близько 190 сузір’їв, чиї форми трохи відрізняються від форм "
+"китайських сузір’їв. Інтерпретація карти є непростою справою: карта занадто "
+"стара, відповідність вдалося визначити лише для 300 зірок на ній. Всі зірки "
+"на карті було намальовано у колі, отже екватор має перебувати вище за "
+"південну межу карти. Щільність зірок у сузір’ях приблизно зберігається з "
+"часом, але розташування та розмір сузір’їв дещо змінюється у спосіб, "
+"невідомий авторові карти. Автор припускав, що всі яскраві зірки мають "
+"належати певному сузір’ю. Результати роботи є лише одним з поглядів на "
+"старовинну карту, отже у карті можуть відбутися зміни, але поточний варіант "
+"дає користувачам уявлення щодо того, як мала виглядати корейська карта "
+"зоряного неба."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+msgstr ""
+" - [#1]: [Чонсан Йолча Буняджидо](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *[Jeong, Tae-Min](http://"
+"user.chollian.net/~jtm71/)*"
+msgstr ""
+"Записи цієї картини зоряного неба було створено користувачем Stellarium "
+"*[Jeong, Tae-Min](http://user.chollian.net/~jtm71/)*"
+
+msgid "Dog"
+msgstr "Пес"
+
+msgid "Arrow"
+msgstr "Стріла"
+
+msgid "Bow"
+msgstr "Лук"
+
+msgid "Fish"
+msgstr "Риба"
+
+msgid "Northern Dipper"
+msgstr "Північний ківш"
+
+msgid "Toilet"
+msgstr "Туалет"
+
+msgid "Whip"
+msgstr "Батіг"
+
+msgid "Mausoleum"
+msgstr "Мавзолей"
+
+msgid "Mortar"
+msgstr "Ступка"
+
+msgid "Rolled Tongue"
+msgstr "Скручений язик"
+
+msgid "Chaff"
+msgstr "Полова"
+
+msgid "Whetstone"
+msgstr "Точило"
+
+msgid "Inner Kitchen"
+msgstr "Внутрішня кухня"
+
+msgid "Three Steps"
+msgstr "Три кроки"
+
+msgid "Eunuch"
+msgstr "Євнух"
+
+msgid "Crown Prince"
+msgstr "Принц-спадкоємець"
+
+msgid "Official for Materials Supply"
+msgstr "Наглядач за землею"
+
+msgid "Outer Kitchen"
+msgstr "Зовнішня кухня"
+
+msgid "Five Lords"
+msgstr "П’ять князів"
+
+msgid "Right Flag"
+msgstr "Правий прапор"
+
+msgid "Son"
+msgstr "Син"
+
+msgid "Left Flag"
+msgstr "Лівий прапор"
+
+msgid "Charioteer"
+msgstr "Колісничий"
+
+msgid "Holy Kettle"
+msgstr "Священний казан"
+
+msgid "Farm of Capital City"
+msgstr "Столична ферма"
+
+msgid "Dignity of King"
+msgstr "Королівська гідність"
+
+msgid "Nomination"
+msgstr "Нагорода"
+
+msgid "Gate of Sky"
+msgstr "Небесні ворота"
+
+msgid "Equality"
+msgstr "Рівновага"
+
+msgid "Helper"
+msgstr "Помічник"
+
+msgid "Position of Holy King"
+msgstr "Місце Священного Короля"
+
+msgid "Neck of Dragon"
+msgstr "Шия Дракона"
+
+msgid "Beheading"
+msgstr "Обезголовлення"
+
+msgid "Judge"
+msgstr "Суддя"
+
+msgid "Flutting Flag"
+msgstr "Прапор, що тріпоче"
+
+msgid "Javelin of Sky"
+msgstr "Небесний дротик"
+
+msgid "Seat for Longevity"
+msgstr "Місце довговічності"
+
+msgid "Oar for visitor"
+msgstr "Лопатка відвідувача"
+
+msgid "Milk of Sky"
+msgstr "Небесне молоко"
+
+msgid "House of Queen"
+msgstr "Будинок королеви"
+
+msgid "Ancient Chariot"
+msgstr "Давні колісниця"
+
+msgid "Carriage for King"
+msgstr "Королівський візок"
+
+msgid "General of Cavalry"
+msgstr "Генерал кавалерії"
+
+msgid "Cavalry of Emperor"
+msgstr "Кавалерія імператора"
+
+msgid "General of Mobile Troops"
+msgstr "Генерал мобільних військ"
+
+msgid "East Road"
+msgstr "Східна дорога"
+
+msgid "Gate Bolt"
+msgstr "Петля воріт"
+
+msgid "Door Lock and Key"
+msgstr "Дверний замок і ключ"
+
+msgid "Penalty"
+msgstr "Покарання"
+
+msgid "Royal Hall"
+msgstr "Королівська зала"
+
+msgid "Chamberlain"
+msgstr "Камергер"
+
+msgid "Sun"
+msgstr "Сонце"
+
+msgid "West Road"
+msgstr "Західна дорога"
+
+msgid "Seat of Emperor"
+msgstr "Місце імператора"
+
+msgid "Five Troops"
+msgstr "П’ять військ"
+
+msgid "River of Sky"
+msgstr "Небесна ріка"
+
+msgid "Prayer for Progeny"
+msgstr "Той, що молиться за нащадків"
+
+msgid "Forcast"
+msgstr "Передбачення"
+
+msgid "Yard for Empresses"
+msgstr "Двір імператриці"
+
+msgid "Holy Palace"
+msgstr "Священний палац"
+
+msgid "Winnow"
+msgstr "Тік"
+
+msgid "Outer Pestle"
+msgstr "Зовнішній товкач"
+
+msgid "Head of Town"
+msgstr "Міський голова"
+
+msgid "Build"
+msgstr "Будова"
+
+msgid "Fowl of Sky"
+msgstr "Небесна дичина"
+
+msgid "Shrine of Sky"
+msgstr "Вівтар Небес"
+
+msgid "Northeastern Nations"
+msgstr "Північносхідні народи"
+
+msgid "Old Farmer"
+msgstr "Старий селянин"
+
+msgid "Snapping Turtle"
+msgstr "Кайманова черепаха"
+
+msgid "Road for Emperor"
+msgstr "Імператорська дорога"
+
+msgid "The Weaver"
+msgstr "Ткаля"
+
+msgid "River adjoining Tower"
+msgstr "Ріка поряд з вежею"
+
+msgid "Drum of River"
+msgstr "Річкові пороги"
+
+msgid "Drumstick of Sky"
+msgstr "Небесна барабанна паличка"
+
+msgid "Cow leading Man"
+msgstr "Пастир"
+
+msgid "Bank Spread"
+msgstr "Прилавок"
+
+msgid "Basket for Silkworm"
+msgstr "Кошик для коконів шовкопряда"
+
+msgid "Officer for Cart"
+msgstr "Наглядач за візком"
+
+msgid "Ferry of Sky"
+msgstr "Небесний пором"
+
+msgid "Fruit"
+msgstr "Фрукт"
+
+msgid "Seed"
+msgstr "Насіння"
+
+msgid "Storage for Lady"
+msgstr "Сховище для князівни"
+
+msgid "Court Lady"
+msgstr "Фрейліна"
+
+msgid "Judge Fault"
+msgstr "Проміжок суду"
+
+msgid "Amend Fault"
+msgstr "Проміжок виправдання"
+
+msgid "Grant Life"
+msgstr "Дарування життя"
+
+msgid "Punish"
+msgstr "Покарання"
+
+msgid "Empty House"
+msgstr "Порожній будинок"
+
+msgid "Weep"
+msgstr "Плач"
+
+msgid "Sob"
+msgstr "Ридання"
+
+msgid "Castle with Rampart"
+msgstr "Замок з валами"
+
+msgid "Hook for Dress"
+msgstr "Гачок одягу"
+
+msgid "Groom"
+msgstr "Конюх"
+
+msgid "Human"
+msgstr "Людина"
+
+msgid "Inner Pestle"
+msgstr "Внутрішній товкач"
+
+msgid "Warehouse of Sky"
+msgstr "Небесний склад"
+
+msgid "Tomb"
+msgstr "Могила"
+
+msgid "Cover of House"
+msgstr "Покриття будинку"
+
+msgid "Broken Mortar"
+msgstr "Розбита ступка"
+
+msgid "Climbing Serpent"
+msgstr "Змій, що здирається нагору"
+
+msgid "Palace of Emperor"
+msgstr "Палац імператора"
+
+msgid "Detached Palace"
+msgstr "Окремий палац"
+
+msgid "Lightening"
+msgstr "Блискавка"
+
+msgid "Rampart"
+msgstr "Вал"
+
+msgid "Troops of Sky"
+msgstr "Небесне військо"
+
+msgid "Village for Patrol"
+msgstr "Селище для патрулювання"
+
+msgid "Net of Sky"
+msgstr "Небесні сіті"
+
+msgid "Stable of Sky"
+msgstr "Основи небес"
+
+msgid "Eastern Wall"
+msgstr "Східна стіна"
+
+msgid "Civil Engineer"
+msgstr "Будівельник"
+
+msgid "Thunderbolts"
+msgstr "Удари блискавки"
+
+msgid "Clouds and Rain"
+msgstr "Хмари і дощ"
+
+msgid "Highway"
+msgstr "Шлях"
+
+msgid "Officer for Chariot of"
+msgstr "Наглядач за колісницею"
+
+msgid "Side Road"
+msgstr "Бічна дорога"
+
+msgid "Armory"
+msgstr "Арсенал"
+
+msgid "Southern Gate of Emperator"
+msgstr "Південні ворота імператора"
+
+msgid "Outer Folding Screen"
+msgstr "Зовнішня ширма"
+
+msgid "Toilet of Sky"
+msgstr "Вбиральня небес"
+
+msgid "Architect"
+msgstr "Архітектор"
+
+msgid "Emperator"
+msgstr "Імператор"
+
+msgid "Watchtower"
+msgstr "Сторожова вежа"
+
+msgid "Left Elm"
+msgstr "Лівий в’яз"
+
+msgid "Right Elm"
+msgstr "Правий в’яз"
+
+msgid "Storehouse of Sky"
+msgstr "Небесна комора"
+
+msgid "Stack of Cereals"
+msgstr "Скирта"
+
+msgid "Ship of Sky"
+msgstr "Небесний корабель"
+
+msgid "Store of Water"
+msgstr "Сховище для води"
+
+msgid "Heap of Corpse"
+msgstr "Жертовна купа"
+
+msgid "Stomach of Tiger"
+msgstr "Живіт тигра"
+
+msgid "Store of Millet for"
+msgstr "Просяна комора"
+
+msgid "Storehouse for Cereals"
+msgstr "Сховище для зерна"
+
+msgid "Shaman of Sky"
+msgstr "Небесний шаман"
+
+msgid "Ear and Eye of"
+msgstr "Вухо і око"
+
+msgid "Moon"
+msgstr "Місяць"
+
+msgid "Hill of Sky"
+msgstr "Небесний пагорб"
+
+msgid "Conspiracy of Sky"
+msgstr "Небесна змова"
+
+msgid "Fodder"
+msgstr "Корм"
+
+msgid "Garage for Chariot"
+msgstr "Сарай для колісниці"
+
+msgid "Pond for Fish"
+msgstr "Басейн для риби"
+
+msgid "Pillar"
+msgstr "Колона"
+
+msgid "Puddle of Sky"
+msgstr "Небесна калюжа"
+
+msgid "Kings"
+msgstr "Королі"
+
+msgid "Gateway of Sky"
+msgstr "Ворота неба"
+
+msgid "Flage of Saam"
+msgstr "Прапор Саама"
+
+msgid "Village of Sky"
+msgstr "Небесне селище"
+
+msgid "Belvedere of Sky"
+msgstr "Небесна галерея"
+
+msgid "General of Border"
+msgstr "Начальник кордонів"
+
+msgid "Celebration of Sky"
+msgstr "День Небес"
+
+msgid "Flag of Emperor"
+msgstr "Прапор імператора"
+
+msgid "Nine Territory"
+msgstr "Дев’ять територій"
+
+msgid "Garden of Sky"
+msgstr "Небесний сад"
+
+msgid "Settled Flag"
+msgstr "Встановлений прапор"
+
+msgid "Forcast Calamity"
+msgstr "Передбачення лиха"
+
+msgid "Scout of Three Troups"
+msgstr "Розвідник трьох військ"
+
+msgid "Saam"
+msgstr "Саам"
+
+msgid "Expeditionary Force"
+msgstr "Експедиційні сили"
+
+msgid "Well for Millitary"
+msgstr "Військовий колодязь"
+
+msgid "Well of Jade"
+msgstr "Нефритовий колодязь"
+
+msgid "Folding Screen"
+msgstr "Ширма"
+
+msgid "Piled Brushwood"
+msgstr "Чагарники"
+
+msgid "Northern River"
+msgstr "Північна ріка"
+
+msgid "Wine Glass of Sky"
+msgstr "Небесний бокал"
+
+msgid "Eastern Well"
+msgstr "Східний колодязь"
+
+msgid "Flood control"
+msgstr "Той, що керує повенями"
+
+msgid "Balance of Water"
+msgstr "Рівновага води"
+
+msgid "Four Spirit of River"
+msgstr "Четвертий дух ріки"
+
+msgid "Southern River"
+msgstr "Південна ріка"
+
+msgid "Twin Gate"
+msgstr "Подвійні ворота"
+
+msgid "Star of Wolf"
+msgstr "Вовча зірка"
+
+msgid "Wild Fowls"
+msgstr "Дичина"
+
+msgid "Market for Army"
+msgstr "Армійський ринок"
+
+msgid "Grandchildren"
+msgstr "Онуки"
+
+msgid "Grown-up"
+msgstr "Дорослий"
+
+msgid "Oldman"
+msgstr "Старий"
+
+msgid "Beacon"
+msgstr "Сигнальний вогонь"
+
+msgid "Eye of Sky"
+msgstr "Небесне око"
+
+msgid "Pile of Dead"
+msgstr "Купа мертвих"
+
+msgid "Green Ridge"
+msgstr "Зелений гребінь"
+
+msgid "Dog of Sky"
+msgstr "Небесний собака"
+
+msgid "Spirit of GuRyoung"
+msgstr "Дух Гуджонг"
+
+msgid "Flag of Wine Officer"
+msgstr "Прапор виночерпця"
+
+msgid "Officer of Kitchen"
+msgstr "Наглядач за кухнею"
+
+msgid "Equality and Fair"
+msgstr "Рівність і справедливість"
+
+msgid "Emperor HeonWon"
+msgstr "Імператор Хенвон"
+
+msgid "Capital of Sky"
+msgstr "Небесна столиця"
+
+msgid "Chief of Farming"
+msgstr "Начальник полів"
+
+msgid "Officer of Tomb"
+msgstr "Наглядач за гробницею"
+
+msgid "Tomb of Sky"
+msgstr "Небесна гробниця"
+
+msgid "Wing of Red Bird"
+msgstr "Крило червоного птаха"
+
+msgid "Eastern Pottery"
+msgstr "Східна гончарня"
+
+msgid "Chariot of Emperor"
+msgstr "Колісниця імператора"
+
+msgid "Sand for Life"
+msgstr "Пісок життя"
+
+msgid "Gateway for Troops"
+msgstr "Ворота військ"
+
+msgid "Guardian Knight"
+msgstr "Гвардієць"
+
+msgid "Five Feudal Lords"
+msgstr "П’ять місцевих князів"
+
+msgid "SangJiin"
+msgstr "Санджин"
+
+msgid "Low Fence"
+msgstr "Низька огорожа"
+
+msgid "Tall Fence"
+msgstr "Висока огорожа"
+
+msgid "Nine Lords"
+msgstr "Дев’ять князів"
+
+msgid "Dung of Tiger"
+msgstr "Лайно тигра"
+
+msgid "Five Emperor"
+msgstr "П’ятий імператор"
+
+msgid "Three Minister"
+msgstr "Третій міністр"
+
+msgid "Officer for Audience"
+msgstr "Мажордом"
+
+msgid "Grave Front"
+msgstr "Передня частина гробниці"
+
+msgid "Observatory"
+msgstr "Обсерваторія"
+
+msgid "Female Officer"
+msgstr "Жінка-наглядач"
+
+msgid "Wide Lodging Area"
+msgstr "Довге житло"
+
+msgid "Eight Cereals"
+msgstr "Вісім злаків"
+
+msgid "Advance Guard"
+msgstr "Авангард"
+
+msgid "Three Ministers"
+msgstr "Три міністри"
+
+msgid "Virtue"
+msgstr "Чеснота"
+
+msgid "Emperor's God of War"
+msgstr "Бог війни імператора"
+
+msgid "Emperor's God of Weather"
+msgstr "Бог погоди імператора"
+
+msgid "Flap of Flag"
+msgstr "Вигин прапора"
+
+msgid "Minister"
+msgstr "Міністр"
+
+msgid "General and Minister"
+msgstr "Генерал і міністр"
+
+msgid "Jail of Sky"
+msgstr "Небесна тюрма"
+
+msgid "Six Department"
+msgstr "Шостий відділ"
+
+msgid "Inner Stairway"
+msgstr "Внутрішні сходи"
+
+msgid "Spear of Sky"
+msgstr "Небесний спис"
+
+msgid "Cover for Emperor"
+msgstr "Навіс для імператора"
+
+msgid "Place for Five Emperor"
+msgstr "Місце для п’ятого імператора"
+
+msgid "60 Years"
+msgstr "60 років"
+
+msgid "Kitchen of Sky"
+msgstr "Кухня неба"
+
+msgid "North Pole"
+msgstr "Північний полюс"
+
+msgid "Wound Lodge"
+msgstr "Лазарет"
+
+msgid "Single-log Bridge"
+msgstr "Міст з колоди"
+
+msgid "Great Emperor"
+msgstr "Великий імператор"
+
+msgid "Officer for Opinion"
+msgstr "Радник"
+
+msgid "Pillar of Sky"
+msgstr "Небесна колона"
+
+msgid "Secretary"
+msgstr "Секретар"
+
+msgid "Maid"
+msgstr "Служниця"
+
+msgid "Desk of Woman"
+msgstr "Стіл жінки"
+
+msgid "Judge Prison"
+msgstr "Судова тюрма"
+
+msgid "Purple Fence"
+msgstr "Пурпурова огорожа"
+
+msgid "Order of Sky"
+msgstr "Порядок неба"
+
+msgid "Seven Minister"
+msgstr "Сьомий міністр"
+
+msgid "Thread Straw"
+msgstr "Соломинка"
+
+msgid "Market Fence"
+msgstr "Огорожа ринку"
+
+msgid "Feudal Lord"
+msgstr "Місцевий князь"
+
+msgid "Seat for Emperor"
+msgstr "Місце імператора"
+
+msgid "Royal Family"
+msgstr "Королівська родина"
+
+msgid "Head of Family"
+msgstr "Голова родини"
+
+msgid "Record of Family"
+msgstr "Запис родини"
+
+msgid "Officer for Family"
+msgstr "Наглядач за родиною"
+
+msgid "Tower in Market"
+msgstr "Вежа на ринку"
+
+msgid "Measure Cereal"
+msgstr "Мірило для зерна"
+
+msgid "Cereal Measure Regulation"
+msgstr "Правило мірила для зерна"
+
+msgid "Officer for Chariots"
+msgstr "Наглядач за колісницями"
+
+msgid "Measure Amount"
+msgstr "Мірило"
+
+msgid "Butchery"
+msgstr "Бійня"
+
+msgid "Officer for Jewel"
+msgstr "Наглядач за коштовностями"
+
+msgid "Royal"
+msgstr "Член королівської родини"
+
+msgid "Lord"
+msgstr "Князь"
+
+msgid "Left Executor"
+msgstr "Лівий палач"
+
+msgid "Right Executor"
+msgstr "Правий палач"
+
+msgid "Crossbeam for Heo"
+msgstr "Поручень"
+
+msgid "Threading Coins"
+msgstr "Потік монет"
+
+msgid "SangSang"
+msgstr "Санг Санг"
+
+msgid "ChaSang"
+msgstr "Ча Санг"
+
+msgid "ChaJang"
+msgstr "Ча Чжанг"
+
+msgid "UJangGun"
+msgstr "У Чанг Гун"
+
+msgid "DaeJangGun"
+msgstr "Дай Чжанг Гун"
+
+msgid "JwaJangGun"
+msgstr "Жва Чжанг Гун"
+
+msgid "WangRang"
+msgstr "Ванг Ранг"
+
+msgid "CheonSa"
+msgstr "Чон Са"
+
+msgid "CheonGou"
+msgstr "Чеон Гу"
+
+msgid "SaGong"
+msgstr "Са Гонг"
+
+msgid "CheonOk"
+msgstr "Чон Ок"
+
+msgid "CheonChang"
+msgstr "Чон Чанг"
+
+msgid "Gyeong"
+msgstr "Чхеон"
+
+msgid "HuJangGun"
+msgstr "Ху Чжанг Гун"
+
+msgid "PyeonJangGun"
+msgstr "Пхен Чжанг Гун"
+
+msgid "SamJangGun"
+msgstr "Сам Чжанг Гун"
+
+msgid "TaeSa"
+msgstr "Тай Са"
+
+msgid "BakSa"
+msgstr "Бак Са"
+
+msgid "SamGong"
+msgstr "Сам Гонг"
+
+msgid "JaeUu"
+msgstr "Чжей У"
+
+msgid "JaeSa"
+msgstr "Чжай Са"
+
+msgid "YeoJu"
+msgstr "Є Чжу"
+
+msgid "YeoEo"
+msgstr "Єо Ео"
+
+msgid "TaeMin"
+msgstr "Тей Мін"
+
+msgid "SouMin"
+msgstr "Соу Мін"
+
+msgid "Buin"
+msgstr "Буїн"
+
+msgid "WangBi"
+msgstr "Ванг Бі"
+
+msgid "HuGung"
+msgstr "Ху Гунг"
+
+msgid "HwangJae"
+msgstr "Хван Чжей"
+
+msgid "CheoSa"
+msgstr "Че Са"
+
+msgid "EuiSa"
+msgstr "Еуй Са"
+
+msgid "DaeBu"
+msgstr "Дай Бу"
+
+msgid "SangTae"
+msgstr "Санг Тай"
+
+msgid "JungTae"
+msgstr "Чжунг Тай"
+
+msgid "HaTae"
+msgstr "Ха Тай"
+
+msgid "TaeJa"
+msgstr "Тай Чжа"
+
+msgid "JaeWang"
+msgstr "Чжай Ванг"
+
+msgid "SeoJa"
+msgstr "Сео Чжа"
+
+msgid "CheonChu"
+msgstr "Чхон Чу"
+
+msgid "SangJang"
+msgstr "Санг Чжанг"
+
+msgid "TaeSang"
+msgstr "Тай Санг"
+
+msgid "SaJu.DaeRi"
+msgstr "Са Чжу Дай Рі"
+
+msgid "Jeong"
+msgstr "Чжеон"
+
+msgid "Beop"
+msgstr "Беоп"
+
+msgid "Ryeong"
+msgstr "Рьон"
+
+msgid "Beol"
+msgstr "Беол"
+
+msgid "Sal"
+msgstr "Сал"
+
+msgid "Wi"
+msgstr "Ві"
+
+msgid "Eung"
+msgstr "Еунг"
+
+msgid "MyeongDang"
+msgstr "Мйонг Данг"
+
+msgid "Hu"
+msgstr "Ху"
+
+msgid "Bin"
+msgstr "Бін"
+
+msgid "DaeJang"
+msgstr "Дай Чжанг"

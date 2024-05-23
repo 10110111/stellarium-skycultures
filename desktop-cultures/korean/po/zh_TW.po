@@ -1,0 +1,1016 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: freemanli <freeman.tam@gmail.com>, 2023\n"
+"Language-Team: Chinese (Taiwan) (https://app.transifex.com/stellarium/"
+"teams/80998/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "朝鮮"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Chinese, Korean, and Japanese constellations have the same origin and "
+"look very similar in shape. They are represented respectively in the Dun "
+"Huang starmap from the 8th century, the Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do map "
+"and in the Kitora skymap painted in A.D.7C ~ 8C. Their positions and their "
+"names are similar in the Chinese alphabet. The name of the constellations "
+"first appear in the Records of the Grand Historian(史記) in Han dynasty "
+"describing Xia dynasty in about 2000 B.C."
+msgstr ""
+"中國、朝鮮半島和日本的星座具有相同的起源，看起來形狀非常相似。它們的代表：中"
+"國的8世紀的*敦煌星圖*，韓國的*天象列次分野之圖*以及日本的7-8世紀繪製的*飛鳥古"
+"墳星圖*。 它們的位置和漢字名字都是相似的。這些星座的名稱首先出現在漢代的*史記"
+"*中，描述了西元前2000年左右的夏朝。"
+
+# Sky culture description section in markdown format
+msgid ""
+"### Origin\n"
+"\n"
+"The 272 constellations displayed in this Stellarium sky culture are based on "
+"the Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do, the Korean Constellation map, which "
+"was carved on the stone on 1395 but has its origin from another sky map "
+"which existed about 2,000 years ago. This map represents 1467 stars in about "
+"190 constellations whose shapes are slightly different from the chinese "
+"ones. The interpretation of the map is not easy: the map is so old that only "
+"about 300 stars are found to match with the real stars. All the stars of the "
+"map were drawn on a circle, so the equator seems smaller than the southern "
+"limit. Because the density of constellation does not change with respect to "
+"the position, the position and the size of the constellations were somewhat "
+"altered in a way unknown by the author. It is assumed that there should be "
+"no bright stars which do not belong to any constellations. The work of the "
+"author is subject to interpretation, and could be changed at a later time. "
+"It will however roughly show what the Korean Constellation are like."
+msgstr ""
+"### 起源\n"
+"\n"
+"Stellarium星空文化中的272個星座基於韓國的*天象列次分野之圖*，該圖於1395年刻在"
+"石頭上，但源於另一個大約在2000年前就存在的星圖。這張星圖代表了大約190個星座中"
+"的1467顆恒星，其形狀與中國略有不同。對星圖的解釋並不容易：星圖太古老了，只發"
+"現大約300顆恒星與真正的恒星相匹配。星圖上的所有恒星都畫在一個圓圈上，因此看上"
+"去赤道小於南極界限。由於星座的密度相對於位置沒有變化，因此星座的位置和大小在"
+"某種程度上以作者未知的方式改變（或許並沒有用到任何投影方式）。stellarium的朝"
+"鮮星圖建立在假設不應存在不屬於任何星座的明亮恒星的基礎上。作者的工作需要解"
+"釋，並可在以後更改。然而，它起碼粗略地展示了朝鮮星座的樣子。"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+msgstr ""
+" - [#1]: [天象列次分野之圖](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *[Jeong, Tae-Min](http://"
+"user.chollian.net/~jtm71/)*"
+msgstr ""
+"此星空文化來自 *[Jeong, Tae-Min](http://user.chollian.net/~jtm71/)*\n"
+"\n"
+"翻譯：Sun Shuwei"
+
+msgid "Dog"
+msgstr "狗"
+
+msgid "Arrow"
+msgstr "天矢"
+
+msgid "Bow"
+msgstr "弧"
+
+msgid "Fish"
+msgstr "魚"
+
+msgid "Northern Dipper"
+msgstr "北斗"
+
+msgid "Toilet"
+msgstr "廁"
+
+msgid "Whip"
+msgstr "策"
+
+msgid "Mausoleum"
+msgstr "大陵"
+
+msgid "Mortar"
+msgstr "臼"
+
+msgid "Rolled Tongue"
+msgstr "卷舌"
+
+msgid "Chaff"
+msgstr "糠"
+
+msgid "Whetstone"
+msgstr "礪石"
+
+msgid "Inner Kitchen"
+msgstr "內廚"
+
+msgid "Three Steps"
+msgstr "三台"
+
+msgid "Eunuch"
+msgstr "勢"
+
+msgid "Crown Prince"
+msgstr "太子"
+
+msgid "Official for Materials Supply"
+msgstr "土公吏"
+
+msgid "Outer Kitchen"
+msgstr "外廚"
+
+msgid "Five Lords"
+msgstr "五諸侯"
+
+msgid "Right Flag"
+msgstr "右旗"
+
+msgid "Son"
+msgstr "子"
+
+msgid "Left Flag"
+msgstr "左旗"
+
+msgid "Charioteer"
+msgstr "車府"
+
+msgid "Holy Kettle"
+msgstr "周鼎"
+
+msgid "Farm of Capital City"
+msgstr "天田"
+
+msgid "Dignity of King"
+msgstr "角宿"
+
+msgid "Nomination"
+msgstr "進賢"
+
+msgid "Gate of Sky"
+msgstr "天門"
+
+msgid "Equality"
+msgstr "平"
+
+msgid "Helper"
+msgstr "攝提"
+
+msgid "Position of Holy King"
+msgstr "大角"
+
+msgid "Neck of Dragon"
+msgstr "亢宿"
+
+msgid "Beheading"
+msgstr "折威"
+
+msgid "Judge"
+msgstr "頓頑"
+
+msgid "Flutting Flag"
+msgstr "招搖"
+
+msgid "Javelin of Sky"
+msgstr "梗河"
+
+msgid "Seat for Longevity"
+msgstr "帝席"
+
+msgid "Oar for visitor"
+msgstr "亢池"
+
+msgid "Milk of Sky"
+msgstr "天乳"
+
+msgid "House of Queen"
+msgstr "氐宿"
+
+msgid "Ancient Chariot"
+msgstr "陣車"
+
+msgid "Carriage for King"
+msgstr "天輻"
+
+msgid "General of Cavalry"
+msgstr "騎陣將軍"
+
+msgid "Cavalry of Emperor"
+msgstr "騎官"
+
+msgid "General of Mobile Troops"
+msgstr "車騎"
+
+msgid "East Road"
+msgstr "東咸"
+
+msgid "Gate Bolt"
+msgstr "鍵閉"
+
+msgid "Door Lock and Key"
+msgstr "鉤鈐"
+
+msgid "Penalty"
+msgstr "罰"
+
+msgid "Royal Hall"
+msgstr "房宿"
+
+msgid "Chamberlain"
+msgstr "從官"
+
+msgid "Sun"
+msgstr "太陽"
+
+msgid "West Road"
+msgstr "西咸"
+
+msgid "Seat of Emperor"
+msgstr "心宿"
+
+msgid "Five Troops"
+msgstr "積卒"
+
+msgid "River of Sky"
+msgstr "天江"
+
+msgid "Prayer for Progeny"
+msgstr "傅說"
+
+msgid "Forcast"
+msgstr "龜"
+
+msgid "Yard for Empresses"
+msgstr "尾宿"
+
+msgid "Holy Palace"
+msgstr "神宮"
+
+msgid "Winnow"
+msgstr "箕宿"
+
+msgid "Outer Pestle"
+msgstr "外杵"
+
+msgid "Head of Town"
+msgstr "天弁"
+
+msgid "Build"
+msgstr "立"
+
+msgid "Fowl of Sky"
+msgstr "天雞"
+
+msgid "Shrine of Sky"
+msgstr "斗宿"
+
+msgid "Northeastern Nations"
+msgstr "狗國"
+
+msgid "Old Farmer"
+msgstr "農丈人"
+
+msgid "Snapping Turtle"
+msgstr "鼈"
+
+msgid "Road for Emperor"
+msgstr "輦道"
+
+msgid "The Weaver"
+msgstr "織女"
+
+msgid "River adjoining Tower"
+msgstr "漸臺"
+
+msgid "Drum of River"
+msgstr "河鼓"
+
+msgid "Drumstick of Sky"
+msgstr "天桴"
+
+msgid "Cow leading Man"
+msgstr "牽牛"
+
+msgid "Bank Spread"
+msgstr "羅堰"
+
+msgid "Basket for Silkworm"
+msgstr "扶筐"
+
+msgid "Officer for Cart"
+msgstr "奚仲"
+
+msgid "Ferry of Sky"
+msgstr "天津"
+
+msgid "Fruit"
+msgstr "瓠瓜"
+
+msgid "Seed"
+msgstr "敗瓜"
+
+msgid "Storage for Lady"
+msgstr "離珠"
+
+msgid "Court Lady"
+msgstr "須女"
+
+msgid "Judge Fault"
+msgstr "司非"
+
+msgid "Amend Fault"
+msgstr "司危"
+
+msgid "Grant Life"
+msgstr "司祿"
+
+msgid "Punish"
+msgstr "司命"
+
+msgid "Empty House"
+msgstr "虛宿"
+
+msgid "Weep"
+msgstr "哭"
+
+msgid "Sob"
+msgstr "泣"
+
+msgid "Castle with Rampart"
+msgstr "天壘城"
+
+msgid "Hook for Dress"
+msgstr "臼"
+
+msgid "Groom"
+msgstr "造父"
+
+msgid "Human"
+msgstr "人星"
+
+msgid "Inner Pestle"
+msgstr "內杵"
+
+msgid "Warehouse of Sky"
+msgstr "危宿"
+
+msgid "Tomb"
+msgstr "墳墓"
+
+msgid "Cover of House"
+msgstr "蓋屋"
+
+msgid "Broken Mortar"
+msgstr "敗臼"
+
+msgid "Climbing Serpent"
+msgstr "螣蛇"
+
+msgid "Palace of Emperor"
+msgstr "室宿"
+
+msgid "Detached Palace"
+msgstr "離宮"
+
+msgid "Lightening"
+msgstr "雷電"
+
+msgid "Rampart"
+msgstr "壘壁陣"
+
+msgid "Troops of Sky"
+msgstr "羽林軍"
+
+msgid "Village for Patrol"
+msgstr "北落師門"
+
+msgid "Net of Sky"
+msgstr "天綱"
+
+msgid "Stable of Sky"
+msgstr "天廄"
+
+msgid "Eastern Wall"
+msgstr "東壁"
+
+msgid "Civil Engineer"
+msgstr "土公"
+
+msgid "Thunderbolts"
+msgstr "霹靂"
+
+msgid "Clouds and Rain"
+msgstr "雲雨"
+
+msgid "Highway"
+msgstr "閣道"
+
+msgid "Officer for Chariot of"
+msgstr "王郞"
+
+msgid "Side Road"
+msgstr "附路"
+
+msgid "Armory"
+msgstr "奎宿"
+
+msgid "Southern Gate of Emperator"
+msgstr "軍南門"
+
+msgid "Outer Folding Screen"
+msgstr "外屏"
+
+msgid "Toilet of Sky"
+msgstr "天溷"
+
+msgid "Architect"
+msgstr "司空"
+
+msgid "Emperator"
+msgstr "天將軍"
+
+msgid "Watchtower"
+msgstr "婁宿"
+
+msgid "Left Elm"
+msgstr "左更"
+
+msgid "Right Elm"
+msgstr "右更"
+
+msgid "Storehouse of Sky"
+msgstr "天倉"
+
+msgid "Stack of Cereals"
+msgstr "天庾"
+
+msgid "Ship of Sky"
+msgstr "天船"
+
+msgid "Store of Water"
+msgstr "積水"
+
+msgid "Heap of Corpse"
+msgstr "積尸"
+
+msgid "Stomach of Tiger"
+msgstr "胃宿"
+
+msgid "Store of Millet for"
+msgstr "天廩"
+
+msgid "Storehouse for Cereals"
+msgstr "天囷"
+
+msgid "Shaman of Sky"
+msgstr "天讒"
+
+msgid "Ear and Eye of"
+msgstr "昴宿"
+
+msgid "Moon"
+msgstr "月球"
+
+msgid "Hill of Sky"
+msgstr "天阿"
+
+msgid "Conspiracy of Sky"
+msgstr "天陰"
+
+msgid "Fodder"
+msgstr "芻蒿"
+
+msgid "Garage for Chariot"
+msgstr "五車"
+
+msgid "Pond for Fish"
+msgstr "咸池"
+
+msgid "Pillar"
+msgstr "柱"
+
+msgid "Puddle of Sky"
+msgstr "天潢"
+
+msgid "Kings"
+msgstr "諸王"
+
+msgid "Gateway of Sky"
+msgstr "天關"
+
+msgid "Flage of Saam"
+msgstr "參旗"
+
+msgid "Village of Sky"
+msgstr "天街"
+
+msgid "Belvedere of Sky"
+msgstr "天高"
+
+msgid "General of Border"
+msgstr "畢宿"
+
+msgid "Celebration of Sky"
+msgstr "天節"
+
+msgid "Flag of Emperor"
+msgstr "九斿"
+
+msgid "Nine Territory"
+msgstr "九州殊口"
+
+msgid "Garden of Sky"
+msgstr "天園"
+
+msgid "Settled Flag"
+msgstr "座旗"
+
+msgid "Forcast Calamity"
+msgstr "司怪"
+
+msgid "Scout of Three Troups"
+msgstr "觜宿"
+
+msgid "Saam"
+msgstr "參宿"
+
+msgid "Expeditionary Force"
+msgstr "伐"
+
+msgid "Well for Millitary"
+msgstr "軍井"
+
+msgid "Well of Jade"
+msgstr "玉井"
+
+msgid "Folding Screen"
+msgstr "屏"
+
+msgid "Piled Brushwood"
+msgstr "積薪"
+
+msgid "Northern River"
+msgstr "北河"
+
+msgid "Wine Glass of Sky"
+msgstr "天樽"
+
+msgid "Eastern Well"
+msgstr "東井"
+
+msgid "Flood control"
+msgstr "水府"
+
+msgid "Balance of Water"
+msgstr "水位"
+
+msgid "Four Spirit of River"
+msgstr "四瀆"
+
+msgid "Southern River"
+msgstr "南河"
+
+msgid "Twin Gate"
+msgstr "闕丘"
+
+msgid "Star of Wolf"
+msgstr "狼星"
+
+msgid "Wild Fowls"
+msgstr "野鷄"
+
+msgid "Market for Army"
+msgstr "軍市"
+
+msgid "Grandchildren"
+msgstr "孫"
+
+msgid "Grown-up"
+msgstr "丈人"
+
+msgid "Oldman"
+msgstr "老人"
+
+msgid "Beacon"
+msgstr "爟"
+
+msgid "Eye of Sky"
+msgstr "鬼宿"
+
+msgid "Pile of Dead"
+msgstr "積尸"
+
+msgid "Green Ridge"
+msgstr "靑丘"
+
+msgid "Dog of Sky"
+msgstr "天狗"
+
+msgid "Spirit of GuRyoung"
+msgstr "天社"
+
+msgid "Flag of Wine Officer"
+msgstr "酒旗"
+
+msgid "Officer of Kitchen"
+msgstr "柳宿"
+
+msgid "Equality and Fair"
+msgstr "內平"
+
+msgid "Emperor HeonWon"
+msgstr "軒轅"
+
+msgid "Capital of Sky"
+msgstr "星宿"
+
+msgid "Chief of Farming"
+msgstr "稷"
+
+msgid "Officer of Tomb"
+msgstr "張宿"
+
+msgid "Tomb of Sky"
+msgstr "天廟"
+
+msgid "Wing of Red Bird"
+msgstr "翼宿"
+
+msgid "Eastern Pottery"
+msgstr "東甌"
+
+msgid "Chariot of Emperor"
+msgstr "軫宿"
+
+msgid "Sand for Life"
+msgstr "長沙"
+
+msgid "Gateway for Troops"
+msgstr "軍門"
+
+msgid "Guardian Knight"
+msgstr "郞將"
+
+msgid "Five Feudal Lords"
+msgstr "五諸侯"
+
+msgid "SangJiin"
+msgstr "常陳"
+
+msgid "Low Fence"
+msgstr "少微"
+
+msgid "Tall Fence"
+msgstr "太微垣"
+
+msgid "Nine Lords"
+msgstr "九卿"
+
+msgid "Dung of Tiger"
+msgstr "虎賁"
+
+msgid "Five Emperor"
+msgstr "五帝座"
+
+msgid "Three Minister"
+msgstr "三公"
+
+msgid "Officer for Audience"
+msgstr "謁者"
+
+msgid "Grave Front"
+msgstr "明堂"
+
+msgid "Observatory"
+msgstr "靈臺"
+
+msgid "Female Officer"
+msgstr "女御"
+
+msgid "Wide Lodging Area"
+msgstr "傳舍"
+
+msgid "Eight Cereals"
+msgstr "八穀"
+
+msgid "Advance Guard"
+msgstr "天棓"
+
+msgid "Three Ministers"
+msgstr "三公"
+
+msgid "Virtue"
+msgstr "陰德"
+
+msgid "Emperor's God of War"
+msgstr "天一"
+
+msgid "Emperor's God of Weather"
+msgstr "太一"
+
+msgid "Flap of Flag"
+msgstr "玄戈"
+
+msgid "Minister"
+msgstr "相"
+
+msgid "General and Minister"
+msgstr "太陽守"
+
+msgid "Jail of Sky"
+msgstr "天理"
+
+msgid "Six Department"
+msgstr "文昌"
+
+msgid "Inner Stairway"
+msgstr "內階"
+
+msgid "Spear of Sky"
+msgstr "天槍"
+
+msgid "Cover for Emperor"
+msgstr "華蓋"
+
+msgid "Place for Five Emperor"
+msgstr "五帝内座"
+
+msgid "60 Years"
+msgstr "六甲"
+
+msgid "Kitchen of Sky"
+msgstr "天廚"
+
+msgid "North Pole"
+msgstr "北極"
+
+msgid "Wound Lodge"
+msgstr "勾陳"
+
+msgid "Single-log Bridge"
+msgstr "杠"
+
+msgid "Great Emperor"
+msgstr "天皇"
+
+msgid "Officer for Opinion"
+msgstr "尙書"
+
+msgid "Pillar of Sky"
+msgstr "天柱"
+
+msgid "Secretary"
+msgstr "柱下史"
+
+msgid "Maid"
+msgstr "女史"
+
+msgid "Desk of Woman"
+msgstr "女床"
+
+msgid "Judge Prison"
+msgstr "天理"
+
+msgid "Purple Fence"
+msgstr "紫微垣"
+
+msgid "Order of Sky"
+msgstr "天紀"
+
+msgid "Seven Minister"
+msgstr "七公"
+
+msgid "Thread Straw"
+msgstr "貫索"
+
+msgid "Market Fence"
+msgstr "天市垣"
+
+msgid "Feudal Lord"
+msgstr "侯"
+
+msgid "Seat for Emperor"
+msgstr "帝座"
+
+msgid "Royal Family"
+msgstr "宗星"
+
+msgid "Head of Family"
+msgstr "宗正"
+
+msgid "Record of Family"
+msgstr "宗人"
+
+msgid "Officer for Family"
+msgstr "宗大夫"
+
+msgid "Tower in Market"
+msgstr "市樓"
+
+msgid "Measure Cereal"
+msgstr "斛"
+
+msgid "Cereal Measure Regulation"
+msgstr "斗宿"
+
+msgid "Officer for Chariots"
+msgstr "車肆"
+
+msgid "Measure Amount"
+msgstr "帛度"
+
+msgid "Butchery"
+msgstr "屠肆"
+
+msgid "Officer for Jewel"
+msgstr "列肆"
+
+msgid "Royal"
+msgstr "左轄"
+
+msgid "Lord"
+msgstr "右轄"
+
+msgid "Left Executor"
+msgstr "左執法"
+
+msgid "Right Executor"
+msgstr "右執法"
+
+msgid "Crossbeam for Heo"
+msgstr "虛梁"
+
+msgid "Threading Coins"
+msgstr "天錢"
+
+msgid "SangSang"
+msgstr "想像"
+
+msgid "ChaSang"
+msgstr "次"
+
+msgid "ChaJang"
+msgstr "次長"
+
+msgid "UJangGun"
+msgstr "吳將軍"
+
+msgid "DaeJangGun"
+msgstr "大將軍"
+
+msgid "JwaJangGun"
+msgstr "左將軍"
+
+msgid "WangRang"
+msgstr "王郎"
+
+msgid "CheonSa"
+msgstr "天使"
+
+msgid "CheonGou"
+msgstr "千古"
+
+msgid "SaGong"
+msgstr "司空"
+
+msgid "CheonOk"
+msgstr "天險"
+
+msgid "CheonChang"
+msgstr "天井"
+
+msgid "Gyeong"
+msgstr "經"
+
+msgid "HuJangGun"
+msgstr "後將軍"
+
+msgid "PyeonJangGun"
+msgstr "偏將軍"
+
+msgid "SamJangGun"
+msgstr "叄將軍"
+
+msgid "TaeSa"
+msgstr "太師"
+
+msgid "BakSa"
+msgstr "博士"
+
+msgid "SamGong"
+msgstr "三公"
+
+msgid "JaeUu"
+msgstr "載宇"
+
+msgid "JaeSa"
+msgstr "能人"
+
+msgid "YeoJu"
+msgstr "驪州"
+
+msgid "YeoEo"
+msgstr "本庄"
+
+msgid "TaeMin"
+msgstr "泰民"
+
+msgid "SouMin"
+msgstr "小民"
+
+msgid "Buin"
+msgstr "夫人"
+
+msgid "WangBi"
+msgstr "王妃"
+
+msgid "HuGung"
+msgstr "後宮"
+
+msgid "HwangJae"
+msgstr "皇帝"
+
+msgid "CheoSa"
+msgstr "處事"
+
+msgid "EuiSa"
+msgstr "醫生"
+
+msgid "DaeBu"
+msgstr "教父"
+
+msgid "SangTae"
+msgstr "狀態"
+
+msgid "JungTae"
+msgstr "病危"
+
+msgid "HaTae"
+msgstr "哈泰"
+
+msgid "TaeJa"
+msgstr "太子"
+
+msgid "JaeWang"
+msgstr "再王"
+
+msgid "SeoJa"
+msgstr "庶子"
+
+msgid "CheonChu"
+msgstr "千秋"
+
+msgid "SangJang"
+msgstr "上市"
+
+msgid "TaeSang"
+msgstr "太上"
+
+msgid "SaJu.DaeRi"
+msgstr "沙洲代理"
+
+msgid "Jeong"
+msgstr "貞"
+
+msgid "Beop"
+msgstr "法"
+
+msgid "Ryeong"
+msgstr "靈"
+
+msgid "Beol"
+msgstr "罰"
+
+msgid "Sal"
+msgstr "肉"
+
+msgid "Wi"
+msgstr "地方"
+
+msgid "Eung"
+msgstr "應"
+
+msgid "MyeongDang"
+msgstr "明堂"
+
+msgid "Hu"
+msgstr "後"
+
+msgid "Bin"
+msgstr "空"
+
+msgid "DaeJang"
+msgstr "大將"

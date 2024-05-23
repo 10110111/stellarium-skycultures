@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Hungarian (https://app.transifex.com/stellarium/teams/80998/"
+"hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "Kutya"
+
+msgid "Arrow"
+msgstr "Nyíl"
+
+msgid "Bow"
+msgstr "Íj"
+
+msgid "Fish"
+msgstr "Hal"
+
+msgid "Northern Dipper"
+msgstr "Északi Merítő"
+
+msgid "Toilet"
+msgstr "Illemhely"
+
+msgid "Whip"
+msgstr "Ostor"
+
+msgid "Mausoleum"
+msgstr "Mauzóleum"
+
+msgid "Mortar"
+msgstr "Mozsár"
+
+msgid "Rolled Tongue"
+msgstr "Feltekert Nyelv"
+
+msgid "Chaff"
+msgstr "Szecska"
+
+msgid "Whetstone"
+msgstr "Köszörűkő"
+
+msgid "Inner Kitchen"
+msgstr "Belső konyha"
+
+msgid "Three Steps"
+msgstr "Három Lépcsőfok"
+
+msgid "Eunuch"
+msgstr "Udvari tiszt"
+
+msgid "Crown Prince"
+msgstr "Koronaherceg"
+
+msgid "Official for Materials Supply"
+msgstr "Raktár"
+
+msgid "Outer Kitchen"
+msgstr "Külső konyha"
+
+msgid "Five Lords"
+msgstr "Öt főúr"
+
+msgid "Right Flag"
+msgstr "Jobb Zászló"
+
+msgid "Son"
+msgstr "Fiú"
+
+msgid "Left Flag"
+msgstr "Bal Zászló"
+
+msgid "Charioteer"
+msgstr "Harci szekér hajtó"
+
+msgid "Holy Kettle"
+msgstr "Szentfazék"
+
+msgid "Farm of Capital City"
+msgstr "Fővárosi farm"
+
+msgid "Dignity of King"
+msgstr "Királyi méltóság"
+
+msgid "Nomination"
+msgstr "Jelölés"
+
+msgid "Gate of Sky"
+msgstr "Égi kapu"
+
+msgid "Equality"
+msgstr "Egyenlőség"
+
+msgid "Helper"
+msgstr "Segéd"
+
+msgid "Position of Holy King"
+msgstr "A Szent Király helye"
+
+msgid "Neck of Dragon"
+msgstr "Sárkánnyak"
+
+msgid "Beheading"
+msgstr "Lefejezés"
+
+msgid "Judge"
+msgstr "A bíró"
+
+msgid "Flutting Flag"
+msgstr "Összecsavart zászló"
+
+msgid "Javelin of Sky"
+msgstr "Égi gerely"
+
+msgid "Seat for Longevity"
+msgstr "Az örök élet páholya"
+
+msgid "Oar for visitor"
+msgstr "Vándorevező"
+
+msgid "Milk of Sky"
+msgstr "Tejút"
+
+msgid "House of Queen"
+msgstr "A királyné háza"
+
+msgid "Ancient Chariot"
+msgstr "Ősi szekér"
+
+msgid "Carriage for King"
+msgstr "Királyi hintó"
+
+msgid "General of Cavalry"
+msgstr "Lovassági tábornok"
+
+msgid "Cavalry of Emperor"
+msgstr "A császár lovassága"
+
+msgid "General of Mobile Troops"
+msgstr "Gyalogos-hadosztály parancsnok"
+
+msgid "East Road"
+msgstr "Keleti út"
+
+msgid "Gate Bolt"
+msgstr "Villámkapu"
+
+msgid "Door Lock and Key"
+msgstr "Zár és a kulcs"
+
+msgid "Penalty"
+msgstr "Büntetés"
+
+msgid "Royal Hall"
+msgstr "Trónterem"
+
+msgid "Chamberlain"
+msgstr "Kamarás"
+
+msgid "Sun"
+msgstr "Nap"
+
+msgid "West Road"
+msgstr "Nyugati út"
+
+msgid "Seat of Emperor"
+msgstr "Császári trón"
+
+msgid "Five Troops"
+msgstr "Öt gyalogos"
+
+msgid "River of Sky"
+msgstr "Égi folyó"
+
+msgid "Prayer for Progeny"
+msgstr "Ima az utódokért"
+
+msgid "Forcast"
+msgstr "Jóslat"
+
+msgid "Yard for Empresses"
+msgstr "Császárnő udvara"
+
+msgid "Holy Palace"
+msgstr "Szent palota"
+
+msgid "Winnow"
+msgstr "Rosta"
+
+msgid "Outer Pestle"
+msgstr "Külső mozsár"
+
+msgid "Head of Town"
+msgstr "Városvezető"
+
+msgid "Build"
+msgstr "Szerkesztés"
+
+msgid "Fowl of Sky"
+msgstr "Égi szárnyas"
+
+msgid "Shrine of Sky"
+msgstr "Égi szentély"
+
+msgid "Northeastern Nations"
+msgstr "Észak-keleti nemzetek"
+
+msgid "Old Farmer"
+msgstr "Vén paraszt"
+
+msgid "Snapping Turtle"
+msgstr "Csattogó teknős"
+
+msgid "Road for Emperor"
+msgstr "Császári út"
+
+msgid "The Weaver"
+msgstr "A takács"
+
+msgid "River adjoining Tower"
+msgstr "Torony a folyó közepében"
+
+msgid "Drum of River"
+msgstr "Folyó morajlása"
+
+msgid "Drumstick of Sky"
+msgstr "Égi dobverő"
+
+msgid "Cow leading Man"
+msgstr "Pásztor"
+
+msgid "Bank Spread"
+msgstr "Széles part"
+
+msgid "Basket for Silkworm"
+msgstr "Selyemhernyó kosara"
+
+msgid "Officer for Cart"
+msgstr "Kocsis"
+
+msgid "Ferry of Sky"
+msgstr "Égi révész"
+
+msgid "Fruit"
+msgstr "Gyümölcs"
+
+msgid "Seed"
+msgstr "Mag"
+
+msgid "Storage for Lady"
+msgstr "Hölgy rejtekhelye"
+
+msgid "Court Lady"
+msgstr "Udvarhölgy"
+
+msgid "Judge Fault"
+msgstr "Bírói tévedés"
+
+msgid "Amend Fault"
+msgstr "A helyreigazítás"
+
+msgid "Grant Life"
+msgstr "Ajándékélet"
+
+msgid "Punish"
+msgstr "Büntetés"
+
+msgid "Empty House"
+msgstr "Az üres ház"
+
+msgid "Weep"
+msgstr "Könny"
+
+msgid "Sob"
+msgstr "Zokogás"
+
+msgid "Castle with Rampart"
+msgstr "Kastély sánccal"
+
+msgid "Hook for Dress"
+msgstr "Akasztó"
+
+msgid "Groom"
+msgstr "Lovász"
+
+msgid "Human"
+msgstr "Ember"
+
+msgid "Inner Pestle"
+msgstr "Belső mozsár"
+
+msgid "Warehouse of Sky"
+msgstr "Égi raktár"
+
+msgid "Tomb"
+msgstr "Sír"
+
+msgid "Cover of House"
+msgstr "Háztető"
+
+msgid "Broken Mortar"
+msgstr "Törött mozsár"
+
+msgid "Climbing Serpent"
+msgstr "Vándorkígyó"
+
+msgid "Palace of Emperor"
+msgstr "Császári palota"
+
+msgid "Detached Palace"
+msgstr "Különálló palota"
+
+msgid "Lightening"
+msgstr "Villámlás"
+
+msgid "Rampart"
+msgstr "Sánc"
+
+msgid "Troops of Sky"
+msgstr "Égi gyalogosok"
+
+msgid "Village for Patrol"
+msgstr "Falusi járőr"
+
+msgid "Net of Sky"
+msgstr "Égi háló"
+
+msgid "Stable of Sky"
+msgstr "Égi istálló"
+
+msgid "Eastern Wall"
+msgstr "Keleti fal"
+
+msgid "Civil Engineer"
+msgstr "Mérnök"
+
+msgid "Thunderbolts"
+msgstr "Mennydörgés"
+
+msgid "Clouds and Rain"
+msgstr "Esőfelhő"
+
+msgid "Highway"
+msgstr "Út a magasban"
+
+msgid "Officer for Chariot of"
+msgstr "Kocsisa"
+
+msgid "Side Road"
+msgstr "Mellékút"
+
+msgid "Armory"
+msgstr "Fegyvertár"
+
+msgid "Southern Gate of Emperator"
+msgstr "A helytartó déli kapuja"
+
+msgid "Outer Folding Screen"
+msgstr "Külső zsanéros rács"
+
+msgid "Toilet of Sky"
+msgstr "Égi trón"
+
+msgid "Architect"
+msgstr "Építész"
+
+msgid "Emperator"
+msgstr "Uralkodó"
+
+msgid "Watchtower"
+msgstr "Őrtorony"
+
+msgid "Left Elm"
+msgstr "Bal szilfa"
+
+msgid "Right Elm"
+msgstr "Jobb szilfa"
+
+msgid "Storehouse of Sky"
+msgstr "Égi tároló"
+
+msgid "Stack of Cereals"
+msgstr "Gabonaverem"
+
+msgid "Ship of Sky"
+msgstr "Égi hajó"
+
+msgid "Store of Water"
+msgstr "Víztároló"
+
+msgid "Heap of Corpse"
+msgstr "Hullarakás"
+
+msgid "Stomach of Tiger"
+msgstr "Tigrisgyomor"
+
+msgid "Store of Millet for"
+msgstr "kölesraktára"
+
+msgid "Storehouse for Cereals"
+msgstr "Gabonaraktár"
+
+msgid "Shaman of Sky"
+msgstr "Égi sámán"
+
+msgid "Ear and Eye of"
+msgstr "Füle és szeme a"
+
+msgid "Moon"
+msgstr "Hold"
+
+msgid "Hill of Sky"
+msgstr "Égi hegy"
+
+msgid "Conspiracy of Sky"
+msgstr "Égi összeesküvés"
+
+msgid "Fodder"
+msgstr "Répa"
+
+msgid "Garage for Chariot"
+msgstr "Kocsiszín"
+
+msgid "Pond for Fish"
+msgstr "Halastó"
+
+msgid "Pillar"
+msgstr "Oszlop"
+
+msgid "Puddle of Sky"
+msgstr "Égi tócsa"
+
+msgid "Kings"
+msgstr "Királyok"
+
+msgid "Gateway of Sky"
+msgstr "Égi átjáró"
+
+msgid "Flage of Saam"
+msgstr "Saam álcája"
+
+msgid "Village of Sky"
+msgstr "Égi falu"
+
+msgid "Belvedere of Sky"
+msgstr "Égi kilátótorony"
+
+msgid "General of Border"
+msgstr "Határőr tábornok"
+
+msgid "Celebration of Sky"
+msgstr "Az égbolt ünneplése"
+
+msgid "Flag of Emperor"
+msgstr "Császári zászló"
+
+msgid "Nine Territory"
+msgstr "A kilenc vidék"
+
+msgid "Garden of Sky"
+msgstr "Égi kert"
+
+msgid "Settled Flag"
+msgstr "Kitűzött zászló"
+
+msgid "Forcast Calamity"
+msgstr "Baljóslat"
+
+msgid "Scout of Three Troups"
+msgstr "A három katona felderítője"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Haderő"
+
+msgid "Well for Millitary"
+msgstr "Hadsereg erőforrása"
+
+msgid "Well of Jade"
+msgstr "Jáspiskő ereje"
+
+msgid "Folding Screen"
+msgstr "Zsanéros rács"
+
+msgid "Piled Brushwood"
+msgstr "Bozóthalom"
+
+msgid "Northern River"
+msgstr "Északi folyó"
+
+msgid "Wine Glass of Sky"
+msgstr "Égi borospohár"
+
+msgid "Eastern Well"
+msgstr "Keleti forrás"
+
+msgid "Flood control"
+msgstr "Árvízvédelem"
+
+msgid "Balance of Water"
+msgstr "Vízi egyensúly"
+
+msgid "Four Spirit of River"
+msgstr "A folyó négy szelleme"
+
+msgid "Southern River"
+msgstr "Déli folyó"
+
+msgid "Twin Gate"
+msgstr "Dupla kapu"
+
+msgid "Star of Wolf"
+msgstr "Farkascsillag"
+
+msgid "Wild Fowls"
+msgstr "Vad szárnyas"
+
+msgid "Market for Army"
+msgstr "Hadipiac"
+
+msgid "Grandchildren"
+msgstr "Unokák"
+
+msgid "Grown-up"
+msgstr "Felnövés"
+
+msgid "Oldman"
+msgstr "Vénember"
+
+msgid "Beacon"
+msgstr "Jelzőfény"
+
+msgid "Eye of Sky"
+msgstr "Égi szem"
+
+msgid "Pile of Dead"
+msgstr "Hullarakás"
+
+msgid "Green Ridge"
+msgstr "Zöld párkány"
+
+msgid "Dog of Sky"
+msgstr "Égi kutya"
+
+msgid "Spirit of GuRyoung"
+msgstr "GuRyoung szelleme"
+
+msgid "Flag of Wine Officer"
+msgstr "Borlovagi zászló"
+
+msgid "Officer of Kitchen"
+msgstr "Konyhafőnök"
+
+msgid "Equality and Fair"
+msgstr "Egyenlőség és becsület"
+
+msgid "Emperor HeonWon"
+msgstr "HeonWon császár"
+
+msgid "Capital of Sky"
+msgstr "Égi főváros"
+
+msgid "Chief of Farming"
+msgstr "Parasztvezér"
+
+msgid "Officer of Tomb"
+msgstr "Sírőr"
+
+msgid "Tomb of Sky"
+msgstr "Égi sír"
+
+msgid "Wing of Red Bird"
+msgstr "A vörös madár szárnya"
+
+msgid "Eastern Pottery"
+msgstr "Keleti kerámia"
+
+msgid "Chariot of Emperor"
+msgstr "Császári hintó"
+
+msgid "Sand for Life"
+msgstr "Élet homokja"
+
+msgid "Gateway for Troops"
+msgstr "Átkelő a gyalogosoknak"
+
+msgid "Guardian Knight"
+msgstr "Védlovag"
+
+msgid "Five Feudal Lords"
+msgstr "Öt hűbérúr"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Alacsony kerítés"
+
+msgid "Tall Fence"
+msgstr "Magas kerítés"
+
+msgid "Nine Lords"
+msgstr "Kilenc főúr"
+
+msgid "Dung of Tiger"
+msgstr "Tigrisürülék"
+
+msgid "Five Emperor"
+msgstr "Öt császár"
+
+msgid "Three Minister"
+msgstr "Három miniszter"
+
+msgid "Officer for Audience"
+msgstr "Kihallgató"
+
+msgid "Grave Front"
+msgstr "Sírfa"
+
+msgid "Observatory"
+msgstr "Megfigyelőhely"
+
+msgid "Female Officer"
+msgstr "Női tanácsadó"
+
+msgid "Wide Lodging Area"
+msgstr "Nagy lakóterület"
+
+msgid "Eight Cereals"
+msgstr "Nyolc gabonafajta"
+
+msgid "Advance Guard"
+msgstr "Előretólt védelem"
+
+msgid "Three Ministers"
+msgstr "Három miniszter"
+
+msgid "Virtue"
+msgstr "Erény"
+
+msgid "Emperor's God of War"
+msgstr "Császári hadisten"
+
+msgid "Emperor's God of Weather"
+msgstr "Császári vízisten"
+
+msgid "Flap of Flag"
+msgstr "Zászlócsapás"
+
+msgid "Minister"
+msgstr "Miniszter"
+
+msgid "General and Minister"
+msgstr "Tábornok és miniszter"
+
+msgid "Jail of Sky"
+msgstr "Égi tömlöc"
+
+msgid "Six Department"
+msgstr "Hat részleg"
+
+msgid "Inner Stairway"
+msgstr "Belső lépcső"
+
+msgid "Spear of Sky"
+msgstr "Égi dárda"
+
+msgid "Cover for Emperor"
+msgstr "Császári palást"
+
+msgid "Place for Five Emperor"
+msgstr "Az öt császár helye"
+
+msgid "60 Years"
+msgstr "60 év"
+
+msgid "Kitchen of Sky"
+msgstr "Égi konyha"
+
+msgid "North Pole"
+msgstr "Északi sark"
+
+msgid "Wound Lodge"
+msgstr "Zárt kunyhó"
+
+msgid "Single-log Bridge"
+msgstr "Rönkhíd"
+
+msgid "Great Emperor"
+msgstr "Nagy császár"
+
+msgid "Officer for Opinion"
+msgstr "Véleményező"
+
+msgid "Pillar of Sky"
+msgstr "Égi pillér"
+
+msgid "Secretary"
+msgstr "Titkárság"
+
+msgid "Maid"
+msgstr "Cseléd"
+
+msgid "Desk of Woman"
+msgstr "Nő asztala"
+
+msgid "Judge Prison"
+msgstr "Börtönbíró"
+
+msgid "Purple Fence"
+msgstr "Rózsaszín sövény"
+
+msgid "Order of Sky"
+msgstr "Égi sorrend"
+
+msgid "Seven Minister"
+msgstr "Hét miniszter"
+
+msgid "Thread Straw"
+msgstr "Szalmaszál"
+
+msgid "Market Fence"
+msgstr "Piaci sövény"
+
+msgid "Feudal Lord"
+msgstr "Hűbérúr"
+
+msgid "Seat for Emperor"
+msgstr "Császári trón"
+
+msgid "Royal Family"
+msgstr "Uralkodó család"
+
+msgid "Head of Family"
+msgstr "Családfő"
+
+msgid "Record of Family"
+msgstr "Családi feljegyzés"
+
+msgid "Officer for Family"
+msgstr "Család védője"
+
+msgid "Tower in Market"
+msgstr "Piaci torony"
+
+msgid "Measure Cereal"
+msgstr "Gabonakimérés"
+
+msgid "Cereal Measure Regulation"
+msgstr "Gabonakimérés szabályozás"
+
+msgid "Officer for Chariots"
+msgstr "Kocsistiszt"
+
+msgid "Measure Amount"
+msgstr "Egységes kimérés"
+
+msgid "Butchery"
+msgstr "Hentes"
+
+msgid "Officer for Jewel"
+msgstr "Ékszerek őrzője"
+
+msgid "Royal"
+msgstr "Fenséges"
+
+msgid "Lord"
+msgstr "Úr"
+
+msgid "Left Executor"
+msgstr "Bal végrehajtó"
+
+msgid "Right Executor"
+msgstr "Jobb végrehajtó"
+
+msgid "Crossbeam for Heo"
+msgstr "Heo keresztgerendája"
+
+msgid "Threading Coins"
+msgstr "Felfűzött érmék"
+
+msgid "SangSang"
+msgstr "SangSang"
+
+msgid "ChaSang"
+msgstr "ChaSang"
+
+msgid "ChaJang"
+msgstr "ChaJang"
+
+msgid "UJangGun"
+msgstr "UJangGun"
+
+msgid "DaeJangGun"
+msgstr "DaeJangGun"
+
+msgid "JwaJangGun"
+msgstr "JwaJangGun"
+
+msgid "WangRang"
+msgstr "WangRang"
+
+msgid "CheonSa"
+msgstr "CheonSa"
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr "SaGong"
+
+msgid "CheonOk"
+msgstr "CheonOk"
+
+msgid "CheonChang"
+msgstr "CheonChang"
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr "HuJangGun"
+
+msgid "PyeonJangGun"
+msgstr "PyeonJangGun"
+
+msgid "SamJangGun"
+msgstr "SamJangGun"
+
+msgid "TaeSa"
+msgstr "TaeSa"
+
+msgid "BakSa"
+msgstr "BakSa"
+
+msgid "SamGong"
+msgstr "SamGong"
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr "JaeSa"
+
+msgid "YeoJu"
+msgstr "YeoJu"
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr "Buin"
+
+msgid "WangBi"
+msgstr "WangBi"
+
+msgid "HuGung"
+msgstr "HuGung"
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr "CheoSa"
+
+msgid "EuiSa"
+msgstr "EuiSa"
+
+msgid "DaeBu"
+msgstr "DaeBu"
+
+msgid "SangTae"
+msgstr "SangTae"
+
+msgid "JungTae"
+msgstr "JungTae"
+
+msgid "HaTae"
+msgstr "HaTae"
+
+msgid "TaeJa"
+msgstr "TaeJa"
+
+msgid "JaeWang"
+msgstr "JaeWang"
+
+msgid "SeoJa"
+msgstr "SeoJa"
+
+msgid "CheonChu"
+msgstr "CheonChu"
+
+msgid "SangJang"
+msgstr "SangJang"
+
+msgid "TaeSang"
+msgstr "TaeSang"
+
+msgid "SaJu.DaeRi"
+msgstr "SaJu.DaeRi"
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr "Sal"
+
+msgid "Wi"
+msgstr "Wi"
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr "MyeongDang"
+
+msgid "Hu"
+msgstr "Hu"
+
+msgid "Bin"
+msgstr "Bin"
+
+msgid "DaeJang"
+msgstr "DaeJang"

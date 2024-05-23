@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Romanian (https://app.transifex.com/stellarium/teams/80998/"
+"ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "Câinele"
+
+msgid "Arrow"
+msgstr "Săgeata"
+
+msgid "Bow"
+msgstr ""
+
+msgid "Fish"
+msgstr "Peşte"
+
+msgid "Northern Dipper"
+msgstr "Ursa mică"
+
+msgid "Toilet"
+msgstr "Toaleta"
+
+msgid "Whip"
+msgstr "Biciul"
+
+msgid "Mausoleum"
+msgstr "Mausoleul"
+
+msgid "Mortar"
+msgstr "Mojarul"
+
+msgid "Rolled Tongue"
+msgstr "Limba rulată"
+
+msgid "Chaff"
+msgstr ""
+
+msgid "Whetstone"
+msgstr "Piatra de ascuţit"
+
+msgid "Inner Kitchen"
+msgstr "Bucătăria interioară"
+
+msgid "Three Steps"
+msgstr "Trei Pași"
+
+msgid "Eunuch"
+msgstr "Eunuc"
+
+msgid "Crown Prince"
+msgstr ""
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr ""
+
+msgid "Five Lords"
+msgstr "Cinci domni"
+
+msgid "Right Flag"
+msgstr "Steagul drept"
+
+msgid "Son"
+msgstr "Fiu"
+
+msgid "Left Flag"
+msgstr "Steagul stâng"
+
+msgid "Charioteer"
+msgstr "Vizitiul"
+
+msgid "Holy Kettle"
+msgstr "Ceainicul sfînt"
+
+msgid "Farm of Capital City"
+msgstr "Ferma capitalei"
+
+msgid "Dignity of King"
+msgstr "Demnitatea regelui"
+
+msgid "Nomination"
+msgstr ""
+
+msgid "Gate of Sky"
+msgstr "Poarta cerului"
+
+msgid "Equality"
+msgstr "Egalitate"
+
+msgid "Helper"
+msgstr "Ajutorul"
+
+msgid "Position of Holy King"
+msgstr "Poziţia regelui sfînt"
+
+msgid "Neck of Dragon"
+msgstr "Gâtul dragonului"
+
+msgid "Beheading"
+msgstr "Decapitarea"
+
+msgid "Judge"
+msgstr "Judecătorul"
+
+msgid "Flutting Flag"
+msgstr "Steagul fluturînd"
+
+msgid "Javelin of Sky"
+msgstr "Suliţa cerului"
+
+msgid "Seat for Longevity"
+msgstr "Scaunul longevităţii"
+
+msgid "Oar for visitor"
+msgstr "Vîsla pentru oaspeţi"
+
+msgid "Milk of Sky"
+msgstr "Laptele cerului"
+
+msgid "House of Queen"
+msgstr "Casa reginei"
+
+msgid "Ancient Chariot"
+msgstr "Trăsura antică"
+
+msgid "Carriage for King"
+msgstr "Caleaşca regelui"
+
+msgid "General of Cavalry"
+msgstr "Generalul de cavalerie"
+
+msgid "Cavalry of Emperor"
+msgstr "Cavaleria împăratului"
+
+msgid "General of Mobile Troops"
+msgstr "Generalul trupelor mobile"
+
+msgid "East Road"
+msgstr "Drumul de est"
+
+msgid "Gate Bolt"
+msgstr ""
+
+msgid "Door Lock and Key"
+msgstr ""
+
+msgid "Penalty"
+msgstr ""
+
+msgid "Royal Hall"
+msgstr "Salonul regal"
+
+msgid "Chamberlain"
+msgstr "Chamberlain"
+
+msgid "Sun"
+msgstr "Soarele"
+
+msgid "West Road"
+msgstr "Drumul de vest"
+
+msgid "Seat of Emperor"
+msgstr "Tronul împăratului"
+
+msgid "Five Troops"
+msgstr "Cinci soldați"
+
+msgid "River of Sky"
+msgstr "Râul cerului"
+
+msgid "Prayer for Progeny"
+msgstr "Rugăciune pentru urmaşi"
+
+msgid "Forcast"
+msgstr ""
+
+msgid "Yard for Empresses"
+msgstr "Curtea împărătesei"
+
+msgid "Holy Palace"
+msgstr "Palatul sfînt"
+
+msgid "Winnow"
+msgstr ""
+
+msgid "Outer Pestle"
+msgstr ""
+
+msgid "Head of Town"
+msgstr ""
+
+msgid "Build"
+msgstr ""
+
+msgid "Fowl of Sky"
+msgstr "Păsările cerului"
+
+msgid "Shrine of Sky"
+msgstr "Sanctuarul cerului"
+
+msgid "Northeastern Nations"
+msgstr "Națiunile nord-estice"
+
+msgid "Old Farmer"
+msgstr "Fermierul bătrân"
+
+msgid "Snapping Turtle"
+msgstr ""
+
+msgid "Road for Emperor"
+msgstr "Drumul împăratului"
+
+msgid "The Weaver"
+msgstr "Ţesătoarea"
+
+msgid "River adjoining Tower"
+msgstr "Râu lângă turn"
+
+msgid "Drum of River"
+msgstr ""
+
+msgid "Drumstick of Sky"
+msgstr ""
+
+msgid "Cow leading Man"
+msgstr "Văcarul"
+
+msgid "Bank Spread"
+msgstr ""
+
+msgid "Basket for Silkworm"
+msgstr "Coşul pentru viermi de mătase"
+
+msgid "Officer for Cart"
+msgstr "Ofiţerul de cart"
+
+msgid "Ferry of Sky"
+msgstr "Bacul cerului"
+
+msgid "Fruit"
+msgstr "Fruct"
+
+msgid "Seed"
+msgstr "Sămânţă"
+
+msgid "Storage for Lady"
+msgstr "Depozitul doamnei"
+
+msgid "Court Lady"
+msgstr ""
+
+msgid "Judge Fault"
+msgstr ""
+
+msgid "Amend Fault"
+msgstr ""
+
+msgid "Grant Life"
+msgstr ""
+
+msgid "Punish"
+msgstr ""
+
+msgid "Empty House"
+msgstr "Casa goală"
+
+msgid "Weep"
+msgstr ""
+
+msgid "Sob"
+msgstr "Suspinul"
+
+msgid "Castle with Rampart"
+msgstr "Cetatea"
+
+msgid "Hook for Dress"
+msgstr "Umeraşul"
+
+msgid "Groom"
+msgstr "Mirele"
+
+msgid "Human"
+msgstr "Om"
+
+msgid "Inner Pestle"
+msgstr ""
+
+msgid "Warehouse of Sky"
+msgstr "Depozitul cerului"
+
+msgid "Tomb"
+msgstr "Mormânt"
+
+msgid "Cover of House"
+msgstr ""
+
+msgid "Broken Mortar"
+msgstr ""
+
+msgid "Climbing Serpent"
+msgstr "Şarpele căţărător"
+
+msgid "Palace of Emperor"
+msgstr "Palatul împăratului"
+
+msgid "Detached Palace"
+msgstr ""
+
+msgid "Lightening"
+msgstr "Fulger"
+
+msgid "Rampart"
+msgstr "Metereze"
+
+msgid "Troops of Sky"
+msgstr "Trupele cerului"
+
+msgid "Village for Patrol"
+msgstr "Satul patrulei"
+
+msgid "Net of Sky"
+msgstr ""
+
+msgid "Stable of Sky"
+msgstr "Grajdul cerului"
+
+msgid "Eastern Wall"
+msgstr "Zidul de est"
+
+msgid "Civil Engineer"
+msgstr "Inginer constructor"
+
+msgid "Thunderbolts"
+msgstr "Fulgerele"
+
+msgid "Clouds and Rain"
+msgstr "Nori şi ploaie"
+
+msgid "Highway"
+msgstr ""
+
+msgid "Officer for Chariot of"
+msgstr "Şeful echipajului"
+
+msgid "Side Road"
+msgstr ""
+
+msgid "Armory"
+msgstr "Arsenalul"
+
+msgid "Southern Gate of Emperator"
+msgstr "Poarta de sud a împăratului"
+
+msgid "Outer Folding Screen"
+msgstr ""
+
+msgid "Toilet of Sky"
+msgstr "Toaleta cerului"
+
+msgid "Architect"
+msgstr "Arhitectul"
+
+msgid "Emperator"
+msgstr "Împăratul"
+
+msgid "Watchtower"
+msgstr "Turnul de veghe"
+
+msgid "Left Elm"
+msgstr "Ulmul din stînga"
+
+msgid "Right Elm"
+msgstr "Ulmul din dreapta"
+
+msgid "Storehouse of Sky"
+msgstr "Depozitul cerului"
+
+msgid "Stack of Cereals"
+msgstr ""
+
+msgid "Ship of Sky"
+msgstr "Nava cerului"
+
+msgid "Store of Water"
+msgstr ""
+
+msgid "Heap of Corpse"
+msgstr ""
+
+msgid "Stomach of Tiger"
+msgstr "Stomacul tigrului"
+
+msgid "Store of Millet for"
+msgstr ""
+
+msgid "Storehouse for Cereals"
+msgstr "Hambarul"
+
+msgid "Shaman of Sky"
+msgstr "Şamanul cerului"
+
+msgid "Ear and Eye of"
+msgstr "Urechea şi ochiul"
+
+msgid "Moon"
+msgstr "Luna"
+
+msgid "Hill of Sky"
+msgstr "Dealul cerului"
+
+msgid "Conspiracy of Sky"
+msgstr "Conspiraţia cerului"
+
+msgid "Fodder"
+msgstr "Nutreţul"
+
+msgid "Garage for Chariot"
+msgstr "Garajul carului"
+
+msgid "Pond for Fish"
+msgstr "Iazul cu peşte"
+
+msgid "Pillar"
+msgstr "Stîlpul"
+
+msgid "Puddle of Sky"
+msgstr "Balta cerului"
+
+msgid "Kings"
+msgstr "Regii"
+
+msgid "Gateway of Sky"
+msgstr "Poarta cerului"
+
+msgid "Flage of Saam"
+msgstr "Drapelul lui Saam"
+
+msgid "Village of Sky"
+msgstr "Satul cerului"
+
+msgid "Belvedere of Sky"
+msgstr "Foişorul cerului"
+
+msgid "General of Border"
+msgstr "Generalul de frontieră"
+
+msgid "Celebration of Sky"
+msgstr "Celebrarea cerului"
+
+msgid "Flag of Emperor"
+msgstr "Drapelul împăratului"
+
+msgid "Nine Territory"
+msgstr ""
+
+msgid "Garden of Sky"
+msgstr "Grădina cerului"
+
+msgid "Settled Flag"
+msgstr ""
+
+msgid "Forcast Calamity"
+msgstr ""
+
+msgid "Scout of Three Troups"
+msgstr "Cercetaşul celor trei trupe"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Forţa expediționară"
+
+msgid "Well for Millitary"
+msgstr "Puţul pentru militari"
+
+msgid "Well of Jade"
+msgstr "Puţul de jad"
+
+msgid "Folding Screen"
+msgstr ""
+
+msgid "Piled Brushwood"
+msgstr ""
+
+msgid "Northern River"
+msgstr "Rîul de nord"
+
+msgid "Wine Glass of Sky"
+msgstr "Paharul de vin al cerului"
+
+msgid "Eastern Well"
+msgstr "Puţul de est"
+
+msgid "Flood control"
+msgstr "Controlul inundaţiilor"
+
+msgid "Balance of Water"
+msgstr ""
+
+msgid "Four Spirit of River"
+msgstr "Patru spirite ale rîului"
+
+msgid "Southern River"
+msgstr "Rîul de sud"
+
+msgid "Twin Gate"
+msgstr ""
+
+msgid "Star of Wolf"
+msgstr "Steaua lupului"
+
+msgid "Wild Fowls"
+msgstr "Păsările sălbatice"
+
+msgid "Market for Army"
+msgstr "Magazinul armatei"
+
+msgid "Grandchildren"
+msgstr "Nepoţii"
+
+msgid "Grown-up"
+msgstr "Crescut"
+
+msgid "Oldman"
+msgstr "Bătrîn"
+
+msgid "Beacon"
+msgstr "Far"
+
+msgid "Eye of Sky"
+msgstr "Ochiul cerului"
+
+msgid "Pile of Dead"
+msgstr "Mulţimea de morţi"
+
+msgid "Green Ridge"
+msgstr ""
+
+msgid "Dog of Sky"
+msgstr "Cîinele cerului"
+
+msgid "Spirit of GuRyoung"
+msgstr "Spiritul lui GuRyoung"
+
+msgid "Flag of Wine Officer"
+msgstr "Drapelul ofiţerului de vinuri"
+
+msgid "Officer of Kitchen"
+msgstr "Ofiţerul de bucătărie"
+
+msgid "Equality and Fair"
+msgstr "Egalitate şi dreptate"
+
+msgid "Emperor HeonWon"
+msgstr "Împăratul HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Capitala cerului"
+
+msgid "Chief of Farming"
+msgstr "Şeful agricol"
+
+msgid "Officer of Tomb"
+msgstr "Ofiţerul mormîntului"
+
+msgid "Tomb of Sky"
+msgstr "Mormîntul cerului"
+
+msgid "Wing of Red Bird"
+msgstr "Aripa păsării roşii"
+
+msgid "Eastern Pottery"
+msgstr ""
+
+msgid "Chariot of Emperor"
+msgstr "Carul împăratului"
+
+msgid "Sand for Life"
+msgstr "Nisipul vieţii"
+
+msgid "Gateway for Troops"
+msgstr "Poarta trupelor"
+
+msgid "Guardian Knight"
+msgstr ""
+
+msgid "Five Feudal Lords"
+msgstr "Cinci domni feudali"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Garduk scund"
+
+msgid "Tall Fence"
+msgstr "Gardul înalt"
+
+msgid "Nine Lords"
+msgstr "Nouă domni"
+
+msgid "Dung of Tiger"
+msgstr "Gunoiul tigrului"
+
+msgid "Five Emperor"
+msgstr "Cinci împăraţi"
+
+msgid "Three Minister"
+msgstr "Trei miniştri"
+
+msgid "Officer for Audience"
+msgstr "Ofiţerul de audienţe"
+
+msgid "Grave Front"
+msgstr ""
+
+msgid "Observatory"
+msgstr "Observator"
+
+msgid "Female Officer"
+msgstr "Femeia ofiţer"
+
+msgid "Wide Lodging Area"
+msgstr "Locul mare pentru locuit"
+
+msgid "Eight Cereals"
+msgstr "Opt cereale"
+
+msgid "Advance Guard"
+msgstr "Garda avansată"
+
+msgid "Three Ministers"
+msgstr "Trei miniştri"
+
+msgid "Virtue"
+msgstr "Virtute"
+
+msgid "Emperor's God of War"
+msgstr "Zeul războiului al împăratului"
+
+msgid "Emperor's God of Weather"
+msgstr "Zeul vremii al împăratului"
+
+msgid "Flap of Flag"
+msgstr ""
+
+msgid "Minister"
+msgstr "Ministrul"
+
+msgid "General and Minister"
+msgstr "General şi ministru"
+
+msgid "Jail of Sky"
+msgstr "Închisoarea cerului"
+
+msgid "Six Department"
+msgstr ""
+
+msgid "Inner Stairway"
+msgstr "Scara interioară"
+
+msgid "Spear of Sky"
+msgstr "Lancea cerului"
+
+msgid "Cover for Emperor"
+msgstr ""
+
+msgid "Place for Five Emperor"
+msgstr "Locul pentru cinci împăraţi"
+
+msgid "60 Years"
+msgstr "60 de ani"
+
+msgid "Kitchen of Sky"
+msgstr "Bucătăria cerului"
+
+msgid "North Pole"
+msgstr "Polul nord"
+
+msgid "Wound Lodge"
+msgstr ""
+
+msgid "Single-log Bridge"
+msgstr ""
+
+msgid "Great Emperor"
+msgstr "Marele împărat"
+
+msgid "Officer for Opinion"
+msgstr "Ofiţerul de opinie"
+
+msgid "Pillar of Sky"
+msgstr ""
+
+msgid "Secretary"
+msgstr "Secretarul"
+
+msgid "Maid"
+msgstr "Servitoarea"
+
+msgid "Desk of Woman"
+msgstr "Biroul femeii"
+
+msgid "Judge Prison"
+msgstr ""
+
+msgid "Purple Fence"
+msgstr "Gardul purpuriu"
+
+msgid "Order of Sky"
+msgstr ""
+
+msgid "Seven Minister"
+msgstr "Şapte miniştri"
+
+msgid "Thread Straw"
+msgstr "Firul de pai"
+
+msgid "Market Fence"
+msgstr "Gardul pieţei"
+
+msgid "Feudal Lord"
+msgstr "Domn feudal"
+
+msgid "Seat for Emperor"
+msgstr "Jilţul împăratului"
+
+msgid "Royal Family"
+msgstr "Familia regală"
+
+msgid "Head of Family"
+msgstr "Şeful familiei"
+
+msgid "Record of Family"
+msgstr "Arhivele familiei"
+
+msgid "Officer for Family"
+msgstr "Ofiţerul familiei"
+
+msgid "Tower in Market"
+msgstr "Turnul pieţei"
+
+msgid "Measure Cereal"
+msgstr ""
+
+msgid "Cereal Measure Regulation"
+msgstr ""
+
+msgid "Officer for Chariots"
+msgstr "Ofiţerul pentru caruri"
+
+msgid "Measure Amount"
+msgstr ""
+
+msgid "Butchery"
+msgstr ""
+
+msgid "Officer for Jewel"
+msgstr "Ofiţerul pentru bijuterii"
+
+msgid "Royal"
+msgstr "Roial"
+
+msgid "Lord"
+msgstr "Domn"
+
+msgid "Left Executor"
+msgstr "Executorul din stînga"
+
+msgid "Right Executor"
+msgstr "Executorul din dreapta"
+
+msgid "Crossbeam for Heo"
+msgstr ""
+
+msgid "Threading Coins"
+msgstr ""
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr "WangBi"
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

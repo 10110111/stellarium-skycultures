@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Karl Birgersson <birgerssonkarl@outlook.com>, 2022\n"
+"Language-Team: Swedish (https://app.transifex.com/stellarium/teams/80998/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "Koreansk"
+
+msgid "Dog"
+msgstr "Hund"
+
+msgid "Arrow"
+msgstr "Pil"
+
+msgid "Bow"
+msgstr "Pilbåge"
+
+msgid "Fish"
+msgstr "Fisk"
+
+msgid "Northern Dipper"
+msgstr "Norra skopan"
+
+msgid "Toilet"
+msgstr "Toalett"
+
+msgid "Whip"
+msgstr "Piska"
+
+msgid "Mausoleum"
+msgstr "Mausoleum"
+
+msgid "Mortar"
+msgstr "Mortel"
+
+msgid "Rolled Tongue"
+msgstr "Rullad tunga"
+
+msgid "Chaff"
+msgstr "Agn"
+
+msgid "Whetstone"
+msgstr "Brynsten"
+
+msgid "Inner Kitchen"
+msgstr "Inre kök"
+
+msgid "Three Steps"
+msgstr "Tre steg"
+
+msgid "Eunuch"
+msgstr "Eunuck"
+
+msgid "Crown Prince"
+msgstr "Kronprins"
+
+msgid "Official for Materials Supply"
+msgstr "Tjänsteman för materialförsörjning"
+
+msgid "Outer Kitchen"
+msgstr "Yttre kök"
+
+msgid "Five Lords"
+msgstr "Fem herrar"
+
+msgid "Right Flag"
+msgstr "Höger flagga"
+
+msgid "Son"
+msgstr "Son"
+
+msgid "Left Flag"
+msgstr "Vänster flagga"
+
+msgid "Charioteer"
+msgstr "Kusk"
+
+msgid "Holy Kettle"
+msgstr "Helig gryta"
+
+msgid "Farm of Capital City"
+msgstr "Huvudstadsfarm"
+
+msgid "Dignity of King"
+msgstr "Kunglig värdighet"
+
+msgid "Nomination"
+msgstr "Nominering"
+
+msgid "Gate of Sky"
+msgstr "Himmelsport"
+
+msgid "Equality"
+msgstr "Jämlikhet"
+
+msgid "Helper"
+msgstr "Hjälpare"
+
+msgid "Position of Holy King"
+msgstr "Helig konungs position"
+
+msgid "Neck of Dragon"
+msgstr "Draknacke"
+
+msgid "Beheading"
+msgstr "Halshuggning"
+
+msgid "Judge"
+msgstr "Domare"
+
+msgid "Flutting Flag"
+msgstr "Vajande flagga"
+
+msgid "Javelin of Sky"
+msgstr "Himmelsspjut"
+
+msgid "Seat for Longevity"
+msgstr "Livslängdssäte"
+
+msgid "Oar for visitor"
+msgstr "Åra för gäst"
+
+msgid "Milk of Sky"
+msgstr "Himmelsmjölk"
+
+msgid "House of Queen"
+msgstr "Drottninghus"
+
+msgid "Ancient Chariot"
+msgstr "Antik vagn"
+
+msgid "Carriage for King"
+msgstr "Konungavagn"
+
+msgid "General of Cavalry"
+msgstr "Kavallerigeneral"
+
+msgid "Cavalry of Emperor"
+msgstr "Kejserligt kavalleri"
+
+msgid "General of Mobile Troops"
+msgstr "Rörliga truppers general"
+
+msgid "East Road"
+msgstr "Östlig väg"
+
+msgid "Gate Bolt"
+msgstr "Grindbult"
+
+msgid "Door Lock and Key"
+msgstr "Dörrlås och nyckel"
+
+msgid "Penalty"
+msgstr "Bestraffning"
+
+msgid "Royal Hall"
+msgstr "Kunglig sal"
+
+msgid "Chamberlain"
+msgstr "Kammarherre"
+
+msgid "Sun"
+msgstr "Sol"
+
+msgid "West Road"
+msgstr "Västlig väg"
+
+msgid "Seat of Emperor"
+msgstr "Kejserlig tron"
+
+msgid "Five Troops"
+msgstr "Fem trupper"
+
+msgid "River of Sky"
+msgstr "Himmelsflod"
+
+msgid "Prayer for Progeny"
+msgstr "Middagsbön"
+
+msgid "Forcast"
+msgstr "Förutsägelse"
+
+msgid "Yard for Empresses"
+msgstr "Kejsarinnas gård"
+
+msgid "Holy Palace"
+msgstr "Heligt palats"
+
+msgid "Winnow"
+msgstr "Tröska"
+
+msgid "Outer Pestle"
+msgstr "Yttre stöt"
+
+msgid "Head of Town"
+msgstr "Stadsledare"
+
+msgid "Build"
+msgstr "Bygge"
+
+msgid "Fowl of Sky"
+msgstr "Himmelsfågel"
+
+msgid "Shrine of Sky"
+msgstr "Himmelshelgedom"
+
+msgid "Northeastern Nations"
+msgstr "Nordostliga länder"
+
+msgid "Old Farmer"
+msgstr "Gammal bonde"
+
+msgid "Snapping Turtle"
+msgstr "Snappsköldpadda"
+
+msgid "Road for Emperor"
+msgstr "Kejserlig väg"
+
+msgid "The Weaver"
+msgstr "Vävaren"
+
+msgid "River adjoining Tower"
+msgstr "Flodavgränsande torn"
+
+msgid "Drum of River"
+msgstr "Flodtrumma"
+
+msgid "Drumstick of Sky"
+msgstr "Himmelstrumpinne"
+
+msgid "Cow leading Man"
+msgstr "Koledande man"
+
+msgid "Bank Spread"
+msgstr "Strandutbredning"
+
+msgid "Basket for Silkworm"
+msgstr "Silkesmaskskorg"
+
+msgid "Officer for Cart"
+msgstr "Vagnsofficer"
+
+msgid "Ferry of Sky"
+msgstr "Himmelsfärja"
+
+msgid "Fruit"
+msgstr "Frukt"
+
+msgid "Seed"
+msgstr "Frö"
+
+msgid "Storage for Lady"
+msgstr "Lagring för dam"
+
+msgid "Court Lady"
+msgstr "Hovdam"
+
+msgid "Judge Fault"
+msgstr "Felaktigt domslut"
+
+msgid "Amend Fault"
+msgstr "Rättat fel"
+
+msgid "Grant Life"
+msgstr "Bevilja liv"
+
+msgid "Punish"
+msgstr "Bestraffa"
+
+msgid "Empty House"
+msgstr "Tomt hus"
+
+msgid "Weep"
+msgstr "Gråt"
+
+msgid "Sob"
+msgstr "Snyftning"
+
+msgid "Castle with Rampart"
+msgstr "Fästning med skyddsmur"
+
+msgid "Hook for Dress"
+msgstr "Krok för klänning"
+
+msgid "Groom"
+msgstr "Brudgum"
+
+msgid "Human"
+msgstr "Människa"
+
+msgid "Inner Pestle"
+msgstr "Inre stöt"
+
+msgid "Warehouse of Sky"
+msgstr "Himmelslagret"
+
+msgid "Tomb"
+msgstr "Grav"
+
+msgid "Cover of House"
+msgstr "Husskydd"
+
+msgid "Broken Mortar"
+msgstr "Trasig mortel"
+
+msgid "Climbing Serpent"
+msgstr "Klättrande orm"
+
+msgid "Palace of Emperor"
+msgstr "Kejserligt palats"
+
+msgid "Detached Palace"
+msgstr "Avskilt palats"
+
+msgid "Lightening"
+msgstr "Blixt"
+
+msgid "Rampart"
+msgstr "Fästningsvall"
+
+msgid "Troops of Sky"
+msgstr "Himmelsarmé"
+
+msgid "Village for Patrol"
+msgstr "Patrullby"
+
+msgid "Net of Sky"
+msgstr "Himmelsnät"
+
+msgid "Stable of Sky"
+msgstr "Himmelsstall"
+
+msgid "Eastern Wall"
+msgstr "Östlig mur"
+
+msgid "Civil Engineer"
+msgstr "Civilingenjör"
+
+msgid "Thunderbolts"
+msgstr "Blixtar"
+
+msgid "Clouds and Rain"
+msgstr "Moln och regn"
+
+msgid "Highway"
+msgstr "Väg"
+
+msgid "Officer for Chariot of"
+msgstr "Vagnsofficer för"
+
+msgid "Side Road"
+msgstr "Sidoväg"
+
+msgid "Armory"
+msgstr "Arsenal"
+
+msgid "Southern Gate of Emperator"
+msgstr "Kejserlig sydport"
+
+msgid "Outer Folding Screen"
+msgstr "Yttre vikskärm"
+
+msgid "Toilet of Sky"
+msgstr "Himmelstoalett"
+
+msgid "Architect"
+msgstr "Arkitekt"
+
+msgid "Emperator"
+msgstr "Kejsare"
+
+msgid "Watchtower"
+msgstr "Vakttorn"
+
+msgid "Left Elm"
+msgstr "Vänster alm"
+
+msgid "Right Elm"
+msgstr "Höger alm"
+
+msgid "Storehouse of Sky"
+msgstr "Himmelsförråd"
+
+msgid "Stack of Cereals"
+msgstr "Spannmålsstapel"
+
+msgid "Ship of Sky"
+msgstr "Himmelsskepp"
+
+msgid "Store of Water"
+msgstr "Vattenförråd"
+
+msgid "Heap of Corpse"
+msgstr "Likhög"
+
+msgid "Stomach of Tiger"
+msgstr "Tigermage"
+
+msgid "Store of Millet for"
+msgstr "Hirsförråd för"
+
+msgid "Storehouse for Cereals"
+msgstr "Spannmålsförråd"
+
+msgid "Shaman of Sky"
+msgstr "Himmelsshaman"
+
+msgid "Ear and Eye of"
+msgstr "Örat och ögat till"
+
+msgid "Moon"
+msgstr "Månen"
+
+msgid "Hill of Sky"
+msgstr "Himmelskulle"
+
+msgid "Conspiracy of Sky"
+msgstr "Himmelskonspiration"
+
+msgid "Fodder"
+msgstr "Foder"
+
+msgid "Garage for Chariot"
+msgstr "Vagnsgarage"
+
+msgid "Pond for Fish"
+msgstr "Fiskdamm"
+
+msgid "Pillar"
+msgstr "Pelare"
+
+msgid "Puddle of Sky"
+msgstr "Himmelspöl"
+
+msgid "Kings"
+msgstr "Konungar"
+
+msgid "Gateway of Sky"
+msgstr "Himmelsport"
+
+msgid "Flage of Saam"
+msgstr "Saams flagga"
+
+msgid "Village of Sky"
+msgstr "Himmelsby"
+
+msgid "Belvedere of Sky"
+msgstr "Himmelsutsikt"
+
+msgid "General of Border"
+msgstr "Gränsgeneral"
+
+msgid "Celebration of Sky"
+msgstr "Himmelsfirande"
+
+msgid "Flag of Emperor"
+msgstr "Kejserlig fana"
+
+msgid "Nine Territory"
+msgstr "Nioterritorium"
+
+msgid "Garden of Sky"
+msgstr "Himmelsträdgård"
+
+msgid "Settled Flag"
+msgstr "Stadgad flagga"
+
+msgid "Forcast Calamity"
+msgstr "Olycksförutsägelse"
+
+msgid "Scout of Three Troups"
+msgstr "Tre truppers spaning"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Expeditionsstyrka"
+
+msgid "Well for Millitary"
+msgstr "Soldatbrunn"
+
+msgid "Well of Jade"
+msgstr "Jadebrunn"
+
+msgid "Folding Screen"
+msgstr "Vikskärm"
+
+msgid "Piled Brushwood"
+msgstr "Staplat sly"
+
+msgid "Northern River"
+msgstr "Nordlig flod"
+
+msgid "Wine Glass of Sky"
+msgstr "Himmelsvinglas"
+
+msgid "Eastern Well"
+msgstr "Östlig brunn"
+
+msgid "Flood control"
+msgstr "Översvämningskontroll"
+
+msgid "Balance of Water"
+msgstr "Vattenbalans"
+
+msgid "Four Spirit of River"
+msgstr "Fyra flodandar"
+
+msgid "Southern River"
+msgstr "Sydlig flod"
+
+msgid "Twin Gate"
+msgstr "Tvillingport"
+
+msgid "Star of Wolf"
+msgstr "Vargstjärna"
+
+msgid "Wild Fowls"
+msgstr "Vilda fåglar"
+
+msgid "Market for Army"
+msgstr "Armémarknad"
+
+msgid "Grandchildren"
+msgstr "Barnbarn"
+
+msgid "Grown-up"
+msgstr "Vuxen"
+
+msgid "Oldman"
+msgstr "Gammelman"
+
+msgid "Beacon"
+msgstr "Fyr"
+
+msgid "Eye of Sky"
+msgstr "Himmelsöga"
+
+msgid "Pile of Dead"
+msgstr "Hög av döda"
+
+msgid "Green Ridge"
+msgstr "Grön ås"
+
+msgid "Dog of Sky"
+msgstr "Himemlshund"
+
+msgid "Spirit of GuRyoung"
+msgstr "GuRyoungs ande"
+
+msgid "Flag of Wine Officer"
+msgstr "Vinofficersflagga"
+
+msgid "Officer of Kitchen"
+msgstr "Köksofficer"
+
+msgid "Equality and Fair"
+msgstr "Jämlikhet och rättvisa"
+
+msgid "Emperor HeonWon"
+msgstr "Kejsare HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Himmelshuvudstad"
+
+msgid "Chief of Farming"
+msgstr "Chefsbonde"
+
+msgid "Officer of Tomb"
+msgstr "Gravofficer"
+
+msgid "Tomb of Sky"
+msgstr "Himmelsgrav"
+
+msgid "Wing of Red Bird"
+msgstr "Vinge till rödfågel"
+
+msgid "Eastern Pottery"
+msgstr "Östlig keramik"
+
+msgid "Chariot of Emperor"
+msgstr "Kejserlig vagn"
+
+msgid "Sand for Life"
+msgstr "Livssand"
+
+msgid "Gateway for Troops"
+msgstr "Trupport"
+
+msgid "Guardian Knight"
+msgstr "Vaktriddare"
+
+msgid "Five Feudal Lords"
+msgstr "Fem feodala herrar"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Lågt stängsel"
+
+msgid "Tall Fence"
+msgstr "Högt stängsel"
+
+msgid "Nine Lords"
+msgstr "Nio herrar"
+
+msgid "Dung of Tiger"
+msgstr "Tigerdynga"
+
+msgid "Five Emperor"
+msgstr "Fem kejsare"
+
+msgid "Three Minister"
+msgstr "Tre ministrar"
+
+msgid "Officer for Audience"
+msgstr "Åhörarofficer"
+
+msgid "Grave Front"
+msgstr "Gravfront"
+
+msgid "Observatory"
+msgstr "Observatorium"
+
+msgid "Female Officer"
+msgstr "Kvinnlig officer"
+
+msgid "Wide Lodging Area"
+msgstr "Stor kasern"
+
+msgid "Eight Cereals"
+msgstr "Åtta spannmål"
+
+msgid "Advance Guard"
+msgstr "Framstegsvakt"
+
+msgid "Three Ministers"
+msgstr "Tre minsitrar"
+
+msgid "Virtue"
+msgstr "Förtjänst"
+
+msgid "Emperor's God of War"
+msgstr "Kejserlig krigsgud"
+
+msgid "Emperor's God of Weather"
+msgstr "Kejserlig vädergud"
+
+msgid "Flap of Flag"
+msgstr "Flaggfladder"
+
+msgid "Minister"
+msgstr "Minister"
+
+msgid "General and Minister"
+msgstr "General och minister"
+
+msgid "Jail of Sky"
+msgstr "Himmelsfängelse"
+
+msgid "Six Department"
+msgstr "Sex avdelningar"
+
+msgid "Inner Stairway"
+msgstr "Inre trappa"
+
+msgid "Spear of Sky"
+msgstr "Himmelsspjut"
+
+msgid "Cover for Emperor"
+msgstr "Kejsarskydd"
+
+msgid "Place for Five Emperor"
+msgstr "Plats för fem kejsare"
+
+msgid "60 Years"
+msgstr "60 år"
+
+msgid "Kitchen of Sky"
+msgstr "Himmelskök"
+
+msgid "North Pole"
+msgstr "Nordpolen"
+
+msgid "Wound Lodge"
+msgstr "Sårstuga"
+
+msgid "Single-log Bridge"
+msgstr "Bro gjord av en stock"
+
+msgid "Great Emperor"
+msgstr "Storkejsare"
+
+msgid "Officer for Opinion"
+msgstr "Åsiktsofficer"
+
+msgid "Pillar of Sky"
+msgstr "Himmelspelare"
+
+msgid "Secretary"
+msgstr "Sekreterare"
+
+msgid "Maid"
+msgstr "Tjänsteflicka"
+
+msgid "Desk of Woman"
+msgstr "Kvinnas skrivbord"
+
+msgid "Judge Prison"
+msgstr "Domares fängelse"
+
+msgid "Purple Fence"
+msgstr "Lila stängsel"
+
+msgid "Order of Sky"
+msgstr "Himmelsordning"
+
+msgid "Seven Minister"
+msgstr "Sju ministrar"
+
+msgid "Thread Straw"
+msgstr "Halmstrå"
+
+msgid "Market Fence"
+msgstr "Marknadsstängsel"
+
+msgid "Feudal Lord"
+msgstr "Feodal herre"
+
+msgid "Seat for Emperor"
+msgstr "Kejsartron"
+
+msgid "Royal Family"
+msgstr "Kejserlig familj"
+
+msgid "Head of Family"
+msgstr "Familjeöverhuvud"
+
+msgid "Record of Family"
+msgstr "Familjeuppteckning"
+
+msgid "Officer for Family"
+msgstr "Familjeofficer"
+
+msgid "Tower in Market"
+msgstr "Marknadstorn"
+
+msgid "Measure Cereal"
+msgstr "Spannmålmått"
+
+msgid "Cereal Measure Regulation"
+msgstr "Spannmålsmåttsregel"
+
+msgid "Officer for Chariots"
+msgstr "Vagnsofficer"
+
+msgid "Measure Amount"
+msgstr "Måttmängd"
+
+msgid "Butchery"
+msgstr "Slakteri"
+
+msgid "Officer for Jewel"
+msgstr "Juvelsofficer"
+
+msgid "Royal"
+msgstr "Kejserlig"
+
+msgid "Lord"
+msgstr "Herre"
+
+msgid "Left Executor"
+msgstr "Vänster skarprättare"
+
+msgid "Right Executor"
+msgstr "Höger skarprättare"
+
+msgid "Crossbeam for Heo"
+msgstr "Heos tvärbalk"
+
+msgid "Threading Coins"
+msgstr "Myntgängning"
+
+msgid "SangSang"
+msgstr "SangSang"
+
+msgid "ChaSang"
+msgstr "ChaSang"
+
+msgid "ChaJang"
+msgstr "ChaJang"
+
+msgid "UJangGun"
+msgstr "UJangGun"
+
+msgid "DaeJangGun"
+msgstr "DaeJangGun"
+
+msgid "JwaJangGun"
+msgstr "JwaJangGun"
+
+msgid "WangRang"
+msgstr "WangRang"
+
+msgid "CheonSa"
+msgstr "CheonSa"
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr "SaGong"
+
+msgid "CheonOk"
+msgstr "CheonOk"
+
+msgid "CheonChang"
+msgstr "CheonChang"
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr "HuJangGun"
+
+msgid "PyeonJangGun"
+msgstr "PyeonJangGun"
+
+msgid "SamJangGun"
+msgstr "SamJangGun"
+
+msgid "TaeSa"
+msgstr "TaeSa"
+
+msgid "BakSa"
+msgstr "BakSa"
+
+msgid "SamGong"
+msgstr "SamGong"
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr "JaeSa"
+
+msgid "YeoJu"
+msgstr "YeoJu"
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr "Buin"
+
+msgid "WangBi"
+msgstr "WangBi"
+
+msgid "HuGung"
+msgstr "HuGung"
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr "CheoSa"
+
+msgid "EuiSa"
+msgstr "EuiSa"
+
+msgid "DaeBu"
+msgstr "DaeBu"
+
+msgid "SangTae"
+msgstr "SangTae"
+
+msgid "JungTae"
+msgstr "JungTae"
+
+msgid "HaTae"
+msgstr "HaTae"
+
+msgid "TaeJa"
+msgstr "TaeJa"
+
+msgid "JaeWang"
+msgstr "JaeWang"
+
+msgid "SeoJa"
+msgstr "SeoJa"
+
+msgid "CheonChu"
+msgstr "CheonChu"
+
+msgid "SangJang"
+msgstr "SangJang"
+
+msgid "TaeSang"
+msgstr "TaeSang"
+
+msgid "SaJu.DaeRi"
+msgstr "SaJu.DaeRi"
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr "Sal"
+
+msgid "Wi"
+msgstr "Wi"
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr "MyeongDang"
+
+msgid "Hu"
+msgstr "Hu"
+
+msgid "Bin"
+msgstr "Bin"
+
+msgid "DaeJang"
+msgstr "DaeJang"
