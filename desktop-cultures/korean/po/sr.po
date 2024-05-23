@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Serbian (https://app.transifex.com/stellarium/teams/80998/"
+"sr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "Пас"
+
+msgid "Arrow"
+msgstr "Стрела"
+
+msgid "Bow"
+msgstr "Лук"
+
+msgid "Fish"
+msgstr "риба"
+
+msgid "Northern Dipper"
+msgstr "северни Велики медвед"
+
+msgid "Toilet"
+msgstr "Тоалет"
+
+msgid "Whip"
+msgstr "Бич"
+
+msgid "Mausoleum"
+msgstr "Маузолеј"
+
+msgid "Mortar"
+msgstr "Аван"
+
+msgid "Rolled Tongue"
+msgstr "Уролани језик"
+
+msgid "Chaff"
+msgstr "Плева"
+
+msgid "Whetstone"
+msgstr "Тоцило"
+
+msgid "Inner Kitchen"
+msgstr "Унутрашња кухиња"
+
+msgid "Three Steps"
+msgstr "Три корака"
+
+msgid "Eunuch"
+msgstr "Евнух"
+
+msgid "Crown Prince"
+msgstr "Престолонаследник"
+
+msgid "Official for Materials Supply"
+msgstr "Добављач"
+
+msgid "Outer Kitchen"
+msgstr "Спољна кухиња"
+
+msgid "Five Lords"
+msgstr "Пет лордова"
+
+msgid "Right Flag"
+msgstr "Десна застава"
+
+msgid "Son"
+msgstr "Син"
+
+msgid "Left Flag"
+msgstr "Лева застава"
+
+msgid "Charioteer"
+msgstr "Возач двоколица"
+
+msgid "Holy Kettle"
+msgstr "Свети бокал"
+
+msgid "Farm of Capital City"
+msgstr "Фарма главног града"
+
+msgid "Dignity of King"
+msgstr "Краљевско достојанство"
+
+msgid "Nomination"
+msgstr "Именовање"
+
+msgid "Gate of Sky"
+msgstr "Капија неба"
+
+msgid "Equality"
+msgstr "Једнакост"
+
+msgid "Helper"
+msgstr "Помоћник"
+
+msgid "Position of Holy King"
+msgstr "Положај Светог краља"
+
+msgid "Neck of Dragon"
+msgstr "Врат змаја"
+
+msgid "Beheading"
+msgstr "Одсецање главе"
+
+msgid "Judge"
+msgstr "Судија"
+
+msgid "Flutting Flag"
+msgstr "Застава која се вијори"
+
+msgid "Javelin of Sky"
+msgstr "Небеско копље"
+
+msgid "Seat for Longevity"
+msgstr "Седиште дуговечности"
+
+msgid "Oar for visitor"
+msgstr "Весло за посетиоца"
+
+msgid "Milk of Sky"
+msgstr "Млечно небо"
+
+msgid "House of Queen"
+msgstr "Кућа краљице"
+
+msgid "Ancient Chariot"
+msgstr "Древна двоколица"
+
+msgid "Carriage for King"
+msgstr "Краљевске кочије"
+
+msgid "General of Cavalry"
+msgstr "Генерал коњице"
+
+msgid "Cavalry of Emperor"
+msgstr "Царева коњица"
+
+msgid "General of Mobile Troops"
+msgstr "Генерал мобилне трупе"
+
+msgid "East Road"
+msgstr "Источни пут"
+
+msgid "Gate Bolt"
+msgstr "Реза на капији"
+
+msgid "Door Lock and Key"
+msgstr "Брава и кључ"
+
+msgid "Penalty"
+msgstr "Казна"
+
+msgid "Royal Hall"
+msgstr "Краљевска сала"
+
+msgid "Chamberlain"
+msgstr "Чемберлен"
+
+msgid "Sun"
+msgstr "Сунце"
+
+msgid "West Road"
+msgstr "Западни пут"
+
+msgid "Seat of Emperor"
+msgstr "Царски престо"
+
+msgid "Five Troops"
+msgstr "Пет рупа"
+
+msgid "River of Sky"
+msgstr "Небеска река"
+
+msgid "Prayer for Progeny"
+msgstr "Молитва за потомство"
+
+msgid "Forcast"
+msgstr "Прогноза"
+
+msgid "Yard for Empresses"
+msgstr "Двориште за царице"
+
+msgid "Holy Palace"
+msgstr "Сета палата"
+
+msgid "Winnow"
+msgstr "Овејати"
+
+msgid "Outer Pestle"
+msgstr "Спољни тучак"
+
+msgid "Head of Town"
+msgstr "Шеф града"
+
+msgid "Build"
+msgstr "Изградити"
+
+msgid "Fowl of Sky"
+msgstr "Небеске птице"
+
+msgid "Shrine of Sky"
+msgstr "Небеско светилиште"
+
+msgid "Northeastern Nations"
+msgstr "Североисточна нација"
+
+msgid "Old Farmer"
+msgstr "Стари фармер"
+
+msgid "Snapping Turtle"
+msgstr "Корњача која напада"
+
+msgid "Road for Emperor"
+msgstr "Пут за цара"
+
+msgid "The Weaver"
+msgstr "Ткач"
+
+msgid "River adjoining Tower"
+msgstr "Кула ограничена реком"
+
+msgid "Drum of River"
+msgstr "Пут реке"
+
+msgid "Drumstick of Sky"
+msgstr "Свемиркси батак"
+
+msgid "Cow leading Man"
+msgstr "Сточар"
+
+msgid "Bank Spread"
+msgstr "Простирка"
+
+msgid "Basket for Silkworm"
+msgstr "Корпа за свилену бубу"
+
+msgid "Officer for Cart"
+msgstr "Чиновничка кочија"
+
+msgid "Ferry of Sky"
+msgstr "Небески трајект"
+
+msgid "Fruit"
+msgstr "Воће"
+
+msgid "Seed"
+msgstr "Семе"
+
+msgid "Storage for Lady"
+msgstr "Складиште за даму"
+
+msgid "Court Lady"
+msgstr "Дворска Дама"
+
+msgid "Judge Fault"
+msgstr "Судска грешка"
+
+msgid "Amend Fault"
+msgstr "Поправљена грешка"
+
+msgid "Grant Life"
+msgstr "Одобрен живот"
+
+msgid "Punish"
+msgstr "Казнити"
+
+msgid "Empty House"
+msgstr "Празна кућа"
+
+msgid "Weep"
+msgstr "Плакати"
+
+msgid "Sob"
+msgstr "Плач"
+
+msgid "Castle with Rampart"
+msgstr "Дворац са бедемом"
+
+msgid "Hook for Dress"
+msgstr "Копча на хаљини"
+
+msgid "Groom"
+msgstr "Младожења"
+
+msgid "Human"
+msgstr "Човек"
+
+msgid "Inner Pestle"
+msgstr "Унутрашњи тучак"
+
+msgid "Warehouse of Sky"
+msgstr "Небеско складиште"
+
+msgid "Tomb"
+msgstr "Гробница"
+
+msgid "Cover of House"
+msgstr "Кров куће"
+
+msgid "Broken Mortar"
+msgstr "Сломљени аван"
+
+msgid "Climbing Serpent"
+msgstr "Змија која се пење"
+
+msgid "Palace of Emperor"
+msgstr "Царева палата"
+
+msgid "Detached Palace"
+msgstr "Одвојена палата"
+
+msgid "Lightening"
+msgstr "Расвета"
+
+msgid "Rampart"
+msgstr "Бедем"
+
+msgid "Troops of Sky"
+msgstr "Небеске трупе"
+
+msgid "Village for Patrol"
+msgstr "Стражарско село"
+
+msgid "Net of Sky"
+msgstr "Небеска мрежа"
+
+msgid "Stable of Sky"
+msgstr "Устаљено небо"
+
+msgid "Eastern Wall"
+msgstr "Источни зид"
+
+msgid "Civil Engineer"
+msgstr "Грађевински инжењер"
+
+msgid "Thunderbolts"
+msgstr "Муња"
+
+msgid "Clouds and Rain"
+msgstr "Облаци и киша"
+
+msgid "Highway"
+msgstr "Аутопут"
+
+msgid "Officer for Chariot of"
+msgstr "Официрска кочија"
+
+msgid "Side Road"
+msgstr "Споредни пут"
+
+msgid "Armory"
+msgstr "Складиште оружја"
+
+msgid "Southern Gate of Emperator"
+msgstr "Јужна Империјална капија"
+
+msgid "Outer Folding Screen"
+msgstr "Параван"
+
+msgid "Toilet of Sky"
+msgstr "Небески тоалет"
+
+msgid "Architect"
+msgstr "Архитекта"
+
+msgid "Emperator"
+msgstr "Император"
+
+msgid "Watchtower"
+msgstr "Осматрачница"
+
+msgid "Left Elm"
+msgstr "Леви брест"
+
+msgid "Right Elm"
+msgstr "Десни брест"
+
+msgid "Storehouse of Sky"
+msgstr "Небеско складиште"
+
+msgid "Stack of Cereals"
+msgstr "Пласт житарица"
+
+msgid "Ship of Sky"
+msgstr "Небески брод"
+
+msgid "Store of Water"
+msgstr "Складиште воде"
+
+msgid "Heap of Corpse"
+msgstr "Гомила лешева"
+
+msgid "Stomach of Tiger"
+msgstr "Стомак тигра"
+
+msgid "Store of Millet for"
+msgstr "Складиште за просо"
+
+msgid "Storehouse for Cereals"
+msgstr "Складиште житарица"
+
+msgid "Shaman of Sky"
+msgstr "Небески шаман"
+
+msgid "Ear and Eye of"
+msgstr "Уво и око"
+
+msgid "Moon"
+msgstr "Месец"
+
+msgid "Hill of Sky"
+msgstr "Небеско брдо"
+
+msgid "Conspiracy of Sky"
+msgstr "Завера неба"
+
+msgid "Fodder"
+msgstr "Крмно биље"
+
+msgid "Garage for Chariot"
+msgstr "Гаража за двоколица"
+
+msgid "Pond for Fish"
+msgstr "Рибњак"
+
+msgid "Pillar"
+msgstr "Стуб"
+
+msgid "Puddle of Sky"
+msgstr "Небеска барица"
+
+msgid "Kings"
+msgstr "Краљеви"
+
+msgid "Gateway of Sky"
+msgstr "Небеска капија"
+
+msgid "Flage of Saam"
+msgstr "Семова застава"
+
+msgid "Village of Sky"
+msgstr "Небеско село"
+
+msgid "Belvedere of Sky"
+msgstr "Небески Белведер"
+
+msgid "General of Border"
+msgstr "Гранични генерал"
+
+msgid "Celebration of Sky"
+msgstr "Славље неба"
+
+msgid "Flag of Emperor"
+msgstr "Краљева застава"
+
+msgid "Nine Territory"
+msgstr "Девета територија"
+
+msgid "Garden of Sky"
+msgstr "Небеска башта"
+
+msgid "Settled Flag"
+msgstr "Застава помирења"
+
+msgid "Forcast Calamity"
+msgstr "Предвиђање несреће"
+
+msgid "Scout of Three Troups"
+msgstr "Извидница три трупе"
+
+msgid "Saam"
+msgstr "Сем"
+
+msgid "Expeditionary Force"
+msgstr "Експедициона сила"
+
+msgid "Well for Millitary"
+msgstr "Војни бунар"
+
+msgid "Well of Jade"
+msgstr "Бунар Жада"
+
+msgid "Folding Screen"
+msgstr "Склопиви екран"
+
+msgid "Piled Brushwood"
+msgstr "Нагомилано грмље"
+
+msgid "Northern River"
+msgstr "Северна река"
+
+msgid "Wine Glass of Sky"
+msgstr "Небеска чаша вина"
+
+msgid "Eastern Well"
+msgstr "Источни бунар"
+
+msgid "Flood control"
+msgstr "Контрола поплаве"
+
+msgid "Balance of Water"
+msgstr "Мирна вода"
+
+msgid "Four Spirit of River"
+msgstr "Четири речна духа"
+
+msgid "Southern River"
+msgstr "јужна река"
+
+msgid "Twin Gate"
+msgstr "Капија близанца"
+
+msgid "Star of Wolf"
+msgstr "Вучија звезда"
+
+msgid "Wild Fowls"
+msgstr "Дивље кокошке"
+
+msgid "Market for Army"
+msgstr "Војна пијаца"
+
+msgid "Grandchildren"
+msgstr "Унуци"
+
+msgid "Grown-up"
+msgstr "Одрастао"
+
+msgid "Oldman"
+msgstr "Старац"
+
+msgid "Beacon"
+msgstr "Светионик"
+
+msgid "Eye of Sky"
+msgstr "Небеско око"
+
+msgid "Pile of Dead"
+msgstr "Гомила мртвих"
+
+msgid "Green Ridge"
+msgstr "Зелени гребен"
+
+msgid "Dog of Sky"
+msgstr "Небески пас"
+
+msgid "Spirit of GuRyoung"
+msgstr "Дух ГуРјонга"
+
+msgid "Flag of Wine Officer"
+msgstr "Чиновничка застава"
+
+msgid "Officer of Kitchen"
+msgstr "Главни кувар"
+
+msgid "Equality and Fair"
+msgstr "Једнакост и правичност"
+
+msgid "Emperor HeonWon"
+msgstr "ХеонВон Император"
+
+msgid "Capital of Sky"
+msgstr "Небеске престоница"
+
+msgid "Chief of Farming"
+msgstr "Фармер"
+
+msgid "Officer of Tomb"
+msgstr "Погребник"
+
+msgid "Tomb of Sky"
+msgstr "Небеска гробница"
+
+msgid "Wing of Red Bird"
+msgstr "Крило црвене птице"
+
+msgid "Eastern Pottery"
+msgstr "Источна грнчарија"
+
+msgid "Chariot of Emperor"
+msgstr "Царева двоколица"
+
+msgid "Sand for Life"
+msgstr "Песак за живот"
+
+msgid "Gateway for Troops"
+msgstr "Капија за трупе"
+
+msgid "Guardian Knight"
+msgstr "Витез заштитник"
+
+msgid "Five Feudal Lords"
+msgstr "Пет феудалних лордова"
+
+msgid "SangJiin"
+msgstr "Санг Јин"
+
+msgid "Low Fence"
+msgstr "Ниска ограда"
+
+msgid "Tall Fence"
+msgstr "Висока ограда"
+
+msgid "Nine Lords"
+msgstr "Девет лордова"
+
+msgid "Dung of Tiger"
+msgstr "Тигров измет"
+
+msgid "Five Emperor"
+msgstr "Пет царева"
+
+msgid "Three Minister"
+msgstr "Три министра"
+
+msgid "Officer for Audience"
+msgstr "Говорник"
+
+msgid "Grave Front"
+msgstr "Предњи део гроба"
+
+msgid "Observatory"
+msgstr "Опсерваторија"
+
+msgid "Female Officer"
+msgstr "Жена официр"
+
+msgid "Wide Lodging Area"
+msgstr "Велики конак"
+
+msgid "Eight Cereals"
+msgstr "Осам житарица"
+
+msgid "Advance Guard"
+msgstr "Предстража"
+
+msgid "Three Ministers"
+msgstr "Три министра"
+
+msgid "Virtue"
+msgstr "Врлина"
+
+msgid "Emperor's God of War"
+msgstr "Краљев бог рата"
+
+msgid "Emperor's God of Weather"
+msgstr "Имераторов бог времена"
+
+msgid "Flap of Flag"
+msgstr "Залистак заставе"
+
+msgid "Minister"
+msgstr "Министар"
+
+msgid "General and Minister"
+msgstr "Генерал и министар"
+
+msgid "Jail of Sky"
+msgstr "Небески затвор"
+
+msgid "Six Department"
+msgstr "Шесто одељење"
+
+msgid "Inner Stairway"
+msgstr "Унутрашње степениште"
+
+msgid "Spear of Sky"
+msgstr "Небеско копље"
+
+msgid "Cover for Emperor"
+msgstr "Царев плашт"
+
+msgid "Place for Five Emperor"
+msgstr "Место за пет царева"
+
+msgid "60 Years"
+msgstr "60 година"
+
+msgid "Kitchen of Sky"
+msgstr "Небеска кухиња"
+
+msgid "North Pole"
+msgstr "Северни пол"
+
+msgid "Wound Lodge"
+msgstr "Пољска болница"
+
+msgid "Single-log Bridge"
+msgstr "Уски дрвени мост"
+
+msgid "Great Emperor"
+msgstr "Велики цар"
+
+msgid "Officer for Opinion"
+msgstr "Саветник"
+
+msgid "Pillar of Sky"
+msgstr "Небески стуб"
+
+msgid "Secretary"
+msgstr "Секретар"
+
+msgid "Maid"
+msgstr "Девојка"
+
+msgid "Desk of Woman"
+msgstr "Женски сто"
+
+msgid "Judge Prison"
+msgstr "Затворски судија"
+
+msgid "Purple Fence"
+msgstr "Пурпурна ограда"
+
+msgid "Order of Sky"
+msgstr "Редослед на небу"
+
+msgid "Seven Minister"
+msgstr "Седам министара"
+
+msgid "Thread Straw"
+msgstr "Нит сламе"
+
+msgid "Market Fence"
+msgstr "Ограда око пијаце"
+
+msgid "Feudal Lord"
+msgstr "Феудални лорд"
+
+msgid "Seat for Emperor"
+msgstr "Седиште за цара"
+
+msgid "Royal Family"
+msgstr "Краљевска породица"
+
+msgid "Head of Family"
+msgstr "Глава породице"
+
+msgid "Record of Family"
+msgstr "Записик о фамилији"
+
+msgid "Officer for Family"
+msgstr "Породични службеник"
+
+msgid "Tower in Market"
+msgstr "Кула на пијаци"
+
+msgid "Measure Cereal"
+msgstr "Мера житарица"
+
+msgid "Cereal Measure Regulation"
+msgstr "Подешавање мере житарице"
+
+msgid "Officer for Chariots"
+msgstr "Командант двоколица"
+
+msgid "Measure Amount"
+msgstr "Мера количине"
+
+msgid "Butchery"
+msgstr "Кланица"
+
+msgid "Officer for Jewel"
+msgstr "Чувар драгуља"
+
+msgid "Royal"
+msgstr "Краљевски"
+
+msgid "Lord"
+msgstr "Лорд"
+
+msgid "Left Executor"
+msgstr "Леви егзекутор"
+
+msgid "Right Executor"
+msgstr "Десни егзекутор"
+
+msgid "Crossbeam for Heo"
+msgstr "Хеова греда"
+
+msgid "Threading Coins"
+msgstr "Нанизани новчићи"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "Чеон Го"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "Геонг"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "ЈеУ"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "ЈеЕ"
+
+msgid "TaeMin"
+msgstr "ТаеМин"
+
+msgid "SouMin"
+msgstr "СоуМин"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "ХвангЈе"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "Јеонг"
+
+msgid "Beop"
+msgstr "Беоп"
+
+msgid "Ryeong"
+msgstr "Рионг"
+
+msgid "Beol"
+msgstr "Беол"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "Еунг"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

@@ -1,0 +1,953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: abuyop <abuyop@gmail.com>, 2022\n"
+"Language-Team: Malay (https://app.transifex.com/stellarium/teams/80998/ms/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ms\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "Anjing"
+
+msgid "Arrow"
+msgstr "Anak Panah"
+
+msgid "Bow"
+msgstr "Busur"
+
+msgid "Fish"
+msgstr "Ikan"
+
+msgid "Northern Dipper"
+msgstr "Pencedok Utara"
+
+msgid "Toilet"
+msgstr "Tandas"
+
+msgid "Whip"
+msgstr "Cemeti"
+
+msgid "Mausoleum"
+msgstr "Makam"
+
+msgid "Mortar"
+msgstr "Mortar"
+
+msgid "Rolled Tongue"
+msgstr "Lidah Tergulung"
+
+msgid "Chaff"
+msgstr "Tatal"
+
+msgid "Whetstone"
+msgstr "Batu Asah"
+
+msgid "Inner Kitchen"
+msgstr "Dapur Dalam"
+
+msgid "Three Steps"
+msgstr "Tiga Langkah"
+
+msgid "Eunuch"
+msgstr "Sida-sida"
+
+msgid "Crown Prince"
+msgstr "Puter Mahkota"
+
+msgid "Official for Materials Supply"
+msgstr "Pegawai Bekalan Bahan"
+
+msgid "Outer Kitchen"
+msgstr "Dapur Luar"
+
+msgid "Five Lords"
+msgstr "Lima Pembesar"
+
+msgid "Right Flag"
+msgstr "Bendera Kanan"
+
+msgid "Son"
+msgstr "Anak Lelaki"
+
+msgid "Left Flag"
+msgstr "Bendera Kiri"
+
+msgid "Charioteer"
+msgstr "Pemandu Kereta Kuda"
+
+msgid "Holy Kettle"
+msgstr "Cerek Suci"
+
+msgid "Farm of Capital City"
+msgstr "Ladang Ibu Negeri"
+
+msgid "Dignity of King"
+msgstr "Martabat Raja"
+
+msgid "Nomination"
+msgstr "Penamaan"
+
+msgid "Gate of Sky"
+msgstr "Pintu Pagar Langit"
+
+msgid "Equality"
+msgstr "Kesamaan"
+
+msgid "Helper"
+msgstr "Pembantu"
+
+msgid "Position of Holy King"
+msgstr "Kedudukan Raja Suci"
+
+msgid "Neck of Dragon"
+msgstr "Leher Naga"
+
+msgid "Beheading"
+msgstr "Memenggal Kepala"
+
+msgid "Judge"
+msgstr "Hakim"
+
+msgid "Flutting Flag"
+msgstr "Bendera Bergaluran"
+
+msgid "Javelin of Sky"
+msgstr "Tombak Langit"
+
+msgid "Seat for Longevity"
+msgstr "Tempat Duduk Panjang Umur"
+
+msgid "Oar for visitor"
+msgstr "Dayung untuk pelawat"
+
+msgid "Milk of Sky"
+msgstr "Susu Langit"
+
+msgid "House of Queen"
+msgstr "Rumah Permaisuri"
+
+msgid "Ancient Chariot"
+msgstr "Kereta Kuda Purba"
+
+msgid "Carriage for King"
+msgstr "Pedati untuk Raja"
+
+msgid "General of Cavalry"
+msgstr "Jeneral Askar Berkuda"
+
+msgid "Cavalry of Emperor"
+msgstr "Askar Berkuda Maharaja"
+
+msgid "General of Mobile Troops"
+msgstr "Jeneral Askar"
+
+msgid "East Road"
+msgstr "Jalan Timur"
+
+msgid "Gate Bolt"
+msgstr "Selak Pintu Pagar"
+
+msgid "Door Lock and Key"
+msgstr "Kunci dan Anak Kunci Pintu"
+
+msgid "Penalty"
+msgstr "Penalti"
+
+msgid "Royal Hall"
+msgstr "Dewan Diraja"
+
+msgid "Chamberlain"
+msgstr "Pengelola Bijaya"
+
+msgid "Sun"
+msgstr "Matahari"
+
+msgid "West Road"
+msgstr "Jalan Barat"
+
+msgid "Seat of Emperor"
+msgstr "Tempat Duduk Maharaja"
+
+msgid "Five Troops"
+msgstr "Lima Askar"
+
+msgid "River of Sky"
+msgstr "Sungai Langit"
+
+msgid "Prayer for Progeny"
+msgstr "Sembahyang untuk anak cucu"
+
+msgid "Forcast"
+msgstr "Ramalan"
+
+msgid "Yard for Empresses"
+msgstr "Ruang untuk Maharani"
+
+msgid "Holy Palace"
+msgstr "Istana Suci"
+
+msgid "Winnow"
+msgstr "Mengangin"
+
+msgid "Outer Pestle"
+msgstr "Antan Luar"
+
+msgid "Head of Town"
+msgstr "Ketua Kampung"
+
+msgid "Build"
+msgstr "Binaan"
+
+msgid "Fowl of Sky"
+msgstr "Unggas Langit"
+
+msgid "Shrine of Sky"
+msgstr "Keramat Langit"
+
+msgid "Northeastern Nations"
+msgstr "Negari Timur Laut"
+
+msgid "Old Farmer"
+msgstr "Petani Tua"
+
+msgid "Snapping Turtle"
+msgstr "Kura-kura Menyentap"
+
+msgid "Road for Emperor"
+msgstr "Jalan Maharaja"
+
+msgid "The Weaver"
+msgstr "Penenun"
+
+msgid "River adjoining Tower"
+msgstr "Sungai bersambung dengan Menara"
+
+msgid "Drum of River"
+msgstr "Ikan Sungai"
+
+msgid "Drumstick of Sky"
+msgstr "Kayu Gendang Langit"
+
+msgid "Cow leading Man"
+msgstr "Lembu menuntun Lelaki"
+
+msgid "Bank Spread"
+msgstr "Kadar Bunga Bank"
+
+msgid "Basket for Silkworm"
+msgstr "Sebakul Ulat Sutera"
+
+msgid "Officer for Cart"
+msgstr "Pegawai Kereta Kuda"
+
+msgid "Ferry of Sky"
+msgstr "Feri Langit"
+
+msgid "Fruit"
+msgstr "Buah-buahan"
+
+msgid "Seed"
+msgstr "Benih"
+
+msgid "Storage for Lady"
+msgstr "Tempat Simpanan Wanita"
+
+msgid "Court Lady"
+msgstr "Istana Wanita"
+
+msgid "Judge Fault"
+msgstr "Kesilapan Hakim"
+
+msgid "Amend Fault"
+msgstr "Kesilapan Pindaan"
+
+msgid "Grant Life"
+msgstr "Diberi Nyawa"
+
+msgid "Punish"
+msgstr "Hukum"
+
+msgid "Empty House"
+msgstr "Rumah Kosong"
+
+msgid "Weep"
+msgstr "Menangis"
+
+msgid "Sob"
+msgstr "Teresak-esak"
+
+msgid "Castle with Rampart"
+msgstr "Istana dengan Kubu"
+
+msgid "Hook for Dress"
+msgstr "Cangkuk Pakaian"
+
+msgid "Groom"
+msgstr "Penjaga Kuda"
+
+msgid "Human"
+msgstr "Manusia"
+
+msgid "Inner Pestle"
+msgstr "Antan Dalaman"
+
+msgid "Warehouse of Sky"
+msgstr "Gudang Langit"
+
+msgid "Tomb"
+msgstr "Kubur"
+
+msgid "Cover of House"
+msgstr "Pelinding Rumah"
+
+msgid "Broken Mortar"
+msgstr "Meriam Rosak"
+
+msgid "Climbing Serpent"
+msgstr "Ular yang Mendaki"
+
+msgid "Palace of Emperor"
+msgstr "Istana Maharaja"
+
+msgid "Detached Palace"
+msgstr "Istana Terasing"
+
+msgid "Lightening"
+msgstr "Meringan"
+
+msgid "Rampart"
+msgstr "Kubu"
+
+msgid "Troops of Sky"
+msgstr "Askar Langit"
+
+msgid "Village for Patrol"
+msgstr "Rondaan Kampung"
+
+msgid "Net of Sky"
+msgstr "Jaring Langit"
+
+msgid "Stable of Sky"
+msgstr "Kandang Langit"
+
+msgid "Eastern Wall"
+msgstr "Dinding Timur"
+
+msgid "Civil Engineer"
+msgstr "Jurutera Awam"
+
+msgid "Thunderbolts"
+msgstr "Petir"
+
+msgid "Clouds and Rain"
+msgstr "Awan dan Hujan"
+
+msgid "Highway"
+msgstr "Lebuhraya"
+
+msgid "Officer for Chariot of"
+msgstr "Pegawai Kereta Berkuda"
+
+msgid "Side Road"
+msgstr "Tepi Jalan"
+
+msgid "Armory"
+msgstr "Gedung Senjata"
+
+msgid "Southern Gate of Emperator"
+msgstr "Pintu Pagar Timur Emperator"
+
+msgid "Outer Folding Screen"
+msgstr "Tudung Boleh Lipat Luar"
+
+msgid "Toilet of Sky"
+msgstr "Tandas Langit"
+
+msgid "Architect"
+msgstr "Arkitek"
+
+msgid "Emperator"
+msgstr "Emperator"
+
+msgid "Watchtower"
+msgstr "Menara Pengawal"
+
+msgid "Left Elm"
+msgstr "Elm Kiri"
+
+msgid "Right Elm"
+msgstr "Elm Kanan"
+
+msgid "Storehouse of Sky"
+msgstr "Gudang Langit"
+
+msgid "Stack of Cereals"
+msgstr "Tindanan Bijirin"
+
+msgid "Ship of Sky"
+msgstr "Kapal Langit"
+
+msgid "Store of Water"
+msgstr "Simpanan Air"
+
+msgid "Heap of Corpse"
+msgstr "Timbunan Mayat"
+
+msgid "Stomach of Tiger"
+msgstr "Perut Harimau"
+
+msgid "Store of Millet for"
+msgstr "Simpanan Milet"
+
+msgid "Storehouse for Cereals"
+msgstr "Gudang Bijirin"
+
+msgid "Shaman of Sky"
+msgstr "Bomoh Langit"
+
+msgid "Ear and Eye of"
+msgstr "Mata dan Telinga"
+
+msgid "Moon"
+msgstr "Bulan"
+
+msgid "Hill of Sky"
+msgstr "Bukit Langit"
+
+msgid "Conspiracy of Sky"
+msgstr "Konspirasi Langit"
+
+msgid "Fodder"
+msgstr "Makanan Haiwan"
+
+msgid "Garage for Chariot"
+msgstr "Garaj Kereta Kuda"
+
+msgid "Pond for Fish"
+msgstr "Kolam Ikan"
+
+msgid "Pillar"
+msgstr "Tiang"
+
+msgid "Puddle of Sky"
+msgstr "Lopak Langit"
+
+msgid "Kings"
+msgstr "Raja"
+
+msgid "Gateway of Sky"
+msgstr "Pintu Laluan Langit"
+
+msgid "Flage of Saam"
+msgstr "Bendera Saam"
+
+msgid "Village of Sky"
+msgstr "Kampung Langit"
+
+msgid "Belvedere of Sky"
+msgstr "Belvedere Langit"
+
+msgid "General of Border"
+msgstr "Jeneral Sempadan"
+
+msgid "Celebration of Sky"
+msgstr "Perayaan Langit"
+
+msgid "Flag of Emperor"
+msgstr "Bendera Maharaja"
+
+msgid "Nine Territory"
+msgstr "Sembilan Wilayah"
+
+msgid "Garden of Sky"
+msgstr "Kebun Langit"
+
+msgid "Settled Flag"
+msgstr "Bendera Tidak Berkibar"
+
+msgid "Forcast Calamity"
+msgstr "Ramalan Bencana"
+
+msgid "Scout of Three Troups"
+msgstr "Peninjau Tiga Pasukan"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Pasukan Ekspedisi"
+
+msgid "Well for Millitary"
+msgstr "Perigi Tentera"
+
+msgid "Well of Jade"
+msgstr "Perigi Jed"
+
+msgid "Folding Screen"
+msgstr "Tudung Boleh Lipat"
+
+msgid "Piled Brushwood"
+msgstr "Longgokan Ranting Kayu"
+
+msgid "Northern River"
+msgstr "Sungai Utara"
+
+msgid "Wine Glass of Sky"
+msgstr "Gelas Arak Langit"
+
+msgid "Eastern Well"
+msgstr "Perigi Timur"
+
+msgid "Flood control"
+msgstr "Kawalan Banjir"
+
+msgid "Balance of Water"
+msgstr "Kesimbangan Air"
+
+msgid "Four Spirit of River"
+msgstr "Empat Semangat Sungai"
+
+msgid "Southern River"
+msgstr "Sungai Selatan"
+
+msgid "Twin Gate"
+msgstr "Pintu Pagar Berkembar"
+
+msgid "Star of Wolf"
+msgstr "Bintang Serigala"
+
+msgid "Wild Fowls"
+msgstr "Unggas Liar"
+
+msgid "Market for Army"
+msgstr "Pasar Tentera"
+
+msgid "Grandchildren"
+msgstr "Cucu"
+
+msgid "Grown-up"
+msgstr "Dewasa"
+
+msgid "Oldman"
+msgstr "Orang Tua"
+
+msgid "Beacon"
+msgstr "Mata Arah"
+
+msgid "Eye of Sky"
+msgstr "Mata Langit"
+
+msgid "Pile of Dead"
+msgstr "Timbunan Mayat"
+
+msgid "Green Ridge"
+msgstr "Permatang Hijau"
+
+msgid "Dog of Sky"
+msgstr "Anjing Langit"
+
+msgid "Spirit of GuRyoung"
+msgstr "Semangat GuRyong"
+
+msgid "Flag of Wine Officer"
+msgstr "Bendera Pegawai Arak"
+
+msgid "Officer of Kitchen"
+msgstr "Pegawai Dapur"
+
+msgid "Equality and Fair"
+msgstr "Kesamaan dan Keadilan"
+
+msgid "Emperor HeonWon"
+msgstr "Maharaja HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Ibu Negeri Langit"
+
+msgid "Chief of Farming"
+msgstr "Ketua Petani"
+
+msgid "Officer of Tomb"
+msgstr "Pegawai Makam"
+
+msgid "Tomb of Sky"
+msgstr "Makam Langit"
+
+msgid "Wing of Red Bird"
+msgstr "Sayap Burung Merah"
+
+msgid "Eastern Pottery"
+msgstr "Tembikar Timur"
+
+msgid "Chariot of Emperor"
+msgstr "Kereta Kuda Maharaja"
+
+msgid "Sand for Life"
+msgstr "Pasir Hayat"
+
+msgid "Gateway for Troops"
+msgstr "Laluan Pasukan"
+
+msgid "Guardian Knight"
+msgstr "Ksatria Pelindung"
+
+msgid "Five Feudal Lords"
+msgstr "Lima Pembesar Feudal"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Pagar Rendah"
+
+msgid "Tall Fence"
+msgstr "Pagar Tinggi"
+
+msgid "Nine Lords"
+msgstr "Sembilan Pembesar"
+
+msgid "Dung of Tiger"
+msgstr "Najis Harimau"
+
+msgid "Five Emperor"
+msgstr "Lima Maharaja"
+
+msgid "Three Minister"
+msgstr "Tiga Menteri"
+
+msgid "Officer for Audience"
+msgstr "Pegawai Menghadap"
+
+msgid "Grave Front"
+msgstr "Hadapan Kubur"
+
+msgid "Observatory"
+msgstr "Balai Cerap"
+
+msgid "Female Officer"
+msgstr "Pegawai Wanita"
+
+msgid "Wide Lodging Area"
+msgstr "Kawasan Penginapan"
+
+msgid "Eight Cereals"
+msgstr "Lapan Bijirin"
+
+msgid "Advance Guard"
+msgstr "Pengawal Hadapan"
+
+msgid "Three Ministers"
+msgstr "Tiga Menteri"
+
+msgid "Virtue"
+msgstr "Kebaikan"
+
+msgid "Emperor's God of War"
+msgstr "Dewa Perang Maharaja"
+
+msgid "Emperor's God of Weather"
+msgstr "Dewa Cuaca Maharaja"
+
+msgid "Flap of Flag"
+msgstr "Kibaran Bendera"
+
+msgid "Minister"
+msgstr "Menteri"
+
+msgid "General and Minister"
+msgstr "Jeneral dan Menteri"
+
+msgid "Jail of Sky"
+msgstr "Penjara Langit"
+
+msgid "Six Department"
+msgstr "Enam Jabatan"
+
+msgid "Inner Stairway"
+msgstr "Tangga Dalam"
+
+msgid "Spear of Sky"
+msgstr "Tombak Langit"
+
+msgid "Cover for Emperor"
+msgstr "Tudung Maharaja"
+
+msgid "Place for Five Emperor"
+msgstr "Istana Lima Maharaja"
+
+msgid "60 Years"
+msgstr "60 Tahun"
+
+msgid "Kitchen of Sky"
+msgstr "Dapur Langit"
+
+msgid "North Pole"
+msgstr "Kutub Utara"
+
+msgid "Wound Lodge"
+msgstr "Penginapan"
+
+msgid "Single-log Bridge"
+msgstr "Jambatan Sebatang"
+
+msgid "Great Emperor"
+msgstr "Maharaja Agung"
+
+msgid "Officer for Opinion"
+msgstr "Pegawai Penasihat"
+
+msgid "Pillar of Sky"
+msgstr "Tiang Langit"
+
+msgid "Secretary"
+msgstr "Setiausaha"
+
+msgid "Maid"
+msgstr "Dayang"
+
+msgid "Desk of Woman"
+msgstr "Meja Wanita"
+
+msgid "Judge Prison"
+msgstr "Hakim Penjara"
+
+msgid "Purple Fence"
+msgstr "Pagar Ungu"
+
+msgid "Order of Sky"
+msgstr "Peraturan Langit"
+
+msgid "Seven Minister"
+msgstr "Tujuh Menteri"
+
+msgid "Thread Straw"
+msgstr "Jerami"
+
+msgid "Market Fence"
+msgstr "Pagar Pasar"
+
+msgid "Feudal Lord"
+msgstr "Pembesar"
+
+msgid "Seat for Emperor"
+msgstr "Tempat Duduk Maharaja"
+
+msgid "Royal Family"
+msgstr "Keluarga Diraja"
+
+msgid "Head of Family"
+msgstr "Ketua Keluarga"
+
+msgid "Record of Family"
+msgstr "Sejarah Keluarga"
+
+msgid "Officer for Family"
+msgstr "Pegawai untuk Keluarga"
+
+msgid "Tower in Market"
+msgstr "Menara di Pasar"
+
+msgid "Measure Cereal"
+msgstr "Sukat Bijirin"
+
+msgid "Cereal Measure Regulation"
+msgstr "Peraturan Sukatan Bijirin"
+
+msgid "Officer for Chariots"
+msgstr "Pegawai untuk Kereta Kuda"
+
+msgid "Measure Amount"
+msgstr "Jumlah Sukatan"
+
+msgid "Butchery"
+msgstr "Pejagalan"
+
+msgid "Officer for Jewel"
+msgstr "Pegawai untuk permata"
+
+msgid "Royal"
+msgstr "Diraja"
+
+msgid "Lord"
+msgstr "Pembesar"
+
+msgid "Left Executor"
+msgstr "Wasi Kiri"
+
+msgid "Right Executor"
+msgstr "Wasi Kanan"
+
+msgid "Crossbeam for Heo"
+msgstr "Alang untuk Heo"
+
+msgid "Threading Coins"
+msgstr "Syiling Berulir"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

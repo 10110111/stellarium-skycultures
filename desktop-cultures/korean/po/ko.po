@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: ysjbserver <ysjbserver@naver.com>, 2023\n"
+"Language-Team: Korean (https://app.transifex.com/stellarium/teams/80998/"
+"ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "한국"
+
+msgid "Dog"
+msgstr "구(狗)"
+
+msgid "Arrow"
+msgstr "천시(天矢)"
+
+msgid "Bow"
+msgstr "호(弧)"
+
+msgid "Fish"
+msgstr "어(魚)"
+
+msgid "Northern Dipper"
+msgstr "북두(北斗)"
+
+msgid "Toilet"
+msgstr "측(廁)"
+
+msgid "Whip"
+msgstr "책(策)"
+
+msgid "Mausoleum"
+msgstr "대릉(大陵)"
+
+msgid "Mortar"
+msgstr "구(臼)"
+
+msgid "Rolled Tongue"
+msgstr "권설(卷舌)"
+
+msgid "Chaff"
+msgstr "강(糠)"
+
+msgid "Whetstone"
+msgstr "여석(礪石)"
+
+msgid "Inner Kitchen"
+msgstr "내주(內廚)"
+
+msgid "Three Steps"
+msgstr "삼태(三台)"
+
+msgid "Eunuch"
+msgstr "세(勢)"
+
+msgid "Crown Prince"
+msgstr "태자(太子)"
+
+msgid "Official for Materials Supply"
+msgstr "토공리(土公吏)"
+
+msgid "Outer Kitchen"
+msgstr "외주(外廚)"
+
+msgid "Five Lords"
+msgstr "오제후(五諸侯)"
+
+msgid "Right Flag"
+msgstr "우기(右旗)"
+
+msgid "Son"
+msgstr "자(子)"
+
+msgid "Left Flag"
+msgstr "좌기(左旗)"
+
+msgid "Charioteer"
+msgstr "마차부"
+
+msgid "Holy Kettle"
+msgstr "주정(周鼎)"
+
+msgid "Farm of Capital City"
+msgstr "천전(天田)"
+
+msgid "Dignity of King"
+msgstr "각(角)"
+
+msgid "Nomination"
+msgstr "진현(進賢)"
+
+msgid "Gate of Sky"
+msgstr "천문(天門)"
+
+msgid "Equality"
+msgstr "평(平)"
+
+msgid "Helper"
+msgstr "섭제(攝提)"
+
+msgid "Position of Holy King"
+msgstr "대각(大角)"
+
+msgid "Neck of Dragon"
+msgstr "항(亢)"
+
+msgid "Beheading"
+msgstr "절위(折威)"
+
+msgid "Judge"
+msgstr "돈완(頓頑)"
+
+msgid "Flutting Flag"
+msgstr "초요(招搖)"
+
+msgid "Javelin of Sky"
+msgstr "경하(梗河)"
+
+msgid "Seat for Longevity"
+msgstr "제석(帝席)"
+
+msgid "Oar for visitor"
+msgstr "항지(亢池)"
+
+msgid "Milk of Sky"
+msgstr "천유(天乳)"
+
+msgid "House of Queen"
+msgstr "저(氐)"
+
+msgid "Ancient Chariot"
+msgstr "진거(陣車)"
+
+msgid "Carriage for King"
+msgstr "천폭(天輻)"
+
+msgid "General of Cavalry"
+msgstr "기진장군(騎陣將軍)"
+
+msgid "Cavalry of Emperor"
+msgstr "기관(騎官)"
+
+msgid "General of Mobile Troops"
+msgstr "거기(車騎)"
+
+msgid "East Road"
+msgstr "동함(東咸)"
+
+msgid "Gate Bolt"
+msgstr "건폐(鍵閉)"
+
+msgid "Door Lock and Key"
+msgstr "구검(鉤鈐)"
+
+msgid "Penalty"
+msgstr "벌(罰)"
+
+msgid "Royal Hall"
+msgstr "방(房)"
+
+msgid "Chamberlain"
+msgstr "종관(從官)"
+
+msgid "Sun"
+msgstr "태양"
+
+msgid "West Road"
+msgstr "서함(西咸)"
+
+msgid "Seat of Emperor"
+msgstr "심(心)"
+
+msgid "Five Troops"
+msgstr "적졸(積卒)"
+
+msgid "River of Sky"
+msgstr "천강(天江)"
+
+msgid "Prayer for Progeny"
+msgstr "부열(傅說)"
+
+msgid "Forcast"
+msgstr "귀(龜)"
+
+msgid "Yard for Empresses"
+msgstr "미(尾)"
+
+msgid "Holy Palace"
+msgstr "신궁(神宮)"
+
+msgid "Winnow"
+msgstr "기(箕)"
+
+msgid "Outer Pestle"
+msgstr "외저(外杵)"
+
+msgid "Head of Town"
+msgstr "천변(天弁)"
+
+msgid "Build"
+msgstr "립(立)"
+
+msgid "Fowl of Sky"
+msgstr "천계(天雞)"
+
+msgid "Shrine of Sky"
+msgstr "남두(南斗)"
+
+msgid "Northeastern Nations"
+msgstr "구국(狗國)"
+
+msgid "Old Farmer"
+msgstr "농장인(農丈人)"
+
+msgid "Snapping Turtle"
+msgstr "별(鼈)"
+
+msgid "Road for Emperor"
+msgstr "연도(輦道)"
+
+msgid "The Weaver"
+msgstr "직녀(織女)"
+
+msgid "River adjoining Tower"
+msgstr "점대(漸臺)"
+
+msgid "Drum of River"
+msgstr "하고(河鼓)"
+
+msgid "Drumstick of Sky"
+msgstr "천부(天桴)"
+
+msgid "Cow leading Man"
+msgstr "견우(牽牛)"
+
+msgid "Bank Spread"
+msgstr "나언(羅堰)"
+
+msgid "Basket for Silkworm"
+msgstr "부광(扶筐)"
+
+msgid "Officer for Cart"
+msgstr "해중(奚仲)"
+
+msgid "Ferry of Sky"
+msgstr "천진(天津)"
+
+msgid "Fruit"
+msgstr "포과(瓠瓜)"
+
+msgid "Seed"
+msgstr "패과(敗瓜)"
+
+msgid "Storage for Lady"
+msgstr "이주(離珠)"
+
+msgid "Court Lady"
+msgstr "수녀(須女)"
+
+msgid "Judge Fault"
+msgstr "사비(司非)"
+
+msgid "Amend Fault"
+msgstr "사위(司危)"
+
+msgid "Grant Life"
+msgstr "사록(司祿)"
+
+msgid "Punish"
+msgstr "사명(司命)"
+
+msgid "Empty House"
+msgstr "허(虛)"
+
+msgid "Weep"
+msgstr "곡(哭)"
+
+msgid "Sob"
+msgstr "읍(泣)"
+
+msgid "Castle with Rampart"
+msgstr "천루성(天壘城)"
+
+msgid "Hook for Dress"
+msgstr "구(臼)"
+
+msgid "Groom"
+msgstr "조보(造父)"
+
+msgid "Human"
+msgstr "인성(人星)"
+
+msgid "Inner Pestle"
+msgstr "내저(內杵)"
+
+msgid "Warehouse of Sky"
+msgstr "위(危)"
+
+msgid "Tomb"
+msgstr "분묘(墳墓)"
+
+msgid "Cover of House"
+msgstr "개옥(蓋屋)"
+
+msgid "Broken Mortar"
+msgstr "패구(敗臼)"
+
+msgid "Climbing Serpent"
+msgstr "등사(螣蛇)"
+
+msgid "Palace of Emperor"
+msgstr "실(室)"
+
+msgid "Detached Palace"
+msgstr "이궁(離宮)"
+
+msgid "Lightening"
+msgstr "뇌전(雷電)"
+
+msgid "Rampart"
+msgstr "누벽진(壘壁陣)"
+
+msgid "Troops of Sky"
+msgstr "우림군(羽林軍)"
+
+msgid "Village for Patrol"
+msgstr "북락사문(北落師門)"
+
+msgid "Net of Sky"
+msgstr "천강(天綱)"
+
+msgid "Stable of Sky"
+msgstr "천구(天廐)"
+
+msgid "Eastern Wall"
+msgstr "동벽(東壁)"
+
+msgid "Civil Engineer"
+msgstr "토공(土公)"
+
+msgid "Thunderbolts"
+msgstr "벽력(霹靂)"
+
+msgid "Clouds and Rain"
+msgstr "운우(雲雨)"
+
+msgid "Highway"
+msgstr "각도(閣道)"
+
+msgid "Officer for Chariot of"
+msgstr "왕랑(王郞)"
+
+msgid "Side Road"
+msgstr "부로(附路)"
+
+msgid "Armory"
+msgstr "규(奎)"
+
+msgid "Southern Gate of Emperator"
+msgstr "군남문(軍南門)"
+
+msgid "Outer Folding Screen"
+msgstr "외병(外屛)"
+
+msgid "Toilet of Sky"
+msgstr "천혼(天溷)"
+
+msgid "Architect"
+msgstr "사공(司空)"
+
+msgid "Emperator"
+msgstr "천장군(天將軍)"
+
+msgid "Watchtower"
+msgstr "루(婁)"
+
+msgid "Left Elm"
+msgstr "좌경(左更)"
+
+msgid "Right Elm"
+msgstr "우경(右更)"
+
+msgid "Storehouse of Sky"
+msgstr "천창(天倉)"
+
+msgid "Stack of Cereals"
+msgstr "천유(天庾)"
+
+msgid "Ship of Sky"
+msgstr "천선(天船)"
+
+msgid "Store of Water"
+msgstr "적수(積水)"
+
+msgid "Heap of Corpse"
+msgstr "적시(積尸)"
+
+msgid "Stomach of Tiger"
+msgstr "위(胃)"
+
+msgid "Store of Millet for"
+msgstr "천름(天廩)"
+
+msgid "Storehouse for Cereals"
+msgstr "천균(天囷)"
+
+msgid "Shaman of Sky"
+msgstr "천참(天讒)"
+
+msgid "Ear and Eye of"
+msgstr "묘(昴)"
+
+msgid "Moon"
+msgstr "달"
+
+msgid "Hill of Sky"
+msgstr "천아(天阿)"
+
+msgid "Conspiracy of Sky"
+msgstr "천음(天陰)"
+
+msgid "Fodder"
+msgstr "추고(芻蒿)"
+
+msgid "Garage for Chariot"
+msgstr "오거(五車)"
+
+msgid "Pond for Fish"
+msgstr "함지(咸池)"
+
+msgid "Pillar"
+msgstr "주(柱)"
+
+msgid "Puddle of Sky"
+msgstr "천황(天潢)"
+
+msgid "Kings"
+msgstr "제왕(諸王)"
+
+msgid "Gateway of Sky"
+msgstr "천관(天關)"
+
+msgid "Flage of Saam"
+msgstr "삼기(參旗)"
+
+msgid "Village of Sky"
+msgstr "천가(天街)"
+
+msgid "Belvedere of Sky"
+msgstr "천고(天高)"
+
+msgid "General of Border"
+msgstr "필(畢)"
+
+msgid "Celebration of Sky"
+msgstr "천절(天節)"
+
+msgid "Flag of Emperor"
+msgstr "구유(九斿)"
+
+msgid "Nine Territory"
+msgstr "구주주구(九州殊口)"
+
+msgid "Garden of Sky"
+msgstr "천원(天園)"
+
+msgid "Settled Flag"
+msgstr "좌기(座旗)"
+
+msgid "Forcast Calamity"
+msgstr "사괴(司怪)"
+
+msgid "Scout of Three Troups"
+msgstr "자(觜)"
+
+msgid "Saam"
+msgstr "삼(參)"
+
+msgid "Expeditionary Force"
+msgstr "벌(伐)"
+
+msgid "Well for Millitary"
+msgstr "군정(軍井)"
+
+msgid "Well of Jade"
+msgstr "옥정(玉井)"
+
+msgid "Folding Screen"
+msgstr "병(屛)"
+
+msgid "Piled Brushwood"
+msgstr "적신(積薪)"
+
+msgid "Northern River"
+msgstr "북하(北河)"
+
+msgid "Wine Glass of Sky"
+msgstr "천준(天樽)"
+
+msgid "Eastern Well"
+msgstr "동정(東井)"
+
+msgid "Flood control"
+msgstr "수부(水府)"
+
+msgid "Balance of Water"
+msgstr "수위(水位)"
+
+msgid "Four Spirit of River"
+msgstr "사독(四瀆)"
+
+msgid "Southern River"
+msgstr "남하(南河)"
+
+msgid "Twin Gate"
+msgstr "궐구(闕丘)"
+
+msgid "Star of Wolf"
+msgstr "낭성(狼星)"
+
+msgid "Wild Fowls"
+msgstr "야계(野鷄)"
+
+msgid "Market for Army"
+msgstr "군시(軍市)"
+
+msgid "Grandchildren"
+msgstr "손(孫)"
+
+msgid "Grown-up"
+msgstr "장인(丈人)"
+
+msgid "Oldman"
+msgstr "노인(老人)"
+
+msgid "Beacon"
+msgstr "관(爟)"
+
+msgid "Eye of Sky"
+msgstr "귀(鬼)"
+
+msgid "Pile of Dead"
+msgstr "적시(積尸)"
+
+msgid "Green Ridge"
+msgstr "청구(靑丘)"
+
+msgid "Dog of Sky"
+msgstr "천구(天狗)"
+
+msgid "Spirit of GuRyoung"
+msgstr "천사(天社)"
+
+msgid "Flag of Wine Officer"
+msgstr "주기(酒旗)"
+
+msgid "Officer of Kitchen"
+msgstr "유(柳)"
+
+msgid "Equality and Fair"
+msgstr "내평(內平)"
+
+msgid "Emperor HeonWon"
+msgstr "헌원(軒轅)"
+
+msgid "Capital of Sky"
+msgstr "성(星)"
+
+msgid "Chief of Farming"
+msgstr "직(稷)"
+
+msgid "Officer of Tomb"
+msgstr "장(張)"
+
+msgid "Tomb of Sky"
+msgstr "천묘(天廟)"
+
+msgid "Wing of Red Bird"
+msgstr "익(翼)"
+
+msgid "Eastern Pottery"
+msgstr "동구(東甌)"
+
+msgid "Chariot of Emperor"
+msgstr "진(軫)"
+
+msgid "Sand for Life"
+msgstr "장사(長沙)"
+
+msgid "Gateway for Troops"
+msgstr "군문(軍門)"
+
+msgid "Guardian Knight"
+msgstr "낭장(郞將)"
+
+msgid "Five Feudal Lords"
+msgstr "오제후(五諸侯)"
+
+msgid "SangJiin"
+msgstr "상진(常陳)"
+
+msgid "Low Fence"
+msgstr "소미(少微)"
+
+msgid "Tall Fence"
+msgstr "태미원(太微垣)"
+
+msgid "Nine Lords"
+msgstr "구경(九卿)"
+
+msgid "Dung of Tiger"
+msgstr "호분(虎賁)"
+
+msgid "Five Emperor"
+msgstr "오제좌(五帝座)"
+
+msgid "Three Minister"
+msgstr "삼공(三公)"
+
+msgid "Officer for Audience"
+msgstr "알자(謁者)"
+
+msgid "Grave Front"
+msgstr "명당(明堂)"
+
+msgid "Observatory"
+msgstr "영대(靈臺)"
+
+msgid "Female Officer"
+msgstr "여어(女御)"
+
+msgid "Wide Lodging Area"
+msgstr "전사(傳舍)"
+
+msgid "Eight Cereals"
+msgstr "팔곡(八穀)"
+
+msgid "Advance Guard"
+msgstr "천봉(天棓)"
+
+msgid "Three Ministers"
+msgstr "삼공(三公)"
+
+msgid "Virtue"
+msgstr "음덕(陰德)"
+
+msgid "Emperor's God of War"
+msgstr "천일(天一)"
+
+msgid "Emperor's God of Weather"
+msgstr "태일(太一)"
+
+msgid "Flap of Flag"
+msgstr "현과(玄戈)"
+
+msgid "Minister"
+msgstr "상(相)"
+
+msgid "General and Minister"
+msgstr "태양수(太陽守)"
+
+msgid "Jail of Sky"
+msgstr "천리(天理)"
+
+msgid "Six Department"
+msgstr "문창(文昌)"
+
+msgid "Inner Stairway"
+msgstr "내계(內階)"
+
+msgid "Spear of Sky"
+msgstr "천창(天槍)"
+
+msgid "Cover for Emperor"
+msgstr "화개(華蓋)"
+
+msgid "Place for Five Emperor"
+msgstr "오제내좌(五帝内座)"
+
+msgid "60 Years"
+msgstr "육갑(六甲)"
+
+msgid "Kitchen of Sky"
+msgstr "천주(天廚)"
+
+msgid "North Pole"
+msgstr "북극"
+
+msgid "Wound Lodge"
+msgstr "구진(勾陳)"
+
+msgid "Single-log Bridge"
+msgstr "강(杠)"
+
+msgid "Great Emperor"
+msgstr "천황(天皇)"
+
+msgid "Officer for Opinion"
+msgstr "상서(尙書)"
+
+msgid "Pillar of Sky"
+msgstr "천주(天柱)"
+
+msgid "Secretary"
+msgstr "주하사(柱下史)"
+
+msgid "Maid"
+msgstr "여사(女史)"
+
+msgid "Desk of Woman"
+msgstr "여상(女床)"
+
+msgid "Judge Prison"
+msgstr "천리(天理)"
+
+msgid "Purple Fence"
+msgstr "자미원(紫微垣)"
+
+msgid "Order of Sky"
+msgstr "천기(天紀)"
+
+msgid "Seven Minister"
+msgstr "칠공(七公)"
+
+msgid "Thread Straw"
+msgstr "관삭(貫索)"
+
+msgid "Market Fence"
+msgstr "천시원(天市垣)"
+
+msgid "Feudal Lord"
+msgstr "후(侯)"
+
+msgid "Seat for Emperor"
+msgstr "제좌(帝座)"
+
+msgid "Royal Family"
+msgstr "종성(宗星)"
+
+msgid "Head of Family"
+msgstr "종정(宗正)"
+
+msgid "Record of Family"
+msgstr "종인(宗人)"
+
+msgid "Officer for Family"
+msgstr "종대부(宗大夫)"
+
+msgid "Tower in Market"
+msgstr "시루(市樓)"
+
+msgid "Measure Cereal"
+msgstr "곡(斛)"
+
+msgid "Cereal Measure Regulation"
+msgstr "두(斗)"
+
+msgid "Officer for Chariots"
+msgstr "거사(車肆)"
+
+msgid "Measure Amount"
+msgstr "백탁(帛度)"
+
+msgid "Butchery"
+msgstr "도사(屠肆)"
+
+msgid "Officer for Jewel"
+msgstr "열사(列肆)"
+
+msgid "Royal"
+msgstr "좌할(左轄)"
+
+msgid "Lord"
+msgstr "우할(右轄)"
+
+msgid "Left Executor"
+msgstr "좌집법(左執法)"
+
+msgid "Right Executor"
+msgstr "우집법(右執法)"
+
+msgid "Crossbeam for Heo"
+msgstr "허량(虛梁)"
+
+msgid "Threading Coins"
+msgstr "천전(天錢)"
+
+msgid "SangSang"
+msgstr "상상"
+
+msgid "ChaSang"
+msgstr "차상"
+
+msgid "ChaJang"
+msgstr "차장"
+
+msgid "UJangGun"
+msgstr "우장군"
+
+msgid "DaeJangGun"
+msgstr "대장군"
+
+msgid "JwaJangGun"
+msgstr "좌장군"
+
+msgid "WangRang"
+msgstr "왕랑"
+
+msgid "CheonSa"
+msgstr "천사"
+
+msgid "CheonGou"
+msgstr "천고"
+
+msgid "SaGong"
+msgstr "사공"
+
+msgid "CheonOk"
+msgstr "천옥"
+
+msgid "CheonChang"
+msgstr "천창"
+
+msgid "Gyeong"
+msgstr "경"
+
+msgid "HuJangGun"
+msgstr "후장군"
+
+msgid "PyeonJangGun"
+msgstr "편장군"
+
+msgid "SamJangGun"
+msgstr "삼장군"
+
+msgid "TaeSa"
+msgstr "태사"
+
+msgid "BakSa"
+msgstr "박사"
+
+msgid "SamGong"
+msgstr "삼공"
+
+msgid "JaeUu"
+msgstr "재우"
+
+msgid "JaeSa"
+msgstr "재사"
+
+msgid "YeoJu"
+msgstr "여주"
+
+msgid "YeoEo"
+msgstr "여어"
+
+msgid "TaeMin"
+msgstr "태민"
+
+msgid "SouMin"
+msgstr "소민"
+
+msgid "Buin"
+msgstr "부인"
+
+msgid "WangBi"
+msgstr "왕비"
+
+msgid "HuGung"
+msgstr "후궁"
+
+msgid "HwangJae"
+msgstr "황제"
+
+msgid "CheoSa"
+msgstr "처사"
+
+msgid "EuiSa"
+msgstr "의사"
+
+msgid "DaeBu"
+msgstr "대부"
+
+msgid "SangTae"
+msgstr "상태"
+
+msgid "JungTae"
+msgstr "중태"
+
+msgid "HaTae"
+msgstr "하태"
+
+msgid "TaeJa"
+msgstr "태자"
+
+msgid "JaeWang"
+msgstr "재왕"
+
+msgid "SeoJa"
+msgstr "서자"
+
+msgid "CheonChu"
+msgstr "천추"
+
+msgid "SangJang"
+msgstr "상장"
+
+msgid "TaeSang"
+msgstr "태상"
+
+msgid "SaJu.DaeRi"
+msgstr "사주.대리"
+
+msgid "Jeong"
+msgstr "정"
+
+msgid "Beop"
+msgstr "법"
+
+msgid "Ryeong"
+msgstr "령"
+
+msgid "Beol"
+msgstr "벌"
+
+msgid "Sal"
+msgstr "살"
+
+msgid "Wi"
+msgstr "위"
+
+msgid "Eung"
+msgstr "응"
+
+msgid "MyeongDang"
+msgstr "명당"
+
+msgid "Hu"
+msgstr "후"
+
+msgid "Bin"
+msgstr "빈"
+
+msgid "DaeJang"
+msgstr "대장"

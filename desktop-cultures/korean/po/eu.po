@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Urtzi Odriozola <urtzi.odriozola@gmail.com>, 2022\n"
+"Language-Team: Basque (https://app.transifex.com/stellarium/teams/80998/"
+"eu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: eu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "Zakurra"
+
+msgid "Arrow"
+msgstr "Gezia"
+
+msgid "Bow"
+msgstr "Arkua"
+
+msgid "Fish"
+msgstr "Arraina"
+
+msgid "Northern Dipper"
+msgstr "Iparraldeko burruntzalia"
+
+msgid "Toilet"
+msgstr "Komuna"
+
+msgid "Whip"
+msgstr "Zartailua"
+
+msgid "Mausoleum"
+msgstr "Mausoleoa"
+
+msgid "Mortar"
+msgstr "Morteroa"
+
+msgid "Rolled Tongue"
+msgstr "Biribilkatutako mihia"
+
+msgid "Chaff"
+msgstr "Ahotza"
+
+msgid "Whetstone"
+msgstr "Zorroztarria"
+
+msgid "Inner Kitchen"
+msgstr "Barruko sukaldea"
+
+msgid "Three Steps"
+msgstr "Hiru pauso"
+
+msgid "Eunuch"
+msgstr "Eunukoa"
+
+msgid "Crown Prince"
+msgstr "Printze koroa"
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr "Kanpoko sukaldea"
+
+msgid "Five Lords"
+msgstr "Bost jaunak"
+
+msgid "Right Flag"
+msgstr "Eskuineko bandera"
+
+msgid "Son"
+msgstr "Semea"
+
+msgid "Left Flag"
+msgstr "Ezkerreko bandera"
+
+msgid "Charioteer"
+msgstr ""
+
+msgid "Holy Kettle"
+msgstr "Irakinontzi sakratua"
+
+msgid "Farm of Capital City"
+msgstr "Hiriburuko baserria"
+
+msgid "Dignity of King"
+msgstr "Erregearen duintasuna"
+
+msgid "Nomination"
+msgstr "Izendapena"
+
+msgid "Gate of Sky"
+msgstr "Zeruko atea"
+
+msgid "Equality"
+msgstr "Berdintasuna"
+
+msgid "Helper"
+msgstr "Laguntzailea"
+
+msgid "Position of Holy King"
+msgstr "Errege sakratuaren kokapena"
+
+msgid "Neck of Dragon"
+msgstr "Dragoiaren lepoa"
+
+msgid "Beheading"
+msgstr "Lepo-mozketa"
+
+msgid "Judge"
+msgstr "Epailea"
+
+msgid "Flutting Flag"
+msgstr ""
+
+msgid "Javelin of Sky"
+msgstr "Zeruko xabalina"
+
+msgid "Seat for Longevity"
+msgstr "Zahartzarorako eserlekua"
+
+msgid "Oar for visitor"
+msgstr "Bisitariarentzako arrauna"
+
+msgid "Milk of Sky"
+msgstr "Zeruko esnea"
+
+msgid "House of Queen"
+msgstr "Erreginaren etxea"
+
+msgid "Ancient Chariot"
+msgstr "Antzinako gurdia"
+
+msgid "Carriage for King"
+msgstr "Erregearentzako zalgurdia"
+
+msgid "General of Cavalry"
+msgstr "Zalditeriako jenerala"
+
+msgid "Cavalry of Emperor"
+msgstr "Enperadorearen zalditeria"
+
+msgid "General of Mobile Troops"
+msgstr "Soldadu-talde mugikorren jenerala"
+
+msgid "East Road"
+msgstr "Ekialdeko bidea"
+
+msgid "Gate Bolt"
+msgstr "Atearen zerraila"
+
+msgid "Door Lock and Key"
+msgstr "Zerraila eta giltza"
+
+msgid "Penalty"
+msgstr "Zigorra"
+
+msgid "Royal Hall"
+msgstr "Erret-aretoa"
+
+msgid "Chamberlain"
+msgstr ""
+
+msgid "Sun"
+msgstr "Eguzkia"
+
+msgid "West Road"
+msgstr "Mendebaldeko bidea"
+
+msgid "Seat of Emperor"
+msgstr "Enperadorearen jarlekua"
+
+msgid "Five Troops"
+msgstr "Bost soldadu-talde"
+
+msgid "River of Sky"
+msgstr "Zeruko ibaia"
+
+msgid "Prayer for Progeny"
+msgstr "Seme-alaben aldeko otoitza"
+
+msgid "Forcast"
+msgstr "Iragarpena"
+
+msgid "Yard for Empresses"
+msgstr ""
+
+msgid "Holy Palace"
+msgstr "Jauregi sakratua"
+
+msgid "Winnow"
+msgstr "Haizatu"
+
+msgid "Outer Pestle"
+msgstr "Kanpoko almeriz-eskua"
+
+msgid "Head of Town"
+msgstr "Herriko buruzagia"
+
+msgid "Build"
+msgstr "Eraiki"
+
+msgid "Fowl of Sky"
+msgstr "Zeruko etxe-hegaztia"
+
+msgid "Shrine of Sky"
+msgstr "Zeruko santutegia"
+
+msgid "Northeastern Nations"
+msgstr "Ipar-ekialdeko nazioak"
+
+msgid "Old Farmer"
+msgstr "Baserritar zaharra"
+
+msgid "Snapping Turtle"
+msgstr "Dortoka hozkaria"
+
+msgid "Road for Emperor"
+msgstr "Enperadorearentzako bidea"
+
+msgid "The Weaver"
+msgstr "Ehulea"
+
+msgid "River adjoining Tower"
+msgstr "Ibai ondoko dorrea"
+
+msgid "Drum of River"
+msgstr "Ibaiko danborra"
+
+msgid "Drumstick of Sky"
+msgstr "Zeruko danbor-makila"
+
+msgid "Cow leading Man"
+msgstr "Behien gidaria"
+
+msgid "Bank Spread"
+msgstr ""
+
+msgid "Basket for Silkworm"
+msgstr "Zeta-harrentzako saskia"
+
+msgid "Officer for Cart"
+msgstr "Gurdiaren ofiziala"
+
+msgid "Ferry of Sky"
+msgstr "Zeruko transbordadorea"
+
+msgid "Fruit"
+msgstr "Fruitua"
+
+msgid "Seed"
+msgstr "Hazia"
+
+msgid "Storage for Lady"
+msgstr "Anderearentzako biltegia"
+
+msgid "Court Lady"
+msgstr "Gorteko anderea"
+
+msgid "Judge Fault"
+msgstr "Epaitu okerra"
+
+msgid "Amend Fault"
+msgstr "Zuzendu okerra"
+
+msgid "Grant Life"
+msgstr "Bizia bermatu"
+
+msgid "Punish"
+msgstr "Zigorra"
+
+msgid "Empty House"
+msgstr "Etxe hutsa"
+
+msgid "Weep"
+msgstr "Negarra"
+
+msgid "Sob"
+msgstr "Negar-zotina"
+
+msgid "Castle with Rampart"
+msgstr "Harresidun gaztelua"
+
+msgid "Hook for Dress"
+msgstr "Soinekoarentzako kakoa"
+
+msgid "Groom"
+msgstr "Zaldizaina"
+
+msgid "Human"
+msgstr "Gizakia"
+
+msgid "Inner Pestle"
+msgstr "Barruko almeriz-eskua"
+
+msgid "Warehouse of Sky"
+msgstr "Zeruko biltegia"
+
+msgid "Tomb"
+msgstr "Hilobia"
+
+msgid "Cover of House"
+msgstr "Etxearen estalkia"
+
+msgid "Broken Mortar"
+msgstr "Mortero hautsia"
+
+msgid "Climbing Serpent"
+msgstr "Suge igokaria"
+
+msgid "Palace of Emperor"
+msgstr "Enperadorearen jauregia"
+
+msgid "Detached Palace"
+msgstr "Banako jauregia"
+
+msgid "Lightening"
+msgstr "Tximista"
+
+msgid "Rampart"
+msgstr "Harresia"
+
+msgid "Troops of Sky"
+msgstr "Zeruko soldadu-taldeak"
+
+msgid "Village for Patrol"
+msgstr ""
+
+msgid "Net of Sky"
+msgstr "Zeruko sarea"
+
+msgid "Stable of Sky"
+msgstr "Zeruko ukuilua"
+
+msgid "Eastern Wall"
+msgstr "Ekialdeko pareta"
+
+msgid "Civil Engineer"
+msgstr "Ingeniari zibila"
+
+msgid "Thunderbolts"
+msgstr "Tximistak"
+
+msgid "Clouds and Rain"
+msgstr "Hodeiak eta euria"
+
+msgid "Highway"
+msgstr "Errepidea"
+
+msgid "Officer for Chariot of"
+msgstr ""
+
+msgid "Side Road"
+msgstr "Bigarren mailako errepidea"
+
+msgid "Armory"
+msgstr "Armategia"
+
+msgid "Southern Gate of Emperator"
+msgstr "Enperadorearen hegoaldeko atea"
+
+msgid "Outer Folding Screen"
+msgstr ""
+
+msgid "Toilet of Sky"
+msgstr "Zeruko komuna"
+
+msgid "Architect"
+msgstr "Arkitektoa"
+
+msgid "Emperator"
+msgstr "Enperadorea"
+
+msgid "Watchtower"
+msgstr "Talaia"
+
+msgid "Left Elm"
+msgstr "Ezkerreko zumarra"
+
+msgid "Right Elm"
+msgstr "Eskuineko zumarra"
+
+msgid "Storehouse of Sky"
+msgstr "Zeruko biltegia"
+
+msgid "Stack of Cereals"
+msgstr "Zereal pila"
+
+msgid "Ship of Sky"
+msgstr "Zeruko itsasontzia"
+
+msgid "Store of Water"
+msgstr "Ur-biltegia"
+
+msgid "Heap of Corpse"
+msgstr "Hilotz pila"
+
+msgid "Stomach of Tiger"
+msgstr "Tigrearen urdaila"
+
+msgid "Store of Millet for"
+msgstr ""
+
+msgid "Storehouse for Cereals"
+msgstr "Zereal biltegia"
+
+msgid "Shaman of Sky"
+msgstr "Zeruko xamana"
+
+msgid "Ear and Eye of"
+msgstr ""
+
+msgid "Moon"
+msgstr "Ilargia"
+
+msgid "Hill of Sky"
+msgstr "Zeruko muinoa"
+
+msgid "Conspiracy of Sky"
+msgstr "Zeruko azpijokoa"
+
+msgid "Fodder"
+msgstr "Bazka"
+
+msgid "Garage for Chariot"
+msgstr "Gurdilekua"
+
+msgid "Pond for Fish"
+msgstr "Arrainentzako urmaela"
+
+msgid "Pillar"
+msgstr "PIlarea"
+
+msgid "Puddle of Sky"
+msgstr "Zeruko putzua"
+
+msgid "Kings"
+msgstr "Erregeak"
+
+msgid "Gateway of Sky"
+msgstr "Zeruko atea"
+
+msgid "Flage of Saam"
+msgstr "Saam-en bandera"
+
+msgid "Village of Sky"
+msgstr "Zeruko herrixka"
+
+msgid "Belvedere of Sky"
+msgstr ""
+
+msgid "General of Border"
+msgstr "Mugako jenerala"
+
+msgid "Celebration of Sky"
+msgstr ""
+
+msgid "Flag of Emperor"
+msgstr "Enperadorearen bandera"
+
+msgid "Nine Territory"
+msgstr "Bederatzi lurralde"
+
+msgid "Garden of Sky"
+msgstr "Zeruko lorategia"
+
+msgid "Settled Flag"
+msgstr ""
+
+msgid "Forcast Calamity"
+msgstr "Hondamendiaren iragarpena"
+
+msgid "Scout of Three Troups"
+msgstr ""
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr ""
+
+msgid "Well for Millitary"
+msgstr "Militarren putzua"
+
+msgid "Well of Jade"
+msgstr "Jadezko putzua"
+
+msgid "Folding Screen"
+msgstr ""
+
+msgid "Piled Brushwood"
+msgstr "Pilatutako sastrakak"
+
+msgid "Northern River"
+msgstr "Iparraldeko ibaia"
+
+msgid "Wine Glass of Sky"
+msgstr "Zeruko ardo kopa"
+
+msgid "Eastern Well"
+msgstr "Ekialdeko putzua"
+
+msgid "Flood control"
+msgstr ""
+
+msgid "Balance of Water"
+msgstr ""
+
+msgid "Four Spirit of River"
+msgstr "Ibaiko lau espirituak"
+
+msgid "Southern River"
+msgstr "Hegoaldeko ibaia"
+
+msgid "Twin Gate"
+msgstr "Ate bikia"
+
+msgid "Star of Wolf"
+msgstr "Otsoaren izarra"
+
+msgid "Wild Fowls"
+msgstr "Hegazti basatiak"
+
+msgid "Market for Army"
+msgstr "Armadaren merkatua"
+
+msgid "Grandchildren"
+msgstr "Bilobak"
+
+msgid "Grown-up"
+msgstr "Heldua"
+
+msgid "Oldman"
+msgstr "Gizon zaharra"
+
+msgid "Beacon"
+msgstr "Itsasargia"
+
+msgid "Eye of Sky"
+msgstr "Zeruko begia"
+
+msgid "Pile of Dead"
+msgstr "Hildakoen pila"
+
+msgid "Green Ridge"
+msgstr "Gailur berdea"
+
+msgid "Dog of Sky"
+msgstr "Zeruko zakurra"
+
+msgid "Spirit of GuRyoung"
+msgstr "GuRyoung-en espiritua"
+
+msgid "Flag of Wine Officer"
+msgstr "Ardoaren ofizialaren bandera"
+
+msgid "Officer of Kitchen"
+msgstr "Sukaldeko ofiziala"
+
+msgid "Equality and Fair"
+msgstr "Berdintasuna eta gizalegea"
+
+msgid "Emperor HeonWon"
+msgstr "HeonWon enperadorea"
+
+msgid "Capital of Sky"
+msgstr "Zeruko hiriburua"
+
+msgid "Chief of Farming"
+msgstr "Nekazaritzako buruzagia"
+
+msgid "Officer of Tomb"
+msgstr "Hilobiko ofiziala"
+
+msgid "Tomb of Sky"
+msgstr "Zeruko hilobia"
+
+msgid "Wing of Red Bird"
+msgstr "Txori gorriaren hegala"
+
+msgid "Eastern Pottery"
+msgstr "Ekialdeko eltzetegia"
+
+msgid "Chariot of Emperor"
+msgstr "Enperadorearen gurdia"
+
+msgid "Sand for Life"
+msgstr "Bizirako hondarra"
+
+msgid "Gateway for Troops"
+msgstr "Soldadu-taldeentzako atea"
+
+msgid "Guardian Knight"
+msgstr "Zaldun zaindaria"
+
+msgid "Five Feudal Lords"
+msgstr "Bost jaun feudalak"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Hesi baxua"
+
+msgid "Tall Fence"
+msgstr "Hesi altua"
+
+msgid "Nine Lords"
+msgstr "Bederatzi jaunak"
+
+msgid "Dung of Tiger"
+msgstr "Tigrearen gorotza"
+
+msgid "Five Emperor"
+msgstr "Bost enperadoreak"
+
+msgid "Three Minister"
+msgstr "Hiru ministroak"
+
+msgid "Officer for Audience"
+msgstr "Audientziako ofiziala"
+
+msgid "Grave Front"
+msgstr "Hilarria"
+
+msgid "Observatory"
+msgstr "Behatokia"
+
+msgid "Female Officer"
+msgstr "Emakumezko ofiziala"
+
+msgid "Wide Lodging Area"
+msgstr ""
+
+msgid "Eight Cereals"
+msgstr "Zortzi zerealak"
+
+msgid "Advance Guard"
+msgstr ""
+
+msgid "Three Ministers"
+msgstr "Hiru ministroak"
+
+msgid "Virtue"
+msgstr "Bertutea"
+
+msgid "Emperor's God of War"
+msgstr "Enperadorearen gerraren jainkoa"
+
+msgid "Emperor's God of Weather"
+msgstr "Enperadorearen eguraldiaren jainkoa"
+
+msgid "Flap of Flag"
+msgstr ""
+
+msgid "Minister"
+msgstr "Ministroa"
+
+msgid "General and Minister"
+msgstr "Jenerala eta ministroa"
+
+msgid "Jail of Sky"
+msgstr "Zeruko kartzela"
+
+msgid "Six Department"
+msgstr "Sei departamentuak"
+
+msgid "Inner Stairway"
+msgstr "Barruko eskailera"
+
+msgid "Spear of Sky"
+msgstr "Zeruko lantza"
+
+msgid "Cover for Emperor"
+msgstr "Enperadorearentzako estalkia"
+
+msgid "Place for Five Emperor"
+msgstr "Bost enperadoreentzako lekua"
+
+msgid "60 Years"
+msgstr "60 urte"
+
+msgid "Kitchen of Sky"
+msgstr "Zeruko sukaldea"
+
+msgid "North Pole"
+msgstr "Ipar poloa"
+
+msgid "Wound Lodge"
+msgstr "Zaurituen ostatua"
+
+msgid "Single-log Bridge"
+msgstr "Enbor bakarreko zubia"
+
+msgid "Great Emperor"
+msgstr "Enperadore handia"
+
+msgid "Officer for Opinion"
+msgstr ""
+
+msgid "Pillar of Sky"
+msgstr "Zeruko pilarea"
+
+msgid "Secretary"
+msgstr "Idazkaria"
+
+msgid "Maid"
+msgstr "Neskamea"
+
+msgid "Desk of Woman"
+msgstr "Emakumearen mahaia"
+
+msgid "Judge Prison"
+msgstr ""
+
+msgid "Purple Fence"
+msgstr "Hesi purpura"
+
+msgid "Order of Sky"
+msgstr "Zeruko agintea"
+
+msgid "Seven Minister"
+msgstr "Zazpi ministroak"
+
+msgid "Thread Straw"
+msgstr "Lasto haria"
+
+msgid "Market Fence"
+msgstr "Merkatuko hesia"
+
+msgid "Feudal Lord"
+msgstr "Jaun feudala"
+
+msgid "Seat for Emperor"
+msgstr "Enperadorearen jarlekua"
+
+msgid "Royal Family"
+msgstr "Errege-familia"
+
+msgid "Head of Family"
+msgstr "Familia burua"
+
+msgid "Record of Family"
+msgstr ""
+
+msgid "Officer for Family"
+msgstr "Familiaren ofiziala"
+
+msgid "Tower in Market"
+msgstr "Merkatuko dorrea"
+
+msgid "Measure Cereal"
+msgstr "Zereal-neurria"
+
+msgid "Cereal Measure Regulation"
+msgstr "Zereal-neurriaren araua"
+
+msgid "Officer for Chariots"
+msgstr "Gurdien ofiziala"
+
+msgid "Measure Amount"
+msgstr "Neurri kopurua"
+
+msgid "Butchery"
+msgstr "Sarraskia"
+
+msgid "Officer for Jewel"
+msgstr "Harribitxien ofiziala"
+
+msgid "Royal"
+msgstr "Erregearen"
+
+msgid "Lord"
+msgstr "Jauna"
+
+msgid "Left Executor"
+msgstr "Ezkerreko hiltzailea"
+
+msgid "Right Executor"
+msgstr "Eskuineko hiltzailea"
+
+msgid "Crossbeam for Heo"
+msgstr "Heo-ren zeharraga"
+
+msgid "Threading Coins"
+msgstr ""
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

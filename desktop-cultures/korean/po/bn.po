@@ -1,0 +1,1019 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Bengali (https://app.transifex.com/stellarium/teams/80998/"
+"bn/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "কোরীয়ান"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Chinese, Korean, and Japanese constellations have the same origin and "
+"look very similar in shape. They are represented respectively in the Dun "
+"Huang starmap from the 8th century, the Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do map "
+"and in the Kitora skymap painted in A.D.7C ~ 8C. Their positions and their "
+"names are similar in the Chinese alphabet. The name of the constellations "
+"first appear in the Records of the Grand Historian(史記) in Han dynasty "
+"describing Xia dynasty in about 2000 B.C."
+msgstr ""
+"চৈনিক, জাপানী ও কোরিয়ান সংস্কৃতির উৎস একই, তাই এগুলির বৈশিষ্ট্য প্রায় একই রকম । "
+"অষ্টম শতকের ডুন হুয়াঙ জ্যোতির্বৈজ্ঞানিক নকশা অথবা সিয়ন-স্যাঙ-ইওল-চা-বুন-য়া-জি-ডু "
+"নকশা, কিংবা ৭ম-৮ম শতকের কিটোরা চিত্রে এগুলির উল্লেখ পাওয়া য়ায় । এগুলির অবস্থান ও "
+"নামে চিনের বর্ণগুলিই ব্যবহার করা হয়ে থাকে । ২০০০ খ্রীষ্টপূর্বাব্দের হান সাম্রাজ্যের "
+"মহান ঐতিহাসিক (史記) কর্তৃক ঝিয়া সাম্রাজ্যের বর্ণনাতে নক্ষত্রমন্ডলগুলির প্রথম উল্লেখ "
+"পাওয়া যায় ।"
+
+# Sky culture description section in markdown format
+msgid ""
+"### Origin\n"
+"\n"
+"The 272 constellations displayed in this Stellarium sky culture are based on "
+"the Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do, the Korean Constellation map, which "
+"was carved on the stone on 1395 but has its origin from another sky map "
+"which existed about 2,000 years ago. This map represents 1467 stars in about "
+"190 constellations whose shapes are slightly different from the chinese "
+"ones. The interpretation of the map is not easy: the map is so old that only "
+"about 300 stars are found to match with the real stars. All the stars of the "
+"map were drawn on a circle, so the equator seems smaller than the southern "
+"limit. Because the density of constellation does not change with respect to "
+"the position, the position and the size of the constellations were somewhat "
+"altered in a way unknown by the author. It is assumed that there should be "
+"no bright stars which do not belong to any constellations. The work of the "
+"author is subject to interpretation, and could be changed at a later time. "
+"It will however roughly show what the Korean Constellation are like."
+msgstr ""
+"### বুৎপত্তি\n"
+"\n"
+"স্টেলারিয়ামে ব্যবহৃত ২৭২টি নক্ষত্রমন্ডলের বিবরণ সিয়ন-স্যাঙ-ইওল-চা-বুন-য়া-জি-ডু নকশা "
+"থেকে নেওয়া হয়েছে, যা ১৩৯৫ সালে খোদিত একটি শিলালিপি থেকে পাওয়া গেছে এবং এটি "
+"২০০০ সাল আগে থেকে প্রচলিত একটি নকশার প্রতিরূপ মাত্র । এই নকশায় ১৯০টি তারামন্ডল ও "
+"১৪৬৭টি নক্ষত্রের উল্লেখ রয়েছে যেগুলি চৈনিকদের থেকে সামান্য একটু আলাদা । এই নকশার "
+"তথ্য উদ্ধার করা সহজ ছিল না । কারণ নকশাটি খুবই পুরোনো ও সেটির থেকে মাত্র ৩০০টি "
+"তারাই আকাশে খুৃজে পাওয়া গেছে । এই নকশাটি ছিল বৃত্তাকার, ফলে নিরক্ষরেখা অনুপাতে "
+"কিছুটা ছোটো ছিল । যেহেতু নকশায় অবস্থান অনুযায়ী ঘনত্বের ব্যবহার করা হয় নি, তাই "
+"মন্ডলগুলির আকার ও অবস্থান একটু এদিক ওদিক হতে পারে । এটি তৈরীর সময় ধরে নেওয়া "
+"হয়েছে যে মন্ডলগুলির বাইরে কোনো উজ্জ্বল তারা নেই । তাই সমস্ত কাজটিই প্রস্তুত কারকের "
+"বিচার অনুযায়ী তৈরী হয়েছে, তাই ভবিষ্যতে এটির কিছু পরিবর্তন হতে পারে । সবশেষে বলা "
+"যেতেই পারে যে পুর্নাঙ্গ না হলে এটি কোরিয়ান জ্যোতিষের একটি যথার্থ রূপ তুলে ধরতে সক্ষম "
+"।"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+msgstr ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *[Jeong, Tae-Min](http://"
+"user.chollian.net/~jtm71/)*"
+msgstr "এটি প্রস্তুত করেছেন *[Jeong, Tae-Min](http://user.chollian.net/~jtm71/)*"
+
+msgid "Dog"
+msgstr "কুকুর"
+
+msgid "Arrow"
+msgstr "তীর"
+
+msgid "Bow"
+msgstr "ধনুক"
+
+msgid "Fish"
+msgstr "মাছ"
+
+msgid "Northern Dipper"
+msgstr "উত্তরের ভল্লুক"
+
+msgid "Toilet"
+msgstr "প্রস্রাবাগার"
+
+msgid "Whip"
+msgstr "চাবুক"
+
+msgid "Mausoleum"
+msgstr "সমাধিস্থল"
+
+msgid "Mortar"
+msgstr "হামানদিস্তা"
+
+msgid "Rolled Tongue"
+msgstr "গোটানো জিভ"
+
+msgid "Chaff"
+msgstr "তুঁষ"
+
+msgid "Whetstone"
+msgstr "শান দেওয়া পাথর"
+
+msgid "Inner Kitchen"
+msgstr "অন্তস্থঃ রান্নাঘর"
+
+msgid "Three Steps"
+msgstr "তিনটি ধাপ"
+
+msgid "Eunuch"
+msgstr "খোজা"
+
+msgid "Crown Prince"
+msgstr "যুবরাজ"
+
+msgid "Official for Materials Supply"
+msgstr "সামগ্রী সরবরাহের কর্মকর্তা"
+
+msgid "Outer Kitchen"
+msgstr "বহিস্থঃ রান্নাঘর"
+
+msgid "Five Lords"
+msgstr "পাঁচ জমিদার"
+
+msgid "Right Flag"
+msgstr "ডানদিকের পতাকা"
+
+msgid "Son"
+msgstr "পুত্র"
+
+msgid "Left Flag"
+msgstr "বামদিকের পতাকা"
+
+msgid "Charioteer"
+msgstr "সারথি"
+
+msgid "Holy Kettle"
+msgstr "পবিত্র কেটলি"
+
+msgid "Farm of Capital City"
+msgstr "রাজধানীর খামার"
+
+msgid "Dignity of King"
+msgstr "রাজ মর্যাদা"
+
+msgid "Nomination"
+msgstr "মনোনয়ন"
+
+msgid "Gate of Sky"
+msgstr "স্বর্গদ্বার"
+
+msgid "Equality"
+msgstr "সাম্যতা"
+
+msgid "Helper"
+msgstr "সহায়ক"
+
+msgid "Position of Holy King"
+msgstr "রাজার পবিত্র স্থান"
+
+msgid "Neck of Dragon"
+msgstr "ড্রাগনের ঘাড়"
+
+msgid "Beheading"
+msgstr "শিরশ্ছেদ"
+
+msgid "Judge"
+msgstr "বিচারক"
+
+msgid "Flutting Flag"
+msgstr "উড়ন্ত পতাকা"
+
+msgid "Javelin of Sky"
+msgstr "বর্শা"
+
+msgid "Seat for Longevity"
+msgstr "দীর্ঘায়ুর আসন"
+
+msgid "Oar for visitor"
+msgstr "আগন্তুকের বৈঠা"
+
+msgid "Milk of Sky"
+msgstr "স্বর্গের দুধ"
+
+msgid "House of Queen"
+msgstr "রাজার অন্দরমহল"
+
+msgid "Ancient Chariot"
+msgstr "প্রাচীন রথ"
+
+msgid "Carriage for King"
+msgstr "সম্রাটের ঘোড়াগাড়ি"
+
+msgid "General of Cavalry"
+msgstr "অশ্ববাহিনী সেনার সেনাপতি"
+
+msgid "Cavalry of Emperor"
+msgstr "সম্রাটের অশ্ববাহিনী"
+
+msgid "General of Mobile Troops"
+msgstr "ভ্রাম্যমান সেনার সেনাপতি"
+
+msgid "East Road"
+msgstr "পূর্বের রাস্তা"
+
+msgid "Gate Bolt"
+msgstr "দরজার কীল"
+
+msgid "Door Lock and Key"
+msgstr "দরজার তালা চাবি"
+
+msgid "Penalty"
+msgstr "জরিমানা"
+
+msgid "Royal Hall"
+msgstr "রাজ দালান"
+
+msgid "Chamberlain"
+msgstr "গৃহাধ্যক্ষ"
+
+msgid "Sun"
+msgstr "সূর্য"
+
+msgid "West Road"
+msgstr "পশ্চিমের রাস্তা"
+
+msgid "Seat of Emperor"
+msgstr "সিংহাসন"
+
+msgid "Five Troops"
+msgstr "পাঁচ সেনাবাহিনী"
+
+msgid "River of Sky"
+msgstr "স্বর্গের নদী"
+
+msgid "Prayer for Progeny"
+msgstr "সন্তানের জন্য প্রার্থনা"
+
+msgid "Forcast"
+msgstr "পূর্বাভাস"
+
+msgid "Yard for Empresses"
+msgstr "সম্রাটের বাগিচা"
+
+msgid "Holy Palace"
+msgstr "পবিত্র স্থল"
+
+msgid "Winnow"
+msgstr "শষ্য ঝাড়াই যন্ত্র"
+
+msgid "Outer Pestle"
+msgstr "বহিঃস্থ হামান দিস্তার মুষল"
+
+msgid "Head of Town"
+msgstr "শহরের প্রধান"
+
+msgid "Build"
+msgstr "নির্মাণ"
+
+msgid "Fowl of Sky"
+msgstr "স্বর্গের মোরগ"
+
+msgid "Shrine of Sky"
+msgstr "স্বর্গের মঠ"
+
+msgid "Northeastern Nations"
+msgstr "উত্তরের প্রদেশ"
+
+msgid "Old Farmer"
+msgstr "বৃদ্ধ কৃষক"
+
+msgid "Snapping Turtle"
+msgstr "ছোঁ মারা কচ্ছপ"
+
+msgid "Road for Emperor"
+msgstr "রাজপথ"
+
+msgid "The Weaver"
+msgstr "তাঁতী"
+
+msgid "River adjoining Tower"
+msgstr "নদী সংলগ্ন মিনার"
+
+msgid "Drum of River"
+msgstr "নদীর খাত"
+
+msgid "Drumstick of Sky"
+msgstr "ডঙ্কার কাঠি"
+
+msgid "Cow leading Man"
+msgstr "রাখাল"
+
+msgid "Bank Spread"
+msgstr "নদীর তীরের বিস্তার"
+
+msgid "Basket for Silkworm"
+msgstr "বেশম পোকা ভর্তি ঝুড়ি"
+
+msgid "Officer for Cart"
+msgstr "ঘোড়াগাড়ির কর্মকর্তা"
+
+msgid "Ferry of Sky"
+msgstr "স্বর্গের তরী"
+
+msgid "Fruit"
+msgstr "ফল"
+
+msgid "Seed"
+msgstr "বীজ"
+
+msgid "Storage for Lady"
+msgstr "গুদাম ঘর"
+
+msgid "Court Lady"
+msgstr "রাজ পরিচারিকা"
+
+msgid "Judge Fault"
+msgstr "ভুল বিচার"
+
+msgid "Amend Fault"
+msgstr "ভুল সংশোধন"
+
+msgid "Grant Life"
+msgstr "জীবন দান"
+
+msgid "Punish"
+msgstr "শাস্তি"
+
+msgid "Empty House"
+msgstr "খালি বাড়ি"
+
+msgid "Weep"
+msgstr "কাঁদা"
+
+msgid "Sob"
+msgstr "ফোঁপানি"
+
+msgid "Castle with Rampart"
+msgstr "প্রাচীর দেওয়া কেল্লা"
+
+msgid "Hook for Dress"
+msgstr "জামার হুক"
+
+msgid "Groom"
+msgstr "সাজগোজ"
+
+msgid "Human"
+msgstr "মানুষ"
+
+msgid "Inner Pestle"
+msgstr "অন্তস্থঃ হামানদিস্তার মুষল"
+
+msgid "Warehouse of Sky"
+msgstr "স্বর্গের গুদাম"
+
+msgid "Tomb"
+msgstr "সমাধি"
+
+msgid "Cover of House"
+msgstr "ঘরের আচ্ছাদন"
+
+msgid "Broken Mortar"
+msgstr "হামানদিস্তার ভাঙা খল"
+
+msgid "Climbing Serpent"
+msgstr "উপরে উঠতে থাকা সাপ"
+
+msgid "Palace of Emperor"
+msgstr "রাজপ্রাসাদ"
+
+msgid "Detached Palace"
+msgstr "বিচ্ছিন্ন প্রাসাদ"
+
+msgid "Lightening"
+msgstr "বজ্রপাত"
+
+msgid "Rampart"
+msgstr "কেল্লার প্রাচীর"
+
+msgid "Troops of Sky"
+msgstr "স্বর্গের সেনা"
+
+msgid "Village for Patrol"
+msgstr "টহলদারী চৌকি"
+
+msgid "Net of Sky"
+msgstr "স্বর্গের জাল"
+
+msgid "Stable of Sky"
+msgstr "স্বর্গের আস্তাবল"
+
+msgid "Eastern Wall"
+msgstr "পূর্বের প্রাচীর"
+
+msgid "Civil Engineer"
+msgstr "বাস্তু প্রযুক্তিবিদ"
+
+msgid "Thunderbolts"
+msgstr "বজ্রনাদ"
+
+msgid "Clouds and Rain"
+msgstr "মেঘ ও বৃষ্টি"
+
+msgid "Highway"
+msgstr "রাজপথ"
+
+msgid "Officer for Chariot of"
+msgstr "রথের আধিকারিক"
+
+msgid "Side Road"
+msgstr "পাশের গলি"
+
+msgid "Armory"
+msgstr "অস্ত্রাগার"
+
+msgid "Southern Gate of Emperator"
+msgstr "রাজবাড়ির দক্ষিনের দরজা"
+
+msgid "Outer Folding Screen"
+msgstr "বাইরের ভাঁজ করা পর্দা"
+
+msgid "Toilet of Sky"
+msgstr "স্বর্গের প্রস্রাবাগার"
+
+msgid "Architect"
+msgstr "স্থপতি"
+
+msgid "Emperator"
+msgstr "সম্রাট"
+
+msgid "Watchtower"
+msgstr "পাহারা দেওয়ার মিনার"
+
+msgid "Left Elm"
+msgstr "বাঁদিকের এল্ম গাছ"
+
+msgid "Right Elm"
+msgstr "ডানদিকের এল্ম গাছ"
+
+msgid "Storehouse of Sky"
+msgstr "স্বর্গের গুদাম ঘর"
+
+msgid "Stack of Cereals"
+msgstr "শষ্যের স্তুপ"
+
+msgid "Ship of Sky"
+msgstr "স্বর্গতরী"
+
+msgid "Store of Water"
+msgstr "জল ভান্ডার"
+
+msgid "Heap of Corpse"
+msgstr "মৃতের স্তুপ"
+
+msgid "Stomach of Tiger"
+msgstr "বাঘের পাকস্থলী"
+
+msgid "Store of Millet for"
+msgstr "জোয়ার বাজরার গুদাম"
+
+msgid "Storehouse for Cereals"
+msgstr "শষ্যাগার"
+
+msgid "Shaman of Sky"
+msgstr "স্বর্গের ওঝা"
+
+msgid "Ear and Eye of"
+msgstr "কান ও চোখ"
+
+msgid "Moon"
+msgstr "চাঁদ"
+
+msgid "Hill of Sky"
+msgstr "স্বর্গীয় পাহাড়"
+
+msgid "Conspiracy of Sky"
+msgstr "স্বর্গের ষড়যন্ত্র"
+
+msgid "Fodder"
+msgstr "পশুখাদ্য"
+
+msgid "Garage for Chariot"
+msgstr "রথশালা"
+
+msgid "Pond for Fish"
+msgstr "মেছো পুকুর"
+
+msgid "Pillar"
+msgstr "স্তম্ভ"
+
+msgid "Puddle of Sky"
+msgstr "স্বর্গের ঝিল"
+
+msgid "Kings"
+msgstr "সম্রাটেরা"
+
+msgid "Gateway of Sky"
+msgstr "স্বর্গের দরজা"
+
+msgid "Flage of Saam"
+msgstr "স্যামের পতাকা"
+
+msgid "Village of Sky"
+msgstr "স্বর্গের গ্রাম"
+
+msgid "Belvedere of Sky"
+msgstr "স্বর্গীয় ছাউনি"
+
+msgid "General of Border"
+msgstr "সীমানার সেনাপতি"
+
+msgid "Celebration of Sky"
+msgstr "স্বর্গের অনুষ্ঠান"
+
+msgid "Flag of Emperor"
+msgstr "রাজধ্বজা"
+
+msgid "Nine Territory"
+msgstr "নয় প্রদেশ"
+
+msgid "Garden of Sky"
+msgstr "স্বর্গের বাগান"
+
+msgid "Settled Flag"
+msgstr "স্থায়ী পতাকা"
+
+msgid "Forcast Calamity"
+msgstr "বিপদের পূর্বাভাস"
+
+msgid "Scout of Three Troups"
+msgstr "তিন সেনা গুপ্তচর"
+
+msgid "Saam"
+msgstr "স্যাম"
+
+msgid "Expeditionary Force"
+msgstr "যুদ্ধাভিয়ানের সেনাবাহিনী"
+
+msgid "Well for Millitary"
+msgstr "সেনা কুঁয়ো"
+
+msgid "Well of Jade"
+msgstr "জেড পাথরের কুঁয়ো"
+
+msgid "Folding Screen"
+msgstr "ভাঁজ করা পর্দা"
+
+msgid "Piled Brushwood"
+msgstr "ঝোপঝাড়ের স্তুপ"
+
+msgid "Northern River"
+msgstr "উত্তরের নদী"
+
+msgid "Wine Glass of Sky"
+msgstr "সুরাপাত্র"
+
+msgid "Eastern Well"
+msgstr "পূর্ব দিকের কুঁয়ো"
+
+msgid "Flood control"
+msgstr "বন্যা নিয়ন্ত্রণ"
+
+msgid "Balance of Water"
+msgstr "জলের ভারসাম্য"
+
+msgid "Four Spirit of River"
+msgstr "নদীর চার অশরীরী"
+
+msgid "Southern River"
+msgstr "দক্ষিনের নদী"
+
+msgid "Twin Gate"
+msgstr "যময দরজা"
+
+msgid "Star of Wolf"
+msgstr "নেকড়ে"
+
+msgid "Wild Fowls"
+msgstr "বুনো মোরগ"
+
+msgid "Market for Army"
+msgstr "সেনা বাজার"
+
+msgid "Grandchildren"
+msgstr "নাতি নাতনি"
+
+msgid "Grown-up"
+msgstr "প্রাপ্ত বয়স্ক"
+
+msgid "Oldman"
+msgstr "বৃদ্ধ"
+
+msgid "Beacon"
+msgstr "আলোক সঙ্কেত"
+
+msgid "Eye of Sky"
+msgstr "স্বর্গীয় চোখ"
+
+msgid "Pile of Dead"
+msgstr "মৃতের স্তুপ"
+
+msgid "Green Ridge"
+msgstr "সবুজ উপত্যকা"
+
+msgid "Dog of Sky"
+msgstr "স্বর্গের কুকুর"
+
+msgid "Spirit of GuRyoung"
+msgstr "গুরিয়ং এর আত্মা"
+
+msgid "Flag of Wine Officer"
+msgstr "আবগারী কর্মকর্তার পতাকা"
+
+msgid "Officer of Kitchen"
+msgstr "রান্নাঘরের কর্মকর্তা"
+
+msgid "Equality and Fair"
+msgstr "সাম্য ও ন্যায্য"
+
+msgid "Emperor HeonWon"
+msgstr "সম্রাট হিউনওয়ান"
+
+msgid "Capital of Sky"
+msgstr "স্বর্গের রাজধানী"
+
+msgid "Chief of Farming"
+msgstr "কৃষিকাজের আধিকারিক"
+
+msgid "Officer of Tomb"
+msgstr "সমাধিস্থলের আধিকারিক"
+
+msgid "Tomb of Sky"
+msgstr "স্বর্গীয় সমাধিস্থল"
+
+msgid "Wing of Red Bird"
+msgstr "লাল পাখির ডানা"
+
+msgid "Eastern Pottery"
+msgstr "পূর্ব দিকের কুমোরশালা"
+
+msgid "Chariot of Emperor"
+msgstr "সম্রাটের যুদ্ধরথ"
+
+msgid "Sand for Life"
+msgstr "জীবনের জন্য জমি"
+
+msgid "Gateway for Troops"
+msgstr "সেনা প্রবেশপথ"
+
+msgid "Guardian Knight"
+msgstr "রক্ষাকারী যোদ্ধা"
+
+msgid "Five Feudal Lords"
+msgstr "পাঁচ সামন্ত জমিদার"
+
+msgid "SangJiin"
+msgstr "স্যাংজিন"
+
+msgid "Low Fence"
+msgstr "নিচু বেড়া"
+
+msgid "Tall Fence"
+msgstr "উঁচু বেড়া"
+
+msgid "Nine Lords"
+msgstr "নয় জমিদার"
+
+msgid "Dung of Tiger"
+msgstr "বাঘের পায়খানা"
+
+msgid "Five Emperor"
+msgstr "পাঁচ সম্রাট"
+
+msgid "Three Minister"
+msgstr "তিন মন্ত্রী"
+
+msgid "Officer for Audience"
+msgstr "দর্শক নিয়ন্ত্রক আধিকারিক"
+
+msgid "Grave Front"
+msgstr "সমাধির সামনের দিক"
+
+msgid "Observatory"
+msgstr "পর্যবেক্ষণাগার"
+
+msgid "Female Officer"
+msgstr "মহিলা আধিকারিক"
+
+msgid "Wide Lodging Area"
+msgstr "চওড়া শিবির"
+
+msgid "Eight Cereals"
+msgstr "আট রকম শষ্য"
+
+msgid "Advance Guard"
+msgstr "সামনের পাহারাদার"
+
+msgid "Three Ministers"
+msgstr "তিন মন্ত্রী"
+
+msgid "Virtue"
+msgstr "সদ্‍গুন"
+
+msgid "Emperor's God of War"
+msgstr "সাম্রাজ্যের যুদ্ধের দেবতা"
+
+msgid "Emperor's God of Weather"
+msgstr "সাম্রাজ্যের আবহাওয়ার দেবতা"
+
+msgid "Flap of Flag"
+msgstr "পতাকার কম্পন"
+
+msgid "Minister"
+msgstr "মন্ত্রী"
+
+msgid "General and Minister"
+msgstr "সেনাপ্রধান ও মন্ত্রী"
+
+msgid "Jail of Sky"
+msgstr "স্বর্গের কারাগার"
+
+msgid "Six Department"
+msgstr "ছটি বিভাগ"
+
+msgid "Inner Stairway"
+msgstr "ভিতরের সিঁড়ি"
+
+msgid "Spear of Sky"
+msgstr "স্বর্গীয় তীর"
+
+msgid "Cover for Emperor"
+msgstr "সম্রাটের সুরক্ষা ঢাল"
+
+msgid "Place for Five Emperor"
+msgstr "পাঁচ সম্রাটের মহল"
+
+msgid "60 Years"
+msgstr "৬০ বছর"
+
+msgid "Kitchen of Sky"
+msgstr "স্বর্গের রান্নাঘর"
+
+msgid "North Pole"
+msgstr "উত্তর মেরু"
+
+msgid "Wound Lodge"
+msgstr "আহতদের শিবির"
+
+msgid "Single-log Bridge"
+msgstr "সাঁকো"
+
+msgid "Great Emperor"
+msgstr "মহান সম্রাট"
+
+msgid "Officer for Opinion"
+msgstr "মন্ত্রনা আধিকারিক"
+
+msgid "Pillar of Sky"
+msgstr "স্বর্গীয় থাম"
+
+msgid "Secretary"
+msgstr "সম্পাদক"
+
+msgid "Maid"
+msgstr "পরিচারিকা"
+
+msgid "Desk of Woman"
+msgstr "মহিলাদের দল"
+
+msgid "Judge Prison"
+msgstr "কারাপ্রধান"
+
+msgid "Purple Fence"
+msgstr "বেগুনি বেড়া"
+
+msgid "Order of Sky"
+msgstr "দৈববানী"
+
+msgid "Seven Minister"
+msgstr "সাত মন্ত্রী"
+
+msgid "Thread Straw"
+msgstr "খড়ের দড়ি"
+
+msgid "Market Fence"
+msgstr "বাজারের বেড়া"
+
+msgid "Feudal Lord"
+msgstr "সামন্ত জমিদার"
+
+msgid "Seat for Emperor"
+msgstr "রাজ সিংহাসন"
+
+msgid "Royal Family"
+msgstr "রাজ পরিবার"
+
+msgid "Head of Family"
+msgstr "গৃহকর্তা"
+
+msgid "Record of Family"
+msgstr "বংশপরিচয়"
+
+msgid "Officer for Family"
+msgstr "পরিবারের কর্মকর্তা"
+
+msgid "Tower in Market"
+msgstr "বাজারের মিনার"
+
+msgid "Measure Cereal"
+msgstr "শস্য মাপক"
+
+msgid "Cereal Measure Regulation"
+msgstr "শস্য মাপার প্রনালী"
+
+msgid "Officer for Chariots"
+msgstr "রথশালার কর্মকর্তা"
+
+msgid "Measure Amount"
+msgstr "পরিমাপ"
+
+msgid "Butchery"
+msgstr "কসাইখানা"
+
+msgid "Officer for Jewel"
+msgstr "স্বর্ণকার"
+
+msgid "Royal"
+msgstr "রাককীয়"
+
+msgid "Lord"
+msgstr "মালিক"
+
+msgid "Left Executor"
+msgstr "বাম প্রহরী"
+
+msgid "Right Executor"
+msgstr "ডান প্রহরী"
+
+msgid "Crossbeam for Heo"
+msgstr "জোড়া কড়িকাঠ"
+
+msgid "Threading Coins"
+msgstr "জালকাঠি"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "চেয়নগোউ"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "গেইয়ং"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "চেয়ু"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "ইয়ম্যাও"
+
+msgid "TaeMin"
+msgstr "টেমিন"
+
+msgid "SouMin"
+msgstr "সোউমিন"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "হোয়াংজে"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "চিয়ং"
+
+msgid "Beop"
+msgstr "বিয়প"
+
+msgid "Ryeong"
+msgstr "রেইয়ং"
+
+msgid "Beol"
+msgstr "বিয়ল"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "উং"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

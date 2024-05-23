@@ -1,0 +1,953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Worachate Boonplod, 2024\n"
+"Language-Team: Thai (https://app.transifex.com/stellarium/teams/80998/th/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "เกาหลี"
+
+msgid "Dog"
+msgstr "สุนัข"
+
+msgid "Arrow"
+msgstr "ลูกศร"
+
+msgid "Bow"
+msgstr "คันธนู"
+
+msgid "Fish"
+msgstr "ปลา"
+
+msgid "Northern Dipper"
+msgstr "กระบวยเหนือ"
+
+msgid "Toilet"
+msgstr "ห้องส้วม"
+
+msgid "Whip"
+msgstr "แส้"
+
+msgid "Mausoleum"
+msgstr "สุสาน"
+
+msgid "Mortar"
+msgstr "ครก"
+
+msgid "Rolled Tongue"
+msgstr "ลิ้นม้วน"
+
+msgid "Chaff"
+msgstr ""
+
+msgid "Whetstone"
+msgstr ""
+
+msgid "Inner Kitchen"
+msgstr "ครัวใน"
+
+msgid "Three Steps"
+msgstr "สามก้าว"
+
+msgid "Eunuch"
+msgstr ""
+
+msgid "Crown Prince"
+msgstr "มกุฏราชกุมาร"
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr "ครัวนอก"
+
+msgid "Five Lords"
+msgstr ""
+
+msgid "Right Flag"
+msgstr "ธงด้านขวา"
+
+msgid "Son"
+msgstr "ลูกชาย"
+
+msgid "Left Flag"
+msgstr "ธงด้านซ้าย"
+
+msgid "Charioteer"
+msgstr ""
+
+msgid "Holy Kettle"
+msgstr "กาน้ำศักดิ์สิทธิ์"
+
+msgid "Farm of Capital City"
+msgstr "ปศุสัตว์แห่งเมืองหลวง"
+
+msgid "Dignity of King"
+msgstr "เกียรติยศแห่งพระราชา"
+
+msgid "Nomination"
+msgstr "เสนอชื่อ"
+
+msgid "Gate of Sky"
+msgstr "ประตูรั้วแห่งห้วงนภา"
+
+msgid "Equality"
+msgstr "ความเท่าเทียม"
+
+msgid "Helper"
+msgstr "ผู้ช่วย"
+
+msgid "Position of Holy King"
+msgstr ""
+
+msgid "Neck of Dragon"
+msgstr "ศอมังกร"
+
+msgid "Beheading"
+msgstr "ตัดหัว"
+
+msgid "Judge"
+msgstr "ตัดสิน"
+
+msgid "Flutting Flag"
+msgstr "ธงที่ปลิวไสว"
+
+msgid "Javelin of Sky"
+msgstr "หอกแห่งนภา"
+
+msgid "Seat for Longevity"
+msgstr ""
+
+msgid "Oar for visitor"
+msgstr ""
+
+msgid "Milk of Sky"
+msgstr ""
+
+msgid "House of Queen"
+msgstr "พระตำหนักราชินี"
+
+msgid "Ancient Chariot"
+msgstr "รถศึกโบราณ"
+
+msgid "Carriage for King"
+msgstr ""
+
+msgid "General of Cavalry"
+msgstr "ขุนพลทหารม้า"
+
+msgid "Cavalry of Emperor"
+msgstr "ทหารม้าแห่งจักรพรรดิ"
+
+msgid "General of Mobile Troops"
+msgstr ""
+
+msgid "East Road"
+msgstr "เส้นทางสายตะวันออก"
+
+msgid "Gate Bolt"
+msgstr ""
+
+msgid "Door Lock and Key"
+msgstr ""
+
+msgid "Penalty"
+msgstr "โทษทัณฑ์"
+
+msgid "Royal Hall"
+msgstr "ท้องพระโรง"
+
+msgid "Chamberlain"
+msgstr "เชมเบอร์เลน"
+
+msgid "Sun"
+msgstr "ดวงอาทิตย์"
+
+msgid "West Road"
+msgstr "เส้นทางสายตะวันตก"
+
+msgid "Seat of Emperor"
+msgstr "บัลลังก์จักรพรรดิ"
+
+msgid "Five Troops"
+msgstr "ห้าพลทหาร"
+
+msgid "River of Sky"
+msgstr "แม่น้ำแห่งนภา"
+
+msgid "Prayer for Progeny"
+msgstr ""
+
+msgid "Forcast"
+msgstr "พยากรณ์"
+
+msgid "Yard for Empresses"
+msgstr "ลานแห่งจักรพรรดินี"
+
+msgid "Holy Palace"
+msgstr "พระราชวังศักดิ์สิทธิ์"
+
+msgid "Winnow"
+msgstr "ฝัดข้าว"
+
+msgid "Outer Pestle"
+msgstr ""
+
+msgid "Head of Town"
+msgstr "พ่อเมือง"
+
+msgid "Build"
+msgstr "สร้าง"
+
+msgid "Fowl of Sky"
+msgstr ""
+
+msgid "Shrine of Sky"
+msgstr "แท่นบูชาแห่งนภา"
+
+msgid "Northeastern Nations"
+msgstr "อาณาจักรทิศอีสาน"
+
+msgid "Old Farmer"
+msgstr "เฒ่าชาวนา"
+
+msgid "Snapping Turtle"
+msgstr ""
+
+msgid "Road for Emperor"
+msgstr "ทางเสด็จฯ ของจักรพรรดิ"
+
+msgid "The Weaver"
+msgstr "ผู้ถักทอ"
+
+msgid "River adjoining Tower"
+msgstr ""
+
+msgid "Drum of River"
+msgstr ""
+
+msgid "Drumstick of Sky"
+msgstr "ไม้ตีกลองแห่งนภา"
+
+msgid "Cow leading Man"
+msgstr ""
+
+msgid "Bank Spread"
+msgstr ""
+
+msgid "Basket for Silkworm"
+msgstr ""
+
+msgid "Officer for Cart"
+msgstr ""
+
+msgid "Ferry of Sky"
+msgstr ""
+
+msgid "Fruit"
+msgstr "ผลไม้"
+
+msgid "Seed"
+msgstr "เมล็ด"
+
+msgid "Storage for Lady"
+msgstr ""
+
+msgid "Court Lady"
+msgstr ""
+
+msgid "Judge Fault"
+msgstr ""
+
+msgid "Amend Fault"
+msgstr ""
+
+msgid "Grant Life"
+msgstr "ให้ชีวิต"
+
+msgid "Punish"
+msgstr "ลงทัณฑ์"
+
+msgid "Empty House"
+msgstr "บ้านร้าง"
+
+msgid "Weep"
+msgstr "ร้องไห้"
+
+msgid "Sob"
+msgstr "สะอื้น"
+
+msgid "Castle with Rampart"
+msgstr ""
+
+msgid "Hook for Dress"
+msgstr ""
+
+msgid "Groom"
+msgstr ""
+
+msgid "Human"
+msgstr "มนุษย์"
+
+msgid "Inner Pestle"
+msgstr ""
+
+msgid "Warehouse of Sky"
+msgstr ""
+
+msgid "Tomb"
+msgstr "สุสาน"
+
+msgid "Cover of House"
+msgstr ""
+
+msgid "Broken Mortar"
+msgstr ""
+
+msgid "Climbing Serpent"
+msgstr ""
+
+msgid "Palace of Emperor"
+msgstr "พระราชวังของจักรพรรดิ"
+
+msgid "Detached Palace"
+msgstr "พระราชวังสันโดษ"
+
+msgid "Lightening"
+msgstr ""
+
+msgid "Rampart"
+msgstr "ป้อมปราการ"
+
+msgid "Troops of Sky"
+msgstr "พลทัพแห่งนภา"
+
+msgid "Village for Patrol"
+msgstr ""
+
+msgid "Net of Sky"
+msgstr ""
+
+msgid "Stable of Sky"
+msgstr ""
+
+msgid "Eastern Wall"
+msgstr "กำแพงทิศตะวันออก"
+
+msgid "Civil Engineer"
+msgstr "วิศวกรโยธา"
+
+msgid "Thunderbolts"
+msgstr "สายฟ้า"
+
+msgid "Clouds and Rain"
+msgstr "เมฆและฝน"
+
+msgid "Highway"
+msgstr "ทางหลวง"
+
+msgid "Officer for Chariot of"
+msgstr ""
+
+msgid "Side Road"
+msgstr "ถนนรอง"
+
+msgid "Armory"
+msgstr "คลังแสง"
+
+msgid "Southern Gate of Emperator"
+msgstr ""
+
+msgid "Outer Folding Screen"
+msgstr ""
+
+msgid "Toilet of Sky"
+msgstr ""
+
+msgid "Architect"
+msgstr "สถาปนิก"
+
+msgid "Emperator"
+msgstr ""
+
+msgid "Watchtower"
+msgstr "หอสังเกตการณ์"
+
+msgid "Left Elm"
+msgstr ""
+
+msgid "Right Elm"
+msgstr ""
+
+msgid "Storehouse of Sky"
+msgstr ""
+
+msgid "Stack of Cereals"
+msgstr ""
+
+msgid "Ship of Sky"
+msgstr ""
+
+msgid "Store of Water"
+msgstr ""
+
+msgid "Heap of Corpse"
+msgstr ""
+
+msgid "Stomach of Tiger"
+msgstr ""
+
+msgid "Store of Millet for"
+msgstr ""
+
+msgid "Storehouse for Cereals"
+msgstr ""
+
+msgid "Shaman of Sky"
+msgstr ""
+
+msgid "Ear and Eye of"
+msgstr ""
+
+msgid "Moon"
+msgstr "ดวงจันทร์"
+
+msgid "Hill of Sky"
+msgstr ""
+
+msgid "Conspiracy of Sky"
+msgstr ""
+
+msgid "Fodder"
+msgstr ""
+
+msgid "Garage for Chariot"
+msgstr "โรงเก็บรถศึก"
+
+msgid "Pond for Fish"
+msgstr "บ่อปลา"
+
+msgid "Pillar"
+msgstr "เสา"
+
+msgid "Puddle of Sky"
+msgstr ""
+
+msgid "Kings"
+msgstr "กษัตริย์"
+
+msgid "Gateway of Sky"
+msgstr ""
+
+msgid "Flage of Saam"
+msgstr ""
+
+msgid "Village of Sky"
+msgstr ""
+
+msgid "Belvedere of Sky"
+msgstr ""
+
+msgid "General of Border"
+msgstr ""
+
+msgid "Celebration of Sky"
+msgstr ""
+
+msgid "Flag of Emperor"
+msgstr "ธงของจักรพรรดิ"
+
+msgid "Nine Territory"
+msgstr ""
+
+msgid "Garden of Sky"
+msgstr ""
+
+msgid "Settled Flag"
+msgstr ""
+
+msgid "Forcast Calamity"
+msgstr ""
+
+msgid "Scout of Three Troups"
+msgstr ""
+
+msgid "Saam"
+msgstr "ซามัว"
+
+msgid "Expeditionary Force"
+msgstr ""
+
+msgid "Well for Millitary"
+msgstr ""
+
+msgid "Well of Jade"
+msgstr ""
+
+msgid "Folding Screen"
+msgstr ""
+
+msgid "Piled Brushwood"
+msgstr ""
+
+msgid "Northern River"
+msgstr "แม่น้ำทิศเหนือ"
+
+msgid "Wine Glass of Sky"
+msgstr ""
+
+msgid "Eastern Well"
+msgstr ""
+
+msgid "Flood control"
+msgstr ""
+
+msgid "Balance of Water"
+msgstr ""
+
+msgid "Four Spirit of River"
+msgstr ""
+
+msgid "Southern River"
+msgstr "แม่น้ำทิศใต้"
+
+msgid "Twin Gate"
+msgstr "ประตูคู่"
+
+msgid "Star of Wolf"
+msgstr ""
+
+msgid "Wild Fowls"
+msgstr ""
+
+msgid "Market for Army"
+msgstr ""
+
+msgid "Grandchildren"
+msgstr "หลาน"
+
+msgid "Grown-up"
+msgstr "ผู้ใหญ่"
+
+msgid "Oldman"
+msgstr "ชายแก่"
+
+msgid "Beacon"
+msgstr "สัญญาน"
+
+msgid "Eye of Sky"
+msgstr "ดวงเนตรแห่งนภา"
+
+msgid "Pile of Dead"
+msgstr ""
+
+msgid "Green Ridge"
+msgstr ""
+
+msgid "Dog of Sky"
+msgstr ""
+
+msgid "Spirit of GuRyoung"
+msgstr ""
+
+msgid "Flag of Wine Officer"
+msgstr ""
+
+msgid "Officer of Kitchen"
+msgstr ""
+
+msgid "Equality and Fair"
+msgstr ""
+
+msgid "Emperor HeonWon"
+msgstr "จักรพรรดิฮยอนวอน"
+
+msgid "Capital of Sky"
+msgstr ""
+
+msgid "Chief of Farming"
+msgstr ""
+
+msgid "Officer of Tomb"
+msgstr ""
+
+msgid "Tomb of Sky"
+msgstr ""
+
+msgid "Wing of Red Bird"
+msgstr "ปีกแห่งสกุณาสีชาด"
+
+msgid "Eastern Pottery"
+msgstr ""
+
+msgid "Chariot of Emperor"
+msgstr "รถศึกแห่งจักรพรรดิ"
+
+msgid "Sand for Life"
+msgstr ""
+
+msgid "Gateway for Troops"
+msgstr ""
+
+msgid "Guardian Knight"
+msgstr ""
+
+msgid "Five Feudal Lords"
+msgstr ""
+
+msgid "SangJiin"
+msgstr ""
+
+msgid "Low Fence"
+msgstr "รั้วเตี้ย"
+
+msgid "Tall Fence"
+msgstr "รั้วสูง"
+
+msgid "Nine Lords"
+msgstr ""
+
+msgid "Dung of Tiger"
+msgstr ""
+
+msgid "Five Emperor"
+msgstr "ห้าจักรพรรดิ"
+
+msgid "Three Minister"
+msgstr ""
+
+msgid "Officer for Audience"
+msgstr ""
+
+msgid "Grave Front"
+msgstr ""
+
+msgid "Observatory"
+msgstr ""
+
+msgid "Female Officer"
+msgstr ""
+
+msgid "Wide Lodging Area"
+msgstr ""
+
+msgid "Eight Cereals"
+msgstr ""
+
+msgid "Advance Guard"
+msgstr ""
+
+msgid "Three Ministers"
+msgstr ""
+
+msgid "Virtue"
+msgstr "คุณธรรม"
+
+msgid "Emperor's God of War"
+msgstr ""
+
+msgid "Emperor's God of Weather"
+msgstr ""
+
+msgid "Flap of Flag"
+msgstr ""
+
+msgid "Minister"
+msgstr "รัฐมนตรี"
+
+msgid "General and Minister"
+msgstr ""
+
+msgid "Jail of Sky"
+msgstr ""
+
+msgid "Six Department"
+msgstr ""
+
+msgid "Inner Stairway"
+msgstr ""
+
+msgid "Spear of Sky"
+msgstr ""
+
+msgid "Cover for Emperor"
+msgstr ""
+
+msgid "Place for Five Emperor"
+msgstr ""
+
+msgid "60 Years"
+msgstr "60 ปี"
+
+msgid "Kitchen of Sky"
+msgstr ""
+
+msgid "North Pole"
+msgstr "ขั้วเหนือ"
+
+msgid "Wound Lodge"
+msgstr ""
+
+msgid "Single-log Bridge"
+msgstr ""
+
+msgid "Great Emperor"
+msgstr "มหาจักรพรรดิ"
+
+msgid "Officer for Opinion"
+msgstr ""
+
+msgid "Pillar of Sky"
+msgstr "เสาหลักแห่งนภา"
+
+msgid "Secretary"
+msgstr "เลขาธิการ"
+
+msgid "Maid"
+msgstr ""
+
+msgid "Desk of Woman"
+msgstr ""
+
+msgid "Judge Prison"
+msgstr ""
+
+msgid "Purple Fence"
+msgstr "รั้วสีม่วง"
+
+msgid "Order of Sky"
+msgstr ""
+
+msgid "Seven Minister"
+msgstr ""
+
+msgid "Thread Straw"
+msgstr ""
+
+msgid "Market Fence"
+msgstr ""
+
+msgid "Feudal Lord"
+msgstr ""
+
+msgid "Seat for Emperor"
+msgstr "บัลลังก์จักรพรรดิ"
+
+msgid "Royal Family"
+msgstr "ราชวงศ์"
+
+msgid "Head of Family"
+msgstr "หัวหน้าครอบครัว"
+
+msgid "Record of Family"
+msgstr ""
+
+msgid "Officer for Family"
+msgstr ""
+
+msgid "Tower in Market"
+msgstr ""
+
+msgid "Measure Cereal"
+msgstr ""
+
+msgid "Cereal Measure Regulation"
+msgstr ""
+
+msgid "Officer for Chariots"
+msgstr ""
+
+msgid "Measure Amount"
+msgstr ""
+
+msgid "Butchery"
+msgstr ""
+
+msgid "Officer for Jewel"
+msgstr ""
+
+msgid "Royal"
+msgstr "หลวง"
+
+msgid "Lord"
+msgstr ""
+
+msgid "Left Executor"
+msgstr ""
+
+msgid "Right Executor"
+msgstr ""
+
+msgid "Crossbeam for Heo"
+msgstr ""
+
+msgid "Threading Coins"
+msgstr ""
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr ""
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr ""
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr ""
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr ""
+
+msgid "TaeMin"
+msgstr ""
+
+msgid "SouMin"
+msgstr ""
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr ""
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr ""
+
+msgid "Beop"
+msgstr ""
+
+msgid "Ryeong"
+msgstr ""
+
+msgid "Beol"
+msgstr ""
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr ""
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

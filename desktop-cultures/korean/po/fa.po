@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ali Azadegan <sel3ulba@yahoo.com>, 2023\n"
+"Language-Team: Persian (https://app.transifex.com/stellarium/teams/80998/"
+"fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "سگ"
+
+msgid "Arrow"
+msgstr "پیکان"
+
+msgid "Bow"
+msgstr "كمان"
+
+msgid "Fish"
+msgstr "ماهی"
+
+msgid "Northern Dipper"
+msgstr "ملاقه شمالی"
+
+msgid "Toilet"
+msgstr "توالت"
+
+msgid "Whip"
+msgstr "تازيانه"
+
+msgid "Mausoleum"
+msgstr "آرامگاه"
+
+msgid "Mortar"
+msgstr "هاون"
+
+msgid "Rolled Tongue"
+msgstr "زبان"
+
+msgid "Chaff"
+msgstr "پوشال"
+
+msgid "Whetstone"
+msgstr ""
+
+msgid "Inner Kitchen"
+msgstr "آشپزخانه اندروني"
+
+msgid "Three Steps"
+msgstr "سه‌گام"
+
+msgid "Eunuch"
+msgstr ""
+
+msgid "Crown Prince"
+msgstr ""
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr "آشپزخانه بيروني"
+
+msgid "Five Lords"
+msgstr "پنج صاحب"
+
+msgid "Right Flag"
+msgstr "پرچم راست"
+
+msgid "Son"
+msgstr "پسر"
+
+msgid "Left Flag"
+msgstr "پرچم چپ"
+
+msgid "Charioteer"
+msgstr ""
+
+msgid "Holy Kettle"
+msgstr "ديگ مقدس"
+
+msgid "Farm of Capital City"
+msgstr "كشتزار پايتخت"
+
+msgid "Dignity of King"
+msgstr "عاليجناب"
+
+msgid "Nomination"
+msgstr "تاجگذاري"
+
+msgid "Gate of Sky"
+msgstr "دروازه سمان"
+
+msgid "Equality"
+msgstr "برابر"
+
+msgid "Helper"
+msgstr "راهنما"
+
+msgid "Position of Holy King"
+msgstr "صاحب‌مقام"
+
+msgid "Neck of Dragon"
+msgstr "گردن اژدها"
+
+msgid "Beheading"
+msgstr "مقر جلاد"
+
+msgid "Judge"
+msgstr "مقر دادرس"
+
+msgid "Flutting Flag"
+msgstr "پرچم رقصان"
+
+msgid "Javelin of Sky"
+msgstr "زوبين آسمان"
+
+msgid "Seat for Longevity"
+msgstr "عرش جاويد"
+
+msgid "Oar for visitor"
+msgstr "پاروي مهمان"
+
+msgid "Milk of Sky"
+msgstr "شيره آسمان"
+
+msgid "House of Queen"
+msgstr "اتاق ملكه"
+
+msgid "Ancient Chariot"
+msgstr "ارابه باستاني"
+
+msgid "Carriage for King"
+msgstr "كجاوه شاه"
+
+msgid "General of Cavalry"
+msgstr "سپهبد سواره‌نظام"
+
+msgid "Cavalry of Emperor"
+msgstr "سواره نظام فرمانروا"
+
+msgid "General of Mobile Troops"
+msgstr "لشگربد"
+
+msgid "East Road"
+msgstr "جاده شرقي"
+
+msgid "Gate Bolt"
+msgstr "چفت دروازه"
+
+msgid "Door Lock and Key"
+msgstr "قفل و كليد"
+
+msgid "Penalty"
+msgstr "تنيبه"
+
+msgid "Royal Hall"
+msgstr "سرسراي سلطاني"
+
+msgid "Chamberlain"
+msgstr "پرده‌دار"
+
+msgid "Sun"
+msgstr "خورشید"
+
+msgid "West Road"
+msgstr "جاده غربي"
+
+msgid "Seat of Emperor"
+msgstr "تخت شاهي"
+
+msgid "Five Troops"
+msgstr "پنج لشگر"
+
+msgid "River of Sky"
+msgstr "رودخانه آسمان"
+
+msgid "Prayer for Progeny"
+msgstr "نماز اولاد"
+
+msgid "Forcast"
+msgstr "پيشگو"
+
+msgid "Yard for Empresses"
+msgstr "حيات ملكه"
+
+msgid "Holy Palace"
+msgstr "قصد مقدس"
+
+msgid "Winnow"
+msgstr "غربال"
+
+msgid "Outer Pestle"
+msgstr "مشته"
+
+msgid "Head of Town"
+msgstr "رئيس شهر"
+
+msgid "Build"
+msgstr "ساخت"
+
+msgid "Fowl of Sky"
+msgstr "مرغ هوا"
+
+msgid "Shrine of Sky"
+msgstr "معبد آسمان"
+
+msgid "Northeastern Nations"
+msgstr "ملل شمال شرقي"
+
+msgid "Old Farmer"
+msgstr "كشاورز پير"
+
+msgid "Snapping Turtle"
+msgstr "لاكپشت آبي"
+
+msgid "Road for Emperor"
+msgstr "راه شاهي"
+
+msgid "The Weaver"
+msgstr "بافنده"
+
+msgid "River adjoining Tower"
+msgstr "رود مجاور برج"
+
+msgid "Drum of River"
+msgstr "چليك رود"
+
+msgid "Drumstick of Sky"
+msgstr "چو طبل آسمان"
+
+msgid "Cow leading Man"
+msgstr "مرد گاودار"
+
+msgid "Bank Spread"
+msgstr ""
+
+msgid "Basket for Silkworm"
+msgstr "سبد كرم ابريشم"
+
+msgid "Officer for Cart"
+msgstr "ارابه‌دار"
+
+msgid "Ferry of Sky"
+msgstr "كشتي آسمان"
+
+msgid "Fruit"
+msgstr "ميوه"
+
+msgid "Seed"
+msgstr "بذر"
+
+msgid "Storage for Lady"
+msgstr "پستوي ملكه"
+
+msgid "Court Lady"
+msgstr "بارگاه ملكه"
+
+msgid "Judge Fault"
+msgstr "جايگاه گناهكار"
+
+msgid "Amend Fault"
+msgstr "مجازاتگاه گناهكار"
+
+msgid "Grant Life"
+msgstr "حياتبخش"
+
+msgid "Punish"
+msgstr "مجازات"
+
+msgid "Empty House"
+msgstr "اتاق خالي"
+
+msgid "Weep"
+msgstr "اشك"
+
+msgid "Sob"
+msgstr "گريه"
+
+msgid "Castle with Rampart"
+msgstr "برج و بارو"
+
+msgid "Hook for Dress"
+msgstr "جالباسي"
+
+msgid "Groom"
+msgstr "مهتر"
+
+msgid "Human"
+msgstr "انسان"
+
+msgid "Inner Pestle"
+msgstr "مشته اندروني"
+
+msgid "Warehouse of Sky"
+msgstr "انبار آسمان"
+
+msgid "Tomb"
+msgstr "گنبد"
+
+msgid "Cover of House"
+msgstr "سقف خانه"
+
+msgid "Broken Mortar"
+msgstr "هاون شكسته"
+
+msgid "Climbing Serpent"
+msgstr "مار بالارو"
+
+msgid "Palace of Emperor"
+msgstr "قصر امپراتور"
+
+msgid "Detached Palace"
+msgstr "كوشك كوچك"
+
+msgid "Lightening"
+msgstr "برق"
+
+msgid "Rampart"
+msgstr "برج و بارو"
+
+msgid "Troops of Sky"
+msgstr "سپاهيان آسمان"
+
+msgid "Village for Patrol"
+msgstr "روستايي گشتي"
+
+msgid "Net of Sky"
+msgstr "شبكه آسمان"
+
+msgid "Stable of Sky"
+msgstr "طويله آسمان"
+
+msgid "Eastern Wall"
+msgstr "ديوار شرقي"
+
+msgid "Civil Engineer"
+msgstr "مهندس عمران"
+
+msgid "Thunderbolts"
+msgstr "آذرخش"
+
+msgid "Clouds and Rain"
+msgstr "ابر و باران"
+
+msgid "Highway"
+msgstr "شاهراه"
+
+msgid "Officer for Chariot of"
+msgstr ""
+
+msgid "Side Road"
+msgstr "جاده فرعي"
+
+msgid "Armory"
+msgstr "زراد خانه"
+
+msgid "Southern Gate of Emperator"
+msgstr "دروازه جنوبي امپراتور"
+
+msgid "Outer Folding Screen"
+msgstr ""
+
+msgid "Toilet of Sky"
+msgstr ""
+
+msgid "Architect"
+msgstr "معمار"
+
+msgid "Emperator"
+msgstr "امپراتور"
+
+msgid "Watchtower"
+msgstr ""
+
+msgid "Left Elm"
+msgstr ""
+
+msgid "Right Elm"
+msgstr ""
+
+msgid "Storehouse of Sky"
+msgstr ""
+
+msgid "Stack of Cereals"
+msgstr ""
+
+msgid "Ship of Sky"
+msgstr ""
+
+msgid "Store of Water"
+msgstr ""
+
+msgid "Heap of Corpse"
+msgstr ""
+
+msgid "Stomach of Tiger"
+msgstr ""
+
+msgid "Store of Millet for"
+msgstr ""
+
+msgid "Storehouse for Cereals"
+msgstr ""
+
+msgid "Shaman of Sky"
+msgstr "شمن آسمان"
+
+msgid "Ear and Eye of"
+msgstr "گوش و چشمِ"
+
+msgid "Moon"
+msgstr "ماه"
+
+msgid "Hill of Sky"
+msgstr "تپه آسمان"
+
+msgid "Conspiracy of Sky"
+msgstr "دسیسه آسمان"
+
+msgid "Fodder"
+msgstr "علوفه"
+
+msgid "Garage for Chariot"
+msgstr "ارابه‌سرا"
+
+msgid "Pond for Fish"
+msgstr "بركه ماهي"
+
+msgid "Pillar"
+msgstr "ستون"
+
+msgid "Puddle of Sky"
+msgstr "گودال آسمان"
+
+msgid "Kings"
+msgstr "شاهان"
+
+msgid "Gateway of Sky"
+msgstr "دروازه آسمان"
+
+msgid "Flage of Saam"
+msgstr "پرچم سام"
+
+msgid "Village of Sky"
+msgstr "دهكده آسماني"
+
+msgid "Belvedere of Sky"
+msgstr "كوشك آسمان"
+
+msgid "General of Border"
+msgstr "مرزبان ارشد"
+
+msgid "Celebration of Sky"
+msgstr "جشن آسمان"
+
+msgid "Flag of Emperor"
+msgstr "نشان امپراتور"
+
+msgid "Nine Territory"
+msgstr "نُه سرزمين"
+
+msgid "Garden of Sky"
+msgstr "باغ بهشت"
+
+msgid "Settled Flag"
+msgstr "پرچم آرام"
+
+msgid "Forcast Calamity"
+msgstr "پيشگوي بلايا"
+
+msgid "Scout of Three Troups"
+msgstr "ديده‌بان سه لشگر"
+
+msgid "Saam"
+msgstr "سام"
+
+msgid "Expeditionary Force"
+msgstr "قشون سركوبگر"
+
+msgid "Well for Millitary"
+msgstr "چاه لشكريان"
+
+msgid "Well of Jade"
+msgstr "چاه اسبان"
+
+msgid "Folding Screen"
+msgstr "پرده تاشو"
+
+msgid "Piled Brushwood"
+msgstr "بته خاشاك"
+
+msgid "Northern River"
+msgstr "رود شمالي"
+
+msgid "Wine Glass of Sky"
+msgstr "جام شراب"
+
+msgid "Eastern Well"
+msgstr "چاه شرقي"
+
+msgid "Flood control"
+msgstr "سيل‌بند"
+
+msgid "Balance of Water"
+msgstr "تراز آب"
+
+msgid "Four Spirit of River"
+msgstr "چهار روح رودخانه"
+
+msgid "Southern River"
+msgstr "رود جنوبي"
+
+msgid "Twin Gate"
+msgstr "دروازه دوقلو"
+
+msgid "Star of Wolf"
+msgstr "ستاره گرگ"
+
+msgid "Wild Fowls"
+msgstr "مرغان وحشي"
+
+msgid "Market for Army"
+msgstr "بازار ارتش"
+
+msgid "Grandchildren"
+msgstr "نوه"
+
+msgid "Grown-up"
+msgstr "بالغ"
+
+msgid "Oldman"
+msgstr "پيرمرد"
+
+msgid "Beacon"
+msgstr "فانوس دريايي"
+
+msgid "Eye of Sky"
+msgstr "چشم آسمان"
+
+msgid "Pile of Dead"
+msgstr "اجساد"
+
+msgid "Green Ridge"
+msgstr ""
+
+msgid "Dog of Sky"
+msgstr "سگ آسمان"
+
+msgid "Spirit of GuRyoung"
+msgstr ""
+
+msgid "Flag of Wine Officer"
+msgstr "نشان ميكده"
+
+msgid "Officer of Kitchen"
+msgstr "افسر آشپزخانه"
+
+msgid "Equality and Fair"
+msgstr ""
+
+msgid "Emperor HeonWon"
+msgstr ""
+
+msgid "Capital of Sky"
+msgstr "پايتخت آسمان"
+
+msgid "Chief of Farming"
+msgstr ""
+
+msgid "Officer of Tomb"
+msgstr ""
+
+msgid "Tomb of Sky"
+msgstr "گنبد كبود"
+
+msgid "Wing of Red Bird"
+msgstr ""
+
+msgid "Eastern Pottery"
+msgstr ""
+
+msgid "Chariot of Emperor"
+msgstr "كلسكه شاه"
+
+msgid "Sand for Life"
+msgstr ""
+
+msgid "Gateway for Troops"
+msgstr ""
+
+msgid "Guardian Knight"
+msgstr ""
+
+msgid "Five Feudal Lords"
+msgstr ""
+
+msgid "SangJiin"
+msgstr ""
+
+msgid "Low Fence"
+msgstr ""
+
+msgid "Tall Fence"
+msgstr ""
+
+msgid "Nine Lords"
+msgstr ""
+
+msgid "Dung of Tiger"
+msgstr ""
+
+msgid "Five Emperor"
+msgstr ""
+
+msgid "Three Minister"
+msgstr ""
+
+msgid "Officer for Audience"
+msgstr ""
+
+msgid "Grave Front"
+msgstr ""
+
+msgid "Observatory"
+msgstr ""
+
+msgid "Female Officer"
+msgstr ""
+
+msgid "Wide Lodging Area"
+msgstr "بارانداز بزرگ"
+
+msgid "Eight Cereals"
+msgstr "هشت حبه"
+
+msgid "Advance Guard"
+msgstr "طلايه"
+
+msgid "Three Ministers"
+msgstr "سه وزير"
+
+msgid "Virtue"
+msgstr "پاكدامن"
+
+msgid "Emperor's God of War"
+msgstr ""
+
+msgid "Emperor's God of Weather"
+msgstr "جنگسالار"
+
+msgid "Flap of Flag"
+msgstr "پرچم آويزان"
+
+msgid "Minister"
+msgstr "وزير ختار"
+
+msgid "General and Minister"
+msgstr ""
+
+msgid "Jail of Sky"
+msgstr ""
+
+msgid "Six Department"
+msgstr ""
+
+msgid "Inner Stairway"
+msgstr ""
+
+msgid "Spear of Sky"
+msgstr ""
+
+msgid "Cover for Emperor"
+msgstr ""
+
+msgid "Place for Five Emperor"
+msgstr ""
+
+msgid "60 Years"
+msgstr ""
+
+msgid "Kitchen of Sky"
+msgstr ""
+
+msgid "North Pole"
+msgstr "قطب شمال"
+
+msgid "Wound Lodge"
+msgstr ""
+
+msgid "Single-log Bridge"
+msgstr ""
+
+msgid "Great Emperor"
+msgstr ""
+
+msgid "Officer for Opinion"
+msgstr ""
+
+msgid "Pillar of Sky"
+msgstr ""
+
+msgid "Secretary"
+msgstr ""
+
+msgid "Maid"
+msgstr ""
+
+msgid "Desk of Woman"
+msgstr ""
+
+msgid "Judge Prison"
+msgstr ""
+
+msgid "Purple Fence"
+msgstr ""
+
+msgid "Order of Sky"
+msgstr ""
+
+msgid "Seven Minister"
+msgstr ""
+
+msgid "Thread Straw"
+msgstr ""
+
+msgid "Market Fence"
+msgstr ""
+
+msgid "Feudal Lord"
+msgstr ""
+
+msgid "Seat for Emperor"
+msgstr ""
+
+msgid "Royal Family"
+msgstr ""
+
+msgid "Head of Family"
+msgstr ""
+
+msgid "Record of Family"
+msgstr ""
+
+msgid "Officer for Family"
+msgstr ""
+
+msgid "Tower in Market"
+msgstr ""
+
+msgid "Measure Cereal"
+msgstr ""
+
+msgid "Cereal Measure Regulation"
+msgstr ""
+
+msgid "Officer for Chariots"
+msgstr ""
+
+msgid "Measure Amount"
+msgstr ""
+
+msgid "Butchery"
+msgstr ""
+
+msgid "Officer for Jewel"
+msgstr "جواهربان"
+
+msgid "Royal"
+msgstr "سلطنتی"
+
+msgid "Lord"
+msgstr "ارباب"
+
+msgid "Left Executor"
+msgstr "عامل چپ"
+
+msgid "Right Executor"
+msgstr "عامل راست"
+
+msgid "Crossbeam for Heo"
+msgstr ""
+
+msgid "Threading Coins"
+msgstr "رشته سكه"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr ""
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr ""
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr ""
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr ""
+
+msgid "TaeMin"
+msgstr ""
+
+msgid "SouMin"
+msgstr ""
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr ""
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr ""
+
+msgid "Beop"
+msgstr ""
+
+msgid "Ryeong"
+msgstr ""
+
+msgid "Beol"
+msgstr ""
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr ""
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

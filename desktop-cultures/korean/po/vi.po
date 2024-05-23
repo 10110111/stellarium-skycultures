@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Vietnamese (https://app.transifex.com/stellarium/teams/80998/"
+"vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+msgid "Dog"
+msgstr "Thiên Cẩu"
+
+msgid "Arrow"
+msgstr "Mũi tên"
+
+msgid "Bow"
+msgstr "Cây cung"
+
+msgid "Fish"
+msgstr "Cá"
+
+msgid "Northern Dipper"
+msgstr "Bắc Đẩu"
+
+msgid "Toilet"
+msgstr "Xí"
+
+msgid "Whip"
+msgstr "Phu xe ngựa"
+
+msgid "Mausoleum"
+msgstr "Đại Lăng"
+
+msgid "Mortar"
+msgstr "Cữu"
+
+msgid "Rolled Tongue"
+msgstr "Quyển Thiệt"
+
+msgid "Chaff"
+msgstr "Rơm"
+
+msgid "Whetstone"
+msgstr "Đá mài"
+
+msgid "Inner Kitchen"
+msgstr "Trong bếp"
+
+msgid "Three Steps"
+msgstr "Tam Đài"
+
+msgid "Eunuch"
+msgstr "Hoạn Quan"
+
+msgid "Crown Prince"
+msgstr "Vương miện Hoàng tử"
+
+msgid "Official for Materials Supply"
+msgstr "Official for Materials Supply"
+
+msgid "Outer Kitchen"
+msgstr "Phụ Bếp"
+
+msgid "Five Lords"
+msgstr "Năm chúa tể"
+
+msgid "Right Flag"
+msgstr "Hữu Kì"
+
+msgid "Son"
+msgstr "Con trai"
+
+msgid "Left Flag"
+msgstr "Tả Kỳ"
+
+msgid "Charioteer"
+msgstr "Phu ngựa"
+
+msgid "Holy Kettle"
+msgstr "Holy Kettle"
+
+msgid "Farm of Capital City"
+msgstr "Cánh đồng của thủ đô"
+
+msgid "Dignity of King"
+msgstr "Phấm cách của đức vua"
+
+msgid "Nomination"
+msgstr "Đề Cử"
+
+msgid "Gate of Sky"
+msgstr "Cổng Trời"
+
+msgid "Equality"
+msgstr "Bình Đẳng"
+
+msgid "Helper"
+msgstr "Phụ Tá"
+
+msgid "Position of Holy King"
+msgstr "Vị trí của Thánh Vương"
+
+msgid "Neck of Dragon"
+msgstr "Cổ Rồng"
+
+msgid "Beheading"
+msgstr "Chém đầu"
+
+msgid "Judge"
+msgstr "Đánh giá"
+
+msgid "Flutting Flag"
+msgstr "Flutting Flag"
+
+msgid "Javelin of Sky"
+msgstr "Cây lao của trời"
+
+msgid "Seat for Longevity"
+msgstr "Chỗ ngồi cho sự Trường sinh"
+
+msgid "Oar for visitor"
+msgstr "Oar for visitor"
+
+msgid "Milk of Sky"
+msgstr "Sữa trời"
+
+msgid "House of Queen"
+msgstr "Nhà của Nữ Hoàng"
+
+msgid "Ancient Chariot"
+msgstr "Xe Ngựa Cổ"
+
+msgid "Carriage for King"
+msgstr "Xe Ngựa của Vua"
+
+msgid "General of Cavalry"
+msgstr "Tương Kỵ binh"
+
+msgid "Cavalry of Emperor"
+msgstr "Kỵ binh của Hoàng Đế"
+
+msgid "General of Mobile Troops"
+msgstr "General of Mobile Troops"
+
+msgid "East Road"
+msgstr "Đường Đông"
+
+msgid "Gate Bolt"
+msgstr "Gài Cổng"
+
+msgid "Door Lock and Key"
+msgstr "Khóa và chìa khóa cửa"
+
+msgid "Penalty"
+msgstr "Hình phạt"
+
+msgid "Royal Hall"
+msgstr "Đại sảnh Hoàng Gia"
+
+msgid "Chamberlain"
+msgstr "Quan Thị Vệ"
+
+msgid "Sun"
+msgstr "Mặt Trời"
+
+msgid "West Road"
+msgstr "Đường phía Tây"
+
+msgid "Seat of Emperor"
+msgstr "Chỗ ngồi của Hoàng Đế"
+
+msgid "Five Troops"
+msgstr "Năm Quân Đoàn"
+
+msgid "River of Sky"
+msgstr "Dòng sông của trời"
+
+msgid "Prayer for Progeny"
+msgstr "Prayer for Progeny"
+
+msgid "Forcast"
+msgstr "Dự báo"
+
+msgid "Yard for Empresses"
+msgstr "Sân cho Hoàng Hậu"
+
+msgid "Holy Palace"
+msgstr "Cung điện linh thiêng"
+
+msgid "Winnow"
+msgstr "Sàng lọc"
+
+msgid "Outer Pestle"
+msgstr "Outer Pestle"
+
+msgid "Head of Town"
+msgstr "Thị trưởng"
+
+msgid "Build"
+msgstr "Xây dựng"
+
+msgid "Fowl of Sky"
+msgstr "Chim trời"
+
+msgid "Shrine of Sky"
+msgstr "Đền Trời"
+
+msgid "Northeastern Nations"
+msgstr "Các Nước Đông Bắc"
+
+msgid "Old Farmer"
+msgstr "Lão Nông"
+
+msgid "Snapping Turtle"
+msgstr "Snapping Turtle"
+
+msgid "Road for Emperor"
+msgstr "Đường cho Hoàng Đế"
+
+msgid "The Weaver"
+msgstr "Thợ Dệt"
+
+msgid "River adjoining Tower"
+msgstr "Tòa tháp bên sông"
+
+msgid "Drum of River"
+msgstr "Tiếng trống của sông"
+
+msgid "Drumstick of Sky"
+msgstr "Dùi trống trời"
+
+msgid "Cow leading Man"
+msgstr "Người chăn bò"
+
+msgid "Bank Spread"
+msgstr "Mở rộng kênh"
+
+msgid "Basket for Silkworm"
+msgstr "Nong tằm"
+
+msgid "Officer for Cart"
+msgstr "Officer for Cart"
+
+msgid "Ferry of Sky"
+msgstr "Bến phà Trời"
+
+msgid "Fruit"
+msgstr "Trái cây"
+
+msgid "Seed"
+msgstr "Hạt"
+
+msgid "Storage for Lady"
+msgstr "Khu vực cho phụ nữ"
+
+msgid "Court Lady"
+msgstr "Quý bà quyến rũ"
+
+msgid "Judge Fault"
+msgstr "Xử tội"
+
+msgid "Amend Fault"
+msgstr "Rửa tội"
+
+msgid "Grant Life"
+msgstr "Grant Life"
+
+msgid "Punish"
+msgstr "trừng phạt"
+
+msgid "Empty House"
+msgstr "Nhà trống"
+
+msgid "Weep"
+msgstr "quét"
+
+msgid "Sob"
+msgstr "thổn thức"
+
+msgid "Castle with Rampart"
+msgstr "Castle with Rampart"
+
+msgid "Hook for Dress"
+msgstr "Móc quần áo"
+
+msgid "Groom"
+msgstr "Người giữ ngựa"
+
+msgid "Human"
+msgstr "Người"
+
+msgid "Inner Pestle"
+msgstr "Inner Pestle"
+
+msgid "Warehouse of Sky"
+msgstr "Kho hàng của trời"
+
+msgid "Tomb"
+msgstr "Mộ"
+
+msgid "Cover of House"
+msgstr "Màn che Nhà"
+
+msgid "Broken Mortar"
+msgstr "Broken Mortar"
+
+msgid "Climbing Serpent"
+msgstr "Rắn leo"
+
+msgid "Palace of Emperor"
+msgstr "Cung điện của Hoàng đế"
+
+msgid "Detached Palace"
+msgstr "Cung điện tách rời"
+
+msgid "Lightening"
+msgstr "Lightening"
+
+msgid "Rampart"
+msgstr "Thành lũy"
+
+msgid "Troops of Sky"
+msgstr "Thiên Binh"
+
+msgid "Village for Patrol"
+msgstr "Village for Patrol"
+
+msgid "Net of Sky"
+msgstr "Lưới trời"
+
+msgid "Stable of Sky"
+msgstr "Chuồng ngựa trời"
+
+msgid "Eastern Wall"
+msgstr "Thành phía Đông"
+
+msgid "Civil Engineer"
+msgstr "Kĩ sư xây dựng"
+
+msgid "Thunderbolts"
+msgstr "Tiếng sét"
+
+msgid "Clouds and Rain"
+msgstr "Mây và Mưa"
+
+msgid "Highway"
+msgstr "Đường cao tốc"
+
+msgid "Officer for Chariot of"
+msgstr "Chỉ huy xe ngựa cỏ"
+
+msgid "Side Road"
+msgstr "Bên Đường"
+
+msgid "Armory"
+msgstr "Kho vũ khí"
+
+msgid "Southern Gate of Emperator"
+msgstr "Cổng phía Nam của Hoàng Đế"
+
+msgid "Outer Folding Screen"
+msgstr "Outer Folding Screen"
+
+msgid "Toilet of Sky"
+msgstr "Nhà vệ sinh của trời"
+
+msgid "Architect"
+msgstr "Kiến trúc sư"
+
+msgid "Emperator"
+msgstr "Hoàng Đế"
+
+msgid "Watchtower"
+msgstr "Tháp Canh"
+
+msgid "Left Elm"
+msgstr "Cây Đu Bên Trái"
+
+msgid "Right Elm"
+msgstr "Cây Đu Bên Phải"
+
+msgid "Storehouse of Sky"
+msgstr "Kho Trời"
+
+msgid "Stack of Cereals"
+msgstr "Đống ngũ cốc"
+
+msgid "Ship of Sky"
+msgstr "Thuyền trời"
+
+msgid "Store of Water"
+msgstr "Quán nước"
+
+msgid "Heap of Corpse"
+msgstr "Đống xác"
+
+msgid "Stomach of Tiger"
+msgstr "Bụng Hổ"
+
+msgid "Store of Millet for"
+msgstr "Store of Millet for"
+
+msgid "Storehouse for Cereals"
+msgstr "Vựa ngũ cốc"
+
+msgid "Shaman of Sky"
+msgstr "Pháp sư của trời"
+
+msgid "Ear and Eye of"
+msgstr "Tai và mắt của"
+
+msgid "Moon"
+msgstr "Mặt Trăng"
+
+msgid "Hill of Sky"
+msgstr "Đồi trời"
+
+msgid "Conspiracy of Sky"
+msgstr "Âm mưu của trời"
+
+msgid "Fodder"
+msgstr "Cỏ khô"
+
+msgid "Garage for Chariot"
+msgstr "Chuồng ngựa"
+
+msgid "Pond for Fish"
+msgstr "Ao cá"
+
+msgid "Pillar"
+msgstr "Trụ cột"
+
+msgid "Puddle of Sky"
+msgstr "Vũng nước trời"
+
+msgid "Kings"
+msgstr "Vua"
+
+msgid "Gateway of Sky"
+msgstr "Cổng trời"
+
+msgid "Flage of Saam"
+msgstr "Flage of Saam"
+
+msgid "Village of Sky"
+msgstr "Làng trời"
+
+msgid "Belvedere of Sky"
+msgstr "Tháp trời"
+
+msgid "General of Border"
+msgstr "Tổng biên giới"
+
+msgid "Celebration of Sky"
+msgstr "Celebration of Sky"
+
+msgid "Flag of Emperor"
+msgstr "Cờ Hoàng đế"
+
+msgid "Nine Territory"
+msgstr "Chín Vùng Miền"
+
+msgid "Garden of Sky"
+msgstr "Vườn Trời"
+
+msgid "Settled Flag"
+msgstr "Settled Flag"
+
+msgid "Forcast Calamity"
+msgstr "Dự báo thiên tai"
+
+msgid "Scout of Three Troups"
+msgstr "Scout of Three Troups"
+
+msgid "Saam"
+msgstr "Số ba"
+
+msgid "Expeditionary Force"
+msgstr "Lực lượng Viễn chinh"
+
+msgid "Well for Millitary"
+msgstr "Well for Millitary"
+
+msgid "Well of Jade"
+msgstr "Well of Jade"
+
+msgid "Folding Screen"
+msgstr "Màn hình gấp"
+
+msgid "Piled Brushwood"
+msgstr "Piled Brushwood"
+
+msgid "Northern River"
+msgstr "Sông phía bắc"
+
+msgid "Wine Glass of Sky"
+msgstr "Ly rượu trời"
+
+msgid "Eastern Well"
+msgstr "Giếng Tây"
+
+msgid "Flood control"
+msgstr "Kiểm soát lũ"
+
+msgid "Balance of Water"
+msgstr "Cân Nước"
+
+msgid "Four Spirit of River"
+msgstr "Bốn Linh hồn của Dòng sông"
+
+msgid "Southern River"
+msgstr "Sông phía nam"
+
+msgid "Twin Gate"
+msgstr "Cổng đôi"
+
+msgid "Star of Wolf"
+msgstr "Sao của Sói"
+
+msgid "Wild Fowls"
+msgstr "Chim hoang dã"
+
+msgid "Market for Army"
+msgstr "Chợ Quân Đội"
+
+msgid "Grandchildren"
+msgstr "Cháu"
+
+msgid "Grown-up"
+msgstr "Lớn lên"
+
+msgid "Oldman"
+msgstr "Người già"
+
+msgid "Beacon"
+msgstr "Dẫn đường"
+
+msgid "Eye of Sky"
+msgstr "Mắt trời"
+
+msgid "Pile of Dead"
+msgstr "Pile of Dead"
+
+msgid "Green Ridge"
+msgstr "Green Ridge"
+
+msgid "Dog of Sky"
+msgstr "Thiên cẩu"
+
+msgid "Spirit of GuRyoung"
+msgstr "Linh hồn của GuRyoung"
+
+msgid "Flag of Wine Officer"
+msgstr "Flag of Wine Officer"
+
+msgid "Officer of Kitchen"
+msgstr "Bếp trưởng"
+
+msgid "Equality and Fair"
+msgstr "Bình đẳng và công bằng"
+
+msgid "Emperor HeonWon"
+msgstr "Hoàng đế HeonWon"
+
+msgid "Capital of Sky"
+msgstr "Thủ phủ của trời"
+
+msgid "Chief of Farming"
+msgstr "Địa chủ"
+
+msgid "Officer of Tomb"
+msgstr "Officer of Tomb"
+
+msgid "Tomb of Sky"
+msgstr "Lăng mộ trời"
+
+msgid "Wing of Red Bird"
+msgstr "Cánh của Chim Đỏ"
+
+msgid "Eastern Pottery"
+msgstr "Xưởng gốm phía Đông"
+
+msgid "Chariot of Emperor"
+msgstr "Xe Ngựa của Hoàng Đế"
+
+msgid "Sand for Life"
+msgstr "Mai táng"
+
+msgid "Gateway for Troops"
+msgstr "Gateway for Troops"
+
+msgid "Guardian Knight"
+msgstr "Vệ sĩ"
+
+msgid "Five Feudal Lords"
+msgstr "Năm chúa tể phong kiến"
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr "Hàng rào thấp"
+
+msgid "Tall Fence"
+msgstr "Hàng rào cao"
+
+msgid "Nine Lords"
+msgstr "Chín chúa tể"
+
+msgid "Dung of Tiger"
+msgstr "Phân Hổ"
+
+msgid "Five Emperor"
+msgstr "Năm Hoàng đế"
+
+msgid "Three Minister"
+msgstr "Three Minister"
+
+msgid "Officer for Audience"
+msgstr "Officer for Audience"
+
+msgid "Grave Front"
+msgstr "Tất cả"
+
+msgid "Observatory"
+msgstr "Đài quan sát"
+
+msgid "Female Officer"
+msgstr "Female Officer"
+
+msgid "Wide Lodging Area"
+msgstr "Chiến sĩ"
+
+msgid "Eight Cereals"
+msgstr "Tám loại ngũ cốc"
+
+msgid "Advance Guard"
+msgstr "Gấp ngàn lần"
+
+msgid "Three Ministers"
+msgstr "Three Ministers"
+
+msgid "Virtue"
+msgstr "Đức Hạnh"
+
+msgid "Emperor's God of War"
+msgstr "Ánh sáng mặt trời"
+
+msgid "Emperor's God of Weather"
+msgstr "Thánh thời tiết của Hoàng Đế"
+
+msgid "Flap of Flag"
+msgstr "Hiến pháp"
+
+msgid "Minister"
+msgstr "Minister"
+
+msgid "General and Minister"
+msgstr "General and Minister"
+
+msgid "Jail of Sky"
+msgstr "Thiên Lao"
+
+msgid "Six Department"
+msgstr "Six Department"
+
+msgid "Inner Stairway"
+msgstr "Bậc thang"
+
+msgid "Spear of Sky"
+msgstr "Cây lao Trời"
+
+msgid "Cover for Emperor"
+msgstr "Cover for Emperor"
+
+msgid "Place for Five Emperor"
+msgstr "Nơi dành cho năm hoàng đế"
+
+msgid "60 Years"
+msgstr "60 năm"
+
+msgid "Kitchen of Sky"
+msgstr "Bếp trời"
+
+msgid "North Pole"
+msgstr "Bắc Cực"
+
+msgid "Wound Lodge"
+msgstr "Wound Lodge"
+
+msgid "Single-log Bridge"
+msgstr "Single-log Bridge"
+
+msgid "Great Emperor"
+msgstr "Hoàng đế lớn"
+
+msgid "Officer for Opinion"
+msgstr "Officer for Opinion"
+
+msgid "Pillar of Sky"
+msgstr "Cột trời"
+
+msgid "Secretary"
+msgstr "Secretary"
+
+msgid "Maid"
+msgstr "Thiếu nữ"
+
+msgid "Desk of Woman"
+msgstr "Desk of Woman"
+
+msgid "Judge Prison"
+msgstr "Judge Prison"
+
+msgid "Purple Fence"
+msgstr "Thanh Kiếm Tía"
+
+msgid "Order of Sky"
+msgstr "Số trời"
+
+msgid "Seven Minister"
+msgstr "Seven Minister"
+
+msgid "Thread Straw"
+msgstr "Thread Straw"
+
+msgid "Market Fence"
+msgstr "Market Fence"
+
+msgid "Feudal Lord"
+msgstr "Chúa tể phong kiến"
+
+msgid "Seat for Emperor"
+msgstr "Chỗ ngồi của Hoàng đế"
+
+msgid "Royal Family"
+msgstr "Gia đình Hoàng gia"
+
+msgid "Head of Family"
+msgstr "Trưởng tộc"
+
+msgid "Record of Family"
+msgstr "Gia Phả"
+
+msgid "Officer for Family"
+msgstr "Officer for Family"
+
+msgid "Tower in Market"
+msgstr "Tháp trong chợ"
+
+msgid "Measure Cereal"
+msgstr "Âm nhạc"
+
+msgid "Cereal Measure Regulation"
+msgstr "Số Hai"
+
+msgid "Officer for Chariots"
+msgstr "Officer for Chariots"
+
+msgid "Measure Amount"
+msgstr "Số đo"
+
+msgid "Butchery"
+msgstr "Lò Mổ"
+
+msgid "Officer for Jewel"
+msgstr "Người giữ Ngọc"
+
+msgid "Royal"
+msgstr "Hoàng gia"
+
+msgid "Lord"
+msgstr "Chúa tể"
+
+msgid "Left Executor"
+msgstr "Người hành pháp bên trái"
+
+msgid "Right Executor"
+msgstr "Người hành pháp bên phải"
+
+msgid "Crossbeam for Heo"
+msgstr "Crossbeam for Heo"
+
+msgid "Threading Coins"
+msgstr "Xâu tiền"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

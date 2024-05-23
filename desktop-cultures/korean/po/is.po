@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Icelandic (https://app.transifex.com/stellarium/teams/80998/"
+"is/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr "Kóreskt"
+
+msgid "Dog"
+msgstr "Hundurinn"
+
+msgid "Arrow"
+msgstr "Örin"
+
+msgid "Bow"
+msgstr "Boginn"
+
+msgid "Fish"
+msgstr "Fiskur"
+
+msgid "Northern Dipper"
+msgstr "Karlsvagninn"
+
+msgid "Toilet"
+msgstr "Salernið"
+
+msgid "Whip"
+msgstr "Svipa"
+
+msgid "Mausoleum"
+msgstr "Grafhýsið"
+
+msgid "Mortar"
+msgstr "Stauturinn"
+
+msgid "Rolled Tongue"
+msgstr "Undna tungan"
+
+msgid "Chaff"
+msgstr "Hveitiklíð"
+
+msgid "Whetstone"
+msgstr ""
+
+msgid "Inner Kitchen"
+msgstr ""
+
+msgid "Three Steps"
+msgstr "Þrepin þrjú"
+
+msgid "Eunuch"
+msgstr "Kanúki"
+
+msgid "Crown Prince"
+msgstr "Krónprinsinn"
+
+msgid "Official for Materials Supply"
+msgstr ""
+
+msgid "Outer Kitchen"
+msgstr ""
+
+msgid "Five Lords"
+msgstr ""
+
+msgid "Right Flag"
+msgstr "Hægri fáninn"
+
+msgid "Son"
+msgstr "Sonur"
+
+msgid "Left Flag"
+msgstr "Vinstri fáninn"
+
+msgid "Charioteer"
+msgstr ""
+
+msgid "Holy Kettle"
+msgstr "Helgur ketill"
+
+msgid "Farm of Capital City"
+msgstr "Býli höfuðborgar"
+
+msgid "Dignity of King"
+msgstr "Heiður konungs"
+
+msgid "Nomination"
+msgstr "Útnefning"
+
+msgid "Gate of Sky"
+msgstr "Himnahlið"
+
+msgid "Equality"
+msgstr "Jafnræði"
+
+msgid "Helper"
+msgstr "Hjálpari"
+
+msgid "Position of Holy King"
+msgstr "Staða hins helga konungs"
+
+msgid "Neck of Dragon"
+msgstr "Drekaháls"
+
+msgid "Beheading"
+msgstr "Afhausun"
+
+msgid "Judge"
+msgstr "Dómari"
+
+msgid "Flutting Flag"
+msgstr "Merkjafáni"
+
+msgid "Javelin of Sky"
+msgstr "Himnaspjót"
+
+msgid "Seat for Longevity"
+msgstr "Sæti langlífis"
+
+msgid "Oar for visitor"
+msgstr "Árin gestsins"
+
+msgid "Milk of Sky"
+msgstr "Himinmjólk"
+
+msgid "House of Queen"
+msgstr "Hús drottningar"
+
+msgid "Ancient Chariot"
+msgstr "Gamall vagn"
+
+msgid "Carriage for King"
+msgstr "Burðarstóll konungs"
+
+msgid "General of Cavalry"
+msgstr "Hershöfðingi riddaraliðs"
+
+msgid "Cavalry of Emperor"
+msgstr "Riddaralið keisarans"
+
+msgid "General of Mobile Troops"
+msgstr "Hershöfðingi fótgönguliðs"
+
+msgid "East Road"
+msgstr "Austurvegur"
+
+msgid "Gate Bolt"
+msgstr "Hliðslá"
+
+msgid "Door Lock and Key"
+msgstr "Lás og lykill dyranna"
+
+msgid "Penalty"
+msgstr "Refsing"
+
+msgid "Royal Hall"
+msgstr "Konungshöllin"
+
+msgid "Chamberlain"
+msgstr "Ráðsmaðurinn"
+
+msgid "Sun"
+msgstr "Sólin"
+
+msgid "West Road"
+msgstr "Vesturvegur"
+
+msgid "Seat of Emperor"
+msgstr "Keisarasæti"
+
+msgid "Five Troops"
+msgstr "Fimm herflokkar"
+
+msgid "River of Sky"
+msgstr "Himinfljót"
+
+msgid "Prayer for Progeny"
+msgstr "Bæn um afkomendur"
+
+msgid "Forcast"
+msgstr "Spá"
+
+msgid "Yard for Empresses"
+msgstr "Garður keisaraynju"
+
+msgid "Holy Palace"
+msgstr "Helga höllin"
+
+msgid "Winnow"
+msgstr "Kornblásari"
+
+msgid "Outer Pestle"
+msgstr "Ytri mortélsstauturinn"
+
+msgid "Head of Town"
+msgstr "Bæjarstjóri"
+
+msgid "Build"
+msgstr "Byggja"
+
+msgid "Fowl of Sky"
+msgstr "Himinfugl"
+
+msgid "Shrine of Sky"
+msgstr "Himnaskrín"
+
+msgid "Northeastern Nations"
+msgstr "Norðausturþjóðirnar"
+
+msgid "Old Farmer"
+msgstr "Gamall bóndi"
+
+msgid "Snapping Turtle"
+msgstr "Glefsandi skjaldbaka"
+
+msgid "Road for Emperor"
+msgstr "Keisarastræti"
+
+msgid "The Weaver"
+msgstr "Vefarinn"
+
+msgid "River adjoining Tower"
+msgstr "Áin við turninn"
+
+msgid "Drum of River"
+msgstr "Fljótstromman"
+
+msgid "Drumstick of Sky"
+msgstr "Trommustafur himinsins"
+
+msgid "Cow leading Man"
+msgstr "Kýr leiðir mann"
+
+msgid "Bank Spread"
+msgstr ""
+
+msgid "Basket for Silkworm"
+msgstr "Silkiormakarfa"
+
+msgid "Officer for Cart"
+msgstr ""
+
+msgid "Ferry of Sky"
+msgstr "Himnaferja"
+
+msgid "Fruit"
+msgstr "Ávöxtur"
+
+msgid "Seed"
+msgstr "Fræið"
+
+msgid "Storage for Lady"
+msgstr ""
+
+msgid "Court Lady"
+msgstr "Hirðmeyja"
+
+msgid "Judge Fault"
+msgstr ""
+
+msgid "Amend Fault"
+msgstr ""
+
+msgid "Grant Life"
+msgstr "Gefa líf"
+
+msgid "Punish"
+msgstr "Refsa"
+
+msgid "Empty House"
+msgstr "Autt hús"
+
+msgid "Weep"
+msgstr "Grátur"
+
+msgid "Sob"
+msgstr "Ekki"
+
+msgid "Castle with Rampart"
+msgstr "Kastali með virkismúrum"
+
+msgid "Hook for Dress"
+msgstr ""
+
+msgid "Groom"
+msgstr "Brúðgumi"
+
+msgid "Human"
+msgstr "Mannvera"
+
+msgid "Inner Pestle"
+msgstr "Innri mortélsstauturinn"
+
+msgid "Warehouse of Sky"
+msgstr ""
+
+msgid "Tomb"
+msgstr "Gröf"
+
+msgid "Cover of House"
+msgstr ""
+
+msgid "Broken Mortar"
+msgstr "Brotið mortél"
+
+msgid "Climbing Serpent"
+msgstr "Klifrandi snákur"
+
+msgid "Palace of Emperor"
+msgstr "Höll keisara"
+
+msgid "Detached Palace"
+msgstr ""
+
+msgid "Lightening"
+msgstr ""
+
+msgid "Rampart"
+msgstr "Virkið"
+
+msgid "Troops of Sky"
+msgstr "Herflokkar himinsins"
+
+msgid "Village for Patrol"
+msgstr ""
+
+msgid "Net of Sky"
+msgstr "Himnanetið"
+
+msgid "Stable of Sky"
+msgstr "Hersthús himinsins"
+
+msgid "Eastern Wall"
+msgstr "Austurveggur"
+
+msgid "Civil Engineer"
+msgstr "Verkfræðingur"
+
+msgid "Thunderbolts"
+msgstr "Eldhnettir"
+
+msgid "Clouds and Rain"
+msgstr "Ský og regn"
+
+msgid "Highway"
+msgstr "Hraðbrautin"
+
+msgid "Officer for Chariot of"
+msgstr ""
+
+msgid "Side Road"
+msgstr "Hliðargata"
+
+msgid "Armory"
+msgstr "Brynjan"
+
+msgid "Southern Gate of Emperator"
+msgstr ""
+
+msgid "Outer Folding Screen"
+msgstr ""
+
+msgid "Toilet of Sky"
+msgstr ""
+
+msgid "Architect"
+msgstr "Arkítekt"
+
+msgid "Emperator"
+msgstr ""
+
+msgid "Watchtower"
+msgstr "Varðturninn"
+
+msgid "Left Elm"
+msgstr ""
+
+msgid "Right Elm"
+msgstr ""
+
+msgid "Storehouse of Sky"
+msgstr ""
+
+msgid "Stack of Cereals"
+msgstr ""
+
+msgid "Ship of Sky"
+msgstr ""
+
+msgid "Store of Water"
+msgstr ""
+
+msgid "Heap of Corpse"
+msgstr ""
+
+msgid "Stomach of Tiger"
+msgstr "Magi tígursins"
+
+msgid "Store of Millet for"
+msgstr ""
+
+msgid "Storehouse for Cereals"
+msgstr "Kornhlaðan"
+
+msgid "Shaman of Sky"
+msgstr ""
+
+msgid "Ear and Eye of"
+msgstr ""
+
+msgid "Moon"
+msgstr "Tungl"
+
+msgid "Hill of Sky"
+msgstr "Himnahæðin"
+
+msgid "Conspiracy of Sky"
+msgstr ""
+
+msgid "Fodder"
+msgstr ""
+
+msgid "Garage for Chariot"
+msgstr ""
+
+msgid "Pond for Fish"
+msgstr "Fiskatjörn"
+
+msgid "Pillar"
+msgstr "Stólpi"
+
+msgid "Puddle of Sky"
+msgstr ""
+
+msgid "Kings"
+msgstr "Kóngar"
+
+msgid "Gateway of Sky"
+msgstr ""
+
+msgid "Flage of Saam"
+msgstr ""
+
+msgid "Village of Sky"
+msgstr ""
+
+msgid "Belvedere of Sky"
+msgstr ""
+
+msgid "General of Border"
+msgstr ""
+
+msgid "Celebration of Sky"
+msgstr ""
+
+msgid "Flag of Emperor"
+msgstr ""
+
+msgid "Nine Territory"
+msgstr ""
+
+msgid "Garden of Sky"
+msgstr ""
+
+msgid "Settled Flag"
+msgstr ""
+
+msgid "Forcast Calamity"
+msgstr ""
+
+msgid "Scout of Three Troups"
+msgstr ""
+
+msgid "Saam"
+msgstr ""
+
+msgid "Expeditionary Force"
+msgstr ""
+
+msgid "Well for Millitary"
+msgstr ""
+
+msgid "Well of Jade"
+msgstr ""
+
+msgid "Folding Screen"
+msgstr ""
+
+msgid "Piled Brushwood"
+msgstr ""
+
+msgid "Northern River"
+msgstr "Norðuráin"
+
+msgid "Wine Glass of Sky"
+msgstr ""
+
+msgid "Eastern Well"
+msgstr ""
+
+msgid "Flood control"
+msgstr "Flæðistýringin"
+
+msgid "Balance of Water"
+msgstr ""
+
+msgid "Four Spirit of River"
+msgstr ""
+
+msgid "Southern River"
+msgstr "Suðuráin"
+
+msgid "Twin Gate"
+msgstr ""
+
+msgid "Star of Wolf"
+msgstr ""
+
+msgid "Wild Fowls"
+msgstr ""
+
+msgid "Market for Army"
+msgstr ""
+
+msgid "Grandchildren"
+msgstr "Barnabörn"
+
+msgid "Grown-up"
+msgstr ""
+
+msgid "Oldman"
+msgstr ""
+
+msgid "Beacon"
+msgstr ""
+
+msgid "Eye of Sky"
+msgstr "Himinaugað"
+
+msgid "Pile of Dead"
+msgstr ""
+
+msgid "Green Ridge"
+msgstr ""
+
+msgid "Dog of Sky"
+msgstr ""
+
+msgid "Spirit of GuRyoung"
+msgstr ""
+
+msgid "Flag of Wine Officer"
+msgstr ""
+
+msgid "Officer of Kitchen"
+msgstr ""
+
+msgid "Equality and Fair"
+msgstr ""
+
+msgid "Emperor HeonWon"
+msgstr ""
+
+msgid "Capital of Sky"
+msgstr ""
+
+msgid "Chief of Farming"
+msgstr ""
+
+msgid "Officer of Tomb"
+msgstr ""
+
+msgid "Tomb of Sky"
+msgstr ""
+
+msgid "Wing of Red Bird"
+msgstr ""
+
+msgid "Eastern Pottery"
+msgstr ""
+
+msgid "Chariot of Emperor"
+msgstr ""
+
+msgid "Sand for Life"
+msgstr ""
+
+msgid "Gateway for Troops"
+msgstr ""
+
+msgid "Guardian Knight"
+msgstr ""
+
+msgid "Five Feudal Lords"
+msgstr ""
+
+msgid "SangJiin"
+msgstr "SangJiin"
+
+msgid "Low Fence"
+msgstr ""
+
+msgid "Tall Fence"
+msgstr ""
+
+msgid "Nine Lords"
+msgstr "Níu lávarðar"
+
+msgid "Dung of Tiger"
+msgstr "Tígurtað"
+
+msgid "Five Emperor"
+msgstr ""
+
+msgid "Three Minister"
+msgstr ""
+
+msgid "Officer for Audience"
+msgstr ""
+
+msgid "Grave Front"
+msgstr ""
+
+msgid "Observatory"
+msgstr ""
+
+msgid "Female Officer"
+msgstr ""
+
+msgid "Wide Lodging Area"
+msgstr ""
+
+msgid "Eight Cereals"
+msgstr ""
+
+msgid "Advance Guard"
+msgstr ""
+
+msgid "Three Ministers"
+msgstr "Þrír prestar"
+
+msgid "Virtue"
+msgstr ""
+
+msgid "Emperor's God of War"
+msgstr ""
+
+msgid "Emperor's God of Weather"
+msgstr ""
+
+msgid "Flap of Flag"
+msgstr ""
+
+msgid "Minister"
+msgstr "Prestur"
+
+msgid "General and Minister"
+msgstr ""
+
+msgid "Jail of Sky"
+msgstr ""
+
+msgid "Six Department"
+msgstr "Sex deildir"
+
+msgid "Inner Stairway"
+msgstr ""
+
+msgid "Spear of Sky"
+msgstr "Himninspjót"
+
+msgid "Cover for Emperor"
+msgstr ""
+
+msgid "Place for Five Emperor"
+msgstr ""
+
+msgid "60 Years"
+msgstr "60 árin"
+
+msgid "Kitchen of Sky"
+msgstr "Eldhús himinsins"
+
+msgid "North Pole"
+msgstr "Norðurpóll"
+
+msgid "Wound Lodge"
+msgstr ""
+
+msgid "Single-log Bridge"
+msgstr ""
+
+msgid "Great Emperor"
+msgstr "Keisarinn mikli"
+
+msgid "Officer for Opinion"
+msgstr ""
+
+msgid "Pillar of Sky"
+msgstr "Himinsúlan"
+
+msgid "Secretary"
+msgstr "Ritarinn"
+
+msgid "Maid"
+msgstr "Þerna"
+
+msgid "Desk of Woman"
+msgstr "Kvenborð"
+
+msgid "Judge Prison"
+msgstr ""
+
+msgid "Purple Fence"
+msgstr ""
+
+msgid "Order of Sky"
+msgstr "Regla himinsins"
+
+msgid "Seven Minister"
+msgstr ""
+
+msgid "Thread Straw"
+msgstr ""
+
+msgid "Market Fence"
+msgstr "Markaðsgirðingin"
+
+msgid "Feudal Lord"
+msgstr "Lénsherra"
+
+msgid "Seat for Emperor"
+msgstr "Sæti keisara"
+
+msgid "Royal Family"
+msgstr "Konungsfjölskylda"
+
+msgid "Head of Family"
+msgstr "Höfuð fjölskyldunnar"
+
+msgid "Record of Family"
+msgstr "Skráning fjölskyldunnar"
+
+msgid "Officer for Family"
+msgstr "Fjölskylduumsjónarmaður"
+
+msgid "Tower in Market"
+msgstr "Turn á markaði"
+
+msgid "Measure Cereal"
+msgstr "Kornmál"
+
+msgid "Cereal Measure Regulation"
+msgstr "Kornmælir"
+
+msgid "Officer for Chariots"
+msgstr "Vagnaumsjónarmaður"
+
+msgid "Measure Amount"
+msgstr "Magnmæling"
+
+msgid "Butchery"
+msgstr "Slátrun"
+
+msgid "Officer for Jewel"
+msgstr "Gimsteinaumsjónarmaður"
+
+msgid "Royal"
+msgstr "Konungborinn"
+
+msgid "Lord"
+msgstr "Lávarður"
+
+msgid "Left Executor"
+msgstr "Vinstri böðull"
+
+msgid "Right Executor"
+msgstr "Hægri böðull"
+
+msgid "Crossbeam for Heo"
+msgstr "Krossbiti fyrir Heo"
+
+msgid "Threading Coins"
+msgstr "Þræddir peningar"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "CheonGou"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "JaeUu"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "YeoEo"
+
+msgid "TaeMin"
+msgstr "TaeMin"
+
+msgid "SouMin"
+msgstr "SouMin"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "HwangJae"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""

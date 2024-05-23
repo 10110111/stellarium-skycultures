@@ -1,0 +1,1028 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Nuno Cunha <nunoccunha@gmail.com>, 2023\n"
+"Language-Team: Portuguese (Brazil) (https://app.transifex.com/stellarium/"
+"teams/80998/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Korean"
+msgstr ""
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Chinese, Korean, and Japanese constellations have the same origin and "
+"look very similar in shape. They are represented respectively in the Dun "
+"Huang starmap from the 8th century, the Cheon-Sang-Yeol-Cha-Bun-Ya-Ji-Do map "
+"and in the Kitora skymap painted in A.D.7C ~ 8C. Their positions and their "
+"names are similar in the Chinese alphabet. The name of the constellations "
+"first appear in the Records of the Grand Historian(史記) in Han dynasty "
+"describing Xia dynasty in about 2000 B.C."
+msgstr ""
+"As constelações chinesas, coreanas e japonesas têm a mesma origem e parecem "
+"muito semelhantes na sua forma. Elas são representadas, respectivamente, no "
+"mapa estelar de Dun Huang, datado do século VIII, no mapa *Cheon-Sang-Yeol-"
+"Cha-Bun-Ya-Ji-Do* e no mapa estelar de Kitora, pintados por volta do século "
+"VII ou VIII. As suas posições e os seus nomes são semelhantes na escrita "
+"chinesa. Os nomes das constelações aparecem pela primeira vez nos *Registros "
+"do Historiador* (史記) na dinastia Han, descrevendo a dinastia Xia, por "
+"volta de 2000 a.C."
+
+# Sky culture description section in markdown format
+msgid ""
+"### Origin\n"
+"\n"
+"The 272 constellations displayed in this Stellarium sky culture are based on "
+"the Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do, the Korean Constellation map, which "
+"was carved on the stone on 1395 but has its origin from another sky map "
+"which existed about 2,000 years ago. This map represents 1467 stars in about "
+"190 constellations whose shapes are slightly different from the chinese "
+"ones. The interpretation of the map is not easy: the map is so old that only "
+"about 300 stars are found to match with the real stars. All the stars of the "
+"map were drawn on a circle, so the equator seems smaller than the southern "
+"limit. Because the density of constellation does not change with respect to "
+"the position, the position and the size of the constellations were somewhat "
+"altered in a way unknown by the author. It is assumed that there should be "
+"no bright stars which do not belong to any constellations. The work of the "
+"author is subject to interpretation, and could be changed at a later time. "
+"It will however roughly show what the Korean Constellation are like."
+msgstr ""
+"### Origem\n"
+"\n"
+"As 272 constelações exibidas nesta cultura do céu do Stellarium foram "
+"baseadas no *Cheon-Sang-Yeol-Cha-Bun-Ya-Zi-Do*, o mapa de constelações "
+"coreano, que foi entalhado em pedra no ano de 1395, mas que tem origem a "
+"partir de outro mapa do céu, que existiu há cerca de 2.000 anos atrás. Esse "
+"mapa representa 1.467 estrelas em aproximadamente 190 constelações, cujas "
+"formas são levemente diferentes das constelações chinesas. A interpretação "
+"do mapa não foi fácil: o mapa é tão antigo, que foram encontradas apenas "
+"cerca de 300 estrelas que correspondiam às estrelas reais. Todas as estrelas "
+"do mapa foram traçadas em um círculo, de modo que o Equador parece menor do "
+"que o limite sul. Pelo fato de a densidade das constelações não mudar no que "
+"se refere à posição, a posição e o tamanho das constelações foram um pouco "
+"alteradas de uma forma desconhecida pelo autor. Supõe-se que não devem haver "
+"estrelas brilhantes que não pertençam a nenhuma constelação. O trabalho do "
+"autor está sujeito a interpretação, e pode ser alterado em um momento "
+"posterior. Entretanto, ele pretende mostrar de uma forma aproximada como são "
+"as constelações coreanas."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+msgstr ""
+" - [#1]: [Cheonsang Yeolcha Bunyajido](http://en.wikipedia.org/wiki/"
+"Cheonsang_Yeolcha_Bunyajido)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *[Jeong, Tae-Min](http://"
+"user.chollian.net/~jtm71/)*"
+msgstr ""
+"Esta cultura do céu foi contribuída pelo usuário do Stellarium *[Jeong, Tae-"
+"Min](http://user.chollian.net/~jtm71/)*."
+
+msgid "Dog"
+msgstr "Cachorro"
+
+msgid "Arrow"
+msgstr "Flecha"
+
+msgid "Bow"
+msgstr "Arco"
+
+msgid "Fish"
+msgstr "Peixe"
+
+msgid "Northern Dipper"
+msgstr "Concha do Norte"
+
+msgid "Toilet"
+msgstr "Latrina"
+
+msgid "Whip"
+msgstr "Chicote"
+
+msgid "Mausoleum"
+msgstr "Mausoléu"
+
+msgid "Mortar"
+msgstr "Almofariz"
+
+msgid "Rolled Tongue"
+msgstr "Língua Enrolada"
+
+msgid "Chaff"
+msgstr "Debulho"
+
+msgid "Whetstone"
+msgstr "Pedra de Amolar"
+
+msgid "Inner Kitchen"
+msgstr "Cozinha Interna"
+
+msgid "Three Steps"
+msgstr "Três Passos"
+
+msgid "Eunuch"
+msgstr "Eunuco"
+
+msgid "Crown Prince"
+msgstr "Príncipe Herdeiro"
+
+msgid "Official for Materials Supply"
+msgstr "Oficial de Fornecimento de Materiais"
+
+msgid "Outer Kitchen"
+msgstr "Cozinha Externa"
+
+msgid "Five Lords"
+msgstr "Cinco Senhores"
+
+msgid "Right Flag"
+msgstr "Bandeira Direita"
+
+msgid "Son"
+msgstr "Filho"
+
+msgid "Left Flag"
+msgstr "Bandeira Esquerda"
+
+msgid "Charioteer"
+msgstr "Cocheiro"
+
+msgid "Holy Kettle"
+msgstr "Chaleira Sagrada"
+
+msgid "Farm of Capital City"
+msgstr "Viveiro da Cidade Capital"
+
+msgid "Dignity of King"
+msgstr "Honradez do Rei"
+
+msgid "Nomination"
+msgstr "Nomeação"
+
+msgid "Gate of Sky"
+msgstr "Portão do Céu"
+
+msgid "Equality"
+msgstr "Igualdade"
+
+msgid "Helper"
+msgstr "Ajudante"
+
+msgid "Position of Holy King"
+msgstr "Posição do Rei Sagrado"
+
+msgid "Neck of Dragon"
+msgstr "Pescoço do Dragão"
+
+msgid "Beheading"
+msgstr "Decapitação"
+
+msgid "Judge"
+msgstr "Juiz"
+
+msgid "Flutting Flag"
+msgstr "Bandeira Tremulando"
+
+msgid "Javelin of Sky"
+msgstr "Dardo do Céu"
+
+msgid "Seat for Longevity"
+msgstr "Cadeira da Longevidade"
+
+msgid "Oar for visitor"
+msgstr "Remo para o Visitante"
+
+msgid "Milk of Sky"
+msgstr "Leite do Céu"
+
+msgid "House of Queen"
+msgstr "Casa da Rainha"
+
+msgid "Ancient Chariot"
+msgstr "Biga Antiga"
+
+msgid "Carriage for King"
+msgstr "Carruagem para o Rei"
+
+msgid "General of Cavalry"
+msgstr "General da Cavalaria"
+
+msgid "Cavalry of Emperor"
+msgstr "Cavalaria do Imperador"
+
+msgid "General of Mobile Troops"
+msgstr "General das Tropas Móveis"
+
+msgid "East Road"
+msgstr "Estrada do Leste"
+
+msgid "Gate Bolt"
+msgstr "Ferrolho do Portão"
+
+msgid "Door Lock and Key"
+msgstr "Fechadura e Chave"
+
+msgid "Penalty"
+msgstr "Penalidade"
+
+msgid "Royal Hall"
+msgstr "Salão Real"
+
+msgid "Chamberlain"
+msgstr "Mordomo"
+
+msgid "Sun"
+msgstr "Sol"
+
+msgid "West Road"
+msgstr "Estrada do Oeste"
+
+msgid "Seat of Emperor"
+msgstr "Cadeira do Imperador"
+
+msgid "Five Troops"
+msgstr "Cinco Tropas"
+
+msgid "River of Sky"
+msgstr "Rio do Céu"
+
+msgid "Prayer for Progeny"
+msgstr "Oração para a Progênie"
+
+msgid "Forcast"
+msgstr "Previsão"
+
+msgid "Yard for Empresses"
+msgstr "Pátio para Imperatrizes"
+
+msgid "Holy Palace"
+msgstr "Palácio Sagrado"
+
+msgid "Winnow"
+msgstr "Joeira"
+
+msgid "Outer Pestle"
+msgstr "Mão de Almofariz Externa"
+
+msgid "Head of Town"
+msgstr "Chefe do Povoado"
+
+msgid "Build"
+msgstr "Construção"
+
+msgid "Fowl of Sky"
+msgstr "Ave do Céu"
+
+msgid "Shrine of Sky"
+msgstr "Santuário do Céu"
+
+msgid "Northeastern Nations"
+msgstr "Nações do Nordeste"
+
+msgid "Old Farmer"
+msgstr "Fazendeiro Velho"
+
+msgid "Snapping Turtle"
+msgstr "Tartaruga Abocanhando"
+
+msgid "Road for Emperor"
+msgstr "Estrada para o Imperador"
+
+msgid "The Weaver"
+msgstr "O Tecelão"
+
+msgid "River adjoining Tower"
+msgstr "Rio Contíguo a Torre"
+
+msgid "Drum of River"
+msgstr "Tambor do Rio"
+
+msgid "Drumstick of Sky"
+msgstr "Baqueta do Céu"
+
+msgid "Cow leading Man"
+msgstr "Vaca Conduzindo Homem"
+
+msgid "Bank Spread"
+msgstr "Expansão do Baixio"
+
+msgid "Basket for Silkworm"
+msgstr "Cesto para Bicho-da-seda"
+
+msgid "Officer for Cart"
+msgstr "Condutor de Carroça"
+
+msgid "Ferry of Sky"
+msgstr "Barca do Céu"
+
+msgid "Fruit"
+msgstr "Fruta"
+
+msgid "Seed"
+msgstr "Semente"
+
+msgid "Storage for Lady"
+msgstr "Armazém para Moças"
+
+msgid "Court Lady"
+msgstr "Dama da Corte"
+
+msgid "Judge Fault"
+msgstr "Erro do Juiz"
+
+msgid "Amend Fault"
+msgstr "Erro Corrigido"
+
+msgid "Grant Life"
+msgstr "Doação de Vida"
+
+msgid "Punish"
+msgstr "Punição"
+
+msgid "Empty House"
+msgstr "Casa Vazia"
+
+msgid "Weep"
+msgstr "Choro"
+
+msgid "Sob"
+msgstr "Soluço"
+
+msgid "Castle with Rampart"
+msgstr "Castelo com Baluarte"
+
+msgid "Hook for Dress"
+msgstr "Gancho para Vestido"
+
+msgid "Groom"
+msgstr "Noivo"
+
+msgid "Human"
+msgstr "Ser Humano"
+
+msgid "Inner Pestle"
+msgstr "Mão de Almofariz Interna"
+
+msgid "Warehouse of Sky"
+msgstr "Armazém do Céu"
+
+msgid "Tomb"
+msgstr "Tumba"
+
+msgid "Cover of House"
+msgstr "Telhado de Casa"
+
+msgid "Broken Mortar"
+msgstr "Almofariz Quebrado"
+
+msgid "Climbing Serpent"
+msgstr "Serpente Subindo"
+
+msgid "Palace of Emperor"
+msgstr "Palácio do Imperador"
+
+msgid "Detached Palace"
+msgstr "Palácio Isolado"
+
+msgid "Lightening"
+msgstr "Relâmpago"
+
+msgid "Rampart"
+msgstr "Baluarte"
+
+msgid "Troops of Sky"
+msgstr "Tropas do Céu"
+
+msgid "Village for Patrol"
+msgstr "Aldeia para Patrulha"
+
+msgid "Net of Sky"
+msgstr "Rede do Céu"
+
+msgid "Stable of Sky"
+msgstr "Estábulo do Céu"
+
+msgid "Eastern Wall"
+msgstr "Muralha do Leste"
+
+msgid "Civil Engineer"
+msgstr "Engenheiro Civil"
+
+msgid "Thunderbolts"
+msgstr "Raios"
+
+msgid "Clouds and Rain"
+msgstr "Nuvens e Chuva"
+
+msgid "Highway"
+msgstr "Rodovia"
+
+msgid "Officer for Chariot of"
+msgstr "Condutor de Biga"
+
+msgid "Side Road"
+msgstr "Estrada Lateral"
+
+msgid "Armory"
+msgstr "Depósito de Armas"
+
+msgid "Southern Gate of Emperator"
+msgstr "Portão Sul do Imperador"
+
+msgid "Outer Folding Screen"
+msgstr "Biombo Externo"
+
+msgid "Toilet of Sky"
+msgstr "Latrina do Céu"
+
+msgid "Architect"
+msgstr "Arquiteto"
+
+msgid "Emperator"
+msgstr "Imperador"
+
+msgid "Watchtower"
+msgstr "Torre de Vigia"
+
+msgid "Left Elm"
+msgstr "Olmo Esquerdo"
+
+msgid "Right Elm"
+msgstr "Olmo Direito"
+
+msgid "Storehouse of Sky"
+msgstr "Depósito do Céu"
+
+msgid "Stack of Cereals"
+msgstr "Monte de Cereais"
+
+msgid "Ship of Sky"
+msgstr "Navio do Céu"
+
+msgid "Store of Water"
+msgstr "Reserva d’Água"
+
+msgid "Heap of Corpse"
+msgstr "Pilha de Corpos"
+
+msgid "Stomach of Tiger"
+msgstr "Estômago de Tigre"
+
+msgid "Store of Millet for"
+msgstr "Estoque de Painço"
+
+msgid "Storehouse for Cereals"
+msgstr "Depósito para Cereais"
+
+msgid "Shaman of Sky"
+msgstr "Xamã do Céu"
+
+msgid "Ear and Eye of"
+msgstr "Orelha e Olho"
+
+msgid "Moon"
+msgstr "Lua"
+
+msgid "Hill of Sky"
+msgstr "Colina do Céu"
+
+msgid "Conspiracy of Sky"
+msgstr "Conspiração do Céu"
+
+msgid "Fodder"
+msgstr "Forragem"
+
+msgid "Garage for Chariot"
+msgstr "Garagem para Biga"
+
+msgid "Pond for Fish"
+msgstr "Lagoa para Peixes"
+
+msgid "Pillar"
+msgstr "Pilar"
+
+msgid "Puddle of Sky"
+msgstr "Charco do Céu"
+
+msgid "Kings"
+msgstr "Reis"
+
+msgid "Gateway of Sky"
+msgstr "Portal de Entrada do Céu"
+
+msgid "Flage of Saam"
+msgstr "Bandeira de Saam"
+
+msgid "Village of Sky"
+msgstr "Vilarejo do Céu"
+
+msgid "Belvedere of Sky"
+msgstr "Belvedere do Céu"
+
+msgid "General of Border"
+msgstr "General da Fronteira"
+
+msgid "Celebration of Sky"
+msgstr "Celebração do Céu"
+
+msgid "Flag of Emperor"
+msgstr "Bandeira do Imperador"
+
+msgid "Nine Territory"
+msgstr "Nove Territórios"
+
+msgid "Garden of Sky"
+msgstr "Jardim do Céu"
+
+msgid "Settled Flag"
+msgstr "Bandeira Hasteada"
+
+msgid "Forcast Calamity"
+msgstr "Previsão de Desgraça"
+
+msgid "Scout of Three Troups"
+msgstr "Batedor de Três Tropas"
+
+msgid "Saam"
+msgstr "Saam"
+
+msgid "Expeditionary Force"
+msgstr "Força Expedicionária"
+
+msgid "Well for Millitary"
+msgstr "Poço para Soldados"
+
+msgid "Well of Jade"
+msgstr "Poço de Jade"
+
+msgid "Folding Screen"
+msgstr "Biombo"
+
+msgid "Piled Brushwood"
+msgstr "Gravetos Amontoados"
+
+msgid "Northern River"
+msgstr "Rio do Norte"
+
+msgid "Wine Glass of Sky"
+msgstr "Copo de Vinho do Céu"
+
+msgid "Eastern Well"
+msgstr "Poço do Leste"
+
+msgid "Flood control"
+msgstr "Controlador de Inundação"
+
+msgid "Balance of Water"
+msgstr "Balança d’Água"
+
+msgid "Four Spirit of River"
+msgstr "Quatro Espíritos do Rio"
+
+msgid "Southern River"
+msgstr "Rio do Sul"
+
+msgid "Twin Gate"
+msgstr "Portões Gêmeos"
+
+msgid "Star of Wolf"
+msgstr "Estrela do Lobo"
+
+msgid "Wild Fowls"
+msgstr "Aves Selvagens"
+
+msgid "Market for Army"
+msgstr "Mercado para o Exército"
+
+msgid "Grandchildren"
+msgstr "Netos"
+
+msgid "Grown-up"
+msgstr "Adulto"
+
+msgid "Oldman"
+msgstr "Homem Velho"
+
+msgid "Beacon"
+msgstr "Farol"
+
+msgid "Eye of Sky"
+msgstr "Olho do Céu"
+
+msgid "Pile of Dead"
+msgstr "Pilha de Mortos"
+
+msgid "Green Ridge"
+msgstr "Cumeada Verde"
+
+msgid "Dog of Sky"
+msgstr "Cão do Céu"
+
+msgid "Spirit of GuRyoung"
+msgstr "Espírito de Gu Ryoung"
+
+msgid "Flag of Wine Officer"
+msgstr "Bandeira do Administrador do Vinho"
+
+msgid "Officer of Kitchen"
+msgstr "Administrador de Cozinha"
+
+msgid "Equality and Fair"
+msgstr "Igualdade e Justiça"
+
+msgid "Emperor HeonWon"
+msgstr "Imperador Heon Won"
+
+msgid "Capital of Sky"
+msgstr "Capital do Céu"
+
+msgid "Chief of Farming"
+msgstr "Chefe de Agricultura"
+
+msgid "Officer of Tomb"
+msgstr "Administrador de Tumba"
+
+msgid "Tomb of Sky"
+msgstr "Tumba do Céu"
+
+msgid "Wing of Red Bird"
+msgstr "Asa do Pássaro Vermelho"
+
+msgid "Eastern Pottery"
+msgstr "Cerâmica Oriental"
+
+msgid "Chariot of Emperor"
+msgstr "Biga do Imperador"
+
+msgid "Sand for Life"
+msgstr "Areia para a Vida"
+
+msgid "Gateway for Troops"
+msgstr "Portal de Entrada para as Tropas"
+
+msgid "Guardian Knight"
+msgstr "Cavaleiro Guardião"
+
+msgid "Five Feudal Lords"
+msgstr "Cinco Senhores Feudais"
+
+msgid "SangJiin"
+msgstr "Sang Jiin"
+
+msgid "Low Fence"
+msgstr "Cerca Baixa"
+
+msgid "Tall Fence"
+msgstr "Cerca Alta"
+
+msgid "Nine Lords"
+msgstr "Nove Senhores"
+
+msgid "Dung of Tiger"
+msgstr "Esterco de Tigre"
+
+msgid "Five Emperor"
+msgstr "Cinco Imperadores"
+
+msgid "Three Minister"
+msgstr "Três Ministros"
+
+msgid "Officer for Audience"
+msgstr "Oficial de Audiência"
+
+msgid "Grave Front"
+msgstr "Fachada de Sepultura"
+
+msgid "Observatory"
+msgstr "Observatório"
+
+msgid "Female Officer"
+msgstr "Oficial Mulher"
+
+msgid "Wide Lodging Area"
+msgstr "Área de Alojamento Ampla"
+
+msgid "Eight Cereals"
+msgstr "Oito Cereais"
+
+msgid "Advance Guard"
+msgstr "Guarda Avançada"
+
+msgid "Three Ministers"
+msgstr "Três Ministros"
+
+msgid "Virtue"
+msgstr "Virtude"
+
+msgid "Emperor's God of War"
+msgstr "Deus da Guerra do Imperador"
+
+msgid "Emperor's God of Weather"
+msgstr "Deus do Tempo do Imperador"
+
+msgid "Flap of Flag"
+msgstr "Tremulação da Bandeira"
+
+msgid "Minister"
+msgstr "Ministro"
+
+msgid "General and Minister"
+msgstr "General e Ministro"
+
+msgid "Jail of Sky"
+msgstr "Prisão do Céu"
+
+msgid "Six Department"
+msgstr "Seis Departamentos"
+
+msgid "Inner Stairway"
+msgstr "Escadaria Interna"
+
+msgid "Spear of Sky"
+msgstr "Azagaia do Céu"
+
+msgid "Cover for Emperor"
+msgstr "Abrigo para o Imperador"
+
+msgid "Place for Five Emperor"
+msgstr "Lugar para os Cinco Imperadores"
+
+msgid "60 Years"
+msgstr "Sessenta Anos"
+
+msgid "Kitchen of Sky"
+msgstr "Cozinha do Céu"
+
+msgid "North Pole"
+msgstr "Poste do Norte"
+
+msgid "Wound Lodge"
+msgstr "Cabana do Sofrimento"
+
+msgid "Single-log Bridge"
+msgstr "Pinguela"
+
+msgid "Great Emperor"
+msgstr "Grande Imperador"
+
+msgid "Officer for Opinion"
+msgstr "Administrador de Opinião"
+
+msgid "Pillar of Sky"
+msgstr "Pilar do Céu"
+
+msgid "Secretary"
+msgstr "Secretária"
+
+msgid "Maid"
+msgstr "Empregada"
+
+msgid "Desk of Woman"
+msgstr "Púlpito de Mulher"
+
+msgid "Judge Prison"
+msgstr "Prisão do Juiz"
+
+msgid "Purple Fence"
+msgstr "Cerca Púrpura"
+
+msgid "Order of Sky"
+msgstr "Organização do Céu"
+
+msgid "Seven Minister"
+msgstr "Sete Ministros"
+
+msgid "Thread Straw"
+msgstr "Fio de Palha"
+
+msgid "Market Fence"
+msgstr "Cerca do Mercado"
+
+msgid "Feudal Lord"
+msgstr "Senhor Feudal"
+
+msgid "Seat for Emperor"
+msgstr "Cadeira para o Imperador"
+
+msgid "Royal Family"
+msgstr "Família Real"
+
+msgid "Head of Family"
+msgstr "Chefe de Família"
+
+msgid "Record of Family"
+msgstr "Registro de Família"
+
+msgid "Officer for Family"
+msgstr "Administrador de Família"
+
+msgid "Tower in Market"
+msgstr "Torre no Mercado"
+
+msgid "Measure Cereal"
+msgstr "Medida de Cereal"
+
+msgid "Cereal Measure Regulation"
+msgstr "Norma de Medida de Cereal"
+
+msgid "Officer for Chariots"
+msgstr "Condutor de Bigas"
+
+msgid "Measure Amount"
+msgstr "Medida de Quantidade"
+
+msgid "Butchery"
+msgstr "Açougue"
+
+msgid "Officer for Jewel"
+msgstr "Administrador de Joias"
+
+msgid "Royal"
+msgstr "Realeza"
+
+msgid "Lord"
+msgstr "Senhor"
+
+msgid "Left Executor"
+msgstr "Executor Esquerdo"
+
+msgid "Right Executor"
+msgstr "Executor Direito"
+
+msgid "Crossbeam for Heo"
+msgstr "Viga de Heo"
+
+msgid "Threading Coins"
+msgstr "Moedas Costuradas"
+
+msgid "SangSang"
+msgstr ""
+
+msgid "ChaSang"
+msgstr ""
+
+msgid "ChaJang"
+msgstr ""
+
+msgid "UJangGun"
+msgstr ""
+
+msgid "DaeJangGun"
+msgstr ""
+
+msgid "JwaJangGun"
+msgstr ""
+
+msgid "WangRang"
+msgstr ""
+
+msgid "CheonSa"
+msgstr ""
+
+msgid "CheonGou"
+msgstr "Cheon Gou"
+
+msgid "SaGong"
+msgstr ""
+
+msgid "CheonOk"
+msgstr ""
+
+msgid "CheonChang"
+msgstr ""
+
+msgid "Gyeong"
+msgstr "Gyeong"
+
+msgid "HuJangGun"
+msgstr ""
+
+msgid "PyeonJangGun"
+msgstr ""
+
+msgid "SamJangGun"
+msgstr ""
+
+msgid "TaeSa"
+msgstr ""
+
+msgid "BakSa"
+msgstr ""
+
+msgid "SamGong"
+msgstr ""
+
+msgid "JaeUu"
+msgstr "Jae Uu"
+
+msgid "JaeSa"
+msgstr ""
+
+msgid "YeoJu"
+msgstr ""
+
+msgid "YeoEo"
+msgstr "Yeo Eo"
+
+msgid "TaeMin"
+msgstr "Tae Min"
+
+msgid "SouMin"
+msgstr "Sou Min"
+
+msgid "Buin"
+msgstr ""
+
+msgid "WangBi"
+msgstr ""
+
+msgid "HuGung"
+msgstr ""
+
+msgid "HwangJae"
+msgstr "Hwang Jae"
+
+msgid "CheoSa"
+msgstr ""
+
+msgid "EuiSa"
+msgstr ""
+
+msgid "DaeBu"
+msgstr ""
+
+msgid "SangTae"
+msgstr ""
+
+msgid "JungTae"
+msgstr ""
+
+msgid "HaTae"
+msgstr ""
+
+msgid "TaeJa"
+msgstr ""
+
+msgid "JaeWang"
+msgstr ""
+
+msgid "SeoJa"
+msgstr ""
+
+msgid "CheonChu"
+msgstr ""
+
+msgid "SangJang"
+msgstr ""
+
+msgid "TaeSang"
+msgstr ""
+
+msgid "SaJu.DaeRi"
+msgstr ""
+
+msgid "Jeong"
+msgstr "Jeong"
+
+msgid "Beop"
+msgstr "Beop"
+
+msgid "Ryeong"
+msgstr "Ryeong"
+
+msgid "Beol"
+msgstr "Beol"
+
+msgid "Sal"
+msgstr ""
+
+msgid "Wi"
+msgstr ""
+
+msgid "Eung"
+msgstr "Eung"
+
+msgid "MyeongDang"
+msgstr ""
+
+msgid "Hu"
+msgstr ""
+
+msgid "Bin"
+msgstr ""
+
+msgid "DaeJang"
+msgstr ""
