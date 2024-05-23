@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-01-01 16:59+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2024\n"
+"Language-Team: Russian (https://app.transifex.com/stellarium/teams/80998/"
+"ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+# Sky culture name
+msgid "Hawaiian Starlines"
+msgstr "Гавайские звёздные линии"
+
+msgid "Leo"
+msgstr "Лев"
+
+msgid "The Canoe Bailer of Makali`i"
+msgstr "Сборщик каноэ из Макали"
+
+msgid "The Cat's Cradle"
+msgstr "Верёвочка"
+
+msgid "The Backbone"
+msgstr "Магистраль"
+
+msgid "The Chief's Fishline"
+msgstr "Леска вождя"
+
+msgid "The Chief's Eyes"
+msgstr "Глаза вождя"
+
+msgid "Kite of Kawelo"
+msgstr "Коршун Кавело"
+
+msgid "The Seven"
+msgstr "Семерка"
+
+msgid "Voice of Joy"
+msgstr "Голос радости"
+
+msgid "Chief Frigate Bird"
+msgstr "Птица большой фрегат"
+
+msgid "Cared for by Moon"
+msgstr "Лелеянный луной"
+
+msgid "The Pointers"
+msgstr "Указатели"
+
+msgid "Navigator's Triangle"
+msgstr "Треугольник штурмана"
+
+msgid "Hokulei"
+msgstr "Хокулеи"
+
+msgid "Nana-mua"
+msgstr "Нана-муа (Смотри вперёд)"
+
+msgid "Nana-hope"
+msgstr "Нана-хоп (Смотри назад)"
+
+msgid "Puana"
+msgstr "Пуана (Цветок)"
+
+msgid "A‘a"
+msgstr "А'а"
+
+msgid "Puana-kau"
+msgstr "Пуана-кау (Висящий цветок)"
+
+msgid "Pu'uhonua"
+msgstr "Пу'ухонуа"
+
+msgid "Kaulua-koko"
+msgstr "Каулуа-коко"
+
+msgid "Hokupa‘a"
+msgstr "Хокупа'а"
+
+msgid "Hokule‘a"
+msgstr "Хокуле'а"
+
+msgid "Hiki-analia"
+msgstr "Хики-аналиа"
+
+msgid "Holopuni"
+msgstr "Холопуни"
+
+msgid "Hawaiki"
+msgstr "Хаваики"
+
+msgid "Humu"
+msgstr "Хуму"
+
+msgid "Keoe"
+msgstr "Кеое"
+
+msgid "Hoku‘ula"
+msgstr "Хоку'ула"
+
+msgid "Lehua-Kona"
+msgstr "Лехуа-Кона"
+
+msgid "Ke ali'i o kona i ka lewa"
+msgstr "Ке али'и о кона и ка лева"
+
+msgid "Pu‘uhonua"
+msgstr "Пу'ухонуа"
+
+msgid "Hiku-kahi"
+msgstr "Хику-кахи"
+
+msgid "Hiku-lua"
+msgstr "Хику-луа"
+
+msgid "Hiku-kolu"
+msgstr "Хику-колу"
+
+msgid "Hiku-ha"
+msgstr "Хику-ха"
+
+msgid "Hiku-lima"
+msgstr "Хику-лима"
+
+msgid "Hiku-ono"
+msgstr "Хику-оно"
+
+msgid "Hiku-pau"
+msgstr "Хику-пау"
+
+msgid "Kaulia"
+msgstr "Каулиа"
+
+msgid "Ka Mole Honua"
+msgstr "Ка Моле Хонуа"
+
+msgid "Ka-maile-mua"
+msgstr "Ка-маиле-муа"
+
+msgid "Ka-maile-hope"
+msgstr "Ка-маиле-хопе"
+
+msgid "Ka Maka"
+msgstr "Ка Мака"
+
+msgid "Kapuahi"
+msgstr "Капуахи"
+
+msgid "Keawe"
+msgstr "Кеаве"
+
+msgid "Manokalanipo"
+msgstr "Манокаланипо"
+
+msgid "Pi‘ilani"
+msgstr "Пи'илани"
+
+msgid "Kakuhihewa"
+msgstr "Какухихева"
+
+msgid "Pi‘ikea"
+msgstr "Пи'икеа"
+
+msgid "Kaikilani"
+msgstr "Каикилани"
+
+msgid "Kukaniloko"
+msgstr "Куканилоко"
+
+msgid "Kealohalani-po-keao"
+msgstr "Кеалохалани-по-кеао"
+
+msgid "Kamoanalipoli-po-keao"
+msgstr "Кемоаналиполи-по-кеао"
+
+msgid "Kaheihiwahiwa-o-keao"
+msgstr "Кахеихивахива-о-кеао"
+
+msgid "Kapalinihinihi-o-keao"
+msgstr "Капалинихинихи-о-кеао"
+
+msgid "Haumea"
+msgstr "Хаумеа"
+
+msgid "Mirzim"
+msgstr "Мирзим"
+
+msgid "‘Ekekeu’ena’ena"
+msgstr "'Екекеу'ена'ена"
+
+msgid "‘Ekekeuehuehu"
+msgstr "'Екекеуехуеху"
+
+msgid "‘Ekekeuhe’ehe’e"
+msgstr "'Екекеухе'ехе'е"
+
+msgid "‘Ekekeukolokolo"
+msgstr "'Екекеуколоколо"
+
+msgid "Bellatrix"
+msgstr "Беллатрикс"
+
+msgid "Alnitak"
+msgstr "Альнитак"
+
+msgid "Alnilam"
+msgstr "Альнилам"
+
+msgid "Mintaka"
+msgstr "Минтака"
+
+msgid "Pua‘i"
+msgstr "Пуа'и"
+
+msgid "Mili’opu"
+msgstr "Мили'опу"
+
+msgid "Kahe"
+msgstr "Кахе"
+
+msgid "Hihiwai"
+msgstr "Нихиваи"
+
+msgid "Kawelaokapo"
+msgstr "Кавелаокапо"
+
+msgid "‘Ohelokulu"
+msgstr "'Охелокулу"
+
+msgid "‘Ohelokoko"
+msgstr "'Охелококо"
+
+msgid "‘Ohelouli"
+msgstr "'охелоули"
+
+msgid "‘Oheloawa"
+msgstr "'Охелоава"
+
+msgid "‘Ohelowaha"
+msgstr "'Охеловаха"
+
+msgid "Kawilikolokio"
+msgstr "Кавиликолокио"
+
+msgid "Ka‘ielawei‘a"
+msgstr "Ка'иелавеи'а"
+
+msgid "Kalipo‘eu‘eu"
+msgstr "Калипо'еу'еу"
+
+msgid "Momonapikowalu"
+msgstr "Момонапиковалу"
+
+msgid "Mokopapa‘i"
+msgstr "Мокопапа'и"
+
+msgid "Wainielela"
+msgstr "Ваиниелела"
+
+msgid "Makali‘i"
+msgstr "Макалии"
