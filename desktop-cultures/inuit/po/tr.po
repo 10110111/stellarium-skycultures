@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: 03bfdb1e3bdfa21b80c8160ea93f1c67_2436d66, 2022\n"
+"Language-Team: Turkish (https://app.transifex.com/stellarium/teams/80998/"
+"tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr "Inuit"
+
+msgid "Two Sunbeams"
+msgstr "İki Güneş Işını"
+
+msgid "Two Placed Far Apart"
+msgstr "Ayrı Konulmuş İki"
+
+msgid "Dogs"
+msgstr "Köpekler"
+
+msgid "Collarbones"
+msgstr "Köprücük Kemikleri"
+
+msgid "Lamp Stand"
+msgstr "Lambalık"
+
+msgid "Caribou"
+msgstr "Karibu"
+
+msgid "Two in Front"
+msgstr "Önde İki"
+
+msgid "Breastbone"
+msgstr "Göğüs Kemiği"
+
+msgid "Runners"
+msgstr "Koşucular"
+
+msgid "Blubber Container"
+msgstr "Balina Yağı Sandığı"
+
+msgid "The One Behind"
+msgstr "Arkadaki Bir"
+
+msgid "The Old Woman"
+msgstr "Yaşlı Kadın"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Bir Kutup Ayısının Ruhu"
+
+msgid "Never Moves"
+msgstr "Asla Kıpırdamaz"
+
+msgid "Name of a Murdered Man"
+msgstr "Öldürülmüş bir Adamın Adı"
+
+msgid "Flickering"
+msgstr "Titreme"
+
+msgid "Nephews"
+msgstr "Yeğenler"
+
+msgid "The Old Man"
+msgstr "Yaşlı Adam"
+
+msgid "The Little Orphan Boy"
+msgstr "Küçük Yetim Çocuk"

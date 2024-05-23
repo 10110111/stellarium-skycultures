@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Karl Birgersson <birgerssonkarl@outlook.com>, 2022\n"
+"Language-Team: Swedish (https://app.transifex.com/stellarium/teams/80998/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr "Inuitisk"
+
+msgid "Two Sunbeams"
+msgstr "Två solstrålar"
+
+msgid "Two Placed Far Apart"
+msgstr "Två placerade långt isär"
+
+msgid "Dogs"
+msgstr "Hundar"
+
+msgid "Collarbones"
+msgstr "Nyckelben"
+
+msgid "Lamp Stand"
+msgstr "Lamphållare"
+
+msgid "Caribou"
+msgstr "Ren"
+
+msgid "Two in Front"
+msgstr "Två framför"
+
+msgid "Breastbone"
+msgstr "Bröstben"
+
+msgid "Runners"
+msgstr "Löpare"
+
+msgid "Blubber Container"
+msgstr "Späckbehållare"
+
+msgid "The One Behind"
+msgstr "Den som är bakom"
+
+msgid "The Old Woman"
+msgstr "Den gamla kvinnan"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Isbjörnsande"
+
+msgid "Never Moves"
+msgstr "Rör sig aldrig"
+
+msgid "Name of a Murdered Man"
+msgstr "Namnet på en mördad man"
+
+msgid "Flickering"
+msgstr "Den flimrande"
+
+msgid "Nephews"
+msgstr "Brorsöner"
+
+msgid "The Old Man"
+msgstr "Den gamle mannen"
+
+msgid "The Little Orphan Boy"
+msgstr "Föräldralöse pojken"

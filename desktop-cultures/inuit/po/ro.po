@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Romanian (https://app.transifex.com/stellarium/teams/80998/"
+"ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "Două raze de soare"
+
+msgid "Two Placed Far Apart"
+msgstr ""
+
+msgid "Dogs"
+msgstr "Câini"
+
+msgid "Collarbones"
+msgstr ""
+
+msgid "Lamp Stand"
+msgstr ""
+
+msgid "Caribou"
+msgstr "Caribou"
+
+msgid "Two in Front"
+msgstr "Primii doi"
+
+msgid "Breastbone"
+msgstr ""
+
+msgid "Runners"
+msgstr "Alergătorii"
+
+msgid "Blubber Container"
+msgstr ""
+
+msgid "The One Behind"
+msgstr "Cel din spate"
+
+msgid "The Old Woman"
+msgstr "Bătrîna"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Siritul ursului polar"
+
+msgid "Never Moves"
+msgstr ""
+
+msgid "Name of a Murdered Man"
+msgstr ""
+
+msgid "Flickering"
+msgstr ""
+
+msgid "Nephews"
+msgstr "Nepoţii"
+
+msgid "The Old Man"
+msgstr "Bătrînul"
+
+msgid "The Little Orphan Boy"
+msgstr "Băieţelul orfan"

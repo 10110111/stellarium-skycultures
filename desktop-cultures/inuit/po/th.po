@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Worachate Boonplod, 2024\n"
+"Language-Team: Thai (https://app.transifex.com/stellarium/teams/80998/th/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr "อินูอิท"
+
+msgid "Two Sunbeams"
+msgstr "สองลำแสงอาทิตย์"
+
+msgid "Two Placed Far Apart"
+msgstr "สองซึ่งถูกวางให้ห่างกัน"
+
+msgid "Dogs"
+msgstr "ฝูงสุนัข"
+
+msgid "Collarbones"
+msgstr "กระดูกไหปลาร้า"
+
+msgid "Lamp Stand"
+msgstr "ฐานตะเกียง"
+
+msgid "Caribou"
+msgstr "กวางแคริบู"
+
+msgid "Two in Front"
+msgstr "สองซึ่งอยู่ข้างหน้า"
+
+msgid "Breastbone"
+msgstr "กระดูกหน้าอก"
+
+msgid "Runners"
+msgstr "หมู่นักวิ่ง"
+
+msgid "Blubber Container"
+msgstr "ไหน้ำมัน"
+
+msgid "The One Behind"
+msgstr "ที่อยู่ข้างหลัง"
+
+msgid "The Old Woman"
+msgstr "หญิงชรา"
+
+msgid "Spirit of a Polar Bear"
+msgstr "จิตวิญญาณของหมีขั้วโลก"
+
+msgid "Never Moves"
+msgstr ""
+
+msgid "Name of a Murdered Man"
+msgstr ""
+
+msgid "Flickering"
+msgstr ""
+
+msgid "Nephews"
+msgstr "หลานชาย"
+
+msgid "The Old Man"
+msgstr "ชายชรา"
+
+msgid "The Little Orphan Boy"
+msgstr "เด็กชายกำพร้า"

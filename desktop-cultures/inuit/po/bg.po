@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander Shopov <ash@kambanaria.org>, 2022\n"
+"Language-Team: Bulgarian (https://app.transifex.com/stellarium/teams/80998/"
+"bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "Два слънчеви лъча"
+
+msgid "Two Placed Far Apart"
+msgstr "Две отдалечени"
+
+msgid "Dogs"
+msgstr "Кучета"
+
+msgid "Collarbones"
+msgstr "Ключици"
+
+msgid "Lamp Stand"
+msgstr "Поставка за лампа"
+
+msgid "Caribou"
+msgstr "Карибу"
+
+msgid "Two in Front"
+msgstr "Две отпред"
+
+msgid "Breastbone"
+msgstr "Гръдна кост"
+
+msgid "Runners"
+msgstr "Бегачи"
+
+msgid "Blubber Container"
+msgstr "Съд за китова мас"
+
+msgid "The One Behind"
+msgstr "Останалият отзад"
+
+msgid "The Old Woman"
+msgstr "Старицата"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Духът на бялата мечка"
+
+msgid "Never Moves"
+msgstr "Неподвижното"
+
+msgid "Name of a Murdered Man"
+msgstr "Името на убития"
+
+msgid "Flickering"
+msgstr "Проблясващото"
+
+msgid "Nephews"
+msgstr "Племенниците"
+
+msgid "The Old Man"
+msgstr "Старецът"
+
+msgid "The Little Orphan Boy"
+msgstr "Малкият сирак"

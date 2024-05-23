@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Urtzi Odriozola <urtzi.odriozola@gmail.com>, 2022\n"
+"Language-Team: Basque (https://app.transifex.com/stellarium/teams/80998/"
+"eu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: eu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "Bi eguzki-izpiak"
+
+msgid "Two Placed Far Apart"
+msgstr "Oso urrun kokatutako bi"
+
+msgid "Dogs"
+msgstr "Zakurrak"
+
+msgid "Collarbones"
+msgstr "Lepauztaiak"
+
+msgid "Lamp Stand"
+msgstr "Lanpararen euskarria"
+
+msgid "Caribou"
+msgstr "Karibua"
+
+msgid "Two in Front"
+msgstr "Bi aurrealdean"
+
+msgid "Breastbone"
+msgstr "Bularrezurra"
+
+msgid "Runners"
+msgstr "Lasterkariak"
+
+msgid "Blubber Container"
+msgstr "Koipe edukiontzia"
+
+msgid "The One Behind"
+msgstr "Atzekoa"
+
+msgid "The Old Woman"
+msgstr "Atsoa"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Hartz zuri baten espiritua"
+
+msgid "Never Moves"
+msgstr "Ez da inoiz mugitzen"
+
+msgid "Name of a Murdered Man"
+msgstr "Eraildako gizon baten izena"
+
+msgid "Flickering"
+msgstr "Dirdirkaria"
+
+msgid "Nephews"
+msgstr "Ilobak"
+
+msgid "The Old Man"
+msgstr "Agurea"
+
+msgid "The Little Orphan Boy"
+msgstr "Umezurtz txikia"
