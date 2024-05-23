@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2022-09-30 13:16+0700\n"
+"PO-Revision-Date: 2017-11-29 01:17+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Hindi (https://www.transifex.com/stellarium/teams/80998/hi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr "इनुइट"
+
+msgid "Two Sunbeams"
+msgstr "दो सुर्यकिरने"
+
+msgid "Two Placed Far Apart"
+msgstr "दूर खड़े दो"
+
+msgid "Dogs"
+msgstr "कुत्ते"
+
+msgid "Collarbones"
+msgstr "गले की हड्डी"
+
+msgid "Lamp Stand"
+msgstr "दिया"
+
+msgid "Caribou"
+msgstr "हिरण"
+
+msgid "Two in Front"
+msgstr "आगे के दो"
+
+msgid "Breastbone"
+msgstr "छाती की हड्डी"
+
+msgid "Runners"
+msgstr "धावक"
+
+msgid "Blubber Container"
+msgstr "चरबी रखने का पात्र"
+
+msgid "The One Behind"
+msgstr "पीछे का वो एक"
+
+msgid "The Old Woman"
+msgstr ""
+
+msgid "Spirit of a Polar Bear"
+msgstr ""
+
+msgid "Never Moves"
+msgstr ""
+
+msgid "Name of a Murdered Man"
+msgstr ""
+
+msgid "Flickering"
+msgstr ""
+
+msgid "Nephews"
+msgstr ""
+
+msgid "The Old Man"
+msgstr ""
+
+msgid "The Little Orphan Boy"
+msgstr ""

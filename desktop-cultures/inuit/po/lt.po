@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Gediminas Tauras, 2024\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr "Inuitų"
+
+msgid "Two Sunbeams"
+msgstr "Du saulės spinduliai"
+
+msgid "Two Placed Far Apart"
+msgstr "Du toli vienas nuo kito"
+
+msgid "Dogs"
+msgstr "Šunys"
+
+msgid "Collarbones"
+msgstr "Raktikauliai"
+
+msgid "Lamp Stand"
+msgstr "Žibinto stovas"
+
+msgid "Caribou"
+msgstr "Šiaurinis elnias"
+
+msgid "Two in Front"
+msgstr "Du priekyje"
+
+msgid "Breastbone"
+msgstr "Krūtinkaulis"
+
+msgid "Runners"
+msgstr "Bėgikai"
+
+msgid "Blubber Container"
+msgstr "Banginio taukų talpykla"
+
+msgid "The One Behind"
+msgstr "Atsilikėlis"
+
+msgid "The Old Woman"
+msgstr "Senė"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Poliarinio lokio dvasia"
+
+msgid "Never Moves"
+msgstr "Niekada nejuda"
+
+msgid "Name of a Murdered Man"
+msgstr "Nužudyto vyro vardas"
+
+msgid "Flickering"
+msgstr "Mirga"
+
+msgid "Nephews"
+msgstr "Sūnėnai"
+
+msgid "The Old Man"
+msgstr "Senis"
+
+msgid "The Little Orphan Boy"
+msgstr "Mažas našlaitis"

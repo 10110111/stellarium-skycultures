@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Serbian (https://app.transifex.com/stellarium/teams/80998/"
+"sr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "Два Сунчева зрака"
+
+msgid "Two Placed Far Apart"
+msgstr "Два удаљена места"
+
+msgid "Dogs"
+msgstr "Пси"
+
+msgid "Collarbones"
+msgstr "Кључне кости"
+
+msgid "Lamp Stand"
+msgstr "Постоље лампе"
+
+msgid "Caribou"
+msgstr "Ирвас"
+
+msgid "Two in Front"
+msgstr "Предња два"
+
+msgid "Breastbone"
+msgstr "Грудна кост"
+
+msgid "Runners"
+msgstr "Тркачи"
+
+msgid "Blubber Container"
+msgstr "Фокина маст"
+
+msgid "The One Behind"
+msgstr "Онај који је иза"
+
+msgid "The Old Woman"
+msgstr "Старица"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Дух поларног медведа"
+
+msgid "Never Moves"
+msgstr "Непокретан"
+
+msgid "Name of a Murdered Man"
+msgstr "Име убијеног човека"
+
+msgid "Flickering"
+msgstr "Треперење"
+
+msgid "Nephews"
+msgstr "Нећаци"
+
+msgid "The Old Man"
+msgstr "Старац"
+
+msgid "The Little Orphan Boy"
+msgstr "Сироче"

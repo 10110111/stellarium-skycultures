@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "రెండు సూర్య కిరణాలు"
+
+msgid "Two Placed Far Apart"
+msgstr "బహుదూరంగా ఉన్న రెండు"
+
+msgid "Dogs"
+msgstr "కుక్కలు"
+
+msgid "Collarbones"
+msgstr "మెడ ఎముకలు"
+
+msgid "Lamp Stand"
+msgstr "దీపపు సెమ్మె"
+
+msgid "Caribou"
+msgstr "కారిబౌ"
+
+msgid "Two in Front"
+msgstr "ముందు ఇద్దరు"
+
+msgid "Breastbone"
+msgstr "బ్రెస్ట్‌బోన్"
+
+msgid "Runners"
+msgstr "పరుగుతీసేవారు"
+
+msgid "Blubber Container"
+msgstr "బ్లబ్బర్ పాత్ర"
+
+msgid "The One Behind"
+msgstr "వెనకనున్నవాడు"
+
+msgid "The Old Woman"
+msgstr "వృద్ధ స్త్రీ"
+
+msgid "Spirit of a Polar Bear"
+msgstr "ధ్రువ ఎలుగుబంటి ఆత్మ"
+
+msgid "Never Moves"
+msgstr "ఎన్నటికీ కదలదు"
+
+msgid "Name of a Murdered Man"
+msgstr "హతుడి పేరు"
+
+msgid "Flickering"
+msgstr "మినుకు మినుకు మనే"
+
+msgid "Nephews"
+msgstr "మేనకోడళ్ళు"
+
+msgid "The Old Man"
+msgstr "వృద్ధుడు"
+
+msgid "The Little Orphan Boy"
+msgstr "చిన్నారి అనాథ పిల్లవాడు"

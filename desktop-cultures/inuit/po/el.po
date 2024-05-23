@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Greek (https://app.transifex.com/stellarium/teams/80998/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "Δύο Ηλιαχτίδες"
+
+msgid "Two Placed Far Apart"
+msgstr "Δύο Τοποθετημένα Μακριά"
+
+msgid "Dogs"
+msgstr "Σκύλοι"
+
+msgid "Collarbones"
+msgstr "Κόκαλα Κλείδας"
+
+msgid "Lamp Stand"
+msgstr "Στήριγμα Λάμπας"
+
+msgid "Caribou"
+msgstr "Καριμπού"
+
+msgid "Two in Front"
+msgstr "Δύο Μπροστά"
+
+msgid "Breastbone"
+msgstr "Θώρακας"
+
+msgid "Runners"
+msgstr "Δρομείς"
+
+msgid "Blubber Container"
+msgstr "Δοχείο Λίπους (Inuit)"
+
+msgid "The One Behind"
+msgstr "Αυτό που είναι Πίσω"
+
+msgid "The Old Woman"
+msgstr "Η Γηραιά Κυρία"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Πνεύμα Πολικής Αρκούδας"
+
+msgid "Never Moves"
+msgstr "Ακίνητο"
+
+msgid "Name of a Murdered Man"
+msgstr "Όνομα ενός Δολοφονημένου Ανδρός"
+
+msgid "Flickering"
+msgstr ""
+
+msgid "Nephews"
+msgstr "Ανίψια"
+
+msgid "The Old Man"
+msgstr "Ο Γηραιός Άντρας"
+
+msgid "The Little Orphan Boy"
+msgstr "Το Μικρό Ορφανό Αγόρι"

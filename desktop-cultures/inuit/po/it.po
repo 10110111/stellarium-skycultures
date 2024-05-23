@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Luigi Ghia <luigi.ghia@gmail.com>, 2023\n"
+"Language-Team: Italian (https://app.transifex.com/stellarium/teams/80998/"
+"it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr "Inuit"
+
+msgid "Two Sunbeams"
+msgstr "Due raggi di sole"
+
+msgid "Two Placed Far Apart"
+msgstr "Due a grande distanza l'uno dall'altro"
+
+msgid "Dogs"
+msgstr "Cani"
+
+msgid "Collarbones"
+msgstr "Clavicole"
+
+msgid "Lamp Stand"
+msgstr "Candelabro a sette bracci (menorah)"
+
+msgid "Caribou"
+msgstr "Caribù"
+
+msgid "Two in Front"
+msgstr "Due Davanti"
+
+msgid "Breastbone"
+msgstr "Sterno"
+
+msgid "Runners"
+msgstr "Corridori"
+
+msgid "Blubber Container"
+msgstr "Contenitore di grasso di balena"
+
+msgid "The One Behind"
+msgstr "Uno Dietro"
+
+msgid "The Old Woman"
+msgstr "La vecchia signora"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Spirito di un orso polare"
+
+msgid "Never Moves"
+msgstr "Non si muove mai"
+
+msgid "Name of a Murdered Man"
+msgstr "Nome di un uomo assassinato"
+
+msgid "Flickering"
+msgstr "Tremolante"
+
+msgid "Nephews"
+msgstr "Nipoti"
+
+msgid "The Old Man"
+msgstr "L'anziano"
+
+msgid "The Little Orphan Boy"
+msgstr "Il piccolo orfano"

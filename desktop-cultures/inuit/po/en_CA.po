@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: English (Canada) (https://app.transifex.com/stellarium/"
+"teams/80998/en_CA/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_CA\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "Two Sunbeams"
+
+msgid "Two Placed Far Apart"
+msgstr "Two Placed Far Apart"
+
+msgid "Dogs"
+msgstr "Dogs"
+
+msgid "Collarbones"
+msgstr "Collarbones"
+
+msgid "Lamp Stand"
+msgstr "Lamp Stand"
+
+msgid "Caribou"
+msgstr "Caribou"
+
+msgid "Two in Front"
+msgstr "Two in Front"
+
+msgid "Breastbone"
+msgstr "Breastbone"
+
+msgid "Runners"
+msgstr "Runners"
+
+msgid "Blubber Container"
+msgstr "Blubber Container"
+
+msgid "The One Behind"
+msgstr "The One Behind"
+
+msgid "The Old Woman"
+msgstr "The Old Woman"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Spirit of a Polar Bear"
+
+msgid "Never Moves"
+msgstr "Never Moves"
+
+msgid "Name of a Murdered Man"
+msgstr "Name of a Murdered Man"
+
+msgid "Flickering"
+msgstr "Flickering"
+
+msgid "Nephews"
+msgstr "Nephews"
+
+msgid "The Old Man"
+msgstr "The Old Man"
+
+msgid "The Little Orphan Boy"
+msgstr "The Little Orphan Boy"

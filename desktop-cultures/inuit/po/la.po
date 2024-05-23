@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Latin (https://app.transifex.com/stellarium/teams/80998/la/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: la\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr "Inuit"
+
+msgid "Two Sunbeams"
+msgstr ""
+
+msgid "Two Placed Far Apart"
+msgstr ""
+
+msgid "Dogs"
+msgstr "Canes"
+
+msgid "Collarbones"
+msgstr ""
+
+msgid "Lamp Stand"
+msgstr ""
+
+msgid "Caribou"
+msgstr "Caribous"
+
+msgid "Two in Front"
+msgstr ""
+
+msgid "Breastbone"
+msgstr "Sternum"
+
+msgid "Runners"
+msgstr ""
+
+msgid "Blubber Container"
+msgstr ""
+
+msgid "The One Behind"
+msgstr ""
+
+msgid "The Old Woman"
+msgstr "Mulier veta"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Spiritus ursi arctici"
+
+msgid "Never Moves"
+msgstr "Nisi motus"
+
+msgid "Name of a Murdered Man"
+msgstr ""
+
+msgid "Flickering"
+msgstr "Scintillans"
+
+msgid "Nephews"
+msgstr "Nepotes"
+
+msgid "The Old Man"
+msgstr "Vir vetus"
+
+msgid "The Little Orphan Boy"
+msgstr ""

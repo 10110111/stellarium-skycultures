@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Portuguese (https://app.transifex.com/stellarium/teams/80998/"
+"pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "Dois raios de sol"
+
+msgid "Two Placed Far Apart"
+msgstr "Duas bem afastadas"
+
+msgid "Dogs"
+msgstr "Cães"
+
+msgid "Collarbones"
+msgstr "Colar de ossos"
+
+msgid "Lamp Stand"
+msgstr "Candeeiro de pé"
+
+msgid "Caribou"
+msgstr "Alce"
+
+msgid "Two in Front"
+msgstr "Duas de frente"
+
+msgid "Breastbone"
+msgstr "Osso do peito"
+
+msgid "Runners"
+msgstr "Corredores"
+
+msgid "Blubber Container"
+msgstr "Recipiente da Gordura de Baleia"
+
+msgid "The One Behind"
+msgstr "A lá de trás"
+
+msgid "The Old Woman"
+msgstr "A Mulher Velha"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Espírito de um Urso Polar"
+
+msgid "Never Moves"
+msgstr "Nunca se Move"
+
+msgid "Name of a Murdered Man"
+msgstr "Nome de um Homem Assassinado"
+
+msgid "Flickering"
+msgstr "Cintilação"
+
+msgid "Nephews"
+msgstr "Sobrinhos"
+
+msgid "The Old Man"
+msgstr "O Homem Velho"
+
+msgid "The Little Orphan Boy"
+msgstr "O Pequeno Menino Órfão"

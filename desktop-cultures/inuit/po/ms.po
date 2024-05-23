@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: abuyop <abuyop@gmail.com>, 2022\n"
+"Language-Team: Malay (https://app.transifex.com/stellarium/teams/80998/ms/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ms\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Inuit"
+msgstr ""
+
+msgid "Two Sunbeams"
+msgstr "Dua Sinaran Matahari"
+
+msgid "Two Placed Far Apart"
+msgstr "Dua Tempat yang Jauh"
+
+msgid "Dogs"
+msgstr "Anjing"
+
+msgid "Collarbones"
+msgstr "Tulang Selangka"
+
+msgid "Lamp Stand"
+msgstr "Tiang Lampu"
+
+msgid "Caribou"
+msgstr "Karibu"
+
+msgid "Two in Front"
+msgstr "Dua di Hadapan"
+
+msgid "Breastbone"
+msgstr "Tulang Dada"
+
+msgid "Runners"
+msgstr "Pejalar"
+
+msgid "Blubber Container"
+msgstr "Bekas Tebal"
+
+msgid "The One Behind"
+msgstr "Yang Disebalik"
+
+msgid "The Old Woman"
+msgstr "Perempuan Tua"
+
+msgid "Spirit of a Polar Bear"
+msgstr "Semangat Beruang Kutub"
+
+msgid "Never Moves"
+msgstr "Tidak Berganjak"
+
+msgid "Name of a Murdered Man"
+msgstr "Nama Lelaki Pembunuh"
+
+msgid "Flickering"
+msgstr "Kerlipan"
+
+msgid "Nephews"
+msgstr "Sepupu"
+
+msgid "The Old Man"
+msgstr "Orang Tua"
+
+msgid "The Little Orphan Boy"
+msgstr "Anak Lelaki Yatim Piatu"
