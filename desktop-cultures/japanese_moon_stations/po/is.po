@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Icelandic (https://app.transifex.com/stellarium/teams/80998/"
+"is/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr "Japanskar tunglstöður"
+
+msgid "Net"
+msgstr "Netið"
+
+msgid "Wall"
+msgstr "Múrinn"
+
+msgid "Root"
+msgstr "Rótin"
+
+msgid "Dipper"
+msgstr "Karlsvagninn"
+
+msgid "Room"
+msgstr "Herbergið"
+
+msgid "Horn"
+msgstr "Hornið"
+
+msgid "Well"
+msgstr "Lindin"
+
+msgid "Neck"
+msgstr "Hálsinn"
+
+msgid "Willow"
+msgstr "Grátvíðirinn"
+
+msgid "Tail"
+msgstr "Skottið"
+
+msgid "Stomach"
+msgstr "Maginn"
+
+msgid "Heart"
+msgstr "Hjartað"
+
+msgid "Emptiness"
+msgstr "Tómleikinn"
+
+msgid "Wings"
+msgstr "Vængirnir"
+
+msgid "Chamber"
+msgstr ""
+
+msgid "Basket"
+msgstr ""
+
+msgid "Cow"
+msgstr ""
+
+msgid "Woman"
+msgstr ""
+
+msgid "Roof Top"
+msgstr ""
+
+msgid "Stride"
+msgstr ""
+
+msgid "Hill"
+msgstr ""
+
+msgid "Stopping Place"
+msgstr ""
+
+msgid "Turtle Snout"
+msgstr ""
+
+msgid "Investigator"
+msgstr ""
+
+msgid "Ogre"
+msgstr ""
+
+msgid "Stars"
+msgstr "Stjörnur"
+
+msgid "Stretched Net"
+msgstr ""
+
+msgid "Chariot Cross-Board"
+msgstr ""

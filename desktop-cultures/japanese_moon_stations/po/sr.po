@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Serbian (https://app.transifex.com/stellarium/teams/80998/"
+"sr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr ""
+
+msgid "Net"
+msgstr "Мрежа"
+
+msgid "Wall"
+msgstr "Зид"
+
+msgid "Root"
+msgstr "Корен"
+
+msgid "Dipper"
+msgstr "Велики медвед"
+
+msgid "Room"
+msgstr "Соба"
+
+msgid "Horn"
+msgstr "Рог"
+
+msgid "Well"
+msgstr "Бунар"
+
+msgid "Neck"
+msgstr "Врат"
+
+msgid "Willow"
+msgstr "Врба"
+
+msgid "Tail"
+msgstr "Реп"
+
+msgid "Stomach"
+msgstr "Стомак"
+
+msgid "Heart"
+msgstr "Срце"
+
+msgid "Emptiness"
+msgstr "Празнина"
+
+msgid "Wings"
+msgstr "Крила"
+
+msgid "Chamber"
+msgstr "Веће"
+
+msgid "Basket"
+msgstr "Кошара"
+
+msgid "Cow"
+msgstr "Крава"
+
+msgid "Woman"
+msgstr "Жена"
+
+msgid "Roof Top"
+msgstr "Кров"
+
+msgid "Stride"
+msgstr "Дугачак корак"
+
+msgid "Hill"
+msgstr "Брдо"
+
+msgid "Stopping Place"
+msgstr "Место за заустављање"
+
+msgid "Turtle Snout"
+msgstr "Нос корњаче"
+
+msgid "Investigator"
+msgstr "Истраживач"
+
+msgid "Ogre"
+msgstr "Џин људождер"
+
+msgid "Stars"
+msgstr "Звезде"
+
+msgid "Stretched Net"
+msgstr "Истегнута мрежа"
+
+msgid "Chariot Cross-Board"
+msgstr "Кочија"

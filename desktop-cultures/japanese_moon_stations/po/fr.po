@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2023\n"
+"Language-Team: French (https://app.transifex.com/stellarium/teams/80998/"
+"fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr "Mansions lunaires japonaises"
+
+msgid "Net"
+msgstr "Filet"
+
+msgid "Wall"
+msgstr "Mur"
+
+msgid "Root"
+msgstr "Racine"
+
+msgid "Dipper"
+msgstr "Cincle plongeur"
+
+msgid "Room"
+msgstr "Salle"
+
+msgid "Horn"
+msgstr "Corne"
+
+msgid "Well"
+msgstr "Puits"
+
+msgid "Neck"
+msgstr "Cou"
+
+msgid "Willow"
+msgstr "Saule"
+
+msgid "Tail"
+msgstr "Queue"
+
+msgid "Stomach"
+msgstr "Estomac"
+
+msgid "Heart"
+msgstr "Cœur"
+
+msgid "Emptiness"
+msgstr "Vide"
+
+msgid "Wings"
+msgstr "Ailes"
+
+msgid "Chamber"
+msgstr "Chambre"
+
+msgid "Basket"
+msgstr "Panier"
+
+msgid "Cow"
+msgstr "Vache"
+
+msgid "Woman"
+msgstr "Femme"
+
+msgid "Roof Top"
+msgstr "Toit"
+
+msgid "Stride"
+msgstr "Foulée"
+
+msgid "Hill"
+msgstr "Colline"
+
+msgid "Stopping Place"
+msgstr "L'arrêt"
+
+msgid "Turtle Snout"
+msgstr "Le museau de la tortue"
+
+msgid "Investigator"
+msgstr "Enquêteur"
+
+msgid "Ogre"
+msgstr "Ogre"
+
+msgid "Stars"
+msgstr "Étoiles"
+
+msgid "Stretched Net"
+msgstr "Filet étiré"
+
+msgid "Chariot Cross-Board"
+msgstr "La planche du chariot"

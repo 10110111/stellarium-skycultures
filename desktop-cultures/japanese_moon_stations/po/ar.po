@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Khalid AlAjaji, 2023\n"
+"Language-Team: Arabic (https://app.transifex.com/stellarium/teams/80998/"
+"ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+# Sky culture name
+msgid "Japanese Moon Stations"
+msgstr "منازل القمر اليابانية"
+
+msgid "Net"
+msgstr "‎‎شبكة‎‎"
+
+msgid "Wall"
+msgstr "‎‎حائط‎‎"
+
+msgid "Root"
+msgstr "‎‎جذر‎‎"
+
+msgid "Dipper"
+msgstr "‎‎المغرفة‎‎"
+
+msgid "Room"
+msgstr "‎‎غرفة‎‎"
+
+msgid "Horn"
+msgstr "‎‎بوق‎‎"
+
+msgid "Well"
+msgstr "‎‎بئر‎‎"
+
+msgid "Neck"
+msgstr "‎‎رقبة‎‎"
+
+msgid "Willow"
+msgstr "‎‎صفصاف‎‎"
+
+msgid "Tail"
+msgstr "‎‎ذيل‎‎"
+
+msgid "Stomach"
+msgstr "‎معدة‎"
+
+msgid "Heart"
+msgstr "‎‎قلب‎‎"
+
+msgid "Emptiness"
+msgstr "‎‎فراغ‎‎"
+
+msgid "Wings"
+msgstr "‎‎أجنحة‎‎"
+
+msgid "Chamber"
+msgstr "‎‎غرفة‎‎"
+
+msgid "Basket"
+msgstr "‎‎سلة‎‎"
+
+msgid "Cow"
+msgstr "‎‎بقرة‎‎"
+
+msgid "Woman"
+msgstr "‎‎امرأة‎‎"
+
+msgid "Roof Top"
+msgstr "‎‎أعلى السقف‎‎"
+
+msgid "Stride"
+msgstr "‎‎خطوة‎‎"
+
+msgid "Hill"
+msgstr "‎‎تل‎‎"
+
+msgid "Stopping Place"
+msgstr "‎‎موقف‎‎"
+
+msgid "Turtle Snout"
+msgstr "‎‎منخر السلحفاة‎‎"
+
+msgid "Investigator"
+msgstr "‎‎محقق‎‎"
+
+msgid "Ogre"
+msgstr "‎‎غول‎‎"
+
+msgid "Stars"
+msgstr "‎‎نجوم‎‎"
+
+msgid "Stretched Net"
+msgstr "‎‎شبكة ممدودة‎‎"
+
+msgid "Chariot Cross-Board"
+msgstr "‎‎لوح العربة‎‎"
