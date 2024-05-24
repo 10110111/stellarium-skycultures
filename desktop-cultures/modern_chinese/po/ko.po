@@ -1,0 +1,10005 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: ysjbserver <ysjbserver@naver.com>, 2023\n"
+"Language-Team: Korean (https://app.transifex.com/stellarium/teams/80998/"
+"ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Modern (Chinese)"
+msgstr "현대 (중국)"
+
+msgid "Ursa Minor"
+msgstr "작은곰"
+
+msgid "Ursa Major"
+msgstr "큰곰"
+
+msgid "Draco"
+msgstr "용"
+
+msgid "Cepheus"
+msgstr "세페우스"
+
+msgid "Bootes"
+msgstr "목동"
+
+msgid "Corona Borealis"
+msgstr "북쪽왕관"
+
+msgid "Hercules"
+msgstr "허큘레스"
+
+msgid "Lyra"
+msgstr "거문고"
+
+msgid "Cygnus"
+msgstr "백조"
+
+msgid "Cassiopeia"
+msgstr "카시오페이아"
+
+msgid "Perseus"
+msgstr "페르세우스"
+
+msgid "Auriga"
+msgstr "마차부"
+
+msgid "Ophiuchus"
+msgstr "뱀주인"
+
+msgid "Serpens"
+msgstr "뱀"
+
+msgid "Sagitta"
+msgstr "화살"
+
+msgid "Aquila"
+msgstr "독수리"
+
+msgid "Delphinus"
+msgstr "돌고래"
+
+msgid "Equuleus"
+msgstr "조랑말"
+
+msgid "Pegasus"
+msgstr "페가수스"
+
+msgid "Andromeda"
+msgstr "안드로메다"
+
+msgid "Triangulum"
+msgstr "삼각형"
+
+msgid "Aries"
+msgstr "양자리"
+
+msgid "Taurus"
+msgstr "황소자리"
+
+msgid "Gemini"
+msgstr "쌍둥이자리"
+
+msgid "Cancer"
+msgstr "게자리"
+
+msgid "Leo"
+msgstr "사자자리"
+
+msgid "Virgo"
+msgstr "처녀자리"
+
+msgid "Libra"
+msgstr "천칭자리"
+
+msgid "Scorpius"
+msgstr "전갈자리"
+
+msgid "Sagittarius"
+msgstr "궁수자리"
+
+msgid "Capricornus"
+msgstr "염소자리"
+
+msgid "Aquarius"
+msgstr "물병자리"
+
+msgid "Pisces"
+msgstr "물고기자리"
+
+msgid "Cetus"
+msgstr "고래"
+
+msgid "Orion"
+msgstr "오리온"
+
+msgid "Eridanus"
+msgstr "에리다누스"
+
+msgid "Lepus"
+msgstr "토끼"
+
+msgid "Canis Major"
+msgstr "큰개"
+
+msgid "Canis Minor"
+msgstr "작은개"
+
+msgid "Hydra"
+msgstr "큰물뱀"
+
+msgid "Crater"
+msgstr "컵"
+
+msgid "Corvus"
+msgstr "까마귀"
+
+msgid "Centaurus"
+msgstr "센타우루스"
+
+msgid "Lupus"
+msgstr "이리"
+
+msgid "Ara"
+msgstr "제단"
+
+msgid "Corona Australis"
+msgstr "남쪽왕관"
+
+msgid "Piscis Austrinus"
+msgstr "남쪽물고기"
+
+msgid "Old Man"
+msgstr "노인(老人)"
+
+msgid "North Gate of the Military Camp"
+msgstr "북락사문(北落師門)"
+
+msgid "Whip"
+msgstr "책(策)"
+
+msgid "Retinue (In Supreme Palace Enclosure)"
+msgstr "종관(從官) (태미원)"
+
+msgid "Great Horn"
+msgstr "대각(大角)"
+
+msgid "Emperor's Seat"
+msgstr "제좌(帝座)"
+
+msgid "Auxiliary Road"
+msgstr "부로(附路)"
+
+msgid "Fu Yue"
+msgstr "부열(傅說)"
+
+msgid "Astrologer"
+msgstr "후(候)"
+
+msgid "Emperor's Bodyguard"
+msgstr "호분(虎賁)"
+
+msgid "Heap of Corpses"
+msgstr "적시(積屍)"
+
+msgid "Pile of Firewood"
+msgstr "적신(積薪)"
+
+msgid "Door Bolt"
+msgstr "건폐(鍵閉)"
+
+msgid "Recommending Virtuous Men"
+msgstr "진현(進賢)"
+
+msgid "Accumulated Water"
+msgstr "적수(積水)"
+
+msgid "Southern Military Gate"
+msgstr "남군문(軍南門)"
+
+msgid "Chaff"
+msgstr "강(糠)"
+
+msgid "Captain of the Bodyguards"
+msgstr "낭장(郎將)"
+
+msgid "Peasant"
+msgstr "농장인(農丈人)"
+
+msgid "Female Protocol"
+msgstr "여사(女史)"
+
+msgid "Chariots and Cavalry General"
+msgstr "기진장군(騎陣將軍)"
+
+msgid "Solar Star"
+msgstr "일(日)"
+
+msgid "Excrement"
+msgstr "시(屎)"
+
+msgid "Guard of the Sun"
+msgstr "태양수(太陽守)"
+
+msgid "First Great One"
+msgstr "태을(太乙)"
+
+msgid "Crown Prince"
+msgstr "태자(太子)"
+
+msgid "Royals"
+msgstr "태존(太尊)"
+
+msgid "Celestial Concave"
+msgstr "천하(天河)"
+
+msgid "Celestial Slander"
+msgstr "천참(天讒)"
+
+msgid "Materials for Making Tents"
+msgstr "천강(天綱)"
+
+msgid "Celestial Pass"
+msgstr "천관(天關)"
+
+msgid "Great Emperor of Heaven"
+msgstr "천황대제(天皇大帝)"
+
+msgid "Judge for Estimating the Age of Animals"
+msgstr "천기(天記)"
+
+msgid "Celestial Wolf"
+msgstr "천랑(天狼)"
+
+msgid "Celestial Milk"
+msgstr "천유(天乳)"
+
+msgid "Celestial Great One"
+msgstr "천을(天乙)"
+
+msgid "Master of Constructions"
+msgstr "토사공(土司空)"
+
+msgid "Prime Minister"
+msgstr "상(相)"
+
+msgid "Officer of Honour"
+msgstr "행신(幸臣)"
+
+msgid "Sombre Lance"
+msgstr "현과(玄戈)"
+
+msgid "Wild Cockerel"
+msgstr "야계(野雞)"
+
+msgid "Usher to the Court"
+msgstr "알자(謁者)"
+
+msgid "Maids-in-waiting"
+msgstr "어녀(御女)"
+
+msgid "Lunar Star"
+msgstr "월(月)"
+
+msgid "Twinkling Indicator"
+msgstr "초요(招搖)"
+
+msgid "Weaving Girl"
+msgstr "직녀(織女)"
+
+msgid "Official of Royal Archives"
+msgstr "주사(柱史)"
+
+msgid "Northern Pole I"
+msgstr "북극 I"
+
+msgid "Northern Pole II"
+msgstr "북극 II"
+
+msgid "Emperor"
+msgstr "제(帝)"
+
+msgid "Northern Pole III"
+msgstr "북극 III"
+
+msgid "Bastard"
+msgstr "서자(庶子)"
+
+msgid "Northern Pole IV"
+msgstr "북극 IV"
+
+msgid "Harem"
+msgstr "후궁(後宮)"
+
+msgid "Northern Pole V"
+msgstr "북극 V"
+
+msgid "The Celestial Pivot"
+msgstr "추성(枢星)"
+
+msgid "Ancient Star"
+msgstr "고북극천추(古北极天枢)"
+
+msgid "Bastard Added II"
+msgstr "서자 증 II"
+
+msgid "Bastard Added III"
+msgstr "서자 증 III"
+
+msgid "Four Advisors II"
+msgstr "사보 II"
+
+msgid "Four Advisors III"
+msgstr "사보 III"
+
+msgid "Four Advisors IV?"
+msgstr "사보 IV?"
+
+msgid "Four Advisors Added I"
+msgstr "사보 증 I"
+
+msgid "Curved Array I"
+msgstr "구진 I"
+
+msgid "Northern Star"
+msgstr "북신(北辰)"
+
+msgid "Curved Array II"
+msgstr "구진 II"
+
+msgid "Curved Array III"
+msgstr "구진 III"
+
+msgid "Curved Array IV"
+msgstr "구진 IV"
+
+msgid "Curved Array V"
+msgstr "구진 V"
+
+msgid "Curved Array VI"
+msgstr "구진 VI"
+
+msgid "Curved Array Added I"
+msgstr "구진 증 I"
+
+msgid "Curved Array Added II"
+msgstr "구진 증 II"
+
+msgid "Curved Array Added IV"
+msgstr "구진 증 IV"
+
+msgid "Curved Array Added V"
+msgstr "구진 증 V"
+
+msgid "Curved Array Added VI"
+msgstr "구진 증 VI"
+
+msgid "Curved Array Added VII"
+msgstr "구진 증 VII"
+
+msgid "Curved Array Added VIII"
+msgstr "구진 증 VII"
+
+msgid "Curved Array Added IX"
+msgstr "구진 증 IX"
+
+msgid "Curved Array Added X"
+msgstr "구진 증 X"
+
+msgid "Celestial Pillar I"
+msgstr "천주 I"
+
+msgid "Celestial Pillar II"
+msgstr "천주 II"
+
+msgid "Celestial Pillar III"
+msgstr "천주 III"
+
+msgid "Celestial Pillar IV"
+msgstr "천주 IV"
+
+msgid "Celestial Pillar V"
+msgstr "천주 V"
+
+msgid "Celestial Pillar Added I"
+msgstr "천주 증 I"
+
+msgid "Celestial Pillar Added II"
+msgstr "천주 증 II"
+
+msgid "Celestial Pillar Added III"
+msgstr "천주 증 III"
+
+msgid "Celestial Pillar Added IV"
+msgstr "천주 증 IV"
+
+msgid "Celestial Pillar Added V"
+msgstr "천주 증 V"
+
+msgid "Celestial Pillar Added VI"
+msgstr "천주 증 VI"
+
+msgid "Maids-in-waiting I"
+msgstr "어녀 I"
+
+msgid "Maids-in-waiting II"
+msgstr "어녀 II"
+
+msgid "Maids-in-waiting III"
+msgstr "어녀 III"
+
+msgid "Maids-in-waiting IV"
+msgstr "어녀 IV"
+
+msgid "Female Protocol Added I"
+msgstr "여사 증 I"
+
+msgid "Official of Royal Archives Added I"
+msgstr "주사 증 I"
+
+msgid "Official of Royal Archives Added II"
+msgstr "주사 증 II"
+
+msgid "Royal Secretary I"
+msgstr "상서 I"
+
+msgid "Royal Secretary II"
+msgstr "상서 II"
+
+msgid "Royal Secretary III"
+msgstr "상서 III"
+
+msgid "Royal Secretary IV?"
+msgstr "상서 IV?"
+
+msgid "Royal Secretary V"
+msgstr "상서 V"
+
+msgid "Royal Secretary Added I"
+msgstr "상서 증 I"
+
+msgid "Royal Secretary Added II"
+msgstr "상서 증 II"
+
+msgid "Celestial Bed I"
+msgstr "천상 I"
+
+msgid "Celestial Bed II"
+msgstr "천상 II"
+
+msgid "Celestial Bed III"
+msgstr "천상 III"
+
+msgid "Celestial Bed IV"
+msgstr "천상 IV"
+
+msgid "Celestial Bed V"
+msgstr "천상 V"
+
+msgid "Celestial Bed VI"
+msgstr "천상 VI"
+
+msgid "Celestial Bed Added I"
+msgstr "천상 증 I"
+
+msgid "Celestial Bed Added II"
+msgstr "천상 증 II"
+
+msgid "Chief Judge I"
+msgstr "대리 I"
+
+msgid "Chief Judge Added I"
+msgstr "대리 증 I"
+
+msgid "Hidden Virtue I"
+msgstr "음덕 I"
+
+msgid "Hidden Virtue Added I"
+msgstr "음덕 증 I"
+
+msgid "Hidden Virtue II"
+msgstr "음덕 II"
+
+msgid "Six Jia I"
+msgstr "육갑 I"
+
+msgid "Six Jia II"
+msgstr "육갑 II"
+
+msgid "Six Jia III"
+msgstr "육갑 III"
+
+msgid "Six Jia IV"
+msgstr "육갑 IV"
+
+msgid "Six Jia V"
+msgstr "육갑 V"
+
+msgid "Six Jia VI"
+msgstr "육갑 VI"
+
+msgid "Six Jia Added I"
+msgstr "육갑 증 I"
+
+msgid "Interior Seats of the Five Emperors I"
+msgstr "오제내좌 I"
+
+msgid "Interior Seats of the Five Emperors II"
+msgstr "오제내좌 II"
+
+msgid "Interior Seats of the Five Emperors III"
+msgstr "오제내좌 III"
+
+msgid "Interior Seats of the Five Emperors IV"
+msgstr "오제내좌 IV"
+
+msgid "Interior Seats of the Five Emperors V"
+msgstr "오제내좌 V"
+
+msgid "Interior Seats of the Five Emperors Added I"
+msgstr "오제내좌 증 I"
+
+msgid "Interior Seats of the Five Emperors Added II"
+msgstr "오제내좌 증 II"
+
+msgid "Interior Seats of the Five Emperors Added III"
+msgstr "오제내좌 증 III"
+
+msgid "Canopy of the Emperor II"
+msgstr "화개 II"
+
+msgid "Canopy of the Emperor III"
+msgstr "화개 III"
+
+msgid "Canopy of the Emperor IV"
+msgstr "화개 IV"
+
+msgid "Canopy of the Emperor V"
+msgstr "화개 V"
+
+msgid "Canopy of the Emperor VI"
+msgstr "화개 VI"
+
+msgid "Canopy of the Emperor VII"
+msgstr "화개 VII"
+
+msgid "Canopy Support I"
+msgstr "강 I"
+
+msgid "Canopy Support II"
+msgstr "강 II"
+
+msgid "Canopy Support III"
+msgstr "강 III"
+
+msgid "Canopy Support IV"
+msgstr "강 IV"
+
+msgid "Canopy Support V"
+msgstr "강 V"
+
+msgid "Canopy Support VI"
+msgstr "강 VI"
+
+msgid "Canopy Support VII"
+msgstr "강 VII"
+
+msgid "Canopy Support VIII"
+msgstr "강 VIII"
+
+msgid "Canopy Support IX"
+msgstr "강 IX"
+
+msgid "Canopy Support Added I"
+msgstr "강 증 I"
+
+msgid "Purple Forbidden Right Wall I"
+msgstr "자미우원 I"
+
+msgid "Right Pivot"
+msgstr "우추(右樞)"
+
+msgid "Purple Forbidden Right Wall II"
+msgstr "자미우원 II"
+
+msgid "The Second Commandant"
+msgstr "소위(少尉)"
+
+msgid "Purple Forbidden Right Wall III"
+msgstr "자미우원 III"
+
+msgid "The Great Advisor"
+msgstr "상보(上輔)"
+
+msgid "Purple Forbidden Right Wall IV"
+msgstr "자미우원 IV"
+
+msgid "The Second Advisor"
+msgstr "소보(少辅)"
+
+msgid "Purple Forbidden Right Wall V"
+msgstr "자미우원 V"
+
+msgid "The Great Imperial Guard"
+msgstr "상위(上衛)"
+
+msgid "Purple Forbidden Right Wall VI"
+msgstr "자미우원 VI"
+
+msgid "The Second Imperial Guard"
+msgstr "소위(少衛)"
+
+msgid "Purple Forbidden Right Wall VII"
+msgstr "자미우원 VII"
+
+msgid "The Great Imperial Minister"
+msgstr "상승(上丞)"
+
+msgid "The Second Commandant Added I"
+msgstr "소위 증 I"
+
+msgid "The Second Commandant Added II"
+msgstr "소위 증 II"
+
+msgid "The Great Advisor Added I"
+msgstr "상보 증 I"
+
+msgid "The Great Advisor Added II"
+msgstr "상보 증 II"
+
+msgid "The Second Advisor Added I"
+msgstr "소보 증 I"
+
+msgid "The Great Imperial Guard Added I"
+msgstr "상위 증 I"
+
+msgid "The Great Imperial Guard Added II"
+msgstr "상위 증 II"
+
+msgid "The Great Imperial Guard Added III"
+msgstr "상위 증 III"
+
+msgid "The Second Imperial Guard Added I"
+msgstr "소위 증 I"
+
+msgid "The Great Imperial Minister Added I"
+msgstr "상승 증 I"
+
+msgid "The Great Imperial Minister Added II"
+msgstr "상승 증 II"
+
+msgid "The Great Imperial Minister Added III"
+msgstr "상승 증 III"
+
+msgid "Purple Forbidden Left Wall I"
+msgstr "자미좌원 I"
+
+msgid "Left Pivot"
+msgstr "좌추(左樞)"
+
+msgid "Purple Forbidden Left Wall II"
+msgstr "자미좌원 II"
+
+msgid "The Great Prime Minister"
+msgstr "상재(上宰)"
+
+msgid "Purple Forbidden Left Wall III"
+msgstr "자미좌원 III"
+
+msgid "The Second Prime Minister"
+msgstr "소재(少宰)"
+
+msgid "Purple Forbidden Left Wall IV"
+msgstr "자미좌원 IV"
+
+msgid "The Great Protector"
+msgstr "상필(上弼)"
+
+msgid "Purple Forbidden Left Wall V"
+msgstr "자미좌원 V"
+
+msgid "The Second Protector"
+msgstr "소필(少弼)"
+
+msgid "Purple Forbidden Left Wall VI"
+msgstr "자미좌원 VI"
+
+msgid "Purple Forbidden Left Wall VII"
+msgstr "자미좌원 VII"
+
+msgid "Purple Forbidden Left Wall VIII"
+msgstr "자미좌원 VIII"
+
+msgid "The Second Imperial Minister"
+msgstr "소승(少丞)"
+
+msgid "The Second Imperial Guard Added II"
+msgstr "소위 증 I"
+
+msgid "The Second Imperial Guard Added III"
+msgstr "소위 증 III"
+
+msgid "The Second Imperial Guard Added IV"
+msgstr "소위 증 IV"
+
+msgid "The Second Imperial Guard Added V"
+msgstr "소위 증 V"
+
+msgid "The Second Imperial Guard Added VI"
+msgstr "소위 증 VI"
+
+msgid "The Second Imperial Guard Added VII"
+msgstr "소위 증 VII"
+
+msgid "The Second Imperial Guard Added VIII"
+msgstr "소위 증 VIII"
+
+msgid "The Second Imperial Minister Added I"
+msgstr "소승 증 I"
+
+msgid "Inner Kitchen I"
+msgstr "내주 I"
+
+msgid "Inner Kitchen II"
+msgstr "내주 II"
+
+msgid "Inner Kitchen Added I"
+msgstr "내주 증 I"
+
+msgid "Inner Kitchen Added II"
+msgstr "내주 증 II"
+
+msgid "Northern Dipper I"
+msgstr "북두 I"
+
+msgid "Northern Dipper II"
+msgstr "북두 II"
+
+msgid "The Celestial Rotating Jade"
+msgstr "천선(天璇)"
+
+msgid "Northern Dipper III"
+msgstr "북두 III"
+
+msgid "The Celestial Shining Pearl"
+msgstr "천기(天璣)"
+
+msgid "Northern Dipper IV"
+msgstr "북두 IV"
+
+msgid "The Celestial Balance"
+msgstr "천권(天權)"
+
+msgid "Northern Dipper V"
+msgstr "북두 V"
+
+msgid "The Jade Sighting-Tube"
+msgstr "옥형(玉衡)"
+
+msgid "Northern Dipper VI"
+msgstr "북두 VI"
+
+msgid "The Opener of Heat"
+msgstr "개양(開陽)"
+
+msgid "Northern Dipper VII"
+msgstr "북두 VII"
+
+msgid "The Twinkling Brilliance"
+msgstr "요광(搖光)"
+
+msgid "The Celestial Pivot Added I"
+msgstr "추성 증 I"
+
+msgid "The Celestial Pivot Added II"
+msgstr "추성 증 II"
+
+msgid "The Celestial Pivot Added III"
+msgstr "추성 증 III"
+
+msgid "The Celestial Rotating Jade Added I"
+msgstr "천선 증 I"
+
+msgid "The Celestial Rotating Jade Added II"
+msgstr "천선 증 II"
+
+msgid "The Celestial Rotating Jade Added III"
+msgstr "천선 증 III"
+
+msgid "The Celestial Rotating Jade Added IV"
+msgstr "천선 증 IV"
+
+msgid "The Celestial Rotating Jade Added V"
+msgstr "천선 증 V"
+
+msgid "The Celestial Rotating Jade Added VI"
+msgstr "천선 증 VI"
+
+msgid "The Celestial Rotating Jade Added VII"
+msgstr "천선 증 VII"
+
+msgid "The Celestial Rotating Jade Added VIII"
+msgstr "천선 증 VIII"
+
+msgid "The Celestial Balance Added I"
+msgstr "천권 증 I"
+
+msgid "The Celestial Balance Added II"
+msgstr "천권 증 II"
+
+msgid "The Celestial Balance Added III"
+msgstr "천권 증 III"
+
+msgid "The Opener of Heat Added II"
+msgstr "개양 증 II"
+
+msgid "Assistant"
+msgstr "보(輔)"
+
+msgid "The Opener of Heat Added I"
+msgstr "개양 증 I"
+
+msgid "Assistant Added I"
+msgstr "보 증 I"
+
+msgid "Assistant Added II"
+msgstr "보 증 II"
+
+msgid "Assistant Added III"
+msgstr "보 증 III"
+
+msgid "Celestial Spear I"
+msgstr "천창 I"
+
+msgid "Celestial Spear II"
+msgstr "천창 II"
+
+msgid "Celestial Spear III"
+msgstr "천창 III"
+
+msgid "Celestial Spear Added I"
+msgstr "천창 증 I"
+
+msgid "Celestial Spear Added II"
+msgstr "천창 증 II"
+
+msgid "Celestial Spear Added III"
+msgstr "천창 증 III"
+
+msgid "Celestial Spear Added IV"
+msgstr "천창 증 IV"
+
+msgid "Sombre Lance Added I"
+msgstr "현과 증 I"
+
+msgid "Sombre Lance Added II"
+msgstr "현과 증 II"
+
+msgid "Three Excellencies II (In Purple Forbidden Enclosure)"
+msgstr "삼공 II (자미원)"
+
+msgid "Three Excellencies III (In Purple Forbidden Enclosure)"
+msgstr "삼공 III (자미원)"
+
+msgid "Prime Minister Added I"
+msgstr "상 증 I"
+
+msgid "Prime Minister Added II"
+msgstr "상 증 II"
+
+msgid "Prime Minister Added III"
+msgstr "상 증 III"
+
+msgid "Judge for Nobility I"
+msgstr "천리 I"
+
+msgid "Judge for Nobility II"
+msgstr "천리 II"
+
+msgid "Judge for Nobility III"
+msgstr "천리 III"
+
+msgid "Judge for Nobility IV"
+msgstr "천리 IV"
+
+msgid "Judge for Nobility Added I"
+msgstr "천리 증 I"
+
+msgid "Guard of the Sun Added I"
+msgstr "태양수 증 I"
+
+msgid "Celestial Prison I"
+msgstr "천뢰 I"
+
+msgid "Celestial Prison II"
+msgstr "천뢰 II"
+
+msgid "Celestial Prison III"
+msgstr "천뢰 III"
+
+msgid "Celestial Prison IV"
+msgstr "천뢰 IV"
+
+msgid "Celestial Prison V"
+msgstr "천뢰 V"
+
+msgid "Celestial Prison VI"
+msgstr "천뢰 VI"
+
+msgid "Celestial Prison Added I"
+msgstr "천뢰 증 I"
+
+msgid "Celestial Prison Added II"
+msgstr "천뢰 증 II"
+
+msgid "Eunuch I"
+msgstr "세 I"
+
+msgid "Eunuch II"
+msgstr "세 II"
+
+msgid "Eunuch III"
+msgstr "세 III"
+
+msgid "Eunuch IV"
+msgstr "세 IV"
+
+msgid "Eunuch Added I"
+msgstr "세 증 I"
+
+msgid "Eunuch Added II"
+msgstr "세 증 II"
+
+msgid "Eunuch Added III"
+msgstr "세 증 III"
+
+msgid "Eunuch Added IV"
+msgstr "세 증 IV"
+
+msgid "Eunuch Added V"
+msgstr "세 증 V"
+
+msgid "Eunuch Added VI"
+msgstr "세 증 VI"
+
+msgid "Eunuch Added VII"
+msgstr "세 증 VII"
+
+msgid "Eunuch Added VIII"
+msgstr "세 증 VIII"
+
+msgid "Eunuch Added IX"
+msgstr "세 증 IX"
+
+msgid "Eunuch Added X"
+msgstr "세 증 X"
+
+msgid "Eunuch Added XI"
+msgstr "세 증 XI"
+
+msgid "Eunuch Added XII"
+msgstr "세 증 XII"
+
+msgid "Eunuch Added XIII"
+msgstr "세 증 XIII"
+
+msgid "Eunuch Added XIV"
+msgstr "세 증 XIV"
+
+msgid "Eunuch Added XV"
+msgstr "세 증 XV"
+
+msgid "Eunuch Added XVI"
+msgstr "세 증 XVI"
+
+msgid "Eunuch Added XVII"
+msgstr "세 증 XVII"
+
+msgid "Eunuch Added XVIII"
+msgstr "세 증 XVIII"
+
+msgid "Eunuch Added XIX"
+msgstr "세 증 XIX"
+
+msgid "Administrative Center II"
+msgstr "문창 II"
+
+msgid "Administrative Center III"
+msgstr "문창 III"
+
+msgid "Administrative Center IV"
+msgstr "문창 IV"
+
+msgid "Administrative Center V"
+msgstr "문창 V"
+
+msgid "Administrative Center VI"
+msgstr "문창 VI"
+
+msgid "Administrative Center Added I"
+msgstr "문창 증 I"
+
+msgid "Administrative Center Added II"
+msgstr "문창 증 II"
+
+msgid "Administrative Center Added III"
+msgstr "문창 증 III"
+
+msgid "Administrative Center Added IV"
+msgstr "문창 증 IV"
+
+msgid "Administrative Center Added V"
+msgstr "문창 증 V"
+
+msgid "Administrative Center Added VI"
+msgstr "문창 증 VI"
+
+msgid "Administrative Center Added VII"
+msgstr "문창 증 VII"
+
+msgid "Inner Steps I"
+msgstr "내계 I"
+
+msgid "Inner Steps II"
+msgstr "내계 II"
+
+msgid "Inner Steps III"
+msgstr "내계 III"
+
+msgid "Inner Steps IV"
+msgstr "내계 IV"
+
+msgid "Inner Steps V"
+msgstr "내계 V"
+
+msgid "Inner Steps VI"
+msgstr "내계 VI"
+
+msgid "Inner Steps Added I"
+msgstr "내계 증 I"
+
+msgid "Inner Steps Added II"
+msgstr "내계 증 II"
+
+msgid "Inner Steps Added III"
+msgstr "내계 증 III"
+
+msgid "Inner Steps Added IV"
+msgstr "내계 증 IV"
+
+msgid "Inner Steps Added V"
+msgstr "내계 증 V"
+
+msgid "Inner Steps Added VII"
+msgstr "내계 증 VII"
+
+msgid "Inner Steps Added VIII"
+msgstr "내계 증 VIII"
+
+msgid "Inner Steps Added IX"
+msgstr "내계 증 IX"
+
+msgid "Inner Steps Added X"
+msgstr "내계 증 X"
+
+msgid "Three Top Instructors I"
+msgstr "삼사 I"
+
+msgid "Three Top Instructors III"
+msgstr "삼사 III"
+
+msgid "Three Top Instructors Added I"
+msgstr "삼사 증 I"
+
+msgid "Eight Kinds of Crops I"
+msgstr "팔곡 I"
+
+msgid "Eight Kinds of Crops II"
+msgstr "팔곡 II"
+
+msgid "Eight Kinds of Crops III"
+msgstr "팔곡 III"
+
+msgid "Eight Kinds of Crops IV"
+msgstr "팔곡 IV"
+
+msgid "Eight Kinds of Crops V"
+msgstr "팔곡 V"
+
+msgid "Eight Kinds of Crops VI"
+msgstr "팔곡 VI"
+
+msgid "Eight Kinds of Crops VII"
+msgstr "팔곡 VII"
+
+msgid "Eight Kinds of Crops VIII"
+msgstr "팔곡 VIII"
+
+msgid "Eight Kinds of Crops Added I"
+msgstr "팔곡 증 I"
+
+msgid "Eight Kinds of Crops Added II"
+msgstr "팔곡 증 II"
+
+msgid "Eight Kinds of Crops Added III"
+msgstr "팔곡 증 III"
+
+msgid "Eight Kinds of Crops Added IV"
+msgstr "팔곡 증 IV"
+
+msgid "Eight Kinds of Crops Added V"
+msgstr "팔곡 증 V"
+
+msgid "Eight Kinds of Crops Added VI"
+msgstr "팔곡 증 VI"
+
+msgid "Eight Kinds of Crops Added VII"
+msgstr "팔곡 증 VII"
+
+msgid "Eight Kinds of Crops Added VIII"
+msgstr "팔곡 증 VIII"
+
+msgid "Eight Kinds of Crops Added IX"
+msgstr "팔곡 증 IX"
+
+msgid "Eight Kinds of Crops Added X"
+msgstr "팔곡 증 X"
+
+msgid "Eight Kinds of Crops Added XI"
+msgstr "팔곡 증 XI"
+
+msgid "Eight Kinds of Crops Added XII"
+msgstr "팔곡 증 XII"
+
+msgid "Eight Kinds of Crops Added XIII"
+msgstr "팔곡 증 XIII"
+
+msgid "Eight Kinds of Crops Added XIV"
+msgstr "팔곡 증 XIV"
+
+msgid "Eight Kinds of Crops Added XV"
+msgstr "팔곡 증 XV"
+
+msgid "Eight Kinds of Crops Added XVI"
+msgstr "팔곡 증 XVI"
+
+msgid "Eight Kinds of Crops Added XVII"
+msgstr "팔곡 증 XVII"
+
+msgid "Eight Kinds of Crops Added XVIII"
+msgstr "팔곡 증 XVIII"
+
+msgid "Eight Kinds of Crops Added XIX"
+msgstr "팔곡 증 XIX"
+
+msgid "Eight Kinds of Crops Added XX"
+msgstr "팔곡 증 XX"
+
+msgid "Eight Kinds of Crops Added XXI"
+msgstr "팔곡 증 XXI"
+
+msgid "Eight Kinds of Crops Added XXII"
+msgstr "팔곡 증 XXII"
+
+msgid "Eight Kinds of Crops Added XXIII"
+msgstr "팔곡 증 XXIII"
+
+msgid "Eight Kinds of Crops Added XXIV"
+msgstr "팔곡 증 XXIV"
+
+msgid "Eight Kinds of Crops Added XXV"
+msgstr "팔곡 증 XXV"
+
+msgid "Eight Kinds of Crops Added XXVI"
+msgstr "팔곡 증 XXVI"
+
+msgid "Eight Kinds of Crops Added XXVII"
+msgstr "팔곡 증 XXVII"
+
+msgid "Eight Kinds of Crops Added XXVIII"
+msgstr "팔곡 증 XXVIII"
+
+msgid "Eight Kinds of Crops Added XXIX"
+msgstr "팔곡 증 XXIX"
+
+msgid "Eight Kinds of Crops Added XXX"
+msgstr "팔곡 증 XXX"
+
+msgid "Eight Kinds of Crops Added XXXI"
+msgstr "팔곡 증 XXXI"
+
+msgid "Eight Kinds of Crops Added XXXII"
+msgstr "팔곡 증 XXXII"
+
+msgid "Eight Kinds of Crops Added XXXIII"
+msgstr "팔곡 증 XXXIII"
+
+msgid "Eight Kinds of Crops Added XXXIV"
+msgstr "팔곡 증 XXXIV"
+
+msgid "Guest House I"
+msgstr "전사 I"
+
+msgid "Guest House II"
+msgstr "전사 II"
+
+msgid "Guest House III"
+msgstr "전사 III"
+
+msgid "Guest House IV"
+msgstr "전사 IV"
+
+msgid "Guest House V"
+msgstr "전사 V"
+
+msgid "Guest House VI"
+msgstr "전사 VI"
+
+msgid "Guest House VII"
+msgstr "전사 VII"
+
+msgid "Guest House VIII"
+msgstr "전사 VIII"
+
+msgid "Guest House IX"
+msgstr "전사 IX"
+
+msgid "Guest House Added I"
+msgstr "전사 증 I"
+
+msgid "Guest House Added II"
+msgstr "전사 증 II"
+
+msgid "Guest House Added III"
+msgstr "전사 증 III"
+
+msgid "Guest House Added IV"
+msgstr "전사 증 IV"
+
+msgid "Celestial Kitchen I"
+msgstr "천주 I"
+
+msgid "Celestial Kitchen II"
+msgstr "천주 II"
+
+msgid "Celestial Kitchen III"
+msgstr "천주 III"
+
+msgid "Celestial Kitchen IV"
+msgstr "천주 IV"
+
+msgid "Celestial Kitchen V"
+msgstr "천주 V"
+
+msgid "Celestial Kitchen VI"
+msgstr "천주 VI"
+
+msgid "Celestial Kitchen Added I"
+msgstr "천주 증 I"
+
+msgid "Celestial Kitchen Added II"
+msgstr "천주 증 II"
+
+msgid "Celestial Flail I"
+msgstr "천봉 I"
+
+msgid "Celestial Flail II"
+msgstr "천봉 II"
+
+msgid "Celestial Flail III"
+msgstr "천봉 III"
+
+msgid "Celestial Flail IV"
+msgstr "천봉 IV"
+
+msgid "Celestial Flail V"
+msgstr "천봉 V"
+
+msgid "Celestial Flail Added I"
+msgstr "천봉 증 I"
+
+msgid "Celestial Flail Added II"
+msgstr "천봉 증 II"
+
+msgid "Celestial Flail Added III"
+msgstr "천봉 증 III"
+
+msgid "Celestial Flail Added IV"
+msgstr "천봉 증 IV"
+
+msgid "Celestial Flail Added VII"
+msgstr "천봉 증 VII"
+
+msgid "Celestial Flail Added VIII"
+msgstr "천봉 증 VIII"
+
+msgid "Celestial Flail Added IX"
+msgstr "천봉 증 IX"
+
+msgid "Celestial Flail Added X"
+msgstr "천봉 증 X"
+
+msgid "Seats of the Five Emperors I"
+msgstr "오제좌 I"
+
+msgid "Seats of the Five Emperors II"
+msgstr "오제좌 II"
+
+msgid "Seats of the Five Emperors III"
+msgstr "오제좌 III"
+
+msgid "Seats of the Five Emperors IV"
+msgstr "오제좌 IV"
+
+msgid "Seats of the Five Emperors V"
+msgstr "오제좌 V"
+
+msgid "Seats of the Five Emperors Added I"
+msgstr "오제좌 증 I"
+
+msgid "Seats of the Five Emperors Added II"
+msgstr "오제좌 증 II"
+
+msgid "Seats of the Five Emperors Added III"
+msgstr "오제좌 증 III"
+
+msgid "Seats of the Five Emperors Added IV"
+msgstr "오제좌 증 IV"
+
+msgid "Five Lords I"
+msgstr "오제후 I"
+
+msgid "Five Lords II"
+msgstr "오제후 II"
+
+msgid "Five Lords III"
+msgstr "오제후 III"
+
+msgid "Five Lords V"
+msgstr "오제후 V"
+
+msgid "Five Lords Added I"
+msgstr "오제후 증 I"
+
+msgid "Five Lords Added II"
+msgstr "오제후 증 II"
+
+msgid "Five Lords Added III"
+msgstr "오제후 증 III"
+
+msgid "Five Lords Added IV"
+msgstr "오제후 증 IV"
+
+msgid "Five Lords Added V"
+msgstr "오제후 증 V"
+
+msgid "Five Lords Added VI"
+msgstr "오제후 증 VI"
+
+msgid "Five Lords Added VII"
+msgstr "오제후 증 VII"
+
+msgid "Nine Senior Officers I"
+msgstr "구경 I"
+
+msgid "Nine Senior Officers II"
+msgstr "구경 II"
+
+msgid "Nine Senior Officers III"
+msgstr "구경 III"
+
+msgid "Nine Senior Officers Added I"
+msgstr "구경 증 I"
+
+msgid "Nine Senior Officers Added II"
+msgstr "구경 증 II"
+
+msgid "Nine Senior Officers Added III"
+msgstr "구경 증 III"
+
+msgid "Nine Senior Officers Added IV"
+msgstr "구경 증 IV"
+
+msgid "Nine Senior Officers Added V"
+msgstr "구경 증 V"
+
+msgid "Nine Senior Officers Added VI"
+msgstr "구경 증 VI"
+
+msgid "Nine Senior Officers Added VII"
+msgstr "구경 증 VII"
+
+msgid "Nine Senior Officers Added VIII"
+msgstr "구경 증 VIII"
+
+msgid "Nine Senior Officers Added IX"
+msgstr "구경 증 IX"
+
+msgid "Three Excellencies II (In Supreme Palace Enclosure)"
+msgstr "삼공 II (태미원)"
+
+msgid "Three Excellencies III (In Supreme Palace Enclosure)"
+msgstr "삼공 III (태미원)"
+
+msgid "Inner Screen I"
+msgstr "내병 I"
+
+msgid "Inner Screen II"
+msgstr "내병 II"
+
+msgid "Inner Screen III"
+msgstr "내병 III"
+
+msgid "Inner Screen IV"
+msgstr "내병 IV"
+
+msgid "Inner Screen Added I"
+msgstr "내병 증 I"
+
+msgid "Inner Screen Added II"
+msgstr "내병 증 II"
+
+msgid "Inner Screen Added III"
+msgstr "내병 증 III"
+
+msgid "Inner Screen Added IV"
+msgstr "내병 증 IV"
+
+msgid "Inner Screen Added V"
+msgstr "내병 증 V"
+
+msgid "Inner Screen Added VI"
+msgstr "내병 증 VI"
+
+msgid "Supreme Palace Right Wall I"
+msgstr "태미우원 I"
+
+msgid "Right Law Administrator"
+msgstr "우집법(左執法)"
+
+msgid "Supreme Palace Right Wall II"
+msgstr "태미우원 II"
+
+msgid "The Great Western General"
+msgstr "서상장(西上將)"
+
+msgid "Supreme Palace Right Wall III"
+msgstr "태미우원 III"
+
+msgid "The Second Western General"
+msgstr "서차장(西次將)"
+
+msgid "Supreme Palace Right Wall IV"
+msgstr "태미우원 IV"
+
+msgid "The Second Western Premier"
+msgstr "서차상(西次相)"
+
+msgid "Supreme Palace Right Wall V"
+msgstr "태미우원 V"
+
+msgid "The Great Western Premier"
+msgstr "서상상(西上相)"
+
+msgid "The Second Western Premier Added II"
+msgstr "서차상 증 II"
+
+msgid "The Second Western Premier Added III"
+msgstr "서차상 증 III"
+
+msgid "The Great Western Premier Added I"
+msgstr "서상상 증 I"
+
+msgid "The Great Western Premier Added II"
+msgstr "서상상 증 II"
+
+msgid "Supreme Palace Left Wall I"
+msgstr "태미좌원 I"
+
+msgid "Left Law Administrator"
+msgstr "좌집법(左執法)"
+
+msgid "Supreme Palace Left Wall II"
+msgstr "태미좌원 II"
+
+msgid "The Great Eastern Premier"
+msgstr "동상상(東上相)"
+
+msgid "Supreme Palace Left Wall III"
+msgstr "태미좌원 III"
+
+msgid "The Second Eastern Premier"
+msgstr "동차상(東次相)"
+
+msgid "Supreme Palace Left Wall IV"
+msgstr "태미좌원 IV"
+
+msgid "The Second Eastern General"
+msgstr "동차장(東次將)"
+
+msgid "Supreme Palace Left Wall V"
+msgstr "태미좌원 V"
+
+msgid "The Great Eastern General"
+msgstr "동상장(東上將)"
+
+msgid "Left Law Administrator Added I"
+msgstr "좌집법 증 I"
+
+msgid "The Second Eastern Premier Added I"
+msgstr "동차상 증 I"
+
+msgid "The Second Eastern General Added I"
+msgstr "동차장 증 I"
+
+msgid "The Second Eastern General Added III"
+msgstr "동차장 증 III"
+
+msgid "The Great Eastern General Added I"
+msgstr "동상장 증 I"
+
+msgid "The Great Eastern General Added II"
+msgstr "동상장 증 II"
+
+msgid "The Great Eastern General Added III"
+msgstr "동상장 증 III"
+
+msgid "The Great Eastern General Added IV"
+msgstr "동상장 증 IV"
+
+msgid "Captain of the Bodyguards Added I"
+msgstr "낭장 증 I"
+
+msgid "Captain of the Bodyguards Added II"
+msgstr "낭장 증 II"
+
+msgid "Officers of the Imperial Guard I"
+msgstr "낭위 I"
+
+msgid "Officers of the Imperial Guard III"
+msgstr "낭위 III"
+
+msgid "Officers of the Imperial Guard IV"
+msgstr "낭위 IV"
+
+msgid "Officers of the Imperial Guard V"
+msgstr "낭위 V"
+
+msgid "Officers of the Imperial Guard VI"
+msgstr "낭위 VI"
+
+msgid "Officers of the Imperial Guard VII"
+msgstr "낭위 VII"
+
+msgid "Officers of the Imperial Guard VIII"
+msgstr "낭위 VIII"
+
+msgid "Officers of the Imperial Guard IX"
+msgstr "낭위 IX"
+
+msgid "Officers of the Imperial Guard X"
+msgstr "낭위 X"
+
+msgid "Officers of the Imperial Guard XI"
+msgstr "낭위 XI"
+
+msgid "Officers of the Imperial Guard XII"
+msgstr "낭위 XII"
+
+msgid "Officers of the Imperial Guard XIII"
+msgstr "낭위 XIII"
+
+msgid "Officers of the Imperial Guard XIV"
+msgstr "낭위 XIV"
+
+msgid "Officers of the Imperial Guard XV"
+msgstr "낭위 XV"
+
+msgid "Officers of the Imperial Guard Added I"
+msgstr "낭위 증 I"
+
+msgid "Officers of the Imperial Guard Added II"
+msgstr "낭위 증 II"
+
+msgid "Officers of the Imperial Guard Added III"
+msgstr "낭위 증 III"
+
+msgid "Royal Guards I"
+msgstr "상진 I"
+
+msgid "Royal Guards II"
+msgstr "상진 II"
+
+msgid "Royal Guards III"
+msgstr "상진 III"
+
+msgid "Royal Guards IV"
+msgstr "상진 IV"
+
+msgid "Royal Guards V"
+msgstr "상진 V"
+
+msgid "Royal Guards VI"
+msgstr "상진 VI"
+
+msgid "Royal Guards VII"
+msgstr "상진 VII"
+
+msgid "Royal Guards Added I"
+msgstr "상진 증 I"
+
+msgid "Royal Guards Added II"
+msgstr "상진 증 II"
+
+msgid "Royal Guards Added III"
+msgstr "상진 증 III"
+
+msgid "Royal Guards Added IV"
+msgstr "상진 증 IV"
+
+msgid "Royal Guards Added V"
+msgstr "상진 증 V"
+
+msgid "Royal Guards Added VI"
+msgstr "상진 증 VI"
+
+msgid "Royal Guards Added VII"
+msgstr "상진 증 VII"
+
+msgid "Three Steps I"
+msgstr "삼태 I"
+
+msgid "Upper Steps I"
+msgstr "상태 I"
+
+msgid "Three Steps II"
+msgstr "삼태 II"
+
+msgid "Upper Steps II"
+msgstr "상태 II"
+
+msgid "Three Steps III"
+msgstr "삼태 III"
+
+msgid "Middle Steps I"
+msgstr "중태 I"
+
+msgid "Three Steps IV"
+msgstr "삼태 IV"
+
+msgid "Middle Steps II"
+msgstr "중태 II"
+
+msgid "Three Steps V"
+msgstr "삼태 V"
+
+msgid "Lower Steps I"
+msgstr "하태 I"
+
+msgid "Three Steps VI"
+msgstr "삼태 VI"
+
+msgid "Lower Steps II"
+msgstr "하태 II"
+
+msgid "Upper Steps Added I"
+msgstr "상태 증 I"
+
+msgid "Upper Steps Added II"
+msgstr "상태 증 II"
+
+msgid "Upper Steps Added III"
+msgstr "상태 증 III"
+
+msgid "Upper Steps Added IV"
+msgstr "상태 증 IV"
+
+msgid "Upper Steps Added V"
+msgstr "상태 증 V"
+
+msgid "Upper Steps Added VI"
+msgstr "상태 증 VI"
+
+msgid "Upper Steps Added VII"
+msgstr "상태 증 VII"
+
+msgid "Middle Steps Added I?"
+msgstr "중태 증 I?"
+
+msgid "Middle Steps Added II"
+msgstr "중태 증 II"
+
+msgid "Middle Steps Added III"
+msgstr "중태 증 III"
+
+msgid "Middle Steps Added IV"
+msgstr "중태 증 IV"
+
+msgid "Lower Steps Added I"
+msgstr "하태 증 I"
+
+msgid "Lower Steps Added II"
+msgstr "하태 증 II"
+
+msgid "Junior Officers I"
+msgstr "소미 I"
+
+msgid "Junior Officers II"
+msgstr "소미 II"
+
+msgid "Junior Officers III"
+msgstr "소미 III"
+
+msgid "Junior Officers IV"
+msgstr "소미 IV"
+
+msgid "Junior Officers Added I"
+msgstr "소미 증 I"
+
+msgid "Junior Officers Added II"
+msgstr "소미 증 II"
+
+msgid "Junior Officers Added III"
+msgstr "소미 증 III"
+
+msgid "Junior Officers Added IV"
+msgstr "소미 증 IV"
+
+msgid "Junior Officers Added V"
+msgstr "소미 증 V"
+
+msgid "Junior Officers Added VI"
+msgstr "소미 증 VI"
+
+msgid "Junior Officers Added VII"
+msgstr "소미 증 VII"
+
+msgid "Junior Officers Added VIII"
+msgstr "소미 증 VIII"
+
+msgid "Junior Officers Added IX"
+msgstr "소미 증 IX"
+
+msgid "Long Wall I"
+msgstr "장원 I"
+
+msgid "Long Wall II"
+msgstr "장원 II"
+
+msgid "Long Wall III"
+msgstr "장원 III"
+
+msgid "Long Wall IV"
+msgstr "장원 IV"
+
+msgid "Long Wall Added I"
+msgstr "장원 증 I"
+
+msgid "Long Wall Added II"
+msgstr "장원 증 II"
+
+msgid "Long Wall Added III"
+msgstr "장원 증 III"
+
+msgid "Long Wall Added IV"
+msgstr "장원 증 IV"
+
+msgid "Long Wall Added V"
+msgstr "장원 증 V"
+
+msgid "Long Wall Added VI"
+msgstr "장원 증 VI"
+
+msgid "Long Wall Added VII"
+msgstr "장원 증 VII"
+
+msgid "Long Wall Added VIII"
+msgstr "장원 증 VIII"
+
+msgid "Long Wall Added IX"
+msgstr "장원 증 IX"
+
+msgid "Astronomical Observatory I"
+msgstr "영대 I"
+
+msgid "Astronomical Observatory II"
+msgstr "영대 II"
+
+msgid "Astronomical Observatory III"
+msgstr "영대 III"
+
+msgid "Astronomical Observatory Added I"
+msgstr "영대 증 I"
+
+msgid "Astronomical Observatory Added II"
+msgstr "영대 증 II"
+
+msgid "Astronomical Observatory Added III"
+msgstr "영대 증 III"
+
+msgid "Astronomical Observatory Added IV"
+msgstr "영대 증 IV"
+
+msgid "Astronomical Observatory Added V"
+msgstr "영대 증 V"
+
+msgid "Astronomical Observatory Added VI"
+msgstr "영대 증 VI"
+
+msgid "Astronomical Observatory Added VII"
+msgstr "영대 증 VII"
+
+msgid "Astronomical Observatory Added VIII"
+msgstr "영대 증 VIII"
+
+msgid "The Hall of Glory I"
+msgstr "명당 I"
+
+msgid "The Hall of Glory II"
+msgstr "명당 II"
+
+msgid "The Hall of Glory III"
+msgstr "명당 III"
+
+msgid "The Hall of Glory Added I"
+msgstr "명당 증 I"
+
+msgid "The Hall of Glory Added II"
+msgstr "명당 증 II"
+
+msgid "The Hall of Glory Added III"
+msgstr "명당 증 III"
+
+msgid "The Hall of Glory Added IV"
+msgstr "명당 증 IV"
+
+msgid "The Hall of Glory Added V"
+msgstr "명당 증 V"
+
+msgid "The Hall of Glory Added VI"
+msgstr "명당 증 VI"
+
+msgid "The Hall of Glory Added VII"
+msgstr "명당 증 VII"
+
+msgid "Usher to the Court Added I"
+msgstr "알자 증 I"
+
+msgid "Usher to the Court Added II"
+msgstr "알자 증 II"
+
+msgid "Astrologer Added III"
+msgstr "후 III"
+
+msgid "Astrologer Added IV"
+msgstr "후 IV"
+
+msgid "Astrologer Added V"
+msgstr "후 V"
+
+msgid "Eunuch Official I"
+msgstr "환자 I"
+
+msgid "Eunuch Official II"
+msgstr "환자 II"
+
+msgid "Eunuch Official III"
+msgstr "환자 III"
+
+msgid "Eunuch Official IV"
+msgstr "환자 IV"
+
+msgid "Eunuch Official Added I"
+msgstr "환자 증 I"
+
+msgid "Eunuch Official Added II"
+msgstr "환자 증 II"
+
+msgid "Eunuch Official Added III"
+msgstr "환자 증 III"
+
+msgid "Eunuch Official Added IV"
+msgstr "환자 증 IV"
+
+msgid "Eunuch Official Added V"
+msgstr "환자 증 V"
+
+msgid "Dipper for Liquids I"
+msgstr "두 I"
+
+msgid "Dipper for Liquids II"
+msgstr "두 II"
+
+msgid "Dipper for Liquids III"
+msgstr "두 III"
+
+msgid "Dipper for Liquids IV"
+msgstr "두 IV"
+
+msgid "Dipper for Liquids V"
+msgstr "두 V"
+
+msgid "Dipper for Liquids Added I"
+msgstr "두 증 I"
+
+msgid "Dipper for Liquids Added II"
+msgstr "두 증 II"
+
+msgid "Dipper for Liquids Added III"
+msgstr "두 증 III"
+
+msgid "Dipper for Liquids Added IV"
+msgstr "두 증 IV"
+
+msgid "Dipper for Liquids Added V"
+msgstr "두 증 V"
+
+msgid "Dipper for Liquids Added VI"
+msgstr "두 증 VI"
+
+msgid "Dipper for Liquids Added VII"
+msgstr "두 증 VII"
+
+msgid "Dipper for Liquids Added IX"
+msgstr "두 증 I"
+
+msgid "Dipper for Liquids Added X"
+msgstr "두 증 X"
+
+msgid "Dipper for Liquids Added XI"
+msgstr "두 증 XI"
+
+msgid "Dipper for Solids I"
+msgstr "곡 I"
+
+msgid "Dipper for Solids II"
+msgstr "곡 II"
+
+msgid "Dipper for Solids III"
+msgstr "곡 III"
+
+msgid "Dipper for Solids IV"
+msgstr "곡 IV"
+
+msgid "Dipper for Solids Added I"
+msgstr "곡 증 I"
+
+msgid "Dipper for Solids Added II"
+msgstr "곡 증 II"
+
+msgid "Dipper for Solids Added III"
+msgstr "곡 증 III"
+
+msgid "Dipper for Solids Added IV"
+msgstr "곡 증 IV"
+
+msgid "Dipper for Solids Added V"
+msgstr "곡 증 V"
+
+msgid "Dipper for Solids Added VI"
+msgstr "곡 증 VI"
+
+msgid "Jewel Market I"
+msgstr "열사 I"
+
+msgid "Jewel Market II"
+msgstr "열사 II"
+
+msgid "Jewel Market Added I"
+msgstr "열사 증 I"
+
+msgid "Jewel Market Added II"
+msgstr "열사 증 II"
+
+msgid "Jewel Market Added III"
+msgstr "열사 증 III"
+
+msgid "Jewel Market Added IV"
+msgstr "열사 증 IV"
+
+msgid "Commodity Market I"
+msgstr "거사 I"
+
+msgid "Commodity Market II"
+msgstr "거사 II"
+
+msgid "Commodity Market Added I"
+msgstr "거사 증 I"
+
+msgid "Commodity Market Added II"
+msgstr "거사 증 II"
+
+msgid "Municipal Office I"
+msgstr "시루 I"
+
+msgid "Municipal Office II"
+msgstr "시루 II"
+
+msgid "Municipal Office III"
+msgstr "시루 III"
+
+msgid "Municipal Office IV"
+msgstr "시루 IV"
+
+msgid "Municipal Office V"
+msgstr "시루 V"
+
+msgid "Municipal Office VI"
+msgstr "시루 VI"
+
+msgid "Municipal Office Added I"
+msgstr "시루 증 I"
+
+msgid "Official for the Royal Clan I"
+msgstr "종정 I"
+
+msgid "Official for the Royal Clan II"
+msgstr "종정 II"
+
+msgid "Official for the Royal Clan Added I"
+msgstr "종정 증 I"
+
+msgid "Official for the Royal Clan Added II"
+msgstr "종정 증 II"
+
+msgid "Official for the Royal Clan Added III"
+msgstr "종정 증 III"
+
+msgid "Official of Religious Ceremonies I"
+msgstr "종인 I"
+
+msgid "Official of Religious Ceremonies II"
+msgstr "종인 II"
+
+msgid "Official of Religious Ceremonies III"
+msgstr "종인 III"
+
+msgid "Official of Religious Ceremonies IV"
+msgstr "종인 IV"
+
+msgid "Official of Religious Ceremonies Added I"
+msgstr "종인 증 I"
+
+msgid "Official of Religious Ceremonies Added II"
+msgstr "종인 증 II"
+
+msgid "Official of Religious Ceremonies Added III"
+msgstr "종인 증 III"
+
+msgid "Official of Religious Ceremonies Added IV"
+msgstr "종인 증 IV"
+
+msgid "Patriarchal Clan I"
+msgstr "종 I"
+
+msgid "Patriarchal Clan II"
+msgstr "종 II"
+
+msgid "Textile Ruler I"
+msgstr "백탁 I"
+
+msgid "Textile Ruler II"
+msgstr "백탁 II"
+
+msgid "Textile Ruler Added I"
+msgstr "백탁 증 I"
+
+msgid "Textile Ruler Added II"
+msgstr "백탁 증 II"
+
+msgid "Textile Ruler Added III"
+msgstr "백탁 증 III"
+
+msgid "Butcher's Shops I"
+msgstr "도사 I"
+
+msgid "Butcher's Shops II"
+msgstr "도사 II"
+
+msgid "Butcher's Shops Added I"
+msgstr "도사 증 I"
+
+msgid "Butcher's Shops Added II"
+msgstr "도사 증 II"
+
+msgid "Butcher's Shops Added III"
+msgstr "도사 증 III"
+
+msgid "Heavenly Market Right Wall I"
+msgstr "천시우원 I"
+
+msgid "Hezhong"
+msgstr "하중(河中)"
+
+msgid "Heavenly Market Right Wall II"
+msgstr "천시우원 II"
+
+msgid "Hejian"
+msgstr "하간(河間)"
+
+msgid "Heavenly Market Right Wall III"
+msgstr "천시우원 III"
+
+msgid "Jin"
+msgstr "진(晉)"
+
+msgid "Heavenly Market Right Wall IV"
+msgstr "천시우원 IV"
+
+msgid "Zheng"
+msgstr "정(鄭)"
+
+msgid "Heavenly Market Right Wall V"
+msgstr "천시우원 V"
+
+msgid "Zhou"
+msgstr "주(周)"
+
+msgid "Heavenly Market Right Wall VI"
+msgstr "천시우원 VI"
+
+msgid "Qin"
+msgstr "진(秦)"
+
+msgid "Heavenly Market Right Wall VII"
+msgstr "천시우원 VII"
+
+msgid "Shu"
+msgstr "촉(蜀)"
+
+msgid "Heavenly Market Right Wall VIII"
+msgstr "천시우원 VIII"
+
+msgid "Ba"
+msgstr "파(巴)"
+
+msgid "Heavenly Market Right Wall IX"
+msgstr "천시우원 IX"
+
+msgid "Liang"
+msgstr "양(梁)"
+
+msgid "Heavenly Market Right Wall X"
+msgstr "천시우원 X"
+
+msgid "Chu"
+msgstr "초(楚)"
+
+msgid "Heavenly Market Right Wall XI"
+msgstr "천시우원 XI"
+
+msgid "Han"
+msgstr "한(韓)"
+
+msgid "Hejian Added I"
+msgstr "하간 증 I"
+
+msgid "Jin Added I"
+msgstr "진 증 I"
+
+msgid "Jin Added II"
+msgstr "진 증 II"
+
+msgid "Jin Added III"
+msgstr "진 증 III"
+
+msgid "Jin Added IV"
+msgstr "진 증 IV"
+
+msgid "Jin Added V"
+msgstr "진 증 V"
+
+msgid "Zhou Added I"
+msgstr "주 증 I"
+
+msgid "Zhou Added II"
+msgstr "주 증 II"
+
+msgid "Zhou Added III"
+msgstr "주 증 III"
+
+msgid "Zhou Added IV"
+msgstr "주 증 IV"
+
+msgid "Zhou Added V"
+msgstr "주 증 V"
+
+msgid "Zhou Added VI"
+msgstr "주 증 VI"
+
+msgid "Zhou Added VII"
+msgstr "주 증 VII"
+
+msgid "Zhou Added VIII"
+msgstr "주 증 VIII"
+
+msgid "Zhou Added IX"
+msgstr "주 증 IX"
+
+msgid "Zhou Added XI"
+msgstr "주 증 XI"
+
+msgid "Zhou Added XII"
+msgstr "주 증 XII"
+
+msgid "Zhou Added XIII"
+msgstr "주 증 XIII"
+
+msgid "Zhou Added XIV"
+msgstr "주 증 XIV"
+
+msgid "Zhou Added XV"
+msgstr "주 증 XV"
+
+msgid "Zhou Added XVI"
+msgstr "주 증 XVI"
+
+msgid "Qin Added II"
+msgstr "진 증 II"
+
+msgid "Shu Added I"
+msgstr "촉 증 I"
+
+msgid "Shu Added II"
+msgstr "촉 증 II"
+
+msgid "Shu Added III"
+msgstr "촉 증 III"
+
+msgid "Ba Added I"
+msgstr "파 증 I"
+
+msgid "Ba Added II"
+msgstr "파 증 II"
+
+msgid "Ba Added III"
+msgstr "파 증 III"
+
+msgid "Ba Added IV"
+msgstr "파 증 IV"
+
+msgid "Ba Added V"
+msgstr "파 증 V"
+
+msgid "Heavenly Market Left Wall I"
+msgstr "천시좌원 I"
+
+msgid "Wei"
+msgstr "위(魏)"
+
+msgid "Heavenly Market Left Wall II"
+msgstr "천시좌원 II"
+
+msgid "Zhao"
+msgstr "조(曹)"
+
+msgid "Heavenly Market Left Wall III"
+msgstr "천시좌원 III"
+
+msgid "Jiuhe"
+msgstr "구하(九河)"
+
+msgid "Heavenly Market Left Wall IV"
+msgstr "천시좌원 IV"
+
+msgid "Zhongshan"
+msgstr "중산(中山)"
+
+msgid "Heavenly Market Left Wall V"
+msgstr "천시좌원 V"
+
+msgid "Qi"
+msgstr "제(齊)"
+
+msgid "Heavenly Market Left Wall VI"
+msgstr "천시좌원 VI"
+
+msgid "Wuyue"
+msgstr "오월(吳越)"
+
+msgid "Heavenly Market Left Wall VII"
+msgstr "천시좌원 VII"
+
+msgid "Xu"
+msgstr "서(徐)"
+
+msgid "Heavenly Market Left Wall VIII"
+msgstr "천시좌원 VIII"
+
+msgid "Donghai"
+msgstr "동해(東海)"
+
+msgid "Heavenly Market Left Wall IX"
+msgstr "천시좌원 IX"
+
+msgid "Yan"
+msgstr "연(燕)"
+
+msgid "Heavenly Market Left Wall X"
+msgstr "천시좌원 X"
+
+msgid "Nanhai"
+msgstr "남해(南海)"
+
+msgid "Heavenly Market Left Wall XI"
+msgstr "천시좌원 XI"
+
+msgid "Song"
+msgstr "송(宋)"
+
+msgid "Wei Added I"
+msgstr "위 증 I"
+
+msgid "Wei Added II"
+msgstr "위 증 II"
+
+msgid "Wei Added III"
+msgstr "위 증 III"
+
+msgid "Wei Added IV"
+msgstr "위 증 IV"
+
+msgid "Wei Added V"
+msgstr "위 증 V"
+
+msgid "Wei Added VI"
+msgstr "위 증 VI"
+
+msgid "Wei Added VII"
+msgstr "위 증 VII"
+
+msgid "Wei Added VIII"
+msgstr "위 증 VIII"
+
+msgid "Zhao Added I"
+msgstr "조 증 I"
+
+msgid "Zhao Added II"
+msgstr "조 증 II"
+
+msgid "Zhao Added III"
+msgstr "조 증 III"
+
+msgid "Jiuhe Added I"
+msgstr "구하 증 I"
+
+msgid "Zhongshan Added I"
+msgstr "중산 증 I"
+
+msgid "Zhongshan Added II"
+msgstr "중산 증 II"
+
+msgid "Zhongshan Added III"
+msgstr "중산 증 III"
+
+msgid "Zhongshan Added IV"
+msgstr "중산 증 IV"
+
+msgid "Zhongshan Added V"
+msgstr "중산 증 V"
+
+msgid "Zhongshan Added VI"
+msgstr "중산 증 VI"
+
+msgid "Zhongshan Added VII"
+msgstr "중산 증 VII"
+
+msgid "Qi Added I"
+msgstr "제 증 I"
+
+msgid "Qi Added II"
+msgstr "제 증 II"
+
+msgid "Qi Added III"
+msgstr "제 증 III"
+
+msgid "Qi Added IV"
+msgstr "제 증 IV"
+
+msgid "Qi Added V"
+msgstr "제 증 V"
+
+msgid "Qi Added VI"
+msgstr "제 증 VI"
+
+msgid "Qi Added VII"
+msgstr "제 증 VII"
+
+msgid "Qi Added VIII"
+msgstr "제 증 VIII"
+
+msgid "Qi Added IX"
+msgstr "제 증 IX"
+
+msgid "Qi Added X"
+msgstr "제 증 X"
+
+msgid "Qi Added XI"
+msgstr "제 증 XI"
+
+msgid "Qi Added XII"
+msgstr "제 증 XII"
+
+msgid "Wuyue Added I"
+msgstr "오월 증 I"
+
+msgid "Wuyue Added II"
+msgstr "오월 증 II"
+
+msgid "Wuyue Added III"
+msgstr "오월 증 III"
+
+msgid "Wuyue Added IV"
+msgstr "오월 증 IV"
+
+msgid "Wuyue Added V"
+msgstr "오월 증 V"
+
+msgid "Wuyue Added VI"
+msgstr "오월 증 VI"
+
+msgid "Wuyue Added VII"
+msgstr "오월 증 VII"
+
+msgid "Xu Added I"
+msgstr "서 증 I"
+
+msgid "Xu Added II"
+msgstr "서 증 II"
+
+msgid "Xu Added III"
+msgstr "서 증 III"
+
+msgid "Xu Added IV"
+msgstr "서 증 IV"
+
+msgid "Donghai Added I"
+msgstr "동해 증 I"
+
+msgid "Donghai Added II"
+msgstr "동해 증 II"
+
+msgid "Donghai Added III"
+msgstr "동해 증 III"
+
+msgid "Donghai Added IV"
+msgstr "동해 증 IV"
+
+msgid "Song Added II"
+msgstr "송 증 II"
+
+msgid "Celestial Discipline I"
+msgstr "천기 I"
+
+msgid "Celestial Discipline II"
+msgstr "천기 II"
+
+msgid "Celestial Discipline III"
+msgstr "천기 III"
+
+msgid "Celestial Discipline IV"
+msgstr "천기 IV"
+
+msgid "Celestial Discipline V"
+msgstr "천기 V"
+
+msgid "Celestial Discipline VI"
+msgstr "천기 VI"
+
+msgid "Celestial Discipline VII"
+msgstr "천기 VII"
+
+msgid "Celestial Discipline IX"
+msgstr "천기 IX"
+
+msgid "Celestial Discipline Added I"
+msgstr "천기 증 I"
+
+msgid "Celestial Discipline Added II"
+msgstr "천기 증 II"
+
+msgid "Celestial Discipline Added III*"
+msgstr "천기 증 III*"
+
+msgid "Celestial Discipline Added IV"
+msgstr "천기 증 IV"
+
+msgid "Celestial Discipline Added V"
+msgstr "천기 증 V"
+
+msgid "Celestial Discipline Added VI"
+msgstr "천기 증 VI"
+
+msgid "Celestial Discipline Added VII"
+msgstr "천기 증 VII"
+
+msgid "Celestial Discipline Added VIII"
+msgstr "천기 증 VIII"
+
+msgid "Celestial Discipline Added IX"
+msgstr "천기 증 IX"
+
+msgid "Celestial Discipline Added X"
+msgstr "천기 증 X"
+
+msgid "Celestial Discipline Added XI"
+msgstr "천기 증 XI"
+
+msgid "Celestial Discipline Added XII?"
+msgstr "천기 증 XII?"
+
+msgid "Celestial Discipline Added XIII"
+msgstr "천기 증 XIII"
+
+msgid "Celestial Discipline Added XIV"
+msgstr "천기 증 XIV"
+
+msgid "Celestial Discipline Added XV"
+msgstr "천기 증 XV"
+
+msgid "Woman's Bed I"
+msgstr "여상 I"
+
+msgid "Woman's Bed II"
+msgstr "여상 II"
+
+msgid "Woman's Bed III"
+msgstr "여상 III"
+
+msgid "Coiled Thong I"
+msgstr "관삭 I"
+
+msgid "Coiled Thong II"
+msgstr "관삭 II"
+
+msgid "Coiled Thong III"
+msgstr "관삭 III"
+
+msgid "Coiled Thong IV"
+msgstr "관삭 IV"
+
+msgid "Coiled Thong V"
+msgstr "관삭 V"
+
+msgid "Coiled Thong VI"
+msgstr "관삭 VI"
+
+msgid "Coiled Thong VII"
+msgstr "관삭 VII"
+
+msgid "Coiled Thong VIII"
+msgstr "관삭 VIII"
+
+msgid "Coiled Thong IX"
+msgstr "관삭 IX"
+
+msgid "Coiled Thong Added I"
+msgstr "관삭 증 I"
+
+msgid "Coiled Thong Added II"
+msgstr "관삭 증 II"
+
+msgid "Coiled Thong Added III"
+msgstr "관삭 증 III"
+
+msgid "Coiled Thong Added IV"
+msgstr "관삭 증 IV"
+
+msgid "Coiled Thong Added V"
+msgstr "관삭 증 V"
+
+msgid "Coiled Thong Added VI"
+msgstr "관삭 증 VI"
+
+msgid "Coiled Thong Added VII"
+msgstr "관삭 증 VII"
+
+msgid "Coiled Thong Added VIII"
+msgstr "관삭 증 VIII"
+
+msgid "Coiled Thong Added IX"
+msgstr "관삭 증 IX"
+
+msgid "Coiled Thong Added X"
+msgstr "관삭 증 X"
+
+msgid "Coiled Thong Added XI"
+msgstr "관삭 증 XI"
+
+msgid "Coiled Thong Added XII"
+msgstr "관삭 증 XII"
+
+msgid "Coiled Thong Added XIII"
+msgstr "관삭 증 XIII"
+
+msgid "Seven Excellencies I"
+msgstr "칠공 I"
+
+msgid "Seven Excellencies II"
+msgstr "칠공 II"
+
+msgid "Seven Excellencies III"
+msgstr "칠공 III"
+
+msgid "Seven Excellencies IV"
+msgstr "칠공 IV"
+
+msgid "Seven Excellencies V"
+msgstr "칠공 V"
+
+msgid "Seven Excellencies VI"
+msgstr "칠공 VI"
+
+msgid "Seven Excellencies VII"
+msgstr "칠공 VII"
+
+msgid "Seven Excellencies Added I"
+msgstr "칠공 증 I"
+
+msgid "Seven Excellencies Added II"
+msgstr "칠공 증 II"
+
+msgid "Seven Excellencies Added III"
+msgstr "칠공 증 III"
+
+msgid "Seven Excellencies Added IV"
+msgstr "칠공 증 IV"
+
+msgid "Seven Excellencies Added V"
+msgstr "칠공 증 V"
+
+msgid "Seven Excellencies Added VI"
+msgstr "칠공 증 VI"
+
+msgid "Seven Excellencies Added VII"
+msgstr "칠공 증 VII"
+
+msgid "Seven Excellencies Added VIII"
+msgstr "칠공 증 VIII"
+
+msgid "Seven Excellencies Added IX"
+msgstr "칠공 증 IX"
+
+msgid "Seven Excellencies Added X"
+msgstr "칠공 증 X"
+
+msgid "Seven Excellencies Added XI"
+msgstr "칠공 증 XI"
+
+msgid "Seven Excellencies Added XII"
+msgstr "칠공 증 XII"
+
+msgid "Seven Excellencies Added XIII"
+msgstr "칠공 증 XIII"
+
+msgid "Seven Excellencies Added XIV"
+msgstr "칠공 증 XIV"
+
+msgid "Seven Excellencies Added XV"
+msgstr "칠공 증 XV"
+
+msgid "Seven Excellencies Added XVI"
+msgstr "칠공 증 XVI"
+
+msgid "Horn I"
+msgstr "각 I"
+
+msgid "Horn II"
+msgstr "각 II"
+
+msgid "Horn Added I"
+msgstr "각 증 I"
+
+msgid "Horn Added II"
+msgstr "각 증 II"
+
+msgid "Horn Added III"
+msgstr "각 증 III"
+
+msgid "Horn Added IV"
+msgstr "각 증 IV"
+
+msgid "Horn Added V"
+msgstr "각 증 V"
+
+msgid "Horn Added VI"
+msgstr "각 증 VI"
+
+msgid "Horn Added VII"
+msgstr "각 증 VII"
+
+msgid "Horn Added VIII"
+msgstr "각 증 VIII"
+
+msgid "Horn Added IX"
+msgstr "각 증 IX"
+
+msgid "Horn Added X"
+msgstr "각 증 X"
+
+msgid "Horn Added XI"
+msgstr "각 증 XI"
+
+msgid "Horn Added XII"
+msgstr "각 증 XII"
+
+msgid "Horn Added XIII"
+msgstr "각 증 XIII"
+
+msgid "Horn Added XIV"
+msgstr "각 증 XIV"
+
+msgid "Horn Added XV"
+msgstr "각 증 XV"
+
+msgid "Horn Added XVI"
+msgstr "각 증 XVI"
+
+msgid "Flat Road I"
+msgstr "평도 I"
+
+msgid "Flat Road II"
+msgstr "평도 II"
+
+msgid "Celestial Farmland I (In Horn Mansion)"
+msgstr "천전 I (각수)"
+
+msgid "Celestial Farmland II (In Horn Mansion)"
+msgstr "천전 II (각수)"
+
+msgid "Celestial Farmland Added I (In Horn Mansion)"
+msgstr "천전 증 I (각수)"
+
+msgid "Celestial Farmland Added II (In Horn Mansion)"
+msgstr "천전 증 II (각수)"
+
+msgid "Celestial Farmland Added III (In Horn Mansion)"
+msgstr "천전 증 III (각수)"
+
+msgid "Celestial Farmland Added IV (In Horn Mansion)"
+msgstr "천전 증 IV (각수)"
+
+msgid "Celestial Farmland Added V (In Horn Mansion)"
+msgstr "천전 증 V (각수)"
+
+msgid "Celestial Farmland Added VI (In Horn Mansion)"
+msgstr "천전 증 VI (각수)"
+
+msgid "Celestial Farmland Added VII (In Horn Mansion)"
+msgstr "천전 증 VII (각수)"
+
+msgid "Tripod of the Zhou I"
+msgstr "주정 I"
+
+msgid "Tripod of the Zhou II"
+msgstr "주정 II"
+
+msgid "Tripod of the Zhou III"
+msgstr "주정 III"
+
+msgid "Recommending Virtuous Men Added I"
+msgstr "진현 증 I"
+
+msgid "Recommending Virtuous Men Added II"
+msgstr "진현 증 II"
+
+msgid "Recommending Virtuous Men Added III"
+msgstr "진현 증 III"
+
+msgid "Recommending Virtuous Men Added IV"
+msgstr "진현 증 IV"
+
+msgid "Recommending Virtuous Men Added V"
+msgstr "진현 증 V"
+
+msgid "Recommending Virtuous Men Added VII"
+msgstr "진현 증 VII"
+
+msgid "Recommending Virtuous Men Added VIII"
+msgstr "진현 증 VIII"
+
+msgid "Recommending Virtuous Men Added IX"
+msgstr "진현 증 IX"
+
+msgid "Celestial Gate I"
+msgstr "천문 I"
+
+msgid "Celestial Gate II"
+msgstr "천문 II"
+
+msgid "Celestial Gate Added I"
+msgstr "천문 증 I"
+
+msgid "Celestial Gate Added II"
+msgstr "천문 증 II"
+
+msgid "Celestial Gate Added III"
+msgstr "천문 증 III"
+
+msgid "Celestial Gate Added IV"
+msgstr "천문 증 IV"
+
+msgid "Celestial Gate Added V"
+msgstr "천문 증 V"
+
+msgid "Celestial Gate Added VI"
+msgstr "천문 증 VI"
+
+msgid "Celestial Gate Added VII"
+msgstr "천문 증 VII"
+
+msgid "Celestial Gate Added VIII"
+msgstr "천문 증 VIII"
+
+msgid "Celestial Gate Added IX"
+msgstr "천문 증 IX"
+
+msgid "Celestial Gate Added X"
+msgstr "천문 증 X"
+
+msgid "Celestial Gate Added XI"
+msgstr "천문 증 XI"
+
+msgid "Judging I"
+msgstr "평 I"
+
+msgid "Judging II"
+msgstr "평 II"
+
+msgid "Judging Added I"
+msgstr "평 증 I"
+
+msgid "Judging Added II"
+msgstr "평 증 II"
+
+msgid "Judging Added III"
+msgstr "평 증 III"
+
+msgid "Judging Added IV"
+msgstr "평 증 IV"
+
+msgid "Arsenal I"
+msgstr "고루 I"
+
+msgid "Arsenal II"
+msgstr "고루 II"
+
+msgid "Arsenal III"
+msgstr "고루 III"
+
+msgid "Arsenal IV"
+msgstr "고루 IV"
+
+msgid "Arsenal V"
+msgstr "고루 V"
+
+msgid "Arsenal VI"
+msgstr "고루 VI"
+
+msgid "Arsenal VII"
+msgstr "고루 VII"
+
+msgid "Arsenal VIII"
+msgstr "고루 VIII"
+
+msgid "Arsenal IX"
+msgstr "고루 IX"
+
+msgid "Arsenal X"
+msgstr "고루 X"
+
+msgid "Pillars I (In Horn Mansion)"
+msgstr "주 I (각수)"
+
+msgid "Pillars II (In Horn Mansion)"
+msgstr "주  II (각수)"
+
+msgid "Pillars III (In Horn Mansion)"
+msgstr "주  III (각수)"
+
+msgid "Pillars IV (In Horn Mansion)"
+msgstr "주 IV (각수)"
+
+msgid "Pillars V (In Horn Mansion)"
+msgstr "주 V (각수)"
+
+msgid "Pillars VI (In Horn Mansion)"
+msgstr "주 VI (각수)"
+
+msgid "Pillars VII (In Horn Mansion)"
+msgstr "주 VII (각수)"
+
+msgid "Pillars VIII (In Horn Mansion)"
+msgstr "주 VIII (각수)"
+
+msgid "Pillars IX (In Horn Mansion)"
+msgstr "주 IX (각수)"
+
+msgid "Pillars XI (In Horn Mansion)"
+msgstr "주 XI (각수)"
+
+msgid "Railings I"
+msgstr "각수 I"
+
+msgid "Railings II"
+msgstr "각수 II"
+
+msgid "Railings III"
+msgstr "각수 III"
+
+msgid "Railings IV"
+msgstr "각수 IV"
+
+msgid "Southern Gate I"
+msgstr "남문 I"
+
+msgid "Southern Gate II"
+msgstr "남문 II"
+
+msgid "Southern Gate Added I"
+msgstr "남문 증 I"
+
+msgid "Southern Gate Added II"
+msgstr "남문 증 II"
+
+msgid "Neck I"
+msgstr "항 I"
+
+msgid "Neck II"
+msgstr "항 II"
+
+msgid "Neck III"
+msgstr "항 III"
+
+msgid "Neck IV"
+msgstr "항 IV"
+
+msgid "Neck Added I"
+msgstr "항 증 I"
+
+msgid "Neck Added II"
+msgstr "항 증 II"
+
+msgid "Neck Added III"
+msgstr "항 증 III"
+
+msgid "Neck Added IV"
+msgstr "항 증 IV"
+
+msgid "Neck Added V"
+msgstr "항 증 V"
+
+msgid "Neck Added VI"
+msgstr "항 증 VI"
+
+msgid "Neck Added VII"
+msgstr "항 증 VII"
+
+msgid "Neck Added VIII"
+msgstr "항 증  VIII"
+
+msgid "Neck Added IX"
+msgstr "항 증 IX"
+
+msgid "Neck Added X"
+msgstr "항 증 X"
+
+msgid "Neck Added XI"
+msgstr "항 증 XI"
+
+msgid "Neck Added XII"
+msgstr "항 증 XII"
+
+msgid "Great Horn Added I"
+msgstr "대각 증 I"
+
+msgid "Right Conductor I"
+msgstr "우섭제 I"
+
+msgid "Right Conductor II"
+msgstr "우섭제 II"
+
+msgid "Right Conductor III"
+msgstr "우섭제 III"
+
+msgid "Right Conductor Added I"
+msgstr "우섭제 증 I"
+
+msgid "Right Conductor Added II"
+msgstr "우섭제 증 II"
+
+msgid "Right Conductor Added III"
+msgstr "우섭제 증 III"
+
+msgid "Right Conductor Added IV"
+msgstr "우섭제 증 IV"
+
+msgid "Right Conductor Added V"
+msgstr "우섭제 증 V"
+
+msgid "Right Conductor Added VI"
+msgstr "우섭제 증 VI"
+
+msgid "Left Conductor I"
+msgstr "좌섭제 I"
+
+msgid "Left Conductor II"
+msgstr "좌섭제 II"
+
+msgid "Left Conductor III"
+msgstr "좌섭제 III"
+
+msgid "Left Conductor Added I"
+msgstr "좌섭제 증 I"
+
+msgid "Left Conductor Added II"
+msgstr "좌섭제 증 II"
+
+msgid "Left Conductor Added III"
+msgstr "좌섭제 증 III"
+
+msgid "Left Conductor Added IV"
+msgstr "좌섭제 증 IV"
+
+msgid "Executions I"
+msgstr "절위 I"
+
+msgid "Executions III"
+msgstr "절위 III"
+
+msgid "Executions IV"
+msgstr "절위 IV"
+
+msgid "Executions V"
+msgstr "절위 V"
+
+msgid "Executions VI"
+msgstr "절위 VI"
+
+msgid "Executions VII"
+msgstr "절위 VII"
+
+msgid "Executions Added I"
+msgstr "절위 증 I"
+
+msgid "Executions Added II"
+msgstr "절위 증 II"
+
+msgid "Executions Added III"
+msgstr "절위 증 III"
+
+msgid "Executions Added IV"
+msgstr "절위 증 IV"
+
+msgid "Executions Added V"
+msgstr "절위 증 V"
+
+msgid "Executions Added VI"
+msgstr "절위 증 VI"
+
+msgid "Executions Added VII"
+msgstr "절위 증 VII"
+
+msgid "Trials I"
+msgstr "돈완 I"
+
+msgid "Trials II"
+msgstr "돈완 II"
+
+msgid "Trials Added I"
+msgstr "돈완 증 I"
+
+msgid "Gate of Yang I"
+msgstr "양문 I"
+
+msgid "Gate of Yang II"
+msgstr "양문 II"
+
+msgid "Root I"
+msgstr "저 I"
+
+msgid "Root II"
+msgstr "저 II"
+
+msgid "Root III"
+msgstr "저 III"
+
+msgid "Root IV"
+msgstr "저 IV"
+
+msgid "Root Added I"
+msgstr "저 증 I"
+
+msgid "Root Added II"
+msgstr "저 증 II"
+
+msgid "Root Added III"
+msgstr "저 증 III"
+
+msgid "Root Added IV"
+msgstr "저 증 IV"
+
+msgid "Root Added V"
+msgstr "저 증 V"
+
+msgid "Root Added VI"
+msgstr "저 증 VI"
+
+msgid "Root Added VII"
+msgstr "저 증 VII"
+
+msgid "Root Added VIII"
+msgstr "저 증 VIII"
+
+msgid "Root Added IX"
+msgstr "저 증 IX"
+
+msgid "Root Added X"
+msgstr "저 증 X"
+
+msgid "Root Added XI"
+msgstr "저 증 XI"
+
+msgid "Root Added XII"
+msgstr "저 증 XII"
+
+msgid "Root Added XIII"
+msgstr "저 증 XIII"
+
+msgid "Root Added XIV"
+msgstr "저 증 XIV"
+
+msgid "Root Added XV"
+msgstr "저 증 XV"
+
+msgid "Root Added XVI"
+msgstr "저 증 XVI"
+
+msgid "Root Added XVII"
+msgstr "저 증 XVII"
+
+msgid "Root Added XVIII"
+msgstr "저 증 XVIII"
+
+msgid "Root Added XIX"
+msgstr "저 증 XIX"
+
+msgid "Root Added XX"
+msgstr "저 증 XX"
+
+msgid "Root Added XXI"
+msgstr "저 증 XXI"
+
+msgid "Root Added XXII"
+msgstr "저 증 XXII"
+
+msgid "Root Added XXIII"
+msgstr "저 증 XXIII"
+
+msgid "Root Added XXIV"
+msgstr "저 증 XXIV"
+
+msgid "Root Added XXV"
+msgstr "저 증 XXV"
+
+msgid "Root Added XXVI"
+msgstr "저 증 XXVI"
+
+msgid "Root Added XXVII"
+msgstr "저 증 XXVII"
+
+msgid "Root Added XXVIII"
+msgstr "저 증 XXVIII"
+
+msgid "Root Added XXIX"
+msgstr "저 증 XXIX"
+
+msgid "Root Added XXX"
+msgstr "저 증 XXX"
+
+msgid "Boats and Lake I"
+msgstr "항지 I"
+
+msgid "Boats and Lake II"
+msgstr "항지 II"
+
+msgid "Boats and Lake III"
+msgstr "항지 III"
+
+msgid "Boats and Lake IV"
+msgstr "항지 IV"
+
+msgid "Mattress of the Emperor I"
+msgstr "제석 I"
+
+msgid "Mattress of the Emperor II"
+msgstr "제석 II"
+
+msgid "Mattress of the Emperor III"
+msgstr "제석 III"
+
+msgid "Mattress of the Emperor Added I"
+msgstr "제석 증 I"
+
+msgid "Celestial Lance I"
+msgstr "경하 I"
+
+msgid "Celestial Lance II"
+msgstr "경하 II"
+
+msgid "Celestial Lance III"
+msgstr "경하 III"
+
+msgid "Celestial Lance Added I"
+msgstr "경하 증 I"
+
+msgid "Celestial Lance Added II"
+msgstr "경하 증 II"
+
+msgid "Celestial Lance Added III"
+msgstr "경하 증 III"
+
+msgid "Celestial Lance Added IV"
+msgstr "경하 증 IV"
+
+msgid "Celestial Lance Added V"
+msgstr "경하 증 V"
+
+msgid "Celestial Milk Added I"
+msgstr "천유 증 I"
+
+msgid "Celestial Milk Added II"
+msgstr "천유 증 II"
+
+msgid "Celestial Milk Added III"
+msgstr "천유 증 III"
+
+msgid "Celestial Milk Added IV"
+msgstr "천유 증 IV"
+
+msgid "Celestial Spokes I"
+msgstr "천폭 I"
+
+msgid "Celestial Spokes II"
+msgstr "천폭 II"
+
+msgid "Celestial Spokes Added I"
+msgstr "천폭 증 I"
+
+msgid "Battle Chariots I"
+msgstr "진거 I"
+
+msgid "Battle Chariots II"
+msgstr "진거 II"
+
+msgid "Battle Chariots III"
+msgstr "진거 III"
+
+msgid "Battle Chariots Added I"
+msgstr "진거 증 I"
+
+msgid "Battle Chariots Added II"
+msgstr "진거 증 II"
+
+msgid "Imperial Guards I"
+msgstr "기관 I"
+
+msgid "Imperial Guards II"
+msgstr "기관 II"
+
+msgid "Imperial Guards III"
+msgstr "기관 III"
+
+msgid "Imperial Guards IV"
+msgstr "기관 IV"
+
+msgid "Imperial Guards V"
+msgstr "기관 V"
+
+msgid "Imperial Guards VI"
+msgstr "기관 VI"
+
+msgid "Imperial Guards VII"
+msgstr "기관 VII"
+
+msgid "Imperial Guards VIII"
+msgstr "기관 VIII"
+
+msgid "Imperial Guards IX"
+msgstr "기관 IX"
+
+msgid "Imperial Guards X"
+msgstr "기관 X"
+
+msgid "Chariots and Cavalry I"
+msgstr "거기 I"
+
+msgid "Chariots and Cavalry II"
+msgstr "거기 II"
+
+msgid "Chariots and Cavalry III"
+msgstr "거기 III"
+
+msgid "Room I"
+msgstr "방 I"
+
+msgid "Room II"
+msgstr "방 II"
+
+msgid "Room III"
+msgstr "방 III"
+
+msgid "Room IV"
+msgstr "방 IV"
+
+msgid "Room Added I"
+msgstr "방 증 I"
+
+msgid "Room Added II"
+msgstr "방 증 II"
+
+msgid "Room Added III"
+msgstr "방 증 III"
+
+msgid "Room Added IV"
+msgstr "방 증 IV"
+
+msgid "Room Added V"
+msgstr "방 증 V"
+
+msgid "Room Added VI"
+msgstr "방 증 VI"
+
+msgid "Lock I"
+msgstr "구검 I"
+
+msgid "Lock II"
+msgstr "구검 II"
+
+msgid "Punishment I"
+msgstr "벌 I"
+
+msgid "Punishment II"
+msgstr "벌 II"
+
+msgid "Punishment III"
+msgstr "벌 III"
+
+msgid "Punishment Added I"
+msgstr "벌 증 I"
+
+msgid "Punishment Added II"
+msgstr "벌 증 II"
+
+msgid "Punishment Added III"
+msgstr "벌 증 III"
+
+msgid "Western Door I"
+msgstr "서함 I"
+
+msgid "Western Door II"
+msgstr "서함 II"
+
+msgid "Western Door III"
+msgstr "서함 III"
+
+msgid "Western Door IV"
+msgstr "서함 IV"
+
+msgid "Western Door Added I"
+msgstr "서함 증 I"
+
+msgid "Eastern Door I"
+msgstr "동함 I"
+
+msgid "Eastern Door II"
+msgstr "동함 II"
+
+msgid "Eastern Door III"
+msgstr "동함 III"
+
+msgid "Eastern Door IV"
+msgstr "동함 IV"
+
+msgid "Eastern Door Added I"
+msgstr "동함 증 I"
+
+msgid "Eastern Door Added II"
+msgstr "동함 증 II"
+
+msgid "Solar Star Added I"
+msgstr "일 증 I"
+
+msgid "Retinue I (In Room Mansion)"
+msgstr "종관 I (방수)"
+
+msgid "Retinue II (In Room Mansion)"
+msgstr "종관 II (방수)"
+
+msgid "Retinue Added I (In Room Mansion)"
+msgstr "종관 증 I (방수)"
+
+msgid "Heart I"
+msgstr "심 I"
+
+msgid "Heart II"
+msgstr "심 II"
+
+msgid "Great Fire"
+msgstr "대화(大火)"
+
+msgid "Heart III"
+msgstr "심 III"
+
+msgid "Heart Added I"
+msgstr "심 증 I"
+
+msgid "Heart Added II"
+msgstr "심 증 II"
+
+msgid "Heart Added III"
+msgstr "심 증 III"
+
+msgid "Heart Added IV"
+msgstr "심 증 IV"
+
+msgid "Heart Added V"
+msgstr "심 증 V"
+
+msgid "Heart Added VI"
+msgstr "심 증 VI"
+
+msgid "Heart Added VIII"
+msgstr "심 증 VIII"
+
+msgid "Heart Added IX"
+msgstr "심 증 IX"
+
+msgid "Group of Soldiers I"
+msgstr "적졸 I"
+
+msgid "Group of Soldiers II"
+msgstr "적졸 II"
+
+msgid "Group of Soldiers Added I"
+msgstr "적졸 증 I"
+
+msgid "Group of Soldiers Added II"
+msgstr "적졸 증 II"
+
+msgid "Tail I"
+msgstr "미 I"
+
+msgid "Tail II"
+msgstr "미 II"
+
+msgid "Tail III"
+msgstr "미 III"
+
+msgid "Tail IV"
+msgstr "미 IV"
+
+msgid "Tail V"
+msgstr "미 V"
+
+msgid "Tail VI"
+msgstr "미 VI"
+
+msgid "Tail VII"
+msgstr "미 VII"
+
+msgid "Tail VIII"
+msgstr "미 VIII"
+
+msgid "Tail IX"
+msgstr "미 IX"
+
+msgid "Tail Added I"
+msgstr "미 증 I"
+
+msgid "Tail Added II"
+msgstr "미 증 II"
+
+msgid "Tail Added III"
+msgstr "미 증 III"
+
+msgid "Tail Added IV"
+msgstr "미 증 IV"
+
+msgid "Celestial River I"
+msgstr "천강 I"
+
+msgid "Celestial River II"
+msgstr "천강 II"
+
+msgid "Celestial River III"
+msgstr "천강 III"
+
+msgid "Celestial River IV"
+msgstr "천강 IV"
+
+msgid "Celestial River Added I"
+msgstr "천강 증 I"
+
+msgid "Celestial River Added II"
+msgstr "천강 증 II"
+
+msgid "Celestial River Added III"
+msgstr "천강 증 III"
+
+msgid "Celestial River Added IV"
+msgstr "천강 증 IV"
+
+msgid "Celestial River Added V"
+msgstr "천강 증 V"
+
+msgid "Celestial River Added VI"
+msgstr "천강 증 VI"
+
+msgid "Celestial River Added VII"
+msgstr "천강 증 VII"
+
+msgid "Celestial River Added VIII"
+msgstr "천강 증 VIII"
+
+msgid "Celestial River Added IX"
+msgstr "천강 증 I"
+
+msgid "Celestial River Added X"
+msgstr "천강 증 X"
+
+msgid "Celestial River Added XI"
+msgstr "천강 증 XI"
+
+msgid "Tortoise I"
+msgstr "귀 I"
+
+msgid "Tortoise II"
+msgstr "귀 II"
+
+msgid "Tortoise III"
+msgstr "귀 III"
+
+msgid "Tortoise IV"
+msgstr "귀 IV"
+
+msgid "Tortoise V"
+msgstr "귀 V"
+
+msgid "Winnowing Basket I"
+msgstr "기 I"
+
+msgid "Winnowing Basket II"
+msgstr "기 II"
+
+msgid "Winnowing Basket III"
+msgstr "기 III"
+
+msgid "Winnowing Basket IV"
+msgstr "기 IV"
+
+msgid "Chaff Added I"
+msgstr "강 증 I"
+
+msgid "Pestle I (In Winnowing Basket Mansion)"
+msgstr "저 I (기수)"
+
+msgid "Pestle II (In Winnowing Basket Mansion)"
+msgstr "저 II (기수)"
+
+msgid "Pestle III (In Winnowing Basket Mansion)"
+msgstr "저 III (기수)"
+
+msgid "Pestle Added I (In Winnowing Basket Mansion)"
+msgstr "저 증 I (기수)"
+
+msgid "Dipper I"
+msgstr "두 I"
+
+msgid "Dipper II"
+msgstr "두 II"
+
+msgid "Dipper III"
+msgstr "두 III"
+
+msgid "Dipper IV"
+msgstr "두 IV"
+
+msgid "Dipper V"
+msgstr "두 V"
+
+msgid "Dipper VI"
+msgstr "두 VI"
+
+msgid "Dipper Added I"
+msgstr "두 증 I"
+
+msgid "Dipper Added II"
+msgstr "두 증 II"
+
+msgid "Dipper Added III"
+msgstr "두 증 III"
+
+msgid "Dipper Added IV"
+msgstr "두 증 IV"
+
+msgid "Dipper Added V"
+msgstr "두 증 V"
+
+msgid "Celestial Keyhole I"
+msgstr "천약 I"
+
+msgid "Celestial Keyhole II?"
+msgstr "천약 II?"
+
+msgid "Celestial Keyhole III"
+msgstr "천약 III"
+
+msgid "Celestial Keyhole IV"
+msgstr "천약 IV"
+
+msgid "Celestial Keyhole V"
+msgstr "천약 V"
+
+msgid "Celestial Keyhole VI"
+msgstr "천약 VI"
+
+msgid "Celestial Keyhole VII"
+msgstr "천약 VII"
+
+msgid "Celestial Keyhole VIII"
+msgstr "천약 VIII"
+
+msgid "Celestial Keyhole Added I"
+msgstr "천약 증 I"
+
+msgid "Celestial Keyhole Added II"
+msgstr "천약 증 II"
+
+msgid "Celestial Keyhole Added III"
+msgstr "천약 증 III"
+
+msgid "Celestial Keyhole Added IV"
+msgstr "천약 증 IV"
+
+msgid "Market Officer I"
+msgstr "천변 I"
+
+msgid "Market Officer II"
+msgstr "천변 II"
+
+msgid "Market Officer III"
+msgstr "천변 III"
+
+msgid "Market Officer IV"
+msgstr "천변 IV"
+
+msgid "Market Officer V"
+msgstr "천변 V"
+
+msgid "Market Officer VI"
+msgstr "천변 VI"
+
+msgid "Market Officer VII"
+msgstr "천변 VII"
+
+msgid "Market Officer VIII"
+msgstr "천변 VIII"
+
+msgid "Market Officer IX"
+msgstr "천변 IX"
+
+msgid "Market Officer Added I"
+msgstr "천변 증 I"
+
+msgid "Market Officer Added II"
+msgstr "천변 증 II"
+
+msgid "Market Officer Added III"
+msgstr "천변 증 III"
+
+msgid "Market Officer Added IV"
+msgstr "천변 증 IV"
+
+msgid "Market Officer Added V"
+msgstr "천변 증 V"
+
+msgid "Market Officer Added VI"
+msgstr "천변 증 VI"
+
+msgid "Establishment I"
+msgstr "건 I"
+
+msgid "Establishment II"
+msgstr "건 II"
+
+msgid "Establishment III"
+msgstr "건 III"
+
+msgid "Establishment IV"
+msgstr "건 IV"
+
+msgid "Establishment V"
+msgstr "건 V"
+
+msgid "Establishment VI"
+msgstr "건 VI"
+
+msgid "Establishment Added I"
+msgstr "건 증 I"
+
+msgid "Establishment Added II"
+msgstr "건 증 II"
+
+msgid "Establishment Added III"
+msgstr "건 증 III"
+
+msgid "Establishment Added IV"
+msgstr "건 증 IV"
+
+msgid "Establishment Added V"
+msgstr "건 증 V"
+
+msgid "Establishment Added VI"
+msgstr "건 증 VI"
+
+msgid "Establishment Added VII"
+msgstr "건 증 VII"
+
+msgid "Establishment Added VIII"
+msgstr "건 증 VIII"
+
+msgid "Establishment Added IX"
+msgstr "건 증 IX"
+
+msgid "Establishment Added X"
+msgstr "건 증 X"
+
+msgid "Celestial Cock I"
+msgstr "천계 I"
+
+msgid "Celestial Cock II"
+msgstr "천계 II"
+
+msgid "Celestial Cock Added I"
+msgstr "천계 증 I"
+
+msgid "Celestial Cock Added II"
+msgstr "천계 증 II"
+
+msgid "Celestial Cock Added III"
+msgstr "천계 증 III"
+
+msgid "Dog I"
+msgstr "구 I"
+
+msgid "Dog II"
+msgstr "구 II"
+
+msgid "Dog Added I"
+msgstr "구 증 I"
+
+msgid "Dog Added II"
+msgstr "구 증 II"
+
+msgid "Dog Added III"
+msgstr "구 증 III"
+
+msgid "Dog Added IV"
+msgstr "구 증 IV"
+
+msgid "Dog Added V"
+msgstr "구 증 V"
+
+msgid "Dog Added VI"
+msgstr "구 증 VI"
+
+msgid "Dog Added VII"
+msgstr "구 증 VII"
+
+msgid "Territory of Dog I"
+msgstr "구국 I"
+
+msgid "Territory of Dog II"
+msgstr "구국 II"
+
+msgid "Territory of Dog III"
+msgstr "구국 III"
+
+msgid "Territory of Dog IV"
+msgstr "구국 IV"
+
+msgid "Territory of Dog Added I"
+msgstr "구국 증 I"
+
+msgid "Territory of Dog Added II"
+msgstr "구국 증 II"
+
+msgid "Territory of Dog Added III"
+msgstr "구국 증 III"
+
+msgid "Celestial Spring I"
+msgstr "천연 I"
+
+msgid "Celestial Spring II"
+msgstr "천연 II"
+
+msgid "Celestial Spring III"
+msgstr "천연 III"
+
+msgid "Celestial Spring Added I"
+msgstr "천연 증 I"
+
+msgid "Celestial Spring Added II"
+msgstr "천연 증 II"
+
+msgid "Celestial Spring Added III"
+msgstr "천연 증 III"
+
+msgid "River Turtle I"
+msgstr "별 I"
+
+msgid "River Turtle II"
+msgstr "별 II"
+
+msgid "River Turtle III"
+msgstr "별 III"
+
+msgid "River Turtle IV"
+msgstr "별 IV"
+
+msgid "River Turtle V"
+msgstr "별 V"
+
+msgid "River Turtle VI"
+msgstr "별 VI"
+
+msgid "River Turtle VII"
+msgstr "별 VII"
+
+msgid "River Turtle VIII"
+msgstr "별 VIII"
+
+msgid "River Turtle IX"
+msgstr "별 IX"
+
+msgid "River Turtle X"
+msgstr "별 X"
+
+msgid "River Turtle XI"
+msgstr "별 XI"
+
+msgid "Ox I"
+msgstr "우 I"
+
+msgid "Ox II"
+msgstr "우 II"
+
+msgid "Ox III"
+msgstr "우 III"
+
+msgid "Ox IV"
+msgstr "우 IV"
+
+msgid "Ox V"
+msgstr "우 V"
+
+msgid "Ox VI"
+msgstr "우 VI"
+
+msgid "Ox Added I"
+msgstr "우 증 I"
+
+msgid "Ox Added II"
+msgstr "우 증 II"
+
+msgid "Ox Added III"
+msgstr "우 증 III"
+
+msgid "Ox Added IV"
+msgstr "우 증 IV"
+
+msgid "Ox Added V"
+msgstr "우 증 V"
+
+msgid "Ox Added VI"
+msgstr "우 증 VI"
+
+msgid "Ox Added VII"
+msgstr "우 증 VII"
+
+msgid "Ox Added VIII"
+msgstr "우 증 VIII"
+
+msgid "Ox Added IX"
+msgstr "우 증 IX"
+
+msgid "Ox Added X"
+msgstr "우 증 X"
+
+msgid "Ox Added XI"
+msgstr "우 증 XI"
+
+msgid "Ox Added XII"
+msgstr "우 증 XII"
+
+msgid "Ox Added XIII"
+msgstr "우 증 XIII"
+
+msgid "Ox Added XIV"
+msgstr "우 증 XIV"
+
+msgid "Celestial Drumstick I"
+msgstr "천부 I"
+
+msgid "Celestial Drumstick II"
+msgstr "천부 II"
+
+msgid "Celestial Drumstick III"
+msgstr "천부 III"
+
+msgid "Celestial Drumstick IV"
+msgstr "천부 IV"
+
+msgid "Celestial Drumstick Added I"
+msgstr "천부 증 I"
+
+msgid "Celestial Drumstick Added II"
+msgstr "천부 증 II"
+
+msgid "Drum at the River I"
+msgstr "하고 I"
+
+msgid "Drum at the River II"
+msgstr "하고 II"
+
+msgid "Cowboy"
+msgstr "우낭(牛郎)"
+
+msgid "Drum at the River III"
+msgstr "하고 III"
+
+msgid "Drum at the River Added I"
+msgstr "하고 증 I"
+
+msgid "Drum at the River Added II"
+msgstr "하고 증 II"
+
+msgid "Drum at the River Added III"
+msgstr "하고 증 III"
+
+msgid "Drum at the River Added IV"
+msgstr "하고 증 IV"
+
+msgid "Drum at the River Added V"
+msgstr "하고 증 V"
+
+msgid "Drum at the River Added VI"
+msgstr "하고 증 VI"
+
+msgid "Drum at the River Added VII"
+msgstr "하고 증 VII"
+
+msgid "Drum at the River Added VIII"
+msgstr "하고 증 VIII"
+
+msgid "Drum at the River Added IX"
+msgstr "하고 증 IX"
+
+msgid "Right Flag I"
+msgstr "우기 I"
+
+msgid "Right Flag II"
+msgstr "우기 II"
+
+msgid "Right Flag III"
+msgstr "우기 III"
+
+msgid "Right Flag IV"
+msgstr "우기 IV"
+
+msgid "Right Flag V"
+msgstr "우기 V"
+
+msgid "Right Flag VI"
+msgstr "우기 VI"
+
+msgid "Right Flag VII"
+msgstr "우기 VII"
+
+msgid "Right Flag VIII"
+msgstr "우기 VIII"
+
+msgid "Right Flag IX"
+msgstr "우기 IX"
+
+msgid "Right Flag Added I"
+msgstr "우기 증 I"
+
+msgid "Right Flag Added II"
+msgstr "우기 증 II"
+
+msgid "Right Flag Added III"
+msgstr "우기 증 III"
+
+msgid "Right Flag Added IV"
+msgstr "우기 증 IV"
+
+msgid "Right Flag Added V"
+msgstr "우기 증 V"
+
+msgid "Right Flag Added VI"
+msgstr "우기 증 VI"
+
+msgid "Right Flag Added VII"
+msgstr "우기 증 VII"
+
+msgid "Right Flag Added VIII"
+msgstr "우기 증 VIII"
+
+msgid "Right Flag Added X"
+msgstr "우기 증 X"
+
+msgid "Right Flag Added XI"
+msgstr "우기 증 XI"
+
+msgid "Right Flag Added XII"
+msgstr "우기 증 XII"
+
+msgid "Left Flag I"
+msgstr "좌기 I"
+
+msgid "Left Flag II"
+msgstr "좌기 II"
+
+msgid "Left Flag III"
+msgstr "좌기 III"
+
+msgid "Left Flag IV"
+msgstr "좌기 IV"
+
+msgid "Left Flag V"
+msgstr "좌기 V"
+
+msgid "Left Flag VI"
+msgstr "좌기 VI"
+
+msgid "Left Flag VII"
+msgstr "좌기 VII"
+
+msgid "Left Flag VIII"
+msgstr "좌기 VIII"
+
+msgid "Left Flag IX"
+msgstr "좌기 IX"
+
+msgid "Left Flag Added I"
+msgstr "좌기 증 I"
+
+msgid "Left Flag Added II"
+msgstr "좌기 증 II"
+
+msgid "Left Flag Added III"
+msgstr "좌기 증 III"
+
+msgid "Left Flag Added IV"
+msgstr "좌기 증 IV"
+
+msgid "Left Flag Added V"
+msgstr "좌기 증 V"
+
+msgid "Left Flag Added VI"
+msgstr "좌기 증 VI"
+
+msgid "Left Flag Added VII"
+msgstr "좌기 증 VII"
+
+msgid "Left Flag Added VIII"
+msgstr "좌기 증 VIII"
+
+msgid "Left Flag Added IX?"
+msgstr "좌기 증 IX?"
+
+msgid "Left Flag Added X"
+msgstr "좌기 증 X"
+
+msgid "Left Flag Added XI"
+msgstr "좌기 증 XI"
+
+msgid "Left Flag Added XII"
+msgstr "좌기 증 XII"
+
+msgid "Left Flag Added XIII"
+msgstr "좌기 증 XIII"
+
+msgid "Left Flag Added XIV"
+msgstr "좌기 증 XIV"
+
+msgid "Left Flag Added XV"
+msgstr "좌기 증 XV"
+
+msgid "Left Flag Added XVI"
+msgstr "좌기 증 XVI"
+
+msgid "Left Flag Added XVII"
+msgstr "좌기 증 XVII"
+
+msgid "Left Flag Added XVIII"
+msgstr "좌기 증 XVIII"
+
+msgid "Left Flag Added XIX"
+msgstr "좌기 증 XIX"
+
+msgid "Left Flag Added XX"
+msgstr "좌기 증 XX"
+
+msgid "Left Flag Added XXI"
+msgstr "좌기 증 XXI"
+
+msgid "Left Flag Added XXII"
+msgstr "좌기 증 XXII"
+
+msgid "Left Flag Added XXIII"
+msgstr "좌기 증 XXIII"
+
+msgid "Left Flag Added XXIV"
+msgstr "좌기 증 XXIV"
+
+msgid "Left Flag Added XXV"
+msgstr "좌기 증 XXV"
+
+msgid "Left Flag Added XXVI"
+msgstr "좌기 증 XXVI"
+
+msgid "Left Flag Added XXVII"
+msgstr "좌기 증 XXVII"
+
+msgid "Left Flag Added XXVIII"
+msgstr "좌기 증 XXVIII"
+
+msgid "Left Flag Added XXIX"
+msgstr "좌기 증 XXIX"
+
+msgid "Left Flag Added XXX"
+msgstr "좌기 증 XXX"
+
+msgid "Weaving Girl I"
+msgstr "직녀 I"
+
+msgid "Weaving Girl II"
+msgstr "직녀 II"
+
+msgid "Weaving Girl III"
+msgstr "직녀 III"
+
+msgid "Weaving Girl Added I"
+msgstr "직녀 증 I"
+
+msgid "Weaving Girl Added II"
+msgstr "직녀 증 II"
+
+msgid "Weaving Girl Added III"
+msgstr "직녀 증 III"
+
+msgid "Weaving Girl Added IV"
+msgstr "직녀 증 IV"
+
+msgid "Clepsydra Terrace I"
+msgstr "점대 I"
+
+msgid "Clepsydra Terrace II"
+msgstr "점대 II"
+
+msgid "Clepsydra Terrace III"
+msgstr "점대 III"
+
+msgid "Clepsydra Terrace IV"
+msgstr "점대 IV"
+
+msgid "Clepsydra Terrace Added I"
+msgstr "점대 증 I"
+
+msgid "Clepsydra Terrace Added III"
+msgstr "점대 증 III"
+
+msgid "Clepsydra Terrace Added IV"
+msgstr "점대 증 IV"
+
+msgid "Clepsydra Terrace Added V"
+msgstr "점대 증 V"
+
+msgid "Clepsydra Terrace Added VI"
+msgstr "점대 증 VI"
+
+msgid "Clepsydra Terrace Added VII"
+msgstr "점대 증 VII"
+
+msgid "Imperial Passageway I"
+msgstr "연도 I"
+
+msgid "Imperial Passageway II"
+msgstr "연도 II"
+
+msgid "Imperial Passageway III"
+msgstr "연도 III"
+
+msgid "Imperial Passageway IV"
+msgstr "연도 IV"
+
+msgid "Imperial Passageway V"
+msgstr "연도 V"
+
+msgid "Imperial Passageway Added I"
+msgstr "연도 증 I"
+
+msgid "Imperial Passageway Added II"
+msgstr "연도 증 II"
+
+msgid "Imperial Passageway Added III"
+msgstr "연도 증 III"
+
+msgid "Imperial Passageway Added IV"
+msgstr "연도 증 IV"
+
+msgid "Imperial Passageway Added V"
+msgstr "연도 증 V"
+
+msgid "Imperial Passageway Added VI"
+msgstr "연도 증 VI"
+
+msgid "Imperial Passageway Added VII"
+msgstr "연도 증 VII"
+
+msgid "Imperial Passageway Added VIII"
+msgstr "연도 증 VIII"
+
+msgid "Imperial Passageway Added IX"
+msgstr "연도 증 I"
+
+msgid "Network of Dykes I"
+msgstr "나언 I"
+
+msgid "Network of Dykes II"
+msgstr "나언 II"
+
+msgid "Network of Dykes III"
+msgstr "나언 III"
+
+msgid "Network of Dykes Added I"
+msgstr "나언 증 I"
+
+msgid "Celestial Farmland I (In Ox Mansion)"
+msgstr "천전 I (우수)"
+
+msgid "Celestial Farmland II (In Ox Mansion)"
+msgstr "천전 II (우수)"
+
+msgid "Celestial Farmland III (In Ox Mansion)"
+msgstr "천전 III (우수)"
+
+msgid "Celestial Farmland IV (In Ox Mansion)"
+msgstr "천전 IV (우수)"
+
+msgid "Nine Water Wells II*"
+msgstr "구감 II*"
+
+msgid "Girl I"
+msgstr "여 I"
+
+msgid "Girl II"
+msgstr "여 II"
+
+msgid "Girl III"
+msgstr "여 III"
+
+msgid "Girl IV"
+msgstr "여 IV"
+
+msgid "Girl Added I"
+msgstr "여 증 I"
+
+msgid "Girl Added II"
+msgstr "여 증 II"
+
+msgid "Girl Added III"
+msgstr "여 증 III"
+
+msgid "Girl Added IV"
+msgstr "여 증 IV"
+
+msgid "Girl Added V"
+msgstr "여 증 V"
+
+msgid "Pearls on Ladies' Wear I"
+msgstr "이주 I"
+
+msgid "Pearls on Ladies' Wear II"
+msgstr "이주 II"
+
+msgid "Pearls on Ladies' Wear III"
+msgstr "이주 III"
+
+msgid "Pearls on Ladies' Wear IV"
+msgstr "이주 IV"
+
+msgid "Pearls on Ladies' Wear Added I"
+msgstr "이주 증 I"
+
+msgid "Rotten Gourd I"
+msgstr "패과 I"
+
+msgid "Rotten Gourd II"
+msgstr "패과 II"
+
+msgid "Rotten Gourd III"
+msgstr "패과 III"
+
+msgid "Rotten Gourd IV"
+msgstr "패과 IV"
+
+msgid "Rotten Gourd V"
+msgstr "패과 V"
+
+msgid "Rotten Gourd Added I"
+msgstr "패과 증 I"
+
+msgid "Rotten Gourd Added II"
+msgstr "패과 증 II"
+
+msgid "Rotten Gourd Added III"
+msgstr "패과 증 III"
+
+msgid "Good Gourd I"
+msgstr "포과 I"
+
+msgid "Good Gourd II"
+msgstr "포과 II"
+
+msgid "Good Gourd III"
+msgstr "포과 III"
+
+msgid "Good Gourd IV"
+msgstr "포과 IV"
+
+msgid "Good Gourd V"
+msgstr "포과 V"
+
+msgid "Good Gourd Added I"
+msgstr "포과 증 I"
+
+msgid "Good Gourd Added II"
+msgstr "포과 증 II"
+
+msgid "Good Gourd Added III"
+msgstr "포과 증 III"
+
+msgid "Good Gourd Added IV"
+msgstr "포과 증 IV"
+
+msgid "Good Gourd Added V"
+msgstr "포과 증 V"
+
+msgid "Good Gourd Added VI"
+msgstr "포과 증 VI"
+
+msgid "Good Gourd Added VII"
+msgstr "포과 증 VII"
+
+msgid "Good Gourd Added VIII"
+msgstr "포과 증 VIII"
+
+msgid "Celestial Ford I"
+msgstr "천진 I"
+
+msgid "Celestial Ford II"
+msgstr "천진 II"
+
+msgid "Celestial Ford III"
+msgstr "천진 III"
+
+msgid "Celestial Ford IV"
+msgstr "천진 IV"
+
+msgid "Celestial Ford V"
+msgstr "천진 V"
+
+msgid "Celestial Ford VI"
+msgstr "천진 VI"
+
+msgid "Celestial Ford VII"
+msgstr "천진 VII"
+
+msgid "Celestial Ford VIII"
+msgstr "천진 VIII"
+
+msgid "Celestial Ford IX"
+msgstr "천진 IX"
+
+msgid "Celestial Ford Added I"
+msgstr "천진 증 I"
+
+msgid "Celestial Ford Added II"
+msgstr "천진 증 II"
+
+msgid "Celestial Ford Added III"
+msgstr "천진 증 III"
+
+msgid "Celestial Ford Added IV"
+msgstr "천진 증 IV"
+
+msgid "Celestial Ford Added V"
+msgstr "천진 증 V"
+
+msgid "Celestial Ford Added VI"
+msgstr "천진 증 VI"
+
+msgid "Celestial Ford Added VII"
+msgstr "천진 증 VII"
+
+msgid "Celestial Ford Added VIII"
+msgstr "천진 증 VIII"
+
+msgid "Celestial Ford Added IX"
+msgstr "천진 증 IX"
+
+msgid "Celestial Ford Added X"
+msgstr "천진 증 X"
+
+msgid "Celestial Ford Added XI"
+msgstr "천진 증 XI"
+
+msgid "Celestial Ford Added XII"
+msgstr "천진 증 XII"
+
+msgid "Celestial Ford Added XIII"
+msgstr "천진 증 XIII"
+
+msgid "Celestial Ford Added XIV"
+msgstr "천진 증 XIV"
+
+msgid "Celestial Ford Added XV"
+msgstr "천진 증 XV"
+
+msgid "Celestial Ford Added XVI"
+msgstr "천진 증 XVI"
+
+msgid "Celestial Ford Added XVII"
+msgstr "천진 증 XVII"
+
+msgid "Celestial Ford Added XVIII"
+msgstr "천진 증 XVIII"
+
+msgid "Celestial Ford Added XIX"
+msgstr "천진 증 XIX"
+
+msgid "Celestial Ford Added XX"
+msgstr "천진 증 XX"
+
+msgid "Celestial Ford Added XXI"
+msgstr "천진 증 XXI"
+
+msgid "Celestial Ford Added XXII"
+msgstr "천진 증 XXII"
+
+msgid "Celestial Ford Added XXIII"
+msgstr "천진 증 XXIII"
+
+msgid "Celestial Ford Added XXIV"
+msgstr "천진 증 XXIV"
+
+msgid "Celestial Ford Added XXV"
+msgstr "천진 증 XXV"
+
+msgid "Celestial Ford Added XXVI"
+msgstr "천진 증 XXVI"
+
+msgid "Celestial Ford Added XXVII"
+msgstr "천진 증 XXVII"
+
+msgid "Celestial Ford Added XXVIII"
+msgstr "천진 증 XXVIII"
+
+msgid "Celestial Ford Added XXIX"
+msgstr "천진 증 XXIX"
+
+msgid "Celestial Ford Added XXX"
+msgstr "천진 증 XXX"
+
+msgid "Celestial Ford Added XXXI"
+msgstr "천진 증 XXXI"
+
+msgid "Celestial Ford Added XXXII"
+msgstr "천진 증 XXXII"
+
+msgid "Celestial Ford Added XXXIII"
+msgstr "천진 증 XXXIII"
+
+msgid "Celestial Ford Added XXXIV"
+msgstr "천진 증 XXXIV"
+
+msgid "Celestial Ford Added XXXV"
+msgstr "천진 증 XXXV"
+
+msgid "Celestial Ford Added XXXVI"
+msgstr "천진 증 XXXVI"
+
+msgid "Celestial Ford Added XXXVII"
+msgstr "천진 증 XXXVII"
+
+msgid "Celestial Ford Added XXXVIII"
+msgstr "천진 증 XXXVIII"
+
+msgid "Celestial Ford Added XXXIX"
+msgstr "천진 증 XXXIX"
+
+msgid "Celestial Ford Added XL"
+msgstr "천진 증 XL"
+
+msgid "Xi Zhong I"
+msgstr "해중 I"
+
+msgid "Xi Zhong II"
+msgstr "해중 II"
+
+msgid "Xi Zhong III"
+msgstr "해중 III"
+
+msgid "Xi Zhong IV"
+msgstr "해중 IV"
+
+msgid "Xi Zhong Added I"
+msgstr "해중 증 I"
+
+msgid "Xi Zhong Added II"
+msgstr "해중 증 II"
+
+msgid "Xi Zhong Added III"
+msgstr "해중 증 III"
+
+msgid "Xi Zhong Added IV"
+msgstr "해중 증 IV"
+
+msgid "Xi Zhong Added V"
+msgstr "해중 증 V"
+
+msgid "Xi Zhong Added VI"
+msgstr "해중 증 VI"
+
+msgid "Xi Zhong Added VII"
+msgstr "해중 증 VII"
+
+msgid "Basket for Mulberry Leaves I"
+msgstr "부광 I"
+
+msgid "Basket for Mulberry Leaves II"
+msgstr "부광 II"
+
+msgid "Basket for Mulberry Leaves III"
+msgstr "부광 III"
+
+msgid "Basket for Mulberry Leaves IV"
+msgstr "부광 IV"
+
+msgid "Basket for Mulberry Leaves V"
+msgstr "부광 V"
+
+msgid "Basket for Mulberry Leaves VI"
+msgstr "부광 VI"
+
+msgid "Basket for Mulberry Leaves VII"
+msgstr "부광 VII"
+
+msgid "Basket for Mulberry Leaves Added I"
+msgstr "부광 증 I"
+
+msgid "Basket for Mulberry Leaves Added II"
+msgstr "부광 증 II"
+
+msgid "Basket for Mulberry Leaves Added III"
+msgstr "부광 증 III"
+
+msgid "Basket for Mulberry Leaves Added IV"
+msgstr "부광 증 IV"
+
+msgid "Zhou State I (In Twelve States)"
+msgstr "주나라 I (십이국)"
+
+msgid "Zhou State II (In Twelve States)"
+msgstr "주나라 II (십이국)"
+
+msgid "Qin State I (In Twelve States)"
+msgstr "진나라 I (십이국)"
+
+msgid "Qin State II (In Twelve States)"
+msgstr "진나라 II (십이국)"
+
+msgid "Dai State I (In Twelve States)"
+msgstr "대나라 I (십이국)"
+
+msgid "Dai State II (In Twelve States)"
+msgstr "대나라 II (십이국)"
+
+msgid "Zhao State I (In Twelve States)"
+msgstr "조나라 I (십이국)"
+
+msgid "Zhao State II (In Twelve States)"
+msgstr "조나라 II (십이국)"
+
+msgid "Yue State (In Twelve States)"
+msgstr "월나라 (십이국)"
+
+msgid "Qi State (In Twelve States)"
+msgstr "제나라 (십이국)"
+
+msgid "Chu State (In Twelve States)"
+msgstr "초나라 (십이국)"
+
+msgid "Zheng State (In Twelve States)"
+msgstr "정나라 (십이국)"
+
+msgid "Wei State (In Twelve States)"
+msgstr "위나라 (십이국)"
+
+msgid "Han State (In Twelve States)"
+msgstr "한나라 (십이국)"
+
+msgid "Jin State (In Twelve States)"
+msgstr "진나라 (십이국)"
+
+msgid "Yan State (In Twelve States)"
+msgstr "연나라 (십이국)"
+
+msgid "Dai State Added I (In Twelve States)"
+msgstr "대나라 증 I (십이국)"
+
+msgid "Dai State Added II (In Twelve States)"
+msgstr "대나라 증 II (십이국)"
+
+msgid "Emptiness I"
+msgstr "허 I"
+
+msgid "Emptiness II"
+msgstr "허 II"
+
+msgid "Emptiness Added I"
+msgstr "허 증 I"
+
+msgid "Emptiness Added II"
+msgstr "허 증 II"
+
+msgid "Emptiness Added III"
+msgstr "허 증 III"
+
+msgid "Emptiness Added IV"
+msgstr "허 증 IV"
+
+msgid "Emptiness Added V"
+msgstr "허 증 V"
+
+msgid "Emptiness Added VI"
+msgstr "허 증 VI"
+
+msgid "Emptiness Added VII"
+msgstr "허 증 VII"
+
+msgid "Emptiness Added VIII"
+msgstr "허 증 VIII"
+
+msgid "Deified Judge of Life I"
+msgstr "사명 I"
+
+msgid "Deified Judge of Life II"
+msgstr "사명 II"
+
+msgid "Deified Judge of Rank I"
+msgstr "사록 I"
+
+msgid "Deified Judge of Rank II"
+msgstr "사록 II"
+
+msgid "Deified Judge of Rank Added I"
+msgstr "사록 증 I"
+
+msgid "Deified Judge of Rank Added II"
+msgstr "사록 증 II"
+
+msgid "Deified Judge of Disaster and Good Fortune I"
+msgstr "사위 I"
+
+msgid "Deified Judge of Disaster and Good Fortune II"
+msgstr "사위 II"
+
+msgid "Deified Judge of Right and Wrong  I"
+msgstr "사비 I"
+
+msgid "Deified Judge of Right and Wrong  II"
+msgstr "사비 II"
+
+msgid "Deified Judge of Right and Wrong  Added I"
+msgstr "사비 증 I"
+
+msgid "Deified Judge of Right and Wrong  Added II"
+msgstr "사비 증 II"
+
+msgid "Deified Judge of Right and Wrong  Added III"
+msgstr "사비 증 III"
+
+msgid "Crying I"
+msgstr "곡 I"
+
+msgid "Crying II"
+msgstr "곡 II"
+
+msgid "Crying Added I"
+msgstr "곡 증 I"
+
+msgid "Crying Added II"
+msgstr "곡 증 II"
+
+msgid "Crying Added III"
+msgstr "곡 증 III"
+
+msgid "Crying Added IV"
+msgstr "곡 증 IV"
+
+msgid "Weeping I"
+msgstr "읍 I"
+
+msgid "Weeping II"
+msgstr "읍 II"
+
+msgid "Weeping Added I"
+msgstr "읍 증 I"
+
+msgid "Weeping Added II"
+msgstr "읍 증 II"
+
+msgid "Jade Ornament on Ladies' Wear II"
+msgstr "이유 II"
+
+msgid "Jade Ornament on Ladies' Wear III"
+msgstr "이유 III"
+
+msgid "Jade Ornament on Ladies' Wear Added I"
+msgstr "이유 증 I"
+
+msgid "Jade Ornament on Ladies' Wear Added II"
+msgstr "이유 증 II"
+
+msgid "Jade Ornament on Ladies' Wear Added III"
+msgstr "이유 증 III"
+
+msgid "Celestial Ramparts I"
+msgstr "천루성 I"
+
+msgid "Celestial Ramparts II"
+msgstr "천루성 II"
+
+msgid "Celestial Ramparts III"
+msgstr "천루성 III"
+
+msgid "Celestial Ramparts IV"
+msgstr "천루성 IV"
+
+msgid "Celestial Ramparts V"
+msgstr "천루성 V"
+
+msgid "Celestial Ramparts VI"
+msgstr "천루성 VI"
+
+msgid "Celestial Ramparts VII"
+msgstr "천루성 VII"
+
+msgid "Celestial Ramparts VIII"
+msgstr "천루성 VIII"
+
+msgid "Celestial Ramparts IX"
+msgstr "천루성 IX"
+
+msgid "Celestial Ramparts X"
+msgstr "천루성 X"
+
+msgid "Celestial Ramparts XI"
+msgstr "천루성 XI"
+
+msgid "Celestial Ramparts XII"
+msgstr "천루성 XII"
+
+msgid "Celestial Ramparts XIII"
+msgstr "천루성 XIII"
+
+msgid "Celestial Ramparts Added II"
+msgstr "천루성 증 II"
+
+msgid "Decayed Mortar I"
+msgstr "패구 I"
+
+msgid "Decayed Mortar II"
+msgstr "패구 II"
+
+msgid "Decayed Mortar III"
+msgstr "패구 III"
+
+msgid "Decayed Mortar IV"
+msgstr "패구 IV"
+
+msgid "Decayed Mortar Added I"
+msgstr "패구 증 I"
+
+msgid "Rooftop I"
+msgstr "위 I"
+
+msgid "Rooftop II"
+msgstr "위 II"
+
+msgid "Rooftop III"
+msgstr "위 III"
+
+msgid "Rooftop Added I"
+msgstr "위 증 I"
+
+msgid "Rooftop Added II"
+msgstr "위 증 II"
+
+msgid "Rooftop Added III"
+msgstr "위 증 III"
+
+msgid "Rooftop Added IV"
+msgstr "위 증 IV"
+
+msgid "Rooftop Added V"
+msgstr "위 증 V"
+
+msgid "Rooftop Added VI"
+msgstr "위 증 VI"
+
+msgid "Rooftop Added VII"
+msgstr "위 증 VII"
+
+msgid "Rooftop Added VIII"
+msgstr "위 증 VIII"
+
+msgid "Rooftop Added IX"
+msgstr "위 증 IX"
+
+msgid "Rooftop Added X"
+msgstr "위 증 X"
+
+msgid "Rooftop Added XI"
+msgstr "위 증 XI"
+
+msgid "Rooftop Added XII"
+msgstr "위 증 XII"
+
+msgid "Rooftop Added XIII"
+msgstr "위 증 XIII"
+
+msgid "Rooftop Added XIV"
+msgstr "위 증 XIV"
+
+msgid "Tomb I"
+msgstr "분묘 I"
+
+msgid "Tomb II"
+msgstr "분묘 II"
+
+msgid "Tomb III"
+msgstr "분묘 III"
+
+msgid "Tomb IV"
+msgstr "분묘 IV"
+
+msgid "Tomb Added I"
+msgstr "분묘 증 I"
+
+msgid "Tomb Added II"
+msgstr "분묘 증 II"
+
+msgid "Tomb Added III"
+msgstr "분묘 증 III"
+
+msgid "Tomb Added IV"
+msgstr "분묘 증 IV"
+
+msgid "Roofing I"
+msgstr "개옥 I"
+
+msgid "Roofing II"
+msgstr "개옥 II"
+
+msgid "Temple I"
+msgstr "허량 I"
+
+msgid "Temple II"
+msgstr "허량 II"
+
+msgid "Temple III"
+msgstr "허량 III"
+
+msgid "Temple IV"
+msgstr "허량 IV"
+
+msgid "Celestial Money I"
+msgstr "천전 I"
+
+msgid "Celestial Money II"
+msgstr "천전 II"
+
+msgid "Celestial Money III"
+msgstr "천전 III"
+
+msgid "Celestial Money IV"
+msgstr "천전 IV"
+
+msgid "Celestial Money V"
+msgstr "천전 V"
+
+msgid "Celestial Money Added I"
+msgstr "천전 증 I"
+
+msgid "Celestial Money Added II"
+msgstr "천전 증 II"
+
+msgid "Celestial Money Added III"
+msgstr "천전 증 III"
+
+msgid "Celestial Money Added IV"
+msgstr "천전 증 IV"
+
+msgid "Humans I"
+msgstr "인 I"
+
+msgid "Humans II"
+msgstr "인 II"
+
+msgid "Humans III"
+msgstr "인 III"
+
+msgid "Humans IV"
+msgstr "인 IV"
+
+msgid "Humans Added I"
+msgstr "인 증 I"
+
+msgid "Humans Added III"
+msgstr "인 증 III"
+
+msgid "Humans Added IV"
+msgstr "인 증 IV"
+
+msgid "Pestle I (In Rooftop Mansion)"
+msgstr "저 I (위수)"
+
+msgid "Pestle II (In Rooftop Mansion)"
+msgstr "저 II (위수)"
+
+msgid "Pestle III (In Rooftop Mansion)"
+msgstr "저 III (위수)"
+
+msgid "Pestle Added I (In Rooftop Mansion)"
+msgstr "저 증 I (위수)"
+
+msgid "Pestle Added II (In Rooftop Mansion)"
+msgstr "저 증 II (위수)"
+
+msgid "Mortar I"
+msgstr "구 I"
+
+msgid "Mortar II"
+msgstr "구 II"
+
+msgid "Mortar III"
+msgstr "구 III"
+
+msgid "Mortar IV"
+msgstr "구 IV"
+
+msgid "Mortar Added I"
+msgstr "구 증 I"
+
+msgid "Mortar Added II"
+msgstr "구 증 II"
+
+msgid "Mortar Added III"
+msgstr "구 증 III"
+
+msgid "Mortar Added IV"
+msgstr "구 증 IV"
+
+msgid "Mortar Added V"
+msgstr "구 증 V"
+
+msgid "Mortar Added VI"
+msgstr "구 증 VI"
+
+msgid "Big Yard for Chariots I"
+msgstr "거부 I"
+
+msgid "Big Yard for Chariots II"
+msgstr "거부 II"
+
+msgid "Big Yard for Chariots III"
+msgstr "거부 III"
+
+msgid "Big Yard for Chariots IV"
+msgstr "거부 IV"
+
+msgid "Big Yard for Chariots V"
+msgstr "거부 V"
+
+msgid "Big Yard for Chariots VI"
+msgstr "거부 VI"
+
+msgid "Big Yard for Chariots VII"
+msgstr "거부 VII"
+
+msgid "Big Yard for Chariots Added I"
+msgstr "거부 증 I"
+
+msgid "Big Yard for Chariots Added II"
+msgstr "거부 증 II"
+
+msgid "Big Yard for Chariots Added III"
+msgstr "거부 증 III"
+
+msgid "Big Yard for Chariots Added IV"
+msgstr "거부 증 IV"
+
+msgid "Big Yard for Chariots Added V"
+msgstr "거부 증 V"
+
+msgid "Big Yard for Chariots Added VI"
+msgstr "거부 증 VI"
+
+msgid "Big Yard for Chariots Added VII"
+msgstr "거부 증 VII"
+
+msgid "Big Yard for Chariots Added VIII"
+msgstr "거부 증 VIII"
+
+msgid "Big Yard for Chariots Added IX"
+msgstr "거부 증 IX"
+
+msgid "Big Yard for Chariots Added X"
+msgstr "거부 증 X"
+
+msgid "Big Yard for Chariots Added XI"
+msgstr "거부 증 XI"
+
+msgid "Big Yard for Chariots Added XII"
+msgstr "거부 증 XII"
+
+msgid "Big Yard for Chariots Added XIII"
+msgstr "거부 증 XIII"
+
+msgid "Big Yard for Chariots Added XIV"
+msgstr "거부 증 XIV"
+
+msgid "Big Yard for Chariots Added XV"
+msgstr "거부 증 XV"
+
+msgid "Big Yard for Chariots Added XVI"
+msgstr "거부 증 XVI"
+
+msgid "Big Yard for Chariots Added XVII"
+msgstr "거부 증 XVII"
+
+msgid "Big Yard for Chariots Added XVIII"
+msgstr "거부 증 XVIII"
+
+msgid "Big Yard for Chariots Added XIX"
+msgstr "거부 증 XIX"
+
+msgid "Big Yard for Chariots Added XX"
+msgstr "거부 증 XX"
+
+msgid "Zaofu I"
+msgstr "조보 I"
+
+msgid "Zaofu II"
+msgstr "조보 II"
+
+msgid "Zaofu III"
+msgstr "조보 III"
+
+msgid "Zaofu IV"
+msgstr "조보 IV"
+
+msgid "Zaofu V"
+msgstr "조보 V"
+
+msgid "Zaofu Added I"
+msgstr "조보 증 I"
+
+msgid "Zaofu Added II"
+msgstr "조보 증 II"
+
+msgid "Zaofu Added III"
+msgstr "조보 증 III"
+
+msgid "Zaofu Added IV"
+msgstr "조보 증 IV"
+
+msgid "Zaofu Added V"
+msgstr "조보 증 V"
+
+msgid "Celestial Hook I"
+msgstr "천구 I"
+
+msgid "Celestial Hook II"
+msgstr "천구 II"
+
+msgid "Celestial Hook III"
+msgstr "천구 III"
+
+msgid "Celestial Hook IV"
+msgstr "천구 IV"
+
+msgid "Celestial Hook V"
+msgstr "천구 V"
+
+msgid "Celestial Hook VI"
+msgstr "천구 VI"
+
+msgid "Celestial Hook VII"
+msgstr "천구 VII"
+
+msgid "Celestial Hook VIII"
+msgstr "천구 VIII"
+
+msgid "Celestial Hook IX"
+msgstr "천구 IX"
+
+msgid "Celestial Hook Added I"
+msgstr "천구 증 I"
+
+msgid "Celestial Hook Added II"
+msgstr "천구 증 II"
+
+msgid "Celestial Hook Added III"
+msgstr "천구 증 III"
+
+msgid "Celestial Hook Added IV"
+msgstr "천구 증 IV"
+
+msgid "Celestial Hook Added V"
+msgstr "천구 증 V"
+
+msgid "Celestial Hook Added VI"
+msgstr "천구 증 VI"
+
+msgid "Celestial Hook Added VII"
+msgstr "천구 증 VII"
+
+msgid "Celestial Hook Added VIII*"
+msgstr "천구 증 VIII*"
+
+msgid "Celestial Hook Added IX*"
+msgstr "천구 증 IX*"
+
+msgid "Celestial Hook Added X"
+msgstr "천구 증 X"
+
+msgid "Celestial Hook Added XI"
+msgstr "천구 증 XI"
+
+msgid "Celestial Hook Added XII*"
+msgstr "천구 증 XII*"
+
+msgid "Celestial Hook Added XIII*"
+msgstr "천구 증 XIII*"
+
+msgid "Celestial Hook Added XIV"
+msgstr "천구 증 XIV"
+
+msgid "Celestial Hook Added XV*"
+msgstr "천구 증 XV*"
+
+msgid "Celestial Hook Added XVI"
+msgstr "천구 증 XVI"
+
+msgid "Celestial Hook Added XVII"
+msgstr "천구 증 XVII"
+
+msgid "Celestial Hook Added XVIII"
+msgstr "천구 증 XVIII"
+
+msgid "Encampment I"
+msgstr "실 I"
+
+msgid "Encampment II"
+msgstr "실 II"
+
+msgid "Encampment Added I"
+msgstr "실 증 I"
+
+msgid "Encampment Added II"
+msgstr "실 증 II"
+
+msgid "Encampment Added III"
+msgstr "실 증 III"
+
+msgid "Encampment Added IV"
+msgstr "실 증 IV"
+
+msgid "Encampment Added V"
+msgstr "실 증 V"
+
+msgid "Encampment Added VI"
+msgstr "실 증 VI"
+
+msgid "Encampment Added VII"
+msgstr "실 증 VII"
+
+msgid "Resting Palace I"
+msgstr "이궁 I"
+
+msgid "Resting Palace II"
+msgstr "이궁 II"
+
+msgid "Resting Palace III"
+msgstr "이궁 III"
+
+msgid "Resting Palace IV"
+msgstr "이궁 IV"
+
+msgid "Resting Palace V"
+msgstr "이궁 V"
+
+msgid "Resting Palace VI"
+msgstr "이궁 VI"
+
+msgid "Resting Palace Added I"
+msgstr "이궁 증 I"
+
+msgid "Resting Palace Added II"
+msgstr "이궁 증 II"
+
+msgid "Resting Palace Added III"
+msgstr "이궁 증 III"
+
+msgid "Resting Palace Added IV"
+msgstr "이궁 증 IV"
+
+msgid "Resting Palace Added V"
+msgstr "이궁 증 V"
+
+msgid "Resting Palace Added VI"
+msgstr "이궁 증 VI"
+
+msgid "Resting Palace Added VII"
+msgstr "이궁 증 VII"
+
+msgid "Resting Palace Added VIII"
+msgstr "이궁 증 VIII"
+
+msgid "Flying Serpent I"
+msgstr "등사 I"
+
+msgid "Flying Serpent II"
+msgstr "등사 II"
+
+msgid "Flying Serpent III"
+msgstr "등사 III"
+
+msgid "Flying Serpent IV"
+msgstr "등사 IV"
+
+msgid "Flying Serpent VI*"
+msgstr "등사 VI*"
+
+msgid "Flying Serpent VII"
+msgstr "등사 VII"
+
+msgid "Flying Serpent VIII"
+msgstr "등사 VIII"
+
+msgid "Flying Serpent IX"
+msgstr "등사 IX"
+
+msgid "Flying Serpent X"
+msgstr "등사 "
+
+msgid "Flying Serpent XI"
+msgstr "등사 XI"
+
+msgid "Flying Serpent XII"
+msgstr "등사 XII"
+
+msgid "Flying Serpent XIII"
+msgstr "등사 XIII"
+
+msgid "Flying Serpent XIV"
+msgstr "등사 XIV"
+
+msgid "Flying Serpent XV"
+msgstr "등사 XV"
+
+msgid "Flying Serpent XVI"
+msgstr "등사 XVI"
+
+msgid "Flying Serpent XVII"
+msgstr "등사 XVII"
+
+msgid "Flying Serpent XVIII"
+msgstr "등사 XVIII"
+
+msgid "Flying Serpent XIX"
+msgstr "등사 XIX"
+
+msgid "Flying Serpent XX"
+msgstr "등사 XX"
+
+msgid "Flying Serpent XXI"
+msgstr "등사 XX"
+
+msgid "Flying Serpent XXII"
+msgstr "등사 XXII"
+
+msgid "Flying Serpent Added I"
+msgstr "등사 증 I"
+
+msgid "Flying Serpent Added II"
+msgstr "등사 증 II"
+
+msgid "Flying Serpent Added III"
+msgstr "등사 증 III"
+
+msgid "Flying Serpent Added IV"
+msgstr "등사 증 IV"
+
+msgid "Flying Serpent Added V"
+msgstr "등사 증 V"
+
+msgid "Flying Serpent Added VI"
+msgstr "등사 증 V"
+
+msgid "Flying Serpent Added VII"
+msgstr "등사 증 VII"
+
+msgid "Flying Serpent Added VIII"
+msgstr "등사 증 VIII"
+
+msgid "Flying Serpent Added IX"
+msgstr "등사 증 IX"
+
+msgid "Flying Serpent Added X"
+msgstr "등사 증 X"
+
+msgid "Flying Serpent Added XI"
+msgstr "등사 증 XI"
+
+msgid "Flying Serpent Added XII"
+msgstr "등사 증 XII"
+
+msgid "Flying Serpent Added XIII"
+msgstr "등사 증 XIII"
+
+msgid "Flying Serpent Added XIV"
+msgstr "등사 증 XIV"
+
+msgid "Flying Serpent Added XV"
+msgstr "등사 증 XV"
+
+msgid "Flying Serpent Added XVI"
+msgstr "등사 증 XVI"
+
+msgid "Flying Serpent Added XVII"
+msgstr "등사 증 XVII"
+
+msgid "Flying Serpent Added XVIII"
+msgstr "등사 증 XVIII"
+
+msgid "Flying Serpent Added XIX"
+msgstr "등사 증 XIX"
+
+msgid "Thunder and Lightning I"
+msgstr "뇌전 I"
+
+msgid "Thunder and Lightning II"
+msgstr "뇌전 II"
+
+msgid "Thunder and Lightning III"
+msgstr "뇌전 III"
+
+msgid "Thunder and Lightning IV"
+msgstr "뇌전 IV"
+
+msgid "Thunder and Lightning V"
+msgstr "뇌전 V"
+
+msgid "Thunder and Lightning VI"
+msgstr "뇌전 VI"
+
+msgid "Thunder and Lightning Added I"
+msgstr "뇌전 증 I"
+
+msgid "Thunder and Lightning Added II"
+msgstr "뇌전 증 II"
+
+msgid "Thunder and Lightning Added III"
+msgstr "뇌전 증 III"
+
+msgid "Thunder and Lightning Added IV"
+msgstr "뇌전 증 IV"
+
+msgid "Thunder and Lightning Added V"
+msgstr "뇌전 증 V"
+
+msgid "Thunder and Lightning Added VI"
+msgstr "뇌전 증 VI"
+
+msgid "Thunder and Lightning Added VII"
+msgstr "뇌전 증 VII"
+
+msgid "Thunder and Lightning Added VIII"
+msgstr "뇌전 증 VIII"
+
+msgid "Official for Materials Supply I"
+msgstr "토공리 I"
+
+msgid "Official for Materials Supply II"
+msgstr "토공리 II"
+
+msgid "Line of Ramparts I"
+msgstr "누벽진 I"
+
+msgid "Line of Ramparts II"
+msgstr "누벽진 II"
+
+msgid "Line of Ramparts III"
+msgstr "누벽진 III"
+
+msgid "Line of Ramparts IV"
+msgstr "누벽진 IV"
+
+msgid "Line of Ramparts V"
+msgstr "누벽진 V"
+
+msgid "Line of Ramparts VI"
+msgstr "누벽진 VI"
+
+msgid "Line of Ramparts VII"
+msgstr "누벽진 VIII"
+
+msgid "Line of Ramparts VIII"
+msgstr "누벽진 VIII"
+
+msgid "Line of Ramparts IX"
+msgstr "누벽진 IX"
+
+msgid "Line of Ramparts X"
+msgstr "누벽진 X"
+
+msgid "Line of Ramparts XI"
+msgstr "누벽진 XI"
+
+msgid "Line of Ramparts XII"
+msgstr "누벽진 XII"
+
+msgid "Line of Ramparts Added I"
+msgstr "누벽진 증 I"
+
+msgid "Line of Ramparts Added II"
+msgstr "누벽진 증 II"
+
+msgid "Line of Ramparts Added III"
+msgstr "누벽진 증 III"
+
+msgid "Line of Ramparts Added IV"
+msgstr "누벽진 증 IV"
+
+msgid "Line of Ramparts Added V"
+msgstr "누벽진 증 V"
+
+msgid "Line of Ramparts Added VI"
+msgstr "누벽진 증 VI"
+
+msgid "Line of Ramparts Added VII"
+msgstr "누벽진 증 VII"
+
+msgid "Line of Ramparts Added VIII"
+msgstr "누벽진 VIII"
+
+msgid "Palace Guard I"
+msgstr "우림군 I"
+
+msgid "Palace Guard II"
+msgstr "우림군 II"
+
+msgid "Palace Guard III"
+msgstr "우림군 III"
+
+msgid "Palace Guard IV"
+msgstr "우림군 IV"
+
+msgid "Palace Guard V"
+msgstr "우림군 V"
+
+msgid "Palace Guard VI"
+msgstr "우림군 VI"
+
+msgid "Palace Guard VII"
+msgstr "우림군 VII"
+
+msgid "Palace Guard VIII"
+msgstr "우림군 VIII"
+
+msgid "Palace Guard IX"
+msgstr "우림군 IX"
+
+msgid "Palace Guard X"
+msgstr "우림군 X"
+
+msgid "Palace Guard XI"
+msgstr "우림군 XI"
+
+msgid "Palace Guard XII"
+msgstr "우림군 XII"
+
+msgid "Palace Guard XIII"
+msgstr "우림군 XIII"
+
+msgid "Palace Guard XIV"
+msgstr "우림군 XIV"
+
+msgid "Palace Guard XV"
+msgstr "우림군 XV"
+
+msgid "Palace Guard XVI"
+msgstr "우림군 XVI"
+
+msgid "Palace Guard XVII"
+msgstr "우림군 XVII"
+
+msgid "Palace Guard XVIII"
+msgstr "우림군 XVIII"
+
+msgid "Palace Guard XIX"
+msgstr "우림군 XIX"
+
+msgid "Palace Guard XX"
+msgstr "우림군 XX"
+
+msgid "Palace Guard XXI"
+msgstr "우림군 XXI"
+
+msgid "Palace Guard XXII"
+msgstr "우림군 XXII"
+
+msgid "Palace Guard XXIII"
+msgstr "우림군 XXIII"
+
+msgid "Palace Guard XXIV"
+msgstr "우림군 XXIV"
+
+msgid "Palace Guard XXV"
+msgstr "우림군 XXV"
+
+msgid "Palace Guard XXVI"
+msgstr "우림군 XXVI"
+
+msgid "Palace Guard XXVII"
+msgstr "우림군 XXVII"
+
+msgid "Palace Guard XXVIII"
+msgstr "우림군 XXVIII"
+
+msgid "Palace Guard XXIX"
+msgstr "우림군 XXI"
+
+msgid "Palace Guard XXX"
+msgstr "우림군 XXX"
+
+msgid "Palace Guard XXXI"
+msgstr "우림군 XXXI"
+
+msgid "Palace Guard XXXII"
+msgstr "우림군 XXXII"
+
+msgid "Palace Guard XXXIII"
+msgstr "우림군 XXXIII"
+
+msgid "Palace Guard XXXIV"
+msgstr "우림군 XXXIV"
+
+msgid "Palace Guard XXXV"
+msgstr "우림군 XXXV"
+
+msgid "Palace Guard XXXVI"
+msgstr "우림군 XXXVI"
+
+msgid "Palace Guard XXXVII"
+msgstr "우림군 XXXVII"
+
+msgid "Palace Guard XXXVIII"
+msgstr "우림군 XXXVIII"
+
+msgid "Palace Guard XXXIX"
+msgstr "우림군 XXXIX"
+
+msgid "Palace Guard XL"
+msgstr "우림군 XL"
+
+msgid "Palace Guard XLI"
+msgstr "우림군 XLI"
+
+msgid "Palace Guard XLII"
+msgstr "우림군 XLII"
+
+msgid "Palace Guard XLIII"
+msgstr "우림군 XLIII"
+
+msgid "Palace Guard XLIV"
+msgstr "우림군 XLIV"
+
+msgid "Palace Guard XLV"
+msgstr "우림군 XLV"
+
+msgid "Axe I"
+msgstr "부월 I"
+
+msgid "Axe II"
+msgstr "부월 II"
+
+msgid "Axe III"
+msgstr "부월 III"
+
+msgid "Axe Added I"
+msgstr "부월 증 I"
+
+msgid "Axe Added II"
+msgstr "부월 증 II"
+
+msgid "Axe Added III"
+msgstr "부월 증 III"
+
+msgid "Net for Catching Birds I"
+msgstr "팔괴 I"
+
+msgid "Net for Catching Birds II"
+msgstr "팔괴 II"
+
+msgid "Net for Catching Birds III"
+msgstr "팔괴 III"
+
+msgid "Net for Catching Birds IV"
+msgstr "팔괴 IV"
+
+msgid "Net for Catching Birds V"
+msgstr "팔괴 V"
+
+msgid "Net for Catching Birds VI"
+msgstr "팔괴 VI"
+
+msgid "Wall I"
+msgstr "벽 I"
+
+msgid "Wall II"
+msgstr "벽 II"
+
+msgid "Wall Added I"
+msgstr "벽 증 I"
+
+msgid "Wall Added II"
+msgstr "벽 증 II"
+
+msgid "Wall Added III"
+msgstr "벽 증 III"
+
+msgid "Wall Added IV"
+msgstr "벽 증 IV"
+
+msgid "Wall Added V"
+msgstr "벽 증 V"
+
+msgid "Wall Added VI"
+msgstr "벽 증 VI"
+
+msgid "Wall Added VII"
+msgstr "벽 증 VII"
+
+msgid "Wall Added VIII"
+msgstr "벽 증 VIII"
+
+msgid "Wall Added IX"
+msgstr "벽 증 IX"
+
+msgid "Wall Added X"
+msgstr "벽 증 X"
+
+msgid "Wall Added XI"
+msgstr "벽 증 XI"
+
+msgid "Wall Added XII"
+msgstr "벽 증 XII"
+
+msgid "Wall Added XIII"
+msgstr "벽 증 XIII"
+
+msgid "Wall Added XIV"
+msgstr "벽 증 XIV"
+
+msgid "Wall Added XV"
+msgstr "벽 증 XV"
+
+msgid "Wall Added XVI"
+msgstr "벽 증 XVI"
+
+msgid "Wall Added XVII"
+msgstr "벽 증 XVII"
+
+msgid "Wall Added XVIII"
+msgstr "벽 증 XVIII"
+
+msgid "Wall Added XIX"
+msgstr "벽 증 XIX"
+
+msgid "Wall Added XX"
+msgstr "벽 증 XX"
+
+msgid "Wall Added XXI"
+msgstr "벽 증 XXI"
+
+msgid "Wall Added XXII"
+msgstr "벽 증 XXII"
+
+msgid "Wall Added XXIII"
+msgstr "벽 증 XXIII"
+
+msgid "Celestial Stable I"
+msgstr "천구 I"
+
+msgid "Celestial Stable II"
+msgstr "천구 II"
+
+msgid "Celestial Stable III"
+msgstr "천구 III"
+
+msgid "Celestial Stable Added I"
+msgstr "천구 증 I"
+
+msgid "Official for Earthworks and Buildings I"
+msgstr "토공 I"
+
+msgid "Official for Earthworks and Buildings II"
+msgstr "토공 II"
+
+msgid "Official for Earthworks and Buildings Added I"
+msgstr "토공 증 I"
+
+msgid "Official for Earthworks and Buildings Added II"
+msgstr "토공 증 II"
+
+msgid "Official for Earthworks and Buildings Added III"
+msgstr "토공 증 III"
+
+msgid "Official for Earthworks and Buildings Added IV"
+msgstr "토공 증 IV"
+
+msgid "Official for Earthworks and Buildings Added V"
+msgstr "토공 증 V"
+
+msgid "Official for Earthworks and Buildings Added VI"
+msgstr "토공 증 VI"
+
+msgid "Official for Earthworks and Buildings Added VII"
+msgstr "토공 증 VII"
+
+msgid "Official for Earthworks and Buildings Added VIII"
+msgstr "토공 증 VIII"
+
+msgid "Official for Earthworks and Buildings Added IX"
+msgstr "토공 증 IX"
+
+msgid "Official for Earthworks and Buildings Added X"
+msgstr "토공 증 X"
+
+msgid "Official for Earthworks and Buildings Added XI"
+msgstr "토공 증 XI"
+
+msgid "Thunderbolt I"
+msgstr "벽력 I"
+
+msgid "Thunderbolt II"
+msgstr "벽력 II"
+
+msgid "Thunderbolt III"
+msgstr "벽력 III"
+
+msgid "Thunderbolt IV"
+msgstr "벽력 IV"
+
+msgid "Thunderbolt V"
+msgstr "벽력 V"
+
+msgid "Thunderbolt Added I"
+msgstr "벽력 증 I"
+
+msgid "Thunderbolt Added II"
+msgstr "벽력 증 II"
+
+msgid "Thunderbolt Added III"
+msgstr "벽력 증 III"
+
+msgid "Thunderbolt Added IV"
+msgstr "벽력 증 IV"
+
+msgid "Thunderbolt Added V"
+msgstr "벽력 증 V"
+
+msgid "Thunderbolt Added VI"
+msgstr "벽력 증 VI"
+
+msgid "Thunderbolt Added VII"
+msgstr "벽력 증 VII"
+
+msgid "Thunderbolt Added VIII"
+msgstr "벽력 증 VIII"
+
+msgid "Cloud and Rain I"
+msgstr "운우 I"
+
+msgid "Cloud and Rain II"
+msgstr "운우 II"
+
+msgid "Cloud and Rain III"
+msgstr "운우 III"
+
+msgid "Cloud and Rain IV"
+msgstr "운우 IV"
+
+msgid "Cloud and Rain Added I"
+msgstr "운우 증 I"
+
+msgid "Cloud and Rain Added II"
+msgstr "운우 증 II"
+
+msgid "Cloud and Rain Added III"
+msgstr "운우 증 III"
+
+msgid "Cloud and Rain Added IV"
+msgstr "운우 증 IV"
+
+msgid "Cloud and Rain Added V"
+msgstr "운우 증 V"
+
+msgid "Cloud and Rain Added VI"
+msgstr "운우 증 VI"
+
+msgid "Cloud and Rain Added VII"
+msgstr "운우 증 VII"
+
+msgid "Cloud and Rain Added VIII"
+msgstr "운우 증 VIII"
+
+msgid "Cloud and Rain Added IX"
+msgstr "운우 증 IX"
+
+msgid "Cloud and Rain Added X"
+msgstr "운우 증 X"
+
+msgid "Sickle I"
+msgstr "부질 "
+
+msgid "Sickle II?"
+msgstr "부질 II?"
+
+msgid "Sickle IV"
+msgstr "부질 IV"
+
+msgid "Sickle V"
+msgstr "부질 V"
+
+msgid "Legs I"
+msgstr "규 I"
+
+msgid "Legs II"
+msgstr "규 II"
+
+msgid "Legs III"
+msgstr "규 III"
+
+msgid "Legs IV"
+msgstr "규 IV"
+
+msgid "Legs V"
+msgstr "규 V"
+
+msgid "Legs VI"
+msgstr "규 VI"
+
+msgid "Legs VII"
+msgstr "규 VII"
+
+msgid "Legs VIII"
+msgstr "규 VIII"
+
+msgid "Legs IX"
+msgstr "규 IX"
+
+msgid "Legs X"
+msgstr "규 X"
+
+msgid "Legs XI"
+msgstr "규 XI"
+
+msgid "Legs XII"
+msgstr "규 XII"
+
+msgid "Legs XIII"
+msgstr "규 XIII"
+
+msgid "Legs XIV"
+msgstr "규 XIV"
+
+msgid "Legs XV"
+msgstr "규 XV"
+
+msgid "Legs XVI"
+msgstr "규 XVI"
+
+msgid "Legs Added I"
+msgstr "규 증 I"
+
+msgid "Legs Added II"
+msgstr "규 증 II"
+
+msgid "Legs Added III"
+msgstr "규 증 III"
+
+msgid "Legs Added IV"
+msgstr "규 증 IV"
+
+msgid "Legs Added V"
+msgstr "규 증 V"
+
+msgid "Legs Added VI"
+msgstr "규 증 VI"
+
+msgid "Legs Added VII"
+msgstr "규 증 VII"
+
+msgid "Legs Added VIII"
+msgstr "규 증 VIII"
+
+msgid "Legs Added IX"
+msgstr "규 증 IX"
+
+msgid "Legs Added X"
+msgstr "규 증 X"
+
+msgid "Legs Added XI"
+msgstr "규 증 XI"
+
+msgid "Legs Added XII"
+msgstr "규 증 XII"
+
+msgid "Legs Added XIII"
+msgstr "규 증 XIII"
+
+msgid "Legs Added XIV"
+msgstr "규 증 XIV"
+
+msgid "Legs Added XV"
+msgstr "규 증 XV"
+
+msgid "Legs Added XVI"
+msgstr "규 증 XVI"
+
+msgid "Legs Added XVII"
+msgstr "규 증 XVII"
+
+msgid "Legs Added XVIII"
+msgstr "규 증 XVIII"
+
+msgid "Legs Added XIX"
+msgstr "규 증 XIX"
+
+msgid "Legs Added XX"
+msgstr "규 증 XX"
+
+msgid "Legs Added XXII"
+msgstr "규 증 XXII"
+
+msgid "Legs Added XXIII"
+msgstr "규 증 XXIII"
+
+msgid "Wang Liang I"
+msgstr "왕량 I"
+
+msgid "Wang Liang II"
+msgstr "왕량 II"
+
+msgid "Wang Liang III"
+msgstr "왕량 III"
+
+msgid "Wang Liang IV"
+msgstr "왕량 IV"
+
+msgid "Wang Liang V"
+msgstr "왕량 V"
+
+msgid "Wang Liang Added I"
+msgstr "왕량 증 I"
+
+msgid "Wang Liang Added II"
+msgstr "왕량 증 II"
+
+msgid "Wang Liang Added III"
+msgstr "왕량 증 III"
+
+msgid "Wang Liang Added IV"
+msgstr "왕량 증 IV"
+
+msgid "Wang Liang Added V"
+msgstr "왕량 증 V"
+
+msgid "Wang Liang Added VI"
+msgstr "왕량 증 VI"
+
+msgid "Wang Liang Added VII"
+msgstr "왕량 증 VII"
+
+msgid "Wang Liang Added VIII"
+msgstr "왕량 증 VIII"
+
+msgid "Wang Liang Added IX"
+msgstr "왕량 증 IX"
+
+msgid "Wang Liang Added X"
+msgstr "왕량 증 X"
+
+msgid "Wang Liang Added XI"
+msgstr "왕량 증 XI"
+
+msgid "Wang Liang Added XII"
+msgstr "왕량 증 XII"
+
+msgid "Wang Liang Added XIII"
+msgstr "왕량 증 XIII"
+
+msgid "Wang Liang Added XIV"
+msgstr "왕량 증 XIV"
+
+msgid "Flying Corridor I"
+msgstr "각도 I"
+
+msgid "Flying Corridor II"
+msgstr "각도 II"
+
+msgid "Flying Corridor III"
+msgstr "각도 III"
+
+msgid "Flying Corridor IV"
+msgstr "각도 IV"
+
+msgid "Flying Corridor V"
+msgstr "각도 V"
+
+msgid "Flying Corridor VI"
+msgstr "각도 VI"
+
+msgid "Flying Corridor Added I"
+msgstr "각도 증 I"
+
+msgid "Flying Corridor Added II"
+msgstr "각도 증 II"
+
+msgid "Flying Corridor Added III"
+msgstr "각도 증 III"
+
+msgid "Flying Corridor Added IV"
+msgstr "각도 증 IV"
+
+msgid "Flying Corridor Added V"
+msgstr "각도 증 V"
+
+msgid "Outer Fence I"
+msgstr "외병 I"
+
+msgid "Outer Fence II"
+msgstr "외병 II"
+
+msgid "Outer Fence III"
+msgstr "외병 III"
+
+msgid "Outer Fence IV"
+msgstr "외병 IV"
+
+msgid "Outer Fence V"
+msgstr "외병 V"
+
+msgid "Outer Fence VI"
+msgstr "외병 VI"
+
+msgid "Outer Fence VII"
+msgstr "외병 VII"
+
+msgid "Outer Fence Added I"
+msgstr "외병 증 I"
+
+msgid "Outer Fence Added II"
+msgstr "외병 증 II"
+
+msgid "Outer Fence Added III"
+msgstr "외병 증 III"
+
+msgid "Outer Fence Added IV"
+msgstr "외병 증 IV"
+
+msgid "Outer Fence Added V"
+msgstr "외병 증 V"
+
+msgid "Outer Fence Added VI"
+msgstr "외병 증 VI"
+
+msgid "Outer Fence Added VII"
+msgstr "외병 증 VII"
+
+msgid "Outer Fence Added VIII"
+msgstr "외병 증 VIII"
+
+msgid "Outer Fence Added IX"
+msgstr "외병 증 I"
+
+msgid "Outer Fence Added X"
+msgstr "오병 증 X"
+
+msgid "Outer Fence Added XI"
+msgstr "외병 증 XI"
+
+msgid "Outer Fence Added XII"
+msgstr "외병 증 XII"
+
+msgid "Outer Fence Added XIII"
+msgstr "외병 증 XIII"
+
+msgid "Outer Fence Added XIV"
+msgstr "외병 증 XIV"
+
+msgid "Outer Fence Added XV"
+msgstr "외병 증 XV"
+
+msgid "Celestial Pigsty I"
+msgstr "천혼 I"
+
+msgid "Celestial Pigsty II"
+msgstr "천혼 II"
+
+msgid "Celestial Pigsty III"
+msgstr "천혼 III"
+
+msgid "Celestial Pigsty IV"
+msgstr "천혼 IV"
+
+msgid "Celestial Pigsty Added I"
+msgstr "천혼 증 I"
+
+msgid "Celestial Pigsty Added II"
+msgstr "천혼 증 II"
+
+msgid "Celestial Pigsty Added III"
+msgstr "천혼 증 III"
+
+msgid "Celestial Pigsty Added IV"
+msgstr "천혼 증 IV"
+
+msgid "Celestial Pigsty Added V"
+msgstr "천혼 증 V"
+
+msgid "Celestial Pigsty Added VI"
+msgstr "천혼 증 VI"
+
+msgid "Bond I"
+msgstr "누 I"
+
+msgid "Bond II"
+msgstr "누 II"
+
+msgid "Bond III"
+msgstr "누 III"
+
+msgid "Bond Added I"
+msgstr "누 증 I"
+
+msgid "Bond Added II"
+msgstr "누 증 II"
+
+msgid "Bond Added III"
+msgstr "누 증 III"
+
+msgid "Bond Added V"
+msgstr "누 증 V"
+
+msgid "Bond Added VI"
+msgstr "누 증 VI"
+
+msgid "Bond Added VII"
+msgstr "누 증 VII"
+
+msgid "Bond Added VIII"
+msgstr "누 증 VIII"
+
+msgid "Bond Added IX"
+msgstr "누 증 IX"
+
+msgid "Bond Added X"
+msgstr "누 증 X"
+
+msgid "Bond Added XI"
+msgstr "누 증 XI"
+
+msgid "Bond Added XII"
+msgstr "누 증 XII"
+
+msgid "Bond Added XIII"
+msgstr "누 증 XIII"
+
+msgid "Bond Added XIV"
+msgstr "누 증 XIV"
+
+msgid "Bond Added XV"
+msgstr "누 증 XV"
+
+msgid "Great General of Heaven I"
+msgstr "천대장군 I"
+
+msgid "Great General of Heaven II"
+msgstr "천대장군 II"
+
+msgid "Great General of Heaven III"
+msgstr "천대장군 III"
+
+msgid "Great General of Heaven IV"
+msgstr "천대장군 IV"
+
+msgid "Great General of Heaven V"
+msgstr "천대장군 V"
+
+msgid "Great General of Heaven VI"
+msgstr "천대장군 VI"
+
+msgid "Great General of Heaven VII"
+msgstr "천대장군 VII"
+
+msgid "Great General of Heaven VIII"
+msgstr "천대장군 VIII"
+
+msgid "Great General of Heaven IX"
+msgstr "천대장군 IX"
+
+msgid "Great General of Heaven X"
+msgstr "천대장군 "
+
+msgid "Great General of Heaven XI"
+msgstr "천대장군 XI"
+
+msgid "Great General of Heaven Added I"
+msgstr "천대장군 증 I"
+
+msgid "Great General of Heaven Added II"
+msgstr "천대장군 증 II"
+
+msgid "Great General of Heaven Added III"
+msgstr "천대장군 증 III"
+
+msgid "Great General of Heaven Added IV"
+msgstr "천대장군 증 IV"
+
+msgid "Great General of Heaven Added V"
+msgstr "천대장군 증 V"
+
+msgid "Great General of Heaven Added VI"
+msgstr "천대장군 증 VI"
+
+msgid "Great General of Heaven Added VII"
+msgstr "천대장군 증 VII"
+
+msgid "Great General of Heaven Added VIII"
+msgstr "천대장군 증 VIII"
+
+msgid "Great General of Heaven Added IX"
+msgstr "천대장군 증 IX"
+
+msgid "Great General of Heaven Added X"
+msgstr "천대장군 증 X"
+
+msgid "Great General of Heaven Added XI"
+msgstr "천대장군 증 XI"
+
+msgid "Great General of Heaven Added XII"
+msgstr "천대장군 증 XII"
+
+msgid "Great General of Heaven Added XIII"
+msgstr "천대장군 증 XIII"
+
+msgid "Great General of Heaven Added XIV"
+msgstr "천대장군 증 XIV"
+
+msgid "Great General of Heaven Added XV"
+msgstr "천대장군 증 XV"
+
+msgid "Great General of Heaven Added XVI"
+msgstr "천대장군 XVI"
+
+msgid "Great General of Heaven Added XVII"
+msgstr "천대장군 XVII"
+
+msgid "Official in Charge of Pasturing I"
+msgstr "우경 I"
+
+msgid "Official in Charge of Pasturing II"
+msgstr "우경 II"
+
+msgid "Official in Charge of Pasturing III"
+msgstr "우경 III"
+
+msgid "Official in Charge of Pasturing IV"
+msgstr "우경 IV"
+
+msgid "Official in Charge of Pasturing V"
+msgstr "우경 V"
+
+msgid "Official in Charge of Pasturing Added I"
+msgstr "우경 증 I"
+
+msgid "Official in Charge of Pasturing Added II"
+msgstr "우경 증 II"
+
+msgid "Official in Charge of Pasturing Added III"
+msgstr "우경 증 III"
+
+msgid "Official in Charge of Pasturing Added IV"
+msgstr "우경 증 IV"
+
+msgid "Official in Charge of Pasturing Added V"
+msgstr "우경 증 V"
+
+msgid "Official in Charge of the Forest I"
+msgstr "좌경 I"
+
+msgid "Official in Charge of the Forest II"
+msgstr "좌경 II"
+
+msgid "Official in Charge of the Forest III"
+msgstr "좌경 III"
+
+msgid "Official in Charge of the Forest IV"
+msgstr "좌경 IV"
+
+msgid "Official in Charge of the Forest V"
+msgstr "좌경 V"
+
+msgid "Official in Charge of the Forest Added I"
+msgstr "좌경 증 I"
+
+msgid "Official in Charge of the Forest Added II"
+msgstr "좌경 증 II"
+
+msgid "Official in Charge of the Forest Added III"
+msgstr "좌경 증 III"
+
+msgid "Official in Charge of the Forest Added IV"
+msgstr "좌경 증 IV"
+
+msgid "Official in Charge of the Forest Added V"
+msgstr "좌경 증 V"
+
+msgid "Official in Charge of the Forest Added VI"
+msgstr "좌경 증 VI"
+
+msgid "Official in Charge of the Forest Added VII"
+msgstr "좌경 증 VII"
+
+msgid "Official in Charge of the Forest Added VIII"
+msgstr "좌경 증 VIII"
+
+msgid "Square Celestial Granary I"
+msgstr "천창 I"
+
+msgid "Square Celestial Granary II"
+msgstr "천창 II"
+
+msgid "Square Celestial Granary III"
+msgstr "천창 III"
+
+msgid "Square Celestial Granary IV"
+msgstr "천창 IV"
+
+msgid "Square Celestial Granary V"
+msgstr "천창 V"
+
+msgid "Square Celestial Granary VI"
+msgstr "천창 VI"
+
+msgid "Square Celestial Granary Added I"
+msgstr "천창 증 "
+
+msgid "Square Celestial Granary Added II"
+msgstr "천창 증 II"
+
+msgid "Square Celestial Granary Added III"
+msgstr "천창 증 III"
+
+msgid "Square Celestial Granary Added IV"
+msgstr "천창 증 IV"
+
+msgid "Square Celestial Granary Added V"
+msgstr "천창 증 V"
+
+msgid "Square Celestial Granary Added VI"
+msgstr "천창 증 VI"
+
+msgid "Square Celestial Granary Added VII"
+msgstr "천창 증 VII"
+
+msgid "Square Celestial Granary Added VIII"
+msgstr "천창 증 VIII"
+
+msgid "Square Celestial Granary Added IX"
+msgstr "천창 증 IX"
+
+msgid "Square Celestial Granary Added X"
+msgstr "천창 증 X"
+
+msgid "Square Celestial Granary Added XI"
+msgstr "천창 증 X"
+
+msgid "Square Celestial Granary Added XII"
+msgstr "천창 증 XII"
+
+msgid "Square Celestial Granary Added XIII"
+msgstr "천창 증 XIII"
+
+msgid "Square Celestial Granary Added XIV"
+msgstr "천창 증 XIV"
+
+msgid "Square Celestial Granary Added XV"
+msgstr "천창 증 XV"
+
+msgid "Square Celestial Granary Added XVI"
+msgstr "천창 증 XVI"
+
+msgid "Square Celestial Granary Added XVII"
+msgstr "천창 증 XVII"
+
+msgid "Square Celestial Granary Added XVIII"
+msgstr "천창 증 XVIII"
+
+msgid "Square Celestial Granary Added XIX"
+msgstr "천창 증 XIX"
+
+msgid "Square Celestial Granary Added XX"
+msgstr "천창 증 X"
+
+msgid "Square Celestial Granary Added XXI"
+msgstr "천창 증 XXI"
+
+msgid "Ricks of Grain I*"
+msgstr "천유 I*"
+
+msgid "Ricks of Grain II*"
+msgstr "천유 II*"
+
+msgid "Ricks of Grain III*"
+msgstr "천유 III*"
+
+msgid "Ricks of Grain Added II?"
+msgstr "천유 증 II?"
+
+msgid "Ricks of Grain Added III?"
+msgstr "천유 증 III?"
+
+msgid "Stomach I"
+msgstr "위 I"
+
+msgid "Stomach II"
+msgstr "위 II"
+
+msgid "Stomach III"
+msgstr "위 III"
+
+msgid "Stomach Added I"
+msgstr "위 증 I"
+
+msgid "Stomach Added II"
+msgstr "위 증 II"
+
+msgid "Stomach Added III"
+msgstr "위 증 III"
+
+msgid "Stomach Added IV"
+msgstr "위 증 IV"
+
+msgid "Stomach Added V"
+msgstr "위 증 V"
+
+msgid "Mausoleum I"
+msgstr "대릉 I"
+
+msgid "Mausoleum II"
+msgstr "대릉 II"
+
+msgid "Mausoleum III"
+msgstr "대릉 III"
+
+msgid "Mausoleum IV"
+msgstr "대릉 IV"
+
+msgid "Mausoleum V"
+msgstr "대릉 V"
+
+msgid "Mausoleum VI"
+msgstr "대릉 VI"
+
+msgid "Mausoleum VII"
+msgstr "대릉 VII"
+
+msgid "Mausoleum VIII"
+msgstr "대릉 VIII"
+
+msgid "Mausoleum Added I"
+msgstr "대릉 증 I"
+
+msgid "Mausoleum Added II"
+msgstr "대릉 증 II"
+
+msgid "Mausoleum Added III"
+msgstr "대릉 증 III"
+
+msgid "Mausoleum Added IV"
+msgstr "대릉 증 IV"
+
+msgid "Mausoleum Added V"
+msgstr "대릉 증 V"
+
+msgid "Mausoleum Added VI"
+msgstr "대릉 증 VI"
+
+msgid "Mausoleum Added VII"
+msgstr "대릉 증 VII"
+
+msgid "Mausoleum Added VIII"
+msgstr "대릉 증 VIII"
+
+msgid "Mausoleum Added IX"
+msgstr "대릉 증 IX"
+
+msgid "Mausoleum Added X"
+msgstr "대릉 증 X"
+
+msgid "Mausoleum Added XI"
+msgstr "대릉 증 XI"
+
+msgid "Mausoleum Added XIII"
+msgstr "대릉 증 XIII"
+
+msgid "Mausoleum Added XIV"
+msgstr "대릉 증 XIV"
+
+msgid "Mausoleum Added XV"
+msgstr "대릉 증 XV"
+
+msgid "Mausoleum Added XVI"
+msgstr "대릉 증 XVI"
+
+msgid "Mausoleum Added XVII"
+msgstr "대릉 증 XVII"
+
+msgid "Mausoleum Added XVIII"
+msgstr "대릉 증 XVIII"
+
+msgid "Mausoleum Added XIX"
+msgstr "대릉 증 XIX"
+
+msgid "Mausoleum Added XX"
+msgstr "대릉 증 XX"
+
+msgid "Mausoleum Added XXI"
+msgstr "대릉 증 XXI"
+
+msgid "Celestial Boat I"
+msgstr "천선 I"
+
+msgid "Celestial Boat II"
+msgstr "천선 II"
+
+msgid "Celestial Boat III"
+msgstr "천선 III"
+
+msgid "Celestial Boat IV"
+msgstr "천선 IV"
+
+msgid "Celestial Boat V"
+msgstr "천선 V"
+
+msgid "Celestial Boat VI"
+msgstr "천선 VI"
+
+msgid "Celestial Boat VII"
+msgstr "천선 VII"
+
+msgid "Celestial Boat VIII"
+msgstr "천선 VIII"
+
+msgid "Celestial Boat IX"
+msgstr "천선 IX"
+
+msgid "Celestial Boat Added I"
+msgstr "천선 증 I"
+
+msgid "Celestial Boat Added II"
+msgstr "천선 증 II"
+
+msgid "Celestial Boat Added III"
+msgstr "천선 증 III"
+
+msgid "Celestial Boat Added IV"
+msgstr "천선 증 IV"
+
+msgid "Celestial Boat Added V"
+msgstr "천선 증 V"
+
+msgid "Celestial Boat Added VI"
+msgstr "천선 증 VI"
+
+msgid "Celestial Boat Added VII"
+msgstr "천선 증 VII"
+
+msgid "Celestial Boat Added VIII"
+msgstr "천선 증 VIII"
+
+msgid "Celestial Boat Added IX"
+msgstr "천선 증 IX"
+
+msgid "Celestial Boat Added X"
+msgstr "천선 증 X"
+
+msgid "Stored Water"
+msgstr "적수(積水)"
+
+msgid "Stored Water Added I"
+msgstr "적수 증 I"
+
+msgid "Celestial Foodstuff I"
+msgstr "천름 I"
+
+msgid "Celestial Foodstuff II"
+msgstr "천름 II"
+
+msgid "Celestial Foodstuff III"
+msgstr "천름 III"
+
+msgid "Celestial Foodstuff IV"
+msgstr "천름 IV"
+
+msgid "Celestial Foodstuff Added I"
+msgstr "천름 증 I"
+
+msgid "Celestial Foodstuff Added II"
+msgstr "천름 증 II"
+
+msgid "Celestial Foodstuff Added III"
+msgstr "천름 증 III"
+
+msgid "Circular Celestial Granary I"
+msgstr "천균 I"
+
+msgid "Circular Celestial Granary II"
+msgstr "천균 II"
+
+msgid "Circular Celestial Granary III"
+msgstr "천균 III"
+
+msgid "Circular Celestial Granary IV"
+msgstr "천균 IV"
+
+msgid "Circular Celestial Granary V"
+msgstr "천균 V"
+
+msgid "Circular Celestial Granary VI"
+msgstr "천균 VI"
+
+msgid "Circular Celestial Granary VII"
+msgstr "천균 VII"
+
+msgid "Circular Celestial Granary VIII"
+msgstr "천균 VIII"
+
+msgid "Circular Celestial Granary IX"
+msgstr "천균 IX"
+
+msgid "Circular Celestial Granary X"
+msgstr "천균 X"
+
+msgid "Circular Celestial Granary XI"
+msgstr "천균 XI"
+
+msgid "Circular Celestial Granary XII"
+msgstr "천균 XII"
+
+msgid "Circular Celestial Granary XIII"
+msgstr "천균 XIII"
+
+msgid "Circular Celestial Granary Added I"
+msgstr "천균 증 I"
+
+msgid "Circular Celestial Granary Added II"
+msgstr "천균 증 II"
+
+msgid "Circular Celestial Granary Added III"
+msgstr "천균 증 III"
+
+msgid "Circular Celestial Granary Added IV"
+msgstr "천균 증 IV"
+
+msgid "Circular Celestial Granary Added V"
+msgstr "천균 증 V"
+
+msgid "Circular Celestial Granary Added VI"
+msgstr "천균 증 VI"
+
+msgid "Circular Celestial Granary Added VII"
+msgstr "천균 증 VII"
+
+msgid "Circular Celestial Granary Added VIII"
+msgstr "천균 증 VIII"
+
+msgid "Circular Celestial Granary Added IX"
+msgstr "천균 증 IX"
+
+msgid "Circular Celestial Granary Added X"
+msgstr "천균 증 "
+
+msgid "Circular Celestial Granary Added XI"
+msgstr "천균 증 XI"
+
+msgid "Circular Celestial Granary Added XII"
+msgstr "천균 증 XII"
+
+msgid "Circular Celestial Granary Added XIII"
+msgstr "천균 증 XIII"
+
+msgid "Circular Celestial Granary Added XIV"
+msgstr "천균 증 XIV"
+
+msgid "Circular Celestial Granary Added XV"
+msgstr "천균 증 XV"
+
+msgid "Circular Celestial Granary Added XVI"
+msgstr "천균 증 XVI"
+
+msgid "Circular Celestial Granary Added XVII"
+msgstr "천균 증 XVII"
+
+msgid "Circular Celestial Granary Added XVIII"
+msgstr "천균 증 XVIII"
+
+msgid "Circular Celestial Granary Added XIX"
+msgstr "천균 증 XIX"
+
+msgid "Circular Celestial Granary Added XX"
+msgstr "천균 증 XX"
+
+msgid "Circular Celestial Granary Added XXI"
+msgstr "천균 증 XXI"
+
+msgid "Hairy Head I"
+msgstr "묘 I"
+
+msgid "Hairy Head II"
+msgstr "묘 II"
+
+msgid "Hairy Head III"
+msgstr "묘 III"
+
+msgid "Hairy Head IV"
+msgstr "묘 IV"
+
+msgid "Hairy Head V"
+msgstr "묘 V"
+
+msgid "Hairy Head VI"
+msgstr "묘 VI"
+
+msgid "Hairy Head VII"
+msgstr "묘 VII"
+
+msgid "Hairy Head Added I"
+msgstr "묘 증 I"
+
+msgid "Hairy Head Added II"
+msgstr "묘 증 II"
+
+msgid "Hairy Head Added III"
+msgstr "묘 증 III"
+
+msgid "Hairy Head Added IV*"
+msgstr "묘 증 IV*"
+
+msgid "Hairy Head Added V"
+msgstr "묘 증 V"
+
+msgid "Hairy Head Added VIII"
+msgstr "묘 증 VIII"
+
+msgid "Hairy Head Added IX"
+msgstr "묘 증 IX"
+
+msgid "Hairy Head Added XI"
+msgstr "묘 증 XI"
+
+msgid "Hairy Head Added XII"
+msgstr "묘 증 XII"
+
+msgid "Hairy Head Added XIII"
+msgstr "묘 증 XIII"
+
+msgid "Lunar Star Added I"
+msgstr "월 증 I"
+
+msgid "Rolled Tongue I"
+msgstr "권설 I"
+
+msgid "Rolled Tongue II"
+msgstr "권설 II"
+
+msgid "Rolled Tongue III"
+msgstr "권설 III"
+
+msgid "Rolled Tongue IV"
+msgstr "권설 IV"
+
+msgid "Rolled Tongue V"
+msgstr "권설 V"
+
+msgid "Rolled Tongue VI"
+msgstr "권설 VI"
+
+msgid "Rolled Tongue Added I"
+msgstr "권설 증 I"
+
+msgid "Rolled Tongue Added II"
+msgstr "권설 증 II"
+
+msgid "Rolled Tongue Added III"
+msgstr "권설 증 III"
+
+msgid "Rolled Tongue Added IV"
+msgstr "권설 증 IV"
+
+msgid "Rolled Tongue Added V"
+msgstr "권설 증 V"
+
+msgid "Rolled Tongue Added VI"
+msgstr "권설 증 VI"
+
+msgid "Rolled Tongue Added VII"
+msgstr "권설 증 VII"
+
+msgid "Whetstone I"
+msgstr "여석 I"
+
+msgid "Whetstone II"
+msgstr "여석 II"
+
+msgid "Whetstone III"
+msgstr "여석 III"
+
+msgid "Whetstone IV"
+msgstr "여석 IV"
+
+msgid "Celestial Yin Force II"
+msgstr "천음 II"
+
+msgid "Celestial Yin Force III"
+msgstr "천음 III"
+
+msgid "Celestial Yin Force IV"
+msgstr "천음 IV"
+
+msgid "Celestial Yin Force V*"
+msgstr "천음 V*"
+
+msgid "Celestial Yin Force Added I"
+msgstr "천음 증 I"
+
+msgid "Celestial Yin Force Added II"
+msgstr "천음 증 II"
+
+msgid "Celestial Yin Force Added III"
+msgstr "천음 증 III"
+
+msgid "Celestial Yin Force Added IV"
+msgstr "천음 증 IV"
+
+msgid "Celestial Yin Force Added V"
+msgstr "천음 증 V"
+
+msgid "Celestial Yin Force Added VI"
+msgstr "천음 증 VI"
+
+msgid "Hay I"
+msgstr "추고 I"
+
+msgid "Hay II"
+msgstr "추고 II"
+
+msgid "Hay III"
+msgstr "추고 III"
+
+msgid "Hay IV"
+msgstr "추고 IV"
+
+msgid "Hay V"
+msgstr "추고 V"
+
+msgid "Hay VI"
+msgstr "추고 VI"
+
+msgid "Hay Added I"
+msgstr "추고 증 I"
+
+msgid "Hay Added II"
+msgstr "추고 증 II"
+
+msgid "Hay Added III"
+msgstr "추고 증 III"
+
+msgid "Hay Added IV"
+msgstr "추고 증 IV"
+
+msgid "Hay Added V"
+msgstr "추고 증 V"
+
+msgid "Celestial Meadows I"
+msgstr "천원 I"
+
+msgid "Celestial Meadows II"
+msgstr "천원 II"
+
+msgid "Celestial Meadows III"
+msgstr "천원 III"
+
+msgid "Celestial Meadows IV"
+msgstr "천원 IV"
+
+msgid "Celestial Meadows V"
+msgstr "천원 V"
+
+msgid "Celestial Meadows VI"
+msgstr "천원 VI"
+
+msgid "Celestial Meadows VII"
+msgstr "천원 VII"
+
+msgid "Celestial Meadows VIII"
+msgstr "천원 VIII"
+
+msgid "Celestial Meadows IX"
+msgstr "천원 I"
+
+msgid "Celestial Meadows X"
+msgstr "천원 X"
+
+msgid "Celestial Meadows XI"
+msgstr "천원 XI"
+
+msgid "Celestial Meadows XII"
+msgstr "천원 XII"
+
+msgid "Celestial Meadows XIII"
+msgstr "천원 XIII"
+
+msgid "Celestial Meadows XIV"
+msgstr "천원 XIV"
+
+msgid "Celestial Meadows XV"
+msgstr "천원 XV"
+
+msgid "Celestial Meadows XVI"
+msgstr "천원 XVI"
+
+msgid "Celestial Meadows Added I"
+msgstr "천원 증 I"
+
+msgid "Celestial Meadows Added II"
+msgstr "천원 증 II"
+
+msgid "Celestial Meadows Added III"
+msgstr "천원 증 III"
+
+msgid "Celestial Meadows Added IV"
+msgstr "천원 증 IV"
+
+msgid "Celestial Meadows Added V"
+msgstr "천원 증 V"
+
+msgid "Celestial Meadows Added VI"
+msgstr "천원 증 VI"
+
+msgid "Celestial Meadows Added VII"
+msgstr "천원 증 VII"
+
+msgid "Celestial Meadows Added VIII"
+msgstr "천원 증 VIII"
+
+msgid "Celestial Meadows Added IX"
+msgstr "천원 증 IX"
+
+msgid "Celestial Meadows Added X"
+msgstr "천원 증 X"
+
+msgid "Celestial Meadows Added XI"
+msgstr "천원 증 XI"
+
+msgid "Celestial Meadows Added XII"
+msgstr "천원 증 XII"
+
+msgid "Celestial Meadows Added XIII"
+msgstr "천원 증 XIII"
+
+msgid "Celestial Meadows Added XIV"
+msgstr "천원 증 XIV"
+
+msgid "Celestial Meadows Added XV"
+msgstr "천원 증 XV"
+
+msgid "Celestial Meadows Added XVI"
+msgstr "천원 증 XVI"
+
+msgid "Celestial Meadows Added XVII"
+msgstr "천원 증 XVII"
+
+msgid "Celestial Meadows Added XVIII"
+msgstr "천원 증 XVIII"
+
+msgid "Net I"
+msgstr "필 I"
+
+msgid "Net II"
+msgstr "필 II"
+
+msgid "Net III"
+msgstr "필 III"
+
+msgid "Net IV"
+msgstr "필 IV"
+
+msgid "Net V"
+msgstr "필 V"
+
+msgid "Net VI"
+msgstr "필 VI"
+
+msgid "Net VII"
+msgstr "필 VII"
+
+msgid "Net VIII"
+msgstr "필 VIII"
+
+msgid "Net Added I"
+msgstr "필 증 I"
+
+msgid "Net Added II"
+msgstr "필 증 II"
+
+msgid "Net Added III"
+msgstr "필 증 III"
+
+msgid "Net Added IV"
+msgstr "필 증 IV"
+
+msgid "Net Added V"
+msgstr "필 증 V"
+
+msgid "Net Added VI"
+msgstr "필 증 VI"
+
+msgid "Net Added VII"
+msgstr "필 증 VII"
+
+msgid "Net Added VIII"
+msgstr "필 증 VIII"
+
+msgid "Net Added IX"
+msgstr "필 증 IX"
+
+msgid "Net Added X"
+msgstr "필 증 X"
+
+msgid "Net Added XI"
+msgstr "필 증 XI"
+
+msgid "Net Added XII"
+msgstr "필 증 XII"
+
+msgid "Net Added XIII"
+msgstr "필 증 XIII"
+
+msgid "Net Added XIV"
+msgstr "필 증 XIV"
+
+msgid "Net Added XV"
+msgstr "필 증 XV"
+
+msgid "Net Added XVI"
+msgstr "필 증 XVI"
+
+msgid "Net Added XVII"
+msgstr "필 증 XVII"
+
+msgid "Net Added XVIII"
+msgstr "필 증 XVIII"
+
+msgid "Whisper"
+msgstr "부이(附耳)"
+
+msgid "Whisper Added I"
+msgstr "부이 증 I"
+
+msgid "Whisper Added II"
+msgstr "부이 증 II"
+
+msgid "Whisper Added III"
+msgstr "부이 증 III"
+
+msgid "Whisper Added IV"
+msgstr "부이 증 IV"
+
+msgid "Celestial Street I"
+msgstr "천가 I"
+
+msgid "Celestial Street II"
+msgstr "천가 II"
+
+msgid "Celestial Street Added I"
+msgstr "천가 증 I"
+
+msgid "Celestial Street Added II"
+msgstr "천가 증 II"
+
+msgid "Celestial Street Added III"
+msgstr "천가 증 III"
+
+msgid "Celestial Street Added IV"
+msgstr "천가 증 IV"
+
+msgid "Celestial High Terrace I"
+msgstr "천고 I"
+
+msgid "Celestial High Terrace II"
+msgstr "천고 II"
+
+msgid "Celestial High Terrace III"
+msgstr "천고 III"
+
+msgid "Celestial High Terrace IV"
+msgstr "천고 IV"
+
+msgid "Celestial High Terrace Added I"
+msgstr "천고 증 I"
+
+msgid "Celestial High Terrace Added II"
+msgstr "천고 증 II"
+
+msgid "Celestial High Terrace Added III"
+msgstr "천고 증 III"
+
+msgid "Celestial High Terrace Added IV"
+msgstr "천고 증 IV"
+
+msgid "Feudal Kings I"
+msgstr "제왕 I"
+
+msgid "Feudal Kings II"
+msgstr "제왕 II"
+
+msgid "Feudal Kings III"
+msgstr "제왕 III"
+
+msgid "Feudal Kings IV"
+msgstr "제왕 IV"
+
+msgid "Feudal Kings V"
+msgstr "제왕 V"
+
+msgid "Feudal Kings VI"
+msgstr "제왕 VI"
+
+msgid "Feudal Kings Added I"
+msgstr "제왕 증 I"
+
+msgid "Feudal Kings Added II"
+msgstr "제왕 증 II"
+
+msgid "Feudal Kings Added III"
+msgstr "제왕 증 III"
+
+msgid "Feudal Kings Added IV"
+msgstr "제왕 증 IV"
+
+msgid "Five Chariots I"
+msgstr "오거 I"
+
+msgid "Five Chariots II"
+msgstr "오거 II"
+
+msgid "Five Chariots III"
+msgstr "오거 III"
+
+msgid "Five Chariots IV"
+msgstr "오거 IV"
+
+msgid "Five Chariots V"
+msgstr "오거 V"
+
+msgid "Five Chariots Added I"
+msgstr "오거 증 I"
+
+msgid "Five Chariots Added II"
+msgstr "오거 증 II"
+
+msgid "Five Chariots Added III"
+msgstr "오거 증 III"
+
+msgid "Five Chariots Added IV"
+msgstr "오거 증 IV"
+
+msgid "Five Chariots Added V"
+msgstr "오거 증 V"
+
+msgid "Five Chariots Added VI"
+msgstr "오거 증 VI"
+
+msgid "Five Chariots Added VII"
+msgstr "오거 증 VII"
+
+msgid "Five Chariots Added VIII"
+msgstr "오거 증 VIII"
+
+msgid "Five Chariots Added IX"
+msgstr "오거 증 IX"
+
+msgid "Five Chariots Added X"
+msgstr "오거 증 X"
+
+msgid "Five Chariots Added XI"
+msgstr "오거 증 XI"
+
+msgid "Five Chariots Added XII"
+msgstr "오거 증 XII"
+
+msgid "Five Chariots Added XIII"
+msgstr "오거 증 XIII"
+
+msgid "Five Chariots Added XIV"
+msgstr "오거 증 XIV"
+
+msgid "Five Chariots Added XV"
+msgstr "오거 증 XV"
+
+msgid "Five Chariots Added XVI"
+msgstr "오거 증 XVI"
+
+msgid "Five Chariots Added XVII"
+msgstr "오거 증 XVII"
+
+msgid "Five Chariots Added XIX"
+msgstr "오거 증 XIX"
+
+msgid "Pillars I (In Net Mansion)"
+msgstr "주 I (필수)"
+
+msgid "Pillars II (In Net Mansion)"
+msgstr "주 II (필수)"
+
+msgid "Pillars III (In Net Mansion)"
+msgstr "주 III (필수)"
+
+msgid "Pillars IV (In Net Mansion)"
+msgstr "주 IV (필수)"
+
+msgid "Pillars V (In Net Mansion)"
+msgstr "주 V (필수)"
+
+msgid "Pillars VI (In Net Mansion)"
+msgstr "주 VI (필수)"
+
+msgid "Pillars VII (In Net Mansion)"
+msgstr "주 VII (필수)"
+
+msgid "Pillars VIII (In Net Mansion)"
+msgstr "주 VIII (필수)"
+
+msgid "Pool of Harmony I"
+msgstr "함지 I"
+
+msgid "Pool of Harmony II"
+msgstr "함지 II"
+
+msgid "Pool of Harmony III"
+msgstr "함지 III"
+
+msgid "Celestial Pier I"
+msgstr "천황 I"
+
+msgid "Celestial Pier II"
+msgstr "천황 II"
+
+msgid "Celestial Pier III"
+msgstr "천황 III"
+
+msgid "Celestial Pier IV"
+msgstr "천황 IV"
+
+msgid "Celestial Pier V"
+msgstr "천황 V"
+
+msgid "Celestial Pier Added I"
+msgstr "천황 증 I"
+
+msgid "Celestial Pier Added II"
+msgstr "천황 증 II"
+
+msgid "Celestial Pass Added I"
+msgstr "천관 증 I"
+
+msgid "Celestial Pass Added II"
+msgstr "천관 증 II"
+
+msgid "Celestial Pass Added III"
+msgstr "천관 증 III"
+
+msgid "Celestial Pass Added IV"
+msgstr "천관 증 IV"
+
+msgid "Celestial Pass Added V"
+msgstr "천관 증 V"
+
+msgid "Celestial Pass Added VI"
+msgstr "천관 증 VI"
+
+msgid "Celestial Tally I"
+msgstr "천절 I"
+
+msgid "Celestial Tally II"
+msgstr "천절 II"
+
+msgid "Celestial Tally III"
+msgstr "천절 III"
+
+msgid "Celestial Tally IV"
+msgstr "천절 IV"
+
+msgid "Celestial Tally V"
+msgstr "천절 V"
+
+msgid "Celestial Tally VI"
+msgstr "천절 VI"
+
+msgid "Celestial Tally VII"
+msgstr "천절 VII"
+
+msgid "Celestial Tally VIII"
+msgstr "천절 VIII"
+
+msgid "Interpreters of Nine Dialects I"
+msgstr "구주주구 I"
+
+msgid "Interpreters of Nine Dialects II"
+msgstr "구주주구 II"
+
+msgid "Interpreters of Nine Dialects III"
+msgstr "구주주구 III"
+
+msgid "Interpreters of Nine Dialects IV"
+msgstr "구주주구 IV"
+
+msgid "Interpreters of Nine Dialects V"
+msgstr "구주주구 V"
+
+msgid "Interpreters of Nine Dialects VI"
+msgstr "구주주구 VI"
+
+msgid "Interpreters of Nine Dialects Added I"
+msgstr "구주주구 증 I"
+
+msgid "Interpreters of Nine Dialects Added II"
+msgstr "구주주구 증 II"
+
+msgid "Interpreters of Nine Dialects Added III"
+msgstr "구주주구 증 III"
+
+msgid "Interpreters of Nine Dialects Added IV"
+msgstr "구주주구 증 IV"
+
+msgid "Interpreters of Nine Dialects Added V"
+msgstr "구주주구 증 V"
+
+msgid "Interpreters of Nine Dialects Added VI"
+msgstr "구주주구 증 VI"
+
+msgid "Interpreters of Nine Dialects Added VII"
+msgstr "구주주구 증 VII"
+
+msgid "Interpreters of Nine Dialects Added VIII"
+msgstr "구주주구 증 VIII"
+
+msgid "Interpreters of Nine Dialects Added IX"
+msgstr "구주주구 증 IX"
+
+msgid "Interpreters of Nine Dialects Added X"
+msgstr "구주주구 증 X"
+
+msgid "Interpreters of Nine Dialects Added XI"
+msgstr "구주주구 증 XI"
+
+msgid "Banner of Three Stars I"
+msgstr "삼기 I"
+
+msgid "Banner of Three Stars II"
+msgstr "삼기 II"
+
+msgid "Banner of Three Stars III"
+msgstr "삼기 III"
+
+msgid "Banner of Three Stars IV"
+msgstr "삼기 IV"
+
+msgid "Banner of Three Stars V"
+msgstr "삼기 V"
+
+msgid "Banner of Three Stars VI"
+msgstr "삼기 VI"
+
+msgid "Banner of Three Stars VII"
+msgstr "삼기 VII"
+
+msgid "Banner of Three Stars VIII"
+msgstr "삼기 VIII"
+
+msgid "Banner of Three Stars IX"
+msgstr "삼기 IX"
+
+msgid "Banner of Three Stars Added I"
+msgstr "삼기 증 I"
+
+msgid "Banner of Three Stars Added II"
+msgstr "삼기 증 II"
+
+msgid "Banner of Three Stars Added III"
+msgstr "삼기 증 III"
+
+msgid "Banner of Three Stars Added IV"
+msgstr "삼기 증 IV"
+
+msgid "Banner of Three Stars Added V"
+msgstr "삼기 증 V"
+
+msgid "Banner of Three Stars Added VI"
+msgstr "삼기 증 VI"
+
+msgid "Banner of Three Stars Added VII"
+msgstr "삼기 증 VII"
+
+msgid "Banner of Three Stars Added VIII"
+msgstr "삼기 증 VIII"
+
+msgid "Banner of Three Stars Added IX"
+msgstr "삼기 증 IX"
+
+msgid "Banner of Three Stars Added X"
+msgstr "삼기 증 X"
+
+msgid "Banner of Three Stars Added XI"
+msgstr "삼기 증 XI"
+
+msgid "Banner of Three Stars Added XII"
+msgstr "삼기 증 XII"
+
+msgid "Imperial Military Flag I"
+msgstr "구유 I"
+
+msgid "Imperial Military Flag II"
+msgstr "구유 II"
+
+msgid "Imperial Military Flag III"
+msgstr "구유 III"
+
+msgid "Imperial Military Flag IV"
+msgstr "구유 IV"
+
+msgid "Imperial Military Flag V"
+msgstr "구유 V"
+
+msgid "Imperial Military Flag VI"
+msgstr "구유 VI"
+
+msgid "Imperial Military Flag VII"
+msgstr "구유 VII"
+
+msgid "Imperial Military Flag VIII"
+msgstr "구유 VIII"
+
+msgid "Imperial Military Flag IX"
+msgstr "구유 IX"
+
+msgid "Imperial Military Flag Added I"
+msgstr "구유 증 I"
+
+msgid "Imperial Military Flag Added II"
+msgstr "구유 증 II"
+
+msgid "Imperial Military Flag Added III"
+msgstr "구유 증 III"
+
+msgid "Imperial Military Flag Added IV"
+msgstr "구유 증 IV"
+
+msgid "Imperial Military Flag Added V"
+msgstr "구유 증 V"
+
+msgid "Imperial Military Flag Added VI"
+msgstr "구유 증 VI"
+
+msgid "Imperial Military Flag Added VII"
+msgstr "구유 증 VII"
+
+msgid "Celestial Orchard I"
+msgstr "천원 I"
+
+msgid "Celestial Orchard II"
+msgstr "천원 II"
+
+msgid "Celestial Orchard III"
+msgstr "천원 III"
+
+msgid "Celestial Orchard IV"
+msgstr "천원 IV"
+
+msgid "Celestial Orchard V"
+msgstr "천원 V"
+
+msgid "Celestial Orchard VI"
+msgstr "천원 VI"
+
+msgid "Celestial Orchard VII"
+msgstr "천원 VII"
+
+msgid "Celestial Orchard VIII"
+msgstr "천원 VIII"
+
+msgid "Celestial Orchard IX"
+msgstr "천원 IX"
+
+msgid "Celestial Orchard X"
+msgstr "천원 "
+
+msgid "Celestial Orchard XI"
+msgstr "천원 XI"
+
+msgid "Celestial Orchard XII"
+msgstr "천원 XII"
+
+msgid "Celestial Orchard XIII"
+msgstr "천원 XIII"
+
+msgid "Celestial Orchard Added I"
+msgstr "천원 증 I"
+
+msgid "Celestial Orchard Added III"
+msgstr "천원 증 III"
+
+msgid "Celestial Orchard Added IV"
+msgstr "천원 증 IV"
+
+msgid "Celestial Orchard Added V"
+msgstr "천원 증 V"
+
+msgid "Celestial Orchard Added VI"
+msgstr "천원 증 VI"
+
+msgid "Turtle Beak I"
+msgstr "자 I"
+
+msgid "Turtle Beak II"
+msgstr "자 II"
+
+msgid "Turtle Beak III"
+msgstr "자 III"
+
+msgid "Deity in Charge of Monsters I"
+msgstr "사괴 I"
+
+msgid "Deity in Charge of Monsters II"
+msgstr "사괴 II"
+
+msgid "Deity in Charge of Monsters III"
+msgstr "사괴 III"
+
+msgid "Deity in Charge of Monsters IV"
+msgstr "사괴 IV"
+
+msgid "Deity in Charge of Monsters Added I"
+msgstr "사괴 증 I"
+
+msgid "Deity in Charge of Monsters Added II"
+msgstr "사괴 증 II"
+
+msgid "Deity in Charge of Monsters Added III"
+msgstr "사괴 증 III"
+
+msgid "Deity in Charge of Monsters Added IV"
+msgstr "사괴 증 IV"
+
+msgid "Deity in Charge of Monsters Added V"
+msgstr "사괴 증 V"
+
+msgid "Deity in Charge of Monsters Added VI"
+msgstr "사괴 증 VI"
+
+msgid "Seat Flags I"
+msgstr "좌기 I"
+
+msgid "Seat Flags II"
+msgstr "좌기 II"
+
+msgid "Seat Flags III"
+msgstr "좌기 III"
+
+msgid "Seat Flags IV"
+msgstr "좌기 IV"
+
+msgid "Seat Flags V"
+msgstr "좌기 V"
+
+msgid "Seat Flags VI"
+msgstr "좌기 VI"
+
+msgid "Seat Flags VII"
+msgstr "좌기 VII"
+
+msgid "Seat Flags VIII"
+msgstr "좌기 VIII"
+
+msgid "Seat Flags IX"
+msgstr "좌기 IX"
+
+msgid "Seat Flags Added I"
+msgstr "좌기 증 I"
+
+msgid "Seat Flags Added II"
+msgstr "좌기 증 II"
+
+msgid "Seat Flags Added III"
+msgstr "좌기 증 III"
+
+msgid "Seat Flags Added IV"
+msgstr "좌기 증 IV"
+
+msgid "Seat Flags Added V"
+msgstr "좌기 증 V"
+
+msgid "Seat Flags Added VI"
+msgstr "좌기 증 VI"
+
+msgid "Seat Flags Added VII"
+msgstr "좌기 증 VII"
+
+msgid "Seat Flags Added VIII"
+msgstr "좌기 증 VIII"
+
+msgid "Seat Flags Added IX"
+msgstr "좌기 증 IX"
+
+msgid "Seat Flags Added X"
+msgstr "좌기 증 X"
+
+msgid "Seat Flags Added XI"
+msgstr "좌기 증 X"
+
+msgid "Three Stars I"
+msgstr "삼 I"
+
+msgid "Three Stars II"
+msgstr "삼 II"
+
+msgid "Three Stars III"
+msgstr "삼 III"
+
+msgid "Three Stars IV"
+msgstr "삼 IV"
+
+msgid "Three Stars V"
+msgstr "삼 V"
+
+msgid "Three Stars VI"
+msgstr "삼 VI"
+
+msgid "Three Stars VII"
+msgstr "삼 VII"
+
+msgid "Three Stars Added I"
+msgstr "삼 증 I"
+
+msgid "Three Stars Added II"
+msgstr "삼 증 II"
+
+msgid "Three Stars Added III"
+msgstr "삼 증 III"
+
+msgid "Three Stars Added IV"
+msgstr "삼 증 IV"
+
+msgid "Three Stars Added V"
+msgstr "삼 증 V"
+
+msgid "Three Stars Added VI"
+msgstr "삼 증 VI"
+
+msgid "Three Stars Added VII"
+msgstr "삼 증 VII"
+
+msgid "Three Stars Added VIII"
+msgstr "삼 증 VIII"
+
+msgid "Three Stars Added IX"
+msgstr "삼 증 IX"
+
+msgid "Three Stars Added X"
+msgstr "삼 증 X"
+
+msgid "Three Stars Added XI"
+msgstr "삼 증 XI"
+
+msgid "Three Stars Added XII"
+msgstr "삼 증 XII"
+
+msgid "Three Stars Added XIII"
+msgstr "삼 증 XIII"
+
+msgid "Three Stars Added XIV"
+msgstr "삼 증 XIV"
+
+msgid "Three Stars Added XV"
+msgstr "삼 증 XV"
+
+msgid "Three Stars Added XVI"
+msgstr "삼 증 XVI"
+
+msgid "Three Stars Added XVII"
+msgstr "삼 증 XVII"
+
+msgid "Three Stars Added XVIII"
+msgstr "삼 증 XVIII"
+
+msgid "Three Stars Added XIX"
+msgstr "삼 증 XIX"
+
+msgid "Three Stars Added XX"
+msgstr "삼 증 XX"
+
+msgid "Three Stars Added XXI"
+msgstr "삼 증 XXI"
+
+msgid "Three Stars Added XXII"
+msgstr "삼 증 XXII"
+
+msgid "Three Stars Added XXIII"
+msgstr "삼 증 XXIII"
+
+msgid "Three Stars Added XXIV"
+msgstr "삼 증 XXIV"
+
+msgid "Three Stars Added XXV"
+msgstr "삼 증 XXV"
+
+msgid "Three Stars Added XXVI"
+msgstr "삼 증 XXVI"
+
+msgid "Three Stars Added XXVII"
+msgstr "삼 증 XXVII"
+
+msgid "Three Stars Added XXVIII"
+msgstr "삼 증 XXVIII"
+
+msgid "Three Stars Added XXIX"
+msgstr "삼 증 XXIX"
+
+msgid "Three Stars Added XXX"
+msgstr "삼 증 XXX"
+
+msgid "Three Stars Added XXXI"
+msgstr "삼 증 XXI"
+
+msgid "Three Stars Added XXXII"
+msgstr "삼 증 XXXII"
+
+msgid "Three Stars Added XXXIII"
+msgstr "삼 증 XXXIII"
+
+msgid "Three Stars Added XXXIV"
+msgstr "삼 증 XXXIV"
+
+msgid "Three Stars Added XXXV"
+msgstr "삼 증 XXXV"
+
+msgid "Three Stars Added XXXVI"
+msgstr "삼 증 XXXVI"
+
+msgid "Three Stars Added XXXVII"
+msgstr "삼 증 XXXVII"
+
+msgid "Three Stars Added XXXIX"
+msgstr "삼 증 XXXI"
+
+msgid "Send Armed Forces To Suppress I"
+msgstr "벌하 I"
+
+msgid "Send Armed Forces To Suppress II"
+msgstr "벌하 II"
+
+msgid "Send Armed Forces To Suppress III"
+msgstr "벌하 III"
+
+msgid "Send Armed Forces To Suppress Added I"
+msgstr "벌하 증 I"
+
+msgid "Send Armed Forces To Suppress Added II"
+msgstr "벌하 증 II"
+
+msgid "Jade Well I"
+msgstr "옥정 I"
+
+msgid "Jade Well II"
+msgstr "옥정 II"
+
+msgid "Jade Well III"
+msgstr "옥정 III"
+
+msgid "Jade Well IV"
+msgstr "옥정 IV"
+
+msgid "Jade Well Added I"
+msgstr "옥정 증 I"
+
+msgid "Jade Well Added II"
+msgstr "옥정 증 II"
+
+msgid "Jade Well Added III"
+msgstr "옥정 증 III"
+
+msgid "Three Stars Added XXXVIII"
+msgstr "삼 증 XXXVIII"
+
+msgid "Military Well I"
+msgstr "군정 I"
+
+msgid "Military Well II"
+msgstr "군정 II"
+
+msgid "Military Well III"
+msgstr "군정 III"
+
+msgid "Military Well IV"
+msgstr "군정 IV"
+
+msgid "Military Well Added I"
+msgstr "군정 증 I"
+
+msgid "Military Well Added II"
+msgstr "군정 증 II"
+
+msgid "Screen I"
+msgstr "병 I"
+
+msgid "Screen II"
+msgstr "병 II"
+
+msgid "Toilet I"
+msgstr "측 I"
+
+msgid "Toilet II"
+msgstr "측 II"
+
+msgid "Toilet III"
+msgstr "측 III"
+
+msgid "Toilet IV"
+msgstr "측 IV"
+
+msgid "Toilet Added I"
+msgstr "측 증 I"
+
+msgid "Toilet Added II"
+msgstr "측 증 II"
+
+msgid "Toilet Added III"
+msgstr "측 증 III"
+
+msgid "Toilet Added IV"
+msgstr "측 증 IV"
+
+msgid "Toilet Added V"
+msgstr "측 증 V"
+
+msgid "Toilet Added VI"
+msgstr "측 증 VI"
+
+msgid "Toilet Added VII"
+msgstr "측 증 VII"
+
+msgid "Toilet Added VIII"
+msgstr "측증 VIII"
+
+msgid "Well I"
+msgstr "정 I"
+
+msgid "Well II"
+msgstr "정 II"
+
+msgid "Well III"
+msgstr "정 III"
+
+msgid "Well IV"
+msgstr "정 IV"
+
+msgid "Well V"
+msgstr "정 V"
+
+msgid "Well VI"
+msgstr "정 VI"
+
+msgid "Well VII"
+msgstr "정 VII"
+
+msgid "Well VIII"
+msgstr "정 VIII"
+
+msgid "Well Added I"
+msgstr "정 증 I"
+
+msgid "Well Added II"
+msgstr "정 증 II"
+
+msgid "Well Added III"
+msgstr "정 증 III"
+
+msgid "Well Added IV"
+msgstr "정 증 IV"
+
+msgid "Well Added V"
+msgstr "정 증 V"
+
+msgid "Well Added VI"
+msgstr "정 증 VI"
+
+msgid "Well Added VII"
+msgstr "정 증 VII"
+
+msgid "Well Added VIII"
+msgstr "정 증 VIII"
+
+msgid "Well Added IX"
+msgstr "정 증 IX"
+
+msgid "Well Added X"
+msgstr "정 증 X"
+
+msgid "Well Added XI"
+msgstr "정 증 XI"
+
+msgid "Well Added XII"
+msgstr "정 증 XII"
+
+msgid "Well Added XIII"
+msgstr "정 증 XIII"
+
+msgid "Well Added XIV"
+msgstr "정 증 XIV"
+
+msgid "Well Added XV"
+msgstr "정 증 XV"
+
+msgid "Well Added XVI"
+msgstr "정 증 XVI"
+
+msgid "Well Added XVII"
+msgstr "정 증 XVII"
+
+msgid "Well Added XVIII"
+msgstr "정 증 XVIII"
+
+msgid "Well Added XIX"
+msgstr "정 증 XIX"
+
+msgid "Battle Axe"
+msgstr "월(鉞)"
+
+msgid "Battle Axe Added I"
+msgstr "월 증 I"
+
+msgid "Official for Irrigation I"
+msgstr "수부 I"
+
+msgid "Official for Irrigation II"
+msgstr "수부 II"
+
+msgid "Official for Irrigation III"
+msgstr "수부 III"
+
+msgid "Official for Irrigation IV"
+msgstr "수부 IV"
+
+msgid "Official for Irrigation Added I"
+msgstr "수부 증 I"
+
+msgid "Official for Irrigation Added II"
+msgstr "수부 증 II"
+
+msgid "Official for Irrigation Added III"
+msgstr "수부 증 III"
+
+msgid "Official for Irrigation Added IV"
+msgstr "수부 증 IV"
+
+msgid "Official for Irrigation Added V"
+msgstr "수부 증 V"
+
+msgid "Official for Irrigation Added VI"
+msgstr "수부 증 VI"
+
+msgid "Official for Irrigation Added VII"
+msgstr "수부 증 VII"
+
+msgid "Official for Irrigation Added VIII"
+msgstr "수부 증 VIII"
+
+msgid "Celestial Wine Cup I"
+msgstr "천준 I"
+
+msgid "Celestial Wine Cup II"
+msgstr "천준 II"
+
+msgid "Celestial Wine Cup III"
+msgstr "천준 III"
+
+msgid "Celestial Wine Cup Added I"
+msgstr "천준 증 I"
+
+msgid "Celestial Wine Cup Added II"
+msgstr "천준 증 II"
+
+msgid "Celestial Wine Cup Added III"
+msgstr "천준 증 III"
+
+msgid "Celestial Wine Cup Added IV"
+msgstr "천준 증 IV"
+
+msgid "Celestial Wine Cup Added V"
+msgstr "천준 증 V"
+
+msgid "Celestial Wine Cup Added VI"
+msgstr "천준 증 VI"
+
+msgid "Celestial Wine Cup Added VII"
+msgstr "천준 증 VII"
+
+msgid "Celestial Wine Cup Added VIII"
+msgstr "천준 증 VIII"
+
+msgid "Celestial Wine Cup Added IX"
+msgstr "천준 증 IX"
+
+msgid "Five Feudal Kings I"
+msgstr "오제후 I"
+
+msgid "Five Feudal Kings II"
+msgstr "오제후 II"
+
+msgid "Five Feudal Kings III"
+msgstr "오제후 III"
+
+msgid "Five Feudal Kings IV"
+msgstr "오제후 IV"
+
+msgid "Five Feudal Kings V"
+msgstr "오제후 V"
+
+msgid "Five Feudal Kings Added I"
+msgstr "오제후 증 I"
+
+msgid "Five Feudal Kings Added II"
+msgstr "오제후 증 II"
+
+msgid "Five Feudal Kings Added III"
+msgstr "오제후 증 III"
+
+msgid "Five Feudal Kings Added VI"
+msgstr "오제후 증 VI"
+
+msgid "North River I"
+msgstr "북하 I"
+
+msgid "North River II"
+msgstr "북하 II"
+
+msgid "North River III"
+msgstr "북하 III"
+
+msgid "North River Added I"
+msgstr "북하 증 I"
+
+msgid "North River Added II"
+msgstr "북하 증 II"
+
+msgid "North River Added III"
+msgstr "북하 증 III"
+
+msgid "North River Added IV"
+msgstr "북하 증 IV"
+
+msgid "Pile of Firewood Added I"
+msgstr "적신 증 I"
+
+msgid "Pile of Firewood Added II"
+msgstr "적신 증 II"
+
+msgid "Pile of Firewood Added III"
+msgstr "적신 증 III"
+
+msgid "Water Level I"
+msgstr "수위 I"
+
+msgid "Water Level II"
+msgstr "수위 II"
+
+msgid "Water Level III"
+msgstr "수위 III"
+
+msgid "Water Level IV"
+msgstr "수위 IV"
+
+msgid "Water Level Added I"
+msgstr "수위 증 I"
+
+msgid "Water Level Added II"
+msgstr "수위 증 II"
+
+msgid "Water Level Added III"
+msgstr "수위 증 III"
+
+msgid "Water Level Added IV"
+msgstr "수위 증 IV"
+
+msgid "Water Level Added V"
+msgstr "수위 증 V"
+
+msgid "Water Level Added VI"
+msgstr "수위 증 VI"
+
+msgid "Water Level Added VII"
+msgstr "수위 증 VII"
+
+msgid "Water Level Added VIII"
+msgstr "수위 증 VIII"
+
+msgid "Water Level Added IX"
+msgstr "수위 증 IX"
+
+msgid "Water Level Added X?"
+msgstr "수위 증 X?"
+
+msgid "Water Level Added XI"
+msgstr "수위 증 XI"
+
+msgid "Water Level Added XII"
+msgstr "수위 증 XII"
+
+msgid "South River I"
+msgstr "남하 I"
+
+msgid "South River II"
+msgstr "남하 II"
+
+msgid "South River III"
+msgstr "남하 III"
+
+msgid "South River Added I"
+msgstr "남하 증 I"
+
+msgid "South River Added II"
+msgstr "남하 증 II"
+
+msgid "South River Added III"
+msgstr "남하 증 III"
+
+msgid "South River Added IV"
+msgstr "남하 증 IV"
+
+msgid "South River Added V"
+msgstr "남하 증 V"
+
+msgid "South River Added VI"
+msgstr "남하 증 VI"
+
+msgid "South River Added VII"
+msgstr "남하 증 VII"
+
+msgid "South River Added VIII"
+msgstr "남하 증 VIII"
+
+msgid "South River Added IX"
+msgstr "남하 증 IX"
+
+msgid "South River Added X"
+msgstr "남하 증 X"
+
+msgid "Four Channels I"
+msgstr "사독 I"
+
+msgid "Four Channels II"
+msgstr "사독 II"
+
+msgid "Four Channels III"
+msgstr "사독 III"
+
+msgid "Four Channels IV"
+msgstr "사독 IV"
+
+msgid "Four Channels Added I"
+msgstr "사독 증 I"
+
+msgid "Four Channels Added II"
+msgstr "사독 증 II"
+
+msgid "Four Channels Added III"
+msgstr "사독 증 III"
+
+msgid "Four Channels Added V"
+msgstr "사독 증 V"
+
+msgid "Four Channels Added VI"
+msgstr "사독 증 VI"
+
+msgid "Four Channels Added VII"
+msgstr "사독 증 VII"
+
+msgid "Four Channels Added VIII"
+msgstr "사독 증 VIII"
+
+msgid "Palace Gate I"
+msgstr "궐구 I"
+
+msgid "Palace Gate II"
+msgstr "궐구 II"
+
+msgid "Palace Gate Added I"
+msgstr "궐구 증 I"
+
+msgid "Palace Gate Added II"
+msgstr "궐구 증 II"
+
+msgid "Palace Gate Added III"
+msgstr "궐구 증 III"
+
+msgid "Palace Gate Added IV"
+msgstr "궐구 증 IV"
+
+msgid "Palace Gate Added V"
+msgstr "궐구 증 V"
+
+msgid "Palace Gate Added VI"
+msgstr "궐구 증 VI"
+
+msgid "Palace Gate Added VII"
+msgstr "궐구 증 VII"
+
+msgid "Market for Soldiers I"
+msgstr "군시 I"
+
+msgid "Market for Soldiers II"
+msgstr "군시 II"
+
+msgid "Market for Soldiers III"
+msgstr "군시 III"
+
+msgid "Market for Soldiers IV"
+msgstr "군시 IV"
+
+msgid "Market for Soldiers V"
+msgstr "군시 V"
+
+msgid "Market for Soldiers VI"
+msgstr "군시 VI"
+
+msgid "Market for Soldiers Added I"
+msgstr "군시 증 I"
+
+msgid "Market for Soldiers Added II"
+msgstr "군시 증 II"
+
+msgid "Market for Soldiers Added III"
+msgstr "군시 증 III"
+
+msgid "Market for Soldiers Added IV"
+msgstr "군시 증 IV"
+
+msgid "Market for Soldiers Added V"
+msgstr "군시 증 V"
+
+msgid "Market for Soldiers Added VI"
+msgstr "군시 증 VI"
+
+msgid "Market for Soldiers Added VII"
+msgstr "군시 증 VII"
+
+msgid "Celestial Wolf Added I"
+msgstr "천랑 증 I"
+
+msgid "Celestial Wolf Added II"
+msgstr "천랑 증 II"
+
+msgid "Celestial Wolf Added III"
+msgstr "천랑 증 III"
+
+msgid "Celestial Wolf Added IV"
+msgstr "천랑 증 IV"
+
+msgid "Celestial Wolf Added V"
+msgstr "천랑 증 V"
+
+msgid "Celestial Wolf Added VI"
+msgstr "천랑 증 VI"
+
+msgid "Grandfather I"
+msgstr "장인 I"
+
+msgid "Grandfather II"
+msgstr "장인 II"
+
+msgid "Son I"
+msgstr "자 I"
+
+msgid "Son II"
+msgstr "자 II"
+
+msgid "Son Added I"
+msgstr "자 증 I"
+
+msgid "Grandson I"
+msgstr "손 I"
+
+msgid "Grandson II"
+msgstr "손 II"
+
+msgid "Grandson Added I"
+msgstr "손 증  I"
+
+msgid "Grandson Added II"
+msgstr "손 증 II"
+
+msgid "Grandson Added III"
+msgstr "손 증 III"
+
+msgid "Grandson Added IV"
+msgstr "손 증 IV"
+
+msgid "Old Man Added I"
+msgstr "노인 증 I"
+
+msgid "Old Man Added II"
+msgstr "노인 증 II"
+
+msgid "Old Man Added III"
+msgstr "노인 증 III"
+
+msgid "Old Man Added IV"
+msgstr "노인 증 IV"
+
+msgid "Bow and Arrow I"
+msgstr "호시 I"
+
+msgid "Bow and Arrow II"
+msgstr "호시 II"
+
+msgid "Bow and Arrow III"
+msgstr "호시 III"
+
+msgid "Bow and Arrow IV"
+msgstr "호시 IV"
+
+msgid "Bow and Arrow V"
+msgstr "호시 V"
+
+msgid "Bow and Arrow VI"
+msgstr "호시 VI"
+
+msgid "Bow and Arrow VII"
+msgstr "호시 VII"
+
+msgid "Bow and Arrow VIII"
+msgstr "호시 VIII"
+
+msgid "Bow and Arrow IX"
+msgstr "호시 IX"
+
+msgid "Bow and Arrow Added I"
+msgstr "호시 증 I"
+
+msgid "Bow and Arrow Added II"
+msgstr "호시 증 II"
+
+msgid "Bow and Arrow Added III"
+msgstr "호시 증 III"
+
+msgid "Bow and Arrow Added IV"
+msgstr "호시 증 IV"
+
+msgid "Bow and Arrow Added V"
+msgstr "호시 증 V"
+
+msgid "Bow and Arrow Added VI"
+msgstr "호시 증 VI"
+
+msgid "Bow and Arrow Added VII"
+msgstr "호시 증 VII"
+
+msgid "Bow and Arrow Added VIII"
+msgstr "호시 증 VIII"
+
+msgid "Bow and Arrow Added IX"
+msgstr "호시 증 IX"
+
+msgid "Bow and Arrow Added X"
+msgstr "호시 증 X"
+
+msgid "Bow and Arrow Added XI"
+msgstr "호시 증 XI"
+
+msgid "Bow and Arrow Added XII"
+msgstr "호시 증 XII"
+
+msgid "Bow and Arrow Added XIII"
+msgstr "호시 증 XIII"
+
+msgid "Bow and Arrow Added XIV"
+msgstr "호시 증 XIV"
+
+msgid "Bow and Arrow Added XV"
+msgstr "호시 증 XV"
+
+msgid "Bow and Arrow Added XVI"
+msgstr "호시 증 XVI"
+
+msgid "Bow and Arrow Added XVII"
+msgstr "호시 증 XVII"
+
+msgid "Bow and Arrow Added XVIII"
+msgstr "호시 증 XVIII"
+
+msgid "Bow and Arrow Added XIX"
+msgstr "호시 증 XIX"
+
+msgid "Bow and Arrow Added XX"
+msgstr "호시 증 XX"
+
+msgid "Bow and Arrow Added XXI"
+msgstr "호시 증 XXI"
+
+msgid "Bow and Arrow Added XXII"
+msgstr "호시 증 XXII"
+
+msgid "Bow and Arrow Added XXIII"
+msgstr "호시 증 XXIII"
+
+msgid "Bow and Arrow Added XXIV"
+msgstr "호시 증 XXIV"
+
+msgid "Bow and Arrow Added XXV"
+msgstr "호시 증 XXV"
+
+msgid "Bow and Arrow Added XXVI"
+msgstr "호시 증 XXVI"
+
+msgid "Bow and Arrow Added XXVII"
+msgstr "호시 증 XXVII"
+
+msgid "Bow and Arrow Added XXVIII"
+msgstr "호시 증 XXVIII"
+
+msgid "Bow and Arrow Added XXIX"
+msgstr "호시 증 XXIX"
+
+msgid "Bow and Arrow Added XXX"
+msgstr "호시 증 XXX"
+
+msgid "Bow and Arrow Added XXXI"
+msgstr "호시 증 XXXI"
+
+msgid "Bow and Arrow Added XXXII"
+msgstr "호시 증 XXXII"
+
+msgid "Ghosts I"
+msgstr "귀 I"
+
+msgid "Ghosts II"
+msgstr "귀 II"
+
+msgid "Ghosts III"
+msgstr "귀 III"
+
+msgid "Ghosts IV"
+msgstr "귀 IV"
+
+msgid "Ghosts Added I"
+msgstr "귀 증 I"
+
+msgid "Ghosts Added II"
+msgstr "귀 증 II"
+
+msgid "Ghosts Added III"
+msgstr "귀 증 III"
+
+msgid "Ghosts Added IV"
+msgstr "귀 증 IV"
+
+msgid "Ghosts Added V"
+msgstr "귀 증 V"
+
+msgid "Ghosts Added VI"
+msgstr "귀 증 VI"
+
+msgid "Ghosts Added VII"
+msgstr "귀 증 VII"
+
+msgid "Ghosts Added VIII"
+msgstr "귀 증 VIII"
+
+msgid "Ghosts Added IX"
+msgstr "귀 증 IX"
+
+msgid "Ghosts Added X"
+msgstr "귀 증 X"
+
+msgid "Ghosts Added XI"
+msgstr "귀 증 XI"
+
+msgid "Ghosts Added XII"
+msgstr "귀 증 XII"
+
+msgid "Ghosts Added XIII"
+msgstr "귀 증 XIII"
+
+msgid "Ghosts Added XIV"
+msgstr "귀 증 XIV"
+
+msgid "Ghosts Added XV"
+msgstr "귀 증 XV"
+
+msgid "Ghosts Added XVI"
+msgstr "귀 증 XVI"
+
+msgid "Ghosts Added XVIII*"
+msgstr "귀 증 XVIII*"
+
+msgid "Ghosts Added XIX"
+msgstr "귀 증 XIX"
+
+msgid "Cumulative Corpses Added I"
+msgstr "적시 증 I"
+
+msgid "Cumulative Corpses Added II"
+msgstr "적시 증 II"
+
+msgid "Cumulative Corpses Added III"
+msgstr "적시 증 III"
+
+msgid "Beacon Fire I"
+msgstr "관 I"
+
+msgid "Beacon Fire II"
+msgstr "관 II"
+
+msgid "Beacon Fire III"
+msgstr "관 III"
+
+msgid "Beacon Fire IV"
+msgstr "관 IV"
+
+msgid "Beacon Fire Added I"
+msgstr "관 증 I"
+
+msgid "Beacon Fire Added II"
+msgstr "관 증 II"
+
+msgid "Beacon Fire Added III"
+msgstr "관 증 III"
+
+msgid "Beacon Fire Added IV"
+msgstr "관 증 IV"
+
+msgid "Beacon Fire Added V"
+msgstr "관 증 V"
+
+msgid "Beacon Fire Added VI"
+msgstr "관 증 VI"
+
+msgid "Beacon Fire Added VII"
+msgstr "관 증 VII"
+
+msgid "Beacon Fire Added VIII"
+msgstr "관 증 VIII"
+
+msgid "Beacon Fire Added IX"
+msgstr "관 증 IX"
+
+msgid "Beacon Fire Added X"
+msgstr "관 증 X"
+
+msgid "Beacon Fire Added XI"
+msgstr "관 증 XI"
+
+msgid "Outer Kitchen I"
+msgstr "외주 I"
+
+msgid "Outer Kitchen II"
+msgstr "외주 II"
+
+msgid "Outer Kitchen III"
+msgstr "외주 III"
+
+msgid "Outer Kitchen IV?"
+msgstr "외주 IV?"
+
+msgid "Outer Kitchen Added I"
+msgstr "외주 증 I"
+
+msgid "Outer Kitchen Added II"
+msgstr "외주 증 II"
+
+msgid "Outer Kitchen Added III"
+msgstr "외주 증 III"
+
+msgid "Outer Kitchen Added IV"
+msgstr "외주 증 IV"
+
+msgid "Outer Kitchen Added VI"
+msgstr "외주 증 VI"
+
+msgid "Outer Kitchen Added VII"
+msgstr "외주 증 VII"
+
+msgid "Outer Kitchen Added VIII"
+msgstr "외주 증 VIII"
+
+msgid "Outer Kitchen Added IX"
+msgstr "외주 증 IX"
+
+msgid "Outer Kitchen Added X"
+msgstr "외주 증 X"
+
+msgid "Outer Kitchen Added XI"
+msgstr "외주 증 XI"
+
+msgid "Outer Kitchen Added XIII"
+msgstr "외주 증 XIII"
+
+msgid "Outer Kitchen Added XIV"
+msgstr "외주 증 XIV"
+
+msgid "Outer Kitchen Added XV"
+msgstr "외주 증 XV"
+
+msgid "Outer Kitchen Added XVI"
+msgstr "외주 증 XVI"
+
+msgid "Outer Kitchen Added XVII"
+msgstr "외주 증 XVII"
+
+msgid "Judge for Estimating the Age of Animals Added I"
+msgstr "천기 증 I"
+
+msgid "Judge for Estimating the Age of Animals Added II"
+msgstr "천기 증 II"
+
+msgid "Celestial Dog I"
+msgstr "천구 I"
+
+msgid "Celestial Dog II"
+msgstr "천구 II"
+
+msgid "Celestial Dog III*"
+msgstr "천구 III*"
+
+msgid "Celestial Dog IV"
+msgstr "천구 IV"
+
+msgid "Celestial Dog V"
+msgstr "천구 V"
+
+msgid "Celestial Dog VI"
+msgstr "천구 VI"
+
+msgid "Celestial Dog VII"
+msgstr "천구 VII"
+
+msgid "Celestial Earth God's Temple I"
+msgstr "천사 I"
+
+msgid "Celestial Earth God's Temple II"
+msgstr "천사 II"
+
+msgid "Celestial Earth God's Temple III"
+msgstr "천사 III"
+
+msgid "Celestial Earth God's Temple V"
+msgstr "천사 V"
+
+msgid "Celestial Earth God's Temple VI"
+msgstr "천사 VI"
+
+msgid "Celestial Earth God's Temple Added I"
+msgstr "천사 증 I"
+
+msgid "Celestial Earth God's Temple Added II"
+msgstr "천사 증 II"
+
+msgid "Celestial Earth God's Temple Added III"
+msgstr "천사 증 III"
+
+msgid "Celestial Earth God's Temple Added IV*"
+msgstr "천사 증 IV*"
+
+msgid "Celestial Earth God's Temple Added V?"
+msgstr "천사 증 V?"
+
+msgid "Willow I"
+msgstr "유 I"
+
+msgid "Willow II"
+msgstr "유 II"
+
+msgid "Willow III"
+msgstr "유 III"
+
+msgid "Willow IV"
+msgstr "유 IV"
+
+msgid "Willow V"
+msgstr "유 V"
+
+msgid "Willow VI"
+msgstr "유 VI"
+
+msgid "Willow VII"
+msgstr "유 VII"
+
+msgid "Willow VIII"
+msgstr "유 VIII"
+
+msgid "Willow Added I"
+msgstr "유 증 I"
+
+msgid "Willow Added II"
+msgstr "유 증 II"
+
+msgid "Willow Added III"
+msgstr "유 증 III"
+
+msgid "Willow Added IV"
+msgstr "유 증 IV"
+
+msgid "Willow Added V"
+msgstr "유 증 V"
+
+msgid "Willow Added VI"
+msgstr "유 증 VI"
+
+msgid "Willow Added VII"
+msgstr "유 증 VII"
+
+msgid "Willow Added VIII"
+msgstr "유 증 VIII"
+
+msgid "Willow Added IX"
+msgstr "유 증 IX"
+
+msgid "Willow Added X"
+msgstr "유 증 X"
+
+msgid "Willow Added XI"
+msgstr "유 증 XI"
+
+msgid "Willow Added XII"
+msgstr "유 증 XII"
+
+msgid "Willow Added XIII"
+msgstr "유 증 XIII"
+
+msgid "Banner of Wine Shop I"
+msgstr "주기 I"
+
+msgid "Banner of Wine Shop II"
+msgstr "주기 II"
+
+msgid "Banner of Wine Shop III"
+msgstr "주기 III"
+
+msgid "Banner of Wine Shop Added I"
+msgstr "주기 증 I"
+
+msgid "Banner of Wine Shop Added II"
+msgstr "주기 증 II"
+
+msgid "Banner of Wine Shop Added III"
+msgstr "주기 증 III"
+
+msgid "Banner of Wine Shop Added IV"
+msgstr "주기 증 IV"
+
+msgid "Banner of Wine Shop Added V"
+msgstr "주기 증 V"
+
+msgid "Star I"
+msgstr "성 I"
+
+msgid "Star II"
+msgstr "성 II"
+
+msgid "Star III"
+msgstr "성 III"
+
+msgid "Star IV"
+msgstr "성 IV"
+
+msgid "Star V"
+msgstr "성 V"
+
+msgid "Star VI"
+msgstr "성 VI"
+
+msgid "Star VII"
+msgstr "성 VII"
+
+msgid "Star Added I"
+msgstr "성 증 I"
+
+msgid "Star Added II"
+msgstr "성 증 II"
+
+msgid "Star Added III"
+msgstr "성 증 III"
+
+msgid "Star Added IV"
+msgstr "성 증 IV"
+
+msgid "Star Added V"
+msgstr "성 증 V"
+
+msgid "Star Added VI"
+msgstr "성 증 VI"
+
+msgid "Star Added VII"
+msgstr "성 증 VII"
+
+msgid "Star Added VIII"
+msgstr "성 증 VIII"
+
+msgid "Star Added IX"
+msgstr "성 증 IX"
+
+msgid "Star Added X"
+msgstr "성 증 X"
+
+msgid "Star Added XI"
+msgstr "성 증 XI"
+
+msgid "Star Added XII"
+msgstr "성 증 XII"
+
+msgid "Star Added XIII"
+msgstr "성 증 XIII"
+
+msgid "Star Added XV"
+msgstr "성 증 XV"
+
+msgid "Celestial Premier I"
+msgstr "천상 I"
+
+msgid "Celestial Premier III"
+msgstr "천상 III"
+
+msgid "Celestial Premier Added I"
+msgstr "천상 증 I"
+
+msgid "Celestial Premier Added II"
+msgstr "천상 증 II"
+
+msgid "Celestial Premier Added III"
+msgstr "천상 증 III"
+
+msgid "Celestial Premier Added IV"
+msgstr "천상 증 IV"
+
+msgid "Celestial Premier Added V"
+msgstr "천상 증 V"
+
+msgid "Celestial Premier Added VI"
+msgstr "천상 증 VI"
+
+msgid "Celestial Premier Added VIII"
+msgstr "천상 증 VIII"
+
+msgid "Celestial Premier Added IX"
+msgstr "천상 증 IX"
+
+msgid "Celestial Premier Added X"
+msgstr "천상 증 X"
+
+msgid "Celestial Premier Added XI"
+msgstr "천상 층 XI"
+
+msgid "Celestial Premier Added XII"
+msgstr "천상 층 XII"
+
+msgid "Xuanyuan I"
+msgstr "헌원 I"
+
+msgid "Xuanyuan II"
+msgstr "헌원 II"
+
+msgid "Xuanyuan III"
+msgstr "헌원 III"
+
+msgid "Xuanyuan IV"
+msgstr "헌원 IV"
+
+msgid "Xuanyuan V"
+msgstr "헌원 V"
+
+msgid "Xuanyuan VI"
+msgstr "헌원 VI"
+
+msgid "Xuanyuan VII"
+msgstr "헌원 VII"
+
+msgid "Xuanyuan VIII"
+msgstr "헌원 VIII"
+
+msgid "Xuanyuan IX"
+msgstr "헌원 IX"
+
+msgid "Xuanyuan X"
+msgstr "헌원 X"
+
+msgid "Xuanyuan XI"
+msgstr "헌원 XI"
+
+msgid "Xuanyuan XII"
+msgstr "헌원 XII"
+
+msgid "Xuanyuan XIII"
+msgstr "헌원 XIII"
+
+msgid "Xuanyuan XIV"
+msgstr "헌원 XIV"
+
+msgid "Xuanyuan XV"
+msgstr "헌원 XV"
+
+msgid "Xuanyuan XVI"
+msgstr "헌원 XVI"
+
+msgid "Xuanyuan XVII"
+msgstr "헌원 XVII"
+
+msgid "Xuanyuan Added I"
+msgstr "헌원 증 I"
+
+msgid "Xuanyuan Added II"
+msgstr "헌원 증 II"
+
+msgid "Xuanyuan Added III"
+msgstr "헌원 증 III"
+
+msgid "Xuanyuan Added IV"
+msgstr "헌원 증 IV"
+
+msgid "Xuanyuan Added V"
+msgstr "헌원 증 V"
+
+msgid "Xuanyuan Added VI"
+msgstr "헌원 증 VI"
+
+msgid "Xuanyuan Added VII"
+msgstr "헌원 증 VII"
+
+msgid "Xuanyuan Added VIII"
+msgstr "헌원 증 VIII"
+
+msgid "Xuanyuan Added IX"
+msgstr "헌원 증 IX"
+
+msgid "Xuanyuan Added X"
+msgstr "헌원 증 X"
+
+msgid "Xuanyuan Added XI"
+msgstr "헌원 증 XI"
+
+msgid "Xuanyuan Added XII"
+msgstr "헌원 증 XII"
+
+msgid "Xuanyuan Added XIII"
+msgstr "헌원 증 XIII"
+
+msgid "Xuanyuan Added XIV"
+msgstr "헌원 증 XIV"
+
+msgid "Xuanyuan Added XV"
+msgstr "헌원 증 XV"
+
+msgid "Xuanyuan Added XVI"
+msgstr "헌원 증 XVI"
+
+msgid "Xuanyuan Added XVII"
+msgstr "헌원 증 XVII"
+
+msgid "Xuanyuan Added XVIII"
+msgstr "헌원 증 XVIII"
+
+msgid "Xuanyuan Added XIX"
+msgstr "헌원 증 XIX"
+
+msgid "Xuanyuan Added XX"
+msgstr "헌원 증 XX"
+
+msgid "Xuanyuan Added XXI"
+msgstr "헌원 증 XXI"
+
+msgid "Xuanyuan Added XXII"
+msgstr "헌원 증 XXII"
+
+msgid "Xuanyuan Added XXIII"
+msgstr "헌원 증 XXIII"
+
+msgid "Xuanyuan Added XXIV"
+msgstr "헌원 증 XXIV"
+
+msgid "Xuanyuan Added XXV"
+msgstr "헌원 증 XXV"
+
+msgid "Xuanyuan Added XXVI"
+msgstr "헌원 증 XXVI"
+
+msgid "Xuanyuan Added XXVII"
+msgstr "헌원 증 XXVII"
+
+msgid "Xuanyuan Added XXVIII"
+msgstr "헌원 증 XXVIII"
+
+msgid "Xuanyuan Added XXIX"
+msgstr "헌원 증 XXIX"
+
+msgid "Xuanyuan Added XXX"
+msgstr "헌원 증 XXX"
+
+msgid "Xuanyuan Added XXXI"
+msgstr "헌원 증 XXXI"
+
+msgid "Xuanyuan Added XXXII"
+msgstr "헌원 증 XXXII"
+
+msgid "Xuanyuan Added XXXIII"
+msgstr "헌원 증 XXXIII"
+
+msgid "Xuanyuan Added XXXIV"
+msgstr "헌원 증 XXXIV"
+
+msgid "Xuanyuan Added XXXV"
+msgstr "헌원 증 XXXV"
+
+msgid "Xuanyuan Added XXXVI"
+msgstr "헌원 증 XXXVI"
+
+msgid "Xuanyuan Added XXXVII"
+msgstr "헌원 증 XXXVII"
+
+msgid "Xuanyuan Added XXXVIII"
+msgstr "헌원 증 XXXVIII"
+
+msgid "Xuanyuan Added XXXIX"
+msgstr "헌원 증 XXXIX"
+
+msgid "Xuanyuan Added XL"
+msgstr "헌원 증 XL"
+
+msgid "Xuanyuan Added XLII"
+msgstr "헌원 증 XLII"
+
+msgid "Xuanyuan Added XLIII"
+msgstr "헌원 증 XLIII"
+
+msgid "Xuanyuan Added XLIV"
+msgstr "헌원 증 XLIV"
+
+msgid "Xuanyuan Added XLV"
+msgstr "헌원 증 XLV"
+
+msgid "Xuanyuan Added XLVI"
+msgstr "헌원 증 XLVI"
+
+msgid "Xuanyuan Added XLVII"
+msgstr "헌원 증 XLVII"
+
+msgid "Xuanyuan Added XLVIII"
+msgstr "헌원 증 XLVIII"
+
+msgid "Xuanyuan Added XLIX"
+msgstr "헌원 증 XLIX"
+
+msgid "Xuanyuan Added L"
+msgstr "헌원 증 L"
+
+msgid "Xuanyuan Added LI"
+msgstr "헌원 증 LI"
+
+msgid "Xuanyuan Added LII"
+msgstr "헌원 증 LII"
+
+msgid "Xuanyuan Added LIII"
+msgstr "헌원 증 LIII"
+
+msgid "Xuanyuan Added LIV"
+msgstr "헌원 증 LIV"
+
+msgid "Xuanyuan Added LV"
+msgstr "헌원 증 LV"
+
+msgid "Xuanyuan Added LVI"
+msgstr "헌원 증 LVI"
+
+msgid "Xuanyuan Added LVII"
+msgstr "헌원 증 LVII"
+
+msgid "Xuanyuan Added LVIII"
+msgstr "헌원 증 LVIII"
+
+msgid "Xuanyuan Added LIX"
+msgstr "헌원 증 LIX"
+
+msgid "High Judge I"
+msgstr "내평 I"
+
+msgid "High Judge II"
+msgstr "내평 II"
+
+msgid "High Judge III"
+msgstr "내평 III"
+
+msgid "High Judge IV"
+msgstr "내평 IV"
+
+msgid "High Judge Added I"
+msgstr "내평 증 I"
+
+msgid "High Judge Added II"
+msgstr "내평 증 II"
+
+msgid "High Judge Added III"
+msgstr "내평 증 III"
+
+msgid "High Judge Added IV"
+msgstr "내평 증 IV"
+
+msgid "High Judge Added V"
+msgstr "내평 증 V"
+
+msgid "High Judge Added VI"
+msgstr "내평 증 VI"
+
+msgid "High Judge Added VII"
+msgstr "내평 증 VII"
+
+msgid "High Judge Added VIII"
+msgstr "내평 증 VIII"
+
+msgid "High Judge Added IX"
+msgstr "내평 증 IX"
+
+msgid "High Judge Added X"
+msgstr "내평 증 X"
+
+msgid "High Judge Added XI"
+msgstr "내평 증 XI"
+
+msgid "Extended Net I"
+msgstr "장 I"
+
+msgid "Extended Net II"
+msgstr "장 II"
+
+msgid "Extended Net III"
+msgstr "장 III"
+
+msgid "Extended Net IV"
+msgstr "장 IV"
+
+msgid "Extended Net V"
+msgstr "장 V"
+
+msgid "Extended Net VI"
+msgstr "장 VI"
+
+msgid "Extended Net Added I"
+msgstr "장 증 I"
+
+msgid "Extended Net Added II"
+msgstr "장 증 II"
+
+msgid "Extended Net Added III"
+msgstr "장 증 III"
+
+msgid "Extended Net Added IV"
+msgstr "장 증 IV"
+
+msgid "Extended Net Added V"
+msgstr "장 증 V"
+
+msgid "Wings I"
+msgstr "익 I"
+
+msgid "Wings II"
+msgstr "익 II"
+
+msgid "Wings III"
+msgstr "익 III"
+
+msgid "Wings IV"
+msgstr "익 IV"
+
+msgid "Wings V"
+msgstr "익 V"
+
+msgid "Wings VI"
+msgstr "익 VI"
+
+msgid "Wings VII"
+msgstr "익 VII"
+
+msgid "Wings VIII"
+msgstr "익 VIII"
+
+msgid "Wings IX"
+msgstr "익 IX"
+
+msgid "Wings X"
+msgstr "익 X"
+
+msgid "Wings XI?"
+msgstr "익 XI?"
+
+msgid "Wings XII"
+msgstr "익 XII"
+
+msgid "Wings XIII"
+msgstr "익 XIII"
+
+msgid "Wings XIV"
+msgstr "익 XIV"
+
+msgid "Wings XVI"
+msgstr "익 XVI"
+
+msgid "Wings XVII?"
+msgstr "익 XVII?"
+
+msgid "Wings XX"
+msgstr "익 XX"
+
+msgid "Wings XXI?"
+msgstr "익 XXI?"
+
+msgid "Wings Added I"
+msgstr "익 증 I"
+
+msgid "Wings Added II"
+msgstr "익 증 II"
+
+msgid "Wings Added III"
+msgstr "익 증 III"
+
+msgid "Wings Added IV"
+msgstr "익 증 IV"
+
+msgid "Wings Added V"
+msgstr "익 증 V"
+
+msgid "Wings Added VI"
+msgstr "익 증 VI"
+
+msgid "Wings Added VII"
+msgstr "익 증 VII"
+
+msgid "Chariot I"
+msgstr "진 I"
+
+msgid "Chariot II"
+msgstr "진 II"
+
+msgid "Chariot III"
+msgstr "진 III"
+
+msgid "Chariot IV"
+msgstr "진 IV"
+
+msgid "Chariot Added I"
+msgstr "진 증 I"
+
+msgid "Chariot Added II"
+msgstr "진 증 II"
+
+msgid "Chariot Added III"
+msgstr "진 증 III"
+
+msgid "Chariot Added IV"
+msgstr "진 증 IV"
+
+msgid "Chariot Added V"
+msgstr "진 증 V"
+
+msgid "Right linchpin"
+msgstr "우할(右轄)"
+
+msgid "Left linchpin"
+msgstr "좌할(左轄)"
+
+msgid "Changsha"
+msgstr "장사(長沙)"
+
+msgid "Green Hill I"
+msgstr "청구 I"
+
+msgid "Green Hill II"
+msgstr "청구 II"
+
+msgid "Green Hill III"
+msgstr "청구 III"
+
+msgid "Green Hill IV"
+msgstr "청구 IV"
+
+msgid "Green Hill V"
+msgstr "청구 V"
+
+msgid "Green Hill VI"
+msgstr "청구 VI"
+
+msgid "Green Hill VII"
+msgstr "청구 VII"
+
+msgid "Green Hill Added I"
+msgstr "청구 증 I"
+
+msgid "Green Hill Added II"
+msgstr "청구 증 II"
+
+msgid "Green Hill Added III*"
+msgstr "청구 증 III*"
+
+msgid "Sea and Mountain I"
+msgstr "해산 I"
+
+msgid "Sea and Mountain IV*"
+msgstr "해산 IV*"
+
+msgid "Sea and Mountain V"
+msgstr "해산 V"
+
+msgid "Sea and Mountain VI"
+msgstr "해산 VI"
+
+msgid "Sea and Mountain Added I"
+msgstr "해산 증 I"
+
+msgid "Sea and Mountain Added II"
+msgstr "해산 증 II"
+
+msgid "Cross I"
+msgstr "십자가 I"
+
+msgid "Cross II"
+msgstr "십자가 II"
+
+msgid "Cross III"
+msgstr "십자가 III"
+
+msgid "Cross IV"
+msgstr "십자가 IV"
+
+msgid "Horse's Tail I"
+msgstr "마미 I"
+
+msgid "Horse's Tail II"
+msgstr "마미 II"
+
+msgid "Horse's Tail III"
+msgstr "마미 III"
+
+msgid "Horse's Abdomen I"
+msgstr "마복 I"
+
+msgid "Horse's Abdomen II?"
+msgstr "마복 II?"
+
+msgid "Bee I"
+msgstr "밀봉 I"
+
+msgid "Bee II*"
+msgstr "밀봉 II*"
+
+msgid "Bee III"
+msgstr "밀봉 III"
+
+msgid "Bee IV*"
+msgstr "밀봉 IV*"
+
+msgid "Triangle I"
+msgstr "삼각형 I"
+
+msgid "Triangle II"
+msgstr "삼각형 II"
+
+msgid "Triangle III"
+msgstr "삼각형 III"
+
+msgid "Triangle Added I"
+msgstr "삼각형 증 I"
+
+msgid "Triangle Added II"
+msgstr "삼각형 증 II"
+
+msgid "Triangle Added III"
+msgstr "삼각형 증 III"
+
+msgid "Triangle Added IV"
+msgstr "삼각형 증 IV"
+
+msgid "Exotic Bird I"
+msgstr "이작 I"
+
+msgid "Exotic Bird II"
+msgstr "이작 II"
+
+msgid "Exotic Bird III"
+msgstr "이작 III"
+
+msgid "Exotic Bird IV"
+msgstr "이작 IV"
+
+msgid "Exotic Bird V"
+msgstr "이작 V"
+
+msgid "Exotic Bird VI"
+msgstr "이작 VI"
+
+msgid "Exotic Bird VII"
+msgstr "이작 VII"
+
+msgid "Exotic Bird VIII"
+msgstr "이작 VIII"
+
+msgid "Exotic Bird IX"
+msgstr "이작 IX"
+
+msgid "Peafowl I"
+msgstr "공작 I"
+
+msgid "Peafowl II"
+msgstr "공작 II"
+
+msgid "Peafowl III"
+msgstr "공작 III"
+
+msgid "Peafowl IV"
+msgstr "공작 IV"
+
+msgid "Peafowl V"
+msgstr "공작 V"
+
+msgid "Peafowl VI"
+msgstr "공작 VI"
+
+msgid "Peafowl VII"
+msgstr "공작 VII"
+
+msgid "Peafowl VIII"
+msgstr "공작 VIII"
+
+msgid "Peafowl IX"
+msgstr "공작 IX"
+
+msgid "Peafowl X"
+msgstr "공작 X"
+
+msgid "Peafowl XI"
+msgstr "공작 XI"
+
+msgid "Peafowl Added I"
+msgstr "공작 증 I"
+
+msgid "Peafowl Added II"
+msgstr "공작 증 II"
+
+msgid "Peafowl Added III"
+msgstr "공작 증 III"
+
+msgid "Peafowl Added IV"
+msgstr "공작 증 IV"
+
+msgid "Persia I?"
+msgstr "파사 I?"
+
+msgid "Persia II"
+msgstr "파사 II"
+
+msgid "Persia IV*"
+msgstr "파사 IV*"
+
+msgid "Persia VI?"
+msgstr "파사 VI?"
+
+msgid "Persia VII*"
+msgstr "파사 VII"
+
+msgid "Persia IX?"
+msgstr "파사 IX"
+
+msgid "Persia XI*"
+msgstr "파사 XI*"
+
+msgid "Snake's Tail I"
+msgstr "사미 I"
+
+msgid "Snake's Tail II"
+msgstr "사미 II"
+
+msgid "Snake's Tail III"
+msgstr "사미 III"
+
+msgid "Snake's Tail IV"
+msgstr "사미 IV"
+
+msgid "Snake's Abdomen I"
+msgstr "사복 I"
+
+msgid "Snake's Abdomen II"
+msgstr "사복 II"
+
+msgid "Snake's Abdomen III"
+msgstr "사복 III"
+
+msgid "Snake's Abdomen IV"
+msgstr "사복 IV"
+
+msgid "Snake's Head I"
+msgstr "사수 I"
+
+msgid "Snake's Head II"
+msgstr "사수 II"
+
+msgid "Bird's Beak I"
+msgstr "조훼 I"
+
+msgid "Bird's Beak II"
+msgstr "조훼 II"
+
+msgid "Bird's Beak III"
+msgstr "조훼 III"
+
+msgid "Bird's Beak IV"
+msgstr "조훼 IV"
+
+msgid "Bird's Beak V"
+msgstr "조훼 V"
+
+msgid "Bird's Beak VI"
+msgstr "조훼 VI"
+
+msgid "Bird's Beak VII"
+msgstr "조훼 VII"
+
+msgid "Bird's Beak Added I"
+msgstr "조훼 증 I"
+
+msgid "Crane I"
+msgstr "학 I"
+
+msgid "Crane II"
+msgstr "학 II"
+
+msgid "Crane III"
+msgstr "학 III"
+
+msgid "Crane IV"
+msgstr "학 IV"
+
+msgid "Crane V"
+msgstr "학 V"
+
+msgid "Crane VI"
+msgstr "학 VI"
+
+msgid "Crane VII"
+msgstr "학 VII"
+
+msgid "Crane VIII"
+msgstr "학 VIII"
+
+msgid "Crane IX"
+msgstr "학 IX"
+
+msgid "Crane X"
+msgstr "학 X"
+
+msgid "Crane XI"
+msgstr "학 XI"
+
+msgid "Crane XII"
+msgstr "학 XII"
+
+msgid "Crane Added I"
+msgstr "학 증 I"
+
+msgid "Crane Added II"
+msgstr "학 증 II"
+
+msgid "Firebird I"
+msgstr "화조 I"
+
+msgid "Firebird II"
+msgstr "화조 II"
+
+msgid "Firebird III"
+msgstr "화조 III"
+
+msgid "Firebird IV"
+msgstr "화조 IV"
+
+msgid "Firebird V"
+msgstr "화조 V"
+
+msgid "Firebird VI"
+msgstr "화조 VI"
+
+msgid "Firebird VII"
+msgstr "화조 VII"
+
+msgid "Firebird VIII"
+msgstr "화조 VIII"
+
+msgid "Firebird IX"
+msgstr "화조 IX"
+
+msgid "Firebird X"
+msgstr "화조 X"
+
+msgid "Firebird Added I"
+msgstr "화조 증 I"
+
+msgid "Crooked Running Water I"
+msgstr "수위 I"
+
+msgid "Crooked Running Water II"
+msgstr "수위 II"
+
+msgid "Crooked Running Water III"
+msgstr "수위 III"
+
+msgid "White Patched Nearby I"
+msgstr "부백 I"
+
+msgid "White Patched Nearby II"
+msgstr "부백 II"
+
+msgid "White Patches Attached I"
+msgstr "협백 I"
+
+msgid "White Patches Attached II"
+msgstr "협백 II"
+
+msgid "Goldfish I"
+msgstr "금어 I"
+
+msgid "Goldfish II"
+msgstr "금어 II"
+
+msgid "Goldfish III"
+msgstr "금어 III"
+
+msgid "Goldfish IV"
+msgstr "금어 IV"
+
+msgid "Goldfish V"
+msgstr "금어 V"
+
+msgid "Goldfish Added I"
+msgstr "금어 증 I"
+
+msgid "Sea Rock I"
+msgstr "해석 I"
+
+msgid "Sea Rock II"
+msgstr "해석 II"
+
+msgid "Sea Rock III"
+msgstr "해석 III"
+
+msgid "Sea Rock IV"
+msgstr "해석 IV"
+
+msgid "Sea Rock V"
+msgstr "해석 V"
+
+msgid "Sea Rock Added I"
+msgstr "해석 증 I"
+
+msgid "Sea Rock Added II"
+msgstr "해석 증 II"
+
+msgid "Sea Rock Added III"
+msgstr "해석 증 III"
+
+msgid "Flying Fish I"
+msgstr "비어 I"
+
+msgid "Flying Fish II"
+msgstr "비어 II"
+
+msgid "Flying Fish III"
+msgstr "비어 III"
+
+msgid "Flying Fish IV"
+msgstr "비어 IV"
+
+msgid "Flying Fish V"
+msgstr "비어 V"
+
+msgid "Flying Fish VI"
+msgstr "비어 VI"
+
+msgid "Southern Boat I"
+msgstr "남선 I"
+
+msgid "Southern Boat II"
+msgstr "남선 II"
+
+msgid "Southern Boat III"
+msgstr "남선 III"
+
+msgid "Southern Boat IV"
+msgstr "남선 IV"
+
+msgid "Southern Boat V"
+msgstr "남선 V"
+
+msgid "Southern Boat Added I"
+msgstr "남선 증 "
+
+msgid "Little Dipper I"
+msgstr "소두 I"
+
+msgid "Little Dipper II"
+msgstr "소두 II"
+
+msgid "Little Dipper III"
+msgstr "소두 III"
+
+msgid "Little Dipper IV"
+msgstr "소두 IV"
+
+msgid "Little Dipper V"
+msgstr "소두 V"
+
+msgid "Little Dipper VI"
+msgstr "소두 VI"
+
+msgid "Little Dipper VII"
+msgstr "소두 VII"
+
+msgid "Little Dipper VIII"
+msgstr "소두 VIII"
+
+msgid "Little Dipper IX"
+msgstr "소두 IX"
+
+msgid "Little Dipper Added I"
+msgstr "소두 증 I"
+
+msgid "Sculptor"
+msgstr "조각가"
+
+msgid "Pyxis"
+msgstr "나침반"
+
+msgid "Caelum"
+msgstr "조각칼"
+
+msgid "Chamaeleon"
+msgstr "카멜레온"
+
+msgid "Carina"
+msgstr "용골"
+
+msgid "Coma Berenices"
+msgstr "머리털자리"
+
+msgid "Canes Venatici"
+msgstr "사냥개"
+
+msgid "Columba"
+msgstr "비둘기"
+
+msgid "Circinus"
+msgstr "컴퍼스"
+
+msgid "Crux"
+msgstr "남십자"
+
+msgid "Dorado"
+msgstr "황새치"
+
+msgid "Norma"
+msgstr "직각자"
+
+msgid "Fornax"
+msgstr "화로"
+
+msgid "Camelopardalis"
+msgstr "기린"
+
+msgid "Grus"
+msgstr "두루미"
+
+msgid "Horologium"
+msgstr "시계"
+
+msgid "Hydrus"
+msgstr "물뱀"
+
+msgid "Indus"
+msgstr "인디언"
+
+msgid "Lacerta"
+msgstr "도마뱀"
+
+msgid "Monoceros"
+msgstr "외뿔소"
+
+msgid "Lynx"
+msgstr "살쾡이"
+
+msgid "Antlia"
+msgstr "공기펌프"
+
+msgid "Microscopium"
+msgstr "현미경"
+
+msgid "Musca"
+msgstr "파리"
+
+msgid "Octans"
+msgstr "팔분의"
+
+msgid "Apus"
+msgstr "극락조"
+
+msgid "Pavo"
+msgstr "공작"
+
+msgid "Pictor"
+msgstr "화가"
+
+msgid "Leo Minor"
+msgstr "작은사자"
+
+msgid "Vulpecula"
+msgstr "작은여우"
+
+msgid "Phoenix"
+msgstr "불사조"
+
+msgid "Volans"
+msgstr "날치"
+
+msgid "Puppis"
+msgstr "고물"
+
+msgid "Reticulum"
+msgstr "그물"
+
+msgid "Scutum"
+msgstr "방패"
+
+msgid "Sextans"
+msgstr "육분의"
+
+msgid "Mensa"
+msgstr "멘사"
+
+msgid "Telescopium"
+msgstr "망원경"
+
+msgid "Tucana"
+msgstr "큰부리새"
+
+msgid "Triangulum Australe"
+msgstr "남쪽삼각형"
+
+msgid "Vela"
+msgstr "돛"
+
+msgid "Andrews' star"
+msgstr "앤드류의 별"
+
+msgid "Luyten's Star"
+msgstr "루이텐의 별"
+
+msgid "Innes' Star"
+msgstr "이네스의 별"
+
+msgid "Proxima"
+msgstr "프록시마"
+
+msgid "Przybylski's Star"
+msgstr "프르지빌스키의 별"
+
+msgid "Blaze Star"
+msgstr "블레이즈 스타"
+
+msgid "Campbell's Star"
+msgstr "캠벨의 별"
+
+msgid "Babcock's Star"
+msgstr "밥콕의 별"
+
+msgid "Hind's Crimson Star"
+msgstr "힌드의 진홍색 별"
+
+msgid "Plaskett's Star"
+msgstr "플라스켓의 별"
+
+msgid "Red Rectangle"
+msgstr "붉은 삼각형"
+
+msgid "Polaris Australis"
+msgstr "남쪽 폴라리스"
+
+msgid "Barnard's Star"
+msgstr "버나드별"
+
+msgid "Kapteyn's Star"
+msgstr "캅테인의 별"
+
+msgid "van Maanen's Star"
+msgstr "반 마넨의 별"
+
+msgid "Vanant"
+msgstr "바난트"
+
+msgid "The Ruby Star"
+msgstr "루비별"
+
+msgid "Lalande 21185"
+msgstr "랄랑드 21185"
