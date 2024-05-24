@@ -1,0 +1,10005 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander Shopov <ash@kambanaria.org>, 2022\n"
+"Language-Team: Bulgarian (https://app.transifex.com/stellarium/teams/80998/"
+"bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Modern (Chinese)"
+msgstr ""
+
+msgid "Ursa Minor"
+msgstr "Малка мечка"
+
+msgid "Ursa Major"
+msgstr "Голяма мечка"
+
+msgid "Draco"
+msgstr "Дракон"
+
+msgid "Cepheus"
+msgstr "Цефей"
+
+msgid "Bootes"
+msgstr "Воловар"
+
+msgid "Corona Borealis"
+msgstr "Северна корона"
+
+msgid "Hercules"
+msgstr "Хѐркулес"
+
+msgid "Lyra"
+msgstr "Лира"
+
+msgid "Cygnus"
+msgstr "Лебед"
+
+msgid "Cassiopeia"
+msgstr "Касиопея"
+
+msgid "Perseus"
+msgstr "Персей"
+
+msgid "Auriga"
+msgstr "Колар"
+
+msgid "Ophiuchus"
+msgstr "Змиеносец"
+
+msgid "Serpens"
+msgstr "Змия"
+
+msgid "Sagitta"
+msgstr "Стрела"
+
+msgid "Aquila"
+msgstr "Орел"
+
+msgid "Delphinus"
+msgstr "Делфин"
+
+msgid "Equuleus"
+msgstr "Жребче"
+
+msgid "Pegasus"
+msgstr "Пегас"
+
+msgid "Andromeda"
+msgstr "Андромеда"
+
+msgid "Triangulum"
+msgstr "Триъгълник"
+
+msgid "Aries"
+msgstr "Овен"
+
+msgid "Taurus"
+msgstr "Телец"
+
+msgid "Gemini"
+msgstr "Близнаци"
+
+msgid "Cancer"
+msgstr "Рак"
+
+msgid "Leo"
+msgstr "Лъв"
+
+msgid "Virgo"
+msgstr "Дева"
+
+msgid "Libra"
+msgstr "Везни"
+
+msgid "Scorpius"
+msgstr "Скорпион"
+
+msgid "Sagittarius"
+msgstr "Стрелец"
+
+msgid "Capricornus"
+msgstr "Козирог"
+
+msgid "Aquarius"
+msgstr "Водолей"
+
+msgid "Pisces"
+msgstr "Риби"
+
+msgid "Cetus"
+msgstr "Кит"
+
+msgid "Orion"
+msgstr "Орион"
+
+msgid "Eridanus"
+msgstr "Еридан"
+
+msgid "Lepus"
+msgstr "Заек"
+
+msgid "Canis Major"
+msgstr "Голямо куче"
+
+msgid "Canis Minor"
+msgstr "Малко куче"
+
+msgid "Hydra"
+msgstr "Хидра"
+
+msgid "Crater"
+msgstr "Чаша"
+
+msgid "Corvus"
+msgstr "Гарван"
+
+msgid "Centaurus"
+msgstr "Центавър"
+
+msgid "Lupus"
+msgstr "Вълк"
+
+msgid "Ara"
+msgstr "Жертвеник"
+
+msgid "Corona Australis"
+msgstr "Южна корона"
+
+msgid "Piscis Austrinus"
+msgstr "Южна риба"
+
+msgid "Old Man"
+msgstr "Старец"
+
+msgid "North Gate of the Military Camp"
+msgstr "Северна порта на военния лагер"
+
+msgid "Whip"
+msgstr "Камшик"
+
+msgid "Retinue (In Supreme Palace Enclosure)"
+msgstr "Свита (в Ограждението на Върховния дворец)"
+
+msgid "Great Horn"
+msgstr "Голям рог"
+
+msgid "Emperor's Seat"
+msgstr ""
+
+msgid "Auxiliary Road"
+msgstr "Спомагателен път"
+
+msgid "Fu Yue"
+msgstr ""
+
+msgid "Astrologer"
+msgstr "Астролог"
+
+msgid "Emperor's Bodyguard"
+msgstr ""
+
+msgid "Heap of Corpses"
+msgstr ""
+
+msgid "Pile of Firewood"
+msgstr ""
+
+msgid "Door Bolt"
+msgstr "Резе"
+
+msgid "Recommending Virtuous Men"
+msgstr "Препоръчани добродетелни мъже"
+
+msgid "Accumulated Water"
+msgstr ""
+
+msgid "Southern Military Gate"
+msgstr "Южна военна порта"
+
+msgid "Chaff"
+msgstr "Плява"
+
+msgid "Captain of the Bodyguards"
+msgstr ""
+
+msgid "Peasant"
+msgstr "Селянин"
+
+msgid "Female Protocol"
+msgstr ""
+
+msgid "Chariots and Cavalry General"
+msgstr "Генерал на колесниците и конницата"
+
+msgid "Solar Star"
+msgstr "Слънчева звезда"
+
+msgid "Excrement"
+msgstr ""
+
+msgid "Guard of the Sun"
+msgstr ""
+
+msgid "First Great One"
+msgstr ""
+
+msgid "Crown Prince"
+msgstr ""
+
+msgid "Royals"
+msgstr ""
+
+msgid "Celestial Concave"
+msgstr ""
+
+msgid "Celestial Slander"
+msgstr ""
+
+msgid "Materials for Making Tents"
+msgstr ""
+
+msgid "Celestial Pass"
+msgstr ""
+
+msgid "Great Emperor of Heaven"
+msgstr ""
+
+msgid "Judge for Estimating the Age of Animals"
+msgstr ""
+
+msgid "Celestial Wolf"
+msgstr "Небесен вълк"
+
+msgid "Celestial Milk"
+msgstr "Небесно мляко"
+
+msgid "Celestial Great One"
+msgstr ""
+
+msgid "Master of Constructions"
+msgstr ""
+
+msgid "Prime Minister"
+msgstr ""
+
+msgid "Officer of Honour"
+msgstr ""
+
+msgid "Sombre Lance"
+msgstr ""
+
+msgid "Wild Cockerel"
+msgstr "Диво петле"
+
+msgid "Usher to the Court"
+msgstr ""
+
+msgid "Maids-in-waiting"
+msgstr ""
+
+msgid "Lunar Star"
+msgstr ""
+
+msgid "Twinkling Indicator"
+msgstr "Примигващ индикатор"
+
+msgid "Weaving Girl"
+msgstr "Плетящо момиче"
+
+msgid "Official of Royal Archives"
+msgstr ""
+
+msgid "Northern Pole I"
+msgstr "Северен полюс I"
+
+msgid "Northern Pole II"
+msgstr "Северен полюс II"
+
+msgid "Emperor"
+msgstr "Император"
+
+msgid "Northern Pole III"
+msgstr "Северен полюс III"
+
+msgid "Bastard"
+msgstr "Копеле"
+
+msgid "Northern Pole IV"
+msgstr "Северен полюс IV"
+
+msgid "Harem"
+msgstr "Харем"
+
+msgid "Northern Pole V"
+msgstr "Северен полюс V"
+
+msgid "The Celestial Pivot"
+msgstr ""
+
+msgid "Ancient Star"
+msgstr "Древна звезда"
+
+msgid "Bastard Added II"
+msgstr ""
+
+msgid "Bastard Added III"
+msgstr ""
+
+msgid "Four Advisors II"
+msgstr ""
+
+msgid "Four Advisors III"
+msgstr ""
+
+msgid "Four Advisors IV?"
+msgstr ""
+
+msgid "Four Advisors Added I"
+msgstr ""
+
+msgid "Curved Array I"
+msgstr ""
+
+msgid "Northern Star"
+msgstr "Северна звезда"
+
+msgid "Curved Array II"
+msgstr ""
+
+msgid "Curved Array III"
+msgstr ""
+
+msgid "Curved Array IV"
+msgstr ""
+
+msgid "Curved Array V"
+msgstr ""
+
+msgid "Curved Array VI"
+msgstr ""
+
+msgid "Curved Array Added I"
+msgstr ""
+
+msgid "Curved Array Added II"
+msgstr ""
+
+msgid "Curved Array Added IV"
+msgstr ""
+
+msgid "Curved Array Added V"
+msgstr ""
+
+msgid "Curved Array Added VI"
+msgstr ""
+
+msgid "Curved Array Added VII"
+msgstr ""
+
+msgid "Curved Array Added VIII"
+msgstr ""
+
+msgid "Curved Array Added IX"
+msgstr ""
+
+msgid "Curved Array Added X"
+msgstr ""
+
+msgid "Celestial Pillar I"
+msgstr "Небесна колона I"
+
+msgid "Celestial Pillar II"
+msgstr "Небесна колона II"
+
+msgid "Celestial Pillar III"
+msgstr "Небесна колона III"
+
+msgid "Celestial Pillar IV"
+msgstr "Небесна колона IV"
+
+msgid "Celestial Pillar V"
+msgstr "Небесна колона V"
+
+msgid "Celestial Pillar Added I"
+msgstr "Добавена небесна колона I"
+
+msgid "Celestial Pillar Added II"
+msgstr "Добавена небесна колона II"
+
+msgid "Celestial Pillar Added III"
+msgstr "Добавена небесна колона III"
+
+msgid "Celestial Pillar Added IV"
+msgstr "Добавена небесна колона IV"
+
+msgid "Celestial Pillar Added V"
+msgstr "Добавена небесна колона V"
+
+msgid "Celestial Pillar Added VI"
+msgstr "Добавена небесна колона VI"
+
+msgid "Maids-in-waiting I"
+msgstr ""
+
+msgid "Maids-in-waiting II"
+msgstr ""
+
+msgid "Maids-in-waiting III"
+msgstr ""
+
+msgid "Maids-in-waiting IV"
+msgstr ""
+
+msgid "Female Protocol Added I"
+msgstr ""
+
+msgid "Official of Royal Archives Added I"
+msgstr ""
+
+msgid "Official of Royal Archives Added II"
+msgstr ""
+
+msgid "Royal Secretary I"
+msgstr ""
+
+msgid "Royal Secretary II"
+msgstr ""
+
+msgid "Royal Secretary III"
+msgstr ""
+
+msgid "Royal Secretary IV?"
+msgstr ""
+
+msgid "Royal Secretary V"
+msgstr ""
+
+msgid "Royal Secretary Added I"
+msgstr ""
+
+msgid "Royal Secretary Added II"
+msgstr ""
+
+msgid "Celestial Bed I"
+msgstr "Небесно легло I"
+
+msgid "Celestial Bed II"
+msgstr "Небесно легло II"
+
+msgid "Celestial Bed III"
+msgstr "Небесно легло III"
+
+msgid "Celestial Bed IV"
+msgstr "Небесно легло IV"
+
+msgid "Celestial Bed V"
+msgstr "Небесно легло V"
+
+msgid "Celestial Bed VI"
+msgstr "Небесно легло VI"
+
+msgid "Celestial Bed Added I"
+msgstr "Добавено небесно легло I"
+
+msgid "Celestial Bed Added II"
+msgstr "Добавено небесно легло II"
+
+msgid "Chief Judge I"
+msgstr ""
+
+msgid "Chief Judge Added I"
+msgstr ""
+
+msgid "Hidden Virtue I"
+msgstr ""
+
+msgid "Hidden Virtue Added I"
+msgstr ""
+
+msgid "Hidden Virtue II"
+msgstr ""
+
+msgid "Six Jia I"
+msgstr ""
+
+msgid "Six Jia II"
+msgstr ""
+
+msgid "Six Jia III"
+msgstr ""
+
+msgid "Six Jia IV"
+msgstr ""
+
+msgid "Six Jia V"
+msgstr ""
+
+msgid "Six Jia VI"
+msgstr ""
+
+msgid "Six Jia Added I"
+msgstr ""
+
+msgid "Interior Seats of the Five Emperors I"
+msgstr ""
+
+msgid "Interior Seats of the Five Emperors II"
+msgstr ""
+
+msgid "Interior Seats of the Five Emperors III"
+msgstr ""
+
+msgid "Interior Seats of the Five Emperors IV"
+msgstr ""
+
+msgid "Interior Seats of the Five Emperors V"
+msgstr ""
+
+msgid "Interior Seats of the Five Emperors Added I"
+msgstr ""
+
+msgid "Interior Seats of the Five Emperors Added II"
+msgstr ""
+
+msgid "Interior Seats of the Five Emperors Added III"
+msgstr ""
+
+msgid "Canopy of the Emperor II"
+msgstr ""
+
+msgid "Canopy of the Emperor III"
+msgstr ""
+
+msgid "Canopy of the Emperor IV"
+msgstr ""
+
+msgid "Canopy of the Emperor V"
+msgstr ""
+
+msgid "Canopy of the Emperor VI"
+msgstr ""
+
+msgid "Canopy of the Emperor VII"
+msgstr ""
+
+msgid "Canopy Support I"
+msgstr ""
+
+msgid "Canopy Support II"
+msgstr ""
+
+msgid "Canopy Support III"
+msgstr ""
+
+msgid "Canopy Support IV"
+msgstr ""
+
+msgid "Canopy Support V"
+msgstr ""
+
+msgid "Canopy Support VI"
+msgstr ""
+
+msgid "Canopy Support VII"
+msgstr ""
+
+msgid "Canopy Support VIII"
+msgstr ""
+
+msgid "Canopy Support IX"
+msgstr ""
+
+msgid "Canopy Support Added I"
+msgstr ""
+
+msgid "Purple Forbidden Right Wall I"
+msgstr ""
+
+msgid "Right Pivot"
+msgstr ""
+
+msgid "Purple Forbidden Right Wall II"
+msgstr ""
+
+msgid "The Second Commandant"
+msgstr ""
+
+msgid "Purple Forbidden Right Wall III"
+msgstr ""
+
+msgid "The Great Advisor"
+msgstr ""
+
+msgid "Purple Forbidden Right Wall IV"
+msgstr ""
+
+msgid "The Second Advisor"
+msgstr ""
+
+msgid "Purple Forbidden Right Wall V"
+msgstr ""
+
+msgid "The Great Imperial Guard"
+msgstr ""
+
+msgid "Purple Forbidden Right Wall VI"
+msgstr ""
+
+msgid "The Second Imperial Guard"
+msgstr ""
+
+msgid "Purple Forbidden Right Wall VII"
+msgstr ""
+
+msgid "The Great Imperial Minister"
+msgstr ""
+
+msgid "The Second Commandant Added I"
+msgstr ""
+
+msgid "The Second Commandant Added II"
+msgstr ""
+
+msgid "The Great Advisor Added I"
+msgstr ""
+
+msgid "The Great Advisor Added II"
+msgstr ""
+
+msgid "The Second Advisor Added I"
+msgstr ""
+
+msgid "The Great Imperial Guard Added I"
+msgstr ""
+
+msgid "The Great Imperial Guard Added II"
+msgstr ""
+
+msgid "The Great Imperial Guard Added III"
+msgstr ""
+
+msgid "The Second Imperial Guard Added I"
+msgstr ""
+
+msgid "The Great Imperial Minister Added I"
+msgstr ""
+
+msgid "The Great Imperial Minister Added II"
+msgstr ""
+
+msgid "The Great Imperial Minister Added III"
+msgstr ""
+
+msgid "Purple Forbidden Left Wall I"
+msgstr ""
+
+msgid "Left Pivot"
+msgstr ""
+
+msgid "Purple Forbidden Left Wall II"
+msgstr ""
+
+msgid "The Great Prime Minister"
+msgstr ""
+
+msgid "Purple Forbidden Left Wall III"
+msgstr ""
+
+msgid "The Second Prime Minister"
+msgstr ""
+
+msgid "Purple Forbidden Left Wall IV"
+msgstr ""
+
+msgid "The Great Protector"
+msgstr ""
+
+msgid "Purple Forbidden Left Wall V"
+msgstr ""
+
+msgid "The Second Protector"
+msgstr ""
+
+msgid "Purple Forbidden Left Wall VI"
+msgstr ""
+
+msgid "Purple Forbidden Left Wall VII"
+msgstr ""
+
+msgid "Purple Forbidden Left Wall VIII"
+msgstr ""
+
+msgid "The Second Imperial Minister"
+msgstr ""
+
+msgid "The Second Imperial Guard Added II"
+msgstr ""
+
+msgid "The Second Imperial Guard Added III"
+msgstr ""
+
+msgid "The Second Imperial Guard Added IV"
+msgstr ""
+
+msgid "The Second Imperial Guard Added V"
+msgstr ""
+
+msgid "The Second Imperial Guard Added VI"
+msgstr ""
+
+msgid "The Second Imperial Guard Added VII"
+msgstr ""
+
+msgid "The Second Imperial Guard Added VIII"
+msgstr ""
+
+msgid "The Second Imperial Minister Added I"
+msgstr ""
+
+msgid "Inner Kitchen I"
+msgstr ""
+
+msgid "Inner Kitchen II"
+msgstr ""
+
+msgid "Inner Kitchen Added I"
+msgstr ""
+
+msgid "Inner Kitchen Added II"
+msgstr ""
+
+msgid "Northern Dipper I"
+msgstr "Северен черпак I"
+
+msgid "Northern Dipper II"
+msgstr "Северен черпак II"
+
+msgid "The Celestial Rotating Jade"
+msgstr ""
+
+msgid "Northern Dipper III"
+msgstr "Северен черпак III"
+
+msgid "The Celestial Shining Pearl"
+msgstr ""
+
+msgid "Northern Dipper IV"
+msgstr "Северен черпак IV"
+
+msgid "The Celestial Balance"
+msgstr ""
+
+msgid "Northern Dipper V"
+msgstr "Северен черпак V"
+
+msgid "The Jade Sighting-Tube"
+msgstr ""
+
+msgid "Northern Dipper VI"
+msgstr "Северен черпак VI"
+
+msgid "The Opener of Heat"
+msgstr ""
+
+msgid "Northern Dipper VII"
+msgstr "Северен черпак VII"
+
+msgid "The Twinkling Brilliance"
+msgstr ""
+
+msgid "The Celestial Pivot Added I"
+msgstr ""
+
+msgid "The Celestial Pivot Added II"
+msgstr ""
+
+msgid "The Celestial Pivot Added III"
+msgstr ""
+
+msgid "The Celestial Rotating Jade Added I"
+msgstr ""
+
+msgid "The Celestial Rotating Jade Added II"
+msgstr ""
+
+msgid "The Celestial Rotating Jade Added III"
+msgstr ""
+
+msgid "The Celestial Rotating Jade Added IV"
+msgstr ""
+
+msgid "The Celestial Rotating Jade Added V"
+msgstr ""
+
+msgid "The Celestial Rotating Jade Added VI"
+msgstr ""
+
+msgid "The Celestial Rotating Jade Added VII"
+msgstr ""
+
+msgid "The Celestial Rotating Jade Added VIII"
+msgstr ""
+
+msgid "The Celestial Balance Added I"
+msgstr ""
+
+msgid "The Celestial Balance Added II"
+msgstr ""
+
+msgid "The Celestial Balance Added III"
+msgstr ""
+
+msgid "The Opener of Heat Added II"
+msgstr ""
+
+msgid "Assistant"
+msgstr ""
+
+msgid "The Opener of Heat Added I"
+msgstr ""
+
+msgid "Assistant Added I"
+msgstr ""
+
+msgid "Assistant Added II"
+msgstr ""
+
+msgid "Assistant Added III"
+msgstr ""
+
+msgid "Celestial Spear I"
+msgstr ""
+
+msgid "Celestial Spear II"
+msgstr ""
+
+msgid "Celestial Spear III"
+msgstr ""
+
+msgid "Celestial Spear Added I"
+msgstr ""
+
+msgid "Celestial Spear Added II"
+msgstr ""
+
+msgid "Celestial Spear Added III"
+msgstr ""
+
+msgid "Celestial Spear Added IV"
+msgstr ""
+
+msgid "Sombre Lance Added I"
+msgstr ""
+
+msgid "Sombre Lance Added II"
+msgstr ""
+
+msgid "Three Excellencies II (In Purple Forbidden Enclosure)"
+msgstr ""
+
+msgid "Three Excellencies III (In Purple Forbidden Enclosure)"
+msgstr ""
+
+msgid "Prime Minister Added I"
+msgstr ""
+
+msgid "Prime Minister Added II"
+msgstr ""
+
+msgid "Prime Minister Added III"
+msgstr ""
+
+msgid "Judge for Nobility I"
+msgstr ""
+
+msgid "Judge for Nobility II"
+msgstr ""
+
+msgid "Judge for Nobility III"
+msgstr ""
+
+msgid "Judge for Nobility IV"
+msgstr ""
+
+msgid "Judge for Nobility Added I"
+msgstr ""
+
+msgid "Guard of the Sun Added I"
+msgstr ""
+
+msgid "Celestial Prison I"
+msgstr ""
+
+msgid "Celestial Prison II"
+msgstr ""
+
+msgid "Celestial Prison III"
+msgstr ""
+
+msgid "Celestial Prison IV"
+msgstr ""
+
+msgid "Celestial Prison V"
+msgstr ""
+
+msgid "Celestial Prison VI"
+msgstr ""
+
+msgid "Celestial Prison Added I"
+msgstr ""
+
+msgid "Celestial Prison Added II"
+msgstr ""
+
+msgid "Eunuch I"
+msgstr ""
+
+msgid "Eunuch II"
+msgstr ""
+
+msgid "Eunuch III"
+msgstr ""
+
+msgid "Eunuch IV"
+msgstr ""
+
+msgid "Eunuch Added I"
+msgstr ""
+
+msgid "Eunuch Added II"
+msgstr ""
+
+msgid "Eunuch Added III"
+msgstr ""
+
+msgid "Eunuch Added IV"
+msgstr ""
+
+msgid "Eunuch Added V"
+msgstr ""
+
+msgid "Eunuch Added VI"
+msgstr ""
+
+msgid "Eunuch Added VII"
+msgstr ""
+
+msgid "Eunuch Added VIII"
+msgstr ""
+
+msgid "Eunuch Added IX"
+msgstr ""
+
+msgid "Eunuch Added X"
+msgstr ""
+
+msgid "Eunuch Added XI"
+msgstr ""
+
+msgid "Eunuch Added XII"
+msgstr ""
+
+msgid "Eunuch Added XIII"
+msgstr ""
+
+msgid "Eunuch Added XIV"
+msgstr ""
+
+msgid "Eunuch Added XV"
+msgstr ""
+
+msgid "Eunuch Added XVI"
+msgstr ""
+
+msgid "Eunuch Added XVII"
+msgstr ""
+
+msgid "Eunuch Added XVIII"
+msgstr ""
+
+msgid "Eunuch Added XIX"
+msgstr ""
+
+msgid "Administrative Center II"
+msgstr ""
+
+msgid "Administrative Center III"
+msgstr ""
+
+msgid "Administrative Center IV"
+msgstr ""
+
+msgid "Administrative Center V"
+msgstr ""
+
+msgid "Administrative Center VI"
+msgstr ""
+
+msgid "Administrative Center Added I"
+msgstr ""
+
+msgid "Administrative Center Added II"
+msgstr ""
+
+msgid "Administrative Center Added III"
+msgstr ""
+
+msgid "Administrative Center Added IV"
+msgstr ""
+
+msgid "Administrative Center Added V"
+msgstr ""
+
+msgid "Administrative Center Added VI"
+msgstr ""
+
+msgid "Administrative Center Added VII"
+msgstr ""
+
+msgid "Inner Steps I"
+msgstr ""
+
+msgid "Inner Steps II"
+msgstr ""
+
+msgid "Inner Steps III"
+msgstr ""
+
+msgid "Inner Steps IV"
+msgstr ""
+
+msgid "Inner Steps V"
+msgstr ""
+
+msgid "Inner Steps VI"
+msgstr ""
+
+msgid "Inner Steps Added I"
+msgstr ""
+
+msgid "Inner Steps Added II"
+msgstr ""
+
+msgid "Inner Steps Added III"
+msgstr ""
+
+msgid "Inner Steps Added IV"
+msgstr ""
+
+msgid "Inner Steps Added V"
+msgstr ""
+
+msgid "Inner Steps Added VII"
+msgstr ""
+
+msgid "Inner Steps Added VIII"
+msgstr ""
+
+msgid "Inner Steps Added IX"
+msgstr ""
+
+msgid "Inner Steps Added X"
+msgstr ""
+
+msgid "Three Top Instructors I"
+msgstr ""
+
+msgid "Three Top Instructors III"
+msgstr ""
+
+msgid "Three Top Instructors Added I"
+msgstr ""
+
+msgid "Eight Kinds of Crops I"
+msgstr ""
+
+msgid "Eight Kinds of Crops II"
+msgstr ""
+
+msgid "Eight Kinds of Crops III"
+msgstr ""
+
+msgid "Eight Kinds of Crops IV"
+msgstr ""
+
+msgid "Eight Kinds of Crops V"
+msgstr ""
+
+msgid "Eight Kinds of Crops VI"
+msgstr ""
+
+msgid "Eight Kinds of Crops VII"
+msgstr ""
+
+msgid "Eight Kinds of Crops VIII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added I"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added II"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added III"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added IV"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added V"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added VI"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added VII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added VIII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added IX"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added X"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XI"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XIII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XIV"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XV"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XVI"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XVII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XVIII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XIX"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XX"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXI"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXIII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXIV"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXV"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXVI"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXVII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXVIII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXIX"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXX"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXXI"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXXII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXXIII"
+msgstr ""
+
+msgid "Eight Kinds of Crops Added XXXIV"
+msgstr ""
+
+msgid "Guest House I"
+msgstr ""
+
+msgid "Guest House II"
+msgstr ""
+
+msgid "Guest House III"
+msgstr ""
+
+msgid "Guest House IV"
+msgstr ""
+
+msgid "Guest House V"
+msgstr ""
+
+msgid "Guest House VI"
+msgstr ""
+
+msgid "Guest House VII"
+msgstr ""
+
+msgid "Guest House VIII"
+msgstr ""
+
+msgid "Guest House IX"
+msgstr ""
+
+msgid "Guest House Added I"
+msgstr ""
+
+msgid "Guest House Added II"
+msgstr ""
+
+msgid "Guest House Added III"
+msgstr ""
+
+msgid "Guest House Added IV"
+msgstr ""
+
+msgid "Celestial Kitchen I"
+msgstr ""
+
+msgid "Celestial Kitchen II"
+msgstr ""
+
+msgid "Celestial Kitchen III"
+msgstr ""
+
+msgid "Celestial Kitchen IV"
+msgstr ""
+
+msgid "Celestial Kitchen V"
+msgstr ""
+
+msgid "Celestial Kitchen VI"
+msgstr ""
+
+msgid "Celestial Kitchen Added I"
+msgstr ""
+
+msgid "Celestial Kitchen Added II"
+msgstr ""
+
+msgid "Celestial Flail I"
+msgstr ""
+
+msgid "Celestial Flail II"
+msgstr ""
+
+msgid "Celestial Flail III"
+msgstr ""
+
+msgid "Celestial Flail IV"
+msgstr ""
+
+msgid "Celestial Flail V"
+msgstr ""
+
+msgid "Celestial Flail Added I"
+msgstr ""
+
+msgid "Celestial Flail Added II"
+msgstr ""
+
+msgid "Celestial Flail Added III"
+msgstr ""
+
+msgid "Celestial Flail Added IV"
+msgstr ""
+
+msgid "Celestial Flail Added VII"
+msgstr ""
+
+msgid "Celestial Flail Added VIII"
+msgstr ""
+
+msgid "Celestial Flail Added IX"
+msgstr ""
+
+msgid "Celestial Flail Added X"
+msgstr ""
+
+msgid "Seats of the Five Emperors I"
+msgstr ""
+
+msgid "Seats of the Five Emperors II"
+msgstr ""
+
+msgid "Seats of the Five Emperors III"
+msgstr ""
+
+msgid "Seats of the Five Emperors IV"
+msgstr ""
+
+msgid "Seats of the Five Emperors V"
+msgstr ""
+
+msgid "Seats of the Five Emperors Added I"
+msgstr ""
+
+msgid "Seats of the Five Emperors Added II"
+msgstr ""
+
+msgid "Seats of the Five Emperors Added III"
+msgstr ""
+
+msgid "Seats of the Five Emperors Added IV"
+msgstr ""
+
+msgid "Five Lords I"
+msgstr ""
+
+msgid "Five Lords II"
+msgstr ""
+
+msgid "Five Lords III"
+msgstr ""
+
+msgid "Five Lords V"
+msgstr ""
+
+msgid "Five Lords Added I"
+msgstr ""
+
+msgid "Five Lords Added II"
+msgstr ""
+
+msgid "Five Lords Added III"
+msgstr ""
+
+msgid "Five Lords Added IV"
+msgstr ""
+
+msgid "Five Lords Added V"
+msgstr ""
+
+msgid "Five Lords Added VI"
+msgstr ""
+
+msgid "Five Lords Added VII"
+msgstr ""
+
+msgid "Nine Senior Officers I"
+msgstr ""
+
+msgid "Nine Senior Officers II"
+msgstr ""
+
+msgid "Nine Senior Officers III"
+msgstr ""
+
+msgid "Nine Senior Officers Added I"
+msgstr ""
+
+msgid "Nine Senior Officers Added II"
+msgstr ""
+
+msgid "Nine Senior Officers Added III"
+msgstr ""
+
+msgid "Nine Senior Officers Added IV"
+msgstr ""
+
+msgid "Nine Senior Officers Added V"
+msgstr ""
+
+msgid "Nine Senior Officers Added VI"
+msgstr ""
+
+msgid "Nine Senior Officers Added VII"
+msgstr ""
+
+msgid "Nine Senior Officers Added VIII"
+msgstr ""
+
+msgid "Nine Senior Officers Added IX"
+msgstr ""
+
+msgid "Three Excellencies II (In Supreme Palace Enclosure)"
+msgstr ""
+
+msgid "Three Excellencies III (In Supreme Palace Enclosure)"
+msgstr ""
+
+msgid "Inner Screen I"
+msgstr ""
+
+msgid "Inner Screen II"
+msgstr ""
+
+msgid "Inner Screen III"
+msgstr ""
+
+msgid "Inner Screen IV"
+msgstr ""
+
+msgid "Inner Screen Added I"
+msgstr ""
+
+msgid "Inner Screen Added II"
+msgstr ""
+
+msgid "Inner Screen Added III"
+msgstr ""
+
+msgid "Inner Screen Added IV"
+msgstr ""
+
+msgid "Inner Screen Added V"
+msgstr ""
+
+msgid "Inner Screen Added VI"
+msgstr ""
+
+msgid "Supreme Palace Right Wall I"
+msgstr ""
+
+msgid "Right Law Administrator"
+msgstr ""
+
+msgid "Supreme Palace Right Wall II"
+msgstr ""
+
+msgid "The Great Western General"
+msgstr ""
+
+msgid "Supreme Palace Right Wall III"
+msgstr ""
+
+msgid "The Second Western General"
+msgstr ""
+
+msgid "Supreme Palace Right Wall IV"
+msgstr ""
+
+msgid "The Second Western Premier"
+msgstr ""
+
+msgid "Supreme Palace Right Wall V"
+msgstr ""
+
+msgid "The Great Western Premier"
+msgstr ""
+
+msgid "The Second Western Premier Added II"
+msgstr ""
+
+msgid "The Second Western Premier Added III"
+msgstr ""
+
+msgid "The Great Western Premier Added I"
+msgstr ""
+
+msgid "The Great Western Premier Added II"
+msgstr ""
+
+msgid "Supreme Palace Left Wall I"
+msgstr ""
+
+msgid "Left Law Administrator"
+msgstr ""
+
+msgid "Supreme Palace Left Wall II"
+msgstr ""
+
+msgid "The Great Eastern Premier"
+msgstr ""
+
+msgid "Supreme Palace Left Wall III"
+msgstr ""
+
+msgid "The Second Eastern Premier"
+msgstr ""
+
+msgid "Supreme Palace Left Wall IV"
+msgstr ""
+
+msgid "The Second Eastern General"
+msgstr ""
+
+msgid "Supreme Palace Left Wall V"
+msgstr ""
+
+msgid "The Great Eastern General"
+msgstr ""
+
+msgid "Left Law Administrator Added I"
+msgstr ""
+
+msgid "The Second Eastern Premier Added I"
+msgstr ""
+
+msgid "The Second Eastern General Added I"
+msgstr ""
+
+msgid "The Second Eastern General Added III"
+msgstr ""
+
+msgid "The Great Eastern General Added I"
+msgstr ""
+
+msgid "The Great Eastern General Added II"
+msgstr ""
+
+msgid "The Great Eastern General Added III"
+msgstr ""
+
+msgid "The Great Eastern General Added IV"
+msgstr ""
+
+msgid "Captain of the Bodyguards Added I"
+msgstr ""
+
+msgid "Captain of the Bodyguards Added II"
+msgstr ""
+
+msgid "Officers of the Imperial Guard I"
+msgstr ""
+
+msgid "Officers of the Imperial Guard III"
+msgstr ""
+
+msgid "Officers of the Imperial Guard IV"
+msgstr ""
+
+msgid "Officers of the Imperial Guard V"
+msgstr ""
+
+msgid "Officers of the Imperial Guard VI"
+msgstr ""
+
+msgid "Officers of the Imperial Guard VII"
+msgstr ""
+
+msgid "Officers of the Imperial Guard VIII"
+msgstr ""
+
+msgid "Officers of the Imperial Guard IX"
+msgstr ""
+
+msgid "Officers of the Imperial Guard X"
+msgstr ""
+
+msgid "Officers of the Imperial Guard XI"
+msgstr ""
+
+msgid "Officers of the Imperial Guard XII"
+msgstr ""
+
+msgid "Officers of the Imperial Guard XIII"
+msgstr ""
+
+msgid "Officers of the Imperial Guard XIV"
+msgstr ""
+
+msgid "Officers of the Imperial Guard XV"
+msgstr ""
+
+msgid "Officers of the Imperial Guard Added I"
+msgstr ""
+
+msgid "Officers of the Imperial Guard Added II"
+msgstr ""
+
+msgid "Officers of the Imperial Guard Added III"
+msgstr ""
+
+msgid "Royal Guards I"
+msgstr ""
+
+msgid "Royal Guards II"
+msgstr ""
+
+msgid "Royal Guards III"
+msgstr ""
+
+msgid "Royal Guards IV"
+msgstr ""
+
+msgid "Royal Guards V"
+msgstr ""
+
+msgid "Royal Guards VI"
+msgstr ""
+
+msgid "Royal Guards VII"
+msgstr ""
+
+msgid "Royal Guards Added I"
+msgstr ""
+
+msgid "Royal Guards Added II"
+msgstr ""
+
+msgid "Royal Guards Added III"
+msgstr ""
+
+msgid "Royal Guards Added IV"
+msgstr ""
+
+msgid "Royal Guards Added V"
+msgstr ""
+
+msgid "Royal Guards Added VI"
+msgstr ""
+
+msgid "Royal Guards Added VII"
+msgstr ""
+
+msgid "Three Steps I"
+msgstr ""
+
+msgid "Upper Steps I"
+msgstr ""
+
+msgid "Three Steps II"
+msgstr ""
+
+msgid "Upper Steps II"
+msgstr ""
+
+msgid "Three Steps III"
+msgstr ""
+
+msgid "Middle Steps I"
+msgstr ""
+
+msgid "Three Steps IV"
+msgstr ""
+
+msgid "Middle Steps II"
+msgstr ""
+
+msgid "Three Steps V"
+msgstr ""
+
+msgid "Lower Steps I"
+msgstr ""
+
+msgid "Three Steps VI"
+msgstr ""
+
+msgid "Lower Steps II"
+msgstr ""
+
+msgid "Upper Steps Added I"
+msgstr ""
+
+msgid "Upper Steps Added II"
+msgstr ""
+
+msgid "Upper Steps Added III"
+msgstr ""
+
+msgid "Upper Steps Added IV"
+msgstr ""
+
+msgid "Upper Steps Added V"
+msgstr ""
+
+msgid "Upper Steps Added VI"
+msgstr ""
+
+msgid "Upper Steps Added VII"
+msgstr ""
+
+msgid "Middle Steps Added I?"
+msgstr ""
+
+msgid "Middle Steps Added II"
+msgstr ""
+
+msgid "Middle Steps Added III"
+msgstr ""
+
+msgid "Middle Steps Added IV"
+msgstr ""
+
+msgid "Lower Steps Added I"
+msgstr ""
+
+msgid "Lower Steps Added II"
+msgstr ""
+
+msgid "Junior Officers I"
+msgstr ""
+
+msgid "Junior Officers II"
+msgstr ""
+
+msgid "Junior Officers III"
+msgstr ""
+
+msgid "Junior Officers IV"
+msgstr ""
+
+msgid "Junior Officers Added I"
+msgstr ""
+
+msgid "Junior Officers Added II"
+msgstr ""
+
+msgid "Junior Officers Added III"
+msgstr ""
+
+msgid "Junior Officers Added IV"
+msgstr ""
+
+msgid "Junior Officers Added V"
+msgstr ""
+
+msgid "Junior Officers Added VI"
+msgstr ""
+
+msgid "Junior Officers Added VII"
+msgstr ""
+
+msgid "Junior Officers Added VIII"
+msgstr ""
+
+msgid "Junior Officers Added IX"
+msgstr ""
+
+msgid "Long Wall I"
+msgstr "Дълга стена I"
+
+msgid "Long Wall II"
+msgstr "Дълга стена II"
+
+msgid "Long Wall III"
+msgstr "Дълга стена III"
+
+msgid "Long Wall IV"
+msgstr "Дълга стена IV"
+
+msgid "Long Wall Added I"
+msgstr "Добавена дълга стена I"
+
+msgid "Long Wall Added II"
+msgstr "Добавена дълга стена II"
+
+msgid "Long Wall Added III"
+msgstr "Добавена дълга стена III"
+
+msgid "Long Wall Added IV"
+msgstr "Добавена дълга стена IV"
+
+msgid "Long Wall Added V"
+msgstr "Добавена дълга стена V"
+
+msgid "Long Wall Added VI"
+msgstr "Добавена дълга стена VI"
+
+msgid "Long Wall Added VII"
+msgstr "Добавена дълга стена VII"
+
+msgid "Long Wall Added VIII"
+msgstr "Добавена дълга стена VIII"
+
+msgid "Long Wall Added IX"
+msgstr "Добавена дълга стена IX"
+
+msgid "Astronomical Observatory I"
+msgstr "Астрономическа обсерватория I"
+
+msgid "Astronomical Observatory II"
+msgstr "Астрономическа обсерватория II"
+
+msgid "Astronomical Observatory III"
+msgstr "Астрономическа обсерватория III"
+
+msgid "Astronomical Observatory Added I"
+msgstr "Добавена астрономическа обсерватория I"
+
+msgid "Astronomical Observatory Added II"
+msgstr "Добавена астрономическа обсерватория II"
+
+msgid "Astronomical Observatory Added III"
+msgstr "Добавена астрономическа обсерватория III"
+
+msgid "Astronomical Observatory Added IV"
+msgstr "Добавена астрономическа обсерватория IV"
+
+msgid "Astronomical Observatory Added V"
+msgstr "Добавена астрономическа обсерватория V"
+
+msgid "Astronomical Observatory Added VI"
+msgstr "Добавена астрономическа обсерватория VI"
+
+msgid "Astronomical Observatory Added VII"
+msgstr "Добавена астрономическа обсерватория VII"
+
+msgid "Astronomical Observatory Added VIII"
+msgstr "Добавена астрономическа обсерватория VIII"
+
+msgid "The Hall of Glory I"
+msgstr ""
+
+msgid "The Hall of Glory II"
+msgstr ""
+
+msgid "The Hall of Glory III"
+msgstr ""
+
+msgid "The Hall of Glory Added I"
+msgstr ""
+
+msgid "The Hall of Glory Added II"
+msgstr ""
+
+msgid "The Hall of Glory Added III"
+msgstr ""
+
+msgid "The Hall of Glory Added IV"
+msgstr ""
+
+msgid "The Hall of Glory Added V"
+msgstr ""
+
+msgid "The Hall of Glory Added VI"
+msgstr ""
+
+msgid "The Hall of Glory Added VII"
+msgstr ""
+
+msgid "Usher to the Court Added I"
+msgstr ""
+
+msgid "Usher to the Court Added II"
+msgstr ""
+
+msgid "Astrologer Added III"
+msgstr "Добавен Астролог III"
+
+msgid "Astrologer Added IV"
+msgstr "Добавен Астролог IV"
+
+msgid "Astrologer Added V"
+msgstr "Добавен Астролог V"
+
+msgid "Eunuch Official I"
+msgstr ""
+
+msgid "Eunuch Official II"
+msgstr ""
+
+msgid "Eunuch Official III"
+msgstr ""
+
+msgid "Eunuch Official IV"
+msgstr ""
+
+msgid "Eunuch Official Added I"
+msgstr ""
+
+msgid "Eunuch Official Added II"
+msgstr ""
+
+msgid "Eunuch Official Added III"
+msgstr ""
+
+msgid "Eunuch Official Added IV"
+msgstr ""
+
+msgid "Eunuch Official Added V"
+msgstr ""
+
+msgid "Dipper for Liquids I"
+msgstr "Черпак за течности I"
+
+msgid "Dipper for Liquids II"
+msgstr "Черпак за течности II"
+
+msgid "Dipper for Liquids III"
+msgstr "Черпак за течности III"
+
+msgid "Dipper for Liquids IV"
+msgstr "Черпак за течности IV"
+
+msgid "Dipper for Liquids V"
+msgstr "Черпак за течности V"
+
+msgid "Dipper for Liquids Added I"
+msgstr "Добавен черпак за течности I"
+
+msgid "Dipper for Liquids Added II"
+msgstr "Добавен черпак за течности II"
+
+msgid "Dipper for Liquids Added III"
+msgstr "Добавен черпак за течности III"
+
+msgid "Dipper for Liquids Added IV"
+msgstr "Добавен черпак за течности IV"
+
+msgid "Dipper for Liquids Added V"
+msgstr "Добавен черпак за течности V"
+
+msgid "Dipper for Liquids Added VI"
+msgstr "Добавен черпак за течности VI"
+
+msgid "Dipper for Liquids Added VII"
+msgstr "Добавен черпак за течности VII"
+
+msgid "Dipper for Liquids Added IX"
+msgstr "Добавен черпак за течности IX"
+
+msgid "Dipper for Liquids Added X"
+msgstr "Добавен черпак за течности X"
+
+msgid "Dipper for Liquids Added XI"
+msgstr "Добавен черпак за течности XI"
+
+msgid "Dipper for Solids I"
+msgstr "Черпак за храна I"
+
+msgid "Dipper for Solids II"
+msgstr "Черпак за храна II"
+
+msgid "Dipper for Solids III"
+msgstr "Черпак за храна III"
+
+msgid "Dipper for Solids IV"
+msgstr "Черпак за храна IV"
+
+msgid "Dipper for Solids Added I"
+msgstr "Добавен черпак за храна I"
+
+msgid "Dipper for Solids Added II"
+msgstr "Добавен черпак за храна II"
+
+msgid "Dipper for Solids Added III"
+msgstr "Добавен черпак за храна III"
+
+msgid "Dipper for Solids Added IV"
+msgstr "Добавен черпак за храна IV"
+
+msgid "Dipper for Solids Added V"
+msgstr "Добавен черпак за храна V"
+
+msgid "Dipper for Solids Added VI"
+msgstr "Добавен черпак за храна VI"
+
+msgid "Jewel Market I"
+msgstr ""
+
+msgid "Jewel Market II"
+msgstr ""
+
+msgid "Jewel Market Added I"
+msgstr ""
+
+msgid "Jewel Market Added II"
+msgstr ""
+
+msgid "Jewel Market Added III"
+msgstr ""
+
+msgid "Jewel Market Added IV"
+msgstr ""
+
+msgid "Commodity Market I"
+msgstr ""
+
+msgid "Commodity Market II"
+msgstr ""
+
+msgid "Commodity Market Added I"
+msgstr ""
+
+msgid "Commodity Market Added II"
+msgstr ""
+
+msgid "Municipal Office I"
+msgstr ""
+
+msgid "Municipal Office II"
+msgstr ""
+
+msgid "Municipal Office III"
+msgstr ""
+
+msgid "Municipal Office IV"
+msgstr ""
+
+msgid "Municipal Office V"
+msgstr ""
+
+msgid "Municipal Office VI"
+msgstr ""
+
+msgid "Municipal Office Added I"
+msgstr ""
+
+msgid "Official for the Royal Clan I"
+msgstr ""
+
+msgid "Official for the Royal Clan II"
+msgstr ""
+
+msgid "Official for the Royal Clan Added I"
+msgstr ""
+
+msgid "Official for the Royal Clan Added II"
+msgstr ""
+
+msgid "Official for the Royal Clan Added III"
+msgstr ""
+
+msgid "Official of Religious Ceremonies I"
+msgstr ""
+
+msgid "Official of Religious Ceremonies II"
+msgstr ""
+
+msgid "Official of Religious Ceremonies III"
+msgstr ""
+
+msgid "Official of Religious Ceremonies IV"
+msgstr ""
+
+msgid "Official of Religious Ceremonies Added I"
+msgstr ""
+
+msgid "Official of Religious Ceremonies Added II"
+msgstr ""
+
+msgid "Official of Religious Ceremonies Added III"
+msgstr ""
+
+msgid "Official of Religious Ceremonies Added IV"
+msgstr ""
+
+msgid "Patriarchal Clan I"
+msgstr ""
+
+msgid "Patriarchal Clan II"
+msgstr ""
+
+msgid "Textile Ruler I"
+msgstr ""
+
+msgid "Textile Ruler II"
+msgstr ""
+
+msgid "Textile Ruler Added I"
+msgstr ""
+
+msgid "Textile Ruler Added II"
+msgstr ""
+
+msgid "Textile Ruler Added III"
+msgstr ""
+
+msgid "Butcher's Shops I"
+msgstr ""
+
+msgid "Butcher's Shops II"
+msgstr ""
+
+msgid "Butcher's Shops Added I"
+msgstr ""
+
+msgid "Butcher's Shops Added II"
+msgstr ""
+
+msgid "Butcher's Shops Added III"
+msgstr ""
+
+msgid "Heavenly Market Right Wall I"
+msgstr ""
+
+msgid "Hezhong"
+msgstr ""
+
+msgid "Heavenly Market Right Wall II"
+msgstr ""
+
+msgid "Hejian"
+msgstr ""
+
+msgid "Heavenly Market Right Wall III"
+msgstr ""
+
+msgid "Jin"
+msgstr "Чжин"
+
+msgid "Heavenly Market Right Wall IV"
+msgstr ""
+
+msgid "Zheng"
+msgstr ""
+
+msgid "Heavenly Market Right Wall V"
+msgstr ""
+
+msgid "Zhou"
+msgstr ""
+
+msgid "Heavenly Market Right Wall VI"
+msgstr ""
+
+msgid "Qin"
+msgstr ""
+
+msgid "Heavenly Market Right Wall VII"
+msgstr ""
+
+msgid "Shu"
+msgstr ""
+
+msgid "Heavenly Market Right Wall VIII"
+msgstr ""
+
+msgid "Ba"
+msgstr ""
+
+msgid "Heavenly Market Right Wall IX"
+msgstr ""
+
+msgid "Liang"
+msgstr ""
+
+msgid "Heavenly Market Right Wall X"
+msgstr ""
+
+msgid "Chu"
+msgstr ""
+
+msgid "Heavenly Market Right Wall XI"
+msgstr ""
+
+msgid "Han"
+msgstr ""
+
+msgid "Hejian Added I"
+msgstr ""
+
+msgid "Jin Added I"
+msgstr "Добавен Чжин I"
+
+msgid "Jin Added II"
+msgstr "Добавен Чжин II"
+
+msgid "Jin Added III"
+msgstr "Добавен Чжин III"
+
+msgid "Jin Added IV"
+msgstr "Добавен Чжин IV"
+
+msgid "Jin Added V"
+msgstr "Добавен Чжин V"
+
+msgid "Zhou Added I"
+msgstr ""
+
+msgid "Zhou Added II"
+msgstr ""
+
+msgid "Zhou Added III"
+msgstr ""
+
+msgid "Zhou Added IV"
+msgstr ""
+
+msgid "Zhou Added V"
+msgstr ""
+
+msgid "Zhou Added VI"
+msgstr ""
+
+msgid "Zhou Added VII"
+msgstr ""
+
+msgid "Zhou Added VIII"
+msgstr ""
+
+msgid "Zhou Added IX"
+msgstr ""
+
+msgid "Zhou Added XI"
+msgstr ""
+
+msgid "Zhou Added XII"
+msgstr ""
+
+msgid "Zhou Added XIII"
+msgstr ""
+
+msgid "Zhou Added XIV"
+msgstr ""
+
+msgid "Zhou Added XV"
+msgstr ""
+
+msgid "Zhou Added XVI"
+msgstr ""
+
+msgid "Qin Added II"
+msgstr ""
+
+msgid "Shu Added I"
+msgstr ""
+
+msgid "Shu Added II"
+msgstr ""
+
+msgid "Shu Added III"
+msgstr ""
+
+msgid "Ba Added I"
+msgstr ""
+
+msgid "Ba Added II"
+msgstr ""
+
+msgid "Ba Added III"
+msgstr ""
+
+msgid "Ba Added IV"
+msgstr ""
+
+msgid "Ba Added V"
+msgstr ""
+
+msgid "Heavenly Market Left Wall I"
+msgstr ""
+
+msgid "Wei"
+msgstr ""
+
+msgid "Heavenly Market Left Wall II"
+msgstr ""
+
+msgid "Zhao"
+msgstr ""
+
+msgid "Heavenly Market Left Wall III"
+msgstr ""
+
+msgid "Jiuhe"
+msgstr ""
+
+msgid "Heavenly Market Left Wall IV"
+msgstr ""
+
+msgid "Zhongshan"
+msgstr ""
+
+msgid "Heavenly Market Left Wall V"
+msgstr ""
+
+msgid "Qi"
+msgstr ""
+
+msgid "Heavenly Market Left Wall VI"
+msgstr ""
+
+msgid "Wuyue"
+msgstr ""
+
+msgid "Heavenly Market Left Wall VII"
+msgstr ""
+
+msgid "Xu"
+msgstr ""
+
+msgid "Heavenly Market Left Wall VIII"
+msgstr ""
+
+msgid "Donghai"
+msgstr ""
+
+msgid "Heavenly Market Left Wall IX"
+msgstr ""
+
+msgid "Yan"
+msgstr ""
+
+msgid "Heavenly Market Left Wall X"
+msgstr ""
+
+msgid "Nanhai"
+msgstr ""
+
+msgid "Heavenly Market Left Wall XI"
+msgstr ""
+
+msgid "Song"
+msgstr ""
+
+msgid "Wei Added I"
+msgstr ""
+
+msgid "Wei Added II"
+msgstr ""
+
+msgid "Wei Added III"
+msgstr ""
+
+msgid "Wei Added IV"
+msgstr ""
+
+msgid "Wei Added V"
+msgstr ""
+
+msgid "Wei Added VI"
+msgstr ""
+
+msgid "Wei Added VII"
+msgstr ""
+
+msgid "Wei Added VIII"
+msgstr ""
+
+msgid "Zhao Added I"
+msgstr ""
+
+msgid "Zhao Added II"
+msgstr ""
+
+msgid "Zhao Added III"
+msgstr ""
+
+msgid "Jiuhe Added I"
+msgstr ""
+
+msgid "Zhongshan Added I"
+msgstr ""
+
+msgid "Zhongshan Added II"
+msgstr ""
+
+msgid "Zhongshan Added III"
+msgstr ""
+
+msgid "Zhongshan Added IV"
+msgstr ""
+
+msgid "Zhongshan Added V"
+msgstr ""
+
+msgid "Zhongshan Added VI"
+msgstr ""
+
+msgid "Zhongshan Added VII"
+msgstr ""
+
+msgid "Qi Added I"
+msgstr ""
+
+msgid "Qi Added II"
+msgstr ""
+
+msgid "Qi Added III"
+msgstr ""
+
+msgid "Qi Added IV"
+msgstr ""
+
+msgid "Qi Added V"
+msgstr ""
+
+msgid "Qi Added VI"
+msgstr ""
+
+msgid "Qi Added VII"
+msgstr ""
+
+msgid "Qi Added VIII"
+msgstr ""
+
+msgid "Qi Added IX"
+msgstr ""
+
+msgid "Qi Added X"
+msgstr ""
+
+msgid "Qi Added XI"
+msgstr ""
+
+msgid "Qi Added XII"
+msgstr ""
+
+msgid "Wuyue Added I"
+msgstr ""
+
+msgid "Wuyue Added II"
+msgstr ""
+
+msgid "Wuyue Added III"
+msgstr ""
+
+msgid "Wuyue Added IV"
+msgstr ""
+
+msgid "Wuyue Added V"
+msgstr ""
+
+msgid "Wuyue Added VI"
+msgstr ""
+
+msgid "Wuyue Added VII"
+msgstr ""
+
+msgid "Xu Added I"
+msgstr ""
+
+msgid "Xu Added II"
+msgstr ""
+
+msgid "Xu Added III"
+msgstr ""
+
+msgid "Xu Added IV"
+msgstr ""
+
+msgid "Donghai Added I"
+msgstr ""
+
+msgid "Donghai Added II"
+msgstr ""
+
+msgid "Donghai Added III"
+msgstr ""
+
+msgid "Donghai Added IV"
+msgstr ""
+
+msgid "Song Added II"
+msgstr ""
+
+msgid "Celestial Discipline I"
+msgstr "Небесни възпитатели I"
+
+msgid "Celestial Discipline II"
+msgstr "Небесни възпитатели II"
+
+msgid "Celestial Discipline III"
+msgstr "Небесни възпитатели III"
+
+msgid "Celestial Discipline IV"
+msgstr "Небесни възпитатели IV"
+
+msgid "Celestial Discipline V"
+msgstr "Небесни възпитатели V"
+
+msgid "Celestial Discipline VI"
+msgstr "Небесни възпитатели VI"
+
+msgid "Celestial Discipline VII"
+msgstr "Небесни възпитатели VII"
+
+msgid "Celestial Discipline IX"
+msgstr "Небесни възпитатели IX"
+
+msgid "Celestial Discipline Added I"
+msgstr "Добавени небесни възпитатели I"
+
+msgid "Celestial Discipline Added II"
+msgstr "Добавени небесни възпитатели II"
+
+msgid "Celestial Discipline Added III*"
+msgstr "Добавени небесни възпитатели III*"
+
+msgid "Celestial Discipline Added IV"
+msgstr "Добавени небесни възпитатели IV"
+
+msgid "Celestial Discipline Added V"
+msgstr "Добавени небесни възпитатели V"
+
+msgid "Celestial Discipline Added VI"
+msgstr "Добавени небесни възпитатели VI"
+
+msgid "Celestial Discipline Added VII"
+msgstr "Добавени небесни възпитатели VII"
+
+msgid "Celestial Discipline Added VIII"
+msgstr "Добавени небесни възпитатели VIII"
+
+msgid "Celestial Discipline Added IX"
+msgstr "Добавени небесни възпитатели IX"
+
+msgid "Celestial Discipline Added X"
+msgstr "Добавени небесни възпитатели X"
+
+msgid "Celestial Discipline Added XI"
+msgstr "Добавени небесни възпитатели XI"
+
+msgid "Celestial Discipline Added XII?"
+msgstr "Добавени небесни възпитатели XII?"
+
+msgid "Celestial Discipline Added XIII"
+msgstr "Добавени небесни възпитатели XIII"
+
+msgid "Celestial Discipline Added XIV"
+msgstr "Добавени небесни възпитатели XIV"
+
+msgid "Celestial Discipline Added XV"
+msgstr "Добавени небесни възпитатели XV"
+
+msgid "Woman's Bed I"
+msgstr "Женско легло I"
+
+msgid "Woman's Bed II"
+msgstr "Женско легло II"
+
+msgid "Woman's Bed III"
+msgstr "Женско легло III"
+
+msgid "Coiled Thong I"
+msgstr "Навит камшик I"
+
+msgid "Coiled Thong II"
+msgstr "Навит камшик II"
+
+msgid "Coiled Thong III"
+msgstr "Навит камшик III"
+
+msgid "Coiled Thong IV"
+msgstr "Навит камшик IV"
+
+msgid "Coiled Thong V"
+msgstr "Навит камшик V"
+
+msgid "Coiled Thong VI"
+msgstr "Навит камшик VI"
+
+msgid "Coiled Thong VII"
+msgstr "Навит камшик VII"
+
+msgid "Coiled Thong VIII"
+msgstr "Навит камшик VIII"
+
+msgid "Coiled Thong IX"
+msgstr "Навит камшик IX"
+
+msgid "Coiled Thong Added I"
+msgstr "Добавен навит камшик I"
+
+msgid "Coiled Thong Added II"
+msgstr "Добавен навит камшик II"
+
+msgid "Coiled Thong Added III"
+msgstr "Добавен навит камшик III"
+
+msgid "Coiled Thong Added IV"
+msgstr "Добавен навит камшик IV"
+
+msgid "Coiled Thong Added V"
+msgstr "Добавен навит камшик V"
+
+msgid "Coiled Thong Added VI"
+msgstr "Добавен навит камшик VI"
+
+msgid "Coiled Thong Added VII"
+msgstr "Добавен навит камшик VII"
+
+msgid "Coiled Thong Added VIII"
+msgstr "Добавен навит камшик VIII"
+
+msgid "Coiled Thong Added IX"
+msgstr "Добавен навит камшик IX"
+
+msgid "Coiled Thong Added X"
+msgstr "Добавен навит камшик X"
+
+msgid "Coiled Thong Added XI"
+msgstr "Добавен навит камшик XI"
+
+msgid "Coiled Thong Added XII"
+msgstr "Добавен навит камшик XII"
+
+msgid "Coiled Thong Added XIII"
+msgstr "Добавен навит камшик XIII"
+
+msgid "Seven Excellencies I"
+msgstr ""
+
+msgid "Seven Excellencies II"
+msgstr ""
+
+msgid "Seven Excellencies III"
+msgstr ""
+
+msgid "Seven Excellencies IV"
+msgstr ""
+
+msgid "Seven Excellencies V"
+msgstr ""
+
+msgid "Seven Excellencies VI"
+msgstr ""
+
+msgid "Seven Excellencies VII"
+msgstr ""
+
+msgid "Seven Excellencies Added I"
+msgstr ""
+
+msgid "Seven Excellencies Added II"
+msgstr ""
+
+msgid "Seven Excellencies Added III"
+msgstr ""
+
+msgid "Seven Excellencies Added IV"
+msgstr ""
+
+msgid "Seven Excellencies Added V"
+msgstr ""
+
+msgid "Seven Excellencies Added VI"
+msgstr ""
+
+msgid "Seven Excellencies Added VII"
+msgstr ""
+
+msgid "Seven Excellencies Added VIII"
+msgstr ""
+
+msgid "Seven Excellencies Added IX"
+msgstr ""
+
+msgid "Seven Excellencies Added X"
+msgstr ""
+
+msgid "Seven Excellencies Added XI"
+msgstr ""
+
+msgid "Seven Excellencies Added XII"
+msgstr ""
+
+msgid "Seven Excellencies Added XIII"
+msgstr ""
+
+msgid "Seven Excellencies Added XIV"
+msgstr ""
+
+msgid "Seven Excellencies Added XV"
+msgstr ""
+
+msgid "Seven Excellencies Added XVI"
+msgstr ""
+
+msgid "Horn I"
+msgstr "Рог I"
+
+msgid "Horn II"
+msgstr "Рог II"
+
+msgid "Horn Added I"
+msgstr "Добавен рог I"
+
+msgid "Horn Added II"
+msgstr "Добавен рог II"
+
+msgid "Horn Added III"
+msgstr "Добавен рог III"
+
+msgid "Horn Added IV"
+msgstr "Добавен рог IV"
+
+msgid "Horn Added V"
+msgstr "Добавен рог V"
+
+msgid "Horn Added VI"
+msgstr "Добавен рог VI"
+
+msgid "Horn Added VII"
+msgstr "Добавен рог VII"
+
+msgid "Horn Added VIII"
+msgstr "Добавен рог VIII"
+
+msgid "Horn Added IX"
+msgstr "Добавен рог IX"
+
+msgid "Horn Added X"
+msgstr "Добавен рог X"
+
+msgid "Horn Added XI"
+msgstr "Добавен рог XI"
+
+msgid "Horn Added XII"
+msgstr "Добавен рог XII"
+
+msgid "Horn Added XIII"
+msgstr "Добавен рог XIII"
+
+msgid "Horn Added XIV"
+msgstr "Добавен рог XIV"
+
+msgid "Horn Added XV"
+msgstr "Добавен рог XV"
+
+msgid "Horn Added XVI"
+msgstr "Добавен рог XVI"
+
+msgid "Flat Road I"
+msgstr "Равен път I"
+
+msgid "Flat Road II"
+msgstr "Равен път II"
+
+msgid "Celestial Farmland I (In Horn Mansion)"
+msgstr "Небесна земеделска земя I (в Рог)"
+
+msgid "Celestial Farmland II (In Horn Mansion)"
+msgstr "Небесна земеделска земя II (в Рог)"
+
+msgid "Celestial Farmland Added I (In Horn Mansion)"
+msgstr "Добавена небесна земеделска земя I (в Рог)"
+
+msgid "Celestial Farmland Added II (In Horn Mansion)"
+msgstr "Добавена небесна земеделска земя II (в Рог)"
+
+msgid "Celestial Farmland Added III (In Horn Mansion)"
+msgstr "Добавена небесна земеделска земя III (в Рог)"
+
+msgid "Celestial Farmland Added IV (In Horn Mansion)"
+msgstr "Добавена небесна земеделска земя IV (в Рог)"
+
+msgid "Celestial Farmland Added V (In Horn Mansion)"
+msgstr "Добавена небесна земеделска земя V (в Рог)"
+
+msgid "Celestial Farmland Added VI (In Horn Mansion)"
+msgstr "Добавена небесна земеделска земя VI (в Рог)"
+
+msgid "Celestial Farmland Added VII (In Horn Mansion)"
+msgstr "Добавена небесна земеделска земя VII (в Рог)"
+
+msgid "Tripod of the Zhou I"
+msgstr "Триножник на Джоу I"
+
+msgid "Tripod of the Zhou II"
+msgstr "Триножник на Джоу II"
+
+msgid "Tripod of the Zhou III"
+msgstr "Триножник на Джоу III"
+
+msgid "Recommending Virtuous Men Added I"
+msgstr "Добавени препоръчани добродетелни мъже I"
+
+msgid "Recommending Virtuous Men Added II"
+msgstr "Добавени препоръчани добродетелни мъже II"
+
+msgid "Recommending Virtuous Men Added III"
+msgstr "Добавени препоръчани добродетелни мъже III"
+
+msgid "Recommending Virtuous Men Added IV"
+msgstr "Добавени препоръчани добродетелни мъже IV"
+
+msgid "Recommending Virtuous Men Added V"
+msgstr "Добавени препоръчани добродетелни мъже V"
+
+msgid "Recommending Virtuous Men Added VII"
+msgstr "Добавени препоръчани добродетелни мъже VII"
+
+msgid "Recommending Virtuous Men Added VIII"
+msgstr "Добавени препоръчани добродетелни мъже VIII"
+
+msgid "Recommending Virtuous Men Added IX"
+msgstr "Добавени препоръчани добродетелни мъже IX"
+
+msgid "Celestial Gate I"
+msgstr "Небесна порта I"
+
+msgid "Celestial Gate II"
+msgstr "Небесна порта II"
+
+msgid "Celestial Gate Added I"
+msgstr "Добавена небесна порта I"
+
+msgid "Celestial Gate Added II"
+msgstr "Добавена небесна порта II"
+
+msgid "Celestial Gate Added III"
+msgstr "Добавена небесна порта III"
+
+msgid "Celestial Gate Added IV"
+msgstr "Добавена небесна порта IV"
+
+msgid "Celestial Gate Added V"
+msgstr "Добавена небесна порта V"
+
+msgid "Celestial Gate Added VI"
+msgstr "Добавена небесна порта VI"
+
+msgid "Celestial Gate Added VII"
+msgstr "Добавена небесна порта VII"
+
+msgid "Celestial Gate Added VIII"
+msgstr "Добавена небесна порта VIII"
+
+msgid "Celestial Gate Added IX"
+msgstr "Добавена небесна порта IX"
+
+msgid "Celestial Gate Added X"
+msgstr "Добавена небесна порта X"
+
+msgid "Celestial Gate Added XI"
+msgstr "Добавена небесна порта XI"
+
+msgid "Judging I"
+msgstr ""
+
+msgid "Judging II"
+msgstr ""
+
+msgid "Judging Added I"
+msgstr ""
+
+msgid "Judging Added II"
+msgstr ""
+
+msgid "Judging Added III"
+msgstr ""
+
+msgid "Judging Added IV"
+msgstr ""
+
+msgid "Arsenal I"
+msgstr "Арсенал I"
+
+msgid "Arsenal II"
+msgstr "Арсенал II"
+
+msgid "Arsenal III"
+msgstr "Арсенал III"
+
+msgid "Arsenal IV"
+msgstr "Арсенал IV"
+
+msgid "Arsenal V"
+msgstr "Арсенал V"
+
+msgid "Arsenal VI"
+msgstr "Арсенал VI"
+
+msgid "Arsenal VII"
+msgstr "Арсенал VII"
+
+msgid "Arsenal VIII"
+msgstr "Арсенал VIII"
+
+msgid "Arsenal IX"
+msgstr "Арсенал IX"
+
+msgid "Arsenal X"
+msgstr "Арсенал X"
+
+msgid "Pillars I (In Horn Mansion)"
+msgstr "Стълбове I (в Рог)"
+
+msgid "Pillars II (In Horn Mansion)"
+msgstr "Стълбове II (в Рог)"
+
+msgid "Pillars III (In Horn Mansion)"
+msgstr "Стълбове III (в Рог)"
+
+msgid "Pillars IV (In Horn Mansion)"
+msgstr "Стълбове IV (в Рог)"
+
+msgid "Pillars V (In Horn Mansion)"
+msgstr "Стълбове V (в Рог)"
+
+msgid "Pillars VI (In Horn Mansion)"
+msgstr "Стълбове VI (в Рог)"
+
+msgid "Pillars VII (In Horn Mansion)"
+msgstr "Стълбове VII (в Рог)"
+
+msgid "Pillars VIII (In Horn Mansion)"
+msgstr "Стълбове VIII (в Рог)"
+
+msgid "Pillars IX (In Horn Mansion)"
+msgstr "Стълбове IX (в Рог)"
+
+msgid "Pillars XI (In Horn Mansion)"
+msgstr "Стълбове XI (в Рог)"
+
+msgid "Railings I"
+msgstr "Прегради I"
+
+msgid "Railings II"
+msgstr "Прегради II"
+
+msgid "Railings III"
+msgstr "Прегради III"
+
+msgid "Railings IV"
+msgstr "Прегради IV"
+
+msgid "Southern Gate I"
+msgstr "Южна порта I"
+
+msgid "Southern Gate II"
+msgstr "Южна порта II"
+
+msgid "Southern Gate Added I"
+msgstr "Добавена южна порта I"
+
+msgid "Southern Gate Added II"
+msgstr "Добавена южна порта II"
+
+msgid "Neck I"
+msgstr "Врат I"
+
+msgid "Neck II"
+msgstr "Врат II"
+
+msgid "Neck III"
+msgstr "Врат III"
+
+msgid "Neck IV"
+msgstr "Врат IV"
+
+msgid "Neck Added I"
+msgstr "Добавен врат I"
+
+msgid "Neck Added II"
+msgstr "Добавен врат II"
+
+msgid "Neck Added III"
+msgstr "Добавен врат III"
+
+msgid "Neck Added IV"
+msgstr "Добавен врат IV"
+
+msgid "Neck Added V"
+msgstr "Добавен врат V"
+
+msgid "Neck Added VI"
+msgstr "Добавен врат VI"
+
+msgid "Neck Added VII"
+msgstr "Добавен врат VII"
+
+msgid "Neck Added VIII"
+msgstr "Добавен врат VIII"
+
+msgid "Neck Added IX"
+msgstr "Добавен врат IX"
+
+msgid "Neck Added X"
+msgstr "Добавен врат X"
+
+msgid "Neck Added XI"
+msgstr "Добавен врат XI"
+
+msgid "Neck Added XII"
+msgstr "Добавен врат XII"
+
+msgid "Great Horn Added I"
+msgstr "Добавен голям рог I"
+
+msgid "Right Conductor I"
+msgstr "Десен служител I"
+
+msgid "Right Conductor II"
+msgstr "Десен служител II"
+
+msgid "Right Conductor III"
+msgstr "Десен служител III"
+
+msgid "Right Conductor Added I"
+msgstr "Добавен десен служител I"
+
+msgid "Right Conductor Added II"
+msgstr "Добавен десен служител II"
+
+msgid "Right Conductor Added III"
+msgstr "Добавен десен служител III"
+
+msgid "Right Conductor Added IV"
+msgstr "Добавен десен служител IV"
+
+msgid "Right Conductor Added V"
+msgstr "Добавен десен служител V"
+
+msgid "Right Conductor Added VI"
+msgstr "Добавен десен служител VI"
+
+msgid "Left Conductor I"
+msgstr "Ляв служител I"
+
+msgid "Left Conductor II"
+msgstr "Ляв служител II"
+
+msgid "Left Conductor III"
+msgstr "Ляв служител III"
+
+msgid "Left Conductor Added I"
+msgstr "Добавен ляв служител I"
+
+msgid "Left Conductor Added II"
+msgstr "Добавен ляв служител II"
+
+msgid "Left Conductor Added III"
+msgstr "Добавен ляв служител III"
+
+msgid "Left Conductor Added IV"
+msgstr "Добавен ляв служител IV"
+
+msgid "Executions I"
+msgstr "Екзекуции I"
+
+msgid "Executions III"
+msgstr "Екзекуции III"
+
+msgid "Executions IV"
+msgstr "Екзекуции IV"
+
+msgid "Executions V"
+msgstr "Екзекуции V"
+
+msgid "Executions VI"
+msgstr "Екзекуции VI"
+
+msgid "Executions VII"
+msgstr "Екзекуции VII"
+
+msgid "Executions Added I"
+msgstr "Добавени екзекуции I"
+
+msgid "Executions Added II"
+msgstr "Добавени екзекуции II"
+
+msgid "Executions Added III"
+msgstr "Добавени екзекуции III"
+
+msgid "Executions Added IV"
+msgstr "Добавени екзекуции IV"
+
+msgid "Executions Added V"
+msgstr "Добавени екзекуции V"
+
+msgid "Executions Added VI"
+msgstr "Добавени екзекуции VI"
+
+msgid "Executions Added VII"
+msgstr "Добавени екзекуции VII"
+
+msgid "Trials I"
+msgstr "Процес I"
+
+msgid "Trials II"
+msgstr "Процес II"
+
+msgid "Trials Added I"
+msgstr "Добавен процес I"
+
+msgid "Gate of Yang I"
+msgstr "Гранична порта I"
+
+msgid "Gate of Yang II"
+msgstr "Гранична порта II"
+
+msgid "Root I"
+msgstr "Корен I"
+
+msgid "Root II"
+msgstr "Корен II"
+
+msgid "Root III"
+msgstr "Корен III"
+
+msgid "Root IV"
+msgstr "Корен IV"
+
+msgid "Root Added I"
+msgstr "Добавен корен I"
+
+msgid "Root Added II"
+msgstr "Добавен корен II"
+
+msgid "Root Added III"
+msgstr "Добавен корен III"
+
+msgid "Root Added IV"
+msgstr "Добавен корен IV"
+
+msgid "Root Added V"
+msgstr "Добавен корен V"
+
+msgid "Root Added VI"
+msgstr "Добавен корен VI"
+
+msgid "Root Added VII"
+msgstr "Добавен корен VII"
+
+msgid "Root Added VIII"
+msgstr "Добавен корен VIII"
+
+msgid "Root Added IX"
+msgstr "Добавен корен IX"
+
+msgid "Root Added X"
+msgstr "Добавен корен X"
+
+msgid "Root Added XI"
+msgstr "Добавен корен XI"
+
+msgid "Root Added XII"
+msgstr "Добавен корен XII"
+
+msgid "Root Added XIII"
+msgstr "Добавен корен XIII"
+
+msgid "Root Added XIV"
+msgstr "Добавен корен XIV"
+
+msgid "Root Added XV"
+msgstr "Добавен корен XV"
+
+msgid "Root Added XVI"
+msgstr "Добавен корен XVI"
+
+msgid "Root Added XVII"
+msgstr "Добавен корен XVII"
+
+msgid "Root Added XVIII"
+msgstr "Добавен корен XVIII"
+
+msgid "Root Added XIX"
+msgstr "Добавен корен XIX"
+
+msgid "Root Added XX"
+msgstr "Добавен корен XX"
+
+msgid "Root Added XXI"
+msgstr "Добавен корен XXI"
+
+msgid "Root Added XXII"
+msgstr "Добавен корен XXII"
+
+msgid "Root Added XXIII"
+msgstr "Добавен корен XXIII"
+
+msgid "Root Added XXIV"
+msgstr "Добавен корен XXIV"
+
+msgid "Root Added XXV"
+msgstr "Добавен корен XXV"
+
+msgid "Root Added XXVI"
+msgstr "Добавен корен XXVI"
+
+msgid "Root Added XXVII"
+msgstr "Добавен корен XXVII"
+
+msgid "Root Added XXVIII"
+msgstr "Добавен корен XXVIII"
+
+msgid "Root Added XXIX"
+msgstr "Добавен корен XXIX"
+
+msgid "Root Added XXX"
+msgstr "Добавен корен XXX"
+
+msgid "Boats and Lake I"
+msgstr "Лодки и езеро I"
+
+msgid "Boats and Lake II"
+msgstr "Лодки и езеро II"
+
+msgid "Boats and Lake III"
+msgstr "Лодки и езеро III"
+
+msgid "Boats and Lake IV"
+msgstr "Лодки и езеро IV"
+
+msgid "Mattress of the Emperor I"
+msgstr "Матрак на императора I"
+
+msgid "Mattress of the Emperor II"
+msgstr "Матрак на императора II"
+
+msgid "Mattress of the Emperor III"
+msgstr "Матрак на императора III"
+
+msgid "Mattress of the Emperor Added I"
+msgstr "Добавен матрак на императора I"
+
+msgid "Celestial Lance I"
+msgstr "Небесна пика I"
+
+msgid "Celestial Lance II"
+msgstr "Небесна пика II"
+
+msgid "Celestial Lance III"
+msgstr "Небесна пика III"
+
+msgid "Celestial Lance Added I"
+msgstr "Добавена небесна пика I"
+
+msgid "Celestial Lance Added II"
+msgstr "Добавена небесна пика II"
+
+msgid "Celestial Lance Added III"
+msgstr "Добавена небесна пика III"
+
+msgid "Celestial Lance Added IV"
+msgstr "Добавена небесна пика IV"
+
+msgid "Celestial Lance Added V"
+msgstr "Добавена небесна пика V"
+
+msgid "Celestial Milk Added I"
+msgstr "Добавено небесно мляко I"
+
+msgid "Celestial Milk Added II"
+msgstr "Добавено небесно мляко II"
+
+msgid "Celestial Milk Added III"
+msgstr "Добавено небесно мляко III"
+
+msgid "Celestial Milk Added IV"
+msgstr "Добавено небесно мляко IV"
+
+msgid "Celestial Spokes I"
+msgstr "Небесни чиновници I"
+
+msgid "Celestial Spokes II"
+msgstr "Небесни чиновници II"
+
+msgid "Celestial Spokes Added I"
+msgstr "Добавени небесни чиновници I"
+
+msgid "Battle Chariots I"
+msgstr "Бойни колесници I"
+
+msgid "Battle Chariots II"
+msgstr "Бойни колесници II"
+
+msgid "Battle Chariots III"
+msgstr "Бойни колесници III"
+
+msgid "Battle Chariots Added I"
+msgstr "Добавени бойни колесници I"
+
+msgid "Battle Chariots Added II"
+msgstr "Добавени бойни колесници II"
+
+msgid "Imperial Guards I"
+msgstr "Имперска гвардия I"
+
+msgid "Imperial Guards II"
+msgstr "Имперска гвардия II"
+
+msgid "Imperial Guards III"
+msgstr "Имперска гвардия III"
+
+msgid "Imperial Guards IV"
+msgstr "Имперска гвардия IV"
+
+msgid "Imperial Guards V"
+msgstr "Имперска гвардия V"
+
+msgid "Imperial Guards VI"
+msgstr "Имперска гвардия VI"
+
+msgid "Imperial Guards VII"
+msgstr "Имперска гвардия VII"
+
+msgid "Imperial Guards VIII"
+msgstr "Имперска гвардия VIII"
+
+msgid "Imperial Guards IX"
+msgstr "Имперска гвардия IX"
+
+msgid "Imperial Guards X"
+msgstr "Имперска гвардия X"
+
+msgid "Chariots and Cavalry I"
+msgstr "Колесници и конница I"
+
+msgid "Chariots and Cavalry II"
+msgstr "Колесници и конница II"
+
+msgid "Chariots and Cavalry III"
+msgstr "Колесници и конница III"
+
+msgid "Room I"
+msgstr "Стая I"
+
+msgid "Room II"
+msgstr "Стая II"
+
+msgid "Room III"
+msgstr "Стая III"
+
+msgid "Room IV"
+msgstr "Стая IV"
+
+msgid "Room Added I"
+msgstr "Добавена стая I"
+
+msgid "Room Added II"
+msgstr "Добавена стая II"
+
+msgid "Room Added III"
+msgstr "Добавена стая III"
+
+msgid "Room Added IV"
+msgstr "Добавена стая IV"
+
+msgid "Room Added V"
+msgstr "Добавена стая V"
+
+msgid "Room Added VI"
+msgstr "Добавена стая VI"
+
+msgid "Lock I"
+msgstr "Ключалка I"
+
+msgid "Lock II"
+msgstr "Ключалка II"
+
+msgid "Punishment I"
+msgstr "Наказание I"
+
+msgid "Punishment II"
+msgstr "Наказание II"
+
+msgid "Punishment III"
+msgstr "Наказание III"
+
+msgid "Punishment Added I"
+msgstr "Добавено наказание I"
+
+msgid "Punishment Added II"
+msgstr "Добавено наказание II"
+
+msgid "Punishment Added III"
+msgstr "Добавено наказание III"
+
+msgid "Western Door I"
+msgstr "Западна врата I"
+
+msgid "Western Door II"
+msgstr "Западна врата II"
+
+msgid "Western Door III"
+msgstr "Западна врата III"
+
+msgid "Western Door IV"
+msgstr "Западна врата IV"
+
+msgid "Western Door Added I"
+msgstr "Добавена западна врата I"
+
+msgid "Eastern Door I"
+msgstr "Източна врата I"
+
+msgid "Eastern Door II"
+msgstr "Източна врата II"
+
+msgid "Eastern Door III"
+msgstr "Източна врата III"
+
+msgid "Eastern Door IV"
+msgstr "Източна врата IV"
+
+msgid "Eastern Door Added I"
+msgstr "Добавена източна врата I"
+
+msgid "Eastern Door Added II"
+msgstr "Добавена източна врата II"
+
+msgid "Solar Star Added I"
+msgstr "Добавена слънчева звезда I"
+
+msgid "Retinue I (In Room Mansion)"
+msgstr "Свита I (в Стая)"
+
+msgid "Retinue II (In Room Mansion)"
+msgstr "Свита II (в Стая)"
+
+msgid "Retinue Added I (In Room Mansion)"
+msgstr "Добавена свита I (в Стая)"
+
+msgid "Heart I"
+msgstr "Сърце I"
+
+msgid "Heart II"
+msgstr "Сърце II"
+
+msgid "Great Fire"
+msgstr ""
+
+msgid "Heart III"
+msgstr "Сърце III"
+
+msgid "Heart Added I"
+msgstr "Добавено сърце I"
+
+msgid "Heart Added II"
+msgstr "Добавено сърце II"
+
+msgid "Heart Added III"
+msgstr "Добавено сърце III"
+
+msgid "Heart Added IV"
+msgstr "Добавено сърце IV"
+
+msgid "Heart Added V"
+msgstr "Добавено сърце V"
+
+msgid "Heart Added VI"
+msgstr "Добавено сърце VI"
+
+msgid "Heart Added VIII"
+msgstr "Добавено сърце VIII"
+
+msgid "Heart Added IX"
+msgstr "Добавено сърце IX"
+
+msgid "Group of Soldiers I"
+msgstr "Група войници I"
+
+msgid "Group of Soldiers II"
+msgstr "Група войници II"
+
+msgid "Group of Soldiers Added I"
+msgstr "Добавена група войници I"
+
+msgid "Group of Soldiers Added II"
+msgstr "Добавена група войници II"
+
+msgid "Tail I"
+msgstr "Опашка I"
+
+msgid "Tail II"
+msgstr "Опашка II"
+
+msgid "Tail III"
+msgstr "Опашка III"
+
+msgid "Tail IV"
+msgstr "Опашка IV"
+
+msgid "Tail V"
+msgstr "Опашка V"
+
+msgid "Tail VI"
+msgstr "Опашка VI"
+
+msgid "Tail VII"
+msgstr "Опашка VII"
+
+msgid "Tail VIII"
+msgstr "Опашка VIII"
+
+msgid "Tail IX"
+msgstr "Опашка IX"
+
+msgid "Tail Added I"
+msgstr "Добавена опашка I"
+
+msgid "Tail Added II"
+msgstr "Добавена опашка II"
+
+msgid "Tail Added III"
+msgstr "Добавена опашка III"
+
+msgid "Tail Added IV"
+msgstr "Добавена опашка IV"
+
+msgid "Celestial River I"
+msgstr "Небесна река I"
+
+msgid "Celestial River II"
+msgstr "Небесна река II"
+
+msgid "Celestial River III"
+msgstr "Небесна река III"
+
+msgid "Celestial River IV"
+msgstr "Небесна река IV"
+
+msgid "Celestial River Added I"
+msgstr "Добавена небесна река I"
+
+msgid "Celestial River Added II"
+msgstr "Добавена небесна река II"
+
+msgid "Celestial River Added III"
+msgstr "Добавена небесна река III"
+
+msgid "Celestial River Added IV"
+msgstr "Добавена небесна река IV"
+
+msgid "Celestial River Added V"
+msgstr "Добавена небесна река V"
+
+msgid "Celestial River Added VI"
+msgstr "Добавена небесна река VI"
+
+msgid "Celestial River Added VII"
+msgstr "Добавена небесна река VII"
+
+msgid "Celestial River Added VIII"
+msgstr "Добавена небесна река VIII"
+
+msgid "Celestial River Added IX"
+msgstr "Добавена небесна река IX"
+
+msgid "Celestial River Added X"
+msgstr "Добавена небесна река X"
+
+msgid "Celestial River Added XI"
+msgstr "Добавена небесна река XI"
+
+msgid "Tortoise I"
+msgstr "Костенурка I"
+
+msgid "Tortoise II"
+msgstr "Костенурка II"
+
+msgid "Tortoise III"
+msgstr "Костенурка III"
+
+msgid "Tortoise IV"
+msgstr "Костенурка IV"
+
+msgid "Tortoise V"
+msgstr "Костенурка V"
+
+msgid "Winnowing Basket I"
+msgstr "Вееща се кошница I"
+
+msgid "Winnowing Basket II"
+msgstr "Вееща се кошница II"
+
+msgid "Winnowing Basket III"
+msgstr "Вееща се кошница III"
+
+msgid "Winnowing Basket IV"
+msgstr "Вееща се кошница IV"
+
+msgid "Chaff Added I"
+msgstr "Добавена плява I"
+
+msgid "Pestle I (In Winnowing Basket Mansion)"
+msgstr "Пестик I (във Вееща се кошница)"
+
+msgid "Pestle II (In Winnowing Basket Mansion)"
+msgstr "Пестик II (във Вееща се кошница)"
+
+msgid "Pestle III (In Winnowing Basket Mansion)"
+msgstr "Пестик III (във Вееща се кошница)"
+
+msgid "Pestle Added I (In Winnowing Basket Mansion)"
+msgstr "Добавен пестик I (във Вееща се кошница)"
+
+msgid "Dipper I"
+msgstr "Черпак I"
+
+msgid "Dipper II"
+msgstr "Черпак II"
+
+msgid "Dipper III"
+msgstr "Черпак III"
+
+msgid "Dipper IV"
+msgstr "Черпак IV"
+
+msgid "Dipper V"
+msgstr "Черпак V"
+
+msgid "Dipper VI"
+msgstr "Черпак VI"
+
+msgid "Dipper Added I"
+msgstr "Добавен черпак I"
+
+msgid "Dipper Added II"
+msgstr "Добавен черпак II"
+
+msgid "Dipper Added III"
+msgstr "Добавен черпак III"
+
+msgid "Dipper Added IV"
+msgstr "Добавен черпак IV"
+
+msgid "Dipper Added V"
+msgstr "Добавен черпак V"
+
+msgid "Celestial Keyhole I"
+msgstr "Небесна ключова дупка I"
+
+msgid "Celestial Keyhole II?"
+msgstr "Небесна ключова дупка II?"
+
+msgid "Celestial Keyhole III"
+msgstr "Небесна ключова дупка III"
+
+msgid "Celestial Keyhole IV"
+msgstr "Небесна ключова дупка IV"
+
+msgid "Celestial Keyhole V"
+msgstr "Небесна ключова дупка V"
+
+msgid "Celestial Keyhole VI"
+msgstr "Небесна ключова дупка VI"
+
+msgid "Celestial Keyhole VII"
+msgstr "Небесна ключова дупка VII"
+
+msgid "Celestial Keyhole VIII"
+msgstr "Небесна ключова дупка VIII"
+
+msgid "Celestial Keyhole Added I"
+msgstr "Добавена небесна ключова дупка I"
+
+msgid "Celestial Keyhole Added II"
+msgstr "Добавена небесна ключова дупка II"
+
+msgid "Celestial Keyhole Added III"
+msgstr "Добавена небесна ключова дупка III"
+
+msgid "Celestial Keyhole Added IV"
+msgstr "Добавена небесна ключова дупка IV"
+
+msgid "Market Officer I"
+msgstr "Пазарен служител I"
+
+msgid "Market Officer II"
+msgstr "Пазарен служител II"
+
+msgid "Market Officer III"
+msgstr "Пазарен служител III"
+
+msgid "Market Officer IV"
+msgstr "Пазарен служител IV"
+
+msgid "Market Officer V"
+msgstr "Пазарен служител V"
+
+msgid "Market Officer VI"
+msgstr "Пазарен служител VI"
+
+msgid "Market Officer VII"
+msgstr "Пазарен служител VII"
+
+msgid "Market Officer VIII"
+msgstr "Пазарен служител VIII"
+
+msgid "Market Officer IX"
+msgstr "Пазарен служител IX"
+
+msgid "Market Officer Added I"
+msgstr "Добавен пазарен служител I"
+
+msgid "Market Officer Added II"
+msgstr "Добавен пазарен служител II"
+
+msgid "Market Officer Added III"
+msgstr "Добавен пазарен служител III"
+
+msgid "Market Officer Added IV"
+msgstr "Добавен пазарен служител IV"
+
+msgid "Market Officer Added V"
+msgstr "Добавен пазарен служител V"
+
+msgid "Market Officer Added VI"
+msgstr "Добавен пазарен служител VI"
+
+msgid "Establishment I"
+msgstr "Учреждение I"
+
+msgid "Establishment II"
+msgstr "Учреждение II"
+
+msgid "Establishment III"
+msgstr "Учреждение III"
+
+msgid "Establishment IV"
+msgstr "Учреждение IV"
+
+msgid "Establishment V"
+msgstr "Учреждение V"
+
+msgid "Establishment VI"
+msgstr "Учреждение VI"
+
+msgid "Establishment Added I"
+msgstr "Добавено учреждение I"
+
+msgid "Establishment Added II"
+msgstr "Добавено учреждение II"
+
+msgid "Establishment Added III"
+msgstr "Добавено учреждение III"
+
+msgid "Establishment Added IV"
+msgstr "Добавено учреждение IV"
+
+msgid "Establishment Added V"
+msgstr "Добавено учреждение V"
+
+msgid "Establishment Added VI"
+msgstr "Добавено учреждение VI"
+
+msgid "Establishment Added VII"
+msgstr "Добавено учреждение VII"
+
+msgid "Establishment Added VIII"
+msgstr "Добавено учреждение VIII"
+
+msgid "Establishment Added IX"
+msgstr "Добавено учреждение IX"
+
+msgid "Establishment Added X"
+msgstr "Добавено учреждение X"
+
+msgid "Celestial Cock I"
+msgstr "Небесен петел I"
+
+msgid "Celestial Cock II"
+msgstr "Небесен петел II"
+
+msgid "Celestial Cock Added I"
+msgstr "Добавен небесен петел I"
+
+msgid "Celestial Cock Added II"
+msgstr "Добавен небесен петел II"
+
+msgid "Celestial Cock Added III"
+msgstr "Добавен небесен петел III"
+
+msgid "Dog I"
+msgstr "Куче I"
+
+msgid "Dog II"
+msgstr "Куче II"
+
+msgid "Dog Added I"
+msgstr "Добавено куче I"
+
+msgid "Dog Added II"
+msgstr "Добавено куче II"
+
+msgid "Dog Added III"
+msgstr "Добавено куче III"
+
+msgid "Dog Added IV"
+msgstr "Добавено куче IV"
+
+msgid "Dog Added V"
+msgstr "Добавено куче V"
+
+msgid "Dog Added VI"
+msgstr "Добавено куче VI"
+
+msgid "Dog Added VII"
+msgstr "Добавено куче VII"
+
+msgid "Territory of Dog I"
+msgstr "Кучешка територия I"
+
+msgid "Territory of Dog II"
+msgstr "Кучешка територия II"
+
+msgid "Territory of Dog III"
+msgstr "Кучешка територия III"
+
+msgid "Territory of Dog IV"
+msgstr "Кучешка територия IV"
+
+msgid "Territory of Dog Added I"
+msgstr "Добавена кучешка територия I"
+
+msgid "Territory of Dog Added II"
+msgstr "Добавена кучешка територия II"
+
+msgid "Territory of Dog Added III"
+msgstr "Добавена кучешка територия III"
+
+msgid "Celestial Spring I"
+msgstr "Небесен извор I"
+
+msgid "Celestial Spring II"
+msgstr "Небесен извор II"
+
+msgid "Celestial Spring III"
+msgstr "Небесен извор III"
+
+msgid "Celestial Spring Added I"
+msgstr "Добавен небесен извор I"
+
+msgid "Celestial Spring Added II"
+msgstr "Добавен небесен извор II"
+
+msgid "Celestial Spring Added III"
+msgstr "Добавен небесен извор III"
+
+msgid "River Turtle I"
+msgstr "Речна костенурка I"
+
+msgid "River Turtle II"
+msgstr "Речна костенурка II"
+
+msgid "River Turtle III"
+msgstr "Речна костенурка III"
+
+msgid "River Turtle IV"
+msgstr "Речна костенурка IV"
+
+msgid "River Turtle V"
+msgstr "Речна костенурка V"
+
+msgid "River Turtle VI"
+msgstr "Речна костенурка VI"
+
+msgid "River Turtle VII"
+msgstr "Речна костенурка VII"
+
+msgid "River Turtle VIII"
+msgstr "Речна костенурка VIII"
+
+msgid "River Turtle IX"
+msgstr "Речна костенурка IX"
+
+msgid "River Turtle X"
+msgstr "Речна костенурка X"
+
+msgid "River Turtle XI"
+msgstr "Речна костенурка XI"
+
+msgid "Ox I"
+msgstr "Вол I"
+
+msgid "Ox II"
+msgstr "Вол II"
+
+msgid "Ox III"
+msgstr "Вол III"
+
+msgid "Ox IV"
+msgstr "Вол IV"
+
+msgid "Ox V"
+msgstr "Вол V"
+
+msgid "Ox VI"
+msgstr "Вол VI"
+
+msgid "Ox Added I"
+msgstr "Добавен вол I"
+
+msgid "Ox Added II"
+msgstr "Добавен вол II"
+
+msgid "Ox Added III"
+msgstr "Добавен вол III"
+
+msgid "Ox Added IV"
+msgstr "Добавен вол IV"
+
+msgid "Ox Added V"
+msgstr "Добавен вол V"
+
+msgid "Ox Added VI"
+msgstr "Добавен вол VI"
+
+msgid "Ox Added VII"
+msgstr "Добавен вол VII"
+
+msgid "Ox Added VIII"
+msgstr "Добавен вол VIII"
+
+msgid "Ox Added IX"
+msgstr "Добавен вол IX"
+
+msgid "Ox Added X"
+msgstr "Добавен вол X"
+
+msgid "Ox Added XI"
+msgstr "Добавен вол XI"
+
+msgid "Ox Added XII"
+msgstr "Добавен вол XII"
+
+msgid "Ox Added XIII"
+msgstr "Добавен вол XIII"
+
+msgid "Ox Added XIV"
+msgstr "Добавен вол XIV"
+
+msgid "Celestial Drumstick I"
+msgstr "Небесна барабанова палка I"
+
+msgid "Celestial Drumstick II"
+msgstr "Небесна барабанова палка II"
+
+msgid "Celestial Drumstick III"
+msgstr "Небесна барабанова палка III"
+
+msgid "Celestial Drumstick IV"
+msgstr "Небесна барабанова палка IV"
+
+msgid "Celestial Drumstick Added I"
+msgstr "Добавена небесна барабанова палка I"
+
+msgid "Celestial Drumstick Added II"
+msgstr "Добавена небесна барабанова палка II"
+
+msgid "Drum at the River I"
+msgstr "Барабан при реката I"
+
+msgid "Drum at the River II"
+msgstr "Барабан при реката II"
+
+msgid "Cowboy"
+msgstr "Говедар"
+
+msgid "Drum at the River III"
+msgstr "Барабан при реката III"
+
+msgid "Drum at the River Added I"
+msgstr "Добавен барабан при реката I"
+
+msgid "Drum at the River Added II"
+msgstr "Добавен барабан при реката II"
+
+msgid "Drum at the River Added III"
+msgstr "Добавен барабан при реката III"
+
+msgid "Drum at the River Added IV"
+msgstr "Добавен барабан при реката IV"
+
+msgid "Drum at the River Added V"
+msgstr "Добавен барабан при реката V"
+
+msgid "Drum at the River Added VI"
+msgstr "Добавен барабан при реката VI"
+
+msgid "Drum at the River Added VII"
+msgstr "Добавен барабан при реката VII"
+
+msgid "Drum at the River Added VIII"
+msgstr "Добавен барабан при реката VIII"
+
+msgid "Drum at the River Added IX"
+msgstr "Добавен барабан при реката IX"
+
+msgid "Right Flag I"
+msgstr "Десен флаг I"
+
+msgid "Right Flag II"
+msgstr "Десен флаг II"
+
+msgid "Right Flag III"
+msgstr "Десен флаг III"
+
+msgid "Right Flag IV"
+msgstr "Десен флаг IV"
+
+msgid "Right Flag V"
+msgstr "Десен флаг V"
+
+msgid "Right Flag VI"
+msgstr "Десен флаг VI"
+
+msgid "Right Flag VII"
+msgstr "Десен флаг VII"
+
+msgid "Right Flag VIII"
+msgstr "Десен флаг VIII"
+
+msgid "Right Flag IX"
+msgstr "Десен флаг IX"
+
+msgid "Right Flag Added I"
+msgstr "Добавен десен флаг I"
+
+msgid "Right Flag Added II"
+msgstr "Добавен десен флаг II"
+
+msgid "Right Flag Added III"
+msgstr "Добавен десен флаг III"
+
+msgid "Right Flag Added IV"
+msgstr "Добавен десен флаг IV"
+
+msgid "Right Flag Added V"
+msgstr "Добавен десен флаг V"
+
+msgid "Right Flag Added VI"
+msgstr "Добавен десен флаг VI"
+
+msgid "Right Flag Added VII"
+msgstr "Добавен десен флаг VII"
+
+msgid "Right Flag Added VIII"
+msgstr "Добавен десен флаг VIII"
+
+msgid "Right Flag Added X"
+msgstr "Добавен десен флаг X"
+
+msgid "Right Flag Added XI"
+msgstr "Добавен десен флаг XI"
+
+msgid "Right Flag Added XII"
+msgstr "Добавен десен флаг XII"
+
+msgid "Left Flag I"
+msgstr "Ляв флаг I"
+
+msgid "Left Flag II"
+msgstr "Ляв флаг II"
+
+msgid "Left Flag III"
+msgstr "Ляв флаг III"
+
+msgid "Left Flag IV"
+msgstr "Ляв флаг IV"
+
+msgid "Left Flag V"
+msgstr "Ляв флаг V"
+
+msgid "Left Flag VI"
+msgstr "Ляв флаг VI"
+
+msgid "Left Flag VII"
+msgstr "Ляв флаг VII"
+
+msgid "Left Flag VIII"
+msgstr "Ляв флаг VIII"
+
+msgid "Left Flag IX"
+msgstr "Ляв флаг IX"
+
+msgid "Left Flag Added I"
+msgstr "Добавен ляв флаг I"
+
+msgid "Left Flag Added II"
+msgstr "Добавен ляв флаг II"
+
+msgid "Left Flag Added III"
+msgstr "Добавен ляв флаг III"
+
+msgid "Left Flag Added IV"
+msgstr "Добавен ляв флаг IV"
+
+msgid "Left Flag Added V"
+msgstr "Добавен ляв флаг V"
+
+msgid "Left Flag Added VI"
+msgstr "Добавен ляв флаг VI"
+
+msgid "Left Flag Added VII"
+msgstr "Добавен ляв флаг VII"
+
+msgid "Left Flag Added VIII"
+msgstr "Добавен ляв флаг VIII"
+
+msgid "Left Flag Added IX?"
+msgstr "Добавен ляв флаг IX?"
+
+msgid "Left Flag Added X"
+msgstr "Добавен ляв флаг X"
+
+msgid "Left Flag Added XI"
+msgstr "Добавен ляв флаг XI"
+
+msgid "Left Flag Added XII"
+msgstr "Добавен ляв флаг XII"
+
+msgid "Left Flag Added XIII"
+msgstr "Добавен ляв флаг XIII"
+
+msgid "Left Flag Added XIV"
+msgstr "Добавен ляв флаг XIV"
+
+msgid "Left Flag Added XV"
+msgstr "Добавен ляв флаг XV"
+
+msgid "Left Flag Added XVI"
+msgstr "Добавен ляв флаг XVI"
+
+msgid "Left Flag Added XVII"
+msgstr "Добавен ляв флаг XVII"
+
+msgid "Left Flag Added XVIII"
+msgstr "Добавен ляв флаг XVIII"
+
+msgid "Left Flag Added XIX"
+msgstr "Добавен ляв флаг XIX"
+
+msgid "Left Flag Added XX"
+msgstr "Добавен ляв флаг XX"
+
+msgid "Left Flag Added XXI"
+msgstr "Добавен ляв флаг XXI"
+
+msgid "Left Flag Added XXII"
+msgstr "Добавен ляв флаг XXII"
+
+msgid "Left Flag Added XXIII"
+msgstr "Добавен ляв флаг XXIII"
+
+msgid "Left Flag Added XXIV"
+msgstr "Добавен ляв флаг XXIV"
+
+msgid "Left Flag Added XXV"
+msgstr "Добавен ляв флаг XXV"
+
+msgid "Left Flag Added XXVI"
+msgstr "Добавен ляв флаг XXVI"
+
+msgid "Left Flag Added XXVII"
+msgstr "Добавен ляв флаг XXVII"
+
+msgid "Left Flag Added XXVIII"
+msgstr "Добавен ляв флаг XXVIII"
+
+msgid "Left Flag Added XXIX"
+msgstr "Добавен ляв флаг XXIX"
+
+msgid "Left Flag Added XXX"
+msgstr "Добавен ляв флаг XXX"
+
+msgid "Weaving Girl I"
+msgstr "Плетящо момиче I"
+
+msgid "Weaving Girl II"
+msgstr "Плетящо момиче II"
+
+msgid "Weaving Girl III"
+msgstr "Плетящо момиче III"
+
+msgid "Weaving Girl Added I"
+msgstr "Добавено плетящо момиче I"
+
+msgid "Weaving Girl Added II"
+msgstr "Добавено плетящо момиче II"
+
+msgid "Weaving Girl Added III"
+msgstr "Добавено плетящо момиче III"
+
+msgid "Weaving Girl Added IV"
+msgstr "Добавено плетящо момиче IV"
+
+msgid "Clepsydra Terrace I"
+msgstr "Тераса за воден часовник I"
+
+msgid "Clepsydra Terrace II"
+msgstr "Тераса за воден часовник II"
+
+msgid "Clepsydra Terrace III"
+msgstr "Тераса за воден часовник III"
+
+msgid "Clepsydra Terrace IV"
+msgstr "Тераса за воден часовник IV"
+
+msgid "Clepsydra Terrace Added I"
+msgstr "Добавена тераса за воден часовник I"
+
+msgid "Clepsydra Terrace Added III"
+msgstr "Добавена тераса за воден часовник III"
+
+msgid "Clepsydra Terrace Added IV"
+msgstr "Добавена тераса за воден часовник IV"
+
+msgid "Clepsydra Terrace Added V"
+msgstr "Добавена тераса за воден часовник V"
+
+msgid "Clepsydra Terrace Added VI"
+msgstr "Добавена тераса за воден часовник VI"
+
+msgid "Clepsydra Terrace Added VII"
+msgstr "Добавена тераса за воден часовник VII"
+
+msgid "Imperial Passageway I"
+msgstr "Имперски проход I"
+
+msgid "Imperial Passageway II"
+msgstr "Имперски проход II"
+
+msgid "Imperial Passageway III"
+msgstr "Имперски проход III"
+
+msgid "Imperial Passageway IV"
+msgstr "Имперски проход IV"
+
+msgid "Imperial Passageway V"
+msgstr "Имперски проход V"
+
+msgid "Imperial Passageway Added I"
+msgstr "Добавен имперски проход I"
+
+msgid "Imperial Passageway Added II"
+msgstr "Добавен имперски проход II"
+
+msgid "Imperial Passageway Added III"
+msgstr "Добавен имперски проход III"
+
+msgid "Imperial Passageway Added IV"
+msgstr "Добавен имперски проход IV"
+
+msgid "Imperial Passageway Added V"
+msgstr "Добавен имперски проход V"
+
+msgid "Imperial Passageway Added VI"
+msgstr "Добавен имперски проход VI"
+
+msgid "Imperial Passageway Added VII"
+msgstr "Добавен имперски проход VII"
+
+msgid "Imperial Passageway Added VIII"
+msgstr "Добавен имперски проход VIII"
+
+msgid "Imperial Passageway Added IX"
+msgstr "Добавен имперски проход IX"
+
+msgid "Network of Dykes I"
+msgstr "Мрежа от диги I"
+
+msgid "Network of Dykes II"
+msgstr "Мрежа от диги II"
+
+msgid "Network of Dykes III"
+msgstr "Мрежа от диги III"
+
+msgid "Network of Dykes Added I"
+msgstr "Добавена мрежа от диги I"
+
+msgid "Celestial Farmland I (In Ox Mansion)"
+msgstr "Небесна земеделска земя I (във Вол)"
+
+msgid "Celestial Farmland II (In Ox Mansion)"
+msgstr "Небесна земеделска земя II (във Вол)"
+
+msgid "Celestial Farmland III (In Ox Mansion)"
+msgstr "Небесна земеделска земя III (във Вол)"
+
+msgid "Celestial Farmland IV (In Ox Mansion)"
+msgstr "Небесна земеделска земя IV (във Вол)"
+
+msgid "Nine Water Wells II*"
+msgstr "Девет водни кладенци II*"
+
+msgid "Girl I"
+msgstr "Момиче I"
+
+msgid "Girl II"
+msgstr "Момиче II"
+
+msgid "Girl III"
+msgstr "Момиче III"
+
+msgid "Girl IV"
+msgstr "Момиче IV"
+
+msgid "Girl Added I"
+msgstr "Добавено момиче I"
+
+msgid "Girl Added II"
+msgstr "Добавено момиче II"
+
+msgid "Girl Added III"
+msgstr "Добавено момиче III"
+
+msgid "Girl Added IV"
+msgstr "Добавено момиче IV"
+
+msgid "Girl Added V"
+msgstr "Добавено момиче V"
+
+msgid "Pearls on Ladies' Wear I"
+msgstr "Перли върху дамските облекла I"
+
+msgid "Pearls on Ladies' Wear II"
+msgstr "Перли върху дамските облекла II"
+
+msgid "Pearls on Ladies' Wear III"
+msgstr "Перли върху дамските облекла III"
+
+msgid "Pearls on Ladies' Wear IV"
+msgstr "Перли върху дамските облекла IV"
+
+msgid "Pearls on Ladies' Wear Added I"
+msgstr "Добавени перли върху дамските облекла I"
+
+msgid "Rotten Gourd I"
+msgstr "Гнила кратуна I"
+
+msgid "Rotten Gourd II"
+msgstr "Гнила кратуна II"
+
+msgid "Rotten Gourd III"
+msgstr "Гнила кратуна III"
+
+msgid "Rotten Gourd IV"
+msgstr "Гнила кратуна IV"
+
+msgid "Rotten Gourd V"
+msgstr "Гнила кратуна V"
+
+msgid "Rotten Gourd Added I"
+msgstr "Добавена гнила кратуна I"
+
+msgid "Rotten Gourd Added II"
+msgstr "Добавена гнила кратуна II"
+
+msgid "Rotten Gourd Added III"
+msgstr "Добавена гнила кратуна III"
+
+msgid "Good Gourd I"
+msgstr "Свежа кратуна I"
+
+msgid "Good Gourd II"
+msgstr "Свежа кратуна II"
+
+msgid "Good Gourd III"
+msgstr "Свежа кратуна III"
+
+msgid "Good Gourd IV"
+msgstr "Свежа кратуна IV"
+
+msgid "Good Gourd V"
+msgstr "Свежа кратуна V"
+
+msgid "Good Gourd Added I"
+msgstr "Добавена свежа кратуна I"
+
+msgid "Good Gourd Added II"
+msgstr "Добавена свежа кратуна II"
+
+msgid "Good Gourd Added III"
+msgstr "Добавена свежа кратуна III"
+
+msgid "Good Gourd Added IV"
+msgstr "Добавена свежа кратуна IV"
+
+msgid "Good Gourd Added V"
+msgstr "Добавена свежа кратуна V"
+
+msgid "Good Gourd Added VI"
+msgstr "Добавена свежа кратуна VI"
+
+msgid "Good Gourd Added VII"
+msgstr "Добавена свежа кратуна VII"
+
+msgid "Good Gourd Added VIII"
+msgstr "Добавена свежа кратуна VIII"
+
+msgid "Celestial Ford I"
+msgstr "Небесен брод I"
+
+msgid "Celestial Ford II"
+msgstr "Небесен брод II"
+
+msgid "Celestial Ford III"
+msgstr "Небесен брод III"
+
+msgid "Celestial Ford IV"
+msgstr "Небесен брод IV"
+
+msgid "Celestial Ford V"
+msgstr "Небесен брод V"
+
+msgid "Celestial Ford VI"
+msgstr "Небесен брод VI"
+
+msgid "Celestial Ford VII"
+msgstr "Небесен брод VII"
+
+msgid "Celestial Ford VIII"
+msgstr "Небесен брод VIII"
+
+msgid "Celestial Ford IX"
+msgstr "Небесен брод IX"
+
+msgid "Celestial Ford Added I"
+msgstr "Добавен небесен брод I"
+
+msgid "Celestial Ford Added II"
+msgstr "Добавен небесен брод II"
+
+msgid "Celestial Ford Added III"
+msgstr "Добавен небесен брод III"
+
+msgid "Celestial Ford Added IV"
+msgstr "Добавен небесен брод IV"
+
+msgid "Celestial Ford Added V"
+msgstr "Добавен небесен брод V"
+
+msgid "Celestial Ford Added VI"
+msgstr "Добавен небесен брод VI"
+
+msgid "Celestial Ford Added VII"
+msgstr "Добавен небесен брод VII"
+
+msgid "Celestial Ford Added VIII"
+msgstr "Добавен небесен брод VIII"
+
+msgid "Celestial Ford Added IX"
+msgstr "Добавен небесен брод IX"
+
+msgid "Celestial Ford Added X"
+msgstr "Добавен небесен брод X"
+
+msgid "Celestial Ford Added XI"
+msgstr "Добавен небесен брод XI"
+
+msgid "Celestial Ford Added XII"
+msgstr "Добавен небесен брод XII"
+
+msgid "Celestial Ford Added XIII"
+msgstr "Добавен небесен брод XIII"
+
+msgid "Celestial Ford Added XIV"
+msgstr "Добавен небесен брод XIV"
+
+msgid "Celestial Ford Added XV"
+msgstr "Добавен небесен брод XV"
+
+msgid "Celestial Ford Added XVI"
+msgstr "Добавен небесен брод XVI"
+
+msgid "Celestial Ford Added XVII"
+msgstr "Добавен небесен брод XVII"
+
+msgid "Celestial Ford Added XVIII"
+msgstr "Добавен небесен брод XVIII"
+
+msgid "Celestial Ford Added XIX"
+msgstr "Добавен небесен брод XIX"
+
+msgid "Celestial Ford Added XX"
+msgstr "Добавен небесен брод XX"
+
+msgid "Celestial Ford Added XXI"
+msgstr "Добавен небесен брод XXI"
+
+msgid "Celestial Ford Added XXII"
+msgstr "Добавен небесен брод XXII"
+
+msgid "Celestial Ford Added XXIII"
+msgstr "Добавен небесен брод XXIII"
+
+msgid "Celestial Ford Added XXIV"
+msgstr "Добавен небесен брод XXIV"
+
+msgid "Celestial Ford Added XXV"
+msgstr "Добавен небесен брод XXV"
+
+msgid "Celestial Ford Added XXVI"
+msgstr "Добавен небесен брод XXVI"
+
+msgid "Celestial Ford Added XXVII"
+msgstr "Добавен небесен брод XXVII"
+
+msgid "Celestial Ford Added XXVIII"
+msgstr "Добавен небесен брод XXVIII"
+
+msgid "Celestial Ford Added XXIX"
+msgstr "Добавен небесен брод XXIX"
+
+msgid "Celestial Ford Added XXX"
+msgstr "Добавен небесен брод XXX"
+
+msgid "Celestial Ford Added XXXI"
+msgstr "Добавен небесен брод XXXI"
+
+msgid "Celestial Ford Added XXXII"
+msgstr "Добавен небесен брод XXXII"
+
+msgid "Celestial Ford Added XXXIII"
+msgstr "Добавен небесен брод XXXIII"
+
+msgid "Celestial Ford Added XXXIV"
+msgstr "Добавен небесен брод XXXIV"
+
+msgid "Celestial Ford Added XXXV"
+msgstr "Добавен небесен брод XXXV"
+
+msgid "Celestial Ford Added XXXVI"
+msgstr "Добавен небесен брод XXXVI"
+
+msgid "Celestial Ford Added XXXVII"
+msgstr "Добавен небесен брод XXXVII"
+
+msgid "Celestial Ford Added XXXVIII"
+msgstr "Добавен небесен брод XXXVIII"
+
+msgid "Celestial Ford Added XXXIX"
+msgstr "Добавен небесен брод XXXIX"
+
+msgid "Celestial Ford Added XL"
+msgstr "Добавен небесен брод XL"
+
+msgid "Xi Zhong I"
+msgstr "Си Джон I"
+
+msgid "Xi Zhong II"
+msgstr "Си Джон II"
+
+msgid "Xi Zhong III"
+msgstr "Си Джон III"
+
+msgid "Xi Zhong IV"
+msgstr "Си Джон IV"
+
+msgid "Xi Zhong Added I"
+msgstr "Добавен Си Джон I"
+
+msgid "Xi Zhong Added II"
+msgstr "Добавен Си Джон II"
+
+msgid "Xi Zhong Added III"
+msgstr "Добавен Си Джон III"
+
+msgid "Xi Zhong Added IV"
+msgstr "Добавен Си Джон IV"
+
+msgid "Xi Zhong Added V"
+msgstr "Добавен Си Джон V"
+
+msgid "Xi Zhong Added VI"
+msgstr "Добавен Си Джон VI"
+
+msgid "Xi Zhong Added VII"
+msgstr "Добавен Си Джон VII"
+
+msgid "Basket for Mulberry Leaves I"
+msgstr "Кошница за черничеви листа I"
+
+msgid "Basket for Mulberry Leaves II"
+msgstr "Кошница за черничеви листа II"
+
+msgid "Basket for Mulberry Leaves III"
+msgstr "Кошница за черничеви листа III"
+
+msgid "Basket for Mulberry Leaves IV"
+msgstr "Кошница за черничеви листа IV"
+
+msgid "Basket for Mulberry Leaves V"
+msgstr "Кошница за черничеви листа V"
+
+msgid "Basket for Mulberry Leaves VI"
+msgstr "Кошница за черничеви листа VI"
+
+msgid "Basket for Mulberry Leaves VII"
+msgstr "Кошница за черничеви листа VII"
+
+msgid "Basket for Mulberry Leaves Added I"
+msgstr "Добавена кошница за черничеви листа I"
+
+msgid "Basket for Mulberry Leaves Added II"
+msgstr "Добавена кошница за черничеви листа II"
+
+msgid "Basket for Mulberry Leaves Added III"
+msgstr "Добавена кошница за черничеви листа III"
+
+msgid "Basket for Mulberry Leaves Added IV"
+msgstr "Добавена кошница за черничеви листа IV"
+
+msgid "Zhou State I (In Twelve States)"
+msgstr "Джоу I (в Дванадесет държави)"
+
+msgid "Zhou State II (In Twelve States)"
+msgstr "Джоу II (в Дванадесет държави)"
+
+msgid "Qin State I (In Twelve States)"
+msgstr "Цин I (в Дванадесет държави)"
+
+msgid "Qin State II (In Twelve States)"
+msgstr "Цин II (в Дванадесет държави)"
+
+msgid "Dai State I (In Twelve States)"
+msgstr "Дай I (в Дванадесет държави)"
+
+msgid "Dai State II (In Twelve States)"
+msgstr "Дай II (в Дванадесет държави)"
+
+msgid "Zhao State I (In Twelve States)"
+msgstr "Джао I (в Дванадесет държави)"
+
+msgid "Zhao State II (In Twelve States)"
+msgstr "Джао II (в Дванадесет държави)"
+
+msgid "Yue State (In Twelve States)"
+msgstr "Юе (в Дванадесет държави)"
+
+msgid "Qi State (In Twelve States)"
+msgstr "Ци (в Дванадесет държави)"
+
+msgid "Chu State (In Twelve States)"
+msgstr "Чу (в Дванадесет държави)"
+
+msgid "Zheng State (In Twelve States)"
+msgstr "Джън (в Дванадесет държави)"
+
+msgid "Wei State (In Twelve States)"
+msgstr "Уей (в Дванадесет държави)"
+
+msgid "Han State (In Twelve States)"
+msgstr "Хан (в Дванадесет държави)"
+
+msgid "Jin State (In Twelve States)"
+msgstr "Чжин (в Дванадесет държави)"
+
+msgid "Yan State (In Twelve States)"
+msgstr "Ян (в Дванадесет държави)"
+
+msgid "Dai State Added I (In Twelve States)"
+msgstr "Добавен Дай I (в Дванадесет държави)"
+
+msgid "Dai State Added II (In Twelve States)"
+msgstr "Добавен Дай II (в Дванадесет държави)"
+
+msgid "Emptiness I"
+msgstr "Пустош I"
+
+msgid "Emptiness II"
+msgstr "Пустош II"
+
+msgid "Emptiness Added I"
+msgstr "Добавена пустош I"
+
+msgid "Emptiness Added II"
+msgstr "Добавена пустош II"
+
+msgid "Emptiness Added III"
+msgstr "Добавена пустош III"
+
+msgid "Emptiness Added IV"
+msgstr "Добавена пустош IV"
+
+msgid "Emptiness Added V"
+msgstr "Добавена пустош V"
+
+msgid "Emptiness Added VI"
+msgstr "Добавена пустош VI"
+
+msgid "Emptiness Added VII"
+msgstr "Добавена пустош VII"
+
+msgid "Emptiness Added VIII"
+msgstr "Добавена пустош VIII"
+
+msgid "Deified Judge of Life I"
+msgstr "Обожествен съдия на живота I"
+
+msgid "Deified Judge of Life II"
+msgstr "Обожествен съдия на живота II"
+
+msgid "Deified Judge of Rank I"
+msgstr "Обожествен съдия на званието I"
+
+msgid "Deified Judge of Rank II"
+msgstr "Обожествен съдия на званието II"
+
+msgid "Deified Judge of Rank Added I"
+msgstr "Добавен обожествен съдия на званието I"
+
+msgid "Deified Judge of Rank Added II"
+msgstr "Добавен обожествен съдия на званието II"
+
+msgid "Deified Judge of Disaster and Good Fortune I"
+msgstr "Обожествен съдия на нещастието и късмета I"
+
+msgid "Deified Judge of Disaster and Good Fortune II"
+msgstr "Обожествен съдия на нещастието и късмета II"
+
+msgid "Deified Judge of Right and Wrong  I"
+msgstr "Обожествен съдия на доброто и злото  I"
+
+msgid "Deified Judge of Right and Wrong  II"
+msgstr "Обожествен съдия на доброто и злото  II"
+
+msgid "Deified Judge of Right and Wrong  Added I"
+msgstr "Добавен обожествен съдия на доброто и злото I"
+
+msgid "Deified Judge of Right and Wrong  Added II"
+msgstr "Добавен обожествен съдия на доброто и злото II"
+
+msgid "Deified Judge of Right and Wrong  Added III"
+msgstr "Добавен обожествен съдия на доброто и злото III"
+
+msgid "Crying I"
+msgstr "Плач I"
+
+msgid "Crying II"
+msgstr "Плач II"
+
+msgid "Crying Added I"
+msgstr "Добавен плач I"
+
+msgid "Crying Added II"
+msgstr "Добавен плач II"
+
+msgid "Crying Added III"
+msgstr "Добавен плач III"
+
+msgid "Crying Added IV"
+msgstr "Добавен плач IV"
+
+msgid "Weeping I"
+msgstr "Вопли I"
+
+msgid "Weeping II"
+msgstr "Вопли II"
+
+msgid "Weeping Added I"
+msgstr "Добавени вопли I"
+
+msgid "Weeping Added II"
+msgstr "Добавени вопли II"
+
+msgid "Jade Ornament on Ladies' Wear II"
+msgstr ""
+
+msgid "Jade Ornament on Ladies' Wear III"
+msgstr ""
+
+msgid "Jade Ornament on Ladies' Wear Added I"
+msgstr ""
+
+msgid "Jade Ornament on Ladies' Wear Added II"
+msgstr ""
+
+msgid "Jade Ornament on Ladies' Wear Added III"
+msgstr ""
+
+msgid "Celestial Ramparts I"
+msgstr "Небесни валове I"
+
+msgid "Celestial Ramparts II"
+msgstr "Небесни валове II"
+
+msgid "Celestial Ramparts III"
+msgstr "Небесни валове III"
+
+msgid "Celestial Ramparts IV"
+msgstr "Небесни валове IV"
+
+msgid "Celestial Ramparts V"
+msgstr "Небесни валове V"
+
+msgid "Celestial Ramparts VI"
+msgstr "Небесни валове VI"
+
+msgid "Celestial Ramparts VII"
+msgstr "Небесни валове VII"
+
+msgid "Celestial Ramparts VIII"
+msgstr "Небесни валове VIII"
+
+msgid "Celestial Ramparts IX"
+msgstr "Небесни валове IX"
+
+msgid "Celestial Ramparts X"
+msgstr "Небесни валове X"
+
+msgid "Celestial Ramparts XI"
+msgstr "Небесни валове XI"
+
+msgid "Celestial Ramparts XII"
+msgstr "Небесни валове XII"
+
+msgid "Celestial Ramparts XIII"
+msgstr "Небесни валове XIII"
+
+msgid "Celestial Ramparts Added II"
+msgstr "Добавени небесни валове II"
+
+msgid "Decayed Mortar I"
+msgstr ""
+
+msgid "Decayed Mortar II"
+msgstr ""
+
+msgid "Decayed Mortar III"
+msgstr ""
+
+msgid "Decayed Mortar IV"
+msgstr ""
+
+msgid "Decayed Mortar Added I"
+msgstr ""
+
+msgid "Rooftop I"
+msgstr "Покрив I"
+
+msgid "Rooftop II"
+msgstr "Покрив II"
+
+msgid "Rooftop III"
+msgstr "Покрив III"
+
+msgid "Rooftop Added I"
+msgstr "Добавен покрив I"
+
+msgid "Rooftop Added II"
+msgstr "Добавен покрив II"
+
+msgid "Rooftop Added III"
+msgstr "Добавен покрив III"
+
+msgid "Rooftop Added IV"
+msgstr "Добавен покрив IV"
+
+msgid "Rooftop Added V"
+msgstr "Добавен покрив V"
+
+msgid "Rooftop Added VI"
+msgstr "Добавен покрив VI"
+
+msgid "Rooftop Added VII"
+msgstr "Добавен покрив VII"
+
+msgid "Rooftop Added VIII"
+msgstr "Добавен покрив VIII"
+
+msgid "Rooftop Added IX"
+msgstr "Добавен покрив IX"
+
+msgid "Rooftop Added X"
+msgstr "Добавен покрив X"
+
+msgid "Rooftop Added XI"
+msgstr "Добавен покрив XI"
+
+msgid "Rooftop Added XII"
+msgstr "Добавен покрив XII"
+
+msgid "Rooftop Added XIII"
+msgstr "Добавен покрив XIII"
+
+msgid "Rooftop Added XIV"
+msgstr "Добавен покрив XIV"
+
+msgid "Tomb I"
+msgstr "Гробница I"
+
+msgid "Tomb II"
+msgstr "Гробница II"
+
+msgid "Tomb III"
+msgstr "Гробница III"
+
+msgid "Tomb IV"
+msgstr "Гробница IV"
+
+msgid "Tomb Added I"
+msgstr "Добавена гробница I"
+
+msgid "Tomb Added II"
+msgstr "Добавена гробница II"
+
+msgid "Tomb Added III"
+msgstr "Добавена гробница III"
+
+msgid "Tomb Added IV"
+msgstr "Добавена гробница IV"
+
+msgid "Roofing I"
+msgstr ""
+
+msgid "Roofing II"
+msgstr ""
+
+msgid "Temple I"
+msgstr "Храм I"
+
+msgid "Temple II"
+msgstr "Храм II"
+
+msgid "Temple III"
+msgstr "Храм III"
+
+msgid "Temple IV"
+msgstr "Храм IV"
+
+msgid "Celestial Money I"
+msgstr "Небесни пари I"
+
+msgid "Celestial Money II"
+msgstr "Небесни пари II"
+
+msgid "Celestial Money III"
+msgstr "Небесни пари III"
+
+msgid "Celestial Money IV"
+msgstr "Небесни пари IV"
+
+msgid "Celestial Money V"
+msgstr "Небесни пари V"
+
+msgid "Celestial Money Added I"
+msgstr "Добавени небесни пари I"
+
+msgid "Celestial Money Added II"
+msgstr "Добавени небесни пари II"
+
+msgid "Celestial Money Added III"
+msgstr "Добавени небесни пари III"
+
+msgid "Celestial Money Added IV"
+msgstr "Добавени небесни пари IV"
+
+msgid "Humans I"
+msgstr "Хора I"
+
+msgid "Humans II"
+msgstr "Хора II"
+
+msgid "Humans III"
+msgstr "Хора III"
+
+msgid "Humans IV"
+msgstr "Хора IV"
+
+msgid "Humans Added I"
+msgstr "Добавени хора I"
+
+msgid "Humans Added III"
+msgstr "Добавени хора III"
+
+msgid "Humans Added IV"
+msgstr "Добавени хора IV"
+
+msgid "Pestle I (In Rooftop Mansion)"
+msgstr "Пестик I (в Покрив)"
+
+msgid "Pestle II (In Rooftop Mansion)"
+msgstr "Пестик II (в Покрив)"
+
+msgid "Pestle III (In Rooftop Mansion)"
+msgstr "Пестик III (в Покрив)"
+
+msgid "Pestle Added I (In Rooftop Mansion)"
+msgstr "Добавен пестик I (в Покрив)"
+
+msgid "Pestle Added II (In Rooftop Mansion)"
+msgstr "Добавен пестик II (в Покрив)"
+
+msgid "Mortar I"
+msgstr ""
+
+msgid "Mortar II"
+msgstr ""
+
+msgid "Mortar III"
+msgstr ""
+
+msgid "Mortar IV"
+msgstr ""
+
+msgid "Mortar Added I"
+msgstr ""
+
+msgid "Mortar Added II"
+msgstr ""
+
+msgid "Mortar Added III"
+msgstr ""
+
+msgid "Mortar Added IV"
+msgstr ""
+
+msgid "Mortar Added V"
+msgstr ""
+
+msgid "Mortar Added VI"
+msgstr ""
+
+msgid "Big Yard for Chariots I"
+msgstr "Голям двор за колесници I"
+
+msgid "Big Yard for Chariots II"
+msgstr "Голям двор за колесници II"
+
+msgid "Big Yard for Chariots III"
+msgstr "Голям двор за колесници III"
+
+msgid "Big Yard for Chariots IV"
+msgstr "Голям двор за колесници IV"
+
+msgid "Big Yard for Chariots V"
+msgstr "Голям двор за колесници V"
+
+msgid "Big Yard for Chariots VI"
+msgstr "Голям двор за колесници VI"
+
+msgid "Big Yard for Chariots VII"
+msgstr "Голям двор за колесници VII"
+
+msgid "Big Yard for Chariots Added I"
+msgstr "Добавен голям двор за колесници I"
+
+msgid "Big Yard for Chariots Added II"
+msgstr "Добавен голям двор за колесници II"
+
+msgid "Big Yard for Chariots Added III"
+msgstr "Добавен голям двор за колесници III"
+
+msgid "Big Yard for Chariots Added IV"
+msgstr "Добавен голям двор за колесници IV"
+
+msgid "Big Yard for Chariots Added V"
+msgstr "Добавен голям двор за колесници V"
+
+msgid "Big Yard for Chariots Added VI"
+msgstr "Добавен голям двор за колесници VI"
+
+msgid "Big Yard for Chariots Added VII"
+msgstr "Добавен голям двор за колесници VII"
+
+msgid "Big Yard for Chariots Added VIII"
+msgstr "Добавен голям двор за колесници VIII"
+
+msgid "Big Yard for Chariots Added IX"
+msgstr "Добавен голям двор за колесници IX"
+
+msgid "Big Yard for Chariots Added X"
+msgstr "Добавен голям двор за колесници X"
+
+msgid "Big Yard for Chariots Added XI"
+msgstr "Добавен голям двор за колесници XI"
+
+msgid "Big Yard for Chariots Added XII"
+msgstr "Добавен голям двор за колесници XII"
+
+msgid "Big Yard for Chariots Added XIII"
+msgstr "Добавен голям двор за колесници XIII"
+
+msgid "Big Yard for Chariots Added XIV"
+msgstr "Добавен голям двор за колесници XIV"
+
+msgid "Big Yard for Chariots Added XV"
+msgstr "Добавен голям двор за колесници XV"
+
+msgid "Big Yard for Chariots Added XVI"
+msgstr "Добавен голям двор за колесници XVI"
+
+msgid "Big Yard for Chariots Added XVII"
+msgstr "Добавен голям двор за колесници XVII"
+
+msgid "Big Yard for Chariots Added XVIII"
+msgstr "Добавен голям двор за колесници XVIII"
+
+msgid "Big Yard for Chariots Added XIX"
+msgstr "Добавен голям двор за колесници XIX"
+
+msgid "Big Yard for Chariots Added XX"
+msgstr "Добавен голям двор за колесници XX"
+
+msgid "Zaofu I"
+msgstr ""
+
+msgid "Zaofu II"
+msgstr ""
+
+msgid "Zaofu III"
+msgstr ""
+
+msgid "Zaofu IV"
+msgstr ""
+
+msgid "Zaofu V"
+msgstr ""
+
+msgid "Zaofu Added I"
+msgstr ""
+
+msgid "Zaofu Added II"
+msgstr ""
+
+msgid "Zaofu Added III"
+msgstr ""
+
+msgid "Zaofu Added IV"
+msgstr ""
+
+msgid "Zaofu Added V"
+msgstr ""
+
+msgid "Celestial Hook I"
+msgstr "Небесна кука I"
+
+msgid "Celestial Hook II"
+msgstr "Небесна кука II"
+
+msgid "Celestial Hook III"
+msgstr "Небесна кука III"
+
+msgid "Celestial Hook IV"
+msgstr "Небесна кука IV"
+
+msgid "Celestial Hook V"
+msgstr "Небесна кука V"
+
+msgid "Celestial Hook VI"
+msgstr "Небесна кука VI"
+
+msgid "Celestial Hook VII"
+msgstr "Небесна кука VII"
+
+msgid "Celestial Hook VIII"
+msgstr "Небесна кука VIII"
+
+msgid "Celestial Hook IX"
+msgstr "Небесна кука IX"
+
+msgid "Celestial Hook Added I"
+msgstr "Добавена небесна кука I"
+
+msgid "Celestial Hook Added II"
+msgstr "Добавена небесна кука II"
+
+msgid "Celestial Hook Added III"
+msgstr "Добавена небесна кука III"
+
+msgid "Celestial Hook Added IV"
+msgstr "Добавена небесна кука IV"
+
+msgid "Celestial Hook Added V"
+msgstr "Добавена небесна кука V"
+
+msgid "Celestial Hook Added VI"
+msgstr "Добавена небесна кука VI"
+
+msgid "Celestial Hook Added VII"
+msgstr "Добавена небесна кука VII"
+
+msgid "Celestial Hook Added VIII*"
+msgstr "Добавена небесна кука VIII*"
+
+msgid "Celestial Hook Added IX*"
+msgstr "Добавена небесна кука IX*"
+
+msgid "Celestial Hook Added X"
+msgstr "Добавена небесна кука X"
+
+msgid "Celestial Hook Added XI"
+msgstr "Добавена небесна кука XI"
+
+msgid "Celestial Hook Added XII*"
+msgstr "Добавена небесна кука XII*"
+
+msgid "Celestial Hook Added XIII*"
+msgstr "Добавена небесна кука XIII*"
+
+msgid "Celestial Hook Added XIV"
+msgstr "Добавена небесна кука XIV"
+
+msgid "Celestial Hook Added XV*"
+msgstr "Добавена небесна кука XV*"
+
+msgid "Celestial Hook Added XVI"
+msgstr "Добавена небесна кука XVI"
+
+msgid "Celestial Hook Added XVII"
+msgstr "Добавена небесна кука XVII"
+
+msgid "Celestial Hook Added XVIII"
+msgstr "Добавена небесна кука XVIII"
+
+msgid "Encampment I"
+msgstr "Лагер I"
+
+msgid "Encampment II"
+msgstr "Лагер II"
+
+msgid "Encampment Added I"
+msgstr "Добавен лагер I"
+
+msgid "Encampment Added II"
+msgstr "Добавен лагер II"
+
+msgid "Encampment Added III"
+msgstr "Добавен лагер III"
+
+msgid "Encampment Added IV"
+msgstr "Добавен лагер IV"
+
+msgid "Encampment Added V"
+msgstr "Добавен лагер V"
+
+msgid "Encampment Added VI"
+msgstr "Добавен лагер VI"
+
+msgid "Encampment Added VII"
+msgstr "Добавен лагер VII"
+
+msgid "Resting Palace I"
+msgstr ""
+
+msgid "Resting Palace II"
+msgstr ""
+
+msgid "Resting Palace III"
+msgstr ""
+
+msgid "Resting Palace IV"
+msgstr ""
+
+msgid "Resting Palace V"
+msgstr ""
+
+msgid "Resting Palace VI"
+msgstr ""
+
+msgid "Resting Palace Added I"
+msgstr ""
+
+msgid "Resting Palace Added II"
+msgstr ""
+
+msgid "Resting Palace Added III"
+msgstr ""
+
+msgid "Resting Palace Added IV"
+msgstr ""
+
+msgid "Resting Palace Added V"
+msgstr ""
+
+msgid "Resting Palace Added VI"
+msgstr ""
+
+msgid "Resting Palace Added VII"
+msgstr ""
+
+msgid "Resting Palace Added VIII"
+msgstr ""
+
+msgid "Flying Serpent I"
+msgstr "Летяща змия I"
+
+msgid "Flying Serpent II"
+msgstr "Летяща змия II"
+
+msgid "Flying Serpent III"
+msgstr "Летяща змия III"
+
+msgid "Flying Serpent IV"
+msgstr "Летяща змия IV"
+
+msgid "Flying Serpent VI*"
+msgstr "Летяща змия VI*"
+
+msgid "Flying Serpent VII"
+msgstr "Летяща змия VII"
+
+msgid "Flying Serpent VIII"
+msgstr "Летяща змия VIII"
+
+msgid "Flying Serpent IX"
+msgstr "Летяща змия IX"
+
+msgid "Flying Serpent X"
+msgstr "Летяща змия X"
+
+msgid "Flying Serpent XI"
+msgstr "Летяща змия XI"
+
+msgid "Flying Serpent XII"
+msgstr "Летяща змия XII"
+
+msgid "Flying Serpent XIII"
+msgstr "Летяща змия XIII"
+
+msgid "Flying Serpent XIV"
+msgstr "Летяща змия XIV"
+
+msgid "Flying Serpent XV"
+msgstr "Летяща змия XV"
+
+msgid "Flying Serpent XVI"
+msgstr "Летяща змия XVI"
+
+msgid "Flying Serpent XVII"
+msgstr "Летяща змия XVII"
+
+msgid "Flying Serpent XVIII"
+msgstr "Летяща змия XVIII"
+
+msgid "Flying Serpent XIX"
+msgstr "Летяща змия XIX"
+
+msgid "Flying Serpent XX"
+msgstr "Летяща змия XX"
+
+msgid "Flying Serpent XXI"
+msgstr "Летяща змия XXI"
+
+msgid "Flying Serpent XXII"
+msgstr "Летяща змия XXII"
+
+msgid "Flying Serpent Added I"
+msgstr "Добавена летяща змия I"
+
+msgid "Flying Serpent Added II"
+msgstr "Добавена летяща змия II"
+
+msgid "Flying Serpent Added III"
+msgstr "Добавена летяща змия III"
+
+msgid "Flying Serpent Added IV"
+msgstr "Добавена летяща змия IV"
+
+msgid "Flying Serpent Added V"
+msgstr "Добавена летяща змия V"
+
+msgid "Flying Serpent Added VI"
+msgstr "Добавена летяща змия VI"
+
+msgid "Flying Serpent Added VII"
+msgstr "Добавена летяща змия VII"
+
+msgid "Flying Serpent Added VIII"
+msgstr "Добавена летяща змия VIII"
+
+msgid "Flying Serpent Added IX"
+msgstr "Добавена летяща змия IX"
+
+msgid "Flying Serpent Added X"
+msgstr "Добавена летяща змия X"
+
+msgid "Flying Serpent Added XI"
+msgstr "Добавена летяща змия XI"
+
+msgid "Flying Serpent Added XII"
+msgstr "Добавена летяща змия XII"
+
+msgid "Flying Serpent Added XIII"
+msgstr "Добавена летяща змия XIII"
+
+msgid "Flying Serpent Added XIV"
+msgstr "Добавена летяща змия XIV"
+
+msgid "Flying Serpent Added XV"
+msgstr "Добавена летяща змия XV"
+
+msgid "Flying Serpent Added XVI"
+msgstr "Добавена летяща змия XVI"
+
+msgid "Flying Serpent Added XVII"
+msgstr "Добавена летяща змия XVII"
+
+msgid "Flying Serpent Added XVIII"
+msgstr "Добавена летяща змия XVIII"
+
+msgid "Flying Serpent Added XIX"
+msgstr "Добавена летяща змия XIX"
+
+msgid "Thunder and Lightning I"
+msgstr ""
+
+msgid "Thunder and Lightning II"
+msgstr ""
+
+msgid "Thunder and Lightning III"
+msgstr ""
+
+msgid "Thunder and Lightning IV"
+msgstr ""
+
+msgid "Thunder and Lightning V"
+msgstr ""
+
+msgid "Thunder and Lightning VI"
+msgstr ""
+
+msgid "Thunder and Lightning Added I"
+msgstr ""
+
+msgid "Thunder and Lightning Added II"
+msgstr ""
+
+msgid "Thunder and Lightning Added III"
+msgstr ""
+
+msgid "Thunder and Lightning Added IV"
+msgstr ""
+
+msgid "Thunder and Lightning Added V"
+msgstr ""
+
+msgid "Thunder and Lightning Added VI"
+msgstr ""
+
+msgid "Thunder and Lightning Added VII"
+msgstr ""
+
+msgid "Thunder and Lightning Added VIII"
+msgstr ""
+
+msgid "Official for Materials Supply I"
+msgstr ""
+
+msgid "Official for Materials Supply II"
+msgstr ""
+
+msgid "Line of Ramparts I"
+msgstr "Редица валове I"
+
+msgid "Line of Ramparts II"
+msgstr "Редица валове II"
+
+msgid "Line of Ramparts III"
+msgstr "Редица валове III"
+
+msgid "Line of Ramparts IV"
+msgstr "Редица валове IV"
+
+msgid "Line of Ramparts V"
+msgstr "Редица валове V"
+
+msgid "Line of Ramparts VI"
+msgstr "Редица валове VI"
+
+msgid "Line of Ramparts VII"
+msgstr "Редица валове VII"
+
+msgid "Line of Ramparts VIII"
+msgstr "Редица валове VIII"
+
+msgid "Line of Ramparts IX"
+msgstr "Редица валове IX"
+
+msgid "Line of Ramparts X"
+msgstr "Редица валове X"
+
+msgid "Line of Ramparts XI"
+msgstr "Редица валове XI"
+
+msgid "Line of Ramparts XII"
+msgstr "Редица валове XII"
+
+msgid "Line of Ramparts Added I"
+msgstr "Добавена редица валове I"
+
+msgid "Line of Ramparts Added II"
+msgstr "Добавена редица валове II"
+
+msgid "Line of Ramparts Added III"
+msgstr "Добавена редица валове III"
+
+msgid "Line of Ramparts Added IV"
+msgstr "Добавена редица валове IV"
+
+msgid "Line of Ramparts Added V"
+msgstr "Добавена редица валове V"
+
+msgid "Line of Ramparts Added VI"
+msgstr "Добавена редица валове VI"
+
+msgid "Line of Ramparts Added VII"
+msgstr "Добавена редица валове VII"
+
+msgid "Line of Ramparts Added VIII"
+msgstr "Добавена редица валове VIII"
+
+msgid "Palace Guard I"
+msgstr "Дворцова охрана I"
+
+msgid "Palace Guard II"
+msgstr "Дворцова охрана II"
+
+msgid "Palace Guard III"
+msgstr "Дворцова охрана III"
+
+msgid "Palace Guard IV"
+msgstr "Дворцова охрана IV"
+
+msgid "Palace Guard V"
+msgstr "Дворцова охрана V"
+
+msgid "Palace Guard VI"
+msgstr "Дворцова охрана VI"
+
+msgid "Palace Guard VII"
+msgstr "Дворцова охрана VII"
+
+msgid "Palace Guard VIII"
+msgstr "Дворцова охрана VIII"
+
+msgid "Palace Guard IX"
+msgstr "Дворцова охрана IX"
+
+msgid "Palace Guard X"
+msgstr "Дворцова охрана X"
+
+msgid "Palace Guard XI"
+msgstr "Дворцова охрана XI"
+
+msgid "Palace Guard XII"
+msgstr "Дворцова охрана XII"
+
+msgid "Palace Guard XIII"
+msgstr "Дворцова охрана XIII"
+
+msgid "Palace Guard XIV"
+msgstr "Дворцова охрана XIV"
+
+msgid "Palace Guard XV"
+msgstr "Дворцова охрана XV"
+
+msgid "Palace Guard XVI"
+msgstr "Дворцова охрана XVI"
+
+msgid "Palace Guard XVII"
+msgstr "Дворцова охрана XVII"
+
+msgid "Palace Guard XVIII"
+msgstr "Дворцова охрана XVIII"
+
+msgid "Palace Guard XIX"
+msgstr "Дворцова охрана XIX"
+
+msgid "Palace Guard XX"
+msgstr "Дворцова охрана XX"
+
+msgid "Palace Guard XXI"
+msgstr "Дворцова охрана XXI"
+
+msgid "Palace Guard XXII"
+msgstr "Дворцова охрана XXII"
+
+msgid "Palace Guard XXIII"
+msgstr "Дворцова охрана XXIII"
+
+msgid "Palace Guard XXIV"
+msgstr "Дворцова охрана XXIV"
+
+msgid "Palace Guard XXV"
+msgstr "Дворцова охрана XXV"
+
+msgid "Palace Guard XXVI"
+msgstr "Дворцова охрана XXVI"
+
+msgid "Palace Guard XXVII"
+msgstr "Дворцова охрана XXVII"
+
+msgid "Palace Guard XXVIII"
+msgstr "Дворцова охрана XXVIII"
+
+msgid "Palace Guard XXIX"
+msgstr "Дворцова охрана XXIX"
+
+msgid "Palace Guard XXX"
+msgstr "Дворцова охрана XXX"
+
+msgid "Palace Guard XXXI"
+msgstr "Дворцова охрана XXXI"
+
+msgid "Palace Guard XXXII"
+msgstr "Дворцова охрана XXXII"
+
+msgid "Palace Guard XXXIII"
+msgstr "Дворцова охрана XXXIII"
+
+msgid "Palace Guard XXXIV"
+msgstr "Дворцова охрана XXXIV"
+
+msgid "Palace Guard XXXV"
+msgstr "Дворцова охрана XXXV"
+
+msgid "Palace Guard XXXVI"
+msgstr "Дворцова охрана XXXVI"
+
+msgid "Palace Guard XXXVII"
+msgstr "Дворцова охрана XXXVII"
+
+msgid "Palace Guard XXXVIII"
+msgstr "Дворцова охрана XXXVIII"
+
+msgid "Palace Guard XXXIX"
+msgstr "Дворцова охрана XXXIX"
+
+msgid "Palace Guard XL"
+msgstr "Дворцова охрана XL"
+
+msgid "Palace Guard XLI"
+msgstr "Дворцова охрана XLI"
+
+msgid "Palace Guard XLII"
+msgstr "Дворцова охрана XLII"
+
+msgid "Palace Guard XLIII"
+msgstr "Дворцова охрана XLIII"
+
+msgid "Palace Guard XLIV"
+msgstr "Дворцова охрана XLIV"
+
+msgid "Palace Guard XLV"
+msgstr "Дворцова охрана XLV"
+
+msgid "Axe I"
+msgstr "Брадва I"
+
+msgid "Axe II"
+msgstr "Брадва II"
+
+msgid "Axe III"
+msgstr "Брадва III"
+
+msgid "Axe Added I"
+msgstr "Добавена брадва I"
+
+msgid "Axe Added II"
+msgstr "Добавена брадва II"
+
+msgid "Axe Added III"
+msgstr "Добавена брадва III"
+
+msgid "Net for Catching Birds I"
+msgstr "Мрежа за улов на птици I"
+
+msgid "Net for Catching Birds II"
+msgstr "Мрежа за улов на птици II"
+
+msgid "Net for Catching Birds III"
+msgstr "Мрежа за улов на птици III"
+
+msgid "Net for Catching Birds IV"
+msgstr "Мрежа за улов на птици IV"
+
+msgid "Net for Catching Birds V"
+msgstr "Мрежа за улов на птици V"
+
+msgid "Net for Catching Birds VI"
+msgstr "Мрежа за улов на птици VI"
+
+msgid "Wall I"
+msgstr "Стена I"
+
+msgid "Wall II"
+msgstr "Стена II"
+
+msgid "Wall Added I"
+msgstr "Добавена стена I"
+
+msgid "Wall Added II"
+msgstr "Добавена стена II"
+
+msgid "Wall Added III"
+msgstr "Добавена стена III"
+
+msgid "Wall Added IV"
+msgstr "Добавена стена IV"
+
+msgid "Wall Added V"
+msgstr "Добавена стена V"
+
+msgid "Wall Added VI"
+msgstr "Добавена стена VI"
+
+msgid "Wall Added VII"
+msgstr "Добавена стена VII"
+
+msgid "Wall Added VIII"
+msgstr "Добавена стена VIII"
+
+msgid "Wall Added IX"
+msgstr "Добавена стена IX"
+
+msgid "Wall Added X"
+msgstr "Добавена стена X"
+
+msgid "Wall Added XI"
+msgstr "Добавена стена XI"
+
+msgid "Wall Added XII"
+msgstr "Добавена стена XII"
+
+msgid "Wall Added XIII"
+msgstr "Добавена стена XIII"
+
+msgid "Wall Added XIV"
+msgstr "Добавена стена XIV"
+
+msgid "Wall Added XV"
+msgstr "Добавена стена XV"
+
+msgid "Wall Added XVI"
+msgstr "Добавена стена XVI"
+
+msgid "Wall Added XVII"
+msgstr "Добавена стена XVII"
+
+msgid "Wall Added XVIII"
+msgstr "Добавена стена XVIII"
+
+msgid "Wall Added XIX"
+msgstr "Добавена стена XIX"
+
+msgid "Wall Added XX"
+msgstr "Добавена стена XX"
+
+msgid "Wall Added XXI"
+msgstr "Добавена стена XXI"
+
+msgid "Wall Added XXII"
+msgstr "Добавена стена XXII"
+
+msgid "Wall Added XXIII"
+msgstr "Добавена стена XXIII"
+
+msgid "Celestial Stable I"
+msgstr "Небесна конюшня I"
+
+msgid "Celestial Stable II"
+msgstr "Небесна конюшня II"
+
+msgid "Celestial Stable III"
+msgstr "Небесна конюшня III"
+
+msgid "Celestial Stable Added I"
+msgstr "Добавена небесна конюшня I"
+
+msgid "Official for Earthworks and Buildings I"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings II"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added I"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added II"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added III"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added IV"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added V"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added VI"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added VII"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added VIII"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added IX"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added X"
+msgstr ""
+
+msgid "Official for Earthworks and Buildings Added XI"
+msgstr ""
+
+msgid "Thunderbolt I"
+msgstr "Гръмотевица I"
+
+msgid "Thunderbolt II"
+msgstr "Гръмотевица II"
+
+msgid "Thunderbolt III"
+msgstr "Гръмотевица III"
+
+msgid "Thunderbolt IV"
+msgstr "Гръмотевица IV"
+
+msgid "Thunderbolt V"
+msgstr "Гръмотевица V"
+
+msgid "Thunderbolt Added I"
+msgstr "Добавена гръмотевица I"
+
+msgid "Thunderbolt Added II"
+msgstr "Добавена гръмотевица II"
+
+msgid "Thunderbolt Added III"
+msgstr "Добавена гръмотевица III"
+
+msgid "Thunderbolt Added IV"
+msgstr "Добавена гръмотевица IV"
+
+msgid "Thunderbolt Added V"
+msgstr "Добавена гръмотевица V"
+
+msgid "Thunderbolt Added VI"
+msgstr "Добавена гръмотевица VI"
+
+msgid "Thunderbolt Added VII"
+msgstr "Добавена гръмотевица VII"
+
+msgid "Thunderbolt Added VIII"
+msgstr "Добавена гръмотевица VIII"
+
+msgid "Cloud and Rain I"
+msgstr "Облак и дъжд I"
+
+msgid "Cloud and Rain II"
+msgstr "Облак и дъжд II"
+
+msgid "Cloud and Rain III"
+msgstr "Облак и дъжд III"
+
+msgid "Cloud and Rain IV"
+msgstr "Облак и дъжд IV"
+
+msgid "Cloud and Rain Added I"
+msgstr "Добавен облак и дъжд I"
+
+msgid "Cloud and Rain Added II"
+msgstr "Добавен облак и дъжд II"
+
+msgid "Cloud and Rain Added III"
+msgstr "Добавен облак и дъжд III"
+
+msgid "Cloud and Rain Added IV"
+msgstr "Добавен облак и дъжд IV"
+
+msgid "Cloud and Rain Added V"
+msgstr "Добавен облак и дъжд V"
+
+msgid "Cloud and Rain Added VI"
+msgstr "Добавен облак и дъжд VI"
+
+msgid "Cloud and Rain Added VII"
+msgstr "Добавен облак и дъжд VII"
+
+msgid "Cloud and Rain Added VIII"
+msgstr "Добавен облак и дъжд VIII"
+
+msgid "Cloud and Rain Added IX"
+msgstr "Добавен облак и дъжд IX"
+
+msgid "Cloud and Rain Added X"
+msgstr "Добавен облак и дъжд X"
+
+msgid "Sickle I"
+msgstr "Сърп I"
+
+msgid "Sickle II?"
+msgstr "Сърп II?"
+
+msgid "Sickle IV"
+msgstr "Сърп IV"
+
+msgid "Sickle V"
+msgstr "Сърп V"
+
+msgid "Legs I"
+msgstr "Крака I"
+
+msgid "Legs II"
+msgstr "Крака II"
+
+msgid "Legs III"
+msgstr "Крака III"
+
+msgid "Legs IV"
+msgstr "Крака IV"
+
+msgid "Legs V"
+msgstr "Крака V"
+
+msgid "Legs VI"
+msgstr "Крака VI"
+
+msgid "Legs VII"
+msgstr "Крака VII"
+
+msgid "Legs VIII"
+msgstr "Крака VIII"
+
+msgid "Legs IX"
+msgstr "Крака IX"
+
+msgid "Legs X"
+msgstr "Крака X"
+
+msgid "Legs XI"
+msgstr "Крака XI"
+
+msgid "Legs XII"
+msgstr "Крака XII"
+
+msgid "Legs XIII"
+msgstr "Крака XIII"
+
+msgid "Legs XIV"
+msgstr "Крака XIV"
+
+msgid "Legs XV"
+msgstr "Крака XV"
+
+msgid "Legs XVI"
+msgstr "Крака XVI"
+
+msgid "Legs Added I"
+msgstr "Добавени крака I"
+
+msgid "Legs Added II"
+msgstr "Добавени крака II"
+
+msgid "Legs Added III"
+msgstr "Добавени крака III"
+
+msgid "Legs Added IV"
+msgstr "Добавени крака IV"
+
+msgid "Legs Added V"
+msgstr "Добавени крака V"
+
+msgid "Legs Added VI"
+msgstr "Добавени крака VI"
+
+msgid "Legs Added VII"
+msgstr "Добавени крака VII"
+
+msgid "Legs Added VIII"
+msgstr "Добавени крака VIII"
+
+msgid "Legs Added IX"
+msgstr "Добавени крака IX"
+
+msgid "Legs Added X"
+msgstr "Добавени крака X"
+
+msgid "Legs Added XI"
+msgstr "Добавени крака XI"
+
+msgid "Legs Added XII"
+msgstr "Добавени крака XII"
+
+msgid "Legs Added XIII"
+msgstr "Добавени крака XIII"
+
+msgid "Legs Added XIV"
+msgstr "Добавени крака XIV"
+
+msgid "Legs Added XV"
+msgstr "Добавени крака XV"
+
+msgid "Legs Added XVI"
+msgstr "Добавени крака XVI"
+
+msgid "Legs Added XVII"
+msgstr "Добавени крака XVII"
+
+msgid "Legs Added XVIII"
+msgstr "Добавени крака XVIII"
+
+msgid "Legs Added XIX"
+msgstr "Добавени крака XIX"
+
+msgid "Legs Added XX"
+msgstr "Добавени крака XX"
+
+msgid "Legs Added XXII"
+msgstr "Добавени крака XXII"
+
+msgid "Legs Added XXIII"
+msgstr "Добавени крака XXIII"
+
+msgid "Wang Liang I"
+msgstr ""
+
+msgid "Wang Liang II"
+msgstr ""
+
+msgid "Wang Liang III"
+msgstr ""
+
+msgid "Wang Liang IV"
+msgstr ""
+
+msgid "Wang Liang V"
+msgstr ""
+
+msgid "Wang Liang Added I"
+msgstr ""
+
+msgid "Wang Liang Added II"
+msgstr ""
+
+msgid "Wang Liang Added III"
+msgstr ""
+
+msgid "Wang Liang Added IV"
+msgstr ""
+
+msgid "Wang Liang Added V"
+msgstr ""
+
+msgid "Wang Liang Added VI"
+msgstr ""
+
+msgid "Wang Liang Added VII"
+msgstr ""
+
+msgid "Wang Liang Added VIII"
+msgstr ""
+
+msgid "Wang Liang Added IX"
+msgstr ""
+
+msgid "Wang Liang Added X"
+msgstr ""
+
+msgid "Wang Liang Added XI"
+msgstr ""
+
+msgid "Wang Liang Added XII"
+msgstr ""
+
+msgid "Wang Liang Added XIII"
+msgstr ""
+
+msgid "Wang Liang Added XIV"
+msgstr ""
+
+msgid "Flying Corridor I"
+msgstr "Летящ коридор I"
+
+msgid "Flying Corridor II"
+msgstr "Летящ коридор II"
+
+msgid "Flying Corridor III"
+msgstr "Летящ коридор III"
+
+msgid "Flying Corridor IV"
+msgstr "Летящ коридор IV"
+
+msgid "Flying Corridor V"
+msgstr "Летящ коридор V"
+
+msgid "Flying Corridor VI"
+msgstr "Летящ коридор VI"
+
+msgid "Flying Corridor Added I"
+msgstr "Добавен летящ коридор I"
+
+msgid "Flying Corridor Added II"
+msgstr "Добавен летящ коридор II"
+
+msgid "Flying Corridor Added III"
+msgstr "Добавен летящ коридор III"
+
+msgid "Flying Corridor Added IV"
+msgstr "Добавен летящ коридор IV"
+
+msgid "Flying Corridor Added V"
+msgstr "Добавен летящ коридор V"
+
+msgid "Outer Fence I"
+msgstr "Външна ограда I"
+
+msgid "Outer Fence II"
+msgstr "Външна ограда II"
+
+msgid "Outer Fence III"
+msgstr "Външна ограда III"
+
+msgid "Outer Fence IV"
+msgstr "Външна ограда IV"
+
+msgid "Outer Fence V"
+msgstr "Външна ограда V"
+
+msgid "Outer Fence VI"
+msgstr "Външна ограда VI"
+
+msgid "Outer Fence VII"
+msgstr "Външна ограда VII"
+
+msgid "Outer Fence Added I"
+msgstr "Добавена външна ограда I"
+
+msgid "Outer Fence Added II"
+msgstr "Добавена външна ограда II"
+
+msgid "Outer Fence Added III"
+msgstr "Добавена външна ограда III"
+
+msgid "Outer Fence Added IV"
+msgstr "Добавена външна ограда IV"
+
+msgid "Outer Fence Added V"
+msgstr "Добавена външна ограда V"
+
+msgid "Outer Fence Added VI"
+msgstr "Добавена външна ограда VI"
+
+msgid "Outer Fence Added VII"
+msgstr "Добавена външна ограда VII"
+
+msgid "Outer Fence Added VIII"
+msgstr "Добавена външна ограда VIII"
+
+msgid "Outer Fence Added IX"
+msgstr "Добавена външна ограда IX"
+
+msgid "Outer Fence Added X"
+msgstr "Добавена външна ограда X"
+
+msgid "Outer Fence Added XI"
+msgstr "Добавена външна ограда XI"
+
+msgid "Outer Fence Added XII"
+msgstr "Добавена външна ограда XII"
+
+msgid "Outer Fence Added XIII"
+msgstr "Добавена външна ограда XIII"
+
+msgid "Outer Fence Added XIV"
+msgstr "Добавена външна ограда XIV"
+
+msgid "Outer Fence Added XV"
+msgstr "Добавена външна ограда XV"
+
+msgid "Celestial Pigsty I"
+msgstr ""
+
+msgid "Celestial Pigsty II"
+msgstr ""
+
+msgid "Celestial Pigsty III"
+msgstr ""
+
+msgid "Celestial Pigsty IV"
+msgstr ""
+
+msgid "Celestial Pigsty Added I"
+msgstr ""
+
+msgid "Celestial Pigsty Added II"
+msgstr ""
+
+msgid "Celestial Pigsty Added III"
+msgstr ""
+
+msgid "Celestial Pigsty Added IV"
+msgstr ""
+
+msgid "Celestial Pigsty Added V"
+msgstr ""
+
+msgid "Celestial Pigsty Added VI"
+msgstr ""
+
+msgid "Bond I"
+msgstr ""
+
+msgid "Bond II"
+msgstr ""
+
+msgid "Bond III"
+msgstr ""
+
+msgid "Bond Added I"
+msgstr ""
+
+msgid "Bond Added II"
+msgstr ""
+
+msgid "Bond Added III"
+msgstr ""
+
+msgid "Bond Added V"
+msgstr ""
+
+msgid "Bond Added VI"
+msgstr ""
+
+msgid "Bond Added VII"
+msgstr ""
+
+msgid "Bond Added VIII"
+msgstr ""
+
+msgid "Bond Added IX"
+msgstr ""
+
+msgid "Bond Added X"
+msgstr ""
+
+msgid "Bond Added XI"
+msgstr ""
+
+msgid "Bond Added XII"
+msgstr ""
+
+msgid "Bond Added XIII"
+msgstr ""
+
+msgid "Bond Added XIV"
+msgstr ""
+
+msgid "Bond Added XV"
+msgstr ""
+
+msgid "Great General of Heaven I"
+msgstr ""
+
+msgid "Great General of Heaven II"
+msgstr ""
+
+msgid "Great General of Heaven III"
+msgstr ""
+
+msgid "Great General of Heaven IV"
+msgstr ""
+
+msgid "Great General of Heaven V"
+msgstr ""
+
+msgid "Great General of Heaven VI"
+msgstr ""
+
+msgid "Great General of Heaven VII"
+msgstr ""
+
+msgid "Great General of Heaven VIII"
+msgstr ""
+
+msgid "Great General of Heaven IX"
+msgstr ""
+
+msgid "Great General of Heaven X"
+msgstr ""
+
+msgid "Great General of Heaven XI"
+msgstr ""
+
+msgid "Great General of Heaven Added I"
+msgstr ""
+
+msgid "Great General of Heaven Added II"
+msgstr ""
+
+msgid "Great General of Heaven Added III"
+msgstr ""
+
+msgid "Great General of Heaven Added IV"
+msgstr ""
+
+msgid "Great General of Heaven Added V"
+msgstr ""
+
+msgid "Great General of Heaven Added VI"
+msgstr ""
+
+msgid "Great General of Heaven Added VII"
+msgstr ""
+
+msgid "Great General of Heaven Added VIII"
+msgstr ""
+
+msgid "Great General of Heaven Added IX"
+msgstr ""
+
+msgid "Great General of Heaven Added X"
+msgstr ""
+
+msgid "Great General of Heaven Added XI"
+msgstr ""
+
+msgid "Great General of Heaven Added XII"
+msgstr ""
+
+msgid "Great General of Heaven Added XIII"
+msgstr ""
+
+msgid "Great General of Heaven Added XIV"
+msgstr ""
+
+msgid "Great General of Heaven Added XV"
+msgstr ""
+
+msgid "Great General of Heaven Added XVI"
+msgstr ""
+
+msgid "Great General of Heaven Added XVII"
+msgstr ""
+
+msgid "Official in Charge of Pasturing I"
+msgstr ""
+
+msgid "Official in Charge of Pasturing II"
+msgstr ""
+
+msgid "Official in Charge of Pasturing III"
+msgstr ""
+
+msgid "Official in Charge of Pasturing IV"
+msgstr ""
+
+msgid "Official in Charge of Pasturing V"
+msgstr ""
+
+msgid "Official in Charge of Pasturing Added I"
+msgstr ""
+
+msgid "Official in Charge of Pasturing Added II"
+msgstr ""
+
+msgid "Official in Charge of Pasturing Added III"
+msgstr ""
+
+msgid "Official in Charge of Pasturing Added IV"
+msgstr ""
+
+msgid "Official in Charge of Pasturing Added V"
+msgstr ""
+
+msgid "Official in Charge of the Forest I"
+msgstr ""
+
+msgid "Official in Charge of the Forest II"
+msgstr ""
+
+msgid "Official in Charge of the Forest III"
+msgstr ""
+
+msgid "Official in Charge of the Forest IV"
+msgstr ""
+
+msgid "Official in Charge of the Forest V"
+msgstr ""
+
+msgid "Official in Charge of the Forest Added I"
+msgstr ""
+
+msgid "Official in Charge of the Forest Added II"
+msgstr ""
+
+msgid "Official in Charge of the Forest Added III"
+msgstr ""
+
+msgid "Official in Charge of the Forest Added IV"
+msgstr ""
+
+msgid "Official in Charge of the Forest Added V"
+msgstr ""
+
+msgid "Official in Charge of the Forest Added VI"
+msgstr ""
+
+msgid "Official in Charge of the Forest Added VII"
+msgstr ""
+
+msgid "Official in Charge of the Forest Added VIII"
+msgstr ""
+
+msgid "Square Celestial Granary I"
+msgstr ""
+
+msgid "Square Celestial Granary II"
+msgstr ""
+
+msgid "Square Celestial Granary III"
+msgstr ""
+
+msgid "Square Celestial Granary IV"
+msgstr ""
+
+msgid "Square Celestial Granary V"
+msgstr ""
+
+msgid "Square Celestial Granary VI"
+msgstr ""
+
+msgid "Square Celestial Granary Added I"
+msgstr ""
+
+msgid "Square Celestial Granary Added II"
+msgstr ""
+
+msgid "Square Celestial Granary Added III"
+msgstr ""
+
+msgid "Square Celestial Granary Added IV"
+msgstr ""
+
+msgid "Square Celestial Granary Added V"
+msgstr ""
+
+msgid "Square Celestial Granary Added VI"
+msgstr ""
+
+msgid "Square Celestial Granary Added VII"
+msgstr ""
+
+msgid "Square Celestial Granary Added VIII"
+msgstr ""
+
+msgid "Square Celestial Granary Added IX"
+msgstr ""
+
+msgid "Square Celestial Granary Added X"
+msgstr ""
+
+msgid "Square Celestial Granary Added XI"
+msgstr ""
+
+msgid "Square Celestial Granary Added XII"
+msgstr ""
+
+msgid "Square Celestial Granary Added XIII"
+msgstr ""
+
+msgid "Square Celestial Granary Added XIV"
+msgstr ""
+
+msgid "Square Celestial Granary Added XV"
+msgstr ""
+
+msgid "Square Celestial Granary Added XVI"
+msgstr ""
+
+msgid "Square Celestial Granary Added XVII"
+msgstr ""
+
+msgid "Square Celestial Granary Added XVIII"
+msgstr ""
+
+msgid "Square Celestial Granary Added XIX"
+msgstr ""
+
+msgid "Square Celestial Granary Added XX"
+msgstr ""
+
+msgid "Square Celestial Granary Added XXI"
+msgstr ""
+
+msgid "Ricks of Grain I*"
+msgstr ""
+
+msgid "Ricks of Grain II*"
+msgstr ""
+
+msgid "Ricks of Grain III*"
+msgstr ""
+
+msgid "Ricks of Grain Added II?"
+msgstr ""
+
+msgid "Ricks of Grain Added III?"
+msgstr ""
+
+msgid "Stomach I"
+msgstr ""
+
+msgid "Stomach II"
+msgstr ""
+
+msgid "Stomach III"
+msgstr ""
+
+msgid "Stomach Added I"
+msgstr ""
+
+msgid "Stomach Added II"
+msgstr ""
+
+msgid "Stomach Added III"
+msgstr ""
+
+msgid "Stomach Added IV"
+msgstr ""
+
+msgid "Stomach Added V"
+msgstr ""
+
+msgid "Mausoleum I"
+msgstr ""
+
+msgid "Mausoleum II"
+msgstr ""
+
+msgid "Mausoleum III"
+msgstr ""
+
+msgid "Mausoleum IV"
+msgstr ""
+
+msgid "Mausoleum V"
+msgstr ""
+
+msgid "Mausoleum VI"
+msgstr ""
+
+msgid "Mausoleum VII"
+msgstr ""
+
+msgid "Mausoleum VIII"
+msgstr ""
+
+msgid "Mausoleum Added I"
+msgstr ""
+
+msgid "Mausoleum Added II"
+msgstr ""
+
+msgid "Mausoleum Added III"
+msgstr ""
+
+msgid "Mausoleum Added IV"
+msgstr ""
+
+msgid "Mausoleum Added V"
+msgstr ""
+
+msgid "Mausoleum Added VI"
+msgstr ""
+
+msgid "Mausoleum Added VII"
+msgstr ""
+
+msgid "Mausoleum Added VIII"
+msgstr ""
+
+msgid "Mausoleum Added IX"
+msgstr ""
+
+msgid "Mausoleum Added X"
+msgstr ""
+
+msgid "Mausoleum Added XI"
+msgstr ""
+
+msgid "Mausoleum Added XIII"
+msgstr ""
+
+msgid "Mausoleum Added XIV"
+msgstr ""
+
+msgid "Mausoleum Added XV"
+msgstr ""
+
+msgid "Mausoleum Added XVI"
+msgstr ""
+
+msgid "Mausoleum Added XVII"
+msgstr ""
+
+msgid "Mausoleum Added XVIII"
+msgstr ""
+
+msgid "Mausoleum Added XIX"
+msgstr ""
+
+msgid "Mausoleum Added XX"
+msgstr ""
+
+msgid "Mausoleum Added XXI"
+msgstr ""
+
+msgid "Celestial Boat I"
+msgstr ""
+
+msgid "Celestial Boat II"
+msgstr ""
+
+msgid "Celestial Boat III"
+msgstr ""
+
+msgid "Celestial Boat IV"
+msgstr ""
+
+msgid "Celestial Boat V"
+msgstr ""
+
+msgid "Celestial Boat VI"
+msgstr ""
+
+msgid "Celestial Boat VII"
+msgstr ""
+
+msgid "Celestial Boat VIII"
+msgstr ""
+
+msgid "Celestial Boat IX"
+msgstr ""
+
+msgid "Celestial Boat Added I"
+msgstr ""
+
+msgid "Celestial Boat Added II"
+msgstr ""
+
+msgid "Celestial Boat Added III"
+msgstr ""
+
+msgid "Celestial Boat Added IV"
+msgstr ""
+
+msgid "Celestial Boat Added V"
+msgstr ""
+
+msgid "Celestial Boat Added VI"
+msgstr ""
+
+msgid "Celestial Boat Added VII"
+msgstr ""
+
+msgid "Celestial Boat Added VIII"
+msgstr ""
+
+msgid "Celestial Boat Added IX"
+msgstr ""
+
+msgid "Celestial Boat Added X"
+msgstr ""
+
+msgid "Stored Water"
+msgstr ""
+
+msgid "Stored Water Added I"
+msgstr ""
+
+msgid "Celestial Foodstuff I"
+msgstr ""
+
+msgid "Celestial Foodstuff II"
+msgstr ""
+
+msgid "Celestial Foodstuff III"
+msgstr ""
+
+msgid "Celestial Foodstuff IV"
+msgstr ""
+
+msgid "Celestial Foodstuff Added I"
+msgstr ""
+
+msgid "Celestial Foodstuff Added II"
+msgstr ""
+
+msgid "Celestial Foodstuff Added III"
+msgstr ""
+
+msgid "Circular Celestial Granary I"
+msgstr ""
+
+msgid "Circular Celestial Granary II"
+msgstr ""
+
+msgid "Circular Celestial Granary III"
+msgstr ""
+
+msgid "Circular Celestial Granary IV"
+msgstr ""
+
+msgid "Circular Celestial Granary V"
+msgstr ""
+
+msgid "Circular Celestial Granary VI"
+msgstr ""
+
+msgid "Circular Celestial Granary VII"
+msgstr ""
+
+msgid "Circular Celestial Granary VIII"
+msgstr ""
+
+msgid "Circular Celestial Granary IX"
+msgstr ""
+
+msgid "Circular Celestial Granary X"
+msgstr ""
+
+msgid "Circular Celestial Granary XI"
+msgstr ""
+
+msgid "Circular Celestial Granary XII"
+msgstr ""
+
+msgid "Circular Celestial Granary XIII"
+msgstr ""
+
+msgid "Circular Celestial Granary Added I"
+msgstr ""
+
+msgid "Circular Celestial Granary Added II"
+msgstr ""
+
+msgid "Circular Celestial Granary Added III"
+msgstr ""
+
+msgid "Circular Celestial Granary Added IV"
+msgstr ""
+
+msgid "Circular Celestial Granary Added V"
+msgstr ""
+
+msgid "Circular Celestial Granary Added VI"
+msgstr ""
+
+msgid "Circular Celestial Granary Added VII"
+msgstr ""
+
+msgid "Circular Celestial Granary Added VIII"
+msgstr ""
+
+msgid "Circular Celestial Granary Added IX"
+msgstr ""
+
+msgid "Circular Celestial Granary Added X"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XI"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XII"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XIII"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XIV"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XV"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XVI"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XVII"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XVIII"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XIX"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XX"
+msgstr ""
+
+msgid "Circular Celestial Granary Added XXI"
+msgstr ""
+
+msgid "Hairy Head I"
+msgstr ""
+
+msgid "Hairy Head II"
+msgstr ""
+
+msgid "Hairy Head III"
+msgstr ""
+
+msgid "Hairy Head IV"
+msgstr ""
+
+msgid "Hairy Head V"
+msgstr ""
+
+msgid "Hairy Head VI"
+msgstr ""
+
+msgid "Hairy Head VII"
+msgstr ""
+
+msgid "Hairy Head Added I"
+msgstr ""
+
+msgid "Hairy Head Added II"
+msgstr ""
+
+msgid "Hairy Head Added III"
+msgstr ""
+
+msgid "Hairy Head Added IV*"
+msgstr ""
+
+msgid "Hairy Head Added V"
+msgstr ""
+
+msgid "Hairy Head Added VIII"
+msgstr ""
+
+msgid "Hairy Head Added IX"
+msgstr ""
+
+msgid "Hairy Head Added XI"
+msgstr ""
+
+msgid "Hairy Head Added XII"
+msgstr ""
+
+msgid "Hairy Head Added XIII"
+msgstr ""
+
+msgid "Lunar Star Added I"
+msgstr ""
+
+msgid "Rolled Tongue I"
+msgstr ""
+
+msgid "Rolled Tongue II"
+msgstr ""
+
+msgid "Rolled Tongue III"
+msgstr ""
+
+msgid "Rolled Tongue IV"
+msgstr ""
+
+msgid "Rolled Tongue V"
+msgstr ""
+
+msgid "Rolled Tongue VI"
+msgstr ""
+
+msgid "Rolled Tongue Added I"
+msgstr ""
+
+msgid "Rolled Tongue Added II"
+msgstr ""
+
+msgid "Rolled Tongue Added III"
+msgstr ""
+
+msgid "Rolled Tongue Added IV"
+msgstr ""
+
+msgid "Rolled Tongue Added V"
+msgstr ""
+
+msgid "Rolled Tongue Added VI"
+msgstr ""
+
+msgid "Rolled Tongue Added VII"
+msgstr ""
+
+msgid "Whetstone I"
+msgstr ""
+
+msgid "Whetstone II"
+msgstr ""
+
+msgid "Whetstone III"
+msgstr ""
+
+msgid "Whetstone IV"
+msgstr ""
+
+msgid "Celestial Yin Force II"
+msgstr ""
+
+msgid "Celestial Yin Force III"
+msgstr ""
+
+msgid "Celestial Yin Force IV"
+msgstr ""
+
+msgid "Celestial Yin Force V*"
+msgstr ""
+
+msgid "Celestial Yin Force Added I"
+msgstr ""
+
+msgid "Celestial Yin Force Added II"
+msgstr ""
+
+msgid "Celestial Yin Force Added III"
+msgstr ""
+
+msgid "Celestial Yin Force Added IV"
+msgstr ""
+
+msgid "Celestial Yin Force Added V"
+msgstr ""
+
+msgid "Celestial Yin Force Added VI"
+msgstr ""
+
+msgid "Hay I"
+msgstr ""
+
+msgid "Hay II"
+msgstr ""
+
+msgid "Hay III"
+msgstr ""
+
+msgid "Hay IV"
+msgstr ""
+
+msgid "Hay V"
+msgstr ""
+
+msgid "Hay VI"
+msgstr ""
+
+msgid "Hay Added I"
+msgstr ""
+
+msgid "Hay Added II"
+msgstr ""
+
+msgid "Hay Added III"
+msgstr ""
+
+msgid "Hay Added IV"
+msgstr ""
+
+msgid "Hay Added V"
+msgstr ""
+
+msgid "Celestial Meadows I"
+msgstr ""
+
+msgid "Celestial Meadows II"
+msgstr ""
+
+msgid "Celestial Meadows III"
+msgstr ""
+
+msgid "Celestial Meadows IV"
+msgstr ""
+
+msgid "Celestial Meadows V"
+msgstr ""
+
+msgid "Celestial Meadows VI"
+msgstr ""
+
+msgid "Celestial Meadows VII"
+msgstr ""
+
+msgid "Celestial Meadows VIII"
+msgstr ""
+
+msgid "Celestial Meadows IX"
+msgstr ""
+
+msgid "Celestial Meadows X"
+msgstr ""
+
+msgid "Celestial Meadows XI"
+msgstr ""
+
+msgid "Celestial Meadows XII"
+msgstr ""
+
+msgid "Celestial Meadows XIII"
+msgstr ""
+
+msgid "Celestial Meadows XIV"
+msgstr ""
+
+msgid "Celestial Meadows XV"
+msgstr ""
+
+msgid "Celestial Meadows XVI"
+msgstr ""
+
+msgid "Celestial Meadows Added I"
+msgstr ""
+
+msgid "Celestial Meadows Added II"
+msgstr ""
+
+msgid "Celestial Meadows Added III"
+msgstr ""
+
+msgid "Celestial Meadows Added IV"
+msgstr ""
+
+msgid "Celestial Meadows Added V"
+msgstr ""
+
+msgid "Celestial Meadows Added VI"
+msgstr ""
+
+msgid "Celestial Meadows Added VII"
+msgstr ""
+
+msgid "Celestial Meadows Added VIII"
+msgstr ""
+
+msgid "Celestial Meadows Added IX"
+msgstr ""
+
+msgid "Celestial Meadows Added X"
+msgstr ""
+
+msgid "Celestial Meadows Added XI"
+msgstr ""
+
+msgid "Celestial Meadows Added XII"
+msgstr ""
+
+msgid "Celestial Meadows Added XIII"
+msgstr ""
+
+msgid "Celestial Meadows Added XIV"
+msgstr ""
+
+msgid "Celestial Meadows Added XV"
+msgstr ""
+
+msgid "Celestial Meadows Added XVI"
+msgstr ""
+
+msgid "Celestial Meadows Added XVII"
+msgstr ""
+
+msgid "Celestial Meadows Added XVIII"
+msgstr ""
+
+msgid "Net I"
+msgstr ""
+
+msgid "Net II"
+msgstr ""
+
+msgid "Net III"
+msgstr ""
+
+msgid "Net IV"
+msgstr ""
+
+msgid "Net V"
+msgstr ""
+
+msgid "Net VI"
+msgstr ""
+
+msgid "Net VII"
+msgstr ""
+
+msgid "Net VIII"
+msgstr ""
+
+msgid "Net Added I"
+msgstr ""
+
+msgid "Net Added II"
+msgstr ""
+
+msgid "Net Added III"
+msgstr ""
+
+msgid "Net Added IV"
+msgstr ""
+
+msgid "Net Added V"
+msgstr ""
+
+msgid "Net Added VI"
+msgstr ""
+
+msgid "Net Added VII"
+msgstr ""
+
+msgid "Net Added VIII"
+msgstr ""
+
+msgid "Net Added IX"
+msgstr ""
+
+msgid "Net Added X"
+msgstr ""
+
+msgid "Net Added XI"
+msgstr ""
+
+msgid "Net Added XII"
+msgstr ""
+
+msgid "Net Added XIII"
+msgstr ""
+
+msgid "Net Added XIV"
+msgstr ""
+
+msgid "Net Added XV"
+msgstr ""
+
+msgid "Net Added XVI"
+msgstr ""
+
+msgid "Net Added XVII"
+msgstr ""
+
+msgid "Net Added XVIII"
+msgstr ""
+
+msgid "Whisper"
+msgstr ""
+
+msgid "Whisper Added I"
+msgstr ""
+
+msgid "Whisper Added II"
+msgstr ""
+
+msgid "Whisper Added III"
+msgstr ""
+
+msgid "Whisper Added IV"
+msgstr ""
+
+msgid "Celestial Street I"
+msgstr ""
+
+msgid "Celestial Street II"
+msgstr ""
+
+msgid "Celestial Street Added I"
+msgstr ""
+
+msgid "Celestial Street Added II"
+msgstr ""
+
+msgid "Celestial Street Added III"
+msgstr ""
+
+msgid "Celestial Street Added IV"
+msgstr ""
+
+msgid "Celestial High Terrace I"
+msgstr ""
+
+msgid "Celestial High Terrace II"
+msgstr ""
+
+msgid "Celestial High Terrace III"
+msgstr ""
+
+msgid "Celestial High Terrace IV"
+msgstr ""
+
+msgid "Celestial High Terrace Added I"
+msgstr ""
+
+msgid "Celestial High Terrace Added II"
+msgstr ""
+
+msgid "Celestial High Terrace Added III"
+msgstr ""
+
+msgid "Celestial High Terrace Added IV"
+msgstr ""
+
+msgid "Feudal Kings I"
+msgstr ""
+
+msgid "Feudal Kings II"
+msgstr ""
+
+msgid "Feudal Kings III"
+msgstr ""
+
+msgid "Feudal Kings IV"
+msgstr ""
+
+msgid "Feudal Kings V"
+msgstr ""
+
+msgid "Feudal Kings VI"
+msgstr ""
+
+msgid "Feudal Kings Added I"
+msgstr ""
+
+msgid "Feudal Kings Added II"
+msgstr ""
+
+msgid "Feudal Kings Added III"
+msgstr ""
+
+msgid "Feudal Kings Added IV"
+msgstr ""
+
+msgid "Five Chariots I"
+msgstr ""
+
+msgid "Five Chariots II"
+msgstr ""
+
+msgid "Five Chariots III"
+msgstr ""
+
+msgid "Five Chariots IV"
+msgstr ""
+
+msgid "Five Chariots V"
+msgstr ""
+
+msgid "Five Chariots Added I"
+msgstr ""
+
+msgid "Five Chariots Added II"
+msgstr ""
+
+msgid "Five Chariots Added III"
+msgstr ""
+
+msgid "Five Chariots Added IV"
+msgstr ""
+
+msgid "Five Chariots Added V"
+msgstr ""
+
+msgid "Five Chariots Added VI"
+msgstr ""
+
+msgid "Five Chariots Added VII"
+msgstr ""
+
+msgid "Five Chariots Added VIII"
+msgstr ""
+
+msgid "Five Chariots Added IX"
+msgstr ""
+
+msgid "Five Chariots Added X"
+msgstr ""
+
+msgid "Five Chariots Added XI"
+msgstr ""
+
+msgid "Five Chariots Added XII"
+msgstr ""
+
+msgid "Five Chariots Added XIII"
+msgstr ""
+
+msgid "Five Chariots Added XIV"
+msgstr ""
+
+msgid "Five Chariots Added XV"
+msgstr ""
+
+msgid "Five Chariots Added XVI"
+msgstr ""
+
+msgid "Five Chariots Added XVII"
+msgstr ""
+
+msgid "Five Chariots Added XIX"
+msgstr ""
+
+msgid "Pillars I (In Net Mansion)"
+msgstr "Стълбове I (в Мрежа)"
+
+msgid "Pillars II (In Net Mansion)"
+msgstr "Стълбове II (в Мрежа)"
+
+msgid "Pillars III (In Net Mansion)"
+msgstr "Стълбове III (в Мрежа)"
+
+msgid "Pillars IV (In Net Mansion)"
+msgstr "Стълбове IV (в Мрежа)"
+
+msgid "Pillars V (In Net Mansion)"
+msgstr "Стълбове V (в Мрежа)"
+
+msgid "Pillars VI (In Net Mansion)"
+msgstr "Стълбове VI (в Мрежа)"
+
+msgid "Pillars VII (In Net Mansion)"
+msgstr "Стълбове VII (в Мрежа)"
+
+msgid "Pillars VIII (In Net Mansion)"
+msgstr "Стълбове VIII (в Мрежа)"
+
+msgid "Pool of Harmony I"
+msgstr ""
+
+msgid "Pool of Harmony II"
+msgstr ""
+
+msgid "Pool of Harmony III"
+msgstr ""
+
+msgid "Celestial Pier I"
+msgstr ""
+
+msgid "Celestial Pier II"
+msgstr ""
+
+msgid "Celestial Pier III"
+msgstr ""
+
+msgid "Celestial Pier IV"
+msgstr ""
+
+msgid "Celestial Pier V"
+msgstr ""
+
+msgid "Celestial Pier Added I"
+msgstr ""
+
+msgid "Celestial Pier Added II"
+msgstr ""
+
+msgid "Celestial Pass Added I"
+msgstr ""
+
+msgid "Celestial Pass Added II"
+msgstr ""
+
+msgid "Celestial Pass Added III"
+msgstr ""
+
+msgid "Celestial Pass Added IV"
+msgstr ""
+
+msgid "Celestial Pass Added V"
+msgstr ""
+
+msgid "Celestial Pass Added VI"
+msgstr ""
+
+msgid "Celestial Tally I"
+msgstr ""
+
+msgid "Celestial Tally II"
+msgstr ""
+
+msgid "Celestial Tally III"
+msgstr ""
+
+msgid "Celestial Tally IV"
+msgstr ""
+
+msgid "Celestial Tally V"
+msgstr ""
+
+msgid "Celestial Tally VI"
+msgstr ""
+
+msgid "Celestial Tally VII"
+msgstr ""
+
+msgid "Celestial Tally VIII"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects I"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects II"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects III"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects IV"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects V"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects VI"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added I"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added II"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added III"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added IV"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added V"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added VI"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added VII"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added VIII"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added IX"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added X"
+msgstr ""
+
+msgid "Interpreters of Nine Dialects Added XI"
+msgstr ""
+
+msgid "Banner of Three Stars I"
+msgstr ""
+
+msgid "Banner of Three Stars II"
+msgstr ""
+
+msgid "Banner of Three Stars III"
+msgstr ""
+
+msgid "Banner of Three Stars IV"
+msgstr ""
+
+msgid "Banner of Three Stars V"
+msgstr ""
+
+msgid "Banner of Three Stars VI"
+msgstr ""
+
+msgid "Banner of Three Stars VII"
+msgstr ""
+
+msgid "Banner of Three Stars VIII"
+msgstr ""
+
+msgid "Banner of Three Stars IX"
+msgstr ""
+
+msgid "Banner of Three Stars Added I"
+msgstr ""
+
+msgid "Banner of Three Stars Added II"
+msgstr ""
+
+msgid "Banner of Three Stars Added III"
+msgstr ""
+
+msgid "Banner of Three Stars Added IV"
+msgstr ""
+
+msgid "Banner of Three Stars Added V"
+msgstr ""
+
+msgid "Banner of Three Stars Added VI"
+msgstr ""
+
+msgid "Banner of Three Stars Added VII"
+msgstr ""
+
+msgid "Banner of Three Stars Added VIII"
+msgstr ""
+
+msgid "Banner of Three Stars Added IX"
+msgstr ""
+
+msgid "Banner of Three Stars Added X"
+msgstr ""
+
+msgid "Banner of Three Stars Added XI"
+msgstr ""
+
+msgid "Banner of Three Stars Added XII"
+msgstr ""
+
+msgid "Imperial Military Flag I"
+msgstr ""
+
+msgid "Imperial Military Flag II"
+msgstr ""
+
+msgid "Imperial Military Flag III"
+msgstr ""
+
+msgid "Imperial Military Flag IV"
+msgstr ""
+
+msgid "Imperial Military Flag V"
+msgstr ""
+
+msgid "Imperial Military Flag VI"
+msgstr ""
+
+msgid "Imperial Military Flag VII"
+msgstr ""
+
+msgid "Imperial Military Flag VIII"
+msgstr ""
+
+msgid "Imperial Military Flag IX"
+msgstr ""
+
+msgid "Imperial Military Flag Added I"
+msgstr ""
+
+msgid "Imperial Military Flag Added II"
+msgstr ""
+
+msgid "Imperial Military Flag Added III"
+msgstr ""
+
+msgid "Imperial Military Flag Added IV"
+msgstr ""
+
+msgid "Imperial Military Flag Added V"
+msgstr ""
+
+msgid "Imperial Military Flag Added VI"
+msgstr ""
+
+msgid "Imperial Military Flag Added VII"
+msgstr ""
+
+msgid "Celestial Orchard I"
+msgstr ""
+
+msgid "Celestial Orchard II"
+msgstr ""
+
+msgid "Celestial Orchard III"
+msgstr ""
+
+msgid "Celestial Orchard IV"
+msgstr ""
+
+msgid "Celestial Orchard V"
+msgstr ""
+
+msgid "Celestial Orchard VI"
+msgstr ""
+
+msgid "Celestial Orchard VII"
+msgstr ""
+
+msgid "Celestial Orchard VIII"
+msgstr ""
+
+msgid "Celestial Orchard IX"
+msgstr ""
+
+msgid "Celestial Orchard X"
+msgstr ""
+
+msgid "Celestial Orchard XI"
+msgstr ""
+
+msgid "Celestial Orchard XII"
+msgstr ""
+
+msgid "Celestial Orchard XIII"
+msgstr ""
+
+msgid "Celestial Orchard Added I"
+msgstr ""
+
+msgid "Celestial Orchard Added III"
+msgstr ""
+
+msgid "Celestial Orchard Added IV"
+msgstr ""
+
+msgid "Celestial Orchard Added V"
+msgstr ""
+
+msgid "Celestial Orchard Added VI"
+msgstr ""
+
+msgid "Turtle Beak I"
+msgstr ""
+
+msgid "Turtle Beak II"
+msgstr ""
+
+msgid "Turtle Beak III"
+msgstr ""
+
+msgid "Deity in Charge of Monsters I"
+msgstr ""
+
+msgid "Deity in Charge of Monsters II"
+msgstr ""
+
+msgid "Deity in Charge of Monsters III"
+msgstr ""
+
+msgid "Deity in Charge of Monsters IV"
+msgstr ""
+
+msgid "Deity in Charge of Monsters Added I"
+msgstr ""
+
+msgid "Deity in Charge of Monsters Added II"
+msgstr ""
+
+msgid "Deity in Charge of Monsters Added III"
+msgstr ""
+
+msgid "Deity in Charge of Monsters Added IV"
+msgstr ""
+
+msgid "Deity in Charge of Monsters Added V"
+msgstr ""
+
+msgid "Deity in Charge of Monsters Added VI"
+msgstr ""
+
+msgid "Seat Flags I"
+msgstr ""
+
+msgid "Seat Flags II"
+msgstr ""
+
+msgid "Seat Flags III"
+msgstr ""
+
+msgid "Seat Flags IV"
+msgstr ""
+
+msgid "Seat Flags V"
+msgstr ""
+
+msgid "Seat Flags VI"
+msgstr ""
+
+msgid "Seat Flags VII"
+msgstr ""
+
+msgid "Seat Flags VIII"
+msgstr ""
+
+msgid "Seat Flags IX"
+msgstr ""
+
+msgid "Seat Flags Added I"
+msgstr ""
+
+msgid "Seat Flags Added II"
+msgstr ""
+
+msgid "Seat Flags Added III"
+msgstr ""
+
+msgid "Seat Flags Added IV"
+msgstr ""
+
+msgid "Seat Flags Added V"
+msgstr ""
+
+msgid "Seat Flags Added VI"
+msgstr ""
+
+msgid "Seat Flags Added VII"
+msgstr ""
+
+msgid "Seat Flags Added VIII"
+msgstr ""
+
+msgid "Seat Flags Added IX"
+msgstr ""
+
+msgid "Seat Flags Added X"
+msgstr ""
+
+msgid "Seat Flags Added XI"
+msgstr ""
+
+msgid "Three Stars I"
+msgstr ""
+
+msgid "Three Stars II"
+msgstr ""
+
+msgid "Three Stars III"
+msgstr ""
+
+msgid "Three Stars IV"
+msgstr ""
+
+msgid "Three Stars V"
+msgstr ""
+
+msgid "Three Stars VI"
+msgstr ""
+
+msgid "Three Stars VII"
+msgstr ""
+
+msgid "Three Stars Added I"
+msgstr ""
+
+msgid "Three Stars Added II"
+msgstr ""
+
+msgid "Three Stars Added III"
+msgstr ""
+
+msgid "Three Stars Added IV"
+msgstr ""
+
+msgid "Three Stars Added V"
+msgstr ""
+
+msgid "Three Stars Added VI"
+msgstr ""
+
+msgid "Three Stars Added VII"
+msgstr ""
+
+msgid "Three Stars Added VIII"
+msgstr ""
+
+msgid "Three Stars Added IX"
+msgstr ""
+
+msgid "Three Stars Added X"
+msgstr ""
+
+msgid "Three Stars Added XI"
+msgstr ""
+
+msgid "Three Stars Added XII"
+msgstr ""
+
+msgid "Three Stars Added XIII"
+msgstr ""
+
+msgid "Three Stars Added XIV"
+msgstr ""
+
+msgid "Three Stars Added XV"
+msgstr ""
+
+msgid "Three Stars Added XVI"
+msgstr ""
+
+msgid "Three Stars Added XVII"
+msgstr ""
+
+msgid "Three Stars Added XVIII"
+msgstr ""
+
+msgid "Three Stars Added XIX"
+msgstr ""
+
+msgid "Three Stars Added XX"
+msgstr ""
+
+msgid "Three Stars Added XXI"
+msgstr ""
+
+msgid "Three Stars Added XXII"
+msgstr ""
+
+msgid "Three Stars Added XXIII"
+msgstr ""
+
+msgid "Three Stars Added XXIV"
+msgstr ""
+
+msgid "Three Stars Added XXV"
+msgstr ""
+
+msgid "Three Stars Added XXVI"
+msgstr ""
+
+msgid "Three Stars Added XXVII"
+msgstr ""
+
+msgid "Three Stars Added XXVIII"
+msgstr ""
+
+msgid "Three Stars Added XXIX"
+msgstr ""
+
+msgid "Three Stars Added XXX"
+msgstr ""
+
+msgid "Three Stars Added XXXI"
+msgstr ""
+
+msgid "Three Stars Added XXXII"
+msgstr ""
+
+msgid "Three Stars Added XXXIII"
+msgstr ""
+
+msgid "Three Stars Added XXXIV"
+msgstr ""
+
+msgid "Three Stars Added XXXV"
+msgstr ""
+
+msgid "Three Stars Added XXXVI"
+msgstr ""
+
+msgid "Three Stars Added XXXVII"
+msgstr ""
+
+msgid "Three Stars Added XXXIX"
+msgstr ""
+
+msgid "Send Armed Forces To Suppress I"
+msgstr ""
+
+msgid "Send Armed Forces To Suppress II"
+msgstr ""
+
+msgid "Send Armed Forces To Suppress III"
+msgstr ""
+
+msgid "Send Armed Forces To Suppress Added I"
+msgstr ""
+
+msgid "Send Armed Forces To Suppress Added II"
+msgstr ""
+
+msgid "Jade Well I"
+msgstr ""
+
+msgid "Jade Well II"
+msgstr ""
+
+msgid "Jade Well III"
+msgstr ""
+
+msgid "Jade Well IV"
+msgstr ""
+
+msgid "Jade Well Added I"
+msgstr ""
+
+msgid "Jade Well Added II"
+msgstr ""
+
+msgid "Jade Well Added III"
+msgstr ""
+
+msgid "Three Stars Added XXXVIII"
+msgstr ""
+
+msgid "Military Well I"
+msgstr ""
+
+msgid "Military Well II"
+msgstr ""
+
+msgid "Military Well III"
+msgstr ""
+
+msgid "Military Well IV"
+msgstr ""
+
+msgid "Military Well Added I"
+msgstr ""
+
+msgid "Military Well Added II"
+msgstr ""
+
+msgid "Screen I"
+msgstr ""
+
+msgid "Screen II"
+msgstr ""
+
+msgid "Toilet I"
+msgstr ""
+
+msgid "Toilet II"
+msgstr ""
+
+msgid "Toilet III"
+msgstr ""
+
+msgid "Toilet IV"
+msgstr ""
+
+msgid "Toilet Added I"
+msgstr ""
+
+msgid "Toilet Added II"
+msgstr ""
+
+msgid "Toilet Added III"
+msgstr ""
+
+msgid "Toilet Added IV"
+msgstr ""
+
+msgid "Toilet Added V"
+msgstr ""
+
+msgid "Toilet Added VI"
+msgstr ""
+
+msgid "Toilet Added VII"
+msgstr ""
+
+msgid "Toilet Added VIII"
+msgstr ""
+
+msgid "Well I"
+msgstr ""
+
+msgid "Well II"
+msgstr ""
+
+msgid "Well III"
+msgstr ""
+
+msgid "Well IV"
+msgstr ""
+
+msgid "Well V"
+msgstr ""
+
+msgid "Well VI"
+msgstr ""
+
+msgid "Well VII"
+msgstr ""
+
+msgid "Well VIII"
+msgstr ""
+
+msgid "Well Added I"
+msgstr ""
+
+msgid "Well Added II"
+msgstr ""
+
+msgid "Well Added III"
+msgstr ""
+
+msgid "Well Added IV"
+msgstr ""
+
+msgid "Well Added V"
+msgstr ""
+
+msgid "Well Added VI"
+msgstr ""
+
+msgid "Well Added VII"
+msgstr ""
+
+msgid "Well Added VIII"
+msgstr ""
+
+msgid "Well Added IX"
+msgstr ""
+
+msgid "Well Added X"
+msgstr ""
+
+msgid "Well Added XI"
+msgstr ""
+
+msgid "Well Added XII"
+msgstr ""
+
+msgid "Well Added XIII"
+msgstr ""
+
+msgid "Well Added XIV"
+msgstr ""
+
+msgid "Well Added XV"
+msgstr ""
+
+msgid "Well Added XVI"
+msgstr ""
+
+msgid "Well Added XVII"
+msgstr ""
+
+msgid "Well Added XVIII"
+msgstr ""
+
+msgid "Well Added XIX"
+msgstr ""
+
+msgid "Battle Axe"
+msgstr ""
+
+msgid "Battle Axe Added I"
+msgstr ""
+
+msgid "Official for Irrigation I"
+msgstr ""
+
+msgid "Official for Irrigation II"
+msgstr ""
+
+msgid "Official for Irrigation III"
+msgstr ""
+
+msgid "Official for Irrigation IV"
+msgstr ""
+
+msgid "Official for Irrigation Added I"
+msgstr ""
+
+msgid "Official for Irrigation Added II"
+msgstr ""
+
+msgid "Official for Irrigation Added III"
+msgstr ""
+
+msgid "Official for Irrigation Added IV"
+msgstr ""
+
+msgid "Official for Irrigation Added V"
+msgstr ""
+
+msgid "Official for Irrigation Added VI"
+msgstr ""
+
+msgid "Official for Irrigation Added VII"
+msgstr ""
+
+msgid "Official for Irrigation Added VIII"
+msgstr ""
+
+msgid "Celestial Wine Cup I"
+msgstr ""
+
+msgid "Celestial Wine Cup II"
+msgstr ""
+
+msgid "Celestial Wine Cup III"
+msgstr ""
+
+msgid "Celestial Wine Cup Added I"
+msgstr ""
+
+msgid "Celestial Wine Cup Added II"
+msgstr ""
+
+msgid "Celestial Wine Cup Added III"
+msgstr ""
+
+msgid "Celestial Wine Cup Added IV"
+msgstr ""
+
+msgid "Celestial Wine Cup Added V"
+msgstr ""
+
+msgid "Celestial Wine Cup Added VI"
+msgstr ""
+
+msgid "Celestial Wine Cup Added VII"
+msgstr ""
+
+msgid "Celestial Wine Cup Added VIII"
+msgstr ""
+
+msgid "Celestial Wine Cup Added IX"
+msgstr ""
+
+msgid "Five Feudal Kings I"
+msgstr ""
+
+msgid "Five Feudal Kings II"
+msgstr ""
+
+msgid "Five Feudal Kings III"
+msgstr ""
+
+msgid "Five Feudal Kings IV"
+msgstr ""
+
+msgid "Five Feudal Kings V"
+msgstr ""
+
+msgid "Five Feudal Kings Added I"
+msgstr ""
+
+msgid "Five Feudal Kings Added II"
+msgstr ""
+
+msgid "Five Feudal Kings Added III"
+msgstr ""
+
+msgid "Five Feudal Kings Added VI"
+msgstr ""
+
+msgid "North River I"
+msgstr ""
+
+msgid "North River II"
+msgstr ""
+
+msgid "North River III"
+msgstr ""
+
+msgid "North River Added I"
+msgstr ""
+
+msgid "North River Added II"
+msgstr ""
+
+msgid "North River Added III"
+msgstr ""
+
+msgid "North River Added IV"
+msgstr ""
+
+msgid "Pile of Firewood Added I"
+msgstr ""
+
+msgid "Pile of Firewood Added II"
+msgstr ""
+
+msgid "Pile of Firewood Added III"
+msgstr ""
+
+msgid "Water Level I"
+msgstr ""
+
+msgid "Water Level II"
+msgstr ""
+
+msgid "Water Level III"
+msgstr ""
+
+msgid "Water Level IV"
+msgstr ""
+
+msgid "Water Level Added I"
+msgstr ""
+
+msgid "Water Level Added II"
+msgstr ""
+
+msgid "Water Level Added III"
+msgstr ""
+
+msgid "Water Level Added IV"
+msgstr ""
+
+msgid "Water Level Added V"
+msgstr ""
+
+msgid "Water Level Added VI"
+msgstr ""
+
+msgid "Water Level Added VII"
+msgstr ""
+
+msgid "Water Level Added VIII"
+msgstr ""
+
+msgid "Water Level Added IX"
+msgstr ""
+
+msgid "Water Level Added X?"
+msgstr ""
+
+msgid "Water Level Added XI"
+msgstr ""
+
+msgid "Water Level Added XII"
+msgstr ""
+
+msgid "South River I"
+msgstr ""
+
+msgid "South River II"
+msgstr ""
+
+msgid "South River III"
+msgstr ""
+
+msgid "South River Added I"
+msgstr ""
+
+msgid "South River Added II"
+msgstr ""
+
+msgid "South River Added III"
+msgstr ""
+
+msgid "South River Added IV"
+msgstr ""
+
+msgid "South River Added V"
+msgstr ""
+
+msgid "South River Added VI"
+msgstr ""
+
+msgid "South River Added VII"
+msgstr ""
+
+msgid "South River Added VIII"
+msgstr ""
+
+msgid "South River Added IX"
+msgstr ""
+
+msgid "South River Added X"
+msgstr ""
+
+msgid "Four Channels I"
+msgstr ""
+
+msgid "Four Channels II"
+msgstr ""
+
+msgid "Four Channels III"
+msgstr ""
+
+msgid "Four Channels IV"
+msgstr ""
+
+msgid "Four Channels Added I"
+msgstr ""
+
+msgid "Four Channels Added II"
+msgstr ""
+
+msgid "Four Channels Added III"
+msgstr ""
+
+msgid "Four Channels Added V"
+msgstr ""
+
+msgid "Four Channels Added VI"
+msgstr ""
+
+msgid "Four Channels Added VII"
+msgstr ""
+
+msgid "Four Channels Added VIII"
+msgstr ""
+
+msgid "Palace Gate I"
+msgstr "Дворцова порта I"
+
+msgid "Palace Gate II"
+msgstr "Дворцова порта II"
+
+msgid "Palace Gate Added I"
+msgstr "Добавена дворцова порта I"
+
+msgid "Palace Gate Added II"
+msgstr "Добавена дворцова порта II"
+
+msgid "Palace Gate Added III"
+msgstr "Добавена дворцова порта III"
+
+msgid "Palace Gate Added IV"
+msgstr "Добавена дворцова порта IV"
+
+msgid "Palace Gate Added V"
+msgstr "Добавена дворцова порта V"
+
+msgid "Palace Gate Added VI"
+msgstr "Добавена дворцова порта VI"
+
+msgid "Palace Gate Added VII"
+msgstr "Добавена дворцова порта VII"
+
+msgid "Market for Soldiers I"
+msgstr ""
+
+msgid "Market for Soldiers II"
+msgstr ""
+
+msgid "Market for Soldiers III"
+msgstr ""
+
+msgid "Market for Soldiers IV"
+msgstr ""
+
+msgid "Market for Soldiers V"
+msgstr ""
+
+msgid "Market for Soldiers VI"
+msgstr ""
+
+msgid "Market for Soldiers Added I"
+msgstr ""
+
+msgid "Market for Soldiers Added II"
+msgstr ""
+
+msgid "Market for Soldiers Added III"
+msgstr ""
+
+msgid "Market for Soldiers Added IV"
+msgstr ""
+
+msgid "Market for Soldiers Added V"
+msgstr ""
+
+msgid "Market for Soldiers Added VI"
+msgstr ""
+
+msgid "Market for Soldiers Added VII"
+msgstr ""
+
+msgid "Celestial Wolf Added I"
+msgstr ""
+
+msgid "Celestial Wolf Added II"
+msgstr ""
+
+msgid "Celestial Wolf Added III"
+msgstr ""
+
+msgid "Celestial Wolf Added IV"
+msgstr ""
+
+msgid "Celestial Wolf Added V"
+msgstr ""
+
+msgid "Celestial Wolf Added VI"
+msgstr ""
+
+msgid "Grandfather I"
+msgstr "Дядо I"
+
+msgid "Grandfather II"
+msgstr "Дядо II"
+
+msgid "Son I"
+msgstr ""
+
+msgid "Son II"
+msgstr ""
+
+msgid "Son Added I"
+msgstr ""
+
+msgid "Grandson I"
+msgstr ""
+
+msgid "Grandson II"
+msgstr ""
+
+msgid "Grandson Added I"
+msgstr ""
+
+msgid "Grandson Added II"
+msgstr ""
+
+msgid "Grandson Added III"
+msgstr ""
+
+msgid "Grandson Added IV"
+msgstr ""
+
+msgid "Old Man Added I"
+msgstr ""
+
+msgid "Old Man Added II"
+msgstr ""
+
+msgid "Old Man Added III"
+msgstr ""
+
+msgid "Old Man Added IV"
+msgstr ""
+
+msgid "Bow and Arrow I"
+msgstr ""
+
+msgid "Bow and Arrow II"
+msgstr ""
+
+msgid "Bow and Arrow III"
+msgstr ""
+
+msgid "Bow and Arrow IV"
+msgstr ""
+
+msgid "Bow and Arrow V"
+msgstr ""
+
+msgid "Bow and Arrow VI"
+msgstr ""
+
+msgid "Bow and Arrow VII"
+msgstr ""
+
+msgid "Bow and Arrow VIII"
+msgstr ""
+
+msgid "Bow and Arrow IX"
+msgstr ""
+
+msgid "Bow and Arrow Added I"
+msgstr ""
+
+msgid "Bow and Arrow Added II"
+msgstr ""
+
+msgid "Bow and Arrow Added III"
+msgstr ""
+
+msgid "Bow and Arrow Added IV"
+msgstr ""
+
+msgid "Bow and Arrow Added V"
+msgstr ""
+
+msgid "Bow and Arrow Added VI"
+msgstr ""
+
+msgid "Bow and Arrow Added VII"
+msgstr ""
+
+msgid "Bow and Arrow Added VIII"
+msgstr ""
+
+msgid "Bow and Arrow Added IX"
+msgstr ""
+
+msgid "Bow and Arrow Added X"
+msgstr ""
+
+msgid "Bow and Arrow Added XI"
+msgstr ""
+
+msgid "Bow and Arrow Added XII"
+msgstr ""
+
+msgid "Bow and Arrow Added XIII"
+msgstr ""
+
+msgid "Bow and Arrow Added XIV"
+msgstr ""
+
+msgid "Bow and Arrow Added XV"
+msgstr ""
+
+msgid "Bow and Arrow Added XVI"
+msgstr ""
+
+msgid "Bow and Arrow Added XVII"
+msgstr ""
+
+msgid "Bow and Arrow Added XVIII"
+msgstr ""
+
+msgid "Bow and Arrow Added XIX"
+msgstr ""
+
+msgid "Bow and Arrow Added XX"
+msgstr ""
+
+msgid "Bow and Arrow Added XXI"
+msgstr ""
+
+msgid "Bow and Arrow Added XXII"
+msgstr ""
+
+msgid "Bow and Arrow Added XXIII"
+msgstr ""
+
+msgid "Bow and Arrow Added XXIV"
+msgstr ""
+
+msgid "Bow and Arrow Added XXV"
+msgstr ""
+
+msgid "Bow and Arrow Added XXVI"
+msgstr ""
+
+msgid "Bow and Arrow Added XXVII"
+msgstr ""
+
+msgid "Bow and Arrow Added XXVIII"
+msgstr ""
+
+msgid "Bow and Arrow Added XXIX"
+msgstr ""
+
+msgid "Bow and Arrow Added XXX"
+msgstr ""
+
+msgid "Bow and Arrow Added XXXI"
+msgstr ""
+
+msgid "Bow and Arrow Added XXXII"
+msgstr ""
+
+msgid "Ghosts I"
+msgstr "Призраци I"
+
+msgid "Ghosts II"
+msgstr "Призраци II"
+
+msgid "Ghosts III"
+msgstr "Призраци III"
+
+msgid "Ghosts IV"
+msgstr "Призраци IV"
+
+msgid "Ghosts Added I"
+msgstr ""
+
+msgid "Ghosts Added II"
+msgstr ""
+
+msgid "Ghosts Added III"
+msgstr ""
+
+msgid "Ghosts Added IV"
+msgstr ""
+
+msgid "Ghosts Added V"
+msgstr ""
+
+msgid "Ghosts Added VI"
+msgstr ""
+
+msgid "Ghosts Added VII"
+msgstr ""
+
+msgid "Ghosts Added VIII"
+msgstr ""
+
+msgid "Ghosts Added IX"
+msgstr ""
+
+msgid "Ghosts Added X"
+msgstr ""
+
+msgid "Ghosts Added XI"
+msgstr ""
+
+msgid "Ghosts Added XII"
+msgstr ""
+
+msgid "Ghosts Added XIII"
+msgstr ""
+
+msgid "Ghosts Added XIV"
+msgstr ""
+
+msgid "Ghosts Added XV"
+msgstr ""
+
+msgid "Ghosts Added XVI"
+msgstr ""
+
+msgid "Ghosts Added XVIII*"
+msgstr ""
+
+msgid "Ghosts Added XIX"
+msgstr ""
+
+msgid "Cumulative Corpses Added I"
+msgstr ""
+
+msgid "Cumulative Corpses Added II"
+msgstr ""
+
+msgid "Cumulative Corpses Added III"
+msgstr ""
+
+msgid "Beacon Fire I"
+msgstr ""
+
+msgid "Beacon Fire II"
+msgstr ""
+
+msgid "Beacon Fire III"
+msgstr ""
+
+msgid "Beacon Fire IV"
+msgstr ""
+
+msgid "Beacon Fire Added I"
+msgstr ""
+
+msgid "Beacon Fire Added II"
+msgstr ""
+
+msgid "Beacon Fire Added III"
+msgstr ""
+
+msgid "Beacon Fire Added IV"
+msgstr ""
+
+msgid "Beacon Fire Added V"
+msgstr ""
+
+msgid "Beacon Fire Added VI"
+msgstr ""
+
+msgid "Beacon Fire Added VII"
+msgstr ""
+
+msgid "Beacon Fire Added VIII"
+msgstr ""
+
+msgid "Beacon Fire Added IX"
+msgstr ""
+
+msgid "Beacon Fire Added X"
+msgstr ""
+
+msgid "Beacon Fire Added XI"
+msgstr ""
+
+msgid "Outer Kitchen I"
+msgstr ""
+
+msgid "Outer Kitchen II"
+msgstr ""
+
+msgid "Outer Kitchen III"
+msgstr ""
+
+msgid "Outer Kitchen IV?"
+msgstr ""
+
+msgid "Outer Kitchen Added I"
+msgstr ""
+
+msgid "Outer Kitchen Added II"
+msgstr ""
+
+msgid "Outer Kitchen Added III"
+msgstr ""
+
+msgid "Outer Kitchen Added IV"
+msgstr ""
+
+msgid "Outer Kitchen Added VI"
+msgstr ""
+
+msgid "Outer Kitchen Added VII"
+msgstr ""
+
+msgid "Outer Kitchen Added VIII"
+msgstr ""
+
+msgid "Outer Kitchen Added IX"
+msgstr ""
+
+msgid "Outer Kitchen Added X"
+msgstr ""
+
+msgid "Outer Kitchen Added XI"
+msgstr ""
+
+msgid "Outer Kitchen Added XIII"
+msgstr ""
+
+msgid "Outer Kitchen Added XIV"
+msgstr ""
+
+msgid "Outer Kitchen Added XV"
+msgstr ""
+
+msgid "Outer Kitchen Added XVI"
+msgstr ""
+
+msgid "Outer Kitchen Added XVII"
+msgstr ""
+
+msgid "Judge for Estimating the Age of Animals Added I"
+msgstr ""
+
+msgid "Judge for Estimating the Age of Animals Added II"
+msgstr ""
+
+msgid "Celestial Dog I"
+msgstr "Небесно куче I"
+
+msgid "Celestial Dog II"
+msgstr "Небесно куче II"
+
+msgid "Celestial Dog III*"
+msgstr "Небесно куче III*"
+
+msgid "Celestial Dog IV"
+msgstr "Небесно куче IV"
+
+msgid "Celestial Dog V"
+msgstr "Небесно куче V"
+
+msgid "Celestial Dog VI"
+msgstr "Небесно куче VI"
+
+msgid "Celestial Dog VII"
+msgstr "Небесно куче VII"
+
+msgid "Celestial Earth God's Temple I"
+msgstr ""
+
+msgid "Celestial Earth God's Temple II"
+msgstr ""
+
+msgid "Celestial Earth God's Temple III"
+msgstr ""
+
+msgid "Celestial Earth God's Temple V"
+msgstr ""
+
+msgid "Celestial Earth God's Temple VI"
+msgstr ""
+
+msgid "Celestial Earth God's Temple Added I"
+msgstr ""
+
+msgid "Celestial Earth God's Temple Added II"
+msgstr ""
+
+msgid "Celestial Earth God's Temple Added III"
+msgstr ""
+
+msgid "Celestial Earth God's Temple Added IV*"
+msgstr ""
+
+msgid "Celestial Earth God's Temple Added V?"
+msgstr ""
+
+msgid "Willow I"
+msgstr ""
+
+msgid "Willow II"
+msgstr ""
+
+msgid "Willow III"
+msgstr ""
+
+msgid "Willow IV"
+msgstr ""
+
+msgid "Willow V"
+msgstr ""
+
+msgid "Willow VI"
+msgstr ""
+
+msgid "Willow VII"
+msgstr ""
+
+msgid "Willow VIII"
+msgstr ""
+
+msgid "Willow Added I"
+msgstr ""
+
+msgid "Willow Added II"
+msgstr ""
+
+msgid "Willow Added III"
+msgstr ""
+
+msgid "Willow Added IV"
+msgstr ""
+
+msgid "Willow Added V"
+msgstr ""
+
+msgid "Willow Added VI"
+msgstr ""
+
+msgid "Willow Added VII"
+msgstr ""
+
+msgid "Willow Added VIII"
+msgstr ""
+
+msgid "Willow Added IX"
+msgstr ""
+
+msgid "Willow Added X"
+msgstr ""
+
+msgid "Willow Added XI"
+msgstr ""
+
+msgid "Willow Added XII"
+msgstr ""
+
+msgid "Willow Added XIII"
+msgstr ""
+
+msgid "Banner of Wine Shop I"
+msgstr ""
+
+msgid "Banner of Wine Shop II"
+msgstr ""
+
+msgid "Banner of Wine Shop III"
+msgstr ""
+
+msgid "Banner of Wine Shop Added I"
+msgstr ""
+
+msgid "Banner of Wine Shop Added II"
+msgstr ""
+
+msgid "Banner of Wine Shop Added III"
+msgstr ""
+
+msgid "Banner of Wine Shop Added IV"
+msgstr ""
+
+msgid "Banner of Wine Shop Added V"
+msgstr ""
+
+msgid "Star I"
+msgstr "Звезда I"
+
+msgid "Star II"
+msgstr "Звезда II"
+
+msgid "Star III"
+msgstr "Звезда III"
+
+msgid "Star IV"
+msgstr "Звезда IV"
+
+msgid "Star V"
+msgstr "Звезда V"
+
+msgid "Star VI"
+msgstr "Звезда VI"
+
+msgid "Star VII"
+msgstr "Звезда VII"
+
+msgid "Star Added I"
+msgstr ""
+
+msgid "Star Added II"
+msgstr ""
+
+msgid "Star Added III"
+msgstr ""
+
+msgid "Star Added IV"
+msgstr ""
+
+msgid "Star Added V"
+msgstr ""
+
+msgid "Star Added VI"
+msgstr ""
+
+msgid "Star Added VII"
+msgstr ""
+
+msgid "Star Added VIII"
+msgstr ""
+
+msgid "Star Added IX"
+msgstr ""
+
+msgid "Star Added X"
+msgstr ""
+
+msgid "Star Added XI"
+msgstr ""
+
+msgid "Star Added XII"
+msgstr ""
+
+msgid "Star Added XIII"
+msgstr ""
+
+msgid "Star Added XV"
+msgstr ""
+
+msgid "Celestial Premier I"
+msgstr ""
+
+msgid "Celestial Premier III"
+msgstr ""
+
+msgid "Celestial Premier Added I"
+msgstr ""
+
+msgid "Celestial Premier Added II"
+msgstr ""
+
+msgid "Celestial Premier Added III"
+msgstr ""
+
+msgid "Celestial Premier Added IV"
+msgstr ""
+
+msgid "Celestial Premier Added V"
+msgstr ""
+
+msgid "Celestial Premier Added VI"
+msgstr ""
+
+msgid "Celestial Premier Added VIII"
+msgstr ""
+
+msgid "Celestial Premier Added IX"
+msgstr ""
+
+msgid "Celestial Premier Added X"
+msgstr ""
+
+msgid "Celestial Premier Added XI"
+msgstr ""
+
+msgid "Celestial Premier Added XII"
+msgstr ""
+
+msgid "Xuanyuan I"
+msgstr "Шуанюан I"
+
+msgid "Xuanyuan II"
+msgstr "Шуанюан II"
+
+msgid "Xuanyuan III"
+msgstr "Шуанюан III"
+
+msgid "Xuanyuan IV"
+msgstr "Шуанюан IV"
+
+msgid "Xuanyuan V"
+msgstr "Шуанюан V"
+
+msgid "Xuanyuan VI"
+msgstr "Шуанюан VI"
+
+msgid "Xuanyuan VII"
+msgstr "Шуанюан VII"
+
+msgid "Xuanyuan VIII"
+msgstr "Шуанюан VIII"
+
+msgid "Xuanyuan IX"
+msgstr "Шуанюан IX"
+
+msgid "Xuanyuan X"
+msgstr "Шуанюан X"
+
+msgid "Xuanyuan XI"
+msgstr "Шуанюан XI"
+
+msgid "Xuanyuan XII"
+msgstr "Шуанюан XII"
+
+msgid "Xuanyuan XIII"
+msgstr "Шуанюан XIII"
+
+msgid "Xuanyuan XIV"
+msgstr "Шуанюан XIV"
+
+msgid "Xuanyuan XV"
+msgstr "Шуанюан XV"
+
+msgid "Xuanyuan XVI"
+msgstr "Шуанюан XVI"
+
+msgid "Xuanyuan XVII"
+msgstr "Шуанюан XVII"
+
+msgid "Xuanyuan Added I"
+msgstr "Добавен Шуанюан I"
+
+msgid "Xuanyuan Added II"
+msgstr "Добавен Шуанюан II"
+
+msgid "Xuanyuan Added III"
+msgstr "Добавен Шуанюан III"
+
+msgid "Xuanyuan Added IV"
+msgstr "Добавен Шуанюан IV"
+
+msgid "Xuanyuan Added V"
+msgstr "Добавен Шуанюан V"
+
+msgid "Xuanyuan Added VI"
+msgstr "Добавен Шуанюан VI"
+
+msgid "Xuanyuan Added VII"
+msgstr "Добавен Шуанюан VII"
+
+msgid "Xuanyuan Added VIII"
+msgstr "Добавен Шуанюан VIII"
+
+msgid "Xuanyuan Added IX"
+msgstr "Добавен Шуанюан IX"
+
+msgid "Xuanyuan Added X"
+msgstr "Добавен Шуанюан X"
+
+msgid "Xuanyuan Added XI"
+msgstr "Добавен Шуанюан XI"
+
+msgid "Xuanyuan Added XII"
+msgstr "Добавен Шуанюан XII"
+
+msgid "Xuanyuan Added XIII"
+msgstr "Добавен Шуанюан XIII"
+
+msgid "Xuanyuan Added XIV"
+msgstr "Добавен Шуанюан XIV"
+
+msgid "Xuanyuan Added XV"
+msgstr "Добавен Шуанюан XV"
+
+msgid "Xuanyuan Added XVI"
+msgstr "Добавен Шуанюан XVI"
+
+msgid "Xuanyuan Added XVII"
+msgstr "Добавен Шуанюан XVII"
+
+msgid "Xuanyuan Added XVIII"
+msgstr "Добавен Шуанюан XVIII"
+
+msgid "Xuanyuan Added XIX"
+msgstr "Добавен Шуанюан XIX"
+
+msgid "Xuanyuan Added XX"
+msgstr "Добавен Шуанюан XX"
+
+msgid "Xuanyuan Added XXI"
+msgstr "Добавен Шуанюан XXI"
+
+msgid "Xuanyuan Added XXII"
+msgstr "Добавен Шуанюан XXII"
+
+msgid "Xuanyuan Added XXIII"
+msgstr "Добавен Шуанюан XXIII"
+
+msgid "Xuanyuan Added XXIV"
+msgstr "Добавен Шуанюан XXIV"
+
+msgid "Xuanyuan Added XXV"
+msgstr "Добавен Шуанюан XXV"
+
+msgid "Xuanyuan Added XXVI"
+msgstr "Добавен Шуанюан XXVI"
+
+msgid "Xuanyuan Added XXVII"
+msgstr "Добавен Шуанюан XXVII"
+
+msgid "Xuanyuan Added XXVIII"
+msgstr "Добавен Шуанюан XXVIII"
+
+msgid "Xuanyuan Added XXIX"
+msgstr "Добавен Шуанюан XXIX"
+
+msgid "Xuanyuan Added XXX"
+msgstr "Добавен Шуанюан XXX"
+
+msgid "Xuanyuan Added XXXI"
+msgstr "Добавен Шуанюан XXXI"
+
+msgid "Xuanyuan Added XXXII"
+msgstr "Добавен Шуанюан XXXII"
+
+msgid "Xuanyuan Added XXXIII"
+msgstr "Добавен Шуанюан XXXIII"
+
+msgid "Xuanyuan Added XXXIV"
+msgstr "Добавен Шуанюан XXXIV"
+
+msgid "Xuanyuan Added XXXV"
+msgstr "Добавен Шуанюан XXXV"
+
+msgid "Xuanyuan Added XXXVI"
+msgstr "Добавен Шуанюан XXXVI"
+
+msgid "Xuanyuan Added XXXVII"
+msgstr "Добавен Шуанюан XXXVII"
+
+msgid "Xuanyuan Added XXXVIII"
+msgstr "Добавен Шуанюан XXXVIII"
+
+msgid "Xuanyuan Added XXXIX"
+msgstr "Добавен Шуанюан XXXIX"
+
+msgid "Xuanyuan Added XL"
+msgstr "Добавен Шуанюан XL"
+
+msgid "Xuanyuan Added XLII"
+msgstr "Добавен Шуанюан XLII"
+
+msgid "Xuanyuan Added XLIII"
+msgstr "Добавен Шуанюан XLIII"
+
+msgid "Xuanyuan Added XLIV"
+msgstr "Добавен Шуанюан XLIV"
+
+msgid "Xuanyuan Added XLV"
+msgstr "Добавен Шуанюан XLV"
+
+msgid "Xuanyuan Added XLVI"
+msgstr "Добавен Шуанюан XLVI"
+
+msgid "Xuanyuan Added XLVII"
+msgstr "Добавен Шуанюан XLVII"
+
+msgid "Xuanyuan Added XLVIII"
+msgstr "Добавен Шуанюан XLVIII"
+
+msgid "Xuanyuan Added XLIX"
+msgstr "Добавен Шуанюан XLIX"
+
+msgid "Xuanyuan Added L"
+msgstr "Добавен Шуанюан L"
+
+msgid "Xuanyuan Added LI"
+msgstr "Добавен Шуанюан LI"
+
+msgid "Xuanyuan Added LII"
+msgstr "Добавен Шуанюан LII"
+
+msgid "Xuanyuan Added LIII"
+msgstr "Добавен Шуанюан LIII"
+
+msgid "Xuanyuan Added LIV"
+msgstr "Добавен Шуанюан LIV"
+
+msgid "Xuanyuan Added LV"
+msgstr "Добавен Шуанюан LV"
+
+msgid "Xuanyuan Added LVI"
+msgstr "Добавен Шуанюан LVI"
+
+msgid "Xuanyuan Added LVII"
+msgstr "Добавен Шуанюан LVII"
+
+msgid "Xuanyuan Added LVIII"
+msgstr "Добавен Шуанюан LVIII"
+
+msgid "Xuanyuan Added LIX"
+msgstr "Добавен Шуанюан LIX"
+
+msgid "High Judge I"
+msgstr ""
+
+msgid "High Judge II"
+msgstr ""
+
+msgid "High Judge III"
+msgstr ""
+
+msgid "High Judge IV"
+msgstr ""
+
+msgid "High Judge Added I"
+msgstr ""
+
+msgid "High Judge Added II"
+msgstr ""
+
+msgid "High Judge Added III"
+msgstr ""
+
+msgid "High Judge Added IV"
+msgstr ""
+
+msgid "High Judge Added V"
+msgstr ""
+
+msgid "High Judge Added VI"
+msgstr ""
+
+msgid "High Judge Added VII"
+msgstr ""
+
+msgid "High Judge Added VIII"
+msgstr ""
+
+msgid "High Judge Added IX"
+msgstr ""
+
+msgid "High Judge Added X"
+msgstr ""
+
+msgid "High Judge Added XI"
+msgstr ""
+
+msgid "Extended Net I"
+msgstr "Разширена мрежа I"
+
+msgid "Extended Net II"
+msgstr "Разширена мрежа II"
+
+msgid "Extended Net III"
+msgstr "Разширена мрежа III"
+
+msgid "Extended Net IV"
+msgstr "Разширена мрежа IV"
+
+msgid "Extended Net V"
+msgstr "Разширена мрежа V"
+
+msgid "Extended Net VI"
+msgstr "Разширена мрежа VI"
+
+msgid "Extended Net Added I"
+msgstr "Добавена разширена мрежа I"
+
+msgid "Extended Net Added II"
+msgstr "Добавена разширена мрежа II"
+
+msgid "Extended Net Added III"
+msgstr "Добавена разширена мрежа III"
+
+msgid "Extended Net Added IV"
+msgstr "Добавена разширена мрежа IV"
+
+msgid "Extended Net Added V"
+msgstr "Добавена разширена мрежа V"
+
+msgid "Wings I"
+msgstr "Крила I"
+
+msgid "Wings II"
+msgstr "Крила II"
+
+msgid "Wings III"
+msgstr "Крила III"
+
+msgid "Wings IV"
+msgstr "Крила IV"
+
+msgid "Wings V"
+msgstr "Крила V"
+
+msgid "Wings VI"
+msgstr "Крила VI"
+
+msgid "Wings VII"
+msgstr "Крила VII"
+
+msgid "Wings VIII"
+msgstr "Крила VIII"
+
+msgid "Wings IX"
+msgstr "Крила IX"
+
+msgid "Wings X"
+msgstr "Крила X"
+
+msgid "Wings XI?"
+msgstr "Крила XI?"
+
+msgid "Wings XII"
+msgstr "Крила XII"
+
+msgid "Wings XIII"
+msgstr "Крила XIII"
+
+msgid "Wings XIV"
+msgstr "Крила XIV"
+
+msgid "Wings XVI"
+msgstr "Крила XVI"
+
+msgid "Wings XVII?"
+msgstr "Крила XVII?"
+
+msgid "Wings XX"
+msgstr "Крила XX"
+
+msgid "Wings XXI?"
+msgstr "Крила XXI?"
+
+msgid "Wings Added I"
+msgstr "Добавени крила I"
+
+msgid "Wings Added II"
+msgstr "Добавени крила II"
+
+msgid "Wings Added III"
+msgstr "Добавени крила III"
+
+msgid "Wings Added IV"
+msgstr "Добавени крила IV"
+
+msgid "Wings Added V"
+msgstr "Добавени крила V"
+
+msgid "Wings Added VI"
+msgstr "Добавени крила VI"
+
+msgid "Wings Added VII"
+msgstr "Добавени крила VII"
+
+msgid "Chariot I"
+msgstr "Колесница I"
+
+msgid "Chariot II"
+msgstr "Колесница II"
+
+msgid "Chariot III"
+msgstr "Колесница III"
+
+msgid "Chariot IV"
+msgstr "Колесница IV"
+
+msgid "Chariot Added I"
+msgstr "Добавена колесница I"
+
+msgid "Chariot Added II"
+msgstr "Добавена колесница II"
+
+msgid "Chariot Added III"
+msgstr "Добавена колесница III"
+
+msgid "Chariot Added IV"
+msgstr "Добавена колесница IV"
+
+msgid "Chariot Added V"
+msgstr "Добавена колесница V"
+
+msgid "Right linchpin"
+msgstr ""
+
+msgid "Left linchpin"
+msgstr ""
+
+msgid "Changsha"
+msgstr ""
+
+msgid "Green Hill I"
+msgstr "Зелен хълм I"
+
+msgid "Green Hill II"
+msgstr "Зелен хълм II"
+
+msgid "Green Hill III"
+msgstr "Зелен хълм III"
+
+msgid "Green Hill IV"
+msgstr "Зелен хълм IV"
+
+msgid "Green Hill V"
+msgstr "Зелен хълм V"
+
+msgid "Green Hill VI"
+msgstr "Зелен хълм VI"
+
+msgid "Green Hill VII"
+msgstr "Зелен хълм VII"
+
+msgid "Green Hill Added I"
+msgstr "Добавен зелен хълм I"
+
+msgid "Green Hill Added II"
+msgstr "Добавен зелен хълм II"
+
+msgid "Green Hill Added III*"
+msgstr ""
+
+msgid "Sea and Mountain I"
+msgstr "Море и планина I"
+
+msgid "Sea and Mountain IV*"
+msgstr "Море и планина IV*"
+
+msgid "Sea and Mountain V"
+msgstr "Море и планина V"
+
+msgid "Sea and Mountain VI"
+msgstr "Море и планина VI"
+
+msgid "Sea and Mountain Added I"
+msgstr "Добавено море и планина I"
+
+msgid "Sea and Mountain Added II"
+msgstr "Добавено море и планина II"
+
+msgid "Cross I"
+msgstr "Кръст I"
+
+msgid "Cross II"
+msgstr "Кръст II"
+
+msgid "Cross III"
+msgstr "Кръст III"
+
+msgid "Cross IV"
+msgstr "Кръст IV"
+
+msgid "Horse's Tail I"
+msgstr "Конска опашка I"
+
+msgid "Horse's Tail II"
+msgstr "Конска опашка II"
+
+msgid "Horse's Tail III"
+msgstr "Конска опашка III"
+
+msgid "Horse's Abdomen I"
+msgstr "Конски корем I"
+
+msgid "Horse's Abdomen II?"
+msgstr "Конски корем II?"
+
+msgid "Bee I"
+msgstr "Пчела I"
+
+msgid "Bee II*"
+msgstr "Пчела II*"
+
+msgid "Bee III"
+msgstr "Пчела III"
+
+msgid "Bee IV*"
+msgstr "Пчела IV*"
+
+msgid "Triangle I"
+msgstr "Триъгълник I"
+
+msgid "Triangle II"
+msgstr "Триъгълник II"
+
+msgid "Triangle III"
+msgstr "Триъгълник III"
+
+msgid "Triangle Added I"
+msgstr "Добавен триъгълник I"
+
+msgid "Triangle Added II"
+msgstr "Добавен триъгълник II"
+
+msgid "Triangle Added III"
+msgstr "Добавен триъгълник III"
+
+msgid "Triangle Added IV"
+msgstr "Добавен триъгълник IV"
+
+msgid "Exotic Bird I"
+msgstr "Екзотична птица I"
+
+msgid "Exotic Bird II"
+msgstr "Екзотична птица II"
+
+msgid "Exotic Bird III"
+msgstr "Екзотична птица III"
+
+msgid "Exotic Bird IV"
+msgstr "Екзотична птица IV"
+
+msgid "Exotic Bird V"
+msgstr "Екзотична птица V"
+
+msgid "Exotic Bird VI"
+msgstr "Екзотична птица VI"
+
+msgid "Exotic Bird VII"
+msgstr "Екзотична птица VII"
+
+msgid "Exotic Bird VIII"
+msgstr "Екзотична птица VIII"
+
+msgid "Exotic Bird IX"
+msgstr "Екзотична птица IX"
+
+msgid "Peafowl I"
+msgstr "Паун I"
+
+msgid "Peafowl II"
+msgstr "Паун II"
+
+msgid "Peafowl III"
+msgstr "Паун III"
+
+msgid "Peafowl IV"
+msgstr "Паун IV"
+
+msgid "Peafowl V"
+msgstr "Паун V"
+
+msgid "Peafowl VI"
+msgstr "Паун VI"
+
+msgid "Peafowl VII"
+msgstr "Паун VII"
+
+msgid "Peafowl VIII"
+msgstr "Паун VIII"
+
+msgid "Peafowl IX"
+msgstr "Паун IX"
+
+msgid "Peafowl X"
+msgstr "Паун X"
+
+msgid "Peafowl XI"
+msgstr "Паун XI"
+
+msgid "Peafowl Added I"
+msgstr "Добавен паун I"
+
+msgid "Peafowl Added II"
+msgstr "Добавен паун II"
+
+msgid "Peafowl Added III"
+msgstr "Добавен паун III"
+
+msgid "Peafowl Added IV"
+msgstr "Добавен паун IV"
+
+msgid "Persia I?"
+msgstr "Персия I?"
+
+msgid "Persia II"
+msgstr "Персия II"
+
+msgid "Persia IV*"
+msgstr "Персия IV*"
+
+msgid "Persia VI?"
+msgstr "Персия VI?"
+
+msgid "Persia VII*"
+msgstr "Персия VII*"
+
+msgid "Persia IX?"
+msgstr "Персия IX?"
+
+msgid "Persia XI*"
+msgstr "Персия XI*"
+
+msgid "Snake's Tail I"
+msgstr "Змийска опашка I"
+
+msgid "Snake's Tail II"
+msgstr "Змийска опашка II"
+
+msgid "Snake's Tail III"
+msgstr "Змийска опашка III"
+
+msgid "Snake's Tail IV"
+msgstr "Змийска опашка IV"
+
+msgid "Snake's Abdomen I"
+msgstr "Змийски корем I"
+
+msgid "Snake's Abdomen II"
+msgstr "Змийски корем II"
+
+msgid "Snake's Abdomen III"
+msgstr "Змийски корем III"
+
+msgid "Snake's Abdomen IV"
+msgstr "Змийски корем IV"
+
+msgid "Snake's Head I"
+msgstr "Змийска глава I"
+
+msgid "Snake's Head II"
+msgstr "Змийска глава II"
+
+msgid "Bird's Beak I"
+msgstr "Птичи клюн I"
+
+msgid "Bird's Beak II"
+msgstr "Птичи клюн II"
+
+msgid "Bird's Beak III"
+msgstr "Птичи клюн III"
+
+msgid "Bird's Beak IV"
+msgstr "Птичи клюн IV"
+
+msgid "Bird's Beak V"
+msgstr "Птичи клюн V"
+
+msgid "Bird's Beak VI"
+msgstr "Птичи клюн VI"
+
+msgid "Bird's Beak VII"
+msgstr "Птичи клюн VII"
+
+msgid "Bird's Beak Added I"
+msgstr "Добавен птичи клюн I"
+
+msgid "Crane I"
+msgstr "Жерав I"
+
+msgid "Crane II"
+msgstr "Жерав II"
+
+msgid "Crane III"
+msgstr "Жерав III"
+
+msgid "Crane IV"
+msgstr "Жерав IV"
+
+msgid "Crane V"
+msgstr "Жерав V"
+
+msgid "Crane VI"
+msgstr "Жерав VI"
+
+msgid "Crane VII"
+msgstr "Жерав VII"
+
+msgid "Crane VIII"
+msgstr "Жерав VIII"
+
+msgid "Crane IX"
+msgstr "Жерав IX"
+
+msgid "Crane X"
+msgstr "Жерав X"
+
+msgid "Crane XI"
+msgstr "Жерав XI"
+
+msgid "Crane XII"
+msgstr "Жерав XII"
+
+msgid "Crane Added I"
+msgstr "Добавен жерав I"
+
+msgid "Crane Added II"
+msgstr "Добавен жерав II"
+
+msgid "Firebird I"
+msgstr "Жар птица I"
+
+msgid "Firebird II"
+msgstr "Жар птица II"
+
+msgid "Firebird III"
+msgstr "Жар птица III"
+
+msgid "Firebird IV"
+msgstr "Жар птица IV"
+
+msgid "Firebird V"
+msgstr "Жар птица V"
+
+msgid "Firebird VI"
+msgstr "Жар птица VI"
+
+msgid "Firebird VII"
+msgstr "Жар птица VII"
+
+msgid "Firebird VIII"
+msgstr "Жар птица VIII"
+
+msgid "Firebird IX"
+msgstr "Жар птица IX"
+
+msgid "Firebird X"
+msgstr "Жар птица X"
+
+msgid "Firebird Added I"
+msgstr "Добавена жар птица I"
+
+msgid "Crooked Running Water I"
+msgstr ""
+
+msgid "Crooked Running Water II"
+msgstr ""
+
+msgid "Crooked Running Water III"
+msgstr ""
+
+msgid "White Patched Nearby I"
+msgstr ""
+
+msgid "White Patched Nearby II"
+msgstr ""
+
+msgid "White Patches Attached I"
+msgstr ""
+
+msgid "White Patches Attached II"
+msgstr ""
+
+msgid "Goldfish I"
+msgstr "Златна рибка I"
+
+msgid "Goldfish II"
+msgstr "Златна рибка II"
+
+msgid "Goldfish III"
+msgstr "Златна рибка III"
+
+msgid "Goldfish IV"
+msgstr "Златна рибка IV"
+
+msgid "Goldfish V"
+msgstr "Златна рибка V"
+
+msgid "Goldfish Added I"
+msgstr "Добавена златна рибка I"
+
+msgid "Sea Rock I"
+msgstr "Морска скала I"
+
+msgid "Sea Rock II"
+msgstr "Морска скала II"
+
+msgid "Sea Rock III"
+msgstr "Морска скала III"
+
+msgid "Sea Rock IV"
+msgstr "Морска скала IV"
+
+msgid "Sea Rock V"
+msgstr "Морска скала V"
+
+msgid "Sea Rock Added I"
+msgstr "Добавена морска скала I"
+
+msgid "Sea Rock Added II"
+msgstr "Добавена морска скала II"
+
+msgid "Sea Rock Added III"
+msgstr "Добавена морска скала III"
+
+msgid "Flying Fish I"
+msgstr "Летяща риба I"
+
+msgid "Flying Fish II"
+msgstr "Летяща риба II"
+
+msgid "Flying Fish III"
+msgstr "Летяща риба III"
+
+msgid "Flying Fish IV"
+msgstr "Летяща риба IV"
+
+msgid "Flying Fish V"
+msgstr "Летяща риба V"
+
+msgid "Flying Fish VI"
+msgstr "Летяща риба VI"
+
+msgid "Southern Boat I"
+msgstr "Южна лодка I"
+
+msgid "Southern Boat II"
+msgstr "Южна лодка II"
+
+msgid "Southern Boat III"
+msgstr "Южна лодка III"
+
+msgid "Southern Boat IV"
+msgstr "Южна лодка IV"
+
+msgid "Southern Boat V"
+msgstr "Южна лодка V"
+
+msgid "Southern Boat Added I"
+msgstr "Добавена южна лодка I"
+
+msgid "Little Dipper I"
+msgstr "Малък черпак I"
+
+msgid "Little Dipper II"
+msgstr "Малък черпак II"
+
+msgid "Little Dipper III"
+msgstr "Малък черпак III"
+
+msgid "Little Dipper IV"
+msgstr "Малък черпак IV"
+
+msgid "Little Dipper V"
+msgstr "Малък черпак V"
+
+msgid "Little Dipper VI"
+msgstr "Малък черпак VI"
+
+msgid "Little Dipper VII"
+msgstr "Малък черпак VII"
+
+msgid "Little Dipper VIII"
+msgstr "Малък черпак VIII"
+
+msgid "Little Dipper IX"
+msgstr "Малък черпак IX"
+
+msgid "Little Dipper Added I"
+msgstr "Добавен малък черпак I"
+
+msgid "Sculptor"
+msgstr "Скулптор"
+
+msgid "Pyxis"
+msgstr "Компас"
+
+msgid "Caelum"
+msgstr "Длето"
+
+msgid "Chamaeleon"
+msgstr "Хамелеон"
+
+msgid "Carina"
+msgstr "Кил"
+
+msgid "Coma Berenices"
+msgstr "Косите на Вероника"
+
+msgid "Canes Venatici"
+msgstr "Ловджийски кучета"
+
+msgid "Columba"
+msgstr "Гълъб"
+
+msgid "Circinus"
+msgstr "Пергел"
+
+msgid "Crux"
+msgstr "Южен кръст"
+
+msgid "Dorado"
+msgstr "Златна рибка"
+
+msgid "Norma"
+msgstr "Ъгломер"
+
+msgid "Fornax"
+msgstr "Пещ"
+
+msgid "Camelopardalis"
+msgstr "Жираф"
+
+msgid "Grus"
+msgstr "Жерав"
+
+msgid "Horologium"
+msgstr "Часовник"
+
+msgid "Hydrus"
+msgstr "Водна змия"
+
+msgid "Indus"
+msgstr "Индианец"
+
+msgid "Lacerta"
+msgstr "Гущер"
+
+msgid "Monoceros"
+msgstr "Еднорог"
+
+msgid "Lynx"
+msgstr "Рис"
+
+msgid "Antlia"
+msgstr "Помпа"
+
+msgid "Microscopium"
+msgstr "Микроскоп"
+
+msgid "Musca"
+msgstr "Муха"
+
+msgid "Octans"
+msgstr "Октант"
+
+msgid "Apus"
+msgstr "Райска птица"
+
+msgid "Pavo"
+msgstr "Паун"
+
+msgid "Pictor"
+msgstr "Живописец"
+
+msgid "Leo Minor"
+msgstr "Малък лъв"
+
+msgid "Vulpecula"
+msgstr "Малка лисица"
+
+msgid "Phoenix"
+msgstr "Феникс"
+
+msgid "Volans"
+msgstr "Летяща риба"
+
+msgid "Puppis"
+msgstr "Кърма"
+
+msgid "Reticulum"
+msgstr "Мрежичка"
+
+msgid "Scutum"
+msgstr "Щит"
+
+msgid "Sextans"
+msgstr "Секстант"
+
+msgid "Mensa"
+msgstr "Маса"
+
+msgid "Telescopium"
+msgstr "Телескоп"
+
+msgid "Tucana"
+msgstr "Тукан"
+
+msgid "Triangulum Australe"
+msgstr "Южен триъгълник"
+
+msgid "Vela"
+msgstr "Корабни платна"
+
+msgid "Andrews' star"
+msgstr "Звезда на Ѐндрюс"
+
+msgid "Luyten's Star"
+msgstr "Звезда на Лю̀тън"
+
+msgid "Innes' Star"
+msgstr "Звезда на Инѐс"
+
+msgid "Proxima"
+msgstr "Про̀ксима"
+
+msgid "Przybylski's Star"
+msgstr "Звезда на Пшибилски"
+
+msgid "Blaze Star"
+msgstr "Припламваща звезда"
+
+msgid "Campbell's Star"
+msgstr "Звезда на Кембъл"
+
+msgid "Babcock's Star"
+msgstr "Звезда на Ба̀бкок"
+
+msgid "Hind's Crimson Star"
+msgstr "Пурпурна звезда на Хинд"
+
+msgid "Plaskett's Star"
+msgstr "Звезда на Пласкет"
+
+msgid "Red Rectangle"
+msgstr "Червен правоъгълник"
+
+msgid "Polaris Australis"
+msgstr "Южна полярна звезда"
+
+msgid "Barnard's Star"
+msgstr "Звезда на Барнард"
+
+msgid "Kapteyn's Star"
+msgstr "Звезда на Каптейн"
+
+msgid "van Maanen's Star"
+msgstr "Звезда на ван Маа̀нен"
+
+msgid "Vanant"
+msgstr "Ванант"
+
+msgid "The Ruby Star"
+msgstr "Рубинената звезда"
+
+msgid "Lalande 21185"
+msgstr "Лала̀нд 21185"
