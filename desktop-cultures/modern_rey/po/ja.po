@@ -1,0 +1,616 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Josef S, 2023\n"
+"Language-Team: Japanese (https://app.transifex.com/stellarium/teams/80998/"
+"ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+# Sky culture introduction section in markdown format
+msgid ""
+"During the 19th century the use and further editions of richly illustrated "
+"atlases with sumptuously engraved mythological figures fell out of fashion. "
+"The stars of the constellations in atlases of that time started to be shown "
+"connected with line patterns (\"stick figures\"), which however appear "
+"sometimes only to have been used to indicate which stars belong to which "
+"constellation. Over several decades the figures had ceased to resemble the "
+"figures they were named after and appeared incomprehensible to beginning "
+"stargazers in the middle of the 20th century."
+msgstr ""
+"豪華に刻まれた神話の人物が豊かなイラストで描かれた星図の使用と以降の版は19世"
+"紀の間に時代遅れになりました。その時代の星図は星座内の星を線で繋いだパターン"
+"(「棒線画」)で表示され始めましたが、どの星がどの星座に属するかを示すためにの"
+"み使用されたように見えることもあります。数十年に間に棒線画は星座名に似なくな"
+"り、20世紀半ばに星空を見始めた人には理解するのが難しくなりました。"
+
+# Sky culture description section in markdown format
+msgid ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H. A. Rey (Hans "
+"Augusto Reyersbach) (1898-1977), an artist and author of children's books of "
+"German descent but emigrated to the USA, published his answer to this "
+"problem in 1952 with the book *The Stars - A New Way To See Them*[#1][#2].\n"
+"\n"
+"### The Constellations\n"
+"\n"
+"In this book, which has become very popular especially in the US, Rey "
+"connected the stars of every constellation \"in such a way that the "
+"resulting shape makes sense.\" What surprised him was \"that nobody has done "
+"it before. The basic idea is so simple.\"\n"
+"\n"
+"Rey's new stick figures make it indeed very simple to recognize the depicted "
+"constellation figures. Rey's work does not include figurative artwork, "
+"therefore this sky culture deliberately only comes with Rey's original stick "
+"figures. The constellation names were also always given in English by Rey. "
+"If you switch to \"Native\" name display mode, you may see exactly the "
+"spelling used in his book. Also the stars named here are limited to those "
+"included in the book.\n"
+"\n"
+"### Rey's Figures and the Classic Constellations\n"
+"\n"
+"Rey's constellations adhere to the tradition of the Western sky culture and "
+"describes the 88 officially acknowledged constellations, with addition of "
+"asterisms of the two Dippers and the \"Great Square\" (of Pegasus). However, "
+"at several points Rey's figures deviate from the canonical figures described "
+"since Ptolemy's Almagest (2nd century AD), where also positions of the stars "
+"in their constellations had been described in their names. For example,\n"
+"\n"
+" -  Rey inverted the figure of the Great Bear (*Ursa Major*) to look like a "
+"polar bear scenting prey. This on one hand does not have the usual problem "
+"to explain its long tail. On the other hand, the bear is not shown to walk "
+"around the pole in this orientation.\n"
+" - The Bull (*Taurus*), only the front of which is shown with long upright "
+"horns in usual depictions, is shown with a complete body including its tail, "
+"with horns stretched wide like those of a buffalo. Its bright eye "
+"*Aldebaran* now lies in its neck.\n"
+" - The head of *Hercules* is usually next to the head of *Ophiuchus*, the "
+"serpent holder, and the four stars known as \"keystone\" form his body. Rey "
+"makes his head out of the keystone, and the star that usually marks the "
+"hero's head is now one of his feet.\n"
+" - The Whale (*Cetus*) has been turned around, its former mouth now forming "
+"a tail fin.\n"
+" - *Pegasus* exchanged feet and head.\n"
+" - *Bootes*, the herdsman, is shown sitting and smoking a pipe (no trace of "
+"political correctness in a children's book of the 1950s... :-)\n"
+"\n"
+"### External links\n"
+"\n"
+" - [H.A.Rey (Wikipedia)](http://en.wikipedia.org/wiki/H._A._Rey)"
+msgstr ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H.A.レイ(H. A. "
+"Rey、ハンス・アウグスト・レイヤースバッハ(Hans Augusto Reyersbach))"
+"(1898-1977)は、アメリカに移住したドイツ系の子供向けの本のアーティストで作家"
+"だったが、1952年に本「星たち - それらの新しい見方」(*The Stars - A New Way "
+"To See Them*[#1][#2])でこの問題の答えを公表した。\n"
+"\n"
+"### 星座\n"
+"\n"
+"特に米国で非常に人気が出たこの本で、レイは全ての星座の星を「結果として生じる"
+"形が理にかなっているように」つなぎました。彼が驚いたことは「これまで誰もやっ"
+"たことがないということです。基本的な考え方はとてもシンプルです」。\n"
+"\n"
+"レイの新しい棒線画により、描かれた星座の形を簡単に認識することができます。レ"
+"イの作品には形象的な挿絵が含まれていないため、この星の文化には故意にレイのオ"
+"リジナルの棒線画しか付属していません。レイによって星座に英語名で与えられまし"
+"た。星座名の表示を「英名」に切り替えると、彼の本で使用されているスペルが正確"
+"に表示されるでしょう。また星名は、本に含まれているものに限定されています。\n"
+"\n"
+"### レイの星座絵と古典的な星座\n"
+"\n"
+"<p>レイの星座は西洋の星の文化の伝統を守り、88の公式に認められた星座を説明して"
+"います。更に北斗七星、南斗六星とペガススの四辺形を加えました。ただしレイの図"
+"の何点かは、プトレマイオスのアルマゲスト(紀元2世紀)以降に記述された標準的な図"
+"から逸脱しています。(星の名前も同様に星座内の星の位置に記載されました。)例え"
+"ば、 <ul> <li> レイは餌の匂いを嗅ぐホッキョクグマのように大熊(*おおぐま座*)の"
+"姿を反転させました。これは長い尾を説明する一般的なの問題を抱えていませんが、"
+"一方で熊はこの方向で極のまわりを歩き回っていません。</li> <li>雄牛(<em>おうし"
+"座</ em>)は、通常は長く直立した角を持った正面のみが表現されますが、尻尾を含む"
+"完全な体で、角はバッファローのように大きく伸びています。その明るい目<em>アル"
+"デバラン</ em>は首にあります。</li> <li>*ヘラクレス座*の頭は通常*へびつかい座"
+"*(蛇を持つ者)の頭の隣にあり、「キーストーン、要石」(keystone)として知られる4"
+"つの星が彼の体を形作っています。</li> <li>クジラ(<em>くじら座</ em>)は向きを"
+"変え、以前の口は今では尾びれを形成しています。 </li> <li><em>ペガスス座</ em>"
+"は足と頭を交換した。</li> <li><em>うしかい座</ em>は牧夫で、座ってパイプを"
+"吸っているところが示されています（1950年代の児童書には政治的な正しさの痕跡は"
+"ありません... :-) </li> </ul> </p>\n"
+"\n"
+"### 外部リンク\n"
+"\n"
+" - [H.A.Rey (Wikipedia英語版)](http://en.wikipedia.org/wiki/H._A._Rey)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture used to be for a long time an easy user-installable addon "
+"example contributed by Mike Richards. It has been reworked following the "
+"41st reprint and completed with this description by Georg Zotti."
+msgstr ""
+"この星の文化は長い間、Mike Richardsによって提供された、ユーザーが簡単にインス"
+"トールできるアドオンの例でした。これは41版に続いて再編集され、Georg Zottiによ"
+"るこの説明で完了しました。"
+
+msgid "Pleiades"
+msgstr "プレアデス"
+
+msgid "Ursa Minor"
+msgstr "こぐま"
+
+msgid "Ursa Major"
+msgstr "おおぐま"
+
+msgid "Draco"
+msgstr "りゅう"
+
+msgid "Cepheus"
+msgstr "ケフェウス"
+
+msgid "Bootes"
+msgstr "うしかい"
+
+msgid "Corona Borealis"
+msgstr "かんむり"
+
+msgid "Hercules"
+msgstr "ヘルクレス"
+
+msgid "Lyra"
+msgstr "こと"
+
+msgid "Cygnus"
+msgstr "はくちょう"
+
+msgid "Cassiopeia"
+msgstr "カシオペア"
+
+msgid "Perseus"
+msgstr "ペルセウス"
+
+msgid "Auriga"
+msgstr "ぎょしゃ"
+
+msgid "Ophiuchus"
+msgstr "へびつかい"
+
+msgid "Serpens"
+msgstr "へび"
+
+msgid "Sagitta"
+msgstr "や"
+
+msgid "Aquila"
+msgstr "わし"
+
+msgid "Delphinus"
+msgstr "いるか"
+
+msgid "Equuleus"
+msgstr "こうま"
+
+msgid "Pegasus"
+msgstr "ペガスス"
+
+msgid "Andromeda"
+msgstr "アンドロメダ"
+
+msgid "Triangulum"
+msgstr "さんかく"
+
+msgid "Aries"
+msgstr "おひつじ"
+
+msgid "Taurus"
+msgstr "おうし"
+
+msgid "Gemini"
+msgstr "ふたご"
+
+msgid "Cancer"
+msgstr "かに"
+
+msgid "Leo"
+msgstr "しし"
+
+msgid "Virgo"
+msgstr "おとめ"
+
+msgid "Libra"
+msgstr "てんびん"
+
+msgid "Scorpius"
+msgstr "さそり"
+
+msgid "Sagittarius"
+msgstr "いて"
+
+msgid "Capricornus"
+msgstr "やぎ"
+
+msgid "Aquarius"
+msgstr "みずがめ"
+
+msgid "Pisces"
+msgstr "うお"
+
+msgid "Cetus"
+msgstr "くじら"
+
+msgid "Orion"
+msgstr "オリオン"
+
+msgid "Eridanus"
+msgstr "エリダヌス"
+
+msgid "Lepus"
+msgstr "うさぎ"
+
+msgid "Canis Major"
+msgstr "おおいぬ"
+
+msgid "Canis Minor"
+msgstr "こいぬ"
+
+msgid "Hydra"
+msgstr "うみへび"
+
+msgid "Crater"
+msgstr "コップ"
+
+msgid "Corvus"
+msgstr "からす"
+
+msgid "Centaurus"
+msgstr "ケンタウルス"
+
+msgid "Lupus"
+msgstr "おおかみ"
+
+msgid "Ara"
+msgstr "さいだん"
+
+msgid "Corona Australis"
+msgstr "みなみのかんむり"
+
+msgid "Piscis Austrinus"
+msgstr "みなみのうお"
+
+msgid "Procyon"
+msgstr "プロキオン"
+
+msgid "Sirius"
+msgstr "シリウス"
+
+msgid "Arcturus"
+msgstr "アークトゥルス"
+
+msgid "Vega"
+msgstr "ベガ"
+
+msgid "Capella"
+msgstr "カペラ"
+
+msgid "Aldebaran"
+msgstr "アルデバラン"
+
+msgid "Regulus"
+msgstr "レグルス"
+
+msgid "Denebola"
+msgstr "デネボラ"
+
+msgid "Spica"
+msgstr "スピカ"
+
+msgid "Fomalhaut"
+msgstr "フォーマルハウト"
+
+msgid "Betelgeuse"
+msgstr "ベテルギウス"
+
+msgid "Rigel"
+msgstr "リゲル"
+
+msgid "Canopus"
+msgstr "カノープス"
+
+msgid "Achernar"
+msgstr "アケルナル"
+
+msgid "Acrux"
+msgstr "アクルクス"
+
+msgid "Antares"
+msgstr "アンタレス"
+
+msgid "Sculptor"
+msgstr "ちょうこくしつ"
+
+msgid "Pyxis"
+msgstr "らしんばん"
+
+msgid "Caelum"
+msgstr "ちょうこくぐ"
+
+msgid "Chamaeleon"
+msgstr "カメレオン"
+
+msgid "Carina"
+msgstr "りゅうこつ"
+
+msgid "Coma Berenices"
+msgstr "かみのけ"
+
+msgid "Canes Venatici"
+msgstr "りょうけん"
+
+msgid "Columba"
+msgstr "はと"
+
+msgid "Circinus"
+msgstr "コンパス"
+
+msgid "Crux"
+msgstr "みなみじゅうじ"
+
+msgid "Dorado"
+msgstr "かじき"
+
+msgid "Norma"
+msgstr "じょうぎ"
+
+msgid "Fornax"
+msgstr "ろ"
+
+msgid "Camelopardalis"
+msgstr "きりん"
+
+msgid "Grus"
+msgstr "つる"
+
+msgid "Horologium"
+msgstr "とけい"
+
+msgid "Hydrus"
+msgstr "みずへび"
+
+msgid "Indus"
+msgstr "インディアン"
+
+msgid "Lacerta"
+msgstr "とかげ"
+
+msgid "Monoceros"
+msgstr "いっかくじゅう"
+
+msgid "Lynx"
+msgstr "やまねこ"
+
+msgid "Antlia"
+msgstr "ポンプ"
+
+msgid "Microscopium"
+msgstr "けんびきょう"
+
+msgid "Octans"
+msgstr "はちぶんぎ"
+
+msgid "Apus"
+msgstr "ふうちょう"
+
+msgid "Pavo"
+msgstr "くじゃく"
+
+msgid "Pictor"
+msgstr "がか"
+
+msgid "Leo Minor"
+msgstr "こじし"
+
+msgid "Vulpecula"
+msgstr "こぎつね"
+
+msgid "Phoenix"
+msgstr "ほうおう"
+
+msgid "Volans"
+msgstr "とびうお"
+
+msgid "Puppis"
+msgstr "とも"
+
+msgid "Reticulum"
+msgstr "レチクル"
+
+msgid "Scutum"
+msgstr "たて"
+
+msgid "Sextans"
+msgstr "ろくぶんぎ"
+
+msgid "Mensa"
+msgstr "テーブルさん"
+
+msgid "Telescopium"
+msgstr "ぼうえんきょう"
+
+msgid "Tucana"
+msgstr "きょしちょう"
+
+msgid "Triangulum Australe"
+msgstr "みなみのさんかく"
+
+msgid "Vela"
+msgstr "ほ"
+
+msgid "Altair"
+msgstr "アルタイル"
+
+msgid "Cor Caroli"
+msgstr "コルカロリ"
+
+msgid "Mira"
+msgstr "ミラ"
+
+msgid "Gemma"
+msgstr "ゲンマ"
+
+msgid "Deneb"
+msgstr "デネブ"
+
+msgid "Albireo"
+msgstr "アルビレオ"
+
+msgid "Thuban"
+msgstr "ツバン"
+
+msgid "Castor"
+msgstr "カストル"
+
+msgid "Pollux"
+msgstr "ポルックス"
+
+msgid "Alphard"
+msgstr "アルファルド"
+
+msgid "Algol"
+msgstr "アルゴル"
+
+msgid "Mizar"
+msgstr "ミザール"
+
+msgid "Alcor"
+msgstr "アルコル"
+
+msgid "Kochab"
+msgstr "コカブ"
+
+msgid "Guardians"
+msgstr "保護者"
+
+msgid "feet"
+msgstr "足"
+
+msgid "head"
+msgstr "頭"
+
+msgid "tail"
+msgstr "尾"
+
+msgid "Pointers"
+msgstr "指極星(ポインターズ)"
+
+msgid "paws"
+msgstr "足"
+
+msgid "rump"
+msgstr "臀部"
+
+msgid "body"
+msgstr "胴体"
+
+msgid "pipe"
+msgstr "管"
+
+msgid "wing"
+msgstr "翼"
+
+msgid "outstretched neck"
+msgstr "伸びた首"
+
+msgid "Keystone"
+msgstr "かなめ石(キーストーン)"
+
+msgid "club"
+msgstr "こん棒"
+
+msgid "the chain"
+msgstr "鎖"
+
+msgid "horn"
+msgstr "角"
+
+msgid "belt"
+msgstr "ベルト"
+
+msgid "shield"
+msgstr "盾"
+
+msgid "Hydra's head"
+msgstr "うみへびの頭"
+
+msgid "Hydra's tail"
+msgstr "うみへびの尾"
+
+msgid "bill"
+msgstr "くちばし"
+
+msgid "foot"
+msgstr "足"
+
+msgid "arm"
+msgstr "腕"
+
+msgid "cat's eyes"
+msgstr "キャッツアイ"
+
+msgid "claws"
+msgstr "はさみ"
+
+msgid "skirt"
+msgstr "すそ"
+
+msgid "the bow"
+msgstr "弓"
+
+msgid "vessel"
+msgstr "器"
+
+msgid "Knot"
+msgstr "結び目"
+
+msgid "Northern Fish"
+msgstr "北のうお"
+
+msgid "Western Fish"
+msgstr "西のうお"
+
+msgid "figurehead"
+msgstr "船首像"
+
+msgid "transom"
+msgstr "船尾"
+
+msgid "front legs"
+msgstr "前脚"
+
+msgid "hind legs"
+msgstr "後ろ脚"
+
+msgid "ears"
+msgstr "両耳"
+
+msgid "Fly"
+msgstr "蝿"
+
+msgid "eyes"
+msgstr "目"
+
+msgid "Pole Star"
+msgstr "北極星"
+
+msgid "Tau Ceti"
+msgstr "くじら座τ"
+
+msgid "Alpha Centauri"
+msgstr "アルファ・ケンタウリ"
+
+msgid "Beta Centauri"
+msgstr "ベータ・ケンタウリ"

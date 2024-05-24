@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Gediminas Tauras, 2024\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "Moderni (H.A. Rey)"
+
+msgid "Pleiades"
+msgstr "Sietynas"
+
+msgid "Ursa Minor"
+msgstr "Mažieji Grįžulo Ratai"
+
+msgid "Ursa Major"
+msgstr "Didieji Grįžulo Ratai"
+
+msgid "Draco"
+msgstr "Slibinas"
+
+msgid "Cepheus"
+msgstr "Cefėjas"
+
+msgid "Bootes"
+msgstr "Jaučiaganis"
+
+msgid "Corona Borealis"
+msgstr "Šiaurės Vainikas"
+
+msgid "Hercules"
+msgstr "Heraklis"
+
+msgid "Lyra"
+msgstr "Lyra"
+
+msgid "Cygnus"
+msgstr "Gulbė"
+
+msgid "Cassiopeia"
+msgstr "Kasiopėja"
+
+msgid "Perseus"
+msgstr "Persėjas"
+
+msgid "Auriga"
+msgstr "Vežėjas"
+
+msgid "Ophiuchus"
+msgstr "Gyvatnešis"
+
+msgid "Serpens"
+msgstr "Gyvatė"
+
+msgid "Sagitta"
+msgstr "Strėlė"
+
+msgid "Aquila"
+msgstr "Erelis"
+
+msgid "Delphinus"
+msgstr "Delfinas"
+
+msgid "Equuleus"
+msgstr "Žirgelis"
+
+msgid "Pegasus"
+msgstr "Pegasas"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Trikampis"
+
+msgid "Aries"
+msgstr "Avinas"
+
+msgid "Taurus"
+msgstr "Jautis"
+
+msgid "Gemini"
+msgstr "Dvyniai"
+
+msgid "Cancer"
+msgstr "Vėžys"
+
+msgid "Leo"
+msgstr "Liūtas"
+
+msgid "Virgo"
+msgstr "Mergelė"
+
+msgid "Libra"
+msgstr "Svarstyklės"
+
+msgid "Scorpius"
+msgstr "Skorpionas"
+
+msgid "Sagittarius"
+msgstr "Šaulys"
+
+msgid "Capricornus"
+msgstr "Ožiaragis"
+
+msgid "Aquarius"
+msgstr "Vandenis"
+
+msgid "Pisces"
+msgstr "Žuvys"
+
+msgid "Cetus"
+msgstr "Banginis"
+
+msgid "Orion"
+msgstr "Orionas / Šienpjoviai"
+
+msgid "Eridanus"
+msgstr "Eridanas"
+
+msgid "Lepus"
+msgstr "Kiškis"
+
+msgid "Canis Major"
+msgstr "Didysis Šuo"
+
+msgid "Canis Minor"
+msgstr "Mažasis Šuo"
+
+msgid "Hydra"
+msgstr "Hidra"
+
+msgid "Crater"
+msgstr "Taurė"
+
+msgid "Corvus"
+msgstr "Varnas"
+
+msgid "Centaurus"
+msgstr "Kentauras"
+
+msgid "Lupus"
+msgstr "Vilkas"
+
+msgid "Ara"
+msgstr "Aukuras"
+
+msgid "Corona Australis"
+msgstr "Pietinis Vainikas"
+
+msgid "Piscis Austrinus"
+msgstr "Pietinė Žuvis"
+
+msgid "Procyon"
+msgstr "Prokionas"
+
+msgid "Sirius"
+msgstr "Sirijus"
+
+msgid "Arcturus"
+msgstr "Arktūras"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Kapela"
+
+msgid "Aldebaran"
+msgstr "Aldebaranas"
+
+msgid "Regulus"
+msgstr "Regulas"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spika"
+
+msgid "Fomalhaut"
+msgstr "Fomalhautas"
+
+msgid "Betelgeuse"
+msgstr "Betelgeizė"
+
+msgid "Rigel"
+msgstr "Rigelis"
+
+msgid "Canopus"
+msgstr "Kanopas"
+
+msgid "Achernar"
+msgstr "Achernaras"
+
+msgid "Acrux"
+msgstr "Akruksas"
+
+msgid "Antares"
+msgstr "Antaris"
+
+msgid "Sculptor"
+msgstr "Skulptorius"
+
+msgid "Pyxis"
+msgstr "Kompasas"
+
+msgid "Caelum"
+msgstr "Skaptukas"
+
+msgid "Chamaeleon"
+msgstr "Chameleonas"
+
+msgid "Carina"
+msgstr "Laivo Kilis"
+
+msgid "Coma Berenices"
+msgstr "Berenikės Garbanos"
+
+msgid "Canes Venatici"
+msgstr "Skalikai"
+
+msgid "Columba"
+msgstr "Balandis"
+
+msgid "Circinus"
+msgstr "Skriestuvas"
+
+msgid "Crux"
+msgstr "Kryžius"
+
+msgid "Dorado"
+msgstr "Aukso Žuvis"
+
+msgid "Norma"
+msgstr "Kampainis"
+
+msgid "Fornax"
+msgstr "Krosnis"
+
+msgid "Camelopardalis"
+msgstr "Žirafa"
+
+msgid "Grus"
+msgstr "Gervė"
+
+msgid "Horologium"
+msgstr "Laikrodis"
+
+msgid "Hydrus"
+msgstr "Pietinė Hidra"
+
+msgid "Indus"
+msgstr "Indėnas"
+
+msgid "Lacerta"
+msgstr "Driežas"
+
+msgid "Monoceros"
+msgstr "Vienaragis"
+
+msgid "Lynx"
+msgstr "Lūšis"
+
+msgid "Antlia"
+msgstr "Siurblys"
+
+msgid "Microscopium"
+msgstr "Mikroskopas"
+
+msgid "Octans"
+msgstr "Oktantas"
+
+msgid "Apus"
+msgstr "Rojaus Paukštis"
+
+msgid "Pavo"
+msgstr "Povas"
+
+msgid "Pictor"
+msgstr "Tapytojas"
+
+msgid "Leo Minor"
+msgstr "Mažasis liūtas"
+
+msgid "Vulpecula"
+msgstr "Laputė"
+
+msgid "Phoenix"
+msgstr "Feniksas"
+
+msgid "Volans"
+msgstr "Skraidančioji Žuvis"
+
+msgid "Puppis"
+msgstr "Laivagalis"
+
+msgid "Reticulum"
+msgstr "Tinklelis"
+
+msgid "Scutum"
+msgstr "Skydas"
+
+msgid "Sextans"
+msgstr "Sekstantas"
+
+msgid "Mensa"
+msgstr "Stalkalnis"
+
+msgid "Telescopium"
+msgstr "Teleskopas"
+
+msgid "Tucana"
+msgstr "Tukana"
+
+msgid "Triangulum Australe"
+msgstr "Pietinis Trikampis"
+
+msgid "Vela"
+msgstr "Burės"
+
+msgid "Altair"
+msgstr "Altayras"
+
+msgid "Cor Caroli"
+msgstr "Karolio Širdis"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr ""
+
+msgid "Deneb"
+msgstr "Denebas"
+
+msgid "Albireo"
+msgstr "Albirėjas"
+
+msgid "Thuban"
+msgstr ""
+
+msgid "Castor"
+msgstr "Kastoras"
+
+msgid "Pollux"
+msgstr "Poluksas"
+
+msgid "Alphard"
+msgstr "Alfardas"
+
+msgid "Algol"
+msgstr "Algolis"
+
+msgid "Mizar"
+msgstr "Micaras"
+
+msgid "Alcor"
+msgstr "Alkoras"
+
+msgid "Kochab"
+msgstr ""
+
+msgid "Guardians"
+msgstr "Sargybiniai"
+
+msgid "feet"
+msgstr "pėdos"
+
+msgid "head"
+msgstr "galva"
+
+msgid "tail"
+msgstr "uodega"
+
+msgid "Pointers"
+msgstr "Rodyklės"
+
+msgid "paws"
+msgstr "pėdos"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "kūnas"
+
+msgid "pipe"
+msgstr "vamzdis"
+
+msgid "wing"
+msgstr "sparnas"
+
+msgid "outstretched neck"
+msgstr "ištiestas kaklas"
+
+msgid "Keystone"
+msgstr ""
+
+msgid "club"
+msgstr ""
+
+msgid "the chain"
+msgstr ""
+
+msgid "horn"
+msgstr ""
+
+msgid "belt"
+msgstr "diržas"
+
+msgid "shield"
+msgstr "skydas"
+
+msgid "Hydra's head"
+msgstr "Hidros galva"
+
+msgid "Hydra's tail"
+msgstr "Hidros uodega"
+
+msgid "bill"
+msgstr "sąskaita"
+
+msgid "foot"
+msgstr "pėda"
+
+msgid "arm"
+msgstr "ranka"
+
+msgid "cat's eyes"
+msgstr "katės akys"
+
+msgid "claws"
+msgstr "nagai"
+
+msgid "skirt"
+msgstr "sijonas"
+
+msgid "the bow"
+msgstr "lankas"
+
+msgid "vessel"
+msgstr "laivas"
+
+msgid "Knot"
+msgstr "Mazgas"
+
+msgid "Northern Fish"
+msgstr "Šiaurės žuvis"
+
+msgid "Western Fish"
+msgstr "Vakarų žuvis"
+
+msgid "figurehead"
+msgstr ""
+
+msgid "transom"
+msgstr ""
+
+msgid "front legs"
+msgstr ""
+
+msgid "hind legs"
+msgstr ""
+
+msgid "ears"
+msgstr "ausys"
+
+msgid "Fly"
+msgstr "Musė"
+
+msgid "eyes"
+msgstr "akys"
+
+msgid "Pole Star"
+msgstr ""
+
+msgid "Tau Ceti"
+msgstr "Tau Banginio"
+
+msgid "Alpha Centauri"
+msgstr "Alfa Kentauro"
+
+msgid "Beta Centauri"
+msgstr "Beta Kentauro"

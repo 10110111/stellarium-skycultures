@@ -1,0 +1,631 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ilpo Kantonen, 2024\n"
+"Language-Team: Finnish (https://app.transifex.com/stellarium/teams/80998/"
+"fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "Moderni (H.A. Rey)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"During the 19th century the use and further editions of richly illustrated "
+"atlases with sumptuously engraved mythological figures fell out of fashion. "
+"The stars of the constellations in atlases of that time started to be shown "
+"connected with line patterns (\"stick figures\"), which however appear "
+"sometimes only to have been used to indicate which stars belong to which "
+"constellation. Over several decades the figures had ceased to resemble the "
+"figures they were named after and appeared incomprehensible to beginning "
+"stargazers in the middle of the 20th century."
+msgstr ""
+"1800-luvun aikana runsailla kuvitetuilla, ylellisesti kaiverretuilla "
+"mytologisilla hahmoilla varustettujen kartastojen käyttö ja myöhemmät "
+"julkaisut menivät pois muodista. Tähdistöjen tähdet alettiin tuolloisissa "
+"kartastoissa esittää viivakuvioiden (\"tikkukuvioiden\") yhteydessä, joita "
+"on kuitenkin joskus käytetty vain osoittamaan, mitkä tähdet kuuluvat "
+"mihinkin tähtikuvioon. Figuurit olivat useiden vuosikymmenten aikana "
+"lakanneet muistuttamasta hahmoja, joiden mukaan ne oli nimetty, ja ne "
+"näyttivät 1900-luvun puolivälissä aloitteleville tähtitutkijoille "
+"käsittämättömiltä."
+
+# Sky culture description section in markdown format
+msgid ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H. A. Rey (Hans "
+"Augusto Reyersbach) (1898-1977), an artist and author of children's books of "
+"German descent but emigrated to the USA, published his answer to this "
+"problem in 1952 with the book *The Stars - A New Way To See Them*[#1][#2].\n"
+"\n"
+"### The Constellations\n"
+"\n"
+"In this book, which has become very popular especially in the US, Rey "
+"connected the stars of every constellation \"in such a way that the "
+"resulting shape makes sense.\" What surprised him was \"that nobody has done "
+"it before. The basic idea is so simple.\"\n"
+"\n"
+"Rey's new stick figures make it indeed very simple to recognize the depicted "
+"constellation figures. Rey's work does not include figurative artwork, "
+"therefore this sky culture deliberately only comes with Rey's original stick "
+"figures. The constellation names were also always given in English by Rey. "
+"If you switch to \"Native\" name display mode, you may see exactly the "
+"spelling used in his book. Also the stars named here are limited to those "
+"included in the book.\n"
+"\n"
+"### Rey's Figures and the Classic Constellations\n"
+"\n"
+"Rey's constellations adhere to the tradition of the Western sky culture and "
+"describes the 88 officially acknowledged constellations, with addition of "
+"asterisms of the two Dippers and the \"Great Square\" (of Pegasus). However, "
+"at several points Rey's figures deviate from the canonical figures described "
+"since Ptolemy's Almagest (2nd century AD), where also positions of the stars "
+"in their constellations had been described in their names. For example,\n"
+"\n"
+" -  Rey inverted the figure of the Great Bear (*Ursa Major*) to look like a "
+"polar bear scenting prey. This on one hand does not have the usual problem "
+"to explain its long tail. On the other hand, the bear is not shown to walk "
+"around the pole in this orientation.\n"
+" - The Bull (*Taurus*), only the front of which is shown with long upright "
+"horns in usual depictions, is shown with a complete body including its tail, "
+"with horns stretched wide like those of a buffalo. Its bright eye "
+"*Aldebaran* now lies in its neck.\n"
+" - The head of *Hercules* is usually next to the head of *Ophiuchus*, the "
+"serpent holder, and the four stars known as \"keystone\" form his body. Rey "
+"makes his head out of the keystone, and the star that usually marks the "
+"hero's head is now one of his feet.\n"
+" - The Whale (*Cetus*) has been turned around, its former mouth now forming "
+"a tail fin.\n"
+" - *Pegasus* exchanged feet and head.\n"
+" - *Bootes*, the herdsman, is shown sitting and smoking a pipe (no trace of "
+"political correctness in a children's book of the 1950s... :-)\n"
+"\n"
+"### External links\n"
+"\n"
+" - [H.A.Rey (Wikipedia)](http://en.wikipedia.org/wiki/H._A._Rey)"
+msgstr ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H. A. Rey (Hans "
+"Augusto Reyersbach) (1898-1977), saksalaista syntyperää oleva, mutta "
+"Yhdysvaltoihin muuttanut taiteilija ja lastenkirjojen kirjoittaja, julkaisi "
+"vastauksensa tähän ongelmaan vuonna 1952 kirjalla *The Stars - A New Way To "
+"See Them*[#1][#2].\n"
+"\n"
+"### Tähtikuviot\n"
+"\n"
+"Tässä kirjassa, josta on tullut erittäin suosittu erityisesti "
+"Yhdysvalloissa, Rey yhdisti jokaisen tähdistön tähdet \"sillä tavalla, että "
+"tuloksena oleva muoto on järkevä\". Häntä yllätti, \"että kukaan ei ole "
+"tehnyt sitä aiemmin. Perusidea on niin yksinkertainen.\"\n"
+"\n"
+"Reyn uusien tikkuhahmojen ansiosta kuvatut tähdistöhahmot on todella helppo "
+"tunnistaa. Reyn työ ei sisällä figuratiivista taidetta, joten tämä "
+"taivaskulttuuri tulee tarkoituksella vain Reyn alkuperäisten tikkuhahmojen "
+"mukana. Myös Rey antoi tähdistöjen nimet aina englanniksi. Jos vaihdat "
+"alkuperäisen nimen näyttötilaan, saatat nähdä täsmälleen hänen kirjassaan "
+"käytetyn oikeinkirjoituksen. Myös tässä nimetyt tähdet rajoittuvat kirjaan "
+"sisältyviin.\n"
+"\n"
+"### Reyn hahmot ja klassiset tähtikuviot\n"
+"\n"
+"Reyn tähtikuviot noudattavat länsimaisen taivaskulttuurin perinnettä ja "
+"kuvaavat 88 virallisesti tunnustettua tähtikuviota, joihin on lisätty kahden "
+"Dipperin ja \"Suuren aukion\" (Pegasuksen) tähtimerkit. Kuitenkin useissa "
+"kohdissa Reyn hahmot poikkeavat kanonisista hahmoista, joita on kuvattu "
+"Ptolemaioksen Almagestin (2. vuosisadalla jKr.) jälkeen, jossa myös tähtien "
+"paikat niiden tähtikuvioissa oli kuvattu niiden nimissä. Esimerkiksi,\n"
+"\n"
+" -  Rey käänsi Suuren Karhun hahmon ylösalaisin (*Iso Karhu*) näyttääkseen "
+"kuin jääkarhulta tuoksuvalta saalilta. Tällä ei toisaalta ole tavallista "
+"ongelmaa selittää sen pitkää häntää. Toisaalta karhua ei näytetä kävelevän "
+"tangon ympäri tässä suunnassa.\n"
+" - Härkä (*Taurus*), jonka vain etuosa on esitetty tavanomaisissa kuvissa "
+"pitkillä pystysarvilla, on esitetty täydellisenä vartalona, hännänneen, "
+"sarvet venytettyinä leveäksi kuin puhvelilla. Sen kirkas silmä *Aldebaran* "
+"nyt sijaitsee sen kaulassa.\n"
+" -  *Herkuleksen* pää on yleensä *Käärmeenkantajan* pään vieressä, käärmeen "
+"kantaja ja neljä tähteä, jotka tunnetaan nimellä \"keystone\", muodostavat "
+"hänen ruumiinsa. Rey nostaa päänsä pääkivestä, ja tähti, joka yleensä "
+"merkitsee sankarin päätä, on nyt yksi hänen jaloistaan.\n"
+" - Valas (*Valaskala*) on käännetty ympäri, sen entinen suu muodostaa nyt "
+"häntäevän.\n"
+" - *Pegasus* vaihtoi jalat ja pään.\n"
+" - *Karhunvartija*, paimen, esitetään istumassa ja polttamassa piippua (ei "
+"jälkeäkään poliittisesta korrektiudesta 1950-luvun lastenkirjassa... :-)\n"
+"\n"
+"### Ulkoiset linkit\n"
+"\n"
+" - [H.A.Rey (Wikipedia)](http://en.wikipedia.org/wiki/H._A._Rey)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture used to be for a long time an easy user-installable addon "
+"example contributed by Mike Richards. It has been reworked following the "
+"41st reprint and completed with this description by Georg Zotti."
+msgstr ""
+"Tämä taivaskulttuuri oli pitkään Mike Richardsin toimittama esimerkki "
+"helposti asennettavasta lisäosasta. Se on muokattu 41. uusintapainoksen "
+"jälkeen ja täydennetty tällä Georg Zotin kuvauksella."
+
+msgid "Pleiades"
+msgstr "Seulaset (Plejadit)"
+
+msgid "Ursa Minor"
+msgstr "Pieni karhu"
+
+msgid "Ursa Major"
+msgstr "Iso karhu"
+
+msgid "Draco"
+msgstr "Lohikäärme"
+
+msgid "Cepheus"
+msgstr "Kefeus"
+
+msgid "Bootes"
+msgstr "Karhunvartija"
+
+msgid "Corona Borealis"
+msgstr "Pohjan kruunu"
+
+msgid "Hercules"
+msgstr "Herkules"
+
+msgid "Lyra"
+msgstr "Lyyra"
+
+msgid "Cygnus"
+msgstr "Joutsen"
+
+msgid "Cassiopeia"
+msgstr "Kassiopeia"
+
+msgid "Perseus"
+msgstr "Perseus"
+
+msgid "Auriga"
+msgstr "Ajomies"
+
+msgid "Ophiuchus"
+msgstr "Käärmeenkantaja"
+
+msgid "Serpens"
+msgstr "Käärme"
+
+msgid "Sagitta"
+msgstr "Nuoli"
+
+msgid "Aquila"
+msgstr "Kotka"
+
+msgid "Delphinus"
+msgstr "Delfiini"
+
+msgid "Equuleus"
+msgstr "Pieni hevonen"
+
+msgid "Pegasus"
+msgstr "Pegasus"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Kolmio"
+
+msgid "Aries"
+msgstr "Oinas"
+
+msgid "Taurus"
+msgstr "Härkä"
+
+msgid "Gemini"
+msgstr "Kaksoset"
+
+msgid "Cancer"
+msgstr "Krapu"
+
+msgid "Leo"
+msgstr "Leijona"
+
+msgid "Virgo"
+msgstr "Neitsyt"
+
+msgid "Libra"
+msgstr "Vaaka"
+
+msgid "Scorpius"
+msgstr "Skorpioni"
+
+msgid "Sagittarius"
+msgstr "Jousimies"
+
+msgid "Capricornus"
+msgstr "Kauris"
+
+msgid "Aquarius"
+msgstr "Vesimies"
+
+msgid "Pisces"
+msgstr "Kalat"
+
+msgid "Cetus"
+msgstr "Valaskala"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Eridanus"
+
+msgid "Lepus"
+msgstr "Jänis"
+
+msgid "Canis Major"
+msgstr "Iso koira"
+
+msgid "Canis Minor"
+msgstr "Pieni koira"
+
+msgid "Hydra"
+msgstr "Vesikäärme"
+
+msgid "Crater"
+msgstr "Malja"
+
+msgid "Corvus"
+msgstr "Korppi"
+
+msgid "Centaurus"
+msgstr "Kentauri"
+
+msgid "Lupus"
+msgstr "Susi"
+
+msgid "Ara"
+msgstr "Alttari"
+
+msgid "Corona Australis"
+msgstr "Etelän kruunu"
+
+msgid "Piscis Austrinus"
+msgstr "Etelän kala"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Sirius"
+msgstr "Sirius"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Kuvanveistäjä"
+
+msgid "Pyxis"
+msgstr "Kompassi"
+
+msgid "Caelum"
+msgstr "Veistotaltta"
+
+msgid "Chamaeleon"
+msgstr "Kameleontti"
+
+msgid "Carina"
+msgstr "Köli"
+
+msgid "Coma Berenices"
+msgstr "Bereniken hiukset"
+
+msgid "Canes Venatici"
+msgstr "Ajokoirat"
+
+msgid "Columba"
+msgstr "Kyyhkynen"
+
+msgid "Circinus"
+msgstr "Harppi"
+
+msgid "Crux"
+msgstr "Etelän risti"
+
+msgid "Dorado"
+msgstr "Kultakala"
+
+msgid "Norma"
+msgstr "Kulmaviivoitin"
+
+msgid "Fornax"
+msgstr "Sulatusuuni"
+
+msgid "Camelopardalis"
+msgstr "Kirahvi"
+
+msgid "Grus"
+msgstr "Kurki"
+
+msgid "Horologium"
+msgstr "Heilurikello"
+
+msgid "Hydrus"
+msgstr "Etelän vesikäärme"
+
+msgid "Indus"
+msgstr "Intiaani"
+
+msgid "Lacerta"
+msgstr "Sisilisko"
+
+msgid "Monoceros"
+msgstr "Yksisarvinen"
+
+msgid "Lynx"
+msgstr "Ilves"
+
+msgid "Antlia"
+msgstr "Ilmapumppu"
+
+msgid "Microscopium"
+msgstr "Mikroskooppi"
+
+msgid "Octans"
+msgstr "Oktantti"
+
+msgid "Apus"
+msgstr "Paratiisilintu"
+
+msgid "Pavo"
+msgstr "Riikinkukko"
+
+msgid "Pictor"
+msgstr "Maalari"
+
+msgid "Leo Minor"
+msgstr "Pieni leijona"
+
+msgid "Vulpecula"
+msgstr "Kettu"
+
+msgid "Phoenix"
+msgstr "Feeniks"
+
+msgid "Volans"
+msgstr "Lentokala"
+
+msgid "Puppis"
+msgstr "Peräkeula"
+
+msgid "Reticulum"
+msgstr "Verkko"
+
+msgid "Scutum"
+msgstr "Kilpi"
+
+msgid "Sextans"
+msgstr "Sekstantti"
+
+msgid "Mensa"
+msgstr "Pöytävuori"
+
+msgid "Telescopium"
+msgstr "Kaukoputki"
+
+msgid "Tucana"
+msgstr "Tukaani"
+
+msgid "Triangulum Australe"
+msgstr "Etelän kolmio"
+
+msgid "Vela"
+msgstr "Purje"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr "Gemma"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr "Vartijat"
+
+msgid "feet"
+msgstr "Jalat"
+
+msgid "head"
+msgstr "Pää"
+
+msgid "tail"
+msgstr "Häntä"
+
+msgid "Pointers"
+msgstr "Osoittimet"
+
+msgid "paws"
+msgstr "Käpälät"
+
+msgid "rump"
+msgstr "lantio"
+
+msgid "body"
+msgstr "Ruumis"
+
+msgid "pipe"
+msgstr "Piippu"
+
+msgid "wing"
+msgstr "Siipi"
+
+msgid "outstretched neck"
+msgstr "Ojennettu kaula"
+
+msgid "Keystone"
+msgstr "Päätekivi"
+
+msgid "club"
+msgstr "Nuija"
+
+msgid "the chain"
+msgstr "Kahle"
+
+msgid "horn"
+msgstr "Sarvi"
+
+msgid "belt"
+msgstr "Vyö"
+
+msgid "shield"
+msgstr "Kilpi"
+
+msgid "Hydra's head"
+msgstr "Vesikäärmeen pää"
+
+msgid "Hydra's tail"
+msgstr "Vesikäärmeen häntä"
+
+msgid "bill"
+msgstr "Nokka"
+
+msgid "foot"
+msgstr "Jalka"
+
+msgid "arm"
+msgstr "Käsivarsi"
+
+msgid "cat's eyes"
+msgstr "Kissan silmät"
+
+msgid "claws"
+msgstr "Sakset"
+
+msgid "skirt"
+msgstr "Helma"
+
+msgid "the bow"
+msgstr "Jousi"
+
+msgid "vessel"
+msgstr "Astia"
+
+msgid "Knot"
+msgstr "Solmu"
+
+msgid "Northern Fish"
+msgstr "Pohjoinen kala"
+
+msgid "Western Fish"
+msgstr "Läntinen kala"
+
+msgid "figurehead"
+msgstr "Keulakuva"
+
+msgid "transom"
+msgstr "Peräpeili"
+
+msgid "front legs"
+msgstr "Etujalat"
+
+msgid "hind legs"
+msgstr "Takajalat"
+
+msgid "ears"
+msgstr "Korvat"
+
+msgid "Fly"
+msgstr "Kärpänen"
+
+msgid "eyes"
+msgstr "Silmät"
+
+msgid "Pole Star"
+msgstr "Pohjantähti"
+
+msgid "Tau Ceti"
+msgstr "Tau Valaskalan"
+
+msgid "Alpha Centauri"
+msgstr "Alfa Kentauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Kentauri"

@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Translator, 2022\n"
+"Language-Team: Slovenian (https://app.transifex.com/stellarium/teams/80998/"
+"sl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "Plejade"
+
+msgid "Ursa Minor"
+msgstr "Mali medved"
+
+msgid "Ursa Major"
+msgstr "Veliki medved"
+
+msgid "Draco"
+msgstr "Zmaj"
+
+msgid "Cepheus"
+msgstr "Kefej"
+
+msgid "Bootes"
+msgstr "Volar"
+
+msgid "Corona Borealis"
+msgstr "Severna krona"
+
+msgid "Hercules"
+msgstr "Herkul"
+
+msgid "Lyra"
+msgstr "Lira"
+
+msgid "Cygnus"
+msgstr "Labod"
+
+msgid "Cassiopeia"
+msgstr "Kasiopeja"
+
+msgid "Perseus"
+msgstr "Perzej"
+
+msgid "Auriga"
+msgstr "Voznik"
+
+msgid "Ophiuchus"
+msgstr "Kačenosec"
+
+msgid "Serpens"
+msgstr "Kača"
+
+msgid "Sagitta"
+msgstr "Puščica"
+
+msgid "Aquila"
+msgstr "Orel"
+
+msgid "Delphinus"
+msgstr "Delfin"
+
+msgid "Equuleus"
+msgstr "Žrebe"
+
+msgid "Pegasus"
+msgstr "Pegaz"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Trikotnik"
+
+msgid "Aries"
+msgstr "Oven"
+
+msgid "Taurus"
+msgstr "Bik"
+
+msgid "Gemini"
+msgstr "Dvojčka"
+
+msgid "Cancer"
+msgstr "Rak"
+
+msgid "Leo"
+msgstr "Lev"
+
+msgid "Virgo"
+msgstr "Devica"
+
+msgid "Libra"
+msgstr "Tehtnica"
+
+msgid "Scorpius"
+msgstr "Škorpion"
+
+msgid "Sagittarius"
+msgstr "Strelec"
+
+msgid "Capricornus"
+msgstr "Kozorog"
+
+msgid "Aquarius"
+msgstr "Vodnar"
+
+msgid "Pisces"
+msgstr "Ribi"
+
+msgid "Cetus"
+msgstr "Kit"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Eridan"
+
+msgid "Lepus"
+msgstr "Zajec"
+
+msgid "Canis Major"
+msgstr "Veliki pes"
+
+msgid "Canis Minor"
+msgstr "Mali pes"
+
+msgid "Hydra"
+msgstr "Povodna kača"
+
+msgid "Crater"
+msgstr "Čaša"
+
+msgid "Corvus"
+msgstr "Krokar"
+
+msgid "Centaurus"
+msgstr "Kentaver"
+
+msgid "Lupus"
+msgstr "Volk"
+
+msgid "Ara"
+msgstr "Oltar"
+
+msgid "Corona Australis"
+msgstr "Južna krona"
+
+msgid "Piscis Austrinus"
+msgstr "Južna riba"
+
+msgid "Procyon"
+msgstr "Prokijon"
+
+msgid "Sirius"
+msgstr "Sirij"
+
+msgid "Arcturus"
+msgstr "Arktur"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Kapela"
+
+msgid "Aldebaran"
+msgstr ""
+
+msgid "Regulus"
+msgstr "Regul"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spika"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeza"
+
+msgid "Rigel"
+msgstr ""
+
+msgid "Canopus"
+msgstr ""
+
+msgid "Achernar"
+msgstr ""
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Kipar"
+
+msgid "Pyxis"
+msgstr "Kompas"
+
+msgid "Caelum"
+msgstr "Dleto"
+
+msgid "Chamaeleon"
+msgstr "Kameleon"
+
+msgid "Carina"
+msgstr "Gredelj"
+
+msgid "Coma Berenices"
+msgstr "Berenikini kodri"
+
+msgid "Canes Venatici"
+msgstr "Lovska psa"
+
+msgid "Columba"
+msgstr "Golob"
+
+msgid "Circinus"
+msgstr "Šestilo"
+
+msgid "Crux"
+msgstr "Južni križ"
+
+msgid "Dorado"
+msgstr "Zlata ribica"
+
+msgid "Norma"
+msgstr "Kotomer"
+
+msgid "Fornax"
+msgstr "Peč"
+
+msgid "Camelopardalis"
+msgstr "Žirafa"
+
+msgid "Grus"
+msgstr "Žerjav"
+
+msgid "Horologium"
+msgstr "Ura"
+
+msgid "Hydrus"
+msgstr "Povodni kačur"
+
+msgid "Indus"
+msgstr "Indijanec"
+
+msgid "Lacerta"
+msgstr "Kuščar"
+
+msgid "Monoceros"
+msgstr "Enorog"
+
+msgid "Lynx"
+msgstr "Ris"
+
+msgid "Antlia"
+msgstr "Zračna črpalka"
+
+msgid "Microscopium"
+msgstr "Mikroskop"
+
+msgid "Octans"
+msgstr "Oktant"
+
+msgid "Apus"
+msgstr "Rajska ptica"
+
+msgid "Pavo"
+msgstr "Pav"
+
+msgid "Pictor"
+msgstr "Slikar"
+
+msgid "Leo Minor"
+msgstr "Mali lev"
+
+msgid "Vulpecula"
+msgstr "Lisička"
+
+msgid "Phoenix"
+msgstr "Feniks"
+
+msgid "Volans"
+msgstr "Leteča riba"
+
+msgid "Puppis"
+msgstr "Krma"
+
+msgid "Reticulum"
+msgstr "Mrežica"
+
+msgid "Scutum"
+msgstr "Ščit"
+
+msgid "Sextans"
+msgstr "Sekstant"
+
+msgid "Mensa"
+msgstr "Miza"
+
+msgid "Telescopium"
+msgstr "Teleskop"
+
+msgid "Tucana"
+msgstr "Tukan"
+
+msgid "Triangulum Australe"
+msgstr "Južni trikotnik"
+
+msgid "Vela"
+msgstr "Jadra"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Karlovo srce"
+
+msgid "Mira"
+msgstr ""
+
+msgid "Gemma"
+msgstr ""
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr ""
+
+msgid "Pollux"
+msgstr ""
+
+msgid "Alphard"
+msgstr ""
+
+msgid "Algol"
+msgstr ""
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr ""
+
+msgid "Kochab"
+msgstr ""
+
+msgid "Guardians"
+msgstr ""
+
+msgid "feet"
+msgstr ""
+
+msgid "head"
+msgstr ""
+
+msgid "tail"
+msgstr ""
+
+msgid "Pointers"
+msgstr ""
+
+msgid "paws"
+msgstr ""
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr ""
+
+msgid "pipe"
+msgstr ""
+
+msgid "wing"
+msgstr ""
+
+msgid "outstretched neck"
+msgstr ""
+
+msgid "Keystone"
+msgstr ""
+
+msgid "club"
+msgstr ""
+
+msgid "the chain"
+msgstr ""
+
+msgid "horn"
+msgstr ""
+
+msgid "belt"
+msgstr ""
+
+msgid "shield"
+msgstr ""
+
+msgid "Hydra's head"
+msgstr ""
+
+msgid "Hydra's tail"
+msgstr ""
+
+msgid "bill"
+msgstr ""
+
+msgid "foot"
+msgstr ""
+
+msgid "arm"
+msgstr ""
+
+msgid "cat's eyes"
+msgstr ""
+
+msgid "claws"
+msgstr ""
+
+msgid "skirt"
+msgstr ""
+
+msgid "the bow"
+msgstr ""
+
+msgid "vessel"
+msgstr ""
+
+msgid "Knot"
+msgstr "Vozel"
+
+msgid "Northern Fish"
+msgstr "Severna riba"
+
+msgid "Western Fish"
+msgstr "Zahodna riba"
+
+msgid "figurehead"
+msgstr "Marioneta"
+
+msgid "transom"
+msgstr "Zrcalo"
+
+msgid "front legs"
+msgstr "Sprednje noge"
+
+msgid "hind legs"
+msgstr "Zadnje noge"
+
+msgid "ears"
+msgstr "Ušesa"
+
+msgid "Fly"
+msgstr "Muha"
+
+msgid "eyes"
+msgstr "Oči"
+
+msgid "Pole Star"
+msgstr "Severnica"
+
+msgid "Tau Ceti"
+msgstr "Tau Kita"
+
+msgid "Alpha Centauri"
+msgstr "Alfa Kentavra"
+
+msgid "Beta Centauri"
+msgstr "Beta Kentavra"

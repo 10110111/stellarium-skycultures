@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Vietnamese (https://app.transifex.com/stellarium/teams/80998/"
+"vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "Nhóm thất tinh (Pleiades)"
+
+msgid "Ursa Minor"
+msgstr "Tiểu Hùng"
+
+msgid "Ursa Major"
+msgstr "Đại Hùng"
+
+msgid "Draco"
+msgstr "Thiên Long"
+
+msgid "Cepheus"
+msgstr "Tiên Vương"
+
+msgid "Bootes"
+msgstr "Mục Phu"
+
+msgid "Corona Borealis"
+msgstr "Bắc Miện"
+
+msgid "Hercules"
+msgstr "Dũng Sĩ Hercules"
+
+msgid "Lyra"
+msgstr "Thiên Cầm"
+
+msgid "Cygnus"
+msgstr "Thiên Nga"
+
+msgid "Cassiopeia"
+msgstr "Tiên Hậu"
+
+msgid "Perseus"
+msgstr "Anh Tiên"
+
+msgid "Auriga"
+msgstr "Ngự Phu"
+
+msgid "Ophiuchus"
+msgstr "Xà Phu"
+
+msgid "Serpens"
+msgstr "Cự Xà"
+
+msgid "Sagitta"
+msgstr "Thiên Tiễn"
+
+msgid "Aquila"
+msgstr "Thiên Ưng"
+
+msgid "Delphinus"
+msgstr "Cá Heo"
+
+msgid "Equuleus"
+msgstr "Tiểu Mã"
+
+msgid "Pegasus"
+msgstr "Phi Mã"
+
+msgid "Andromeda"
+msgstr "Tiên Nữ"
+
+msgid "Triangulum"
+msgstr "Tam Giác"
+
+msgid "Aries"
+msgstr "Bạch Dương"
+
+msgid "Taurus"
+msgstr "Kim Ngưu"
+
+msgid "Gemini"
+msgstr "Song Tử"
+
+msgid "Cancer"
+msgstr "Cự Giải"
+
+msgid "Leo"
+msgstr "Sư Tử"
+
+msgid "Virgo"
+msgstr "Xử Nữ"
+
+msgid "Libra"
+msgstr "Thiên Bình"
+
+msgid "Scorpius"
+msgstr "Bò Cạp"
+
+msgid "Sagittarius"
+msgstr "Nhân Mã"
+
+msgid "Capricornus"
+msgstr "Ma Kết"
+
+msgid "Aquarius"
+msgstr "Bảo Bình"
+
+msgid "Pisces"
+msgstr "Song Ngư"
+
+msgid "Cetus"
+msgstr "Kình Ngư"
+
+msgid "Orion"
+msgstr "Thợ Săn Orion"
+
+msgid "Eridanus"
+msgstr "Sông Cái"
+
+msgid "Lepus"
+msgstr "Thiên Thố"
+
+msgid "Canis Major"
+msgstr "Đại Khuyển"
+
+msgid "Canis Minor"
+msgstr "Tiểu Khuyển"
+
+msgid "Hydra"
+msgstr "Trường Xà"
+
+msgid "Crater"
+msgstr "Cự Tước"
+
+msgid "Corvus"
+msgstr "Ô Nha"
+
+msgid "Centaurus"
+msgstr "Bán Nhân Mã"
+
+msgid "Lupus"
+msgstr "Chó Sói"
+
+msgid "Ara"
+msgstr "Đàn Tế"
+
+msgid "Corona Australis"
+msgstr "Nam Miện"
+
+msgid "Piscis Austrinus"
+msgstr "Nam Ngư"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Sirius"
+msgstr "Thiên Lang (Sirius)"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Chức Nữ (Vega)"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Ngọc Phu"
+
+msgid "Pyxis"
+msgstr "La Bàn"
+
+msgid "Caelum"
+msgstr "Điêu Cụ"
+
+msgid "Chamaeleon"
+msgstr "Tắc Kè"
+
+msgid "Carina"
+msgstr "Đáy Thuyền"
+
+msgid "Coma Berenices"
+msgstr "Tóc Tiên"
+
+msgid "Canes Venatici"
+msgstr "Chó Săn"
+
+msgid "Columba"
+msgstr "Thiên Cáp"
+
+msgid "Circinus"
+msgstr "Viên Quy"
+
+msgid "Crux"
+msgstr "Nam Tào"
+
+msgid "Dorado"
+msgstr "Kiếm Ngư"
+
+msgid "Norma"
+msgstr "Thước Thợ"
+
+msgid "Fornax"
+msgstr "Lò Luyện"
+
+msgid "Camelopardalis"
+msgstr "Hươu Cao Cổ"
+
+msgid "Grus"
+msgstr "Thiên Hạc"
+
+msgid "Horologium"
+msgstr "Đồng Hồ"
+
+msgid "Hydrus"
+msgstr "Thủy Xà"
+
+msgid "Indus"
+msgstr "Anh-điêng"
+
+msgid "Lacerta"
+msgstr "Thằn Lằn"
+
+msgid "Monoceros"
+msgstr "Kỳ Lân"
+
+msgid "Lynx"
+msgstr "Linh Miêu"
+
+msgid "Antlia"
+msgstr "Máy bơm"
+
+msgid "Microscopium"
+msgstr "Kính Hiển Vi"
+
+msgid "Octans"
+msgstr "Kính Bát Phân"
+
+msgid "Apus"
+msgstr "Thiên Yến"
+
+msgid "Pavo"
+msgstr "Khổng Tước"
+
+msgid "Pictor"
+msgstr "Giá Vẽ"
+
+msgid "Leo Minor"
+msgstr "Sư Tử Nhỏ"
+
+msgid "Vulpecula"
+msgstr "Hồ Ly"
+
+msgid "Phoenix"
+msgstr "Phượng Hoàng"
+
+msgid "Volans"
+msgstr "Cá Chuồn"
+
+msgid "Puppis"
+msgstr "Đuôi thuyền"
+
+msgid "Reticulum"
+msgstr "Mắt lưới"
+
+msgid "Scutum"
+msgstr "Lá Chắn"
+
+msgid "Sextans"
+msgstr "Kính Lục Phân"
+
+msgid "Mensa"
+msgstr "Sơn Án"
+
+msgid "Telescopium"
+msgstr "Kính Viễn Vọng"
+
+msgid "Tucana"
+msgstr "Đỗ Quyên"
+
+msgid "Triangulum Australe"
+msgstr "Tam Giác Phương Nam"
+
+msgid "Vela"
+msgstr "Thuyền Phàm"
+
+msgid "Altair"
+msgstr "Ngưu Lang (Altair)"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr "Mầm"
+
+msgid "Deneb"
+msgstr "Thiên Tân"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Ngôi sao quỷ"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr "Guardians"
+
+msgid "feet"
+msgstr "bàn chân"
+
+msgid "head"
+msgstr "đầu"
+
+msgid "tail"
+msgstr "đuôi"
+
+msgid "Pointers"
+msgstr "Pointers"
+
+msgid "paws"
+msgstr "Vuốt"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "thân"
+
+msgid "pipe"
+msgstr "ống dẫn"
+
+msgid "wing"
+msgstr "cánh"
+
+msgid "outstretched neck"
+msgstr "cổ rộng"
+
+msgid "Keystone"
+msgstr "Keystone"
+
+msgid "club"
+msgstr "club"
+
+msgid "the chain"
+msgstr "dây chuỗi"
+
+msgid "horn"
+msgstr "Sừng"
+
+msgid "belt"
+msgstr "Thắt Lưng"
+
+msgid "shield"
+msgstr "lá chắn"
+
+msgid "Hydra's head"
+msgstr "đầu của Hydra"
+
+msgid "Hydra's tail"
+msgstr "đuôi của Hydra"
+
+msgid "bill"
+msgstr "Mũi Neo"
+
+msgid "foot"
+msgstr "Chân"
+
+msgid "arm"
+msgstr "Cánh tay"
+
+msgid "cat's eyes"
+msgstr "Mắt mèo"
+
+msgid "claws"
+msgstr "claws"
+
+msgid "skirt"
+msgstr "váy"
+
+msgid "the bow"
+msgstr "cung tên"
+
+msgid "vessel"
+msgstr "chiếc thuyền"
+
+msgid "Knot"
+msgstr "Nút thắt"
+
+msgid "Northern Fish"
+msgstr "Cá phương bắc"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "bù nhìn"
+
+msgid "transom"
+msgstr "cửa sổ con"
+
+msgid "front legs"
+msgstr "chân trước"
+
+msgid "hind legs"
+msgstr "chân sau"
+
+msgid "ears"
+msgstr "đôi tai"
+
+msgid "Fly"
+msgstr "Bay"
+
+msgid "eyes"
+msgstr "Đôi mắt"
+
+msgid "Pole Star"
+msgstr "Sao Cực"
+
+msgid "Tau Ceti"
+msgstr "Tau Ceti"
+
+msgid "Alpha Centauri"
+msgstr "Alpha Centauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Centauri"

@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Gaelic, Scottish (https://app.transifex.com/stellarium/"
+"teams/80998/gd/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gd\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "Na Seachd-Reultan"
+
+msgid "Ursa Minor"
+msgstr "An Seachdaran no Am Mathan Beag (Ursa Minor)"
+
+msgid "Ursa Major"
+msgstr "An Crann-arain no Am Mathan Mòr (Ursa Major)"
+
+msgid "Draco"
+msgstr "An Dràgon (Draco)"
+
+msgid "Cepheus"
+msgstr "Cepheus"
+
+msgid "Bootes"
+msgstr "Am Buachaille (Boötes)"
+
+msgid "Corona Borealis"
+msgstr "Crùn a Tuath (Corona Borealis)"
+
+msgid "Hercules"
+msgstr "Iorcall (Hercules)"
+
+msgid "Lyra"
+msgstr "A’ Chruit (Lyra)"
+
+msgid "Cygnus"
+msgstr "An Eala no A’ Chrois Tuath (Cygnus)"
+
+msgid "Cassiopeia"
+msgstr "A’ Chathair (Cassiopeia)"
+
+msgid "Perseus"
+msgstr "Làmh a’ Chlaidheimh (Perseus)"
+
+msgid "Auriga"
+msgstr "An t-Ara (Auriga)"
+
+msgid "Ophiuchus"
+msgstr "An Giùlanair-nathrach (Ophiuchus)"
+
+msgid "Serpens"
+msgstr "An Nathair (Serpens)"
+
+msgid "Sagitta"
+msgstr "An t-Saighead (Sagitta)"
+
+msgid "Aquila"
+msgstr "An Iolair (Aquila)"
+
+msgid "Delphinus"
+msgstr "An Leumadair-mara (Delphinus)"
+
+msgid "Equuleus"
+msgstr "An t-Each Beag (Equuleus)"
+
+msgid "Pegasus"
+msgstr "Pegasus"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "An Trì-chearnag (Triangulum)"
+
+msgid "Aries"
+msgstr "An Reithe (Aries)"
+
+msgid "Taurus"
+msgstr "An Tarbh (Taurus)"
+
+msgid "Gemini"
+msgstr "An Dà Leth-aon no Gaolag is Gràdhag na Caiginn (Gemini)"
+
+msgid "Cancer"
+msgstr "Am Partan (Cancer)"
+
+msgid "Leo"
+msgstr "An Leòmhann (Leo)"
+
+msgid "Virgo"
+msgstr "An Òigh (Virgo)"
+
+msgid "Libra"
+msgstr "A’ Mheidh (Libra)"
+
+msgid "Scorpius"
+msgstr "An Sgairp (Scorpius)"
+
+msgid "Sagittarius"
+msgstr "An Saighdear (Sagittarius)"
+
+msgid "Capricornus"
+msgstr "An Gobhar (Capricornus)"
+
+msgid "Aquarius"
+msgstr "An Giùlanair Uisge (Aquarius)"
+
+msgid "Pisces"
+msgstr "Na h-Èisg (Pisces)"
+
+msgid "Cetus"
+msgstr "A’ Mhuc (Cetus)"
+
+msgid "Orion"
+msgstr "An Sealgair-Mòr (Orion)"
+
+msgid "Eridanus"
+msgstr "An Abhainn (Eridanus)"
+
+msgid "Lepus"
+msgstr "A’ Mhaigheach (Lepus)"
+
+msgid "Canis Major"
+msgstr "An Cù Mòr (Canis Major)"
+
+msgid "Canis Minor"
+msgstr "An Cù Beag (Canis Minor)"
+
+msgid "Hydra"
+msgstr "An Nathair-uisge (Hydra)"
+
+msgid "Crater"
+msgstr "A’ Chuach (Crater)"
+
+msgid "Corvus"
+msgstr "An Fheannag (Corvus)"
+
+msgid "Centaurus"
+msgstr "Centaurus"
+
+msgid "Lupus"
+msgstr "Am Madadh-allaidh (Lupus)"
+
+msgid "Ara"
+msgstr "An Altair (Ara)"
+
+msgid "Corona Australis"
+msgstr "Crùn a Deas (Corona Australis)"
+
+msgid "Piscis Austrinus"
+msgstr "Iasg a Deas (Piscis Austrinus)"
+
+msgid "Procyon"
+msgstr "Ruaill Bheag (Procyon)"
+
+msgid "Sirius"
+msgstr "Reul an Iuchair (Sirius)"
+
+msgid "Arcturus"
+msgstr "Siarag (Arcturus)"
+
+msgid "Vega"
+msgstr "Sgleòdhag"
+
+msgid "Capella"
+msgstr "Gobhar Beag (Capella)"
+
+msgid "Aldebaran"
+msgstr ""
+
+msgid "Regulus"
+msgstr "Riagal"
+
+msgid "Denebola"
+msgstr ""
+
+msgid "Spica"
+msgstr ""
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr ""
+
+msgid "Rigel"
+msgstr ""
+
+msgid "Canopus"
+msgstr ""
+
+msgid "Achernar"
+msgstr ""
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Falachag"
+
+msgid "Sculptor"
+msgstr "An Deilbhear"
+
+msgid "Pyxis"
+msgstr "A’ Chairt-iùil (Pyxis)"
+
+msgid "Caelum"
+msgstr "A’ Ghilb (Caelum)"
+
+msgid "Chamaeleon"
+msgstr "Chamaeleon"
+
+msgid "Carina"
+msgstr "An Druim Luinge (Carina)"
+
+msgid "Coma Berenices"
+msgstr "Falt Berenice (Coma Berenices)"
+
+msgid "Canes Venatici"
+msgstr "Na Coin-seilge (Canes Venatici)"
+
+msgid "Columba"
+msgstr "An Calman (Columba)"
+
+msgid "Circinus"
+msgstr "Na Combaistean (Circinus)"
+
+msgid "Crux"
+msgstr "Crois a Deas (Crux)"
+
+msgid "Dorado"
+msgstr "An t-Iasg-claidheimh (Dorado)"
+
+msgid "Norma"
+msgstr "An Riaghailt (Norma)"
+
+msgid "Fornax"
+msgstr "An Fhùirneis (Fornax)"
+
+msgid "Camelopardalis"
+msgstr "An Sioraf (Camelopardalis)"
+
+msgid "Grus"
+msgstr "A’ Chorra-mhonaidh (Grus)"
+
+msgid "Horologium"
+msgstr "An t-Uaireadair (Horologium)"
+
+msgid "Hydrus"
+msgstr "An Nathair Beag (Hydrus)"
+
+msgid "Indus"
+msgstr "An t-Innseanach (Indus)"
+
+msgid "Lacerta"
+msgstr "An Laghairt (Lacerta)"
+
+msgid "Monoceros"
+msgstr "An t-Aon-adharcach (Monoceros)"
+
+msgid "Lynx"
+msgstr "An Lincs (Lynx)"
+
+msgid "Antlia"
+msgstr "An Taosgair (Antlia)"
+
+msgid "Microscopium"
+msgstr "A’ Ghlainne-mheudachaidh (Microscopium)"
+
+msgid "Octans"
+msgstr "An t-Ochdamhan (Octans)"
+
+msgid "Apus"
+msgstr "Eun Phàrrais (Apus)"
+
+msgid "Pavo"
+msgstr "A’ Pheucag (Pavo)"
+
+msgid "Pictor"
+msgstr "Am Peantair (Pictor)"
+
+msgid "Leo Minor"
+msgstr "An Leòmhann Beag (Leo Minor)"
+
+msgid "Vulpecula"
+msgstr "An Sionnach (Vulpecula)"
+
+msgid "Phoenix"
+msgstr "An Tearc-eun (Phoenix)"
+
+msgid "Volans"
+msgstr "An t-Iasg Itealach (Volans)"
+
+msgid "Puppis"
+msgstr "An Deireadh Luinge (Puppis)"
+
+msgid "Reticulum"
+msgstr "An Lìonan (Reticulum)"
+
+msgid "Scutum"
+msgstr "An Sgiath (Scutum)"
+
+msgid "Sextans"
+msgstr "An Siathamhan (Sextans)"
+
+msgid "Mensa"
+msgstr "Am Bòrd (Mensa)"
+
+msgid "Telescopium"
+msgstr "A’ Phrosbaig (Telescopium)"
+
+msgid "Tucana"
+msgstr "An Tùcan (Tucana)"
+
+msgid "Triangulum Australe"
+msgstr "Trì-chearnag a Deas (Triangulum Australe)"
+
+msgid "Vela"
+msgstr "Na Siùil (Vela)"
+
+msgid "Altair"
+msgstr "Leisgeag Ìosal (Altair)"
+
+msgid "Cor Caroli"
+msgstr ""
+
+msgid "Mira"
+msgstr ""
+
+msgid "Gemma"
+msgstr ""
+
+msgid "Deneb"
+msgstr "Leisgeag Àrd (Deneb)"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr ""
+
+msgid "Castor"
+msgstr ""
+
+msgid "Pollux"
+msgstr ""
+
+msgid "Alphard"
+msgstr ""
+
+msgid "Algol"
+msgstr "Reul Deamhnaidh (Algol)"
+
+msgid "Mizar"
+msgstr ""
+
+msgid "Alcor"
+msgstr ""
+
+msgid "Kochab"
+msgstr ""
+
+msgid "Guardians"
+msgstr "Freiceadanan"
+
+msgid "feet"
+msgstr "casan"
+
+msgid "head"
+msgstr "ceann"
+
+msgid "tail"
+msgstr "earball"
+
+msgid "Pointers"
+msgstr ""
+
+msgid "paws"
+msgstr "spògan"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "bodhaig"
+
+msgid "pipe"
+msgstr "pìob"
+
+msgid "wing"
+msgstr "sgiath"
+
+msgid "outstretched neck"
+msgstr ""
+
+msgid "Keystone"
+msgstr ""
+
+msgid "club"
+msgstr "steabhag"
+
+msgid "the chain"
+msgstr ""
+
+msgid "horn"
+msgstr "adharc"
+
+msgid "belt"
+msgstr ""
+
+msgid "shield"
+msgstr "sgiath"
+
+msgid "Hydra's head"
+msgstr "Ceann na Nathrach-uisge"
+
+msgid "Hydra's tail"
+msgstr "Earball na Nathrach-uisge"
+
+msgid "bill"
+msgstr ""
+
+msgid "foot"
+msgstr ""
+
+msgid "arm"
+msgstr "gàirdean"
+
+msgid "cat's eyes"
+msgstr ""
+
+msgid "claws"
+msgstr "spògan"
+
+msgid "skirt"
+msgstr ""
+
+msgid "the bow"
+msgstr ""
+
+msgid "vessel"
+msgstr ""
+
+msgid "Knot"
+msgstr ""
+
+msgid "Northern Fish"
+msgstr ""
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr ""
+
+msgid "transom"
+msgstr ""
+
+msgid "front legs"
+msgstr ""
+
+msgid "hind legs"
+msgstr ""
+
+msgid "ears"
+msgstr ""
+
+msgid "Fly"
+msgstr "Cuileag"
+
+msgid "eyes"
+msgstr "sùilean"
+
+msgid "Pole Star"
+msgstr ""
+
+msgid "Tau Ceti"
+msgstr ""
+
+msgid "Alpha Centauri"
+msgstr "Alpha Centauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Centauri"

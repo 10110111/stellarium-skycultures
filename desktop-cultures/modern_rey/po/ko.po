@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: ysjbserver <ysjbserver@naver.com>, 2023\n"
+"Language-Team: Korean (https://app.transifex.com/stellarium/teams/80998/"
+"ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "현대 (H.A. Rey)"
+
+msgid "Pleiades"
+msgstr "플레이아데스"
+
+msgid "Ursa Minor"
+msgstr "작은곰"
+
+msgid "Ursa Major"
+msgstr "큰곰"
+
+msgid "Draco"
+msgstr "용"
+
+msgid "Cepheus"
+msgstr "세페우스"
+
+msgid "Bootes"
+msgstr "목동"
+
+msgid "Corona Borealis"
+msgstr "북쪽왕관"
+
+msgid "Hercules"
+msgstr "허큘레스"
+
+msgid "Lyra"
+msgstr "거문고"
+
+msgid "Cygnus"
+msgstr "백조"
+
+msgid "Cassiopeia"
+msgstr "카시오페이아"
+
+msgid "Perseus"
+msgstr "페르세우스"
+
+msgid "Auriga"
+msgstr "마차부"
+
+msgid "Ophiuchus"
+msgstr "뱀주인"
+
+msgid "Serpens"
+msgstr "뱀"
+
+msgid "Sagitta"
+msgstr "화살"
+
+msgid "Aquila"
+msgstr "독수리"
+
+msgid "Delphinus"
+msgstr "돌고래"
+
+msgid "Equuleus"
+msgstr "조랑말"
+
+msgid "Pegasus"
+msgstr "페가수스"
+
+msgid "Andromeda"
+msgstr "안드로메다"
+
+msgid "Triangulum"
+msgstr "삼각형"
+
+msgid "Aries"
+msgstr "양자리"
+
+msgid "Taurus"
+msgstr "황소자리"
+
+msgid "Gemini"
+msgstr "쌍둥이자리"
+
+msgid "Cancer"
+msgstr "게자리"
+
+msgid "Leo"
+msgstr "사자자리"
+
+msgid "Virgo"
+msgstr "처녀자리"
+
+msgid "Libra"
+msgstr "천칭자리"
+
+msgid "Scorpius"
+msgstr "전갈자리"
+
+msgid "Sagittarius"
+msgstr "궁수자리"
+
+msgid "Capricornus"
+msgstr "염소자리"
+
+msgid "Aquarius"
+msgstr "물병자리"
+
+msgid "Pisces"
+msgstr "물고기자리"
+
+msgid "Cetus"
+msgstr "고래"
+
+msgid "Orion"
+msgstr "오리온"
+
+msgid "Eridanus"
+msgstr "에리다누스"
+
+msgid "Lepus"
+msgstr "토끼"
+
+msgid "Canis Major"
+msgstr "큰개"
+
+msgid "Canis Minor"
+msgstr "작은개"
+
+msgid "Hydra"
+msgstr "큰물뱀"
+
+msgid "Crater"
+msgstr "컵"
+
+msgid "Corvus"
+msgstr "까마귀"
+
+msgid "Centaurus"
+msgstr "센타우루스"
+
+msgid "Lupus"
+msgstr "이리"
+
+msgid "Ara"
+msgstr "제단"
+
+msgid "Corona Australis"
+msgstr "남쪽왕관"
+
+msgid "Piscis Austrinus"
+msgstr "남쪽물고기"
+
+msgid "Procyon"
+msgstr "프로키온"
+
+msgid "Sirius"
+msgstr "시리우스"
+
+msgid "Arcturus"
+msgstr "아크투루스"
+
+msgid "Vega"
+msgstr "베가"
+
+msgid "Capella"
+msgstr "카펠라"
+
+msgid "Aldebaran"
+msgstr "알데바란"
+
+msgid "Regulus"
+msgstr "레굴루스"
+
+msgid "Denebola"
+msgstr "데네볼라"
+
+msgid "Spica"
+msgstr "스피카"
+
+msgid "Fomalhaut"
+msgstr "포말하우트"
+
+msgid "Betelgeuse"
+msgstr "베텔게우스"
+
+msgid "Rigel"
+msgstr "리겔"
+
+msgid "Canopus"
+msgstr "카노푸스"
+
+msgid "Achernar"
+msgstr "아케르나르"
+
+msgid "Acrux"
+msgstr "아크룩스"
+
+msgid "Antares"
+msgstr "안타레스"
+
+msgid "Sculptor"
+msgstr "조각가"
+
+msgid "Pyxis"
+msgstr "나침반"
+
+msgid "Caelum"
+msgstr "조각칼"
+
+msgid "Chamaeleon"
+msgstr "카멜레온"
+
+msgid "Carina"
+msgstr "용골"
+
+msgid "Coma Berenices"
+msgstr "머리털자리"
+
+msgid "Canes Venatici"
+msgstr "사냥개"
+
+msgid "Columba"
+msgstr "비둘기"
+
+msgid "Circinus"
+msgstr "컴퍼스"
+
+msgid "Crux"
+msgstr "남십자"
+
+msgid "Dorado"
+msgstr "황새치"
+
+msgid "Norma"
+msgstr "직각자"
+
+msgid "Fornax"
+msgstr "화로"
+
+msgid "Camelopardalis"
+msgstr "기린"
+
+msgid "Grus"
+msgstr "두루미"
+
+msgid "Horologium"
+msgstr "시계"
+
+msgid "Hydrus"
+msgstr "물뱀"
+
+msgid "Indus"
+msgstr "인디언"
+
+msgid "Lacerta"
+msgstr "도마뱀"
+
+msgid "Monoceros"
+msgstr "외뿔소"
+
+msgid "Lynx"
+msgstr "살쾡이"
+
+msgid "Antlia"
+msgstr "공기펌프"
+
+msgid "Microscopium"
+msgstr "현미경"
+
+msgid "Octans"
+msgstr "팔분의"
+
+msgid "Apus"
+msgstr "극락조"
+
+msgid "Pavo"
+msgstr "공작"
+
+msgid "Pictor"
+msgstr "화가"
+
+msgid "Leo Minor"
+msgstr "작은사자"
+
+msgid "Vulpecula"
+msgstr "작은여우"
+
+msgid "Phoenix"
+msgstr "불사조"
+
+msgid "Volans"
+msgstr "날치"
+
+msgid "Puppis"
+msgstr "고물"
+
+msgid "Reticulum"
+msgstr "그물"
+
+msgid "Scutum"
+msgstr "방패"
+
+msgid "Sextans"
+msgstr "육분의"
+
+msgid "Mensa"
+msgstr "멘사"
+
+msgid "Telescopium"
+msgstr "망원경"
+
+msgid "Tucana"
+msgstr "큰부리새"
+
+msgid "Triangulum Australe"
+msgstr "남쪽삼각형"
+
+msgid "Vela"
+msgstr "돛"
+
+msgid "Altair"
+msgstr "알타이르 (견우성)"
+
+msgid "Cor Caroli"
+msgstr "코르 카롤리"
+
+msgid "Mira"
+msgstr "미라"
+
+msgid "Gemma"
+msgstr "겜마"
+
+msgid "Deneb"
+msgstr "데네브"
+
+msgid "Albireo"
+msgstr "알비레오"
+
+msgid "Thuban"
+msgstr "투반"
+
+msgid "Castor"
+msgstr "카스토르"
+
+msgid "Pollux"
+msgstr "폴룩스"
+
+msgid "Alphard"
+msgstr "알파드"
+
+msgid "Algol"
+msgstr "알골"
+
+msgid "Mizar"
+msgstr "미자르"
+
+msgid "Alcor"
+msgstr "알코르"
+
+msgid "Kochab"
+msgstr "코카브"
+
+msgid "Guardians"
+msgstr "가디언"
+
+msgid "feet"
+msgstr "발"
+
+msgid "head"
+msgstr "머리"
+
+msgid "tail"
+msgstr "꼬리"
+
+msgid "Pointers"
+msgstr "지극성"
+
+msgid "paws"
+msgstr "발"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "몸통"
+
+msgid "pipe"
+msgstr "관"
+
+msgid "wing"
+msgstr "날개"
+
+msgid "outstretched neck"
+msgstr "늘어난 목"
+
+msgid "Keystone"
+msgstr "쐐기돌"
+
+msgid "club"
+msgstr "곤봉"
+
+msgid "the chain"
+msgstr "사슬"
+
+msgid "horn"
+msgstr "뿔피리"
+
+msgid "belt"
+msgstr "띠"
+
+msgid "shield"
+msgstr "방패"
+
+msgid "Hydra's head"
+msgstr "히드라의 머리"
+
+msgid "Hydra's tail"
+msgstr "히드라의 꼬리"
+
+msgid "bill"
+msgstr "빌"
+
+msgid "foot"
+msgstr "발"
+
+msgid "arm"
+msgstr "팔"
+
+msgid "cat's eyes"
+msgstr "고양이 눈"
+
+msgid "claws"
+msgstr "발톱"
+
+msgid "skirt"
+msgstr "치마"
+
+msgid "the bow"
+msgstr "활"
+
+msgid "vessel"
+msgstr "그릇"
+
+msgid "Knot"
+msgstr "노트"
+
+msgid "Northern Fish"
+msgstr "북쪽 물고기"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "선수상"
+
+msgid "transom"
+msgstr "가로대"
+
+msgid "front legs"
+msgstr "앞다리"
+
+msgid "hind legs"
+msgstr "뒷다리"
+
+msgid "ears"
+msgstr "귀"
+
+msgid "Fly"
+msgstr "파리"
+
+msgid "eyes"
+msgstr "눈"
+
+msgid "Pole Star"
+msgstr "극성"
+
+msgid "Tau Ceti"
+msgstr "고래자리 타우"
+
+msgid "Alpha Centauri"
+msgstr "알파 센타우리"
+
+msgid "Beta Centauri"
+msgstr "베타 센타우리"

@@ -1,0 +1,620 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Bengali (https://app.transifex.com/stellarium/teams/80998/"
+"bn/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "আধুনিক (H.A. Rey)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"During the 19th century the use and further editions of richly illustrated "
+"atlases with sumptuously engraved mythological figures fell out of fashion. "
+"The stars of the constellations in atlases of that time started to be shown "
+"connected with line patterns (\"stick figures\"), which however appear "
+"sometimes only to have been used to indicate which stars belong to which "
+"constellation. Over several decades the figures had ceased to resemble the "
+"figures they were named after and appeared incomprehensible to beginning "
+"stargazers in the middle of the 20th century."
+msgstr ""
+"উনবিংশ শতাব্দীতে মন্ডলের মানচিত্রগুলিতে অঙ্কিত কল্পচিত্রগুলি সেকেলে হয়ে পড়ে । এইসময় "
+"মানচিত্রগুলিতে রেখা দিয়ে তারাগুলি জুড়ে আকৃতি (কল্পরেখা) গঠন চল শুরু হয় । তবে সেগুলি "
+"শুধু তারাদের অবস্থান চিহ্নিত করার কজেই ব্যবহার করা হত । সেগুলির আকার শেষ পর্যন্ত এমন "
+"হয়ে যায় যে নামের সাথে আকৃতির কোনো মিল পাওয়া যায় না এবং বিংশশতকের মাঝের "
+"সময়কালে নবীন নক্ষত্রপ্রেমীদের কাছে সেগুলি অযোক্তিক বলে মনে হয় ।"
+
+# Sky culture description section in markdown format
+msgid ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H. A. Rey (Hans "
+"Augusto Reyersbach) (1898-1977), an artist and author of children's books of "
+"German descent but emigrated to the USA, published his answer to this "
+"problem in 1952 with the book *The Stars - A New Way To See Them*[#1][#2].\n"
+"\n"
+"### The Constellations\n"
+"\n"
+"In this book, which has become very popular especially in the US, Rey "
+"connected the stars of every constellation \"in such a way that the "
+"resulting shape makes sense.\" What surprised him was \"that nobody has done "
+"it before. The basic idea is so simple.\"\n"
+"\n"
+"Rey's new stick figures make it indeed very simple to recognize the depicted "
+"constellation figures. Rey's work does not include figurative artwork, "
+"therefore this sky culture deliberately only comes with Rey's original stick "
+"figures. The constellation names were also always given in English by Rey. "
+"If you switch to \"Native\" name display mode, you may see exactly the "
+"spelling used in his book. Also the stars named here are limited to those "
+"included in the book.\n"
+"\n"
+"### Rey's Figures and the Classic Constellations\n"
+"\n"
+"Rey's constellations adhere to the tradition of the Western sky culture and "
+"describes the 88 officially acknowledged constellations, with addition of "
+"asterisms of the two Dippers and the \"Great Square\" (of Pegasus). However, "
+"at several points Rey's figures deviate from the canonical figures described "
+"since Ptolemy's Almagest (2nd century AD), where also positions of the stars "
+"in their constellations had been described in their names. For example,\n"
+"\n"
+" -  Rey inverted the figure of the Great Bear (*Ursa Major*) to look like a "
+"polar bear scenting prey. This on one hand does not have the usual problem "
+"to explain its long tail. On the other hand, the bear is not shown to walk "
+"around the pole in this orientation.\n"
+" - The Bull (*Taurus*), only the front of which is shown with long upright "
+"horns in usual depictions, is shown with a complete body including its tail, "
+"with horns stretched wide like those of a buffalo. Its bright eye "
+"*Aldebaran* now lies in its neck.\n"
+" - The head of *Hercules* is usually next to the head of *Ophiuchus*, the "
+"serpent holder, and the four stars known as \"keystone\" form his body. Rey "
+"makes his head out of the keystone, and the star that usually marks the "
+"hero's head is now one of his feet.\n"
+" - The Whale (*Cetus*) has been turned around, its former mouth now forming "
+"a tail fin.\n"
+" - *Pegasus* exchanged feet and head.\n"
+" - *Bootes*, the herdsman, is shown sitting and smoking a pipe (no trace of "
+"political correctness in a children's book of the 1950s... :-)\n"
+"\n"
+"### External links\n"
+"\n"
+" - [H.A.Rey (Wikipedia)](http://en.wikipedia.org/wiki/H._A._Rey)"
+msgstr ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H. A. Rey (Hans "
+"Augusto Reyersbach) (1898-1977), একজন বিক্যাত শিল্পী ও ছোটোদের বইয়ের লেখক । "
+"তিনি জন্মসূত্রে জার্মান হলেও পরে আমেরিকায় চলে আসেন । তিনি ১৯৫২ সালে *The Stars - "
+"A New Way To See Them*[#1][#2] বইটি প্রকাশ করেন, যা এই সমস্যার অবসান ঘটায় ।\n"
+"\n"
+"### নক্ষত্রমন্ডল\n"
+"\n"
+"এই বইটি খুব জনপ্রিয় । তিনি মন্ডলের তারাগুলি \"এমনভাবে রেখা দিয়ে জুড়েছিলেন যে, "
+"তাদের আকৃতিই তাদের নামের ব্যাখ্যা করে দেয় \" । তিনি এই ভেবে অবাক হয়েছিলেন যে "
+"\"কাজটি খুব সোজা হওয়া সত্ত্বেও তাঁর আগে কারও চিন্তাতেই আসেনি\" ।\n"
+"\n"
+"তাঁর তৈরী রেখাচিত্রগুলি দেখে মন্ডলগুলি সম্পর্কে খুব সহজেই ধারণা তৈরী করা সম্ভব । তবে "
+"তিনি কোনো কল্পচিত্রের উল্লেখ করেন নি । তাই এখানে তাঁর বইয়ে দেখানো কল্পরেখাগুলিই শুধু "
+"ব্যবহার করা হয়েছে । তিনি নামকরণের ক্ষেত্রে ইংরাজী ব্যবহার করতেন । তাই \"আঞ্চলিক\" "
+"বিকল্প বেছে নিলে বইয়ে ব্যবহৃত আসল নামগুলি দেখানো হবে । তাছাড়া বইয়ে ব্যবহৃত তারাদের "
+"নামগুলিই শুধু ব্যবহার করা হয়েছে ।\n"
+"\n"
+"### Rey প্রবর্তিত আকার ও মন্ডলগুলি\n"
+"\n"
+"তিনি প্রচলিত পশ্চিমী জ্যোতিষের ৮৮টি মন্ডলের সাথে আরও দুটি মন্ডল যোগ করেছেন - "
+"\"বিশাল বর্গ\" (পক্ষীরাজ ঘোড়া মন্ডলের) ও দুটি ঋক্ষমন্ডল । তাঁর রেখাচিত্রগুলি টলেমীর "
+"Almagest (2nd century AD) এর সময় থেকে চলে আসা ব্যাখ্যা থেকে অনেকটা আলাদা । "
+"তাছাড়া এতে থাকা তারাগুলির অবস্থান সম্পর্কেও তিনি ব্যাখ্যা দিয়েছেন । যেমন :\n"
+"\n"
+" -  তিনি *ভল্লুক মন্ডলের* ভল্লুকটিকে উল্টোদিকে কল্পনা করেছেন । এতে ভল্লুকের বিশাল "
+"লেজের প্রচলিত ব্যাখ্যার সমস্যাটি আর থাকে না । তবে এর ফলে ভল্লুকটির মেরু অঞ্চলে ঘুরে "
+"বেড়ানোর প্রতিরূপটি আর প্রকাশ পায় না ।\n"
+" - *বৃষ মন্ডলের* ক্ষেত্রে পুরে ষাঁড়টিকেই দেখানো হয়েছে । এটির শিংদুটি দুদিকে গেছে, "
+"সঙ্গে একটি ছোটো লেজও আছে । তবে এটির চোখ বলে পরিচিত রোহিনী বা *আলদুবরান* "
+"তারাটির অবস্থান ঘাড়ের কাছে দেখানো হয়েছে ।\n"
+" - *হারকিউলিস* এর মাথাটি সচরাচর *অফিউকাস* বা সাপুড়ের মাথার কাছে ধরা হয় এবং "
+"সেখানকার চারটি তারা যা \"মূল অংশ\" নামে পরিচিত সেটি হারকিউলিসের শরীর গঠন করে "
+"। কিন্তু তিনি এই অংশটি হারকিউলিসের মাথা ও আগে যেটি মাথা ছিল সেটি পা হিসাবে "
+"দেখিয়েছেন ।\n"
+" - *তিমিমন্ডল* এর তিমিটিকে পাশাপাশি উল্টানো হয়েছে । আগে যেটি তিমির মুখ ছিল সেটি "
+"এখানে লেজ হিসাবে দেখানো হয়েছে ।\n"
+" - *পক্ষীরাজ ঘোড়ামন্ডলের* ঘোড়ার মাথা ও পা একে অপরের জায়গায় কল্পনা করা হয়েছে ।\n"
+" - *বুওটিস*, পশুপালক মন্ডল, এর পশুপালককে বসে বসে পাইপে করে ধূমপান করা রূপে কল্পনা "
+"করা হয়েছে (যা ১৯৫০ সালের শিশুপাঠ্যে রাখার যৌক্তিকতা নিয়ে প্রশ্ন উঠতে পারে...:-)\n"
+"\n"
+"### বিবিধ\n"
+"\n"
+" - [H.A.Rey (উইকিপিডিয়া)](http://en.wikipedia.org/wiki/H._A._Rey)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture used to be for a long time an easy user-installable addon "
+"example contributed by Mike Richards. It has been reworked following the "
+"41st reprint and completed with this description by Georg Zotti."
+msgstr ""
+"এটি অনেকদিন ধরে অতিরিক্ত হিসাবে স্টেলারীয়ামে আলাদা করে সংযোজন করতে হত । "
+"শেষপর্যন্ত বইটির ৪১তম সংস্করণ অনুযায়ী এটির পুণর্গঠন করে স্টেলারীয়ামে সংযোজন করা "
+"হয়েছে । এটি প্রাথমিক ভাবে প্রস্তুত করেছেন Mike Richards ও বর্ণনা তৈরী করেছেন "
+"Georg Zotti ।"
+
+msgid "Pleiades"
+msgstr "কৃত্তিকা"
+
+msgid "Ursa Minor"
+msgstr "ভল্লুক ছানা"
+
+msgid "Ursa Major"
+msgstr "ভল্লুক"
+
+msgid "Draco"
+msgstr "ড্রাগন"
+
+msgid "Cepheus"
+msgstr "সম্রাট সেফিয়ুস"
+
+msgid "Bootes"
+msgstr "রাখাল"
+
+msgid "Corona Borealis"
+msgstr "উত্তর রাজমুকুট"
+
+msgid "Hercules"
+msgstr "বীর হারকিউলিস"
+
+msgid "Lyra"
+msgstr "বীনা"
+
+msgid "Cygnus"
+msgstr "হাঁস"
+
+msgid "Cassiopeia"
+msgstr "সুন্দরী ক্যাসিওপিয়া"
+
+msgid "Perseus"
+msgstr "যোদ্ধা পার্সিয়ুস"
+
+msgid "Auriga"
+msgstr "সারথী"
+
+msgid "Ophiuchus"
+msgstr "সাপুড়ে"
+
+msgid "Serpens"
+msgstr "সাপ"
+
+msgid "Sagitta"
+msgstr "তীর"
+
+msgid "Aquila"
+msgstr "ঈগল"
+
+msgid "Delphinus"
+msgstr "শুশুক"
+
+msgid "Equuleus"
+msgstr "ছোটো ঘোড়া"
+
+msgid "Pegasus"
+msgstr "পক্ষীরাজ ঘোড়া"
+
+msgid "Andromeda"
+msgstr "সুন্দরী অ্যান্ড্রোমিডা"
+
+msgid "Triangulum"
+msgstr "ত্রিভূজ"
+
+msgid "Aries"
+msgstr "ভেড়া (মেষ)"
+
+msgid "Taurus"
+msgstr "ষাঁড় (বৃষ)"
+
+msgid "Gemini"
+msgstr "যময (মিথুন)"
+
+msgid "Cancer"
+msgstr "কাঁকড়া (কর্কট)"
+
+msgid "Leo"
+msgstr "সিংহ"
+
+msgid "Virgo"
+msgstr "কুমারী (কন্যা)"
+
+msgid "Libra"
+msgstr "দাঁড়িপাল্লা (তুলা)"
+
+msgid "Scorpius"
+msgstr "কাঁকড়া বিছে (বৃশ্চিক)"
+
+msgid "Sagittarius"
+msgstr "তীরন্দাজ (ধনু)"
+
+msgid "Capricornus"
+msgstr "সামুদ্রিক ছাগল (মকর)"
+
+msgid "Aquarius"
+msgstr "জল বাহক (কুম্ভ)"
+
+msgid "Pisces"
+msgstr "মাছ (মীন)"
+
+msgid "Cetus"
+msgstr "তিমি"
+
+msgid "Orion"
+msgstr "কালপুরুষ"
+
+msgid "Eridanus"
+msgstr "এরিডান্যাস নদী"
+
+msgid "Lepus"
+msgstr "খরগোশ"
+
+msgid "Canis Major"
+msgstr "কুকুর"
+
+msgid "Canis Minor"
+msgstr "কুকুর ছানা"
+
+msgid "Hydra"
+msgstr "হাইড্রা (সর্পদৈত্য)"
+
+msgid "Crater"
+msgstr "পেয়ালা"
+
+msgid "Corvus"
+msgstr "কাক"
+
+msgid "Centaurus"
+msgstr "অশ্বমানব"
+
+msgid "Lupus"
+msgstr "নেকড়ে"
+
+msgid "Ara"
+msgstr "যজ্ঞবেদী"
+
+msgid "Corona Australis"
+msgstr "দক্ষিন রাজমুকুট"
+
+msgid "Piscis Austrinus"
+msgstr "দক্ষিন মীন"
+
+msgid "Procyon"
+msgstr "প্রশ্বন"
+
+msgid "Sirius"
+msgstr "সিরিয়াস (লুব্ধক)"
+
+msgid "Arcturus"
+msgstr "আর্কটুরাস (স্বাতী)"
+
+msgid "Vega"
+msgstr "ভেগা (অভিজিত্‍)"
+
+msgid "Capella"
+msgstr "ক্যাপেলা (ব্রহ্মহৃদয়)"
+
+msgid "Aldebaran"
+msgstr "আলদুবরান (রোহিনী)"
+
+msgid "Regulus"
+msgstr "রেগুলাস (মঘা)"
+
+msgid "Denebola"
+msgstr "ডেনেবোনা (উত্তর ফাল্গুনী)"
+
+msgid "Spica"
+msgstr "স্পাইকা (চিত্রা)"
+
+msgid "Fomalhaut"
+msgstr "ফম্যালহট"
+
+msgid "Betelgeuse"
+msgstr "বিটলজিউস (আদ্রা)"
+
+msgid "Rigel"
+msgstr "রাইজেল (বাণরাজা)"
+
+msgid "Canopus"
+msgstr "ক্যানোপাস (অগস্ত্য)"
+
+msgid "Achernar"
+msgstr "আখেরনার"
+
+msgid "Acrux"
+msgstr "ইক্রাক্স (বিশ্বামিত্র)"
+
+msgid "Antares"
+msgstr "আন্টেরিস (জ্যেষ্ঠা)"
+
+msgid "Sculptor"
+msgstr "ভাস্কর"
+
+msgid "Pyxis"
+msgstr "কম্পাস"
+
+msgid "Caelum"
+msgstr "বাটালি"
+
+msgid "Chamaeleon"
+msgstr "গিরগিটি"
+
+msgid "Carina"
+msgstr "ক্যারিনা (জাহাজের তলি)"
+
+msgid "Coma Berenices"
+msgstr "বেরিনিসের কেশমন্ডল"
+
+msgid "Canes Venatici"
+msgstr "শিকারী কুকুর"
+
+msgid "Columba"
+msgstr "ঘুঘু পাখি"
+
+msgid "Circinus"
+msgstr "কাঁটা কম্পাস"
+
+msgid "Crux"
+msgstr "ক্রুশ"
+
+msgid "Dorado"
+msgstr "গোল্ডফিশ"
+
+msgid "Norma"
+msgstr "মাপদন্ড"
+
+msgid "Fornax"
+msgstr "অগ্নিকুণ্ড"
+
+msgid "Camelopardalis"
+msgstr "জিরাফ"
+
+msgid "Grus"
+msgstr "সারস"
+
+msgid "Horologium"
+msgstr "দোলক ঘড়ি"
+
+msgid "Hydrus"
+msgstr "জলসর্প"
+
+msgid "Indus"
+msgstr "আমেরিকার মূল অধিবাসী"
+
+msgid "Lacerta"
+msgstr "টিকটিকি"
+
+msgid "Monoceros"
+msgstr "ইউনিকর্ন (একশৃঙ্গী ঘোড়া)"
+
+msgid "Lynx"
+msgstr "বন বিড়াল"
+
+msgid "Antlia"
+msgstr "পাম্প"
+
+msgid "Microscopium"
+msgstr "অণুবীক্ষন যন্ত্র"
+
+msgid "Octans"
+msgstr "অকট্যান্ট"
+
+msgid "Apus"
+msgstr "স্বর্গপক্ষী"
+
+msgid "Pavo"
+msgstr "ময়ুর"
+
+msgid "Pictor"
+msgstr "চিত্রফলক"
+
+msgid "Leo Minor"
+msgstr "সিংহ শিশু"
+
+msgid "Vulpecula"
+msgstr "শিয়াল"
+
+msgid "Phoenix"
+msgstr "ফিনিক্স পাখি"
+
+msgid "Volans"
+msgstr "উড়ুক্কু মাছ"
+
+msgid "Puppis"
+msgstr "পাপিস (জাহাজের পশ্চাতভাগ)"
+
+msgid "Reticulum"
+msgstr "নিশানা ক্রস"
+
+msgid "Scutum"
+msgstr "ঢাল"
+
+msgid "Sextans"
+msgstr "সেক্সট্যান্ট"
+
+msgid "Mensa"
+msgstr "সমতল পর্বত"
+
+msgid "Telescopium"
+msgstr "দূরবীন"
+
+msgid "Tucana"
+msgstr "টুকান পাখি"
+
+msgid "Triangulum Australe"
+msgstr "দক্ষিনের ত্রিভূজ"
+
+msgid "Vela"
+msgstr "বজরার পাল"
+
+msgid "Altair"
+msgstr "আলটেয়ার (শ্রবণা)"
+
+msgid "Cor Caroli"
+msgstr "কর ক্যারোলি"
+
+msgid "Mira"
+msgstr "মিরা"
+
+msgid "Gemma"
+msgstr "রত্ন"
+
+msgid "Deneb"
+msgstr "ডেনেব"
+
+msgid "Albireo"
+msgstr "অ্যালবেরিও"
+
+msgid "Thuban"
+msgstr "থুবান"
+
+msgid "Castor"
+msgstr "ক্যাস্টর (বিষ্ণুতারা)"
+
+msgid "Pollux"
+msgstr "পোলাক্স (সোমতারা)"
+
+msgid "Alphard"
+msgstr "আলফার্ড"
+
+msgid "Algol"
+msgstr "অ্যালগল"
+
+msgid "Mizar"
+msgstr "মিজার (বশিষ্ঠ)"
+
+msgid "Alcor"
+msgstr "অ্যালকর (অরুন্ধতি)"
+
+msgid "Kochab"
+msgstr "কোখাব"
+
+msgid "Guardians"
+msgstr "রক্ষাকারী"
+
+msgid "feet"
+msgstr "পা"
+
+msgid "head"
+msgstr "মাথা"
+
+msgid "tail"
+msgstr "লেজ"
+
+msgid "Pointers"
+msgstr "মেরু নির্দেশক"
+
+msgid "paws"
+msgstr "থাবা"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "শরীর"
+
+msgid "pipe"
+msgstr "হুুকো"
+
+msgid "wing"
+msgstr "ডানা"
+
+msgid "outstretched neck"
+msgstr "লম্বা গলা"
+
+msgid "Keystone"
+msgstr "মধ্যমনি"
+
+msgid "club"
+msgstr "গদা"
+
+msgid "the chain"
+msgstr "শিকল"
+
+msgid "horn"
+msgstr "শিং"
+
+msgid "belt"
+msgstr "কোমরবন্ধ বা বেল্ট"
+
+msgid "shield"
+msgstr "ঢাল"
+
+msgid "Hydra's head"
+msgstr "সর্পদৈত্যের মাথা"
+
+msgid "Hydra's tail"
+msgstr "সর্পদৈত্যের লেজ"
+
+msgid "bill"
+msgstr "চঞ্চু"
+
+msgid "foot"
+msgstr "পা"
+
+msgid "arm"
+msgstr "বাহু"
+
+msgid "cat's eyes"
+msgstr "বিড়ালের চোখ"
+
+msgid "claws"
+msgstr "নখর"
+
+msgid "skirt"
+msgstr "ঘাঘরা"
+
+msgid "the bow"
+msgstr "ধনুক"
+
+msgid "vessel"
+msgstr "কলসী"
+
+msgid "Knot"
+msgstr "বাঁধন"
+
+msgid "Northern Fish"
+msgstr "উত্তরের মাছ"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "সামনের মুর্তি"
+
+msgid "transom"
+msgstr "খিড়কি"
+
+msgid "front legs"
+msgstr "সামনের পা"
+
+msgid "hind legs"
+msgstr "পিছনের পা"
+
+msgid "ears"
+msgstr "কান"
+
+msgid "Fly"
+msgstr "মাছি"
+
+msgid "eyes"
+msgstr "চোখ"
+
+msgid "Pole Star"
+msgstr "ধ্রুবতারা"
+
+msgid "Tau Ceti"
+msgstr "টাউ সেটি"
+
+msgid "Alpha Centauri"
+msgstr "আলফা সেন্টুরি"
+
+msgid "Beta Centauri"
+msgstr "বিটা সেন্টুরি"
