@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Mongolian"
+msgstr ""
+
+msgid "Num Sum (The Bow and the Arrow)"
+msgstr "నమ్ సమ్ (విల్లమ్ములు)"
+
+msgid "Hun Tavan Od (The Five Stars Woman)"
+msgstr "హున్ తావన్ ఓద్ (ఐదు నక్షత్రాల స్త్రీ)"
+
+msgid "Doloon Burkhan (The Seven Buddhas)"
+msgstr "డోలూన్ బుర్ఖాన్ (ఏడుగురు బుద్ధులు)"
+
+msgid "Gurvan Maral Od (The Three Stags)"
+msgstr "గుర్వాన్ మరల్ ఓద్ (మూడు దశలు)"
+
+msgid "Altan Hadaas (Golden Stake)"
+msgstr "అల్టాన్ హదాస్ (బంగారు గుంజ)"
+
+msgid "Recovery Star"
+msgstr "తేరుకునే నక్షత్రం"
+
+msgid "7.Horse"
+msgstr "7.గుర్రం"
+
+msgid "6.Snake"
+msgstr "6.పాము"
+
+msgid "5.Dragon / 12.Pig"
+msgstr "5.డ్రాగన్ / 12.పంది"
+
+msgid "4.Rabbit / 11.Dog"
+msgstr "4.కుందేలు / 11.కుక్క"
+
+msgid "3.Tiger / 10.Rooster"
+msgstr "3.పులి / 10.కోడిపుంజు"
+
+msgid "2.Ox / 9.Monkey"
+msgstr "2.ఎద్దు / 9.కోతి"
+
+msgid "1.Rat / 8.Sheep/Goat"
+msgstr "1.ఎలుక / 8.గొర్రె/మేక"
+
+#. TRANSLATORS: Native name of the Sun in Mongolian culture
+msgid "Nar"
+msgstr "నార్"
+
+#. TRANSLATORS: Native name of the Moon in Mongolian culture
+msgid "Sar"
+msgstr "సార్"
+
+#. TRANSLATORS: Native name of Mercury in Mongolian culture
+msgid "Bud"
+msgstr "మొగ్గ"
+
+#. TRANSLATORS: Native name of Venus in Mongolian culture
+msgid "Sugar"
+msgstr "పంచదార"
+
+#. TRANSLATORS: Native name of Earth in Mongolian culture
+msgid "Delkhii"
+msgstr "డెల్ఖీ"
+
+#. TRANSLATORS: Native name of Mars in Mongolian culture
+msgid "Angarag"
+msgstr "అంగార్గ్"
+
+#. TRANSLATORS: Native name of Jupiter in Mongolian culture
+msgid "Barhasbadi"
+msgstr "బర్హాస్‌బడి"
+
+#. TRANSLATORS: Native name of Saturn in Mongolian culture
+msgid "Sanchir"
+msgstr "సాంచిర్"
+
+#. TRANSLATORS: Native name of Uranus in Mongolian culture
+msgid "Tengeriin-van"
+msgstr "టెంగెరీన్-వాన్"
+
+#. TRANSLATORS: Native name of Neptune in Mongolian culture
+msgid "Dalai-van"
+msgstr "డలై-వాన్"
+
+#. TRANSLATORS: Native name of Pluto in Mongolian culture
+msgid "Dalkhii-van"
+msgstr "డల్ఖీ-వాన్"
