@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Portuguese (https://app.transifex.com/stellarium/teams/80998/"
+"pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "Pleiades"
+
+msgid "Ursa Minor"
+msgstr "Ursa Minor (Ursa Menor)"
+
+msgid "Ursa Major"
+msgstr "Ursa Major (Ursa Maior)"
+
+msgid "Draco"
+msgstr "Draco (Dragão)"
+
+msgid "Cepheus"
+msgstr "Cepheus (Cefeu)"
+
+msgid "Bootes"
+msgstr "Boötes (Pastor)"
+
+msgid "Corona Borealis"
+msgstr "Corona Borealis (Coroa Boreal)"
+
+msgid "Hercules"
+msgstr "Hércules"
+
+msgid "Lyra"
+msgstr "Lyra (Lira)"
+
+msgid "Cygnus"
+msgstr "Cygnus (Cisne)"
+
+msgid "Cassiopeia"
+msgstr "Cassiopeia"
+
+msgid "Perseus"
+msgstr "Perseus (Perseu)"
+
+msgid "Auriga"
+msgstr "Auriga (Cocheiro)"
+
+msgid "Ophiuchus"
+msgstr "Ophiuchus (Serpentário)"
+
+msgid "Serpens"
+msgstr "Serpens (Serpente)"
+
+msgid "Sagitta"
+msgstr "Sagitta (Flecha)"
+
+msgid "Aquila"
+msgstr "Aquila (Águia)"
+
+msgid "Delphinus"
+msgstr "Delphinus (Delfim)"
+
+msgid "Equuleus"
+msgstr "Equuleus (Potro)"
+
+msgid "Pegasus"
+msgstr "Pegasus (Pégaso)"
+
+msgid "Andromeda"
+msgstr "Andrómeda"
+
+msgid "Triangulum"
+msgstr "Triangulum (Triângulo)"
+
+msgid "Aries"
+msgstr "Aries (Carneiro)"
+
+msgid "Taurus"
+msgstr "Taurus (Touro)"
+
+msgid "Gemini"
+msgstr "Gemini (Gémeos)"
+
+msgid "Cancer"
+msgstr "Cancer (Caranguejo)"
+
+msgid "Leo"
+msgstr "Leo (Leão)"
+
+msgid "Virgo"
+msgstr "Virgo (Virgem)"
+
+msgid "Libra"
+msgstr "Libra (Balança)"
+
+msgid "Scorpius"
+msgstr "Scorpius (Escorpião)"
+
+msgid "Sagittarius"
+msgstr "Sagittarius (Sagitário)"
+
+msgid "Capricornus"
+msgstr "Capricornus (Capricórnio)"
+
+msgid "Aquarius"
+msgstr "Aquarius (Aquário)"
+
+msgid "Pisces"
+msgstr "Pisces (Peixes)"
+
+msgid "Cetus"
+msgstr "Cetus (Baleia)"
+
+msgid "Orion"
+msgstr "Orion (Caçador)"
+
+msgid "Eridanus"
+msgstr "Eridanus (Rio)"
+
+msgid "Lepus"
+msgstr "Lepus (Lebre)"
+
+msgid "Canis Major"
+msgstr "Canis Major (Cão Maior)"
+
+msgid "Canis Minor"
+msgstr "Canis Minor (Cão Menor)"
+
+msgid "Hydra"
+msgstr "Hydra (Hidra)"
+
+msgid "Crater"
+msgstr "Crater (Taça)"
+
+msgid "Corvus"
+msgstr "Corvus (Corvo)"
+
+msgid "Centaurus"
+msgstr "Centaurus (Centauro)"
+
+msgid "Lupus"
+msgstr "Lupus (Lobo)"
+
+msgid "Ara"
+msgstr "Altar"
+
+msgid "Corona Australis"
+msgstr "Corona Australis (Coroa Austral)"
+
+msgid "Piscis Austrinus"
+msgstr "Piscis Austrinus (Peixe Austral)"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Sirius"
+msgstr "Sirius"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Escultor"
+
+msgid "Pyxis"
+msgstr "Pyxis (Bússola)"
+
+msgid "Caelum"
+msgstr "Caelum (Cinzel)"
+
+msgid "Chamaeleon"
+msgstr "Chamaeleon (Camaleão)"
+
+msgid "Carina"
+msgstr "Carina (Quilha)"
+
+msgid "Coma Berenices"
+msgstr "Coma Berenices (Cabeleira de Berenice)"
+
+msgid "Canes Venatici"
+msgstr "Canes Venatici (Cães de Caça)"
+
+msgid "Columba"
+msgstr "Columba (Pomba)"
+
+msgid "Circinus"
+msgstr "Circinus (Compasso)"
+
+msgid "Crux"
+msgstr "Crux (Cruzeiro do Sul)"
+
+msgid "Dorado"
+msgstr "Dorado (Peixe-espada)"
+
+msgid "Norma"
+msgstr "Norma (Régua)"
+
+msgid "Fornax"
+msgstr "Fornax (Fornalha)"
+
+msgid "Camelopardalis"
+msgstr "Camelopardalis (Girafa)"
+
+msgid "Grus"
+msgstr "Grus (Grou)"
+
+msgid "Horologium"
+msgstr "Horologium (Relógio)"
+
+msgid "Hydrus"
+msgstr "Hydrus (Hidro)"
+
+msgid "Indus"
+msgstr "Indus (Índio)"
+
+msgid "Lacerta"
+msgstr "Lacerta (Lagartixa)"
+
+msgid "Monoceros"
+msgstr "Monoceros (Unicórnio)"
+
+msgid "Lynx"
+msgstr "Lynx (Lince)"
+
+msgid "Antlia"
+msgstr "Antlia (Máquina Pneumática)"
+
+msgid "Microscopium"
+msgstr "Microscopium (Microscópio)"
+
+msgid "Octans"
+msgstr "Octans (Octante)"
+
+msgid "Apus"
+msgstr "Apus (Ave-do-Paraíso)"
+
+msgid "Pavo"
+msgstr "Pavo (Pavão)"
+
+msgid "Pictor"
+msgstr "Pictor (Pintor)"
+
+msgid "Leo Minor"
+msgstr "Leo Minor (Leão Menor)"
+
+msgid "Vulpecula"
+msgstr "Vulpecula (Raposinho)"
+
+msgid "Phoenix"
+msgstr "Phoenix (Fénix)"
+
+msgid "Volans"
+msgstr "Volans (Peixe Voador)"
+
+msgid "Puppis"
+msgstr "Puppis (Popa)"
+
+msgid "Reticulum"
+msgstr "Reticulum (Retículo)"
+
+msgid "Scutum"
+msgstr "Scutum (Escudo)"
+
+msgid "Sextans"
+msgstr "Sextans (Sextante)"
+
+msgid "Mensa"
+msgstr "Mensa (Mesa)"
+
+msgid "Telescopium"
+msgstr "Telescopium (Telescópio)"
+
+msgid "Tucana"
+msgstr "Tucana (Tucano)"
+
+msgid "Triangulum Australe"
+msgstr "Triangulum Australe (Triângulo Austral)"
+
+msgid "Vela"
+msgstr "Vela"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr "Gema"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr "Guardiões"
+
+msgid "feet"
+msgstr "pés"
+
+msgid "head"
+msgstr "cabeça"
+
+msgid "tail"
+msgstr "cauda"
+
+msgid "Pointers"
+msgstr "Ponteiros"
+
+msgid "paws"
+msgstr "patas"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "corpo"
+
+msgid "pipe"
+msgstr "canal"
+
+msgid "wing"
+msgstr "asa"
+
+msgid "outstretched neck"
+msgstr "pescoço esticado"
+
+msgid "Keystone"
+msgstr "Pedra angular"
+
+msgid "club"
+msgstr "maça"
+
+msgid "the chain"
+msgstr "a corrente"
+
+msgid "horn"
+msgstr "chifre"
+
+msgid "belt"
+msgstr "cinturão"
+
+msgid "shield"
+msgstr "escudo"
+
+msgid "Hydra's head"
+msgstr "Cabeça da Hidra"
+
+msgid "Hydra's tail"
+msgstr "Cauda da Hidra"
+
+msgid "bill"
+msgstr "bico"
+
+msgid "foot"
+msgstr "pé"
+
+msgid "arm"
+msgstr "braço"
+
+msgid "cat's eyes"
+msgstr "olhos de gato"
+
+msgid "claws"
+msgstr "garras"
+
+msgid "skirt"
+msgstr "saia"
+
+msgid "the bow"
+msgstr "o arco"
+
+msgid "vessel"
+msgstr "embarcação"
+
+msgid "Knot"
+msgstr "Nó"
+
+msgid "Northern Fish"
+msgstr "Peixe do Norte"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "figura decorativa"
+
+msgid "transom"
+msgstr "viga"
+
+msgid "front legs"
+msgstr "pernas da frente"
+
+msgid "hind legs"
+msgstr "pernas de trás"
+
+msgid "ears"
+msgstr "orelhas"
+
+msgid "Fly"
+msgstr "Vôo"
+
+msgid "eyes"
+msgstr "olhos"
+
+msgid "Pole Star"
+msgstr "Estrela Polar"
+
+msgid "Tau Ceti"
+msgstr "Tau Ceti"
+
+msgid "Alpha Centauri"
+msgstr "Alpha Centauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Centauri"

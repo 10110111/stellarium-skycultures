@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ali Azadegan <sel3ulba@yahoo.com>, 2023\n"
+"Language-Team: Persian (https://app.transifex.com/stellarium/teams/80998/"
+"fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "خوشۀ پروین"
+
+msgid "Ursa Minor"
+msgstr "دب اصغر"
+
+msgid "Ursa Major"
+msgstr "دبّ اکبر"
+
+msgid "Draco"
+msgstr "اژدها"
+
+msgid "Cepheus"
+msgstr "قیفاووس"
+
+msgid "Bootes"
+msgstr "عوّا"
+
+msgid "Corona Borealis"
+msgstr "اکلیل شمالی"
+
+msgid "Hercules"
+msgstr "جاثی"
+
+msgid "Lyra"
+msgstr "شلیاق"
+
+msgid "Cygnus"
+msgstr "دجاجه"
+
+msgid "Cassiopeia"
+msgstr "ذات‌الکرسی"
+
+msgid "Perseus"
+msgstr "برساوش"
+
+msgid "Auriga"
+msgstr "ارابه‌ران"
+
+msgid "Ophiuchus"
+msgstr "حوا"
+
+msgid "Serpens"
+msgstr "مار"
+
+msgid "Sagitta"
+msgstr "تیر"
+
+msgid "Aquila"
+msgstr "نسر طاير"
+
+msgid "Delphinus"
+msgstr "دلفین"
+
+msgid "Equuleus"
+msgstr "قطعة الفرس"
+
+msgid "Pegasus"
+msgstr "فرس اعظم"
+
+msgid "Andromeda"
+msgstr "امرأةالمسلسلة (زن برزنجیر)"
+
+msgid "Triangulum"
+msgstr "مثلث"
+
+msgid "Aries"
+msgstr "حَمَل"
+
+msgid "Taurus"
+msgstr "ثور"
+
+msgid "Gemini"
+msgstr "جوزا"
+
+msgid "Cancer"
+msgstr "سرطان"
+
+msgid "Leo"
+msgstr "اسد"
+
+msgid "Virgo"
+msgstr "سنبله"
+
+msgid "Libra"
+msgstr "میزان"
+
+msgid "Scorpius"
+msgstr "عقرب"
+
+msgid "Sagittarius"
+msgstr "قوس"
+
+msgid "Capricornus"
+msgstr "جَدی"
+
+msgid "Aquarius"
+msgstr "دلو"
+
+msgid "Pisces"
+msgstr "حوت"
+
+msgid "Cetus"
+msgstr "قَیطُس"
+
+msgid "Orion"
+msgstr "جبار"
+
+msgid "Eridanus"
+msgstr "نهر"
+
+msgid "Lepus"
+msgstr "خرگوش"
+
+msgid "Canis Major"
+msgstr "کلب اکبر"
+
+msgid "Canis Minor"
+msgstr "کلب اصغر"
+
+msgid "Hydra"
+msgstr "مار باریک"
+
+msgid "Crater"
+msgstr "پیاله"
+
+msgid "Corvus"
+msgstr "کلاغ"
+
+msgid "Centaurus"
+msgstr "قنطورس"
+
+msgid "Lupus"
+msgstr "گرگ"
+
+msgid "Ara"
+msgstr "آتشدان"
+
+msgid "Corona Australis"
+msgstr "اکلیل جنوبی"
+
+msgid "Piscis Austrinus"
+msgstr "حوت جنوبی"
+
+msgid "Procyon"
+msgstr "شعرای شامی"
+
+msgid "Sirius"
+msgstr "شعرای یمانی"
+
+msgid "Arcturus"
+msgstr "ژوبین‌دار"
+
+msgid "Vega"
+msgstr "نسر واقع"
+
+msgid "Capella"
+msgstr "سروش"
+
+msgid "Aldebaran"
+msgstr "دبران"
+
+msgid "Regulus"
+msgstr "قلب شیر"
+
+msgid "Denebola"
+msgstr "دم شیر"
+
+msgid "Spica"
+msgstr "بی‌ژوبین"
+
+msgid "Fomalhaut"
+msgstr "دهان ماهی"
+
+msgid "Betelgeuse"
+msgstr "شبان‌شانه"
+
+msgid "Rigel"
+msgstr "پای شکارچی"
+
+msgid "Canopus"
+msgstr "ستاره سهیل"
+
+msgid "Achernar"
+msgstr "آخرالنهر"
+
+msgid "Acrux"
+msgstr ""
+
+msgid "Antares"
+msgstr "قلب عقرب"
+
+msgid "Sculptor"
+msgstr "سنگتراش"
+
+msgid "Pyxis"
+msgstr "قطب‌نما"
+
+msgid "Caelum"
+msgstr "اسکنه"
+
+msgid "Chamaeleon"
+msgstr "آفتاب‌پرست"
+
+msgid "Carina"
+msgstr "حمّال"
+
+msgid "Coma Berenices"
+msgstr "گیسو"
+
+msgid "Canes Venatici"
+msgstr "كلاب الصيد"
+
+msgid "Columba"
+msgstr "کبوتر"
+
+msgid "Circinus"
+msgstr "پرگار"
+
+msgid "Crux"
+msgstr "چلیپا"
+
+msgid "Dorado"
+msgstr "ماهی طلایی"
+
+msgid "Norma"
+msgstr "گونیا"
+
+msgid "Fornax"
+msgstr "کوره"
+
+msgid "Camelopardalis"
+msgstr "زرافه"
+
+msgid "Grus"
+msgstr "درنا"
+
+msgid "Horologium"
+msgstr "ساعت"
+
+msgid "Hydrus"
+msgstr "مار آبی"
+
+msgid "Indus"
+msgstr "هندی"
+
+msgid "Lacerta"
+msgstr "چلپاسه"
+
+msgid "Monoceros"
+msgstr "تکشاخ"
+
+msgid "Lynx"
+msgstr "سیاهگوش"
+
+msgid "Antlia"
+msgstr "تلمبه"
+
+msgid "Microscopium"
+msgstr "میکروسکوپ"
+
+msgid "Octans"
+msgstr "هشتک"
+
+msgid "Apus"
+msgstr "مرغ بهشتی"
+
+msgid "Pavo"
+msgstr "طاووس"
+
+msgid "Pictor"
+msgstr "الت المصور"
+
+msgid "Leo Minor"
+msgstr "شیر کوچک"
+
+msgid "Vulpecula"
+msgstr "ثعلب"
+
+msgid "Phoenix"
+msgstr "سیمرغ"
+
+msgid "Volans"
+msgstr "ماهی پرنده"
+
+msgid "Puppis"
+msgstr "تفر"
+
+msgid "Reticulum"
+msgstr "تور"
+
+msgid "Scutum"
+msgstr "سپر"
+
+msgid "Sextans"
+msgstr "سکستانت"
+
+msgid "Mensa"
+msgstr "کوهمیز"
+
+msgid "Telescopium"
+msgstr "تلسکوپ"
+
+msgid "Tucana"
+msgstr "توکان"
+
+msgid "Triangulum Australe"
+msgstr "مثلث جنوبی"
+
+msgid "Vela"
+msgstr "شراع"
+
+msgid "Altair"
+msgstr "کرکس پرنده(نَسر طایر)"
+
+msgid "Cor Caroli"
+msgstr ""
+
+msgid "Mira"
+msgstr ""
+
+msgid "Gemma"
+msgstr ""
+
+msgid "Deneb"
+msgstr "ذنب دجاجه(دم ماکیان)"
+
+msgid "Albireo"
+msgstr ""
+
+msgid "Thuban"
+msgstr ""
+
+msgid "Castor"
+msgstr ""
+
+msgid "Pollux"
+msgstr ""
+
+msgid "Alphard"
+msgstr ""
+
+msgid "Algol"
+msgstr ""
+
+msgid "Mizar"
+msgstr ""
+
+msgid "Alcor"
+msgstr ""
+
+msgid "Kochab"
+msgstr ""
+
+msgid "Guardians"
+msgstr "نگهبانان"
+
+msgid "feet"
+msgstr "پا"
+
+msgid "head"
+msgstr "سر"
+
+msgid "tail"
+msgstr "دم"
+
+msgid "Pointers"
+msgstr "اشاره گرها"
+
+msgid "paws"
+msgstr "پنجه ها"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "پیکره"
+
+msgid "pipe"
+msgstr "چپق"
+
+msgid "wing"
+msgstr "بال"
+
+msgid "outstretched neck"
+msgstr "گردن گسترده"
+
+msgid "Keystone"
+msgstr "سنگ سرطاق"
+
+msgid "club"
+msgstr ""
+
+msgid "the chain"
+msgstr "زنجیر"
+
+msgid "horn"
+msgstr "شاخ"
+
+msgid "belt"
+msgstr "کمربند"
+
+msgid "shield"
+msgstr "سپر"
+
+msgid "Hydra's head"
+msgstr "سر شجاع"
+
+msgid "Hydra's tail"
+msgstr "دنباله شجاع"
+
+msgid "bill"
+msgstr ""
+
+msgid "foot"
+msgstr "پا"
+
+msgid "arm"
+msgstr "بازو"
+
+msgid "cat's eyes"
+msgstr "چشمان گربه"
+
+msgid "claws"
+msgstr "پنجه ها"
+
+msgid "skirt"
+msgstr "دامن"
+
+msgid "the bow"
+msgstr "کمان"
+
+msgid "vessel"
+msgstr "کشتی"
+
+msgid "Knot"
+msgstr "گره"
+
+msgid "Northern Fish"
+msgstr "ماهی شمالی"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "دست نشانده"
+
+msgid "transom"
+msgstr ""
+
+msgid "front legs"
+msgstr "پاهای جلویی"
+
+msgid "hind legs"
+msgstr "پاهای عقبی"
+
+msgid "ears"
+msgstr "گوشها"
+
+msgid "Fly"
+msgstr "پرواز"
+
+msgid "eyes"
+msgstr "چشمها"
+
+msgid "Pole Star"
+msgstr "ستاره قطبى"
+
+msgid "Tau Ceti"
+msgstr "تاو-نهنگ"
+
+msgid "Alpha Centauri"
+msgstr "آلفا-قنطورس"
+
+msgid "Beta Centauri"
+msgstr "بتا قنطورس"

@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Hungarian (https://app.transifex.com/stellarium/teams/80998/"
+"hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "Plejádok"
+
+msgid "Ursa Minor"
+msgstr "Kis Medve"
+
+msgid "Ursa Major"
+msgstr "Nagy Medve"
+
+msgid "Draco"
+msgstr "Sárkány"
+
+msgid "Cepheus"
+msgstr "Cefeusz"
+
+msgid "Bootes"
+msgstr "Ökörhajcsár"
+
+msgid "Corona Borealis"
+msgstr "Északi Korona"
+
+msgid "Hercules"
+msgstr "Herkules"
+
+msgid "Lyra"
+msgstr "Lant"
+
+msgid "Cygnus"
+msgstr "Hattyú"
+
+msgid "Cassiopeia"
+msgstr "Kassziopeia"
+
+msgid "Perseus"
+msgstr "Perzeusz"
+
+msgid "Auriga"
+msgstr "Szekeres"
+
+msgid "Ophiuchus"
+msgstr "Kígyótartó"
+
+msgid "Serpens"
+msgstr "Kígyó"
+
+msgid "Sagitta"
+msgstr "Nyíl"
+
+msgid "Aquila"
+msgstr "Sas"
+
+msgid "Delphinus"
+msgstr "Delfin"
+
+msgid "Equuleus"
+msgstr "Csikó"
+
+msgid "Pegasus"
+msgstr "Pegazus"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Háromszög"
+
+msgid "Aries"
+msgstr "Kos"
+
+msgid "Taurus"
+msgstr "Bika"
+
+msgid "Gemini"
+msgstr "Ikrek"
+
+msgid "Cancer"
+msgstr "Rák"
+
+msgid "Leo"
+msgstr "Oroszlán"
+
+msgid "Virgo"
+msgstr "Szűz"
+
+msgid "Libra"
+msgstr "Mérleg"
+
+msgid "Scorpius"
+msgstr "Skorpió"
+
+msgid "Sagittarius"
+msgstr "Nyilas"
+
+msgid "Capricornus"
+msgstr "Bak"
+
+msgid "Aquarius"
+msgstr "Vízöntő"
+
+msgid "Pisces"
+msgstr "Halak"
+
+msgid "Cetus"
+msgstr "Cet"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Eridánusz"
+
+msgid "Lepus"
+msgstr "Nyúl"
+
+msgid "Canis Major"
+msgstr "Nagy Kutya"
+
+msgid "Canis Minor"
+msgstr "Kis Kutya"
+
+msgid "Hydra"
+msgstr "Északi Vízikígyó"
+
+msgid "Crater"
+msgstr "Kehely"
+
+msgid "Corvus"
+msgstr "Holló"
+
+msgid "Centaurus"
+msgstr "Kentaur"
+
+msgid "Lupus"
+msgstr "Farkas"
+
+msgid "Ara"
+msgstr "Oltár"
+
+msgid "Corona Australis"
+msgstr "Déli Korona"
+
+msgid "Piscis Austrinus"
+msgstr "Déli Hal"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Sirius"
+msgstr "Szíriusz"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Szobrász"
+
+msgid "Pyxis"
+msgstr "Hajókompasz"
+
+msgid "Caelum"
+msgstr "Szobrászvéső"
+
+msgid "Chamaeleon"
+msgstr "Kaméleon"
+
+msgid "Carina"
+msgstr "Hajógerinc"
+
+msgid "Coma Berenices"
+msgstr "Bereniké Haja"
+
+msgid "Canes Venatici"
+msgstr "Vadászebek"
+
+msgid "Columba"
+msgstr "Galamb"
+
+msgid "Circinus"
+msgstr "Körző"
+
+msgid "Crux"
+msgstr "Dél Keresztje"
+
+msgid "Dorado"
+msgstr "Aranyhal"
+
+msgid "Norma"
+msgstr "Szögmérő"
+
+msgid "Fornax"
+msgstr "Kemence"
+
+msgid "Camelopardalis"
+msgstr "Zsiráf"
+
+msgid "Grus"
+msgstr "Daru"
+
+msgid "Horologium"
+msgstr "Ingaóra"
+
+msgid "Hydrus"
+msgstr "Déli Vízikígyó"
+
+msgid "Indus"
+msgstr "Indián"
+
+msgid "Lacerta"
+msgstr "Gyík"
+
+msgid "Monoceros"
+msgstr "Egyszarvú"
+
+msgid "Lynx"
+msgstr "Hiúz"
+
+msgid "Antlia"
+msgstr "Légszivattyú"
+
+msgid "Microscopium"
+msgstr "Mikroszkóp"
+
+msgid "Octans"
+msgstr "Oktáns"
+
+msgid "Apus"
+msgstr "Paradicsommadár"
+
+msgid "Pavo"
+msgstr "Páva"
+
+msgid "Pictor"
+msgstr "Festő"
+
+msgid "Leo Minor"
+msgstr "Kis Oroszlán"
+
+msgid "Vulpecula"
+msgstr "Kis Róka"
+
+msgid "Phoenix"
+msgstr "Főnix"
+
+msgid "Volans"
+msgstr "Repülőhal"
+
+msgid "Puppis"
+msgstr "Hajófar"
+
+msgid "Reticulum"
+msgstr "Háló"
+
+msgid "Scutum"
+msgstr "Pajzs"
+
+msgid "Sextans"
+msgstr "Szextáns"
+
+msgid "Mensa"
+msgstr "Táblahegy"
+
+msgid "Telescopium"
+msgstr "Távcső"
+
+msgid "Tucana"
+msgstr "Tukán"
+
+msgid "Triangulum Australe"
+msgstr "Déli Háromszög"
+
+msgid "Vela"
+msgstr "Vitorla"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr "Gemma"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr "Őrzők"
+
+msgid "feet"
+msgstr "láb"
+
+msgid "head"
+msgstr "fej"
+
+msgid "tail"
+msgstr "farok"
+
+msgid "Pointers"
+msgstr "Mutatók"
+
+msgid "paws"
+msgstr "mancs"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "törzs"
+
+msgid "pipe"
+msgstr "cső"
+
+msgid "wing"
+msgstr "szárny"
+
+msgid "outstretched neck"
+msgstr "Kinyújtott nyak"
+
+msgid "Keystone"
+msgstr "Talpkő"
+
+msgid "club"
+msgstr "Klub"
+
+msgid "the chain"
+msgstr "a lánc"
+
+msgid "horn"
+msgstr "szarv"
+
+msgid "belt"
+msgstr "öv"
+
+msgid "shield"
+msgstr "pajzs"
+
+msgid "Hydra's head"
+msgstr "A hidra feje"
+
+msgid "Hydra's tail"
+msgstr "A hidra farka"
+
+msgid "bill"
+msgstr "Számla (pl. Készpénzfizetési)"
+
+msgid "foot"
+msgstr "láb"
+
+msgid "arm"
+msgstr "kar"
+
+msgid "cat's eyes"
+msgstr "macskaszem"
+
+msgid "claws"
+msgstr "karmok"
+
+msgid "skirt"
+msgstr "szoknya"
+
+msgid "the bow"
+msgstr ""
+
+msgid "vessel"
+msgstr "edény"
+
+msgid "Knot"
+msgstr "Csomó"
+
+msgid "Northern Fish"
+msgstr "Északi hal"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "Szoborfej"
+
+msgid "transom"
+msgstr "Keresztgerenda"
+
+msgid "front legs"
+msgstr "mellső lábak"
+
+msgid "hind legs"
+msgstr "hátsó lábak"
+
+msgid "ears"
+msgstr "fül"
+
+msgid "Fly"
+msgstr "Légy"
+
+msgid "eyes"
+msgstr "szem"
+
+msgid "Pole Star"
+msgstr "Sarkcsillag"
+
+msgid "Tau Ceti"
+msgstr "Tau Ceti"
+
+msgid "Alpha Centauri"
+msgstr "Alpha Centauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Centauri"

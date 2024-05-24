@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Worachate Boonplod, 2024\n"
+"Language-Team: Thai (https://app.transifex.com/stellarium/teams/80998/th/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "สมัยใหม่ (เอช. เอ. เรย์)"
+
+msgid "Pleiades"
+msgstr "กระจุกดาวลูกไก่"
+
+msgid "Ursa Minor"
+msgstr "หมีเล็ก"
+
+msgid "Ursa Major"
+msgstr "หมีใหญ่"
+
+msgid "Draco"
+msgstr "มังกร"
+
+msgid "Cepheus"
+msgstr "ซีฟิอัส"
+
+msgid "Bootes"
+msgstr "คนเลี้ยงสัตว์"
+
+msgid "Corona Borealis"
+msgstr "มงกุฎเหนือ"
+
+msgid "Hercules"
+msgstr "เฮอร์คิวลีส"
+
+msgid "Lyra"
+msgstr "พิณ"
+
+msgid "Cygnus"
+msgstr "หงส์"
+
+msgid "Cassiopeia"
+msgstr "แคสซิโอเปีย"
+
+msgid "Perseus"
+msgstr "เพอร์ซิอัส"
+
+msgid "Auriga"
+msgstr "สารถี"
+
+msgid "Ophiuchus"
+msgstr "คนแบกงู"
+
+msgid "Serpens"
+msgstr "งู"
+
+msgid "Sagitta"
+msgstr "ลูกธนู"
+
+msgid "Aquila"
+msgstr "นกอินทรี"
+
+msgid "Delphinus"
+msgstr "โลมา"
+
+msgid "Equuleus"
+msgstr "ม้าแกลบ"
+
+msgid "Pegasus"
+msgstr "ม้าบิน"
+
+msgid "Andromeda"
+msgstr "แอนดรอเมดา"
+
+msgid "Triangulum"
+msgstr "สามเหลี่ยม"
+
+msgid "Aries"
+msgstr "แกะ"
+
+msgid "Taurus"
+msgstr "วัว"
+
+msgid "Gemini"
+msgstr "คนคู่"
+
+msgid "Cancer"
+msgstr "ปู"
+
+msgid "Leo"
+msgstr "สิงโต"
+
+msgid "Virgo"
+msgstr "หญิงสาว"
+
+msgid "Libra"
+msgstr "คันชั่ง"
+
+msgid "Scorpius"
+msgstr "แมงป่อง"
+
+msgid "Sagittarius"
+msgstr "คนยิงธนู"
+
+msgid "Capricornus"
+msgstr "แพะทะเล"
+
+msgid "Aquarius"
+msgstr "คนแบกหม้อน้ำ"
+
+msgid "Pisces"
+msgstr "ปลา"
+
+msgid "Cetus"
+msgstr "ซีตัส"
+
+msgid "Orion"
+msgstr "นายพราน"
+
+msgid "Eridanus"
+msgstr "แม่น้ำ"
+
+msgid "Lepus"
+msgstr "กระต่ายป่า"
+
+msgid "Canis Major"
+msgstr "หมาใหญ่"
+
+msgid "Canis Minor"
+msgstr "หมาเล็ก"
+
+msgid "Hydra"
+msgstr "งูไฮดรา"
+
+msgid "Crater"
+msgstr "ถ้วย"
+
+msgid "Corvus"
+msgstr "นกกา"
+
+msgid "Centaurus"
+msgstr "คนครึ่งม้า"
+
+msgid "Lupus"
+msgstr "หมาป่า"
+
+msgid "Ara"
+msgstr "แท่นบูชา"
+
+msgid "Corona Australis"
+msgstr "มงกุฎใต้"
+
+msgid "Piscis Austrinus"
+msgstr "ปลาใต้"
+
+msgid "Procyon"
+msgstr "โพรซิออน"
+
+msgid "Sirius"
+msgstr "ซิริอัส / ดาวโจร"
+
+msgid "Arcturus"
+msgstr "อาร์กทูรัส / ดวงแก้ว"
+
+msgid "Vega"
+msgstr "เวกา"
+
+msgid "Capella"
+msgstr "คาเพลลา"
+
+msgid "Aldebaran"
+msgstr "อัลเดบารัน / ตาวัว"
+
+msgid "Regulus"
+msgstr "เรกูลัส / หัวใจสิงห์"
+
+msgid "Denebola"
+msgstr "เดเนโบลา"
+
+msgid "Spica"
+msgstr "สไปกา / รวงข้าว"
+
+msgid "Fomalhaut"
+msgstr "โฟมัลฮอต"
+
+msgid "Betelgeuse"
+msgstr "เบเทลจุส"
+
+msgid "Rigel"
+msgstr "ไรเจล"
+
+msgid "Canopus"
+msgstr "คาโนปัส"
+
+msgid "Achernar"
+msgstr "อะเคอร์นาร์"
+
+msgid "Acrux"
+msgstr "เอครักซ์"
+
+msgid "Antares"
+msgstr "แอนทาเรส / ปาริชาต"
+
+msgid "Sculptor"
+msgstr "ช่างแกะสลัก"
+
+msgid "Pyxis"
+msgstr "เข็มทิศ"
+
+msgid "Caelum"
+msgstr "สิ่ว"
+
+msgid "Chamaeleon"
+msgstr "กิ้งก่าคะมีเลียน"
+
+msgid "Carina"
+msgstr "กระดูกงูเรือ"
+
+msgid "Coma Berenices"
+msgstr "ผมเบเรนิซ"
+
+msgid "Canes Venatici"
+msgstr "หมาล่าเนื้อ"
+
+msgid "Columba"
+msgstr "นกเขา"
+
+msgid "Circinus"
+msgstr "วงเวียน"
+
+msgid "Crux"
+msgstr "กางเขนใต้"
+
+msgid "Dorado"
+msgstr "ปลากระโทงแทง"
+
+msgid "Norma"
+msgstr "ไม้ฉาก"
+
+msgid "Fornax"
+msgstr "เตาหลอม"
+
+msgid "Camelopardalis"
+msgstr "ยีราฟ"
+
+msgid "Grus"
+msgstr "นกกระเรียน"
+
+msgid "Horologium"
+msgstr "นาฬิกา"
+
+msgid "Hydrus"
+msgstr "งูไฮดรัส"
+
+msgid "Indus"
+msgstr "อินเดียนแดง"
+
+msgid "Lacerta"
+msgstr "กิ้งก่า"
+
+msgid "Monoceros"
+msgstr "ยูนิคอร์น"
+
+msgid "Lynx"
+msgstr "แมวป่า"
+
+msgid "Antlia"
+msgstr "เครื่องสูบลม"
+
+msgid "Microscopium"
+msgstr "กล้องจุลทรรศน์"
+
+msgid "Octans"
+msgstr "ออกแทนต์"
+
+msgid "Apus"
+msgstr "นกการเวก"
+
+msgid "Pavo"
+msgstr "นกยูง"
+
+msgid "Pictor"
+msgstr "ขาตั้งภาพ"
+
+msgid "Leo Minor"
+msgstr "สิงโตเล็ก"
+
+msgid "Vulpecula"
+msgstr "หมาจิ้งจอก"
+
+msgid "Phoenix"
+msgstr "นกฟีนิกซ์"
+
+msgid "Volans"
+msgstr "ปลาบิน"
+
+msgid "Puppis"
+msgstr "ท้ายเรือ"
+
+msgid "Reticulum"
+msgstr "ตาข่าย"
+
+msgid "Scutum"
+msgstr "โล่"
+
+msgid "Sextans"
+msgstr "เซกซ์แทนต์"
+
+msgid "Mensa"
+msgstr "ภูเขา"
+
+msgid "Telescopium"
+msgstr "กล้องโทรทรรศน์"
+
+msgid "Tucana"
+msgstr "นกทูแคน"
+
+msgid "Triangulum Australe"
+msgstr "สามเหลี่ยมใต้"
+
+msgid "Vela"
+msgstr "ใบเรือ"
+
+msgid "Altair"
+msgstr "อัลแทร์ / ตานกอินทรี"
+
+msgid "Cor Caroli"
+msgstr ""
+
+msgid "Mira"
+msgstr ""
+
+msgid "Gemma"
+msgstr ""
+
+msgid "Deneb"
+msgstr "เดเนบ"
+
+msgid "Albireo"
+msgstr "อัลบิรีโอ"
+
+msgid "Thuban"
+msgstr ""
+
+msgid "Castor"
+msgstr "คาสเตอร์"
+
+msgid "Pollux"
+msgstr "พอลลักซ์"
+
+msgid "Alphard"
+msgstr "อัลฟาร์ด"
+
+msgid "Algol"
+msgstr "อัลกอล"
+
+msgid "Mizar"
+msgstr "ไมซาร์"
+
+msgid "Alcor"
+msgstr "อัลคอร์"
+
+msgid "Kochab"
+msgstr ""
+
+msgid "Guardians"
+msgstr ""
+
+msgid "feet"
+msgstr ""
+
+msgid "head"
+msgstr ""
+
+msgid "tail"
+msgstr ""
+
+msgid "Pointers"
+msgstr ""
+
+msgid "paws"
+msgstr ""
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr ""
+
+msgid "pipe"
+msgstr ""
+
+msgid "wing"
+msgstr ""
+
+msgid "outstretched neck"
+msgstr ""
+
+msgid "Keystone"
+msgstr ""
+
+msgid "club"
+msgstr ""
+
+msgid "the chain"
+msgstr ""
+
+msgid "horn"
+msgstr ""
+
+msgid "belt"
+msgstr ""
+
+msgid "shield"
+msgstr ""
+
+msgid "Hydra's head"
+msgstr ""
+
+msgid "Hydra's tail"
+msgstr ""
+
+msgid "bill"
+msgstr ""
+
+msgid "foot"
+msgstr ""
+
+msgid "arm"
+msgstr ""
+
+msgid "cat's eyes"
+msgstr ""
+
+msgid "claws"
+msgstr ""
+
+msgid "skirt"
+msgstr ""
+
+msgid "the bow"
+msgstr ""
+
+msgid "vessel"
+msgstr ""
+
+msgid "Knot"
+msgstr ""
+
+msgid "Northern Fish"
+msgstr ""
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr ""
+
+msgid "transom"
+msgstr ""
+
+msgid "front legs"
+msgstr "ขาหน้า"
+
+msgid "hind legs"
+msgstr "ขาหลัง"
+
+msgid "ears"
+msgstr "หู"
+
+msgid "Fly"
+msgstr ""
+
+msgid "eyes"
+msgstr "ดวงตา"
+
+msgid "Pole Star"
+msgstr "ดาวขั้ว"
+
+msgid "Tau Ceti"
+msgstr ""
+
+msgid "Alpha Centauri"
+msgstr "แอลฟาคนครึ่งม้า"
+
+msgid "Beta Centauri"
+msgstr "บีตาคนครึ่งม้า"

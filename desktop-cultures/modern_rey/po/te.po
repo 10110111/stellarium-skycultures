@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "ప్లీయేడ్స్"
+
+msgid "Ursa Minor"
+msgstr "ఉర్సా మైనర్"
+
+msgid "Ursa Major"
+msgstr "ఉర్సా మేజర్"
+
+msgid "Draco"
+msgstr "డ్రాకో"
+
+msgid "Cepheus"
+msgstr "సెఫియస్"
+
+msgid "Bootes"
+msgstr "బూట్స్"
+
+msgid "Corona Borealis"
+msgstr "కొరోనా బొరియాలిస్"
+
+msgid "Hercules"
+msgstr "హెర్క్యులెస్"
+
+msgid "Lyra"
+msgstr "లైరా"
+
+msgid "Cygnus"
+msgstr "సిగ్నస్"
+
+msgid "Cassiopeia"
+msgstr "కాస్సియోపియా"
+
+msgid "Perseus"
+msgstr "పెర్సియస్"
+
+msgid "Auriga"
+msgstr "ఆరిగా"
+
+msgid "Ophiuchus"
+msgstr "ఒఫియూకస్"
+
+msgid "Serpens"
+msgstr "సర్పెన్స్"
+
+msgid "Sagitta"
+msgstr "సాజిట్టా"
+
+msgid "Aquila"
+msgstr "అక్విలా"
+
+msgid "Delphinus"
+msgstr "డెల్ఫినస్"
+
+msgid "Equuleus"
+msgstr "ఈక్వూలియస్"
+
+msgid "Pegasus"
+msgstr "పెగాసస్"
+
+msgid "Andromeda"
+msgstr "ఏండ్రోమెడా"
+
+msgid "Triangulum"
+msgstr "ట్రయాంగులమ్"
+
+msgid "Aries"
+msgstr "ఏరీస్"
+
+msgid "Taurus"
+msgstr "టారస్"
+
+msgid "Gemini"
+msgstr "జెమిని"
+
+msgid "Cancer"
+msgstr "కాన్సర్"
+
+msgid "Leo"
+msgstr "లియో"
+
+msgid "Virgo"
+msgstr "విర్గో"
+
+msgid "Libra"
+msgstr "లిబ్రా"
+
+msgid "Scorpius"
+msgstr "స్కార్పియస్"
+
+msgid "Sagittarius"
+msgstr "సాజిట్టేరియస్"
+
+msgid "Capricornus"
+msgstr "కాప్రికార్నస్"
+
+msgid "Aquarius"
+msgstr "ఆక్వారిస్"
+
+msgid "Pisces"
+msgstr "పైసెస్"
+
+msgid "Cetus"
+msgstr "సెటస్"
+
+msgid "Orion"
+msgstr "ఒరాయన్"
+
+msgid "Eridanus"
+msgstr "ఎరిడానస్"
+
+msgid "Lepus"
+msgstr "లెపస్"
+
+msgid "Canis Major"
+msgstr "కానిస్ మేజర్"
+
+msgid "Canis Minor"
+msgstr "కానిస్ మైనర్"
+
+msgid "Hydra"
+msgstr "హైడ్రా"
+
+msgid "Crater"
+msgstr "క్రేటర్"
+
+msgid "Corvus"
+msgstr "కార్వస్"
+
+msgid "Centaurus"
+msgstr "సెంటారస్"
+
+msgid "Lupus"
+msgstr "లూపస్"
+
+msgid "Ara"
+msgstr "ఆరా"
+
+msgid "Corona Australis"
+msgstr "కొరోనా ఆస్ట్రాలిస్"
+
+msgid "Piscis Austrinus"
+msgstr "పైసిస్ ఆస్ట్రినస్"
+
+msgid "Procyon"
+msgstr "ప్రోచియాన్"
+
+msgid "Sirius"
+msgstr "సిరియస్"
+
+msgid "Arcturus"
+msgstr "ఆర్క్‌టురస్"
+
+msgid "Vega"
+msgstr "వేగా"
+
+msgid "Capella"
+msgstr "కాపెల్లా"
+
+msgid "Aldebaran"
+msgstr "అల్డెబారన్"
+
+msgid "Regulus"
+msgstr "రెగ్యులస్"
+
+msgid "Denebola"
+msgstr "డెనెబోలా"
+
+msgid "Spica"
+msgstr "స్పికా"
+
+msgid "Fomalhaut"
+msgstr "ఫోమల్‌హాట్"
+
+msgid "Betelgeuse"
+msgstr "బెటెల్‌జూస్"
+
+msgid "Rigel"
+msgstr "రిజెల్"
+
+msgid "Canopus"
+msgstr "కానోపస్"
+
+msgid "Achernar"
+msgstr "అచెర్నార్"
+
+msgid "Acrux"
+msgstr "అక్రక్స్"
+
+msgid "Antares"
+msgstr "అంటారెస్"
+
+msgid "Sculptor"
+msgstr "శిల్పి"
+
+msgid "Pyxis"
+msgstr "పిక్సిస్"
+
+msgid "Caelum"
+msgstr "కేలమ్"
+
+msgid "Chamaeleon"
+msgstr "కమేలియన్"
+
+msgid "Carina"
+msgstr "కారినా"
+
+msgid "Coma Berenices"
+msgstr "కోమా బెరెనిసెస్"
+
+msgid "Canes Venatici"
+msgstr "కేన్స్ వెనటీచీ"
+
+msgid "Columba"
+msgstr "ల్కొలంబా"
+
+msgid "Circinus"
+msgstr "సర్కినస్"
+
+msgid "Crux"
+msgstr "క్రుక్స్"
+
+msgid "Dorado"
+msgstr "డొరాడో"
+
+msgid "Norma"
+msgstr "నోర్మా"
+
+msgid "Fornax"
+msgstr "ఫోర్నాక్స్"
+
+msgid "Camelopardalis"
+msgstr "కామెలోపార్డాలిస్"
+
+msgid "Grus"
+msgstr "గ్రస్"
+
+msgid "Horologium"
+msgstr "హొరోలోజియమ్"
+
+msgid "Hydrus"
+msgstr "హైడ్రస్"
+
+msgid "Indus"
+msgstr "ఇండస్"
+
+msgid "Lacerta"
+msgstr "లాసెర్టా"
+
+msgid "Monoceros"
+msgstr "మోనోసెరోస్"
+
+msgid "Lynx"
+msgstr "లింక్స్"
+
+msgid "Antlia"
+msgstr "ఏంట్లియా"
+
+msgid "Microscopium"
+msgstr "మైక్రోకాస్పియమ్"
+
+msgid "Octans"
+msgstr "ఆక్టన్స్"
+
+msgid "Apus"
+msgstr "ఆపస్"
+
+msgid "Pavo"
+msgstr "పావో"
+
+msgid "Pictor"
+msgstr "పిక్టర్"
+
+msgid "Leo Minor"
+msgstr "లియోమైనర్"
+
+msgid "Vulpecula"
+msgstr "వూల్పెక్యులా"
+
+msgid "Phoenix"
+msgstr "ఫీనిక్స్"
+
+msgid "Volans"
+msgstr "వోలన్స్"
+
+msgid "Puppis"
+msgstr "పప్పిస్"
+
+msgid "Reticulum"
+msgstr "రెటుక్యులమ్"
+
+msgid "Scutum"
+msgstr "స్కూటమ్"
+
+msgid "Sextans"
+msgstr "సెక్స్టన్స్"
+
+msgid "Mensa"
+msgstr "మెన్సా"
+
+msgid "Telescopium"
+msgstr "టెలిస్కోపియమ్"
+
+msgid "Tucana"
+msgstr "టుకానా"
+
+msgid "Triangulum Australe"
+msgstr "ట్రయాంగులమ్ ఆస్ట్రేల్"
+
+msgid "Vela"
+msgstr "వేలా"
+
+msgid "Altair"
+msgstr "అల్టెయిర్"
+
+msgid "Cor Caroli"
+msgstr "కోర్ కరోలి"
+
+msgid "Mira"
+msgstr "మిరా"
+
+msgid "Gemma"
+msgstr "జెమ్మా"
+
+msgid "Deneb"
+msgstr "డెనెబ్"
+
+msgid "Albireo"
+msgstr "అల్బీరియో"
+
+msgid "Thuban"
+msgstr "తుబాన్"
+
+msgid "Castor"
+msgstr "కాస్టర్"
+
+msgid "Pollux"
+msgstr "పోల్లక్స్"
+
+msgid "Alphard"
+msgstr "అల్ఫార్డ్"
+
+msgid "Algol"
+msgstr "అల్గోల్"
+
+msgid "Mizar"
+msgstr "మిజార్"
+
+msgid "Alcor"
+msgstr "అల్కోర్"
+
+msgid "Kochab"
+msgstr "kocaab"
+
+msgid "Guardians"
+msgstr "రక్షకులు"
+
+msgid "feet"
+msgstr "పాదాలు"
+
+msgid "head"
+msgstr "తల"
+
+msgid "tail"
+msgstr "తోక"
+
+msgid "Pointers"
+msgstr "paayiMTars"
+
+msgid "paws"
+msgstr "పంజాలు"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "దేహం"
+
+msgid "pipe"
+msgstr "పైపు"
+
+msgid "wing"
+msgstr "రెక్క"
+
+msgid "outstretched neck"
+msgstr "చాపిన మెడ"
+
+msgid "Keystone"
+msgstr "కీస్టోన్"
+
+msgid "club"
+msgstr "దుడ్డు కర్ర"
+
+msgid "the chain"
+msgstr "గొలుసు"
+
+msgid "horn"
+msgstr "కొమ్ము"
+
+msgid "belt"
+msgstr "బెల్టు"
+
+msgid "shield"
+msgstr "కవచం"
+
+msgid "Hydra's head"
+msgstr "హైడ్రా తల"
+
+msgid "Hydra's tail"
+msgstr "హైడ్రా తోక"
+
+msgid "bill"
+msgstr "బిల్"
+
+msgid "foot"
+msgstr "పాదం"
+
+msgid "arm"
+msgstr "చేయి"
+
+msgid "cat's eyes"
+msgstr "వైడూర్యాలు"
+
+msgid "claws"
+msgstr "గోళ్ళు"
+
+msgid "skirt"
+msgstr "స్కర్టు"
+
+msgid "the bow"
+msgstr "విల్లు"
+
+msgid "vessel"
+msgstr "పాత్ర"
+
+msgid "Knot"
+msgstr "ముడి"
+
+msgid "Northern Fish"
+msgstr "ఉత్తరపు చేప"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "పేరుకే రాజు"
+
+msgid "transom"
+msgstr "ట్రాన్‌సమ్"
+
+msgid "front legs"
+msgstr "ముందు కాళ్ళు"
+
+msgid "hind legs"
+msgstr "వెనక కాళ్ళు"
+
+msgid "ears"
+msgstr "చెవులు"
+
+msgid "Fly"
+msgstr "ఈగ"
+
+msgid "eyes"
+msgstr "కళ్ళు"
+
+msgid "Pole Star"
+msgstr "ధ్రువ నక్షత్రం"
+
+msgid "Tau Ceti"
+msgstr "టౌ సెటి"
+
+msgid "Alpha Centauri"
+msgstr "ఆల్ఫా సెంటారి"
+
+msgid "Beta Centauri"
+msgstr "బీటా సెంటారి"

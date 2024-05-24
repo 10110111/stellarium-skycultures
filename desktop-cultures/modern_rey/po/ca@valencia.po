@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Catalan (Valencian) (https://app.transifex.com/stellarium/"
+"teams/80998/ca@valencia/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca@valencia\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "Plèiades"
+
+msgid "Ursa Minor"
+msgstr "L'Ossa Menor"
+
+msgid "Ursa Major"
+msgstr "l'Ossa Major"
+
+msgid "Draco"
+msgstr "el Dragó"
+
+msgid "Cepheus"
+msgstr "Cefeu"
+
+msgid "Bootes"
+msgstr "Bover"
+
+msgid "Corona Borealis"
+msgstr "Corona Boreal"
+
+msgid "Hercules"
+msgstr "Hèrcules"
+
+msgid "Lyra"
+msgstr "la Lira"
+
+msgid "Cygnus"
+msgstr "Cigne"
+
+msgid "Cassiopeia"
+msgstr "Cassiopea"
+
+msgid "Perseus"
+msgstr "Perseu"
+
+msgid "Auriga"
+msgstr "el Cotxer"
+
+msgid "Ophiuchus"
+msgstr "Ophiuchus, el Serpentari"
+
+msgid "Serpens"
+msgstr "Serpens, el Serpent"
+
+msgid "Sagitta"
+msgstr "la Sageta"
+
+msgid "Aquila"
+msgstr "Àguila"
+
+msgid "Delphinus"
+msgstr "el Dofí"
+
+msgid "Equuleus"
+msgstr "Equuleus, el Cavallet"
+
+msgid "Pegasus"
+msgstr "Pegàs"
+
+msgid "Andromeda"
+msgstr "Andròmeda"
+
+msgid "Triangulum"
+msgstr "Triangulum, el Triangle"
+
+msgid "Aries"
+msgstr "Àries"
+
+msgid "Taurus"
+msgstr "Taure"
+
+msgid "Gemini"
+msgstr "els Bessons"
+
+msgid "Cancer"
+msgstr "el Cranc"
+
+msgid "Leo"
+msgstr "Lleó"
+
+msgid "Virgo"
+msgstr "Virgo, la Verge"
+
+msgid "Libra"
+msgstr "Balança"
+
+msgid "Scorpius"
+msgstr "L'Escorpió"
+
+msgid "Sagittarius"
+msgstr "Sagitari"
+
+msgid "Capricornus"
+msgstr "Capricorn"
+
+msgid "Aquarius"
+msgstr "Aquari"
+
+msgid "Pisces"
+msgstr "Pisces, els Peixos"
+
+msgid "Cetus"
+msgstr "Balena"
+
+msgid "Orion"
+msgstr "Orió"
+
+msgid "Eridanus"
+msgstr "Eridà"
+
+msgid "Lepus"
+msgstr "la Llebre"
+
+msgid "Canis Major"
+msgstr "Ca Major"
+
+msgid "Canis Minor"
+msgstr "Ca Menor"
+
+msgid "Hydra"
+msgstr "L'Hidra femella"
+
+msgid "Crater"
+msgstr "Cràter"
+
+msgid "Corvus"
+msgstr "el Corb"
+
+msgid "Centaurus"
+msgstr "Centaure"
+
+msgid "Lupus"
+msgstr "el Llop"
+
+msgid "Ara"
+msgstr "Altar"
+
+msgid "Corona Australis"
+msgstr "Corona Austral"
+
+msgid "Piscis Austrinus"
+msgstr "Piscis Austrínids"
+
+msgid "Procyon"
+msgstr "Proció"
+
+msgid "Sirius"
+msgstr "Sírius"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Escultor"
+
+msgid "Pyxis"
+msgstr "Brúixola"
+
+msgid "Caelum"
+msgstr "el Burí"
+
+msgid "Chamaeleon"
+msgstr "el Camaleó"
+
+msgid "Carina"
+msgstr "Quilla"
+
+msgid "Coma Berenices"
+msgstr "Cabellera de Berenice"
+
+msgid "Canes Venatici"
+msgstr "els Llebrers"
+
+msgid "Columba"
+msgstr "Coloma"
+
+msgid "Circinus"
+msgstr "el Compàs"
+
+msgid "Crux"
+msgstr "Crux"
+
+msgid "Dorado"
+msgstr "l'Orada"
+
+msgid "Norma"
+msgstr "Escaire"
+
+msgid "Fornax"
+msgstr "el Forn"
+
+msgid "Camelopardalis"
+msgstr "Constel·lació de la girafa"
+
+msgid "Grus"
+msgstr "Grua"
+
+msgid "Horologium"
+msgstr "el Rellotge"
+
+msgid "Hydrus"
+msgstr "l'Hidra mascle"
+
+msgid "Indus"
+msgstr "l'Indi"
+
+msgid "Lacerta"
+msgstr "Llangardaix"
+
+msgid "Monoceros"
+msgstr "l'Unicorn"
+
+msgid "Lynx"
+msgstr "el Linx"
+
+msgid "Antlia"
+msgstr "Antlia, la Màquina Pneumàtica"
+
+msgid "Microscopium"
+msgstr "El Microscopi"
+
+msgid "Octans"
+msgstr "L'Octant"
+
+msgid "Apus"
+msgstr "Apus, l'Au del Paradís"
+
+msgid "Pavo"
+msgstr "Pavo, el Paó"
+
+msgid "Pictor"
+msgstr "Pictor, el Cavallet de Pintor"
+
+msgid "Leo Minor"
+msgstr "Lleó Menor"
+
+msgid "Vulpecula"
+msgstr "Vulpecula, la Guineueta"
+
+msgid "Phoenix"
+msgstr "Fènix"
+
+msgid "Volans"
+msgstr "Volans, el Peix Volador"
+
+msgid "Puppis"
+msgstr "Puppis, la Popa"
+
+msgid "Reticulum"
+msgstr "Reticulum, el Reticle"
+
+msgid "Scutum"
+msgstr "Scutum, l'Escut"
+
+msgid "Sextans"
+msgstr "Sextans, el Sextant"
+
+msgid "Mensa"
+msgstr "Mensa, la Taula"
+
+msgid "Telescopium"
+msgstr "El Telescopi"
+
+msgid "Tucana"
+msgstr "Tucana, el Tucà"
+
+msgid "Triangulum Australe"
+msgstr "El Triangle Austral"
+
+msgid "Vela"
+msgstr "Vela"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr "Gemma"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr "Guardians"
+
+msgid "feet"
+msgstr "peu"
+
+msgid "head"
+msgstr "cap"
+
+msgid "tail"
+msgstr "cua"
+
+msgid "Pointers"
+msgstr "Punters"
+
+msgid "paws"
+msgstr "arpes"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "cos"
+
+msgid "pipe"
+msgstr "tub "
+
+msgid "wing"
+msgstr "ala"
+
+msgid "outstretched neck"
+msgstr "coll estirat"
+
+msgid "Keystone"
+msgstr "Pedra angular"
+
+msgid "club"
+msgstr "garrot"
+
+msgid "the chain"
+msgstr "la cadena"
+
+msgid "horn"
+msgstr "banya"
+
+msgid "belt"
+msgstr "cinturó "
+
+msgid "shield"
+msgstr "escut"
+
+msgid "Hydra's head"
+msgstr "El cap d'Hidra"
+
+msgid "Hydra's tail"
+msgstr "La cua d'Hidra"
+
+msgid "bill"
+msgstr "factura"
+
+msgid "foot"
+msgstr "peu"
+
+msgid "arm"
+msgstr "braç"
+
+msgid "cat's eyes"
+msgstr "ulls de gat"
+
+msgid "claws"
+msgstr "arpes"
+
+msgid "skirt"
+msgstr "falda"
+
+msgid "the bow"
+msgstr "l'arc"
+
+msgid "vessel"
+msgstr "nau"
+
+msgid "Knot"
+msgstr "Nuc"
+
+msgid "Northern Fish"
+msgstr "Peix del Nord"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "mascaró"
+
+msgid "transom"
+msgstr "llinda"
+
+msgid "front legs"
+msgstr "potes davanteres"
+
+msgid "hind legs"
+msgstr "potes posteriors"
+
+msgid "ears"
+msgstr "orelles"
+
+msgid "Fly"
+msgstr "Mosca"
+
+msgid "eyes"
+msgstr "ulls"
+
+msgid "Pole Star"
+msgstr "Estrela Polar"
+
+msgid "Tau Ceti"
+msgstr "Tau Ceti"
+
+msgid "Alpha Centauri"
+msgstr "Alpha Centauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Centauri"

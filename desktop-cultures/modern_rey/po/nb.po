@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Norwegian Bokmål (https://app.transifex.com/stellarium/"
+"teams/80998/nb/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "Pleiadene"
+
+msgid "Ursa Minor"
+msgstr "Lille bjørn"
+
+msgid "Ursa Major"
+msgstr "Store bjørn"
+
+msgid "Draco"
+msgstr "Dragen"
+
+msgid "Cepheus"
+msgstr "Kefeus"
+
+msgid "Bootes"
+msgstr "Bjørnevokteren"
+
+msgid "Corona Borealis"
+msgstr "Den nordlige krone"
+
+msgid "Hercules"
+msgstr "Herkules"
+
+msgid "Lyra"
+msgstr "Lyren"
+
+msgid "Cygnus"
+msgstr "Svanen"
+
+msgid "Cassiopeia"
+msgstr "Kassiopeia"
+
+msgid "Perseus"
+msgstr "Persevs"
+
+msgid "Auriga"
+msgstr "Kusken"
+
+msgid "Ophiuchus"
+msgstr "Slangebæreren"
+
+msgid "Serpens"
+msgstr "Slangen"
+
+msgid "Sagitta"
+msgstr "Pilen"
+
+msgid "Aquila"
+msgstr "Ørnen"
+
+msgid "Delphinus"
+msgstr "Delfinen"
+
+msgid "Equuleus"
+msgstr "Føllet"
+
+msgid "Pegasus"
+msgstr "Pegasus"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Triangelet"
+
+msgid "Aries"
+msgstr "Væren"
+
+msgid "Taurus"
+msgstr "Tyren"
+
+msgid "Gemini"
+msgstr "Tvillingene"
+
+msgid "Cancer"
+msgstr "Krepsen"
+
+msgid "Leo"
+msgstr "Løven"
+
+msgid "Virgo"
+msgstr "Jomfruen"
+
+msgid "Libra"
+msgstr "Vekten"
+
+msgid "Scorpius"
+msgstr "Skorpionen"
+
+msgid "Sagittarius"
+msgstr "Skytten"
+
+msgid "Capricornus"
+msgstr "Steinbukken"
+
+msgid "Aquarius"
+msgstr "Vannmannen"
+
+msgid "Pisces"
+msgstr "Fiskene"
+
+msgid "Cetus"
+msgstr "Hvalfisken"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Floden"
+
+msgid "Lepus"
+msgstr "Haren"
+
+msgid "Canis Major"
+msgstr "Store hund"
+
+msgid "Canis Minor"
+msgstr "Lille hund"
+
+msgid "Hydra"
+msgstr "Vannslangen"
+
+msgid "Crater"
+msgstr "Begeret"
+
+msgid "Corvus"
+msgstr "Ravnen"
+
+msgid "Centaurus"
+msgstr "Kentauren"
+
+msgid "Lupus"
+msgstr "Ulven"
+
+msgid "Ara"
+msgstr "Alteret"
+
+msgid "Corona Australis"
+msgstr "Den sydlige krone"
+
+msgid "Piscis Austrinus"
+msgstr "Den sydlige fisk"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Sirius"
+msgstr "Sirius"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Billedhuggeren"
+
+msgid "Pyxis"
+msgstr "Kompasset"
+
+msgid "Caelum"
+msgstr "Meiselen"
+
+msgid "Chamaeleon"
+msgstr "Kameleonen"
+
+msgid "Carina"
+msgstr "Kjølen"
+
+msgid "Coma Berenices"
+msgstr "Berenikes hår"
+
+msgid "Canes Venatici"
+msgstr "Jakthundene"
+
+msgid "Columba"
+msgstr "Duen"
+
+msgid "Circinus"
+msgstr "Passeren"
+
+msgid "Crux"
+msgstr "Sydkorset"
+
+msgid "Dorado"
+msgstr "Gullfisken (sverdfisken)"
+
+msgid "Norma"
+msgstr "Vinkelhaken"
+
+msgid "Fornax"
+msgstr "Smelteovnen"
+
+msgid "Camelopardalis"
+msgstr "Giraffen"
+
+msgid "Grus"
+msgstr "Tranen"
+
+msgid "Horologium"
+msgstr "Uret"
+
+msgid "Hydrus"
+msgstr "Den sydlige vannslangen"
+
+msgid "Indus"
+msgstr "Indianeren"
+
+msgid "Lacerta"
+msgstr "Firfislen"
+
+msgid "Monoceros"
+msgstr "Enhjørningen"
+
+msgid "Lynx"
+msgstr "Gaupen"
+
+msgid "Antlia"
+msgstr "Luftpumpen"
+
+msgid "Microscopium"
+msgstr "Mikroskopet"
+
+msgid "Octans"
+msgstr "Oktanten"
+
+msgid "Apus"
+msgstr "Paradisfuglen"
+
+msgid "Pavo"
+msgstr "Påfuglen"
+
+msgid "Pictor"
+msgstr "Maleren"
+
+msgid "Leo Minor"
+msgstr "Den lille løve"
+
+msgid "Vulpecula"
+msgstr "Reven"
+
+msgid "Phoenix"
+msgstr "Føniks"
+
+msgid "Volans"
+msgstr "Flygefisken"
+
+msgid "Puppis"
+msgstr "Akterstavnen"
+
+msgid "Reticulum"
+msgstr "Nettet"
+
+msgid "Scutum"
+msgstr "Skjoldet"
+
+msgid "Sextans"
+msgstr "Sekstanten"
+
+msgid "Mensa"
+msgstr "Bordet"
+
+msgid "Telescopium"
+msgstr "Teleskopet"
+
+msgid "Tucana"
+msgstr "Tukanen"
+
+msgid "Triangulum Australe"
+msgstr "Det sydlige triangelet"
+
+msgid "Vela"
+msgstr "Seilet"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr ""
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alkor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr ""
+
+msgid "feet"
+msgstr ""
+
+msgid "head"
+msgstr ""
+
+msgid "tail"
+msgstr ""
+
+msgid "Pointers"
+msgstr ""
+
+msgid "paws"
+msgstr ""
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr ""
+
+msgid "pipe"
+msgstr ""
+
+msgid "wing"
+msgstr ""
+
+msgid "outstretched neck"
+msgstr ""
+
+msgid "Keystone"
+msgstr ""
+
+msgid "club"
+msgstr ""
+
+msgid "the chain"
+msgstr ""
+
+msgid "horn"
+msgstr ""
+
+msgid "belt"
+msgstr ""
+
+msgid "shield"
+msgstr ""
+
+msgid "Hydra's head"
+msgstr ""
+
+msgid "Hydra's tail"
+msgstr ""
+
+msgid "bill"
+msgstr ""
+
+msgid "foot"
+msgstr ""
+
+msgid "arm"
+msgstr ""
+
+msgid "cat's eyes"
+msgstr ""
+
+msgid "claws"
+msgstr ""
+
+msgid "skirt"
+msgstr ""
+
+msgid "the bow"
+msgstr ""
+
+msgid "vessel"
+msgstr ""
+
+msgid "Knot"
+msgstr ""
+
+msgid "Northern Fish"
+msgstr ""
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr ""
+
+msgid "transom"
+msgstr ""
+
+msgid "front legs"
+msgstr ""
+
+msgid "hind legs"
+msgstr ""
+
+msgid "ears"
+msgstr ""
+
+msgid "Fly"
+msgstr ""
+
+msgid "eyes"
+msgstr ""
+
+msgid "Pole Star"
+msgstr ""
+
+msgid "Tau Ceti"
+msgstr ""
+
+msgid "Alpha Centauri"
+msgstr ""
+
+msgid "Beta Centauri"
+msgstr ""

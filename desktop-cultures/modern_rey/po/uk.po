@@ -1,0 +1,632 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2024\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "Сучасна (H.A. Rey)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"During the 19th century the use and further editions of richly illustrated "
+"atlases with sumptuously engraved mythological figures fell out of fashion. "
+"The stars of the constellations in atlases of that time started to be shown "
+"connected with line patterns (\"stick figures\"), which however appear "
+"sometimes only to have been used to indicate which stars belong to which "
+"constellation. Over several decades the figures had ceased to resemble the "
+"figures they were named after and appeared incomprehensible to beginning "
+"stargazers in the middle of the 20th century."
+msgstr ""
+"Протягом XIX століття використання та подальше удосконалення яскраво "
+"ілюстрованих атласів із чудово оздобленими міфологічними зображеннями вийшло "
+"з моди. Зірки сузір’їв у атласах того часу почали з’єднувати простими "
+"лініями («малюнки з рисок»), які, втім, здається, іноді використовувалися "
+"лише для того, щоб позначити, до якого сузір’я належать ті чи інші зірки. За "
+"декілька десятиліть фігури сузір’їв вже не нагадували ті об’єкти, на честь "
+"яких було названо ці сузір’я, і стали незрозумілими для астрономів-"
+"початківців середини XX століття."
+
+# Sky culture description section in markdown format
+msgid ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H. A. Rey (Hans "
+"Augusto Reyersbach) (1898-1977), an artist and author of children's books of "
+"German descent but emigrated to the USA, published his answer to this "
+"problem in 1952 with the book *The Stars - A New Way To See Them*[#1][#2].\n"
+"\n"
+"### The Constellations\n"
+"\n"
+"In this book, which has become very popular especially in the US, Rey "
+"connected the stars of every constellation \"in such a way that the "
+"resulting shape makes sense.\" What surprised him was \"that nobody has done "
+"it before. The basic idea is so simple.\"\n"
+"\n"
+"Rey's new stick figures make it indeed very simple to recognize the depicted "
+"constellation figures. Rey's work does not include figurative artwork, "
+"therefore this sky culture deliberately only comes with Rey's original stick "
+"figures. The constellation names were also always given in English by Rey. "
+"If you switch to \"Native\" name display mode, you may see exactly the "
+"spelling used in his book. Also the stars named here are limited to those "
+"included in the book.\n"
+"\n"
+"### Rey's Figures and the Classic Constellations\n"
+"\n"
+"Rey's constellations adhere to the tradition of the Western sky culture and "
+"describes the 88 officially acknowledged constellations, with addition of "
+"asterisms of the two Dippers and the \"Great Square\" (of Pegasus). However, "
+"at several points Rey's figures deviate from the canonical figures described "
+"since Ptolemy's Almagest (2nd century AD), where also positions of the stars "
+"in their constellations had been described in their names. For example,\n"
+"\n"
+" -  Rey inverted the figure of the Great Bear (*Ursa Major*) to look like a "
+"polar bear scenting prey. This on one hand does not have the usual problem "
+"to explain its long tail. On the other hand, the bear is not shown to walk "
+"around the pole in this orientation.\n"
+" - The Bull (*Taurus*), only the front of which is shown with long upright "
+"horns in usual depictions, is shown with a complete body including its tail, "
+"with horns stretched wide like those of a buffalo. Its bright eye "
+"*Aldebaran* now lies in its neck.\n"
+" - The head of *Hercules* is usually next to the head of *Ophiuchus*, the "
+"serpent holder, and the four stars known as \"keystone\" form his body. Rey "
+"makes his head out of the keystone, and the star that usually marks the "
+"hero's head is now one of his feet.\n"
+" - The Whale (*Cetus*) has been turned around, its former mouth now forming "
+"a tail fin.\n"
+" - *Pegasus* exchanged feet and head.\n"
+" - *Bootes*, the herdsman, is shown sitting and smoking a pipe (no trace of "
+"political correctness in a children's book of the 1950s... :-)\n"
+"\n"
+"### External links\n"
+"\n"
+" - [H.A.Rey (Wikipedia)](http://en.wikipedia.org/wiki/H._A._Rey)"
+msgstr ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> Г. А. Рей (H. A. "
+"Rey або Ганс Августо Реєрсбах) (1898-1977) — художник і автор книг для "
+"дітей, американець німецького походження, у 1952 році звернувся до цієї "
+"проблеми у книзі *Зірки — Новий погляд на них*[#1][#2].\n"
+"\n"
+"### Сузір'я\n"
+"\n"
+"У цій книзі, яка набула величезної популярності, особливо у США, Рей з’єднав "
+"зірки усіх сузір’їв «так, щоб створені форми мали зрозумілий сенс». Його "
+"дивувало те, що «ніхто не зробив цього раніше. Адже основна ідея є дуже "
+"простою.»\n"
+"\n"
+"За допомогою малюнків з рисок, створених Реєм, і справді було дуже просто "
+"розпізнати зображене сузір’я. До роботи Рея не було включено складних "
+"малюнків, тому ця картина зоряного неба складається з оригінальних фігурок з "
+"рисок, намальованих Реєм. У ній також завжди використовуються назви сузір’їв "
+"англійською, використані Реєм. Якщо ви перемкнетеся на режим показу "
+"перекладених назв, ви побачите ті самі назви, що і у книзі Рея. Крім того, "
+"перелік назв зірок обмежено тими зірками, які описано у книзі Рея.\n"
+"\n"
+"### Малюнки Рея та класичні сузір’я\n"
+"\n"
+"У картині зоряного неба Рея використано традиційні для західноєвропейської "
+"культури сузір’я і описано 88 офіційних сузір’їв з додаванням двох Ковшів та "
+"«Великого Квадрата» (Пегаса). Втім, у деяких моментах малюнки Рея "
+"відрізняються від канонічних форм, відомих ще з часів «Альмагеста» Птолемея "
+"(друге століття нашої ери), де позиції зірок у сузір’ях описано назвами цих "
+"зірок. Наприклад,\n"
+"\n"
+" -  Реєм винайдено фігуру Великої Ведмедиці (*Ursa Major*), яка виглядає як "
+"полярний ведмідь, що нюхає здобич. З одного боку, таким чином можна уникнути "
+"пояснень щодо довгого хвоста ведмедиці. З іншого ж боку, ведмедиця не йде "
+"навколо полюса за орієнтацією.\n"
+" - Бика (*Тільця*), традиційне зображення якого складалося лише з передньої "
+"частини з довгими спрямованими вгору рогами, показано повністю разом із "
+"хвостом, із широко розставленими рогами, як у буйвола. Його яскраве око, "
+"*Альдебаран* у новому зображенні розташовано на шиї.\n"
+" - Голову *Геракла* зазвичай розташовували поруч із головою *Змієносця*, а "
+"чотири зірки, відомі як «наріжний камінь», формували його тіло. Рей же "
+"зробив із наріжного каменя голову героя, а зірку, яка зазвичай позначала "
+"голову Геракла, розташував на його нозі.\n"
+" - Кита (*Cetus*) розвернуто, його традиційна паща тепер є кінцем хвоста.\n"
+" - *Пегас* поміняв місцями ноги і голову.\n"
+" - *Волопас*, пастух, тепер сидить і палить люльку (у книжках 50-х років для "
+"дітей немає і сліду політкоректності... :-)\n"
+"\n"
+"### Зовнішні посилання:\n"
+"\n"
+" - [H.A.Rey (Вікіпедія)](http://en.wikipedia.org/wiki/H._A._Rey)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture used to be for a long time an easy user-installable addon "
+"example contributed by Mike Richards. It has been reworked following the "
+"41st reprint and completed with this description by Georg Zotti."
+msgstr ""
+"Ця картина зоряного неба використовується довгий час у форматі простого для "
+"встановлення додатка, створеного Майком Річардсом (Mike Richards). Її було "
+"перероблено відповідно до 41-го видання книги і завершено цим описом Георгом "
+"Зотті (Georg Zotti)."
+
+msgid "Pleiades"
+msgstr "Плеяди"
+
+msgid "Ursa Minor"
+msgstr "Мала Ведмедиця"
+
+msgid "Ursa Major"
+msgstr "Велика Ведмедиця"
+
+msgid "Draco"
+msgstr "Дракон"
+
+msgid "Cepheus"
+msgstr "Цефей"
+
+msgid "Bootes"
+msgstr "Волопас"
+
+msgid "Corona Borealis"
+msgstr "Північна Корона"
+
+msgid "Hercules"
+msgstr "Геркулес"
+
+msgid "Lyra"
+msgstr "Ліра"
+
+msgid "Cygnus"
+msgstr "Лебідь"
+
+msgid "Cassiopeia"
+msgstr "Кассіопея"
+
+msgid "Perseus"
+msgstr "Персей"
+
+msgid "Auriga"
+msgstr "Візничий"
+
+msgid "Ophiuchus"
+msgstr "Змієносець"
+
+msgid "Serpens"
+msgstr "Змія"
+
+msgid "Sagitta"
+msgstr "Стріла"
+
+msgid "Aquila"
+msgstr "Орел"
+
+msgid "Delphinus"
+msgstr "Дельфін"
+
+msgid "Equuleus"
+msgstr "Малий Кінь"
+
+msgid "Pegasus"
+msgstr "Пегас"
+
+msgid "Andromeda"
+msgstr "Андромеда"
+
+msgid "Triangulum"
+msgstr "Трикутник"
+
+msgid "Aries"
+msgstr "Овен"
+
+msgid "Taurus"
+msgstr "Телець"
+
+msgid "Gemini"
+msgstr "Близнюки"
+
+msgid "Cancer"
+msgstr "Рак"
+
+msgid "Leo"
+msgstr "Лев"
+
+msgid "Virgo"
+msgstr "Діва"
+
+msgid "Libra"
+msgstr "Терези"
+
+msgid "Scorpius"
+msgstr "Скорпіон"
+
+msgid "Sagittarius"
+msgstr "Стрілець"
+
+msgid "Capricornus"
+msgstr "Козоріг"
+
+msgid "Aquarius"
+msgstr "Водолій"
+
+msgid "Pisces"
+msgstr "Риби"
+
+msgid "Cetus"
+msgstr "Левіафан"
+
+msgid "Orion"
+msgstr "Оріон"
+
+msgid "Eridanus"
+msgstr "Ерідан"
+
+msgid "Lepus"
+msgstr "Заєць"
+
+msgid "Canis Major"
+msgstr "Великий Пес"
+
+msgid "Canis Minor"
+msgstr "Малий Пес"
+
+msgid "Hydra"
+msgstr "Гідра"
+
+msgid "Crater"
+msgstr "Чаша"
+
+msgid "Corvus"
+msgstr "Ворон"
+
+msgid "Centaurus"
+msgstr "Кентавр"
+
+msgid "Lupus"
+msgstr "Вовк"
+
+msgid "Ara"
+msgstr "Ara"
+
+msgid "Corona Australis"
+msgstr "Південна Корона"
+
+msgid "Piscis Austrinus"
+msgstr "Південна Риба"
+
+msgid "Procyon"
+msgstr "Проціон"
+
+msgid "Sirius"
+msgstr "Сіріус"
+
+msgid "Arcturus"
+msgstr "Арктур"
+
+msgid "Vega"
+msgstr "Вега"
+
+msgid "Capella"
+msgstr "Капелла"
+
+msgid "Aldebaran"
+msgstr "Альдебарана"
+
+msgid "Regulus"
+msgstr "Регул"
+
+msgid "Denebola"
+msgstr "Денебола"
+
+msgid "Spica"
+msgstr "Спіка"
+
+msgid "Fomalhaut"
+msgstr "Фомальгаут"
+
+msgid "Betelgeuse"
+msgstr "Бетельгейзе"
+
+msgid "Rigel"
+msgstr "Рігель"
+
+msgid "Canopus"
+msgstr "Канопус"
+
+msgid "Achernar"
+msgstr "Ахернар"
+
+msgid "Acrux"
+msgstr "Акрукс"
+
+msgid "Antares"
+msgstr "Антарес"
+
+msgid "Sculptor"
+msgstr "Скульптор"
+
+msgid "Pyxis"
+msgstr "Компас"
+
+msgid "Caelum"
+msgstr "Різець"
+
+msgid "Chamaeleon"
+msgstr "Хамелеон"
+
+msgid "Carina"
+msgstr "Кіль"
+
+msgid "Coma Berenices"
+msgstr "Волосся Вероніки"
+
+msgid "Canes Venatici"
+msgstr "Гончі Пси"
+
+msgid "Columba"
+msgstr "Голуб"
+
+msgid "Circinus"
+msgstr "Циркуль"
+
+msgid "Crux"
+msgstr "Хрест (Південний)"
+
+msgid "Dorado"
+msgstr "Золота Риба"
+
+msgid "Norma"
+msgstr "Косинець"
+
+msgid "Fornax"
+msgstr "Піч"
+
+msgid "Camelopardalis"
+msgstr "Жирафа"
+
+msgid "Grus"
+msgstr "Журавель"
+
+msgid "Horologium"
+msgstr "Годинник"
+
+msgid "Hydrus"
+msgstr "Південний Змій"
+
+msgid "Indus"
+msgstr "Індієць"
+
+msgid "Lacerta"
+msgstr "Ящірка"
+
+msgid "Monoceros"
+msgstr "Одноріг"
+
+msgid "Lynx"
+msgstr "Рись"
+
+msgid "Antlia"
+msgstr "Насос"
+
+msgid "Microscopium"
+msgstr "Мікроскоп"
+
+msgid "Octans"
+msgstr "Октант"
+
+msgid "Apus"
+msgstr "Райський Птах"
+
+msgid "Pavo"
+msgstr "Павич"
+
+msgid "Pictor"
+msgstr "Живописець"
+
+msgid "Leo Minor"
+msgstr "Малий Лев"
+
+msgid "Vulpecula"
+msgstr "Лисичка"
+
+msgid "Phoenix"
+msgstr "Фенікс"
+
+msgid "Volans"
+msgstr "Летюча Риба"
+
+msgid "Puppis"
+msgstr "Корма"
+
+msgid "Reticulum"
+msgstr "Сітка"
+
+msgid "Scutum"
+msgstr "Щит"
+
+msgid "Sextans"
+msgstr "Секстант"
+
+msgid "Mensa"
+msgstr "Столова Гора"
+
+msgid "Telescopium"
+msgstr "Телескоп"
+
+msgid "Tucana"
+msgstr "Тукан"
+
+msgid "Triangulum Australe"
+msgstr "Південний Трикутник"
+
+msgid "Vela"
+msgstr "Вітрила"
+
+msgid "Altair"
+msgstr "Альтаїр"
+
+msgid "Cor Caroli"
+msgstr "Кор Каролі"
+
+msgid "Mira"
+msgstr "Міра"
+
+msgid "Gemma"
+msgstr "Гемма"
+
+msgid "Deneb"
+msgstr "Денеб"
+
+msgid "Albireo"
+msgstr "Альбірео"
+
+msgid "Thuban"
+msgstr "Тубан"
+
+msgid "Castor"
+msgstr "Кастор"
+
+msgid "Pollux"
+msgstr "Поллукс"
+
+msgid "Alphard"
+msgstr "Альфард"
+
+msgid "Algol"
+msgstr "Алгол"
+
+msgid "Mizar"
+msgstr "Міцар"
+
+msgid "Alcor"
+msgstr "Алькор"
+
+msgid "Kochab"
+msgstr "Кохаб"
+
+msgid "Guardians"
+msgstr "Охоронці"
+
+msgid "feet"
+msgstr "ноги"
+
+msgid "head"
+msgstr "голова"
+
+msgid "tail"
+msgstr "хвіст"
+
+msgid "Pointers"
+msgstr "Вказівники"
+
+msgid "paws"
+msgstr "лапи"
+
+msgid "rump"
+msgstr "Крижі"
+
+msgid "body"
+msgstr "тіло"
+
+msgid "pipe"
+msgstr "горло"
+
+msgid "wing"
+msgstr "крило"
+
+msgid "outstretched neck"
+msgstr "витягнута шия"
+
+msgid "Keystone"
+msgstr "Наріжний Камінь"
+
+msgid "club"
+msgstr "палиця"
+
+msgid "the chain"
+msgstr "ланцюг"
+
+msgid "horn"
+msgstr "ріг"
+
+msgid "belt"
+msgstr "пояс"
+
+msgid "shield"
+msgstr "щит"
+
+msgid "Hydra's head"
+msgstr "Голова Гідри"
+
+msgid "Hydra's tail"
+msgstr "Хвіст Гідри"
+
+msgid "bill"
+msgstr "дзьоб"
+
+msgid "foot"
+msgstr "нога"
+
+msgid "arm"
+msgstr "рука"
+
+msgid "cat's eyes"
+msgstr "очі кота"
+
+msgid "claws"
+msgstr "щелепи"
+
+msgid "skirt"
+msgstr "спідниця"
+
+msgid "the bow"
+msgstr "лук"
+
+msgid "vessel"
+msgstr "посудина"
+
+msgid "Knot"
+msgstr "Вузол"
+
+msgid "Northern Fish"
+msgstr "Північна Риба"
+
+msgid "Western Fish"
+msgstr "Західна Риба"
+
+msgid "figurehead"
+msgstr "носова фігура"
+
+msgid "transom"
+msgstr "поперечина"
+
+msgid "front legs"
+msgstr "передні ноги"
+
+msgid "hind legs"
+msgstr "задні ноги"
+
+msgid "ears"
+msgstr "вуха"
+
+msgid "Fly"
+msgstr "Муха"
+
+msgid "eyes"
+msgstr "очі"
+
+msgid "Pole Star"
+msgstr "Полярна зірка"
+
+msgid "Tau Ceti"
+msgstr "τ Кита"
+
+msgid "Alpha Centauri"
+msgstr "α Центавра"
+
+msgid "Beta Centauri"
+msgstr "β Центавра"

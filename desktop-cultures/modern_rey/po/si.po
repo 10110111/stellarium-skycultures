@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Sinhala (https://app.transifex.com/stellarium/teams/80998/"
+"si/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: si\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "හත්දින්න"
+
+msgid "Ursa Minor"
+msgstr "අර්ෂා මයිනර් (කුඩා වලහා)"
+
+msgid "Ursa Major"
+msgstr "අර්ෂා මේජර් (මහ වලහා)"
+
+msgid "Draco"
+msgstr "ඩ්‍රැකෝ (මකරා)"
+
+msgid "Cepheus"
+msgstr "සෙපියස්"
+
+msgid "Bootes"
+msgstr "බූටස් (ගොපල්ලා)"
+
+msgid "Corona Borealis"
+msgstr "කොරෝනා බොරියාලිස් (උතුරු ඔටුන්න)"
+
+msgid "Hercules"
+msgstr "හර්කියුලීස්"
+
+msgid "Lyra"
+msgstr "ලයිරා (වීණාව)"
+
+msgid "Cygnus"
+msgstr "සිග්නස් (හංසයා)"
+
+msgid "Cassiopeia"
+msgstr "කැසියෝපියා"
+
+msgid "Perseus"
+msgstr "පර්සියස්"
+
+msgid "Auriga"
+msgstr "ඔරිගා (රියැදුරු)"
+
+msgid "Ophiuchus"
+msgstr "ඔපියුකස් (සපුන් දරන්නා)"
+
+msgid "Serpens"
+msgstr "සර්පන්ස් (සර්පයා)"
+
+msgid "Sagitta"
+msgstr "සැජිටා (ඊ තලය)"
+
+msgid "Aquila"
+msgstr "ඇක්වයිලා (රාජාලියා)"
+
+msgid "Delphinus"
+msgstr "ඩෙල්‍‍ෆීන්ස් (ඩොල්ෆින්)"
+
+msgid "Equuleus"
+msgstr "ඊක්වලස් (අශ්ව පැටවා)"
+
+msgid "Pegasus"
+msgstr "පෙගසස්"
+
+msgid "Andromeda"
+msgstr "ඇන්ඩ්‍රොමීඩා"
+
+msgid "Triangulum"
+msgstr "ට්‍රයැංගියුලම් (ත්‍රිකෝණය)"
+
+msgid "Aries"
+msgstr "ඒරියස් (මේෂ)"
+
+msgid "Taurus"
+msgstr "ටෝරස් (වෘෂභ)"
+
+msgid "Gemini"
+msgstr "ජෙමිනි (මිථුන)"
+
+msgid "Cancer"
+msgstr "කැන්සර් (කටක)"
+
+msgid "Leo"
+msgstr "ලියෝ (සිංහ)"
+
+msgid "Virgo"
+msgstr "වර්ගෝ (කන්‍යා)"
+
+msgid "Libra"
+msgstr "ලිබ්රා (තුලා)"
+
+msgid "Scorpius"
+msgstr "ස්කෝර්පියස් (වෘශ්චික)"
+
+msgid "Sagittarius"
+msgstr "සැජිටේරියස් (ධනු)"
+
+msgid "Capricornus"
+msgstr "කැප්රිකෝනස් (මකර)"
+
+msgid "Aquarius"
+msgstr "ඇක්වේරියස් (කුම්භ)"
+
+msgid "Pisces"
+msgstr "පීසස් (මීන)"
+
+msgid "Cetus"
+msgstr "සීටස්"
+
+msgid "Orion"
+msgstr "ඔරායන් හෙවත් දඩයක්කාරයා"
+
+msgid "Eridanus"
+msgstr "එරිඩේනස් නම් නදිය"
+
+msgid "Lepus"
+msgstr "ලෙපස් (හාවා)"
+
+msgid "Canis Major"
+msgstr "කානිස් මේජර් (මහ බල්ලා)"
+
+msgid "Canis Minor"
+msgstr "කානිස් මයිනර් (කුඩා බල්ලා)"
+
+msgid "Hydra"
+msgstr "හයිඩ්‍රා"
+
+msgid "Crater"
+msgstr "ක්‍රේටර් (කෝප්පය)"
+
+msgid "Corvus"
+msgstr "කෝවස් (කාක්කා)"
+
+msgid "Centaurus"
+msgstr "සෙන්ටෝරස් (නාරාශ්වයා)"
+
+msgid "Lupus"
+msgstr "ලූපස් (වෘකයා)"
+
+msgid "Ara"
+msgstr "ඇරා (ආරාව)"
+
+msgid "Corona Australis"
+msgstr "කොරෝනා ඔස්‍ට්‍රලිස් (දකුණු ඔටුන්න)"
+
+msgid "Piscis Austrinus"
+msgstr "පීසිස් ඔස්ට්‍රිනස් (දකුණු මීන)"
+
+msgid "Procyon"
+msgstr "ප්‍රොසියොන්"
+
+msgid "Sirius"
+msgstr "සීරියස්"
+
+msgid "Arcturus"
+msgstr "ආර්ක්ටුරස්"
+
+msgid "Vega"
+msgstr "වේගා"
+
+msgid "Capella"
+msgstr "කැපෙල්ලා"
+
+msgid "Aldebaran"
+msgstr "අල්ඩිබෙරාන්"
+
+msgid "Regulus"
+msgstr "රෙගියුලස්"
+
+msgid "Denebola"
+msgstr "ඩෙනෙබෝලා"
+
+msgid "Spica"
+msgstr "ස්පයිකා"
+
+msgid "Fomalhaut"
+msgstr "ෆෝමල්හෝට්"
+
+msgid "Betelgeuse"
+msgstr "බිටල්ජූස්"
+
+msgid "Rigel"
+msgstr "රිජෙල්"
+
+msgid "Canopus"
+msgstr "කැනෝපස්"
+
+msgid "Achernar"
+msgstr "ආචර්නර්"
+
+msgid "Acrux"
+msgstr "ඒක්රක්ස්"
+
+msgid "Antares"
+msgstr "ඇන්ටාරස්"
+
+msgid "Sculptor"
+msgstr "ස්කල්ප්ටර් (ප්‍රතිමාකරු)"
+
+msgid "Pyxis"
+msgstr "පික්සිස් (මාලිමාව)"
+
+msgid "Caelum"
+msgstr "කයෙලම් (කොත් කොටුව)"
+
+msgid "Chamaeleon"
+msgstr "කමීලියන්"
+
+msgid "Carina"
+msgstr "කරීනා (නැව් තලය)"
+
+msgid "Coma Berenices"
+msgstr "කොමා බෙරනීසස් (බෙරනීස්ගේ කේෂකලාපය)"
+
+msgid "Canes Venatici"
+msgstr "කානස් වෙනටිසි (දඩයම් සුනඛයෝ)"
+
+msgid "Columba"
+msgstr "කොලුම්බා (පරෙවියා)"
+
+msgid "Circinus"
+msgstr "සර්සිනස් (කවකටුව)"
+
+msgid "Crux"
+msgstr "ක්‍රක්ස් (කුරුසය)"
+
+msgid "Dorado"
+msgstr "ඩොරාඩෝ නම් මත්ස්‍යයා"
+
+msgid "Norma"
+msgstr "නෝර්මා (මට්ටම් ලෑල්ල)"
+
+msgid "Fornax"
+msgstr "ෆෝනැක්ස් (උඳුන)"
+
+msgid "Camelopardalis"
+msgstr "කමෙලොපර්ඩාලිස් (ජිරාෆ්)"
+
+msgid "Grus"
+msgstr "ග්‍රස් (දොඹකරය)"
+
+msgid "Horologium"
+msgstr "හොරොලොජියම් (අවලම්භ ඔරලෝසුව )"
+
+msgid "Hydrus"
+msgstr "හයිඩ්‍රස් (කුඩා හයිඩ්‍රා)"
+
+msgid "Indus"
+msgstr "ඉන්ඩස් (ඉන්දියානුවා)"
+
+msgid "Lacerta"
+msgstr "ලසෙර්ටා (කටුස්සා)"
+
+msgid "Monoceros"
+msgstr "මොනොසෙරස් (කඟ‍වේනා)"
+
+msgid "Lynx"
+msgstr "ලින්ක්ස්"
+
+msgid "Antlia"
+msgstr "ඇන්ට්ලියා (සුළං පොම්පය)"
+
+msgid "Microscopium"
+msgstr "මයික්‍රොස්කෝපියම් (අන්වීක්ෂය)"
+
+msgid "Octans"
+msgstr "ඔක්ටන්ස් (අෂ්ටාස්‍රය)"
+
+msgid "Apus"
+msgstr "ඒපස් (ස්වර්ගයේ පක්ෂියා)"
+
+msgid "Pavo"
+msgstr "පාවො (මොණරා)"
+
+msgid "Pictor"
+msgstr "පික්ටර් (සිතුවම් පුවරුව"
+
+msgid "Leo Minor"
+msgstr "ලියෝ මයිනර් (කුඩා සිංහයා)"
+
+msgid "Vulpecula"
+msgstr "වෙල්පෙකියුලා (නරියා)"
+
+msgid "Phoenix"
+msgstr "ෆීනික්ස්"
+
+msgid "Volans"
+msgstr "වොලාන්ස් (පියාඹන මාළුවා)"
+
+msgid "Puppis"
+msgstr "පපිස් (නැවේ අවර)"
+
+msgid "Reticulum"
+msgstr "රෙටිකියුලම් (දැල)"
+
+msgid "Scutum"
+msgstr "ස්කූටම් (පළිහ)"
+
+msgid "Sextans"
+msgstr "සෙක්ස්ටන්ස් (හයෙන් පංගුව)"
+
+msgid "Mensa"
+msgstr "මෙන්සා (පැතලි හිසැති කන්ද)"
+
+msgid "Telescopium"
+msgstr "ටෙලස්කෝපියම් (දුරේක්ෂය)"
+
+msgid "Tucana"
+msgstr "ටුකානා (ටෝකනය)"
+
+msgid "Triangulum Australe"
+msgstr "ට්‍රයැංගියුලම් ඔස්ට්‍රේල් (දකුණු ත්‍රිකෝණය)"
+
+msgid "Vela"
+msgstr "වේලා (නැව)"
+
+msgid "Altair"
+msgstr "අල්ටෙයාර්"
+
+msgid "Cor Caroli"
+msgstr "කොර් කරෝලි"
+
+msgid "Mira"
+msgstr "මීරා"
+
+msgid "Gemma"
+msgstr ""
+
+msgid "Deneb"
+msgstr "ඩෙනෙබ්"
+
+msgid "Albireo"
+msgstr "ඇල්බයිරියෝ"
+
+msgid "Thuban"
+msgstr "තුබාන්"
+
+msgid "Castor"
+msgstr "කැස්ටර්"
+
+msgid "Pollux"
+msgstr "පොලක්ස්"
+
+msgid "Alphard"
+msgstr "ඇල්ෆර්ඩ්"
+
+msgid "Algol"
+msgstr "ඇල්ගොල්"
+
+msgid "Mizar"
+msgstr "මි(z)සාර්"
+
+msgid "Alcor"
+msgstr "ඇල්කෝර්"
+
+msgid "Kochab"
+msgstr ""
+
+msgid "Guardians"
+msgstr ""
+
+msgid "feet"
+msgstr ""
+
+msgid "head"
+msgstr ""
+
+msgid "tail"
+msgstr ""
+
+msgid "Pointers"
+msgstr ""
+
+msgid "paws"
+msgstr ""
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr ""
+
+msgid "pipe"
+msgstr ""
+
+msgid "wing"
+msgstr ""
+
+msgid "outstretched neck"
+msgstr ""
+
+msgid "Keystone"
+msgstr ""
+
+msgid "club"
+msgstr ""
+
+msgid "the chain"
+msgstr ""
+
+msgid "horn"
+msgstr ""
+
+msgid "belt"
+msgstr ""
+
+msgid "shield"
+msgstr ""
+
+msgid "Hydra's head"
+msgstr ""
+
+msgid "Hydra's tail"
+msgstr ""
+
+msgid "bill"
+msgstr ""
+
+msgid "foot"
+msgstr ""
+
+msgid "arm"
+msgstr ""
+
+msgid "cat's eyes"
+msgstr ""
+
+msgid "claws"
+msgstr ""
+
+msgid "skirt"
+msgstr ""
+
+msgid "the bow"
+msgstr ""
+
+msgid "vessel"
+msgstr ""
+
+msgid "Knot"
+msgstr ""
+
+msgid "Northern Fish"
+msgstr ""
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr ""
+
+msgid "transom"
+msgstr ""
+
+msgid "front legs"
+msgstr ""
+
+msgid "hind legs"
+msgstr ""
+
+msgid "ears"
+msgstr ""
+
+msgid "Fly"
+msgstr ""
+
+msgid "eyes"
+msgstr ""
+
+msgid "Pole Star"
+msgstr ""
+
+msgid "Tau Ceti"
+msgstr ""
+
+msgid "Alpha Centauri"
+msgstr ""
+
+msgid "Beta Centauri"
+msgstr ""

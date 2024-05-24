@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Romanian (https://app.transifex.com/stellarium/teams/80998/"
+"ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "Pleiadele"
+
+msgid "Ursa Minor"
+msgstr "Ursa Mică"
+
+msgid "Ursa Major"
+msgstr "Ursa mare"
+
+msgid "Draco"
+msgstr "Dragonul"
+
+msgid "Cepheus"
+msgstr "Cefeu"
+
+msgid "Bootes"
+msgstr "Ursul conducător"
+
+msgid "Corona Borealis"
+msgstr "Coroana boreală"
+
+msgid "Hercules"
+msgstr "Hercule"
+
+msgid "Lyra"
+msgstr "Lira"
+
+msgid "Cygnus"
+msgstr "Lebăda"
+
+msgid "Cassiopeia"
+msgstr "Casiopeia"
+
+msgid "Perseus"
+msgstr "Perseu"
+
+msgid "Auriga"
+msgstr "Vizitiul"
+
+msgid "Ophiuchus"
+msgstr "Ofiucus"
+
+msgid "Serpens"
+msgstr "Șarpele"
+
+msgid "Sagitta"
+msgstr "Săgeata"
+
+msgid "Aquila"
+msgstr "Acvila"
+
+msgid "Delphinus"
+msgstr "Delfinul"
+
+msgid "Equuleus"
+msgstr "Calul mic"
+
+msgid "Pegasus"
+msgstr "Pegas"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Triunghiul"
+
+msgid "Aries"
+msgstr "Berbecul"
+
+msgid "Taurus"
+msgstr "Taurul"
+
+msgid "Gemini"
+msgstr "Gemeni"
+
+msgid "Cancer"
+msgstr "Racul"
+
+msgid "Leo"
+msgstr "Leul"
+
+msgid "Virgo"
+msgstr "Fecioara"
+
+msgid "Libra"
+msgstr "Balanța"
+
+msgid "Scorpius"
+msgstr "Scorpionul"
+
+msgid "Sagittarius"
+msgstr "Săgetătorul"
+
+msgid "Capricornus"
+msgstr "Capricornul"
+
+msgid "Aquarius"
+msgstr "Vărsătorul"
+
+msgid "Pisces"
+msgstr "Peștii"
+
+msgid "Cetus"
+msgstr "Balena"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Eridan"
+
+msgid "Lepus"
+msgstr "Iepurele"
+
+msgid "Canis Major"
+msgstr "Câinele mare"
+
+msgid "Canis Minor"
+msgstr "Câinele mic"
+
+msgid "Hydra"
+msgstr "Hidra"
+
+msgid "Crater"
+msgstr "Cupa"
+
+msgid "Corvus"
+msgstr "Corbul"
+
+msgid "Centaurus"
+msgstr "Centaurul"
+
+msgid "Lupus"
+msgstr "Lupul"
+
+msgid "Ara"
+msgstr "Altarul"
+
+msgid "Corona Australis"
+msgstr "Coroana australă"
+
+msgid "Piscis Austrinus"
+msgstr "Peștele Austral"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Sirius"
+msgstr "Sirius"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Formalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Sculptorul"
+
+msgid "Pyxis"
+msgstr "Busola"
+
+msgid "Caelum"
+msgstr "Cerul"
+
+msgid "Chamaeleon"
+msgstr "Cameleonul"
+
+msgid "Carina"
+msgstr "Carena"
+
+msgid "Coma Berenices"
+msgstr "Părul Berenicei"
+
+msgid "Canes Venatici"
+msgstr "Câinii de vânătoare"
+
+msgid "Columba"
+msgstr "Porumbelul"
+
+msgid "Circinus"
+msgstr "Compasul"
+
+msgid "Crux"
+msgstr "Crucea"
+
+msgid "Dorado"
+msgstr "Peștele de aur"
+
+msgid "Norma"
+msgstr "Echerul"
+
+msgid "Fornax"
+msgstr "Cuptorul"
+
+msgid "Camelopardalis"
+msgstr "Girafa"
+
+msgid "Grus"
+msgstr "Cocorul"
+
+msgid "Horologium"
+msgstr "Orologiul"
+
+msgid "Hydrus"
+msgstr "Hidra australă"
+
+msgid "Indus"
+msgstr "Indianul"
+
+msgid "Lacerta"
+msgstr "Șopârla"
+
+msgid "Monoceros"
+msgstr "Unicornul"
+
+msgid "Lynx"
+msgstr "Linxul"
+
+msgid "Antlia"
+msgstr "Mașina pneumatică"
+
+msgid "Microscopium"
+msgstr "Microscopul"
+
+msgid "Octans"
+msgstr "Octantul"
+
+msgid "Apus"
+msgstr "Pasărea paradisului"
+
+msgid "Pavo"
+msgstr "Păunul"
+
+msgid "Pictor"
+msgstr "Pictorul"
+
+msgid "Leo Minor"
+msgstr "Leul mic"
+
+msgid "Vulpecula"
+msgstr "Vulpea"
+
+msgid "Phoenix"
+msgstr "Phoenix"
+
+msgid "Volans"
+msgstr "Peștele zburător"
+
+msgid "Puppis"
+msgstr "Pupa"
+
+msgid "Reticulum"
+msgstr "Reticulul"
+
+msgid "Scutum"
+msgstr "Scutul"
+
+msgid "Sextans"
+msgstr "Sextantul"
+
+msgid "Mensa"
+msgstr "Platoul"
+
+msgid "Telescopium"
+msgstr "Telescopul"
+
+msgid "Tucana"
+msgstr "Tucanul"
+
+msgid "Triangulum Australe"
+msgstr "Triunghiul Austral"
+
+msgid "Vela"
+msgstr "Pânza"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr "Gemma"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr "Paznicii"
+
+msgid "feet"
+msgstr "picioare"
+
+msgid "head"
+msgstr "capul"
+
+msgid "tail"
+msgstr "coada"
+
+msgid "Pointers"
+msgstr "Indicatoare"
+
+msgid "paws"
+msgstr "labele"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "corpul"
+
+msgid "pipe"
+msgstr ""
+
+msgid "wing"
+msgstr "aripa"
+
+msgid "outstretched neck"
+msgstr "Gîtul întins"
+
+msgid "Keystone"
+msgstr "Cheie de boltă"
+
+msgid "club"
+msgstr "ciomag "
+
+msgid "the chain"
+msgstr "lanţul"
+
+msgid "horn"
+msgstr ""
+
+msgid "belt"
+msgstr "centura"
+
+msgid "shield"
+msgstr "scutul"
+
+msgid "Hydra's head"
+msgstr "Capul hidrei"
+
+msgid "Hydra's tail"
+msgstr "Coada hidrei"
+
+msgid "bill"
+msgstr "cioc"
+
+msgid "foot"
+msgstr "picior"
+
+msgid "arm"
+msgstr "braț"
+
+msgid "cat's eyes"
+msgstr "ochii pisicii"
+
+msgid "claws"
+msgstr "ghiare"
+
+msgid "skirt"
+msgstr "fusta"
+
+msgid "the bow"
+msgstr "arcul"
+
+msgid "vessel"
+msgstr ""
+
+msgid "Knot"
+msgstr "Nodul"
+
+msgid "Northern Fish"
+msgstr "Peştele nordului"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr ""
+
+msgid "transom"
+msgstr ""
+
+msgid "front legs"
+msgstr "picioarele anterioare"
+
+msgid "hind legs"
+msgstr "picioarele posterioare"
+
+msgid "ears"
+msgstr "urechi"
+
+msgid "Fly"
+msgstr "Musca"
+
+msgid "eyes"
+msgstr "ochi"
+
+msgid "Pole Star"
+msgstr "Steaua polară"
+
+msgid "Tau Ceti"
+msgstr "Tau Ceti"
+
+msgid "Alpha Centauri"
+msgstr "Alpha Centauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Centauri"

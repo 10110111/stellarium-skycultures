@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Georg Zotti <Georg.Zotti@univie.ac.at>, 2023\n"
+"Language-Team: German (https://app.transifex.com/stellarium/teams/80998/"
+"de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "Modern (H.A. Rey)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"During the 19th century the use and further editions of richly illustrated "
+"atlases with sumptuously engraved mythological figures fell out of fashion. "
+"The stars of the constellations in atlases of that time started to be shown "
+"connected with line patterns (\"stick figures\"), which however appear "
+"sometimes only to have been used to indicate which stars belong to which "
+"constellation. Over several decades the figures had ceased to resemble the "
+"figures they were named after and appeared incomprehensible to beginning "
+"stargazers in the middle of the 20th century."
+msgstr ""
+"During the 19th century the use and further editions of richly illustrated "
+"atlases with sumptuously engraved mythological figures fell out of fashion. "
+"The stars of the constellations in atlases of that time started to be shown "
+"connected with line patterns (\"stick figures\"), which however appear "
+"sometimes only to have been used to indicate which stars belong to which "
+"constellation. Over several decades the figures had ceased to resemble the "
+"figures they were named after and appeared incomprehensible to beginning "
+"stargazers in the middle of the 20th century."
+
+# Sky culture description section in markdown format
+msgid ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H. A. Rey (Hans "
+"Augusto Reyersbach) (1898-1977), an artist and author of children's books of "
+"German descent but emigrated to the USA, published his answer to this "
+"problem in 1952 with the book *The Stars - A New Way To See Them*[#1][#2].\n"
+"\n"
+"### The Constellations\n"
+"\n"
+"In this book, which has become very popular especially in the US, Rey "
+"connected the stars of every constellation \"in such a way that the "
+"resulting shape makes sense.\" What surprised him was \"that nobody has done "
+"it before. The basic idea is so simple.\"\n"
+"\n"
+"Rey's new stick figures make it indeed very simple to recognize the depicted "
+"constellation figures. Rey's work does not include figurative artwork, "
+"therefore this sky culture deliberately only comes with Rey's original stick "
+"figures. The constellation names were also always given in English by Rey. "
+"If you switch to \"Native\" name display mode, you may see exactly the "
+"spelling used in his book. Also the stars named here are limited to those "
+"included in the book.\n"
+"\n"
+"### Rey's Figures and the Classic Constellations\n"
+"\n"
+"Rey's constellations adhere to the tradition of the Western sky culture and "
+"describes the 88 officially acknowledged constellations, with addition of "
+"asterisms of the two Dippers and the \"Great Square\" (of Pegasus). However, "
+"at several points Rey's figures deviate from the canonical figures described "
+"since Ptolemy's Almagest (2nd century AD), where also positions of the stars "
+"in their constellations had been described in their names. For example,\n"
+"\n"
+" -  Rey inverted the figure of the Great Bear (*Ursa Major*) to look like a "
+"polar bear scenting prey. This on one hand does not have the usual problem "
+"to explain its long tail. On the other hand, the bear is not shown to walk "
+"around the pole in this orientation.\n"
+" - The Bull (*Taurus*), only the front of which is shown with long upright "
+"horns in usual depictions, is shown with a complete body including its tail, "
+"with horns stretched wide like those of a buffalo. Its bright eye "
+"*Aldebaran* now lies in its neck.\n"
+" - The head of *Hercules* is usually next to the head of *Ophiuchus*, the "
+"serpent holder, and the four stars known as \"keystone\" form his body. Rey "
+"makes his head out of the keystone, and the star that usually marks the "
+"hero's head is now one of his feet.\n"
+" - The Whale (*Cetus*) has been turned around, its former mouth now forming "
+"a tail fin.\n"
+" - *Pegasus* exchanged feet and head.\n"
+" - *Bootes*, the herdsman, is shown sitting and smoking a pipe (no trace of "
+"political correctness in a children's book of the 1950s... :-)\n"
+"\n"
+"### External links\n"
+"\n"
+" - [H.A.Rey (Wikipedia)](http://en.wikipedia.org/wiki/H._A._Rey)"
+msgstr ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H. A. Rey (Hans "
+"Augusto Reyersbach) (1898–1977), ein Künstler und Autor von Kinderbüchern "
+"deutschen Ursprungs. Wanderte aber in die USA aus. Er veröffentlichte seine "
+"Antwort zu dieser Frage 1952 in dem Buch *The Stars – A New Way To See "
+"Them*[#1][#2].\n"
+"\n"
+"### Die Sternbilder\n"
+"\n"
+"In diesem Buch, welches besonders in den USA sehr bekannt geworden ist, "
+"verband Rey die Sterne jedes Sternbildes „auf eine Art und Weise, dass die "
+"resultierende Form Sinn ergibt“. Was ihn überraschte, war, „dass niemand es "
+"zuvor gemacht hatte. Die Grundidee ist so einfach.“\n"
+"\n"
+"Rey's new stick figures make it indeed very simple to recognize the depicted "
+"constellation figures. Rey's work does not include figurative artwork, "
+"therefore this sky culture deliberately only comes with Rey's original stick "
+"figures. The constellation names were also always given in English by Rey. "
+"If you switch to \"Native\" name display mode, you may see exactly the "
+"spelling used in his book. Also the stars named here are limited to those "
+"included in the book.\n"
+"\n"
+"### Reys Figuren und die klassischen Sternbilder\n"
+"\n"
+"Rey's constellations adhere to the tradition of the Western sky culture and "
+"describes the 88 officially acknowledged constellations, with addition of "
+"asterisms of the two Dippers and the \"Great Square\" (of Pegasus). However, "
+"at several points Rey's figures deviate from the canonical figures described "
+"since Ptolemy's Almagest (2nd century AD), where also positions of the stars "
+"in their constellations had been described in their names. For example,\n"
+"\n"
+" -  Rey drehte die Sternenfigur des Großen Bären (*Ursa Major*) auf den "
+"Kopf, um sie mehr wie ein Beute witternder Eisbär aussehen zu lassen. "
+"Einerseits hat diese Darstellung nicht das Problem des langen Schwanzes. "
+"Andererseits wandert der Bär in dieser Ausrichtung nicht mehr um den "
+"Himmelspol.\n"
+" - Der Stier (*Taurus*), der üblicherweise nur von vorne mit langen, "
+"aufrechten Hörnern dargestellt wird, wird hier mit seinem gesamten Körper "
+"inklusive seines Schwanzes und mit ausladenden Hörnern wie bei einem Büffel "
+"gezeigt. Sein helles Auge *Aldeberan* befindet sich nun im Nacken.\n"
+" - Der Kopf des *Herkules* ist in der Regel direkt neben dem Kopf des "
+"*Ophiuchus*, dem Schlangenträger, und die als Grundpfeiler bekannten vier "
+"Sterne bilden seinen Körper. Rey hingegen bildet den Kopf aus dem "
+"Grundpfeiler und der Stern, der normalerweise den Kopf des Heldens "
+"verkörpert, ist nun einer seiner Füße.\n"
+" - Der Wal (*Cetus*) wurde umgedreht. Sein ursprünglicher Mund ist nun eine "
+"Schwanzflosse.\n"
+" - *Pegasus* Füße und Kopf getauscht.\n"
+" - *Bootes*, der Bärenhüter, wird sitzend und Pfeife rauchend gezeigt (keine "
+"Spur von politischer Korrektheit in einem Kinderbuch aus den "
+"1950ern... :-))\n"
+"\n"
+"### Externe Links\n"
+"\n"
+" - [H. A. Rey (Wikipedia)](https://de.wikipedia.org/wiki/H._A._Rey)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture used to be for a long time an easy user-installable addon "
+"example contributed by Mike Richards. It has been reworked following the "
+"41st reprint and completed with this description by Georg Zotti."
+msgstr ""
+"Diese Himmelskultur war lange Zeit eine einfache benutzerinstallierbare "
+"Beispielerweiterung, erstellt von Mike Richards. Sie wurde von Georg Zotti "
+"anhand des 41. Nachdrucks sorgfältig überarbeitet und mit dieser "
+"Beschreibung vervollständigt."
+
+msgid "Pleiades"
+msgstr "Plejaden"
+
+msgid "Ursa Minor"
+msgstr "Kleiner Bär"
+
+msgid "Ursa Major"
+msgstr "Großer Bär"
+
+msgid "Draco"
+msgstr "Drache"
+
+msgid "Cepheus"
+msgstr "Kepheus"
+
+msgid "Bootes"
+msgstr "Bärenhüter"
+
+msgid "Corona Borealis"
+msgstr "Nördliche Krone"
+
+msgid "Hercules"
+msgstr "Herkules"
+
+msgid "Lyra"
+msgstr "Leier"
+
+msgid "Cygnus"
+msgstr "Schwan"
+
+msgid "Cassiopeia"
+msgstr "Kassiopeia"
+
+msgid "Perseus"
+msgstr "Perseus"
+
+msgid "Auriga"
+msgstr "Fuhrmann"
+
+msgid "Ophiuchus"
+msgstr "Schlangenträger"
+
+msgid "Serpens"
+msgstr "Schlange"
+
+msgid "Sagitta"
+msgstr "Pfeil"
+
+msgid "Aquila"
+msgstr "Adler"
+
+msgid "Delphinus"
+msgstr "Delphin"
+
+msgid "Equuleus"
+msgstr "Füllen"
+
+msgid "Pegasus"
+msgstr "Pegasus"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Dreieck"
+
+msgid "Aries"
+msgstr "Widder"
+
+msgid "Taurus"
+msgstr "Stier"
+
+msgid "Gemini"
+msgstr "Zwillinge"
+
+msgid "Cancer"
+msgstr "Krebs"
+
+msgid "Leo"
+msgstr "Löwe"
+
+msgid "Virgo"
+msgstr "Jungfrau"
+
+msgid "Libra"
+msgstr "Waage"
+
+msgid "Scorpius"
+msgstr "Skorpion"
+
+msgid "Sagittarius"
+msgstr "Schütze"
+
+msgid "Capricornus"
+msgstr "Steinbock"
+
+msgid "Aquarius"
+msgstr "Wassermann"
+
+msgid "Pisces"
+msgstr "Fische"
+
+msgid "Cetus"
+msgstr "Walfisch"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Eridanus"
+
+msgid "Lepus"
+msgstr "Hase"
+
+msgid "Canis Major"
+msgstr "Großer Hund"
+
+msgid "Canis Minor"
+msgstr "Kleiner Hund"
+
+msgid "Hydra"
+msgstr "Wasserschlange"
+
+msgid "Crater"
+msgstr "Becher"
+
+msgid "Corvus"
+msgstr "Rabe"
+
+msgid "Centaurus"
+msgstr "Centaurus"
+
+msgid "Lupus"
+msgstr "Wolf"
+
+msgid "Ara"
+msgstr "Ara"
+
+msgid "Corona Australis"
+msgstr "Südliche Krone"
+
+msgid "Piscis Austrinus"
+msgstr "Südlicher Fisch"
+
+msgid "Procyon"
+msgstr "Prokyon"
+
+msgid "Sirius"
+msgstr "Sirius"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Formalhaut"
+
+msgid "Betelgeuse"
+msgstr "Beteigeuze"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Bildhauer"
+
+msgid "Pyxis"
+msgstr "Schiffskompass"
+
+msgid "Caelum"
+msgstr "Grabstichel"
+
+msgid "Chamaeleon"
+msgstr "Chamäleon"
+
+msgid "Carina"
+msgstr "Schiffskiel"
+
+msgid "Coma Berenices"
+msgstr "Haar der Berenike"
+
+msgid "Canes Venatici"
+msgstr "Jagdhunde"
+
+msgid "Columba"
+msgstr "Taube"
+
+msgid "Circinus"
+msgstr "Zirkel"
+
+msgid "Crux"
+msgstr "Kreuz des Südens"
+
+msgid "Dorado"
+msgstr "Schwertfisch"
+
+msgid "Norma"
+msgstr "Winkelmaß"
+
+msgid "Fornax"
+msgstr "Chemischer Ofen"
+
+msgid "Camelopardalis"
+msgstr "Giraffe"
+
+msgid "Grus"
+msgstr "Kranich"
+
+msgid "Horologium"
+msgstr "Pendeluhr"
+
+msgid "Hydrus"
+msgstr "Kleine Wasserschlange"
+
+msgid "Indus"
+msgstr "Indianer"
+
+msgid "Lacerta"
+msgstr "Eidechse"
+
+msgid "Monoceros"
+msgstr "Einhorn"
+
+msgid "Lynx"
+msgstr "Luchs"
+
+msgid "Antlia"
+msgstr "Luftpumpe"
+
+msgid "Microscopium"
+msgstr "Mikroskop"
+
+msgid "Octans"
+msgstr "Oktant"
+
+msgid "Apus"
+msgstr "Paradiesvogel"
+
+msgid "Pavo"
+msgstr "Pfau"
+
+msgid "Pictor"
+msgstr "Malerstaffelei"
+
+msgid "Leo Minor"
+msgstr "Kleiner Löwe"
+
+msgid "Vulpecula"
+msgstr "Füchslein"
+
+msgid "Phoenix"
+msgstr "Phönix"
+
+msgid "Volans"
+msgstr "Fliegender Fisch"
+
+msgid "Puppis"
+msgstr "Achterschiff"
+
+msgid "Reticulum"
+msgstr "Netz"
+
+msgid "Scutum"
+msgstr "Schild"
+
+msgid "Sextans"
+msgstr "Sextant"
+
+msgid "Mensa"
+msgstr "Tafelberg"
+
+msgid "Telescopium"
+msgstr "Teleskop"
+
+msgid "Tucana"
+msgstr "Tukan"
+
+msgid "Triangulum Australe"
+msgstr "Südliches Dreieck"
+
+msgid "Vela"
+msgstr "Schiffssegel"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr "Gemma"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr "Wächter"
+
+msgid "feet"
+msgstr "Füße"
+
+msgid "head"
+msgstr "Kopf"
+
+msgid "tail"
+msgstr "Schwanz"
+
+msgid "Pointers"
+msgstr "Zeiger"
+
+msgid "paws"
+msgstr "Pfoten"
+
+msgid "rump"
+msgstr "Rumpf"
+
+msgid "body"
+msgstr "Körper"
+
+msgid "pipe"
+msgstr "Pfeife"
+
+msgid "wing"
+msgstr "Flügel"
+
+msgid "outstretched neck"
+msgstr "gestreckter Hals"
+
+msgid "Keystone"
+msgstr "Schlußstein"
+
+msgid "club"
+msgstr "Keule"
+
+msgid "the chain"
+msgstr "die Kette"
+
+msgid "horn"
+msgstr "Horn"
+
+msgid "belt"
+msgstr "Gürtel"
+
+msgid "shield"
+msgstr "Schild"
+
+msgid "Hydra's head"
+msgstr "Kopf der Hydra"
+
+msgid "Hydra's tail"
+msgstr "Schwanz der Hydra"
+
+msgid "bill"
+msgstr "Schnabel"
+
+msgid "foot"
+msgstr "Fuß"
+
+msgid "arm"
+msgstr "Arm"
+
+msgid "cat's eyes"
+msgstr "Katzenaugen"
+
+msgid "claws"
+msgstr "Scheren"
+
+msgid "skirt"
+msgstr "Rock"
+
+msgid "the bow"
+msgstr "Der Bogen"
+
+msgid "vessel"
+msgstr "Gefäß"
+
+msgid "Knot"
+msgstr "Knoten"
+
+msgid "Northern Fish"
+msgstr "Nördlicher Fisch"
+
+msgid "Western Fish"
+msgstr "Westlicher Fisch"
+
+msgid "figurehead"
+msgstr "Galionsfigur"
+
+msgid "transom"
+msgstr "Heckspiegel"
+
+msgid "front legs"
+msgstr "Vorderbeine"
+
+msgid "hind legs"
+msgstr "Hinterbeine"
+
+msgid "ears"
+msgstr "Ohren"
+
+msgid "Fly"
+msgstr "Fliege"
+
+msgid "eyes"
+msgstr "Augen"
+
+msgid "Pole Star"
+msgstr "Polarstern"
+
+msgid "Tau Ceti"
+msgstr "Tau Ceti"
+
+msgid "Alpha Centauri"
+msgstr "Alpha Centauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Centauri"

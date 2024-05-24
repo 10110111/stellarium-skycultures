@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: abuyop <abuyop@gmail.com>, 2022\n"
+"Language-Team: Malay (https://app.transifex.com/stellarium/teams/80998/ms/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ms\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "Pleiades"
+
+msgid "Ursa Minor"
+msgstr "Ursa Minor (Beruang Kecil)"
+
+msgid "Ursa Major"
+msgstr "Beruang Besar (Ursa Major)"
+
+msgid "Draco"
+msgstr "Naga (Draco)"
+
+msgid "Cepheus"
+msgstr "Cepheus"
+
+msgid "Bootes"
+msgstr "Gembala (Bootes)"
+
+msgid "Corona Borealis"
+msgstr "Mahkota Utara (Corona Borealis)"
+
+msgid "Hercules"
+msgstr "Aljati (Hercules)"
+
+msgid "Lyra"
+msgstr "Lira (Lyra)"
+
+msgid "Cygnus"
+msgstr "Undan (Cygnus)"
+
+msgid "Cassiopeia"
+msgstr "Ratu Kerusi (Cassiopeia)"
+
+msgid "Perseus"
+msgstr "Juara"
+
+msgid "Auriga"
+msgstr "Pembawa Gentala (Auriga)"
+
+msgid "Ophiuchus"
+msgstr "Peregang Ular (Ophiuchus)"
+
+msgid "Serpens"
+msgstr "Serpens (Ular Besar)"
+
+msgid "Sagitta"
+msgstr "Anak Panah (Sagitta)"
+
+msgid "Aquila"
+msgstr "Aquila"
+
+msgid "Delphinus"
+msgstr "Lumba-lumba (Delphinus)"
+
+msgid "Equuleus"
+msgstr "Equuleus (Kuda Padi)"
+
+msgid "Pegasus"
+msgstr "Kuda Terbang (Pegasus)"
+
+msgid "Andromeda"
+msgstr "Puteri Teratai (Andromeda)"
+
+msgid "Triangulum"
+msgstr "Triangulum"
+
+msgid "Aries"
+msgstr "Hamal (Aries)"
+
+msgid "Taurus"
+msgstr "Taurus"
+
+msgid "Gemini"
+msgstr "Jauza (Germini)"
+
+msgid "Cancer"
+msgstr "Sarta (Cancer)"
+
+msgid "Leo"
+msgstr "Asad (Leo)"
+
+msgid "Virgo"
+msgstr "Virgo"
+
+msgid "Libra"
+msgstr "Mizan (Libra)"
+
+msgid "Scorpius"
+msgstr "Scorpius (Kala)"
+
+msgid "Sagittarius"
+msgstr "Sagittarius (Kaus)"
+
+msgid "Capricornus"
+msgstr "Kambing Duyung (Capricornus)"
+
+msgid "Aquarius"
+msgstr "Aquarius"
+
+msgid "Pisces"
+msgstr "Pisces (Ikan)"
+
+msgid "Cetus"
+msgstr "Ikan Paus (Cetus)"
+
+msgid "Orion"
+msgstr "Belantik"
+
+msgid "Eridanus"
+msgstr "Sungai (Eridanus)"
+
+msgid "Lepus"
+msgstr "Arnab (Lepus)"
+
+msgid "Canis Major"
+msgstr "Anjing Besar (Canis Major)"
+
+msgid "Canis Minor"
+msgstr "Canis Minor (Anjing Kecil)"
+
+msgid "Hydra"
+msgstr "U;ar (Hydra)"
+
+msgid "Crater"
+msgstr "Kawah (Crater)"
+
+msgid "Corvus"
+msgstr "Gagak (Corvus)"
+
+msgid "Centaurus"
+msgstr "Centaurus"
+
+msgid "Lupus"
+msgstr "Serigala (Lupus)"
+
+msgid "Ara"
+msgstr "Mazbah (Ara)"
+
+msgid "Corona Australis"
+msgstr "Mahkota Selatan (Corona Australis)"
+
+msgid "Piscis Austrinus"
+msgstr "Piscis Austrinus (Piscis Selatan)"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Sirius"
+msgstr "Sirius"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Pengarca"
+
+msgid "Pyxis"
+msgstr "Kompas Pelaut (Pyxis)"
+
+msgid "Caelum"
+msgstr "Qalam (Caelum)"
+
+msgid "Chamaeleon"
+msgstr "Sesumpah (Chamaeleon)"
+
+msgid "Carina"
+msgstr "Lunas (Carina)"
+
+msgid "Coma Berenices"
+msgstr "Rambut Berenices"
+
+msgid "Canes Venatici"
+msgstr "Anjing Buru (Canes Venatici)"
+
+msgid "Columba"
+msgstr "Merpati (Columba)"
+
+msgid "Circinus"
+msgstr "Kompas (Circinus)"
+
+msgid "Crux"
+msgstr "Pari"
+
+msgid "Dorado"
+msgstr "Ikan Todak (Dorado)"
+
+msgid "Norma"
+msgstr "Sesiku (Norma)"
+
+msgid "Fornax"
+msgstr "Relau (Fornax)"
+
+msgid "Camelopardalis"
+msgstr "Zirafah (Camelopardalis)"
+
+msgid "Grus"
+msgstr "Burung Keria (Grus)"
+
+msgid "Horologium"
+msgstr "Jam (Horologium)"
+
+msgid "Hydrus"
+msgstr "Ular Air (Hydrus)"
+
+msgid "Indus"
+msgstr "Orang Indian (Indus)"
+
+msgid "Lacerta"
+msgstr "Cicak (Lacerta)"
+
+msgid "Monoceros"
+msgstr "Kuda Sumbu (Monoceros)"
+
+msgid "Lynx"
+msgstr "Links (Lynx)"
+
+msgid "Antlia"
+msgstr "Pam Angin (Antlia)"
+
+msgid "Microscopium"
+msgstr "Mikroskop (Microscopium)"
+
+msgid "Octans"
+msgstr "Sesiku (Octans)"
+
+msgid "Apus"
+msgstr "Cenderawasih (Apus)"
+
+msgid "Pavo"
+msgstr "Merak (Pavo)"
+
+msgid "Pictor"
+msgstr "Pelukis"
+
+msgid "Leo Minor"
+msgstr "Loe Minor (Singa Kecil)"
+
+msgid "Vulpecula"
+msgstr "Vulpecula (Rubah Kecil)"
+
+msgid "Phoenix"
+msgstr "Phoenix (Feniks)"
+
+msgid "Volans"
+msgstr "Volans (Ikan Terbang)"
+
+msgid "Puppis"
+msgstr "Puppis (Kekota)"
+
+msgid "Reticulum"
+msgstr "Reticulum (Jala)"
+
+msgid "Scutum"
+msgstr "Perisai (Scutum)"
+
+msgid "Sextans"
+msgstr "Sextans"
+
+msgid "Mensa"
+msgstr "Mensa"
+
+msgid "Telescopium"
+msgstr "Telescopium"
+
+msgid "Tucana"
+msgstr "Tucana"
+
+msgid "Triangulum Australe"
+msgstr "Triangulum Australe"
+
+msgid "Vela"
+msgstr "Vela"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr ""
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr ""
+
+msgid "feet"
+msgstr ""
+
+msgid "head"
+msgstr ""
+
+msgid "tail"
+msgstr ""
+
+msgid "Pointers"
+msgstr ""
+
+msgid "paws"
+msgstr ""
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr ""
+
+msgid "pipe"
+msgstr ""
+
+msgid "wing"
+msgstr ""
+
+msgid "outstretched neck"
+msgstr ""
+
+msgid "Keystone"
+msgstr ""
+
+msgid "club"
+msgstr ""
+
+msgid "the chain"
+msgstr ""
+
+msgid "horn"
+msgstr ""
+
+msgid "belt"
+msgstr ""
+
+msgid "shield"
+msgstr ""
+
+msgid "Hydra's head"
+msgstr ""
+
+msgid "Hydra's tail"
+msgstr ""
+
+msgid "bill"
+msgstr ""
+
+msgid "foot"
+msgstr ""
+
+msgid "arm"
+msgstr ""
+
+msgid "cat's eyes"
+msgstr ""
+
+msgid "claws"
+msgstr ""
+
+msgid "skirt"
+msgstr ""
+
+msgid "the bow"
+msgstr ""
+
+msgid "vessel"
+msgstr ""
+
+msgid "Knot"
+msgstr ""
+
+msgid "Northern Fish"
+msgstr ""
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr ""
+
+msgid "transom"
+msgstr ""
+
+msgid "front legs"
+msgstr ""
+
+msgid "hind legs"
+msgstr ""
+
+msgid "ears"
+msgstr ""
+
+msgid "Fly"
+msgstr ""
+
+msgid "eyes"
+msgstr ""
+
+msgid "Pole Star"
+msgstr ""
+
+msgid "Tau Ceti"
+msgstr ""
+
+msgid "Alpha Centauri"
+msgstr ""
+
+msgid "Beta Centauri"
+msgstr ""
