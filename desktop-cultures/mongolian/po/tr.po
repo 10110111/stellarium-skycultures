@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: 03bfdb1e3bdfa21b80c8160ea93f1c67_2436d66, 2022\n"
+"Language-Team: Turkish (https://app.transifex.com/stellarium/teams/80998/"
+"tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Sky culture name
+msgid "Mongolian"
+msgstr "Moğol"
+
+msgid "Num Sum (The Bow and the Arrow)"
+msgstr ""
+
+msgid "Hun Tavan Od (The Five Stars Woman)"
+msgstr ""
+
+msgid "Doloon Burkhan (The Seven Buddhas)"
+msgstr ""
+
+msgid "Gurvan Maral Od (The Three Stags)"
+msgstr ""
+
+msgid "Altan Hadaas (Golden Stake)"
+msgstr ""
+
+msgid "Recovery Star"
+msgstr ""
+
+msgid "7.Horse"
+msgstr ""
+
+msgid "6.Snake"
+msgstr ""
+
+msgid "5.Dragon / 12.Pig"
+msgstr ""
+
+msgid "4.Rabbit / 11.Dog"
+msgstr ""
+
+msgid "3.Tiger / 10.Rooster"
+msgstr ""
+
+msgid "2.Ox / 9.Monkey"
+msgstr ""
+
+msgid "1.Rat / 8.Sheep/Goat"
+msgstr ""
+
+#. TRANSLATORS: Native name of the Sun in Mongolian culture
+msgid "Nar"
+msgstr ""
+
+#. TRANSLATORS: Native name of the Moon in Mongolian culture
+msgid "Sar"
+msgstr ""
+
+#. TRANSLATORS: Native name of Mercury in Mongolian culture
+msgid "Bud"
+msgstr ""
+
+#. TRANSLATORS: Native name of Venus in Mongolian culture
+msgid "Sugar"
+msgstr ""
+
+#. TRANSLATORS: Native name of Earth in Mongolian culture
+msgid "Delkhii"
+msgstr ""
+
+#. TRANSLATORS: Native name of Mars in Mongolian culture
+msgid "Angarag"
+msgstr ""
+
+#. TRANSLATORS: Native name of Jupiter in Mongolian culture
+msgid "Barhasbadi"
+msgstr ""
+
+#. TRANSLATORS: Native name of Saturn in Mongolian culture
+msgid "Sanchir"
+msgstr ""
+
+#. TRANSLATORS: Native name of Uranus in Mongolian culture
+msgid "Tengeriin-van"
+msgstr ""
+
+#. TRANSLATORS: Native name of Neptune in Mongolian culture
+msgid "Dalai-van"
+msgstr ""
+
+#. TRANSLATORS: Native name of Pluto in Mongolian culture
+msgid "Dalkhii-van"
+msgstr ""
