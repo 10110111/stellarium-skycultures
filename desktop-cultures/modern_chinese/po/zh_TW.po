@@ -1,0 +1,10093 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: freemanli <freeman.tam@gmail.com>, 2023\n"
+"Language-Team: Chinese (Taiwan) (https://app.transifex.com/stellarium/"
+"teams/80998/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Modern (Chinese)"
+msgstr "現代 (中國)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Modern (Chinese) Skyculture is a combination of Chinese traditions and "
+"Western constellations. The Chinese use combinations of modern "
+"constellations and Chinese star names in astronomy. This is the skyculture "
+"that the Chinese actually use now, with a great practical value."
+msgstr ""
+"現代（中國）星空文化是中國傳統與西方星座的結合。中國人在天文學中使用現代星座"
+"和中國星名的組合。這就是中國人現在實際使用的星空文化，具有很大的實用價值。"
+
+# Sky culture description section in markdown format
+msgid ""
+"### Constellations\n"
+"\n"
+"The modern Chinese use the constellations of the International Astronomical "
+"Union. The traditional Chinese constellations have no specific boundaries "
+"between them. They only represent the corresponding set of bright stars, and "
+"do not have the role of dividing the celestial sphere into different areas, "
+"so they are no longer applicable in astronomy.\n"
+"\n"
+"### Star names\n"
+"\n"
+"The Chinese now use traditional star names instead of Western star names. "
+"More than 3,000 stars have traditional Chinese star names. When a foreign "
+"astronomical book is translated into Chinese, the star names will also be "
+"translated into traditional Chinese star names. There are some special stars "
+"that use the names of Western stars, such as Proxima, Van Maanen's star, "
+"which can usually only be seen with a telescope, but with special "
+"astronomical significance.\n"
+"\n"
+"For a detailed introduction to traditional Chinese constellations and "
+"traditional Chinese names, see *Chinese traditional Skyculture for "
+"Stellarium*.\n"
+"\n"
+"### External links\n"
+"\n"
+" - [Chinese constellations ](http://en.wikipedia.org/wiki/"
+"Chinese_constellations) Wikipedia\n"
+" - [traditional Chinese star names](https://en.wikipedia.org/wiki/"
+"Traditional_Chinese_star_names) Wikipedia\n"
+" - [constellations](http://en.wikipedia.org/wiki/Constellation) Wikipedia\n"
+" - [Constellation image library](http://hubblesource.stsci.edu/sources/"
+"illustrations/constellations/) of the U.S. Naval Observatory and the Space "
+"Telescope Science Institute. Johannes Hevelius Engravings."
+msgstr ""
+"### 星座\n"
+"\n"
+"現代中國人使用國際天文聯合會的星座。中國星官之間沒有特定的界限。它們只代表相"
+"應的一組亮星，不具有將天球划分爲不同區域的作用，因此在天文學中已不再適用。\n"
+"\n"
+"### 星名\n"
+"\n"
+"中國人現在使用傳統的星名而不是西方的星名。3000多顆星有傳統中文星名。外國天文"
+"書籍翻譯成中文時，星名也會被翻譯成傳統中文星名。有一些特殊的恆星使用了西方恒"
+"星的名字，例如比鄰星（Proxima）、范馬南星（Van Maanen's star），通常只能用望"
+"遠鏡才能看到，但具有特殊的天文意義。\n"
+"\n"
+"關於中國傳統星官和星名的詳細介紹，參見《Stellarium中國傳統星空文化》。\n"
+"\n"
+"### External links\n"
+"\n"
+" - [星官](https://zh.wikipedia.org/wiki/%E6%98%9F%E5%AE%98)維基百科\n"
+" - [中西星名對照表](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%A5%BF%E6%98%9F"
+"%E5%90%8D%E5%B0%8D%E7%85%A7%E8%A1%A8)維基百科\n"
+" - [constellations](http://en.wikipedia.org/wiki/Constellation) Wikipedia\n"
+" - [Constellation image library](http://hubblesource.stsci.edu/sources/"
+"illustrations/constellations/) of the U.S. Naval Observatory and the Space "
+"Telescope Science Institute. Johannes Hevelius Engravings."
+
+# Sky culture authors section in markdown format
+msgid ""
+"This skyculture was contributed by Stellarium user *Sun Shuwei* [sunshuwei."
+"hi@foxmail.com](mailto:sunshuwei.hi@foxmail.com).\n"
+"\n"
+"Constellation art，Constellation lines based on *Modern Skyculture for "
+"Stellarium*.\n"
+"\n"
+"Asterism lines and traditional Chinese star names based on *Chinese "
+"Traditional Skyculture for Stellarium*."
+msgstr ""
+"本星空述語由 Stellarium 用戶*孫殳瑋*[sunshuwei.hi@foxmail.com](mailto:"
+"sunshuwei.hi@foxmail.com)貢獻。\n"
+"\n"
+"Constellation art，Constellation lines based on *Modern Skyculture for "
+"Stellarium*.\n"
+"\n"
+"基於《中國傳統星空文化》的星官連線和傳統中國星名。"
+
+msgid "Ursa Minor"
+msgstr "小熊座"
+
+msgid "Ursa Major"
+msgstr "大熊座"
+
+msgid "Draco"
+msgstr "天龍座"
+
+msgid "Cepheus"
+msgstr "仙王座"
+
+msgid "Bootes"
+msgstr "牧夫座"
+
+msgid "Corona Borealis"
+msgstr "北冕座"
+
+msgid "Hercules"
+msgstr "武仙座"
+
+msgid "Lyra"
+msgstr "天琴座"
+
+msgid "Cygnus"
+msgstr "天鵝座"
+
+msgid "Cassiopeia"
+msgstr "仙后座"
+
+msgid "Perseus"
+msgstr "英仙座"
+
+msgid "Auriga"
+msgstr "御夫座"
+
+msgid "Ophiuchus"
+msgstr "蛇夫座"
+
+msgid "Serpens"
+msgstr "巨蛇座"
+
+msgid "Sagitta"
+msgstr "天箭座"
+
+msgid "Aquila"
+msgstr "天鷹座"
+
+msgid "Delphinus"
+msgstr "海豚座"
+
+msgid "Equuleus"
+msgstr "小馬座"
+
+msgid "Pegasus"
+msgstr "飛馬座"
+
+msgid "Andromeda"
+msgstr "仙女座"
+
+msgid "Triangulum"
+msgstr "三角座"
+
+msgid "Aries"
+msgstr "白羊座"
+
+msgid "Taurus"
+msgstr "金牛座"
+
+msgid "Gemini"
+msgstr "雙子座"
+
+msgid "Cancer"
+msgstr "巨蟹座"
+
+msgid "Leo"
+msgstr "獅子座"
+
+msgid "Virgo"
+msgstr "室女座"
+
+msgid "Libra"
+msgstr "天秤座"
+
+msgid "Scorpius"
+msgstr "天蝎座"
+
+msgid "Sagittarius"
+msgstr "人馬座"
+
+msgid "Capricornus"
+msgstr "摩羯座"
+
+msgid "Aquarius"
+msgstr "寶瓶座"
+
+msgid "Pisces"
+msgstr "雙魚座"
+
+msgid "Cetus"
+msgstr "鯨魚座"
+
+msgid "Orion"
+msgstr "獵戶座"
+
+msgid "Eridanus"
+msgstr "波江座"
+
+msgid "Lepus"
+msgstr "天兔座"
+
+msgid "Canis Major"
+msgstr "大犬座"
+
+msgid "Canis Minor"
+msgstr "小犬座"
+
+msgid "Hydra"
+msgstr "長蛇座"
+
+msgid "Crater"
+msgstr "巨爵座"
+
+msgid "Corvus"
+msgstr "烏鴉座"
+
+msgid "Centaurus"
+msgstr "半人馬座"
+
+msgid "Lupus"
+msgstr "豺狼座"
+
+msgid "Ara"
+msgstr "天壇座"
+
+msgid "Corona Australis"
+msgstr "南冕座"
+
+msgid "Piscis Austrinus"
+msgstr "南魚座"
+
+msgid "Old Man"
+msgstr "老人"
+
+msgid "North Gate of the Military Camp"
+msgstr "北落師門"
+
+msgid "Whip"
+msgstr "策"
+
+msgid "Retinue (In Supreme Palace Enclosure)"
+msgstr "從官 (太微垣)"
+
+msgid "Great Horn"
+msgstr "大角"
+
+msgid "Emperor's Seat"
+msgstr "帝座"
+
+msgid "Auxiliary Road"
+msgstr "附路"
+
+msgid "Fu Yue"
+msgstr "傅說"
+
+msgid "Astrologer"
+msgstr "候"
+
+msgid "Emperor's Bodyguard"
+msgstr "虎賁"
+
+msgid "Heap of Corpses"
+msgstr "積尸"
+
+msgid "Pile of Firewood"
+msgstr "積薪"
+
+msgid "Door Bolt"
+msgstr "鍵閉"
+
+msgid "Recommending Virtuous Men"
+msgstr "進賢"
+
+msgid "Accumulated Water"
+msgstr "積水"
+
+msgid "Southern Military Gate"
+msgstr "軍南門"
+
+msgid "Chaff"
+msgstr "糠"
+
+msgid "Captain of the Bodyguards"
+msgstr "郎將"
+
+msgid "Peasant"
+msgstr "農丈人"
+
+msgid "Female Protocol"
+msgstr "女史"
+
+msgid "Chariots and Cavalry General"
+msgstr "騎鎮將軍"
+
+msgid "Solar Star"
+msgstr "日"
+
+msgid "Excrement"
+msgstr "屎"
+
+msgid "Guard of the Sun"
+msgstr "太陽守"
+
+msgid "First Great One"
+msgstr "太乙"
+
+msgid "Crown Prince"
+msgstr "太子"
+
+msgid "Royals"
+msgstr "太尊"
+
+msgid "Celestial Concave"
+msgstr "天阿"
+
+msgid "Celestial Slander"
+msgstr "天讒"
+
+msgid "Materials for Making Tents"
+msgstr "天綱"
+
+msgid "Celestial Pass"
+msgstr "天關"
+
+msgid "Great Emperor of Heaven"
+msgstr "天皇大帝"
+
+msgid "Judge for Estimating the Age of Animals"
+msgstr "天記"
+
+msgid "Celestial Wolf"
+msgstr "天狼"
+
+msgid "Celestial Milk"
+msgstr "天乳"
+
+msgid "Celestial Great One"
+msgstr "天乙"
+
+msgid "Master of Constructions"
+msgstr "土司空"
+
+msgid "Prime Minister"
+msgstr "相"
+
+msgid "Officer of Honour"
+msgstr "幸臣"
+
+msgid "Sombre Lance"
+msgstr "元戈"
+
+msgid "Wild Cockerel"
+msgstr "野雞"
+
+msgid "Usher to the Court"
+msgstr "謁者"
+
+msgid "Maids-in-waiting"
+msgstr "御女"
+
+msgid "Lunar Star"
+msgstr "月"
+
+msgid "Twinkling Indicator"
+msgstr "招搖"
+
+msgid "Weaving Girl"
+msgstr "織女"
+
+msgid "Official of Royal Archives"
+msgstr "柱史"
+
+msgid "Northern Pole I"
+msgstr "太子 [北極一]"
+
+msgid "Northern Pole II"
+msgstr "北極二"
+
+msgid "Emperor"
+msgstr "帝"
+
+msgid "Northern Pole III"
+msgstr "北極三"
+
+msgid "Bastard"
+msgstr "庶子"
+
+msgid "Northern Pole IV"
+msgstr "北極四"
+
+msgid "Harem"
+msgstr "后宮"
+
+msgid "Northern Pole V"
+msgstr "北極五"
+
+msgid "The Celestial Pivot"
+msgstr "天樞"
+
+msgid "Ancient Star"
+msgstr "紐星"
+
+msgid "Bastard Added II"
+msgstr "庶子增一"
+
+msgid "Bastard Added III"
+msgstr "庶子增二"
+
+msgid "Four Advisors II"
+msgstr "四輔二"
+
+msgid "Four Advisors III"
+msgstr "四輔三"
+
+msgid "Four Advisors IV?"
+msgstr "四輔四 ?"
+
+msgid "Four Advisors Added I"
+msgstr "四輔增一"
+
+msgid "Curved Array I"
+msgstr "勾陳一"
+
+msgid "Northern Star"
+msgstr "北極星"
+
+msgid "Curved Array II"
+msgstr "勾陳二"
+
+msgid "Curved Array III"
+msgstr "勾陳三"
+
+msgid "Curved Array IV"
+msgstr "勾陳四"
+
+msgid "Curved Array V"
+msgstr "勾陳五"
+
+msgid "Curved Array VI"
+msgstr "勾陳六"
+
+msgid "Curved Array Added I"
+msgstr "勾陳增一"
+
+msgid "Curved Array Added II"
+msgstr "勾陳增二"
+
+msgid "Curved Array Added IV"
+msgstr "勾陳增四"
+
+msgid "Curved Array Added V"
+msgstr "勾陳增五"
+
+msgid "Curved Array Added VI"
+msgstr "勾陳增六"
+
+msgid "Curved Array Added VII"
+msgstr "勾陳增七"
+
+msgid "Curved Array Added VIII"
+msgstr "勾陳增八"
+
+msgid "Curved Array Added IX"
+msgstr "勾陳增九"
+
+msgid "Curved Array Added X"
+msgstr "勾陳增十"
+
+msgid "Celestial Pillar I"
+msgstr "天柱一"
+
+msgid "Celestial Pillar II"
+msgstr "天柱二"
+
+msgid "Celestial Pillar III"
+msgstr "天柱三"
+
+msgid "Celestial Pillar IV"
+msgstr "天柱四"
+
+msgid "Celestial Pillar V"
+msgstr "天柱五"
+
+msgid "Celestial Pillar Added I"
+msgstr "天柱增一"
+
+msgid "Celestial Pillar Added II"
+msgstr "天柱增二"
+
+msgid "Celestial Pillar Added III"
+msgstr "天柱增三"
+
+msgid "Celestial Pillar Added IV"
+msgstr "天柱增四"
+
+msgid "Celestial Pillar Added V"
+msgstr "天柱增五"
+
+msgid "Celestial Pillar Added VI"
+msgstr "天柱增六"
+
+msgid "Maids-in-waiting I"
+msgstr "御女一"
+
+msgid "Maids-in-waiting II"
+msgstr "御女二"
+
+msgid "Maids-in-waiting III"
+msgstr "御女三"
+
+msgid "Maids-in-waiting IV"
+msgstr "御女四"
+
+msgid "Female Protocol Added I"
+msgstr "女史增一"
+
+msgid "Official of Royal Archives Added I"
+msgstr "柱史增一"
+
+msgid "Official of Royal Archives Added II"
+msgstr "柱史增二"
+
+msgid "Royal Secretary I"
+msgstr "尚書一"
+
+msgid "Royal Secretary II"
+msgstr "尚書二"
+
+msgid "Royal Secretary III"
+msgstr "尚書三"
+
+msgid "Royal Secretary IV?"
+msgstr "尚書四 ?"
+
+msgid "Royal Secretary V"
+msgstr "尚書五"
+
+msgid "Royal Secretary Added I"
+msgstr "尚書增一"
+
+msgid "Royal Secretary Added II"
+msgstr "尚書增二"
+
+msgid "Celestial Bed I"
+msgstr "天床一"
+
+msgid "Celestial Bed II"
+msgstr "天床二"
+
+msgid "Celestial Bed III"
+msgstr "天床三"
+
+msgid "Celestial Bed IV"
+msgstr "天床四"
+
+msgid "Celestial Bed V"
+msgstr "天床五"
+
+msgid "Celestial Bed VI"
+msgstr "天床六"
+
+msgid "Celestial Bed Added I"
+msgstr "天床增一"
+
+msgid "Celestial Bed Added II"
+msgstr "天床增二"
+
+msgid "Chief Judge I"
+msgstr "大理一"
+
+msgid "Chief Judge Added I"
+msgstr "大理增一"
+
+msgid "Hidden Virtue I"
+msgstr "陰德一"
+
+msgid "Hidden Virtue Added I"
+msgstr "陰德增一"
+
+msgid "Hidden Virtue II"
+msgstr "陰德二"
+
+msgid "Six Jia I"
+msgstr "六甲一"
+
+msgid "Six Jia II"
+msgstr "六甲二"
+
+msgid "Six Jia III"
+msgstr "六甲三"
+
+msgid "Six Jia IV"
+msgstr "六甲四"
+
+msgid "Six Jia V"
+msgstr "六甲五"
+
+msgid "Six Jia VI"
+msgstr "六甲六"
+
+msgid "Six Jia Added I"
+msgstr "六甲增一"
+
+msgid "Interior Seats of the Five Emperors I"
+msgstr "五帝內座一"
+
+msgid "Interior Seats of the Five Emperors II"
+msgstr "五帝內座二"
+
+msgid "Interior Seats of the Five Emperors III"
+msgstr "五帝內座三"
+
+msgid "Interior Seats of the Five Emperors IV"
+msgstr "五帝內座四"
+
+msgid "Interior Seats of the Five Emperors V"
+msgstr "五帝內座五"
+
+msgid "Interior Seats of the Five Emperors Added I"
+msgstr "五帝內座增一"
+
+msgid "Interior Seats of the Five Emperors Added II"
+msgstr "五帝內座增二"
+
+msgid "Interior Seats of the Five Emperors Added III"
+msgstr "五帝內座增三"
+
+msgid "Canopy of the Emperor II"
+msgstr "華葢二"
+
+msgid "Canopy of the Emperor III"
+msgstr "華葢三"
+
+msgid "Canopy of the Emperor IV"
+msgstr "華葢四"
+
+msgid "Canopy of the Emperor V"
+msgstr "華葢五"
+
+msgid "Canopy of the Emperor VI"
+msgstr "華葢六"
+
+msgid "Canopy of the Emperor VII"
+msgstr "華葢七"
+
+msgid "Canopy Support I"
+msgstr "杠一"
+
+msgid "Canopy Support II"
+msgstr "杠二"
+
+msgid "Canopy Support III"
+msgstr "杠三"
+
+msgid "Canopy Support IV"
+msgstr "杠四"
+
+msgid "Canopy Support V"
+msgstr "杠五"
+
+msgid "Canopy Support VI"
+msgstr "杠六"
+
+msgid "Canopy Support VII"
+msgstr "杠七"
+
+msgid "Canopy Support VIII"
+msgstr "杠八"
+
+msgid "Canopy Support IX"
+msgstr "杠九"
+
+msgid "Canopy Support Added I"
+msgstr "杠增一"
+
+msgid "Purple Forbidden Right Wall I"
+msgstr "紫微右垣一"
+
+msgid "Right Pivot"
+msgstr "右樞"
+
+msgid "Purple Forbidden Right Wall II"
+msgstr "紫微右垣二"
+
+msgid "The Second Commandant"
+msgstr "少尉"
+
+msgid "Purple Forbidden Right Wall III"
+msgstr "紫微右垣三"
+
+msgid "The Great Advisor"
+msgstr "上輔"
+
+msgid "Purple Forbidden Right Wall IV"
+msgstr "紫微右垣四"
+
+msgid "The Second Advisor"
+msgstr "少輔"
+
+msgid "Purple Forbidden Right Wall V"
+msgstr "紫微右垣五"
+
+msgid "The Great Imperial Guard"
+msgstr "上衛"
+
+msgid "Purple Forbidden Right Wall VI"
+msgstr "紫微右垣六"
+
+msgid "The Second Imperial Guard"
+msgstr "少衛"
+
+msgid "Purple Forbidden Right Wall VII"
+msgstr "紫微右垣七"
+
+msgid "The Great Imperial Minister"
+msgstr "上丞"
+
+msgid "The Second Commandant Added I"
+msgstr "少尉增一"
+
+msgid "The Second Commandant Added II"
+msgstr "少尉增二"
+
+msgid "The Great Advisor Added I"
+msgstr "上輔增一"
+
+msgid "The Great Advisor Added II"
+msgstr "上輔增二"
+
+msgid "The Second Advisor Added I"
+msgstr "少輔增一"
+
+msgid "The Great Imperial Guard Added I"
+msgstr "上衛增一"
+
+msgid "The Great Imperial Guard Added II"
+msgstr "上衛增二"
+
+msgid "The Great Imperial Guard Added III"
+msgstr "上衛增三"
+
+msgid "The Second Imperial Guard Added I"
+msgstr "少衛增一"
+
+msgid "The Great Imperial Minister Added I"
+msgstr "上丞增一"
+
+msgid "The Great Imperial Minister Added II"
+msgstr "上丞增二"
+
+msgid "The Great Imperial Minister Added III"
+msgstr "上丞增三"
+
+msgid "Purple Forbidden Left Wall I"
+msgstr "紫微左垣一"
+
+msgid "Left Pivot"
+msgstr "左樞"
+
+msgid "Purple Forbidden Left Wall II"
+msgstr "紫微左垣二"
+
+msgid "The Great Prime Minister"
+msgstr "上宰"
+
+msgid "Purple Forbidden Left Wall III"
+msgstr "紫微左垣三"
+
+msgid "The Second Prime Minister"
+msgstr "少宰"
+
+msgid "Purple Forbidden Left Wall IV"
+msgstr "紫微左垣四"
+
+msgid "The Great Protector"
+msgstr "上弼"
+
+msgid "Purple Forbidden Left Wall V"
+msgstr "紫微左垣五"
+
+msgid "The Second Protector"
+msgstr "少弼"
+
+msgid "Purple Forbidden Left Wall VI"
+msgstr "紫微左垣六"
+
+msgid "Purple Forbidden Left Wall VII"
+msgstr "紫微左垣七"
+
+msgid "Purple Forbidden Left Wall VIII"
+msgstr "紫微左垣八"
+
+msgid "The Second Imperial Minister"
+msgstr "少丞"
+
+msgid "The Second Imperial Guard Added II"
+msgstr "少衛增二"
+
+msgid "The Second Imperial Guard Added III"
+msgstr "少衛增三"
+
+msgid "The Second Imperial Guard Added IV"
+msgstr "少衛增四"
+
+msgid "The Second Imperial Guard Added V"
+msgstr "少衛增五"
+
+msgid "The Second Imperial Guard Added VI"
+msgstr "少衛增六"
+
+msgid "The Second Imperial Guard Added VII"
+msgstr "少衛增七"
+
+msgid "The Second Imperial Guard Added VIII"
+msgstr "少衛增八"
+
+msgid "The Second Imperial Minister Added I"
+msgstr "少丞增一"
+
+msgid "Inner Kitchen I"
+msgstr "內廚一"
+
+msgid "Inner Kitchen II"
+msgstr "內廚二"
+
+msgid "Inner Kitchen Added I"
+msgstr "內廚增一"
+
+msgid "Inner Kitchen Added II"
+msgstr "內廚增二"
+
+msgid "Northern Dipper I"
+msgstr "北斗一"
+
+msgid "Northern Dipper II"
+msgstr "北斗二"
+
+msgid "The Celestial Rotating Jade"
+msgstr "天璇"
+
+msgid "Northern Dipper III"
+msgstr "北斗三"
+
+msgid "The Celestial Shining Pearl"
+msgstr "天璣"
+
+msgid "Northern Dipper IV"
+msgstr "北斗四"
+
+msgid "The Celestial Balance"
+msgstr "天權"
+
+msgid "Northern Dipper V"
+msgstr "北斗五"
+
+msgid "The Jade Sighting-Tube"
+msgstr "玉衡"
+
+msgid "Northern Dipper VI"
+msgstr "北斗六"
+
+msgid "The Opener of Heat"
+msgstr "開陽"
+
+msgid "Northern Dipper VII"
+msgstr "北斗七"
+
+msgid "The Twinkling Brilliance"
+msgstr "搖光"
+
+msgid "The Celestial Pivot Added I"
+msgstr "天樞增一"
+
+msgid "The Celestial Pivot Added II"
+msgstr "天樞增二"
+
+msgid "The Celestial Pivot Added III"
+msgstr "天樞增三"
+
+msgid "The Celestial Rotating Jade Added I"
+msgstr "天璇增一"
+
+msgid "The Celestial Rotating Jade Added II"
+msgstr "天璇增二"
+
+msgid "The Celestial Rotating Jade Added III"
+msgstr "天璇增三"
+
+msgid "The Celestial Rotating Jade Added IV"
+msgstr "天璇增四"
+
+msgid "The Celestial Rotating Jade Added V"
+msgstr "天璇增五"
+
+msgid "The Celestial Rotating Jade Added VI"
+msgstr "天璇增六"
+
+msgid "The Celestial Rotating Jade Added VII"
+msgstr "天璇增七"
+
+msgid "The Celestial Rotating Jade Added VIII"
+msgstr "天璇增八"
+
+msgid "The Celestial Balance Added I"
+msgstr "天權增一"
+
+msgid "The Celestial Balance Added II"
+msgstr "天權增二"
+
+msgid "The Celestial Balance Added III"
+msgstr "天權增三"
+
+msgid "The Opener of Heat Added II"
+msgstr "開陽增二"
+
+msgid "Assistant"
+msgstr "輔"
+
+msgid "The Opener of Heat Added I"
+msgstr "開陽增一"
+
+msgid "Assistant Added I"
+msgstr "輔增一"
+
+msgid "Assistant Added II"
+msgstr "輔增二"
+
+msgid "Assistant Added III"
+msgstr "輔增三"
+
+msgid "Celestial Spear I"
+msgstr "天槍一"
+
+msgid "Celestial Spear II"
+msgstr "天槍二"
+
+msgid "Celestial Spear III"
+msgstr "天槍三"
+
+msgid "Celestial Spear Added I"
+msgstr "天槍增一"
+
+msgid "Celestial Spear Added II"
+msgstr "天槍增二"
+
+msgid "Celestial Spear Added III"
+msgstr "天槍增三"
+
+msgid "Celestial Spear Added IV"
+msgstr "天槍增四"
+
+msgid "Sombre Lance Added I"
+msgstr "元戈增一"
+
+msgid "Sombre Lance Added II"
+msgstr "元戈增二"
+
+msgid "Three Excellencies II (In Purple Forbidden Enclosure)"
+msgstr "三公二 (紫微垣)"
+
+msgid "Three Excellencies III (In Purple Forbidden Enclosure)"
+msgstr "三公三 (紫微垣)"
+
+msgid "Prime Minister Added I"
+msgstr "相增一"
+
+msgid "Prime Minister Added II"
+msgstr "相增二"
+
+msgid "Prime Minister Added III"
+msgstr "相增三"
+
+msgid "Judge for Nobility I"
+msgstr "天理一"
+
+msgid "Judge for Nobility II"
+msgstr "天理二"
+
+msgid "Judge for Nobility III"
+msgstr "天理三"
+
+msgid "Judge for Nobility IV"
+msgstr "天理四"
+
+msgid "Judge for Nobility Added I"
+msgstr "天理增一"
+
+msgid "Guard of the Sun Added I"
+msgstr "太陽守增一"
+
+msgid "Celestial Prison I"
+msgstr "天牢一"
+
+msgid "Celestial Prison II"
+msgstr "天牢二"
+
+msgid "Celestial Prison III"
+msgstr "天牢三"
+
+msgid "Celestial Prison IV"
+msgstr "天牢四"
+
+msgid "Celestial Prison V"
+msgstr "天牢五"
+
+msgid "Celestial Prison VI"
+msgstr "天牢六"
+
+msgid "Celestial Prison Added I"
+msgstr "天牢增一"
+
+msgid "Celestial Prison Added II"
+msgstr "天牢增二"
+
+msgid "Eunuch I"
+msgstr "勢一"
+
+msgid "Eunuch II"
+msgstr "勢二"
+
+msgid "Eunuch III"
+msgstr "勢三"
+
+msgid "Eunuch IV"
+msgstr "勢四"
+
+msgid "Eunuch Added I"
+msgstr "勢增一"
+
+msgid "Eunuch Added II"
+msgstr "勢增二"
+
+msgid "Eunuch Added III"
+msgstr "勢增三"
+
+msgid "Eunuch Added IV"
+msgstr "勢增四"
+
+msgid "Eunuch Added V"
+msgstr "勢增五"
+
+msgid "Eunuch Added VI"
+msgstr "勢增六"
+
+msgid "Eunuch Added VII"
+msgstr "勢增七"
+
+msgid "Eunuch Added VIII"
+msgstr "勢增八"
+
+msgid "Eunuch Added IX"
+msgstr "勢增九"
+
+msgid "Eunuch Added X"
+msgstr "勢增十"
+
+msgid "Eunuch Added XI"
+msgstr "勢增十一"
+
+msgid "Eunuch Added XII"
+msgstr "勢增十二"
+
+msgid "Eunuch Added XIII"
+msgstr "勢增十三"
+
+msgid "Eunuch Added XIV"
+msgstr "勢增十四"
+
+msgid "Eunuch Added XV"
+msgstr "勢增十五"
+
+msgid "Eunuch Added XVI"
+msgstr "勢增十六"
+
+msgid "Eunuch Added XVII"
+msgstr "勢增十七"
+
+msgid "Eunuch Added XVIII"
+msgstr "勢增十八"
+
+msgid "Eunuch Added XIX"
+msgstr "勢增十九"
+
+msgid "Administrative Center II"
+msgstr "文昌二"
+
+msgid "Administrative Center III"
+msgstr "文昌三"
+
+msgid "Administrative Center IV"
+msgstr "文昌四"
+
+msgid "Administrative Center V"
+msgstr "文昌五"
+
+msgid "Administrative Center VI"
+msgstr "文昌六"
+
+msgid "Administrative Center Added I"
+msgstr "文昌增一"
+
+msgid "Administrative Center Added II"
+msgstr "文昌增二"
+
+msgid "Administrative Center Added III"
+msgstr "文昌增三"
+
+msgid "Administrative Center Added IV"
+msgstr "文昌增四"
+
+msgid "Administrative Center Added V"
+msgstr "文昌增五"
+
+msgid "Administrative Center Added VI"
+msgstr "文昌增六"
+
+msgid "Administrative Center Added VII"
+msgstr "文昌增七"
+
+msgid "Inner Steps I"
+msgstr "內階一"
+
+msgid "Inner Steps II"
+msgstr "內階二"
+
+msgid "Inner Steps III"
+msgstr "內階三"
+
+msgid "Inner Steps IV"
+msgstr "內階四"
+
+msgid "Inner Steps V"
+msgstr "內階五"
+
+msgid "Inner Steps VI"
+msgstr "內階六"
+
+msgid "Inner Steps Added I"
+msgstr "內階增一"
+
+msgid "Inner Steps Added II"
+msgstr "內階增二"
+
+msgid "Inner Steps Added III"
+msgstr "內階增三"
+
+msgid "Inner Steps Added IV"
+msgstr "內階增四"
+
+msgid "Inner Steps Added V"
+msgstr "內階增五"
+
+msgid "Inner Steps Added VII"
+msgstr "內階增七"
+
+msgid "Inner Steps Added VIII"
+msgstr "內階增八"
+
+msgid "Inner Steps Added IX"
+msgstr "內階增九"
+
+msgid "Inner Steps Added X"
+msgstr "內階增十"
+
+msgid "Three Top Instructors I"
+msgstr "三師一"
+
+msgid "Three Top Instructors III"
+msgstr "三師三"
+
+msgid "Three Top Instructors Added I"
+msgstr "三師增一"
+
+msgid "Eight Kinds of Crops I"
+msgstr "八穀一"
+
+msgid "Eight Kinds of Crops II"
+msgstr "八穀二"
+
+msgid "Eight Kinds of Crops III"
+msgstr "八穀三"
+
+msgid "Eight Kinds of Crops IV"
+msgstr "八穀四"
+
+msgid "Eight Kinds of Crops V"
+msgstr "八穀五"
+
+msgid "Eight Kinds of Crops VI"
+msgstr "八穀六"
+
+msgid "Eight Kinds of Crops VII"
+msgstr "八穀七"
+
+msgid "Eight Kinds of Crops VIII"
+msgstr "八穀八"
+
+msgid "Eight Kinds of Crops Added I"
+msgstr "八穀增一"
+
+msgid "Eight Kinds of Crops Added II"
+msgstr "八穀增二"
+
+msgid "Eight Kinds of Crops Added III"
+msgstr "八穀增三"
+
+msgid "Eight Kinds of Crops Added IV"
+msgstr "八穀增四"
+
+msgid "Eight Kinds of Crops Added V"
+msgstr "八穀增五"
+
+msgid "Eight Kinds of Crops Added VI"
+msgstr "八穀增六"
+
+msgid "Eight Kinds of Crops Added VII"
+msgstr "八穀增七"
+
+msgid "Eight Kinds of Crops Added VIII"
+msgstr "八穀增八"
+
+msgid "Eight Kinds of Crops Added IX"
+msgstr "八穀增九"
+
+msgid "Eight Kinds of Crops Added X"
+msgstr "八穀增十"
+
+msgid "Eight Kinds of Crops Added XI"
+msgstr "八穀增十一"
+
+msgid "Eight Kinds of Crops Added XII"
+msgstr "八穀增十二"
+
+msgid "Eight Kinds of Crops Added XIII"
+msgstr "八穀增十三"
+
+msgid "Eight Kinds of Crops Added XIV"
+msgstr "八穀增十四"
+
+msgid "Eight Kinds of Crops Added XV"
+msgstr "八穀增十五"
+
+msgid "Eight Kinds of Crops Added XVI"
+msgstr "八穀增十六"
+
+msgid "Eight Kinds of Crops Added XVII"
+msgstr "八穀增十七"
+
+msgid "Eight Kinds of Crops Added XVIII"
+msgstr "八穀增十八"
+
+msgid "Eight Kinds of Crops Added XIX"
+msgstr "八穀增十九"
+
+msgid "Eight Kinds of Crops Added XX"
+msgstr "八穀增廿"
+
+msgid "Eight Kinds of Crops Added XXI"
+msgstr "八穀增廿一"
+
+msgid "Eight Kinds of Crops Added XXII"
+msgstr "八穀增廿二"
+
+msgid "Eight Kinds of Crops Added XXIII"
+msgstr "八穀增廿三"
+
+msgid "Eight Kinds of Crops Added XXIV"
+msgstr "八穀增廿四"
+
+msgid "Eight Kinds of Crops Added XXV"
+msgstr "八穀增廿五"
+
+msgid "Eight Kinds of Crops Added XXVI"
+msgstr "八穀增廿六"
+
+msgid "Eight Kinds of Crops Added XXVII"
+msgstr "八穀增廿七"
+
+msgid "Eight Kinds of Crops Added XXVIII"
+msgstr "八穀增廿八"
+
+msgid "Eight Kinds of Crops Added XXIX"
+msgstr "八穀增廿九"
+
+msgid "Eight Kinds of Crops Added XXX"
+msgstr "八穀增卅"
+
+msgid "Eight Kinds of Crops Added XXXI"
+msgstr "八穀增卅一"
+
+msgid "Eight Kinds of Crops Added XXXII"
+msgstr "八穀增卅二"
+
+msgid "Eight Kinds of Crops Added XXXIII"
+msgstr "八穀增卅三"
+
+msgid "Eight Kinds of Crops Added XXXIV"
+msgstr "八穀增卅四"
+
+msgid "Guest House I"
+msgstr "傳舍一"
+
+msgid "Guest House II"
+msgstr "傳舍二"
+
+msgid "Guest House III"
+msgstr "傳舍三"
+
+msgid "Guest House IV"
+msgstr "傳舍四"
+
+msgid "Guest House V"
+msgstr "傳舍五"
+
+msgid "Guest House VI"
+msgstr "傳舍六"
+
+msgid "Guest House VII"
+msgstr "傳舍七"
+
+msgid "Guest House VIII"
+msgstr "傳舍八"
+
+msgid "Guest House IX"
+msgstr "傳舍九"
+
+msgid "Guest House Added I"
+msgstr "傳舍增一"
+
+msgid "Guest House Added II"
+msgstr "傳舍增二"
+
+msgid "Guest House Added III"
+msgstr "傳舍增三"
+
+msgid "Guest House Added IV"
+msgstr "傳舍增四"
+
+msgid "Celestial Kitchen I"
+msgstr "天廚一"
+
+msgid "Celestial Kitchen II"
+msgstr "天廚二"
+
+msgid "Celestial Kitchen III"
+msgstr "天廚三"
+
+msgid "Celestial Kitchen IV"
+msgstr "天廚四"
+
+msgid "Celestial Kitchen V"
+msgstr "天廚五"
+
+msgid "Celestial Kitchen VI"
+msgstr "天廚六"
+
+msgid "Celestial Kitchen Added I"
+msgstr "天廚增一"
+
+msgid "Celestial Kitchen Added II"
+msgstr "天廚增二"
+
+msgid "Celestial Flail I"
+msgstr "天棓一"
+
+msgid "Celestial Flail II"
+msgstr "天棓二"
+
+msgid "Celestial Flail III"
+msgstr "天棓三"
+
+msgid "Celestial Flail IV"
+msgstr "天棓四"
+
+msgid "Celestial Flail V"
+msgstr "天棓五"
+
+msgid "Celestial Flail Added I"
+msgstr "天棓增一"
+
+msgid "Celestial Flail Added II"
+msgstr "天棓增二"
+
+msgid "Celestial Flail Added III"
+msgstr "天棓增三"
+
+msgid "Celestial Flail Added IV"
+msgstr "天棓增四"
+
+msgid "Celestial Flail Added VII"
+msgstr "天棓增七"
+
+msgid "Celestial Flail Added VIII"
+msgstr "天棓增八"
+
+msgid "Celestial Flail Added IX"
+msgstr "天棓增九"
+
+msgid "Celestial Flail Added X"
+msgstr "天棓增十"
+
+msgid "Seats of the Five Emperors I"
+msgstr "五帝座一"
+
+msgid "Seats of the Five Emperors II"
+msgstr "五帝座二"
+
+msgid "Seats of the Five Emperors III"
+msgstr "五帝座三"
+
+msgid "Seats of the Five Emperors IV"
+msgstr "五帝座四"
+
+msgid "Seats of the Five Emperors V"
+msgstr "五帝座五"
+
+msgid "Seats of the Five Emperors Added I"
+msgstr "五帝座增一"
+
+msgid "Seats of the Five Emperors Added II"
+msgstr "五帝座增二"
+
+msgid "Seats of the Five Emperors Added III"
+msgstr "五帝座增三"
+
+msgid "Seats of the Five Emperors Added IV"
+msgstr "五帝座增四"
+
+msgid "Five Lords I"
+msgstr "五諸侯一"
+
+msgid "Five Lords II"
+msgstr "五諸侯二"
+
+msgid "Five Lords III"
+msgstr "五諸侯三"
+
+msgid "Five Lords V"
+msgstr "五諸侯五"
+
+msgid "Five Lords Added I"
+msgstr "五諸侯增一"
+
+msgid "Five Lords Added II"
+msgstr "五諸侯增二"
+
+msgid "Five Lords Added III"
+msgstr "五諸侯增三"
+
+msgid "Five Lords Added IV"
+msgstr "五諸侯增四"
+
+msgid "Five Lords Added V"
+msgstr "五諸侯增五"
+
+msgid "Five Lords Added VI"
+msgstr "五諸侯增六"
+
+msgid "Five Lords Added VII"
+msgstr "五諸侯增七"
+
+msgid "Nine Senior Officers I"
+msgstr "九卿一"
+
+msgid "Nine Senior Officers II"
+msgstr "九卿二"
+
+msgid "Nine Senior Officers III"
+msgstr "九卿三"
+
+msgid "Nine Senior Officers Added I"
+msgstr "九卿增一"
+
+msgid "Nine Senior Officers Added II"
+msgstr "九卿增二"
+
+msgid "Nine Senior Officers Added III"
+msgstr "九卿增三"
+
+msgid "Nine Senior Officers Added IV"
+msgstr "九卿增四"
+
+msgid "Nine Senior Officers Added V"
+msgstr "九卿增五"
+
+msgid "Nine Senior Officers Added VI"
+msgstr "九卿增六"
+
+msgid "Nine Senior Officers Added VII"
+msgstr "九卿增七"
+
+msgid "Nine Senior Officers Added VIII"
+msgstr "九卿增八"
+
+msgid "Nine Senior Officers Added IX"
+msgstr "九卿增九"
+
+msgid "Three Excellencies II (In Supreme Palace Enclosure)"
+msgstr "三公二 (太微垣)"
+
+msgid "Three Excellencies III (In Supreme Palace Enclosure)"
+msgstr "三公三 (太微垣)"
+
+msgid "Inner Screen I"
+msgstr "內屏一"
+
+msgid "Inner Screen II"
+msgstr "內屏二"
+
+msgid "Inner Screen III"
+msgstr "內屏三"
+
+msgid "Inner Screen IV"
+msgstr "內屏四"
+
+msgid "Inner Screen Added I"
+msgstr "內屏增一"
+
+msgid "Inner Screen Added II"
+msgstr "內屏增二"
+
+msgid "Inner Screen Added III"
+msgstr "內屏增三"
+
+msgid "Inner Screen Added IV"
+msgstr "內屏增四"
+
+msgid "Inner Screen Added V"
+msgstr "內屏增五"
+
+msgid "Inner Screen Added VI"
+msgstr "內屏增六"
+
+msgid "Supreme Palace Right Wall I"
+msgstr "太微右垣一"
+
+msgid "Right Law Administrator"
+msgstr "右執法"
+
+msgid "Supreme Palace Right Wall II"
+msgstr "太微右垣二"
+
+msgid "The Great Western General"
+msgstr "西上將"
+
+msgid "Supreme Palace Right Wall III"
+msgstr "太微右垣三"
+
+msgid "The Second Western General"
+msgstr "西次將"
+
+msgid "Supreme Palace Right Wall IV"
+msgstr "太微右垣四"
+
+msgid "The Second Western Premier"
+msgstr "西次相"
+
+msgid "Supreme Palace Right Wall V"
+msgstr "太微右垣五"
+
+msgid "The Great Western Premier"
+msgstr "西上相"
+
+msgid "The Second Western Premier Added II"
+msgstr "西次相增一"
+
+msgid "The Second Western Premier Added III"
+msgstr "西次相增二"
+
+msgid "The Great Western Premier Added I"
+msgstr "西上相增一"
+
+msgid "The Great Western Premier Added II"
+msgstr "西上相增二"
+
+msgid "Supreme Palace Left Wall I"
+msgstr "太微左垣一"
+
+msgid "Left Law Administrator"
+msgstr "左執法"
+
+msgid "Supreme Palace Left Wall II"
+msgstr "太微左垣二"
+
+msgid "The Great Eastern Premier"
+msgstr "東上相"
+
+msgid "Supreme Palace Left Wall III"
+msgstr "太微左垣三"
+
+msgid "The Second Eastern Premier"
+msgstr "東次相"
+
+msgid "Supreme Palace Left Wall IV"
+msgstr "太微左垣四"
+
+msgid "The Second Eastern General"
+msgstr "東次將"
+
+msgid "Supreme Palace Left Wall V"
+msgstr "太微左垣五"
+
+msgid "The Great Eastern General"
+msgstr "東上將"
+
+msgid "Left Law Administrator Added I"
+msgstr "左執法增一"
+
+msgid "The Second Eastern Premier Added I"
+msgstr "東次相增一"
+
+msgid "The Second Eastern General Added I"
+msgstr "東次將增一"
+
+msgid "The Second Eastern General Added III"
+msgstr "東次將增三"
+
+msgid "The Great Eastern General Added I"
+msgstr "東上將增一"
+
+msgid "The Great Eastern General Added II"
+msgstr "東上將增二"
+
+msgid "The Great Eastern General Added III"
+msgstr "東上將增三"
+
+msgid "The Great Eastern General Added IV"
+msgstr "東上將增四"
+
+msgid "Captain of the Bodyguards Added I"
+msgstr "郎將增一"
+
+msgid "Captain of the Bodyguards Added II"
+msgstr "郎將增二"
+
+msgid "Officers of the Imperial Guard I"
+msgstr "郎位一"
+
+msgid "Officers of the Imperial Guard III"
+msgstr "郎位三"
+
+msgid "Officers of the Imperial Guard IV"
+msgstr "郎位四"
+
+msgid "Officers of the Imperial Guard V"
+msgstr "郎位五"
+
+msgid "Officers of the Imperial Guard VI"
+msgstr "郎位六"
+
+msgid "Officers of the Imperial Guard VII"
+msgstr "郎位七"
+
+msgid "Officers of the Imperial Guard VIII"
+msgstr "郎位八"
+
+msgid "Officers of the Imperial Guard IX"
+msgstr "郎位九"
+
+msgid "Officers of the Imperial Guard X"
+msgstr "郎位十"
+
+msgid "Officers of the Imperial Guard XI"
+msgstr "郎位十一"
+
+msgid "Officers of the Imperial Guard XII"
+msgstr "郎位十二"
+
+msgid "Officers of the Imperial Guard XIII"
+msgstr "郎位十三"
+
+msgid "Officers of the Imperial Guard XIV"
+msgstr "郎位十四"
+
+msgid "Officers of the Imperial Guard XV"
+msgstr "郎位十五"
+
+msgid "Officers of the Imperial Guard Added I"
+msgstr "郎位增一"
+
+msgid "Officers of the Imperial Guard Added II"
+msgstr "郎位增二"
+
+msgid "Officers of the Imperial Guard Added III"
+msgstr "郎位增三"
+
+msgid "Royal Guards I"
+msgstr "常陳一"
+
+msgid "Royal Guards II"
+msgstr "常陳二"
+
+msgid "Royal Guards III"
+msgstr "常陳三"
+
+msgid "Royal Guards IV"
+msgstr "常陳四"
+
+msgid "Royal Guards V"
+msgstr "常陳五"
+
+msgid "Royal Guards VI"
+msgstr "常陳六"
+
+msgid "Royal Guards VII"
+msgstr "常陳七"
+
+msgid "Royal Guards Added I"
+msgstr "常陳增一"
+
+msgid "Royal Guards Added II"
+msgstr "常陳增二"
+
+msgid "Royal Guards Added III"
+msgstr "常陳增三"
+
+msgid "Royal Guards Added IV"
+msgstr "常陳增四"
+
+msgid "Royal Guards Added V"
+msgstr "常陳增五"
+
+msgid "Royal Guards Added VI"
+msgstr "常陳增六"
+
+msgid "Royal Guards Added VII"
+msgstr "常陳增七"
+
+msgid "Three Steps I"
+msgstr "三台一"
+
+msgid "Upper Steps I"
+msgstr "上台一"
+
+msgid "Three Steps II"
+msgstr "三台二"
+
+msgid "Upper Steps II"
+msgstr "上台二"
+
+msgid "Three Steps III"
+msgstr "三台三"
+
+msgid "Middle Steps I"
+msgstr "中台一"
+
+msgid "Three Steps IV"
+msgstr "三台四"
+
+msgid "Middle Steps II"
+msgstr "中台二"
+
+msgid "Three Steps V"
+msgstr "三台五"
+
+msgid "Lower Steps I"
+msgstr "下台一"
+
+msgid "Three Steps VI"
+msgstr "三台六"
+
+msgid "Lower Steps II"
+msgstr "下台二"
+
+msgid "Upper Steps Added I"
+msgstr "上台增一"
+
+msgid "Upper Steps Added II"
+msgstr "上台增二"
+
+msgid "Upper Steps Added III"
+msgstr "上台增三"
+
+msgid "Upper Steps Added IV"
+msgstr "上台增四"
+
+msgid "Upper Steps Added V"
+msgstr "上台增五"
+
+msgid "Upper Steps Added VI"
+msgstr "上台增六"
+
+msgid "Upper Steps Added VII"
+msgstr "上台增七"
+
+msgid "Middle Steps Added I?"
+msgstr "中台增一?"
+
+msgid "Middle Steps Added II"
+msgstr "中台增二"
+
+msgid "Middle Steps Added III"
+msgstr "中台增三"
+
+msgid "Middle Steps Added IV"
+msgstr "中台增四"
+
+msgid "Lower Steps Added I"
+msgstr "下台增一"
+
+msgid "Lower Steps Added II"
+msgstr "下台增二"
+
+msgid "Junior Officers I"
+msgstr "少微一"
+
+msgid "Junior Officers II"
+msgstr "少微二"
+
+msgid "Junior Officers III"
+msgstr "少微三"
+
+msgid "Junior Officers IV"
+msgstr "少微四"
+
+msgid "Junior Officers Added I"
+msgstr "少微增一"
+
+msgid "Junior Officers Added II"
+msgstr "少微增二"
+
+msgid "Junior Officers Added III"
+msgstr "少微增三"
+
+msgid "Junior Officers Added IV"
+msgstr "少微增四"
+
+msgid "Junior Officers Added V"
+msgstr "少微增五"
+
+msgid "Junior Officers Added VI"
+msgstr "少微增六"
+
+msgid "Junior Officers Added VII"
+msgstr "少微增七"
+
+msgid "Junior Officers Added VIII"
+msgstr "少微增八"
+
+msgid "Junior Officers Added IX"
+msgstr "少微增九"
+
+msgid "Long Wall I"
+msgstr "長垣一"
+
+msgid "Long Wall II"
+msgstr "長垣二"
+
+msgid "Long Wall III"
+msgstr "長垣三"
+
+msgid "Long Wall IV"
+msgstr "長垣四"
+
+msgid "Long Wall Added I"
+msgstr "長垣增一"
+
+msgid "Long Wall Added II"
+msgstr "長垣增二"
+
+msgid "Long Wall Added III"
+msgstr "長垣增三"
+
+msgid "Long Wall Added IV"
+msgstr "長垣增四"
+
+msgid "Long Wall Added V"
+msgstr "長垣增五"
+
+msgid "Long Wall Added VI"
+msgstr "長垣增六"
+
+msgid "Long Wall Added VII"
+msgstr "長垣增七"
+
+msgid "Long Wall Added VIII"
+msgstr "長垣增八"
+
+msgid "Long Wall Added IX"
+msgstr "長垣增九"
+
+msgid "Astronomical Observatory I"
+msgstr "靈臺一"
+
+msgid "Astronomical Observatory II"
+msgstr "靈臺二"
+
+msgid "Astronomical Observatory III"
+msgstr "靈臺三"
+
+msgid "Astronomical Observatory Added I"
+msgstr "靈臺增一"
+
+msgid "Astronomical Observatory Added II"
+msgstr "靈臺增二"
+
+msgid "Astronomical Observatory Added III"
+msgstr "靈臺增三"
+
+msgid "Astronomical Observatory Added IV"
+msgstr "靈臺增四"
+
+msgid "Astronomical Observatory Added V"
+msgstr "靈臺增五"
+
+msgid "Astronomical Observatory Added VI"
+msgstr "靈臺增六"
+
+msgid "Astronomical Observatory Added VII"
+msgstr "靈臺增七"
+
+msgid "Astronomical Observatory Added VIII"
+msgstr "靈臺增八"
+
+msgid "The Hall of Glory I"
+msgstr "明堂一"
+
+msgid "The Hall of Glory II"
+msgstr "明堂二"
+
+msgid "The Hall of Glory III"
+msgstr "明堂三"
+
+msgid "The Hall of Glory Added I"
+msgstr "明堂增一"
+
+msgid "The Hall of Glory Added II"
+msgstr "明堂增二"
+
+msgid "The Hall of Glory Added III"
+msgstr "明堂增三"
+
+msgid "The Hall of Glory Added IV"
+msgstr "明堂增四"
+
+msgid "The Hall of Glory Added V"
+msgstr "明堂增五"
+
+msgid "The Hall of Glory Added VI"
+msgstr "明堂增六"
+
+msgid "The Hall of Glory Added VII"
+msgstr "明堂增七"
+
+msgid "Usher to the Court Added I"
+msgstr "謁者增一"
+
+msgid "Usher to the Court Added II"
+msgstr "謁者增二"
+
+msgid "Astrologer Added III"
+msgstr "候增三"
+
+msgid "Astrologer Added IV"
+msgstr "候增四"
+
+msgid "Astrologer Added V"
+msgstr "候增五"
+
+msgid "Eunuch Official I"
+msgstr "宦者一"
+
+msgid "Eunuch Official II"
+msgstr "宦者二"
+
+msgid "Eunuch Official III"
+msgstr "宦者三"
+
+msgid "Eunuch Official IV"
+msgstr "宦者四"
+
+msgid "Eunuch Official Added I"
+msgstr "宦者增一"
+
+msgid "Eunuch Official Added II"
+msgstr "宦者增二"
+
+msgid "Eunuch Official Added III"
+msgstr "宦者增三"
+
+msgid "Eunuch Official Added IV"
+msgstr "宦者增四"
+
+msgid "Eunuch Official Added V"
+msgstr "宦者增五"
+
+msgid "Dipper for Liquids I"
+msgstr "斗一"
+
+msgid "Dipper for Liquids II"
+msgstr "斗二"
+
+msgid "Dipper for Liquids III"
+msgstr "斗三"
+
+msgid "Dipper for Liquids IV"
+msgstr "斗四"
+
+msgid "Dipper for Liquids V"
+msgstr "斗五"
+
+msgid "Dipper for Liquids Added I"
+msgstr "斗增一"
+
+msgid "Dipper for Liquids Added II"
+msgstr "斗增二"
+
+msgid "Dipper for Liquids Added III"
+msgstr "斗增三"
+
+msgid "Dipper for Liquids Added IV"
+msgstr "斗增四"
+
+msgid "Dipper for Liquids Added V"
+msgstr "斗增五"
+
+msgid "Dipper for Liquids Added VI"
+msgstr "斗增六"
+
+msgid "Dipper for Liquids Added VII"
+msgstr "斗增七"
+
+msgid "Dipper for Liquids Added IX"
+msgstr "斗增九"
+
+msgid "Dipper for Liquids Added X"
+msgstr "斗增十"
+
+msgid "Dipper for Liquids Added XI"
+msgstr "斗增十一"
+
+msgid "Dipper for Solids I"
+msgstr "斛一"
+
+msgid "Dipper for Solids II"
+msgstr "斛二"
+
+msgid "Dipper for Solids III"
+msgstr "斛三"
+
+msgid "Dipper for Solids IV"
+msgstr "斛四"
+
+msgid "Dipper for Solids Added I"
+msgstr "斛增一"
+
+msgid "Dipper for Solids Added II"
+msgstr "斛增二"
+
+msgid "Dipper for Solids Added III"
+msgstr "斛增三"
+
+msgid "Dipper for Solids Added IV"
+msgstr "斛增四"
+
+msgid "Dipper for Solids Added V"
+msgstr "斛增五"
+
+msgid "Dipper for Solids Added VI"
+msgstr "斛增六"
+
+msgid "Jewel Market I"
+msgstr "列肆一"
+
+msgid "Jewel Market II"
+msgstr "列肆二"
+
+msgid "Jewel Market Added I"
+msgstr "列肆增一"
+
+msgid "Jewel Market Added II"
+msgstr "列肆增二"
+
+msgid "Jewel Market Added III"
+msgstr "列肆增三"
+
+msgid "Jewel Market Added IV"
+msgstr "列肆增四"
+
+msgid "Commodity Market I"
+msgstr "車肆一"
+
+msgid "Commodity Market II"
+msgstr "車肆二"
+
+msgid "Commodity Market Added I"
+msgstr "車肆增一"
+
+msgid "Commodity Market Added II"
+msgstr "車肆增二"
+
+msgid "Municipal Office I"
+msgstr "市樓一"
+
+msgid "Municipal Office II"
+msgstr "市樓二"
+
+msgid "Municipal Office III"
+msgstr "市樓三"
+
+msgid "Municipal Office IV"
+msgstr "市樓四"
+
+msgid "Municipal Office V"
+msgstr "市樓五"
+
+msgid "Municipal Office VI"
+msgstr "市樓六"
+
+msgid "Municipal Office Added I"
+msgstr "市樓增一"
+
+msgid "Official for the Royal Clan I"
+msgstr "宗正一"
+
+msgid "Official for the Royal Clan II"
+msgstr "宗正二"
+
+msgid "Official for the Royal Clan Added I"
+msgstr "宗正增一"
+
+msgid "Official for the Royal Clan Added II"
+msgstr "宗正增二"
+
+msgid "Official for the Royal Clan Added III"
+msgstr "宗正增三"
+
+msgid "Official of Religious Ceremonies I"
+msgstr "宗人一"
+
+msgid "Official of Religious Ceremonies II"
+msgstr "宗人二"
+
+msgid "Official of Religious Ceremonies III"
+msgstr "宗人三"
+
+msgid "Official of Religious Ceremonies IV"
+msgstr "宗人四"
+
+msgid "Official of Religious Ceremonies Added I"
+msgstr "宗人增一"
+
+msgid "Official of Religious Ceremonies Added II"
+msgstr "宗人增二"
+
+msgid "Official of Religious Ceremonies Added III"
+msgstr "宗人增三"
+
+msgid "Official of Religious Ceremonies Added IV"
+msgstr "宗人增四"
+
+msgid "Patriarchal Clan I"
+msgstr "宗一"
+
+msgid "Patriarchal Clan II"
+msgstr "宗二"
+
+msgid "Textile Ruler I"
+msgstr "帛度一"
+
+msgid "Textile Ruler II"
+msgstr "帛度二"
+
+msgid "Textile Ruler Added I"
+msgstr "帛度增一"
+
+msgid "Textile Ruler Added II"
+msgstr "帛度增二"
+
+msgid "Textile Ruler Added III"
+msgstr "帛度增三"
+
+msgid "Butcher's Shops I"
+msgstr "屠肆一"
+
+msgid "Butcher's Shops II"
+msgstr "屠肆二"
+
+msgid "Butcher's Shops Added I"
+msgstr "屠肆增一"
+
+msgid "Butcher's Shops Added II"
+msgstr "屠肆增二"
+
+msgid "Butcher's Shops Added III"
+msgstr "屠肆增三"
+
+msgid "Heavenly Market Right Wall I"
+msgstr "天市右垣一"
+
+msgid "Hezhong"
+msgstr "河中"
+
+msgid "Heavenly Market Right Wall II"
+msgstr "天市右垣二"
+
+msgid "Hejian"
+msgstr "河間"
+
+msgid "Heavenly Market Right Wall III"
+msgstr "天市右垣三"
+
+msgid "Jin"
+msgstr "晉"
+
+msgid "Heavenly Market Right Wall IV"
+msgstr "天市右垣四"
+
+msgid "Zheng"
+msgstr "鄭"
+
+msgid "Heavenly Market Right Wall V"
+msgstr "天市右垣五"
+
+msgid "Zhou"
+msgstr "周"
+
+msgid "Heavenly Market Right Wall VI"
+msgstr "天市右垣六"
+
+msgid "Qin"
+msgstr "秦"
+
+msgid "Heavenly Market Right Wall VII"
+msgstr "天市右垣七"
+
+msgid "Shu"
+msgstr "蜀"
+
+msgid "Heavenly Market Right Wall VIII"
+msgstr "天市右垣八"
+
+msgid "Ba"
+msgstr "巴"
+
+msgid "Heavenly Market Right Wall IX"
+msgstr "天市右垣九"
+
+msgid "Liang"
+msgstr "梁"
+
+msgid "Heavenly Market Right Wall X"
+msgstr "天市右垣十"
+
+msgid "Chu"
+msgstr "楚"
+
+msgid "Heavenly Market Right Wall XI"
+msgstr "天市右垣十一"
+
+msgid "Han"
+msgstr "韓"
+
+msgid "Hejian Added I"
+msgstr "河間增一"
+
+msgid "Jin Added I"
+msgstr "晉增一"
+
+msgid "Jin Added II"
+msgstr "晉增二"
+
+msgid "Jin Added III"
+msgstr "晉增三"
+
+msgid "Jin Added IV"
+msgstr "晉增四"
+
+msgid "Jin Added V"
+msgstr "晉增五"
+
+msgid "Zhou Added I"
+msgstr "周增一"
+
+msgid "Zhou Added II"
+msgstr "周增二"
+
+msgid "Zhou Added III"
+msgstr "周增三"
+
+msgid "Zhou Added IV"
+msgstr "周增四"
+
+msgid "Zhou Added V"
+msgstr "周增五"
+
+msgid "Zhou Added VI"
+msgstr "周增六"
+
+msgid "Zhou Added VII"
+msgstr "周增七"
+
+msgid "Zhou Added VIII"
+msgstr "周增八"
+
+msgid "Zhou Added IX"
+msgstr "周增九"
+
+msgid "Zhou Added XI"
+msgstr "周增十一"
+
+msgid "Zhou Added XII"
+msgstr "周增十二"
+
+msgid "Zhou Added XIII"
+msgstr "周增十三"
+
+msgid "Zhou Added XIV"
+msgstr "周增十四"
+
+msgid "Zhou Added XV"
+msgstr "周增十五"
+
+msgid "Zhou Added XVI"
+msgstr "周增十六"
+
+msgid "Qin Added II"
+msgstr "秦增一"
+
+msgid "Shu Added I"
+msgstr "蜀增一"
+
+msgid "Shu Added II"
+msgstr "蜀增二"
+
+msgid "Shu Added III"
+msgstr "蜀增三"
+
+msgid "Ba Added I"
+msgstr "巴增一"
+
+msgid "Ba Added II"
+msgstr "巴增二"
+
+msgid "Ba Added III"
+msgstr "巴增三"
+
+msgid "Ba Added IV"
+msgstr "巴增四"
+
+msgid "Ba Added V"
+msgstr "巴增五"
+
+msgid "Heavenly Market Left Wall I"
+msgstr "天市左垣一"
+
+msgid "Wei"
+msgstr "魏"
+
+msgid "Heavenly Market Left Wall II"
+msgstr "天市左垣二"
+
+msgid "Zhao"
+msgstr "趙"
+
+msgid "Heavenly Market Left Wall III"
+msgstr "天市左垣三"
+
+msgid "Jiuhe"
+msgstr "九河"
+
+msgid "Heavenly Market Left Wall IV"
+msgstr "天市左垣四"
+
+msgid "Zhongshan"
+msgstr "中山"
+
+msgid "Heavenly Market Left Wall V"
+msgstr "天市左垣五"
+
+msgid "Qi"
+msgstr "齊"
+
+msgid "Heavenly Market Left Wall VI"
+msgstr "天市左垣六"
+
+msgid "Wuyue"
+msgstr "吳越"
+
+msgid "Heavenly Market Left Wall VII"
+msgstr "天市左垣七"
+
+msgid "Xu"
+msgstr "徐"
+
+msgid "Heavenly Market Left Wall VIII"
+msgstr "天市左垣八"
+
+msgid "Donghai"
+msgstr "東海"
+
+msgid "Heavenly Market Left Wall IX"
+msgstr "天市左垣九"
+
+msgid "Yan"
+msgstr "燕"
+
+msgid "Heavenly Market Left Wall X"
+msgstr "天市左垣十"
+
+msgid "Nanhai"
+msgstr "南海"
+
+msgid "Heavenly Market Left Wall XI"
+msgstr "天市左垣十一"
+
+msgid "Song"
+msgstr "宋"
+
+msgid "Wei Added I"
+msgstr "魏增一"
+
+msgid "Wei Added II"
+msgstr "魏增二"
+
+msgid "Wei Added III"
+msgstr "魏增三"
+
+msgid "Wei Added IV"
+msgstr "魏增四"
+
+msgid "Wei Added V"
+msgstr "魏增五"
+
+msgid "Wei Added VI"
+msgstr "魏增六"
+
+msgid "Wei Added VII"
+msgstr "魏增七"
+
+msgid "Wei Added VIII"
+msgstr "魏增八"
+
+msgid "Zhao Added I"
+msgstr "趙增一"
+
+msgid "Zhao Added II"
+msgstr "趙增二"
+
+msgid "Zhao Added III"
+msgstr "趙增三"
+
+msgid "Jiuhe Added I"
+msgstr "九河增一"
+
+msgid "Zhongshan Added I"
+msgstr "中山增一"
+
+msgid "Zhongshan Added II"
+msgstr "中山增二"
+
+msgid "Zhongshan Added III"
+msgstr "中山增三"
+
+msgid "Zhongshan Added IV"
+msgstr "中山增四"
+
+msgid "Zhongshan Added V"
+msgstr "中山增五"
+
+msgid "Zhongshan Added VI"
+msgstr "中山增六"
+
+msgid "Zhongshan Added VII"
+msgstr "中山增七"
+
+msgid "Qi Added I"
+msgstr "齊增一"
+
+msgid "Qi Added II"
+msgstr "齊增二"
+
+msgid "Qi Added III"
+msgstr "齊增三"
+
+msgid "Qi Added IV"
+msgstr "齊增四"
+
+msgid "Qi Added V"
+msgstr "齊增五"
+
+msgid "Qi Added VI"
+msgstr "齊增六"
+
+msgid "Qi Added VII"
+msgstr "齊增七"
+
+msgid "Qi Added VIII"
+msgstr "齊增八"
+
+msgid "Qi Added IX"
+msgstr "齊增九"
+
+msgid "Qi Added X"
+msgstr "齊增十"
+
+msgid "Qi Added XI"
+msgstr "齊增十一"
+
+msgid "Qi Added XII"
+msgstr "齊增十二"
+
+msgid "Wuyue Added I"
+msgstr "吳越增一"
+
+msgid "Wuyue Added II"
+msgstr "吳越增二"
+
+msgid "Wuyue Added III"
+msgstr "吳越增三"
+
+msgid "Wuyue Added IV"
+msgstr "吳越增四"
+
+msgid "Wuyue Added V"
+msgstr "吳越增五"
+
+msgid "Wuyue Added VI"
+msgstr "吳越增六"
+
+msgid "Wuyue Added VII"
+msgstr "吳越增七"
+
+msgid "Xu Added I"
+msgstr "徐增一"
+
+msgid "Xu Added II"
+msgstr "徐增二"
+
+msgid "Xu Added III"
+msgstr "徐增三"
+
+msgid "Xu Added IV"
+msgstr "徐增四"
+
+msgid "Donghai Added I"
+msgstr "東海增一"
+
+msgid "Donghai Added II"
+msgstr "東海增二"
+
+msgid "Donghai Added III"
+msgstr "東海增三"
+
+msgid "Donghai Added IV"
+msgstr "東海增四"
+
+msgid "Song Added II"
+msgstr "宋增二"
+
+msgid "Celestial Discipline I"
+msgstr "天紀一"
+
+msgid "Celestial Discipline II"
+msgstr "天紀二"
+
+msgid "Celestial Discipline III"
+msgstr "天紀三"
+
+msgid "Celestial Discipline IV"
+msgstr "天紀四"
+
+msgid "Celestial Discipline V"
+msgstr "天紀五"
+
+msgid "Celestial Discipline VI"
+msgstr "天紀六"
+
+msgid "Celestial Discipline VII"
+msgstr "天紀七"
+
+msgid "Celestial Discipline IX"
+msgstr "天紀九"
+
+msgid "Celestial Discipline Added I"
+msgstr "天紀增一"
+
+msgid "Celestial Discipline Added II"
+msgstr "天紀增二"
+
+msgid "Celestial Discipline Added III*"
+msgstr "天紀增三*"
+
+msgid "Celestial Discipline Added IV"
+msgstr "天紀增四"
+
+msgid "Celestial Discipline Added V"
+msgstr "天紀增五"
+
+msgid "Celestial Discipline Added VI"
+msgstr "天紀增六"
+
+msgid "Celestial Discipline Added VII"
+msgstr "天紀增七"
+
+msgid "Celestial Discipline Added VIII"
+msgstr "天紀增八"
+
+msgid "Celestial Discipline Added IX"
+msgstr "天紀增九"
+
+msgid "Celestial Discipline Added X"
+msgstr "天紀增十"
+
+msgid "Celestial Discipline Added XI"
+msgstr "天紀增十一"
+
+msgid "Celestial Discipline Added XII?"
+msgstr "天紀增十二 ?"
+
+msgid "Celestial Discipline Added XIII"
+msgstr "天紀增十三"
+
+msgid "Celestial Discipline Added XIV"
+msgstr "天紀增十四"
+
+msgid "Celestial Discipline Added XV"
+msgstr "天紀增十五"
+
+msgid "Woman's Bed I"
+msgstr "女床一"
+
+msgid "Woman's Bed II"
+msgstr "女床二"
+
+msgid "Woman's Bed III"
+msgstr "女床三"
+
+msgid "Coiled Thong I"
+msgstr "貫索一"
+
+msgid "Coiled Thong II"
+msgstr "貫索二"
+
+msgid "Coiled Thong III"
+msgstr "貫索三"
+
+msgid "Coiled Thong IV"
+msgstr "貫索四"
+
+msgid "Coiled Thong V"
+msgstr "貫索五"
+
+msgid "Coiled Thong VI"
+msgstr "貫索六"
+
+msgid "Coiled Thong VII"
+msgstr "貫索七"
+
+msgid "Coiled Thong VIII"
+msgstr "貫索八"
+
+msgid "Coiled Thong IX"
+msgstr "貫索九"
+
+msgid "Coiled Thong Added I"
+msgstr "貫索增一"
+
+msgid "Coiled Thong Added II"
+msgstr "貫索增二"
+
+msgid "Coiled Thong Added III"
+msgstr "貫索增三"
+
+msgid "Coiled Thong Added IV"
+msgstr "貫索增四"
+
+msgid "Coiled Thong Added V"
+msgstr "貫索增五"
+
+msgid "Coiled Thong Added VI"
+msgstr "貫索增六"
+
+msgid "Coiled Thong Added VII"
+msgstr "貫索增七"
+
+msgid "Coiled Thong Added VIII"
+msgstr "貫索增八"
+
+msgid "Coiled Thong Added IX"
+msgstr "貫索增九"
+
+msgid "Coiled Thong Added X"
+msgstr "貫索增十"
+
+msgid "Coiled Thong Added XI"
+msgstr "貫索增十一"
+
+msgid "Coiled Thong Added XII"
+msgstr "貫索增十二"
+
+msgid "Coiled Thong Added XIII"
+msgstr "貫索增十三"
+
+msgid "Seven Excellencies I"
+msgstr "七公一"
+
+msgid "Seven Excellencies II"
+msgstr "七公二"
+
+msgid "Seven Excellencies III"
+msgstr "七公三"
+
+msgid "Seven Excellencies IV"
+msgstr "七公四"
+
+msgid "Seven Excellencies V"
+msgstr "七公五"
+
+msgid "Seven Excellencies VI"
+msgstr "七公六"
+
+msgid "Seven Excellencies VII"
+msgstr "七公七"
+
+msgid "Seven Excellencies Added I"
+msgstr "七公增一"
+
+msgid "Seven Excellencies Added II"
+msgstr "七公增二"
+
+msgid "Seven Excellencies Added III"
+msgstr "七公增三"
+
+msgid "Seven Excellencies Added IV"
+msgstr "七公增四"
+
+msgid "Seven Excellencies Added V"
+msgstr "七公增五"
+
+msgid "Seven Excellencies Added VI"
+msgstr "七公增六"
+
+msgid "Seven Excellencies Added VII"
+msgstr "七公增七"
+
+msgid "Seven Excellencies Added VIII"
+msgstr "七公增八"
+
+msgid "Seven Excellencies Added IX"
+msgstr "七公增九"
+
+msgid "Seven Excellencies Added X"
+msgstr "七公增十"
+
+msgid "Seven Excellencies Added XI"
+msgstr "七公增十一"
+
+msgid "Seven Excellencies Added XII"
+msgstr "七公增十二"
+
+msgid "Seven Excellencies Added XIII"
+msgstr "七公增十三"
+
+msgid "Seven Excellencies Added XIV"
+msgstr "七公增十四"
+
+msgid "Seven Excellencies Added XV"
+msgstr "七公增十五"
+
+msgid "Seven Excellencies Added XVI"
+msgstr "七公增十六"
+
+msgid "Horn I"
+msgstr "角宿一"
+
+msgid "Horn II"
+msgstr "角宿二"
+
+msgid "Horn Added I"
+msgstr "角宿增一"
+
+msgid "Horn Added II"
+msgstr "角宿增二"
+
+msgid "Horn Added III"
+msgstr "角宿增三"
+
+msgid "Horn Added IV"
+msgstr "角宿增四"
+
+msgid "Horn Added V"
+msgstr "角宿增五"
+
+msgid "Horn Added VI"
+msgstr "角宿增六"
+
+msgid "Horn Added VII"
+msgstr "角宿增七"
+
+msgid "Horn Added VIII"
+msgstr "角宿增八"
+
+msgid "Horn Added IX"
+msgstr "角宿增九"
+
+msgid "Horn Added X"
+msgstr "角宿增十"
+
+msgid "Horn Added XI"
+msgstr "角宿增十一"
+
+msgid "Horn Added XII"
+msgstr "角宿增十二"
+
+msgid "Horn Added XIII"
+msgstr "角宿增十三"
+
+msgid "Horn Added XIV"
+msgstr "角宿增十四"
+
+msgid "Horn Added XV"
+msgstr "角宿增十五"
+
+msgid "Horn Added XVI"
+msgstr "角宿增十六"
+
+msgid "Flat Road I"
+msgstr "平道一"
+
+msgid "Flat Road II"
+msgstr "平道二"
+
+msgid "Celestial Farmland I (In Horn Mansion)"
+msgstr "天田一 (角宿)"
+
+msgid "Celestial Farmland II (In Horn Mansion)"
+msgstr "天田二 (角宿)"
+
+msgid "Celestial Farmland Added I (In Horn Mansion)"
+msgstr "天田增一 (角宿)"
+
+msgid "Celestial Farmland Added II (In Horn Mansion)"
+msgstr "天田增二 (角宿)"
+
+msgid "Celestial Farmland Added III (In Horn Mansion)"
+msgstr "天田增三 (角宿)"
+
+msgid "Celestial Farmland Added IV (In Horn Mansion)"
+msgstr "天田增四 (角宿)"
+
+msgid "Celestial Farmland Added V (In Horn Mansion)"
+msgstr "天田增五 (角宿)"
+
+msgid "Celestial Farmland Added VI (In Horn Mansion)"
+msgstr "天田增六 (角宿)"
+
+msgid "Celestial Farmland Added VII (In Horn Mansion)"
+msgstr "天田增七 (角宿)"
+
+msgid "Tripod of the Zhou I"
+msgstr "周鼎一"
+
+msgid "Tripod of the Zhou II"
+msgstr "周鼎二"
+
+msgid "Tripod of the Zhou III"
+msgstr "周鼎三"
+
+msgid "Recommending Virtuous Men Added I"
+msgstr "進賢增一"
+
+msgid "Recommending Virtuous Men Added II"
+msgstr "進賢增二"
+
+msgid "Recommending Virtuous Men Added III"
+msgstr "進賢增三"
+
+msgid "Recommending Virtuous Men Added IV"
+msgstr "進賢增四"
+
+msgid "Recommending Virtuous Men Added V"
+msgstr "進賢增五"
+
+msgid "Recommending Virtuous Men Added VII"
+msgstr "進賢增七"
+
+msgid "Recommending Virtuous Men Added VIII"
+msgstr "進賢增八"
+
+msgid "Recommending Virtuous Men Added IX"
+msgstr "進賢增九"
+
+msgid "Celestial Gate I"
+msgstr "天門一"
+
+msgid "Celestial Gate II"
+msgstr "天門二"
+
+msgid "Celestial Gate Added I"
+msgstr "天門增一"
+
+msgid "Celestial Gate Added II"
+msgstr "天門增二"
+
+msgid "Celestial Gate Added III"
+msgstr "天門增三"
+
+msgid "Celestial Gate Added IV"
+msgstr "天門增四"
+
+msgid "Celestial Gate Added V"
+msgstr "天門增五"
+
+msgid "Celestial Gate Added VI"
+msgstr "天門增六"
+
+msgid "Celestial Gate Added VII"
+msgstr "天門增七"
+
+msgid "Celestial Gate Added VIII"
+msgstr "天門增八"
+
+msgid "Celestial Gate Added IX"
+msgstr "天門增九"
+
+msgid "Celestial Gate Added X"
+msgstr "天門增十"
+
+msgid "Celestial Gate Added XI"
+msgstr "天門增十一"
+
+msgid "Judging I"
+msgstr "平一"
+
+msgid "Judging II"
+msgstr "平二"
+
+msgid "Judging Added I"
+msgstr "平增一"
+
+msgid "Judging Added II"
+msgstr "平增二"
+
+msgid "Judging Added III"
+msgstr "平增三"
+
+msgid "Judging Added IV"
+msgstr "平增四"
+
+msgid "Arsenal I"
+msgstr "庫樓一"
+
+msgid "Arsenal II"
+msgstr "庫樓二"
+
+msgid "Arsenal III"
+msgstr "庫樓三"
+
+msgid "Arsenal IV"
+msgstr "庫樓四"
+
+msgid "Arsenal V"
+msgstr "庫樓五"
+
+msgid "Arsenal VI"
+msgstr "庫樓六"
+
+msgid "Arsenal VII"
+msgstr "庫樓七"
+
+msgid "Arsenal VIII"
+msgstr "庫樓八"
+
+msgid "Arsenal IX"
+msgstr "庫樓九"
+
+msgid "Arsenal X"
+msgstr "庫樓十"
+
+msgid "Pillars I (In Horn Mansion)"
+msgstr "柱一 (角宿)"
+
+msgid "Pillars II (In Horn Mansion)"
+msgstr "柱二 (角宿)"
+
+msgid "Pillars III (In Horn Mansion)"
+msgstr "柱三 (角宿)"
+
+msgid "Pillars IV (In Horn Mansion)"
+msgstr "柱四 (角宿)"
+
+msgid "Pillars V (In Horn Mansion)"
+msgstr "柱五 (角宿)"
+
+msgid "Pillars VI (In Horn Mansion)"
+msgstr "柱六 (角宿)"
+
+msgid "Pillars VII (In Horn Mansion)"
+msgstr "柱七 (角宿)"
+
+msgid "Pillars VIII (In Horn Mansion)"
+msgstr "柱八 (角宿)"
+
+msgid "Pillars IX (In Horn Mansion)"
+msgstr "柱九 (角宿)"
+
+msgid "Pillars XI (In Horn Mansion)"
+msgstr "柱十 (角宿)"
+
+msgid "Railings I"
+msgstr "衡一"
+
+msgid "Railings II"
+msgstr "衡二"
+
+msgid "Railings III"
+msgstr "衡三"
+
+msgid "Railings IV"
+msgstr "衡四"
+
+msgid "Southern Gate I"
+msgstr "南門一"
+
+msgid "Southern Gate II"
+msgstr "南門二"
+
+msgid "Southern Gate Added I"
+msgstr "南門增一"
+
+msgid "Southern Gate Added II"
+msgstr "南門增二"
+
+msgid "Neck I"
+msgstr "亢宿一"
+
+msgid "Neck II"
+msgstr "亢宿二"
+
+msgid "Neck III"
+msgstr "亢宿三"
+
+msgid "Neck IV"
+msgstr "亢宿四"
+
+msgid "Neck Added I"
+msgstr "亢宿增一"
+
+msgid "Neck Added II"
+msgstr "亢宿增二"
+
+msgid "Neck Added III"
+msgstr "亢宿增三"
+
+msgid "Neck Added IV"
+msgstr "亢宿增四"
+
+msgid "Neck Added V"
+msgstr "亢宿增五"
+
+msgid "Neck Added VI"
+msgstr "亢宿增六"
+
+msgid "Neck Added VII"
+msgstr "亢宿增七"
+
+msgid "Neck Added VIII"
+msgstr "亢宿增八"
+
+msgid "Neck Added IX"
+msgstr "亢宿增九"
+
+msgid "Neck Added X"
+msgstr "亢宿增十"
+
+msgid "Neck Added XI"
+msgstr "亢宿增十一"
+
+msgid "Neck Added XII"
+msgstr "亢宿增十二"
+
+msgid "Great Horn Added I"
+msgstr "大角增一"
+
+msgid "Right Conductor I"
+msgstr "右攝提一"
+
+msgid "Right Conductor II"
+msgstr "右攝提二"
+
+msgid "Right Conductor III"
+msgstr "右攝提三"
+
+msgid "Right Conductor Added I"
+msgstr "右攝提增一"
+
+msgid "Right Conductor Added II"
+msgstr "右攝提增二"
+
+msgid "Right Conductor Added III"
+msgstr "右攝提增三"
+
+msgid "Right Conductor Added IV"
+msgstr "右攝提增四"
+
+msgid "Right Conductor Added V"
+msgstr "右攝提增五"
+
+msgid "Right Conductor Added VI"
+msgstr "右攝提增六"
+
+msgid "Left Conductor I"
+msgstr "左攝提一"
+
+msgid "Left Conductor II"
+msgstr "左攝提二"
+
+msgid "Left Conductor III"
+msgstr "左攝提三"
+
+msgid "Left Conductor Added I"
+msgstr "左攝提增一"
+
+msgid "Left Conductor Added II"
+msgstr "左攝提增二"
+
+msgid "Left Conductor Added III"
+msgstr "左攝提增三"
+
+msgid "Left Conductor Added IV"
+msgstr "左攝提增四"
+
+msgid "Executions I"
+msgstr "折威一"
+
+msgid "Executions III"
+msgstr "折威三"
+
+msgid "Executions IV"
+msgstr "折威四"
+
+msgid "Executions V"
+msgstr "折威五"
+
+msgid "Executions VI"
+msgstr "折威六"
+
+msgid "Executions VII"
+msgstr "折威七"
+
+msgid "Executions Added I"
+msgstr "折威增一"
+
+msgid "Executions Added II"
+msgstr "折威增二"
+
+msgid "Executions Added III"
+msgstr "折威增三"
+
+msgid "Executions Added IV"
+msgstr "折威增四"
+
+msgid "Executions Added V"
+msgstr "折威增五"
+
+msgid "Executions Added VI"
+msgstr "折威增六"
+
+msgid "Executions Added VII"
+msgstr "折威增七"
+
+msgid "Trials I"
+msgstr "頓頑一"
+
+msgid "Trials II"
+msgstr "頓頑二"
+
+msgid "Trials Added I"
+msgstr "頓頑增一"
+
+msgid "Gate of Yang I"
+msgstr "陽門一"
+
+msgid "Gate of Yang II"
+msgstr "陽門二"
+
+msgid "Root I"
+msgstr "氐宿一"
+
+msgid "Root II"
+msgstr "氐宿二"
+
+msgid "Root III"
+msgstr "氐宿三"
+
+msgid "Root IV"
+msgstr "氐宿四"
+
+msgid "Root Added I"
+msgstr "氐宿增一"
+
+msgid "Root Added II"
+msgstr "氐宿增二"
+
+msgid "Root Added III"
+msgstr "氐宿增三"
+
+msgid "Root Added IV"
+msgstr "氐宿增四"
+
+msgid "Root Added V"
+msgstr "氐宿增五"
+
+msgid "Root Added VI"
+msgstr "氐宿增六"
+
+msgid "Root Added VII"
+msgstr "氐宿增七"
+
+msgid "Root Added VIII"
+msgstr "氐宿增八"
+
+msgid "Root Added IX"
+msgstr "氐宿增九"
+
+msgid "Root Added X"
+msgstr "氐宿增十"
+
+msgid "Root Added XI"
+msgstr "氐宿增十一"
+
+msgid "Root Added XII"
+msgstr "氐宿增十二"
+
+msgid "Root Added XIII"
+msgstr "氐宿增十三"
+
+msgid "Root Added XIV"
+msgstr "氐宿增十四"
+
+msgid "Root Added XV"
+msgstr "氐宿增十五"
+
+msgid "Root Added XVI"
+msgstr "氐宿增十六"
+
+msgid "Root Added XVII"
+msgstr "氐宿增十七"
+
+msgid "Root Added XVIII"
+msgstr "氐宿增十八"
+
+msgid "Root Added XIX"
+msgstr "氐宿增十九"
+
+msgid "Root Added XX"
+msgstr "氐宿增廿"
+
+msgid "Root Added XXI"
+msgstr "氐宿增廿一"
+
+msgid "Root Added XXII"
+msgstr "氐宿增廿二"
+
+msgid "Root Added XXIII"
+msgstr "氐宿增廿三"
+
+msgid "Root Added XXIV"
+msgstr "氐宿增廿四"
+
+msgid "Root Added XXV"
+msgstr "氐宿增廿五"
+
+msgid "Root Added XXVI"
+msgstr "氐宿增廿六"
+
+msgid "Root Added XXVII"
+msgstr "氐宿增廿七"
+
+msgid "Root Added XXVIII"
+msgstr "氐宿增廿八"
+
+msgid "Root Added XXIX"
+msgstr "氐宿增廿九"
+
+msgid "Root Added XXX"
+msgstr "氐宿增卅"
+
+msgid "Boats and Lake I"
+msgstr "亢池一"
+
+msgid "Boats and Lake II"
+msgstr "亢池二"
+
+msgid "Boats and Lake III"
+msgstr "亢池三"
+
+msgid "Boats and Lake IV"
+msgstr "亢池四"
+
+msgid "Mattress of the Emperor I"
+msgstr "帝席一"
+
+msgid "Mattress of the Emperor II"
+msgstr "帝席二"
+
+msgid "Mattress of the Emperor III"
+msgstr "帝席三"
+
+msgid "Mattress of the Emperor Added I"
+msgstr "帝席增一"
+
+msgid "Celestial Lance I"
+msgstr "梗河一"
+
+msgid "Celestial Lance II"
+msgstr "梗河二"
+
+msgid "Celestial Lance III"
+msgstr "梗河三"
+
+msgid "Celestial Lance Added I"
+msgstr "梗河增一"
+
+msgid "Celestial Lance Added II"
+msgstr "梗河增二"
+
+msgid "Celestial Lance Added III"
+msgstr "梗河增三"
+
+msgid "Celestial Lance Added IV"
+msgstr "梗河增四"
+
+msgid "Celestial Lance Added V"
+msgstr "梗河增五"
+
+msgid "Celestial Milk Added I"
+msgstr "天乳增一"
+
+msgid "Celestial Milk Added II"
+msgstr "天乳增二"
+
+msgid "Celestial Milk Added III"
+msgstr "天乳增三"
+
+msgid "Celestial Milk Added IV"
+msgstr "天乳增四"
+
+msgid "Celestial Spokes I"
+msgstr "天輻一"
+
+msgid "Celestial Spokes II"
+msgstr "天輻二"
+
+msgid "Celestial Spokes Added I"
+msgstr "天輻增一"
+
+msgid "Battle Chariots I"
+msgstr "陣車一"
+
+msgid "Battle Chariots II"
+msgstr "陣車二"
+
+msgid "Battle Chariots III"
+msgstr "陣車三"
+
+msgid "Battle Chariots Added I"
+msgstr "陣車增一"
+
+msgid "Battle Chariots Added II"
+msgstr "陣車增二"
+
+msgid "Imperial Guards I"
+msgstr "騎官一"
+
+msgid "Imperial Guards II"
+msgstr "騎官二"
+
+msgid "Imperial Guards III"
+msgstr "騎官三"
+
+msgid "Imperial Guards IV"
+msgstr "騎官四"
+
+msgid "Imperial Guards V"
+msgstr "騎官五"
+
+msgid "Imperial Guards VI"
+msgstr "騎官六"
+
+msgid "Imperial Guards VII"
+msgstr "騎官七"
+
+msgid "Imperial Guards VIII"
+msgstr "騎官八"
+
+msgid "Imperial Guards IX"
+msgstr "騎官九"
+
+msgid "Imperial Guards X"
+msgstr "騎官十"
+
+msgid "Chariots and Cavalry I"
+msgstr "車騎一"
+
+msgid "Chariots and Cavalry II"
+msgstr "車騎二"
+
+msgid "Chariots and Cavalry III"
+msgstr "車騎三"
+
+msgid "Room I"
+msgstr "房宿一"
+
+msgid "Room II"
+msgstr "房宿二"
+
+msgid "Room III"
+msgstr "房宿三"
+
+msgid "Room IV"
+msgstr "房宿四"
+
+msgid "Room Added I"
+msgstr "房宿增一"
+
+msgid "Room Added II"
+msgstr "房宿增二"
+
+msgid "Room Added III"
+msgstr "房宿增三"
+
+msgid "Room Added IV"
+msgstr "房宿增四"
+
+msgid "Room Added V"
+msgstr "房宿增五"
+
+msgid "Room Added VI"
+msgstr "房宿增六"
+
+msgid "Lock I"
+msgstr "鈎鈴一"
+
+msgid "Lock II"
+msgstr "鈎鈴二"
+
+msgid "Punishment I"
+msgstr "罰一"
+
+msgid "Punishment II"
+msgstr "罰二"
+
+msgid "Punishment III"
+msgstr "罰三"
+
+msgid "Punishment Added I"
+msgstr "罰增一"
+
+msgid "Punishment Added II"
+msgstr "罰增二"
+
+msgid "Punishment Added III"
+msgstr "罰增三"
+
+msgid "Western Door I"
+msgstr "西咸一"
+
+msgid "Western Door II"
+msgstr "西咸二"
+
+msgid "Western Door III"
+msgstr "西咸三"
+
+msgid "Western Door IV"
+msgstr "西咸四"
+
+msgid "Western Door Added I"
+msgstr "西咸增一"
+
+msgid "Eastern Door I"
+msgstr "東咸一"
+
+msgid "Eastern Door II"
+msgstr "東咸二"
+
+msgid "Eastern Door III"
+msgstr "東咸三"
+
+msgid "Eastern Door IV"
+msgstr "東咸四"
+
+msgid "Eastern Door Added I"
+msgstr "東咸增一"
+
+msgid "Eastern Door Added II"
+msgstr "東咸增二"
+
+msgid "Solar Star Added I"
+msgstr "日增一"
+
+msgid "Retinue I (In Room Mansion)"
+msgstr "從官一 (房宿)"
+
+msgid "Retinue II (In Room Mansion)"
+msgstr "從官二 (房宿)"
+
+msgid "Retinue Added I (In Room Mansion)"
+msgstr "從官增一 (房宿)"
+
+msgid "Heart I"
+msgstr "心宿一"
+
+msgid "Heart II"
+msgstr "心宿二"
+
+msgid "Great Fire"
+msgstr "大火"
+
+msgid "Heart III"
+msgstr "心宿三"
+
+msgid "Heart Added I"
+msgstr "心宿增一"
+
+msgid "Heart Added II"
+msgstr "心宿增二"
+
+msgid "Heart Added III"
+msgstr "心宿增三"
+
+msgid "Heart Added IV"
+msgstr "心宿增四"
+
+msgid "Heart Added V"
+msgstr "心宿增五"
+
+msgid "Heart Added VI"
+msgstr "心宿增六"
+
+msgid "Heart Added VIII"
+msgstr "心宿增八"
+
+msgid "Heart Added IX"
+msgstr "心宿增九"
+
+msgid "Group of Soldiers I"
+msgstr "積卒一"
+
+msgid "Group of Soldiers II"
+msgstr "積卒二"
+
+msgid "Group of Soldiers Added I"
+msgstr "積卒增一"
+
+msgid "Group of Soldiers Added II"
+msgstr "積卒增二"
+
+msgid "Tail I"
+msgstr "尾宿一"
+
+msgid "Tail II"
+msgstr "尾宿二"
+
+msgid "Tail III"
+msgstr "尾宿三"
+
+msgid "Tail IV"
+msgstr "尾宿四"
+
+msgid "Tail V"
+msgstr "尾宿五"
+
+msgid "Tail VI"
+msgstr "尾宿六"
+
+msgid "Tail VII"
+msgstr "尾宿七"
+
+msgid "Tail VIII"
+msgstr "尾宿八"
+
+msgid "Tail IX"
+msgstr "尾宿九"
+
+msgid "Tail Added I"
+msgstr "尾宿增一"
+
+msgid "Tail Added II"
+msgstr "尾宿增二"
+
+msgid "Tail Added III"
+msgstr "尾宿增三"
+
+msgid "Tail Added IV"
+msgstr "尾宿增四"
+
+msgid "Celestial River I"
+msgstr "天江一"
+
+msgid "Celestial River II"
+msgstr "天江二"
+
+msgid "Celestial River III"
+msgstr "天江三"
+
+msgid "Celestial River IV"
+msgstr "天江四"
+
+msgid "Celestial River Added I"
+msgstr "天江增一"
+
+msgid "Celestial River Added II"
+msgstr "天江增二"
+
+msgid "Celestial River Added III"
+msgstr "天江增三"
+
+msgid "Celestial River Added IV"
+msgstr "天江增四"
+
+msgid "Celestial River Added V"
+msgstr "天江增五"
+
+msgid "Celestial River Added VI"
+msgstr "天江增六"
+
+msgid "Celestial River Added VII"
+msgstr "天江增七"
+
+msgid "Celestial River Added VIII"
+msgstr "天江增八"
+
+msgid "Celestial River Added IX"
+msgstr "天江增九"
+
+msgid "Celestial River Added X"
+msgstr "天江增十"
+
+msgid "Celestial River Added XI"
+msgstr "天江增十一"
+
+msgid "Tortoise I"
+msgstr "龜一"
+
+msgid "Tortoise II"
+msgstr "龜二"
+
+msgid "Tortoise III"
+msgstr "龜三"
+
+msgid "Tortoise IV"
+msgstr "龜四"
+
+msgid "Tortoise V"
+msgstr "龜五"
+
+msgid "Winnowing Basket I"
+msgstr "箕宿一"
+
+msgid "Winnowing Basket II"
+msgstr "箕宿二"
+
+msgid "Winnowing Basket III"
+msgstr "箕宿三"
+
+msgid "Winnowing Basket IV"
+msgstr "箕宿四"
+
+msgid "Chaff Added I"
+msgstr "糠增一"
+
+msgid "Pestle I (In Winnowing Basket Mansion)"
+msgstr "杵一 (箕宿)"
+
+msgid "Pestle II (In Winnowing Basket Mansion)"
+msgstr "杵二 (箕宿)"
+
+msgid "Pestle III (In Winnowing Basket Mansion)"
+msgstr "杵三 (箕宿)"
+
+msgid "Pestle Added I (In Winnowing Basket Mansion)"
+msgstr "杵增一 (箕宿)"
+
+msgid "Dipper I"
+msgstr "斗宿一"
+
+msgid "Dipper II"
+msgstr "斗宿二"
+
+msgid "Dipper III"
+msgstr "斗宿三"
+
+msgid "Dipper IV"
+msgstr "斗宿四"
+
+msgid "Dipper V"
+msgstr "斗宿五"
+
+msgid "Dipper VI"
+msgstr "斗宿六"
+
+msgid "Dipper Added I"
+msgstr "斗宿增一"
+
+msgid "Dipper Added II"
+msgstr "斗宿增二"
+
+msgid "Dipper Added III"
+msgstr "斗宿增三"
+
+msgid "Dipper Added IV"
+msgstr "斗宿增四"
+
+msgid "Dipper Added V"
+msgstr "斗宿增五"
+
+msgid "Celestial Keyhole I"
+msgstr "天籥一"
+
+msgid "Celestial Keyhole II?"
+msgstr "天籥二 ?"
+
+msgid "Celestial Keyhole III"
+msgstr "天籥三"
+
+msgid "Celestial Keyhole IV"
+msgstr "天籥四"
+
+msgid "Celestial Keyhole V"
+msgstr "天籥五"
+
+msgid "Celestial Keyhole VI"
+msgstr "天籥六"
+
+msgid "Celestial Keyhole VII"
+msgstr "天籥七"
+
+msgid "Celestial Keyhole VIII"
+msgstr "天籥八"
+
+msgid "Celestial Keyhole Added I"
+msgstr "天籥增一"
+
+msgid "Celestial Keyhole Added II"
+msgstr "天籥增二"
+
+msgid "Celestial Keyhole Added III"
+msgstr "天籥增三"
+
+msgid "Celestial Keyhole Added IV"
+msgstr "天籥增四"
+
+msgid "Market Officer I"
+msgstr "天弁"
+
+msgid "Market Officer II"
+msgstr "天弁二"
+
+msgid "Market Officer III"
+msgstr "天弁三"
+
+msgid "Market Officer IV"
+msgstr "天弁四"
+
+msgid "Market Officer V"
+msgstr "天弁五"
+
+msgid "Market Officer VI"
+msgstr "天弁六"
+
+msgid "Market Officer VII"
+msgstr "天弁七"
+
+msgid "Market Officer VIII"
+msgstr "天弁八"
+
+msgid "Market Officer IX"
+msgstr "天弁九"
+
+msgid "Market Officer Added I"
+msgstr "天弁增一"
+
+msgid "Market Officer Added II"
+msgstr "天弁增二"
+
+msgid "Market Officer Added III"
+msgstr "天弁增三"
+
+msgid "Market Officer Added IV"
+msgstr "天弁增四"
+
+msgid "Market Officer Added V"
+msgstr "天弁增五"
+
+msgid "Market Officer Added VI"
+msgstr "天弁增六"
+
+msgid "Establishment I"
+msgstr "建一"
+
+msgid "Establishment II"
+msgstr "建二"
+
+msgid "Establishment III"
+msgstr "建三"
+
+msgid "Establishment IV"
+msgstr "建四"
+
+msgid "Establishment V"
+msgstr "建五"
+
+msgid "Establishment VI"
+msgstr "建六"
+
+msgid "Establishment Added I"
+msgstr "建增一"
+
+msgid "Establishment Added II"
+msgstr "建增二"
+
+msgid "Establishment Added III"
+msgstr "建增三"
+
+msgid "Establishment Added IV"
+msgstr "建增四"
+
+msgid "Establishment Added V"
+msgstr "建增五"
+
+msgid "Establishment Added VI"
+msgstr "建增六"
+
+msgid "Establishment Added VII"
+msgstr "建增七"
+
+msgid "Establishment Added VIII"
+msgstr "建增八"
+
+msgid "Establishment Added IX"
+msgstr "建增九"
+
+msgid "Establishment Added X"
+msgstr "建增十"
+
+msgid "Celestial Cock I"
+msgstr "天雞一"
+
+msgid "Celestial Cock II"
+msgstr "天雞二"
+
+msgid "Celestial Cock Added I"
+msgstr "天雞增一"
+
+msgid "Celestial Cock Added II"
+msgstr "天雞增二"
+
+msgid "Celestial Cock Added III"
+msgstr "天雞增三"
+
+msgid "Dog I"
+msgstr "狗一"
+
+msgid "Dog II"
+msgstr "狗二"
+
+msgid "Dog Added I"
+msgstr "狗增一"
+
+msgid "Dog Added II"
+msgstr "狗增二"
+
+msgid "Dog Added III"
+msgstr "狗增三"
+
+msgid "Dog Added IV"
+msgstr "狗增四"
+
+msgid "Dog Added V"
+msgstr "狗增五"
+
+msgid "Dog Added VI"
+msgstr "狗增六"
+
+msgid "Dog Added VII"
+msgstr "狗增七"
+
+msgid "Territory of Dog I"
+msgstr "狗國一"
+
+msgid "Territory of Dog II"
+msgstr "狗國二"
+
+msgid "Territory of Dog III"
+msgstr "狗國三"
+
+msgid "Territory of Dog IV"
+msgstr "狗國四"
+
+msgid "Territory of Dog Added I"
+msgstr "狗國增一"
+
+msgid "Territory of Dog Added II"
+msgstr "狗國增二"
+
+msgid "Territory of Dog Added III"
+msgstr "狗國增三"
+
+msgid "Celestial Spring I"
+msgstr "天淵一"
+
+msgid "Celestial Spring II"
+msgstr "天淵二"
+
+msgid "Celestial Spring III"
+msgstr "天淵三"
+
+msgid "Celestial Spring Added I"
+msgstr "天淵增一"
+
+msgid "Celestial Spring Added II"
+msgstr "天淵增二"
+
+msgid "Celestial Spring Added III"
+msgstr "天淵增三"
+
+msgid "River Turtle I"
+msgstr "鼈一"
+
+msgid "River Turtle II"
+msgstr "鼈二"
+
+msgid "River Turtle III"
+msgstr "鼈三"
+
+msgid "River Turtle IV"
+msgstr "鼈四"
+
+msgid "River Turtle V"
+msgstr "鼈五"
+
+msgid "River Turtle VI"
+msgstr "鼈六"
+
+msgid "River Turtle VII"
+msgstr "鼈七"
+
+msgid "River Turtle VIII"
+msgstr "鼈八"
+
+msgid "River Turtle IX"
+msgstr "鼈九"
+
+msgid "River Turtle X"
+msgstr "鼈十"
+
+msgid "River Turtle XI"
+msgstr "鼈一"
+
+msgid "Ox I"
+msgstr "牛宿一"
+
+msgid "Ox II"
+msgstr "牛宿二"
+
+msgid "Ox III"
+msgstr "牛宿三"
+
+msgid "Ox IV"
+msgstr "牛宿四"
+
+msgid "Ox V"
+msgstr "牛宿五"
+
+msgid "Ox VI"
+msgstr "牛宿六"
+
+msgid "Ox Added I"
+msgstr "牛宿增一"
+
+msgid "Ox Added II"
+msgstr "牛宿增二"
+
+msgid "Ox Added III"
+msgstr "牛宿增三"
+
+msgid "Ox Added IV"
+msgstr "牛宿增四"
+
+msgid "Ox Added V"
+msgstr "牛宿增五"
+
+msgid "Ox Added VI"
+msgstr "牛宿增六"
+
+msgid "Ox Added VII"
+msgstr "牛宿增七 "
+
+msgid "Ox Added VIII"
+msgstr "牛宿增八"
+
+msgid "Ox Added IX"
+msgstr "牛宿增九"
+
+msgid "Ox Added X"
+msgstr "牛宿增十"
+
+msgid "Ox Added XI"
+msgstr "牛宿增十一"
+
+msgid "Ox Added XII"
+msgstr "牛宿增十二"
+
+msgid "Ox Added XIII"
+msgstr "牛宿增十三"
+
+msgid "Ox Added XIV"
+msgstr "牛宿增十四"
+
+msgid "Celestial Drumstick I"
+msgstr "天桴一"
+
+msgid "Celestial Drumstick II"
+msgstr "天桴二"
+
+msgid "Celestial Drumstick III"
+msgstr "天桴三"
+
+msgid "Celestial Drumstick IV"
+msgstr "天桴四"
+
+msgid "Celestial Drumstick Added I"
+msgstr "天桴增一"
+
+msgid "Celestial Drumstick Added II"
+msgstr "天桴增二"
+
+msgid "Drum at the River I"
+msgstr "河鼓一"
+
+msgid "Drum at the River II"
+msgstr "河鼓二"
+
+msgid "Cowboy"
+msgstr "牛郎"
+
+msgid "Drum at the River III"
+msgstr "河鼓三"
+
+msgid "Drum at the River Added I"
+msgstr "河鼓增一"
+
+msgid "Drum at the River Added II"
+msgstr "河鼓增二"
+
+msgid "Drum at the River Added III"
+msgstr "河鼓增三"
+
+msgid "Drum at the River Added IV"
+msgstr "河鼓增四"
+
+msgid "Drum at the River Added V"
+msgstr "河鼓增五"
+
+msgid "Drum at the River Added VI"
+msgstr "河鼓增六"
+
+msgid "Drum at the River Added VII"
+msgstr "河鼓增七"
+
+msgid "Drum at the River Added VIII"
+msgstr "河鼓增八"
+
+msgid "Drum at the River Added IX"
+msgstr "河鼓增九"
+
+msgid "Right Flag I"
+msgstr "右旗一"
+
+msgid "Right Flag II"
+msgstr "右旗二"
+
+msgid "Right Flag III"
+msgstr "右旗三"
+
+msgid "Right Flag IV"
+msgstr "右旗四"
+
+msgid "Right Flag V"
+msgstr "右旗五"
+
+msgid "Right Flag VI"
+msgstr "右旗六"
+
+msgid "Right Flag VII"
+msgstr "右旗七"
+
+msgid "Right Flag VIII"
+msgstr "右旗八"
+
+msgid "Right Flag IX"
+msgstr "右旗九"
+
+msgid "Right Flag Added I"
+msgstr "右旗增一"
+
+msgid "Right Flag Added II"
+msgstr "右旗增二"
+
+msgid "Right Flag Added III"
+msgstr "右旗增三"
+
+msgid "Right Flag Added IV"
+msgstr "右旗增四"
+
+msgid "Right Flag Added V"
+msgstr "右旗增五"
+
+msgid "Right Flag Added VI"
+msgstr "右旗增六"
+
+msgid "Right Flag Added VII"
+msgstr "右旗增七"
+
+msgid "Right Flag Added VIII"
+msgstr "右旗增八"
+
+msgid "Right Flag Added X"
+msgstr "右旗增十"
+
+msgid "Right Flag Added XI"
+msgstr "右旗增十一"
+
+msgid "Right Flag Added XII"
+msgstr "右旗增十二"
+
+msgid "Left Flag I"
+msgstr "左旗一"
+
+msgid "Left Flag II"
+msgstr "左旗二"
+
+msgid "Left Flag III"
+msgstr "左旗三"
+
+msgid "Left Flag IV"
+msgstr "左旗四"
+
+msgid "Left Flag V"
+msgstr "左旗五"
+
+msgid "Left Flag VI"
+msgstr "左旗六"
+
+msgid "Left Flag VII"
+msgstr "左旗七"
+
+msgid "Left Flag VIII"
+msgstr "左旗八"
+
+msgid "Left Flag IX"
+msgstr "左旗九"
+
+msgid "Left Flag Added I"
+msgstr "左旗增一"
+
+msgid "Left Flag Added II"
+msgstr "左旗增二"
+
+msgid "Left Flag Added III"
+msgstr "左旗增三"
+
+msgid "Left Flag Added IV"
+msgstr "左旗增四"
+
+msgid "Left Flag Added V"
+msgstr "左旗增五"
+
+msgid "Left Flag Added VI"
+msgstr "左旗增六"
+
+msgid "Left Flag Added VII"
+msgstr "左旗增七"
+
+msgid "Left Flag Added VIII"
+msgstr "左旗增八"
+
+msgid "Left Flag Added IX?"
+msgstr "左旗增九 ?"
+
+msgid "Left Flag Added X"
+msgstr "左旗增十"
+
+msgid "Left Flag Added XI"
+msgstr "左旗增十一"
+
+msgid "Left Flag Added XII"
+msgstr "左旗增十二"
+
+msgid "Left Flag Added XIII"
+msgstr "左旗增十三"
+
+msgid "Left Flag Added XIV"
+msgstr "左旗增十四"
+
+msgid "Left Flag Added XV"
+msgstr "左旗增十五"
+
+msgid "Left Flag Added XVI"
+msgstr "左旗增十六"
+
+msgid "Left Flag Added XVII"
+msgstr "左旗增十七"
+
+msgid "Left Flag Added XVIII"
+msgstr "左旗增十八"
+
+msgid "Left Flag Added XIX"
+msgstr "左旗增十九"
+
+msgid "Left Flag Added XX"
+msgstr "左旗增廿"
+
+msgid "Left Flag Added XXI"
+msgstr "左旗增廿一"
+
+msgid "Left Flag Added XXII"
+msgstr "左旗增廿二"
+
+msgid "Left Flag Added XXIII"
+msgstr "左旗增廿三"
+
+msgid "Left Flag Added XXIV"
+msgstr "左旗增廿四"
+
+msgid "Left Flag Added XXV"
+msgstr "左旗增廿五"
+
+msgid "Left Flag Added XXVI"
+msgstr "左旗增廿六"
+
+msgid "Left Flag Added XXVII"
+msgstr "左旗增廿七"
+
+msgid "Left Flag Added XXVIII"
+msgstr "左旗增廿八"
+
+msgid "Left Flag Added XXIX"
+msgstr "左旗增廿九"
+
+msgid "Left Flag Added XXX"
+msgstr "左旗增卅"
+
+msgid "Weaving Girl I"
+msgstr "織女一"
+
+msgid "Weaving Girl II"
+msgstr "織女二"
+
+msgid "Weaving Girl III"
+msgstr "織女三"
+
+msgid "Weaving Girl Added I"
+msgstr "織女增一"
+
+msgid "Weaving Girl Added II"
+msgstr "織女增二"
+
+msgid "Weaving Girl Added III"
+msgstr "織女增三"
+
+msgid "Weaving Girl Added IV"
+msgstr "織女增四"
+
+msgid "Clepsydra Terrace I"
+msgstr "漸臺一"
+
+msgid "Clepsydra Terrace II"
+msgstr "漸臺二"
+
+msgid "Clepsydra Terrace III"
+msgstr "漸臺三"
+
+msgid "Clepsydra Terrace IV"
+msgstr "漸臺四"
+
+msgid "Clepsydra Terrace Added I"
+msgstr "漸臺增一"
+
+msgid "Clepsydra Terrace Added III"
+msgstr "漸臺增三"
+
+msgid "Clepsydra Terrace Added IV"
+msgstr "漸臺增四"
+
+msgid "Clepsydra Terrace Added V"
+msgstr "漸臺增五"
+
+msgid "Clepsydra Terrace Added VI"
+msgstr "漸臺增六"
+
+msgid "Clepsydra Terrace Added VII"
+msgstr "漸臺增七"
+
+msgid "Imperial Passageway I"
+msgstr "輦道一"
+
+msgid "Imperial Passageway II"
+msgstr "輦道二"
+
+msgid "Imperial Passageway III"
+msgstr "輦道三"
+
+msgid "Imperial Passageway IV"
+msgstr "輦道四"
+
+msgid "Imperial Passageway V"
+msgstr "輦道五"
+
+msgid "Imperial Passageway Added I"
+msgstr "輦道增一"
+
+msgid "Imperial Passageway Added II"
+msgstr "輦道增二"
+
+msgid "Imperial Passageway Added III"
+msgstr "輦道增三"
+
+msgid "Imperial Passageway Added IV"
+msgstr "輦道增四"
+
+msgid "Imperial Passageway Added V"
+msgstr "輦道增五"
+
+msgid "Imperial Passageway Added VI"
+msgstr "輦道增六"
+
+msgid "Imperial Passageway Added VII"
+msgstr "輦道增七"
+
+msgid "Imperial Passageway Added VIII"
+msgstr "輦道增八"
+
+msgid "Imperial Passageway Added IX"
+msgstr "輦道增九"
+
+msgid "Network of Dykes I"
+msgstr "羅堰一"
+
+msgid "Network of Dykes II"
+msgstr "羅堰二"
+
+msgid "Network of Dykes III"
+msgstr "羅堰三"
+
+msgid "Network of Dykes Added I"
+msgstr "羅堰增一"
+
+msgid "Celestial Farmland I (In Ox Mansion)"
+msgstr "天田一 (牛宿)"
+
+msgid "Celestial Farmland II (In Ox Mansion)"
+msgstr "天田二 (牛宿)"
+
+msgid "Celestial Farmland III (In Ox Mansion)"
+msgstr "天田三 (牛宿)"
+
+msgid "Celestial Farmland IV (In Ox Mansion)"
+msgstr "天田四 (牛宿)"
+
+msgid "Nine Water Wells II*"
+msgstr "九坎二?"
+
+msgid "Girl I"
+msgstr "女宿一"
+
+msgid "Girl II"
+msgstr "女宿二"
+
+msgid "Girl III"
+msgstr "女宿三"
+
+msgid "Girl IV"
+msgstr "女宿四"
+
+msgid "Girl Added I"
+msgstr "女宿增一"
+
+msgid "Girl Added II"
+msgstr "女宿增二"
+
+msgid "Girl Added III"
+msgstr "女宿增三"
+
+msgid "Girl Added IV"
+msgstr "女宿增四"
+
+msgid "Girl Added V"
+msgstr "女宿增五"
+
+msgid "Pearls on Ladies' Wear I"
+msgstr "離珠一"
+
+msgid "Pearls on Ladies' Wear II"
+msgstr "離珠二"
+
+msgid "Pearls on Ladies' Wear III"
+msgstr "離珠三"
+
+msgid "Pearls on Ladies' Wear IV"
+msgstr "離珠四"
+
+msgid "Pearls on Ladies' Wear Added I"
+msgstr "離珠增一"
+
+msgid "Rotten Gourd I"
+msgstr "敗瓜一"
+
+msgid "Rotten Gourd II"
+msgstr "敗瓜二"
+
+msgid "Rotten Gourd III"
+msgstr "敗瓜三"
+
+msgid "Rotten Gourd IV"
+msgstr "敗瓜四"
+
+msgid "Rotten Gourd V"
+msgstr "敗瓜五"
+
+msgid "Rotten Gourd Added I"
+msgstr "敗瓜增一"
+
+msgid "Rotten Gourd Added II"
+msgstr "敗瓜增二"
+
+msgid "Rotten Gourd Added III"
+msgstr "敗瓜增三"
+
+msgid "Good Gourd I"
+msgstr "瓠瓜一"
+
+msgid "Good Gourd II"
+msgstr "瓠瓜二"
+
+msgid "Good Gourd III"
+msgstr "瓠瓜三"
+
+msgid "Good Gourd IV"
+msgstr "瓠瓜四"
+
+msgid "Good Gourd V"
+msgstr "瓠瓜五"
+
+msgid "Good Gourd Added I"
+msgstr "瓠瓜增一"
+
+msgid "Good Gourd Added II"
+msgstr "瓠瓜增二"
+
+msgid "Good Gourd Added III"
+msgstr "瓠瓜增三"
+
+msgid "Good Gourd Added IV"
+msgstr "瓠瓜增四"
+
+msgid "Good Gourd Added V"
+msgstr "瓠瓜增五"
+
+msgid "Good Gourd Added VI"
+msgstr "瓠瓜增六"
+
+msgid "Good Gourd Added VII"
+msgstr "瓠瓜增七"
+
+msgid "Good Gourd Added VIII"
+msgstr "瓠瓜增八"
+
+msgid "Celestial Ford I"
+msgstr "天津一"
+
+msgid "Celestial Ford II"
+msgstr "天津二"
+
+msgid "Celestial Ford III"
+msgstr "天津三"
+
+msgid "Celestial Ford IV"
+msgstr "天津四"
+
+msgid "Celestial Ford V"
+msgstr "天津五"
+
+msgid "Celestial Ford VI"
+msgstr "天津六"
+
+msgid "Celestial Ford VII"
+msgstr "天津七"
+
+msgid "Celestial Ford VIII"
+msgstr "天津八"
+
+msgid "Celestial Ford IX"
+msgstr "天津九"
+
+msgid "Celestial Ford Added I"
+msgstr "天津增一"
+
+msgid "Celestial Ford Added II"
+msgstr "天津增二"
+
+msgid "Celestial Ford Added III"
+msgstr "天津增三"
+
+msgid "Celestial Ford Added IV"
+msgstr "天津增四"
+
+msgid "Celestial Ford Added V"
+msgstr "天津增五"
+
+msgid "Celestial Ford Added VI"
+msgstr "天津增六"
+
+msgid "Celestial Ford Added VII"
+msgstr "天津增七"
+
+msgid "Celestial Ford Added VIII"
+msgstr "天津增八"
+
+msgid "Celestial Ford Added IX"
+msgstr "天津增九"
+
+msgid "Celestial Ford Added X"
+msgstr "天津增十"
+
+msgid "Celestial Ford Added XI"
+msgstr "天津增十一"
+
+msgid "Celestial Ford Added XII"
+msgstr "天津增十二"
+
+msgid "Celestial Ford Added XIII"
+msgstr "天津增十三"
+
+msgid "Celestial Ford Added XIV"
+msgstr "天津增十四"
+
+msgid "Celestial Ford Added XV"
+msgstr "天津增十五"
+
+msgid "Celestial Ford Added XVI"
+msgstr "天津增十六"
+
+msgid "Celestial Ford Added XVII"
+msgstr "天津增十七"
+
+msgid "Celestial Ford Added XVIII"
+msgstr "天津增十八"
+
+msgid "Celestial Ford Added XIX"
+msgstr "天津增十九"
+
+msgid "Celestial Ford Added XX"
+msgstr "天津增廿"
+
+msgid "Celestial Ford Added XXI"
+msgstr "天津增廿一"
+
+msgid "Celestial Ford Added XXII"
+msgstr "天津增廿二"
+
+msgid "Celestial Ford Added XXIII"
+msgstr "天津增廿三"
+
+msgid "Celestial Ford Added XXIV"
+msgstr "天津增廿四"
+
+msgid "Celestial Ford Added XXV"
+msgstr "天津增廿五"
+
+msgid "Celestial Ford Added XXVI"
+msgstr "天津增廿六"
+
+msgid "Celestial Ford Added XXVII"
+msgstr "天津增廿七"
+
+msgid "Celestial Ford Added XXVIII"
+msgstr "天津增廿八"
+
+msgid "Celestial Ford Added XXIX"
+msgstr "天津增廿九"
+
+msgid "Celestial Ford Added XXX"
+msgstr "天津增卅"
+
+msgid "Celestial Ford Added XXXI"
+msgstr "天津增卅一"
+
+msgid "Celestial Ford Added XXXII"
+msgstr "天津增卅二"
+
+msgid "Celestial Ford Added XXXIII"
+msgstr "天津增卅三"
+
+msgid "Celestial Ford Added XXXIV"
+msgstr "天津增卅四"
+
+msgid "Celestial Ford Added XXXV"
+msgstr "天津增卅五"
+
+msgid "Celestial Ford Added XXXVI"
+msgstr "天津增卅六"
+
+msgid "Celestial Ford Added XXXVII"
+msgstr "天津增卅七"
+
+msgid "Celestial Ford Added XXXVIII"
+msgstr "天津增卅八"
+
+msgid "Celestial Ford Added XXXIX"
+msgstr "天津增卅九"
+
+msgid "Celestial Ford Added XL"
+msgstr "天津增四十"
+
+msgid "Xi Zhong I"
+msgstr "奚仲一"
+
+msgid "Xi Zhong II"
+msgstr "奚仲二"
+
+msgid "Xi Zhong III"
+msgstr "奚仲三"
+
+msgid "Xi Zhong IV"
+msgstr "奚仲四"
+
+msgid "Xi Zhong Added I"
+msgstr "奚仲增一"
+
+msgid "Xi Zhong Added II"
+msgstr "奚仲增二"
+
+msgid "Xi Zhong Added III"
+msgstr "奚仲增三"
+
+msgid "Xi Zhong Added IV"
+msgstr "奚仲增四"
+
+msgid "Xi Zhong Added V"
+msgstr "奚仲增五"
+
+msgid "Xi Zhong Added VI"
+msgstr "奚仲增六"
+
+msgid "Xi Zhong Added VII"
+msgstr "奚仲增七"
+
+msgid "Basket for Mulberry Leaves I"
+msgstr "扶筐一"
+
+msgid "Basket for Mulberry Leaves II"
+msgstr "扶筐二"
+
+msgid "Basket for Mulberry Leaves III"
+msgstr "扶筐三"
+
+msgid "Basket for Mulberry Leaves IV"
+msgstr "扶筐四"
+
+msgid "Basket for Mulberry Leaves V"
+msgstr "扶筐五"
+
+msgid "Basket for Mulberry Leaves VI"
+msgstr "扶筐六"
+
+msgid "Basket for Mulberry Leaves VII"
+msgstr "扶筐七"
+
+msgid "Basket for Mulberry Leaves Added I"
+msgstr "扶筐增一"
+
+msgid "Basket for Mulberry Leaves Added II"
+msgstr "扶筐增二"
+
+msgid "Basket for Mulberry Leaves Added III"
+msgstr "扶筐增三"
+
+msgid "Basket for Mulberry Leaves Added IV"
+msgstr "扶筐增四"
+
+msgid "Zhou State I (In Twelve States)"
+msgstr "周一 (十二國)"
+
+msgid "Zhou State II (In Twelve States)"
+msgstr "周二 (十二國)"
+
+msgid "Qin State I (In Twelve States)"
+msgstr "秦一 (十二國)"
+
+msgid "Qin State II (In Twelve States)"
+msgstr "秦二 (十二國)"
+
+msgid "Dai State I (In Twelve States)"
+msgstr "代一 (十二國)"
+
+msgid "Dai State II (In Twelve States)"
+msgstr "代二 (十二國)"
+
+msgid "Zhao State I (In Twelve States)"
+msgstr "趙一 (十二國)"
+
+msgid "Zhao State II (In Twelve States)"
+msgstr "趙二 (十二國)"
+
+msgid "Yue State (In Twelve States)"
+msgstr "越 (十二國)"
+
+msgid "Qi State (In Twelve States)"
+msgstr "齊 (十二國)"
+
+msgid "Chu State (In Twelve States)"
+msgstr "楚 (十二國)"
+
+msgid "Zheng State (In Twelve States)"
+msgstr "鄭 (十二國)"
+
+msgid "Wei State (In Twelve States)"
+msgstr "魏 (十二國)"
+
+msgid "Han State (In Twelve States)"
+msgstr "韓 (十二國)"
+
+msgid "Jin State (In Twelve States)"
+msgstr "晉 (十二國)"
+
+msgid "Yan State (In Twelve States)"
+msgstr "燕 (十二國)"
+
+msgid "Dai State Added I (In Twelve States)"
+msgstr "代增一 (十二國)"
+
+msgid "Dai State Added II (In Twelve States)"
+msgstr "代增二 (十二國)"
+
+msgid "Emptiness I"
+msgstr "虛宿一"
+
+msgid "Emptiness II"
+msgstr "虛宿二"
+
+msgid "Emptiness Added I"
+msgstr "虛宿增一"
+
+msgid "Emptiness Added II"
+msgstr "虛宿增二"
+
+msgid "Emptiness Added III"
+msgstr "虛宿增三"
+
+msgid "Emptiness Added IV"
+msgstr "虛宿增四"
+
+msgid "Emptiness Added V"
+msgstr "虛宿增五"
+
+msgid "Emptiness Added VI"
+msgstr "虛宿增六"
+
+msgid "Emptiness Added VII"
+msgstr "虛宿增七"
+
+msgid "Emptiness Added VIII"
+msgstr "虛宿增八"
+
+msgid "Deified Judge of Life I"
+msgstr "司命一"
+
+msgid "Deified Judge of Life II"
+msgstr "司命二"
+
+msgid "Deified Judge of Rank I"
+msgstr "司祿一"
+
+msgid "Deified Judge of Rank II"
+msgstr "司祿二"
+
+msgid "Deified Judge of Rank Added I"
+msgstr "司祿增一"
+
+msgid "Deified Judge of Rank Added II"
+msgstr "司祿增二"
+
+msgid "Deified Judge of Disaster and Good Fortune I"
+msgstr "司危一"
+
+msgid "Deified Judge of Disaster and Good Fortune II"
+msgstr "司危二"
+
+msgid "Deified Judge of Right and Wrong  I"
+msgstr "司非一"
+
+msgid "Deified Judge of Right and Wrong  II"
+msgstr "司非二"
+
+msgid "Deified Judge of Right and Wrong  Added I"
+msgstr "司非增一"
+
+msgid "Deified Judge of Right and Wrong  Added II"
+msgstr "司非增二"
+
+msgid "Deified Judge of Right and Wrong  Added III"
+msgstr "司非增三"
+
+msgid "Crying I"
+msgstr "哭一"
+
+msgid "Crying II"
+msgstr "哭二"
+
+msgid "Crying Added I"
+msgstr "哭增一"
+
+msgid "Crying Added II"
+msgstr "哭增二"
+
+msgid "Crying Added III"
+msgstr "哭增三"
+
+msgid "Crying Added IV"
+msgstr "哭增四"
+
+msgid "Weeping I"
+msgstr "泣一"
+
+msgid "Weeping II"
+msgstr "泣二"
+
+msgid "Weeping Added I"
+msgstr "泣增一"
+
+msgid "Weeping Added II"
+msgstr "泣增二"
+
+msgid "Jade Ornament on Ladies' Wear II"
+msgstr "離瑜二"
+
+msgid "Jade Ornament on Ladies' Wear III"
+msgstr "離瑜三"
+
+msgid "Jade Ornament on Ladies' Wear Added I"
+msgstr "離瑜增一"
+
+msgid "Jade Ornament on Ladies' Wear Added II"
+msgstr "離瑜增二"
+
+msgid "Jade Ornament on Ladies' Wear Added III"
+msgstr "離瑜增三"
+
+msgid "Celestial Ramparts I"
+msgstr "天壘城一"
+
+msgid "Celestial Ramparts II"
+msgstr "天壘城二"
+
+msgid "Celestial Ramparts III"
+msgstr "天壘城三"
+
+msgid "Celestial Ramparts IV"
+msgstr "天壘城四"
+
+msgid "Celestial Ramparts V"
+msgstr "天壘城五"
+
+msgid "Celestial Ramparts VI"
+msgstr "天壘城六"
+
+msgid "Celestial Ramparts VII"
+msgstr "天壘城七"
+
+msgid "Celestial Ramparts VIII"
+msgstr "天壘城八"
+
+msgid "Celestial Ramparts IX"
+msgstr "天壘城九"
+
+msgid "Celestial Ramparts X"
+msgstr "天壘城十"
+
+msgid "Celestial Ramparts XI"
+msgstr "天壘城十一"
+
+msgid "Celestial Ramparts XII"
+msgstr "天壘城十二"
+
+msgid "Celestial Ramparts XIII"
+msgstr "天壘城十三"
+
+msgid "Celestial Ramparts Added II"
+msgstr "天壘城增二"
+
+msgid "Decayed Mortar I"
+msgstr "敗臼一"
+
+msgid "Decayed Mortar II"
+msgstr "敗臼二"
+
+msgid "Decayed Mortar III"
+msgstr "敗臼三"
+
+msgid "Decayed Mortar IV"
+msgstr "敗臼四"
+
+msgid "Decayed Mortar Added I"
+msgstr "敗臼增一"
+
+msgid "Rooftop I"
+msgstr "危宿一"
+
+msgid "Rooftop II"
+msgstr "危宿二"
+
+msgid "Rooftop III"
+msgstr "危宿三"
+
+msgid "Rooftop Added I"
+msgstr "危宿增一"
+
+msgid "Rooftop Added II"
+msgstr "危宿增二"
+
+msgid "Rooftop Added III"
+msgstr "危宿增三"
+
+msgid "Rooftop Added IV"
+msgstr "危宿增四"
+
+msgid "Rooftop Added V"
+msgstr "危宿增五"
+
+msgid "Rooftop Added VI"
+msgstr "危宿增六"
+
+msgid "Rooftop Added VII"
+msgstr "危宿增七"
+
+msgid "Rooftop Added VIII"
+msgstr "危宿增八"
+
+msgid "Rooftop Added IX"
+msgstr "危宿增九"
+
+msgid "Rooftop Added X"
+msgstr "危宿增十"
+
+msgid "Rooftop Added XI"
+msgstr "危宿增十一"
+
+msgid "Rooftop Added XII"
+msgstr "危宿增十二"
+
+msgid "Rooftop Added XIII"
+msgstr "危宿增十三"
+
+msgid "Rooftop Added XIV"
+msgstr "危宿增十四"
+
+msgid "Tomb I"
+msgstr "墳墓一"
+
+msgid "Tomb II"
+msgstr "墳墓二"
+
+msgid "Tomb III"
+msgstr "墳墓三"
+
+msgid "Tomb IV"
+msgstr "墳墓四"
+
+msgid "Tomb Added I"
+msgstr "墳墓增一"
+
+msgid "Tomb Added II"
+msgstr "墳墓增二"
+
+msgid "Tomb Added III"
+msgstr "墳墓增三"
+
+msgid "Tomb Added IV"
+msgstr "墳墓增四"
+
+msgid "Roofing I"
+msgstr "葢屋一"
+
+msgid "Roofing II"
+msgstr "葢屋二"
+
+msgid "Temple I"
+msgstr "虛梁一"
+
+msgid "Temple II"
+msgstr "虛梁二"
+
+msgid "Temple III"
+msgstr "虛梁三"
+
+msgid "Temple IV"
+msgstr "虛梁四"
+
+msgid "Celestial Money I"
+msgstr "天錢一"
+
+msgid "Celestial Money II"
+msgstr "天錢二"
+
+msgid "Celestial Money III"
+msgstr "天錢三"
+
+msgid "Celestial Money IV"
+msgstr "天錢四"
+
+msgid "Celestial Money V"
+msgstr "天錢五"
+
+msgid "Celestial Money Added I"
+msgstr "天錢增一"
+
+msgid "Celestial Money Added II"
+msgstr "天錢增二"
+
+msgid "Celestial Money Added III"
+msgstr "天錢增三"
+
+msgid "Celestial Money Added IV"
+msgstr "天錢增四"
+
+msgid "Humans I"
+msgstr "人一"
+
+msgid "Humans II"
+msgstr "人二"
+
+msgid "Humans III"
+msgstr "人三"
+
+msgid "Humans IV"
+msgstr "人四"
+
+msgid "Humans Added I"
+msgstr "人增一"
+
+msgid "Humans Added III"
+msgstr "人增三"
+
+msgid "Humans Added IV"
+msgstr "人增四"
+
+msgid "Pestle I (In Rooftop Mansion)"
+msgstr "杵一 (危宿)"
+
+msgid "Pestle II (In Rooftop Mansion)"
+msgstr "杵二 (危宿)"
+
+msgid "Pestle III (In Rooftop Mansion)"
+msgstr "杵三 (危宿)"
+
+msgid "Pestle Added I (In Rooftop Mansion)"
+msgstr "杵增一 (危宿)"
+
+msgid "Pestle Added II (In Rooftop Mansion)"
+msgstr "杵增二 (危宿)"
+
+msgid "Mortar I"
+msgstr "臼一"
+
+msgid "Mortar II"
+msgstr "臼二"
+
+msgid "Mortar III"
+msgstr "臼三"
+
+msgid "Mortar IV"
+msgstr "臼四"
+
+msgid "Mortar Added I"
+msgstr "臼增一"
+
+msgid "Mortar Added II"
+msgstr "臼增二"
+
+msgid "Mortar Added III"
+msgstr "臼增三"
+
+msgid "Mortar Added IV"
+msgstr "臼增四"
+
+msgid "Mortar Added V"
+msgstr "臼增五"
+
+msgid "Mortar Added VI"
+msgstr "臼增六"
+
+msgid "Big Yard for Chariots I"
+msgstr "車府一"
+
+msgid "Big Yard for Chariots II"
+msgstr "車府二"
+
+msgid "Big Yard for Chariots III"
+msgstr "車府三"
+
+msgid "Big Yard for Chariots IV"
+msgstr "車府四"
+
+msgid "Big Yard for Chariots V"
+msgstr "車府五"
+
+msgid "Big Yard for Chariots VI"
+msgstr "車府六"
+
+msgid "Big Yard for Chariots VII"
+msgstr "車府七"
+
+msgid "Big Yard for Chariots Added I"
+msgstr "車府增一"
+
+msgid "Big Yard for Chariots Added II"
+msgstr "車府增二"
+
+msgid "Big Yard for Chariots Added III"
+msgstr "車府增三"
+
+msgid "Big Yard for Chariots Added IV"
+msgstr "車府增四"
+
+msgid "Big Yard for Chariots Added V"
+msgstr "車府增五"
+
+msgid "Big Yard for Chariots Added VI"
+msgstr "車府增六"
+
+msgid "Big Yard for Chariots Added VII"
+msgstr "車府增七"
+
+msgid "Big Yard for Chariots Added VIII"
+msgstr "車府增八"
+
+msgid "Big Yard for Chariots Added IX"
+msgstr "車府增九"
+
+msgid "Big Yard for Chariots Added X"
+msgstr "車府增十"
+
+msgid "Big Yard for Chariots Added XI"
+msgstr "車府增十一"
+
+msgid "Big Yard for Chariots Added XII"
+msgstr "車府增十二"
+
+msgid "Big Yard for Chariots Added XIII"
+msgstr "車府增十三"
+
+msgid "Big Yard for Chariots Added XIV"
+msgstr "車府增十四"
+
+msgid "Big Yard for Chariots Added XV"
+msgstr "車府增十五"
+
+msgid "Big Yard for Chariots Added XVI"
+msgstr "車府增十六"
+
+msgid "Big Yard for Chariots Added XVII"
+msgstr "車府增十七"
+
+msgid "Big Yard for Chariots Added XVIII"
+msgstr "車府增十八"
+
+msgid "Big Yard for Chariots Added XIX"
+msgstr "車府增十九"
+
+msgid "Big Yard for Chariots Added XX"
+msgstr "車府增廿"
+
+msgid "Zaofu I"
+msgstr "造父一"
+
+msgid "Zaofu II"
+msgstr "造父二"
+
+msgid "Zaofu III"
+msgstr "造父三"
+
+msgid "Zaofu IV"
+msgstr "造父四"
+
+msgid "Zaofu V"
+msgstr "造父五"
+
+msgid "Zaofu Added I"
+msgstr "造父增一"
+
+msgid "Zaofu Added II"
+msgstr "造父增二"
+
+msgid "Zaofu Added III"
+msgstr "造父增三"
+
+msgid "Zaofu Added IV"
+msgstr "造父增四"
+
+msgid "Zaofu Added V"
+msgstr "造父增五"
+
+msgid "Celestial Hook I"
+msgstr "天鉤一"
+
+msgid "Celestial Hook II"
+msgstr "天鉤二"
+
+msgid "Celestial Hook III"
+msgstr "天鉤三"
+
+msgid "Celestial Hook IV"
+msgstr "天鉤四"
+
+msgid "Celestial Hook V"
+msgstr "天鉤五"
+
+msgid "Celestial Hook VI"
+msgstr "天鉤六"
+
+msgid "Celestial Hook VII"
+msgstr "天鉤七"
+
+msgid "Celestial Hook VIII"
+msgstr "天鉤八"
+
+msgid "Celestial Hook IX"
+msgstr "天鉤九"
+
+msgid "Celestial Hook Added I"
+msgstr "天鉤增一"
+
+msgid "Celestial Hook Added II"
+msgstr "天鉤增二"
+
+msgid "Celestial Hook Added III"
+msgstr "天鉤增三"
+
+msgid "Celestial Hook Added IV"
+msgstr "天鉤增四"
+
+msgid "Celestial Hook Added V"
+msgstr "天鉤增五"
+
+msgid "Celestial Hook Added VI"
+msgstr "天鉤增六"
+
+msgid "Celestial Hook Added VII"
+msgstr "天鉤增七"
+
+msgid "Celestial Hook Added VIII*"
+msgstr "天鉤增八*"
+
+msgid "Celestial Hook Added IX*"
+msgstr "天鉤增九*"
+
+msgid "Celestial Hook Added X"
+msgstr "天鉤增十"
+
+msgid "Celestial Hook Added XI"
+msgstr "天鉤增十一"
+
+msgid "Celestial Hook Added XII*"
+msgstr "天鉤增十二*"
+
+msgid "Celestial Hook Added XIII*"
+msgstr "天鉤增十三*"
+
+msgid "Celestial Hook Added XIV"
+msgstr "天鉤增十四"
+
+msgid "Celestial Hook Added XV*"
+msgstr "天鉤增十五*"
+
+msgid "Celestial Hook Added XVI"
+msgstr "天鉤增十六"
+
+msgid "Celestial Hook Added XVII"
+msgstr "天鉤增十七"
+
+msgid "Celestial Hook Added XVIII"
+msgstr "天鉤增十八"
+
+msgid "Encampment I"
+msgstr "室宿一"
+
+msgid "Encampment II"
+msgstr "室宿二"
+
+msgid "Encampment Added I"
+msgstr "室宿增一"
+
+msgid "Encampment Added II"
+msgstr "室宿增二"
+
+msgid "Encampment Added III"
+msgstr "室宿增三"
+
+msgid "Encampment Added IV"
+msgstr "室宿增四"
+
+msgid "Encampment Added V"
+msgstr "室宿增五"
+
+msgid "Encampment Added VI"
+msgstr "室宿增六"
+
+msgid "Encampment Added VII"
+msgstr "室宿增七"
+
+msgid "Resting Palace I"
+msgstr "離宮一"
+
+msgid "Resting Palace II"
+msgstr "離宮二"
+
+msgid "Resting Palace III"
+msgstr "離宮三"
+
+msgid "Resting Palace IV"
+msgstr "離宮四"
+
+msgid "Resting Palace V"
+msgstr "離宮五"
+
+msgid "Resting Palace VI"
+msgstr "離宮六"
+
+msgid "Resting Palace Added I"
+msgstr "離宮增一"
+
+msgid "Resting Palace Added II"
+msgstr "離宮增二"
+
+msgid "Resting Palace Added III"
+msgstr "離宮增三"
+
+msgid "Resting Palace Added IV"
+msgstr "離宮增四"
+
+msgid "Resting Palace Added V"
+msgstr "離宮增五"
+
+msgid "Resting Palace Added VI"
+msgstr "離宮增六"
+
+msgid "Resting Palace Added VII"
+msgstr "離宮增七"
+
+msgid "Resting Palace Added VIII"
+msgstr "離宮增八"
+
+msgid "Flying Serpent I"
+msgstr "螣蛇一"
+
+msgid "Flying Serpent II"
+msgstr "螣蛇二"
+
+msgid "Flying Serpent III"
+msgstr "螣蛇三"
+
+msgid "Flying Serpent IV"
+msgstr "螣蛇四"
+
+msgid "Flying Serpent VI*"
+msgstr "螣蛇六*"
+
+msgid "Flying Serpent VII"
+msgstr "螣蛇七"
+
+msgid "Flying Serpent VIII"
+msgstr "螣蛇八"
+
+msgid "Flying Serpent IX"
+msgstr "螣蛇九"
+
+msgid "Flying Serpent X"
+msgstr "螣蛇十"
+
+msgid "Flying Serpent XI"
+msgstr "螣蛇十一"
+
+msgid "Flying Serpent XII"
+msgstr "螣蛇十二"
+
+msgid "Flying Serpent XIII"
+msgstr "螣蛇十三"
+
+msgid "Flying Serpent XIV"
+msgstr "螣蛇十四"
+
+msgid "Flying Serpent XV"
+msgstr "螣蛇十五"
+
+msgid "Flying Serpent XVI"
+msgstr "螣蛇十六"
+
+msgid "Flying Serpent XVII"
+msgstr "螣蛇十七"
+
+msgid "Flying Serpent XVIII"
+msgstr "螣蛇十八"
+
+msgid "Flying Serpent XIX"
+msgstr "螣蛇十九"
+
+msgid "Flying Serpent XX"
+msgstr "螣蛇廿"
+
+msgid "Flying Serpent XXI"
+msgstr "螣蛇廿一"
+
+msgid "Flying Serpent XXII"
+msgstr "螣蛇廿二"
+
+msgid "Flying Serpent Added I"
+msgstr "螣蛇增一"
+
+msgid "Flying Serpent Added II"
+msgstr "螣蛇增二"
+
+msgid "Flying Serpent Added III"
+msgstr "螣蛇增三"
+
+msgid "Flying Serpent Added IV"
+msgstr "螣蛇增四"
+
+msgid "Flying Serpent Added V"
+msgstr "螣蛇增五"
+
+msgid "Flying Serpent Added VI"
+msgstr "螣蛇增六"
+
+msgid "Flying Serpent Added VII"
+msgstr "螣蛇增七"
+
+msgid "Flying Serpent Added VIII"
+msgstr "螣蛇增八"
+
+msgid "Flying Serpent Added IX"
+msgstr "螣蛇增九"
+
+msgid "Flying Serpent Added X"
+msgstr "螣蛇增十"
+
+msgid "Flying Serpent Added XI"
+msgstr "螣蛇增十一"
+
+msgid "Flying Serpent Added XII"
+msgstr "螣蛇增十二"
+
+msgid "Flying Serpent Added XIII"
+msgstr "螣蛇增十三"
+
+msgid "Flying Serpent Added XIV"
+msgstr "螣蛇增十四"
+
+msgid "Flying Serpent Added XV"
+msgstr "螣蛇增十五"
+
+msgid "Flying Serpent Added XVI"
+msgstr "螣蛇增十六"
+
+msgid "Flying Serpent Added XVII"
+msgstr "螣蛇增十七"
+
+msgid "Flying Serpent Added XVIII"
+msgstr "螣蛇增十八"
+
+msgid "Flying Serpent Added XIX"
+msgstr "螣蛇增十九"
+
+msgid "Thunder and Lightning I"
+msgstr "雷電一"
+
+msgid "Thunder and Lightning II"
+msgstr "雷電二"
+
+msgid "Thunder and Lightning III"
+msgstr "雷電三"
+
+msgid "Thunder and Lightning IV"
+msgstr "雷電四"
+
+msgid "Thunder and Lightning V"
+msgstr "雷電五"
+
+msgid "Thunder and Lightning VI"
+msgstr "雷電六"
+
+msgid "Thunder and Lightning Added I"
+msgstr "雷電增一"
+
+msgid "Thunder and Lightning Added II"
+msgstr "雷電增二"
+
+msgid "Thunder and Lightning Added III"
+msgstr "雷電增三"
+
+msgid "Thunder and Lightning Added IV"
+msgstr "雷電增四"
+
+msgid "Thunder and Lightning Added V"
+msgstr "雷電增五"
+
+msgid "Thunder and Lightning Added VI"
+msgstr "雷電增六"
+
+msgid "Thunder and Lightning Added VII"
+msgstr "雷電增七"
+
+msgid "Thunder and Lightning Added VIII"
+msgstr "雷電增八"
+
+msgid "Official for Materials Supply I"
+msgstr "土公吏一"
+
+msgid "Official for Materials Supply II"
+msgstr "土公吏二"
+
+msgid "Line of Ramparts I"
+msgstr "壘壁陣一"
+
+msgid "Line of Ramparts II"
+msgstr "壘壁陣二"
+
+msgid "Line of Ramparts III"
+msgstr "壘壁陣三"
+
+msgid "Line of Ramparts IV"
+msgstr "壘壁陣四"
+
+msgid "Line of Ramparts V"
+msgstr "壘壁陣五"
+
+msgid "Line of Ramparts VI"
+msgstr "壘壁陣六"
+
+msgid "Line of Ramparts VII"
+msgstr "壘壁陣七"
+
+msgid "Line of Ramparts VIII"
+msgstr "壘壁陣八"
+
+msgid "Line of Ramparts IX"
+msgstr "壘壁陣九"
+
+msgid "Line of Ramparts X"
+msgstr "壘壁陣十"
+
+msgid "Line of Ramparts XI"
+msgstr "壘壁陣十一"
+
+msgid "Line of Ramparts XII"
+msgstr "壘壁陣十二"
+
+msgid "Line of Ramparts Added I"
+msgstr "壘壁陣增一"
+
+msgid "Line of Ramparts Added II"
+msgstr "壘壁陣增二"
+
+msgid "Line of Ramparts Added III"
+msgstr "壘壁陣增三"
+
+msgid "Line of Ramparts Added IV"
+msgstr "壘壁陣增四"
+
+msgid "Line of Ramparts Added V"
+msgstr "壘壁陣增五"
+
+msgid "Line of Ramparts Added VI"
+msgstr "壘壁陣增六"
+
+msgid "Line of Ramparts Added VII"
+msgstr "壘壁陣增七"
+
+msgid "Line of Ramparts Added VIII"
+msgstr "壘壁陣增八"
+
+msgid "Palace Guard I"
+msgstr "羽林軍一"
+
+msgid "Palace Guard II"
+msgstr "羽林軍二"
+
+msgid "Palace Guard III"
+msgstr "羽林軍三"
+
+msgid "Palace Guard IV"
+msgstr "羽林軍四"
+
+msgid "Palace Guard V"
+msgstr "羽林軍五"
+
+msgid "Palace Guard VI"
+msgstr "羽林軍六"
+
+msgid "Palace Guard VII"
+msgstr "羽林軍七"
+
+msgid "Palace Guard VIII"
+msgstr "羽林軍八"
+
+msgid "Palace Guard IX"
+msgstr "羽林軍九"
+
+msgid "Palace Guard X"
+msgstr "羽林軍十"
+
+msgid "Palace Guard XI"
+msgstr "羽林軍十一"
+
+msgid "Palace Guard XII"
+msgstr "羽林軍十二"
+
+msgid "Palace Guard XIII"
+msgstr "羽林軍十三"
+
+msgid "Palace Guard XIV"
+msgstr "羽林軍十四"
+
+msgid "Palace Guard XV"
+msgstr "羽林軍十五"
+
+msgid "Palace Guard XVI"
+msgstr "羽林軍十六"
+
+msgid "Palace Guard XVII"
+msgstr "羽林軍十七"
+
+msgid "Palace Guard XVIII"
+msgstr "羽林軍十八"
+
+msgid "Palace Guard XIX"
+msgstr "羽林軍十九"
+
+msgid "Palace Guard XX"
+msgstr "羽林軍廿"
+
+msgid "Palace Guard XXI"
+msgstr "羽林軍廿一"
+
+msgid "Palace Guard XXII"
+msgstr "羽林軍廿二"
+
+msgid "Palace Guard XXIII"
+msgstr "羽林軍廿三"
+
+msgid "Palace Guard XXIV"
+msgstr "羽林軍廿四"
+
+msgid "Palace Guard XXV"
+msgstr "羽林軍廿五"
+
+msgid "Palace Guard XXVI"
+msgstr "羽林軍廿六"
+
+msgid "Palace Guard XXVII"
+msgstr "羽林軍廿七"
+
+msgid "Palace Guard XXVIII"
+msgstr "羽林軍廿八"
+
+msgid "Palace Guard XXIX"
+msgstr "羽林軍廿九"
+
+msgid "Palace Guard XXX"
+msgstr "羽林軍卅"
+
+msgid "Palace Guard XXXI"
+msgstr "羽林軍卅一"
+
+msgid "Palace Guard XXXII"
+msgstr "羽林軍卅二"
+
+msgid "Palace Guard XXXIII"
+msgstr "羽林軍卅三"
+
+msgid "Palace Guard XXXIV"
+msgstr "羽林軍卅四"
+
+msgid "Palace Guard XXXV"
+msgstr "羽林軍卅五"
+
+msgid "Palace Guard XXXVI"
+msgstr "羽林軍卅六"
+
+msgid "Palace Guard XXXVII"
+msgstr "羽林軍卅七"
+
+msgid "Palace Guard XXXVIII"
+msgstr "羽林軍卅八"
+
+msgid "Palace Guard XXXIX"
+msgstr "羽林軍卅九"
+
+msgid "Palace Guard XL"
+msgstr "羽林軍四十"
+
+msgid "Palace Guard XLI"
+msgstr "羽林軍四一"
+
+msgid "Palace Guard XLII"
+msgstr "羽林軍四二"
+
+msgid "Palace Guard XLIII"
+msgstr "羽林軍四三"
+
+msgid "Palace Guard XLIV"
+msgstr "羽林軍四四"
+
+msgid "Palace Guard XLV"
+msgstr "羽林軍四五"
+
+msgid "Axe I"
+msgstr "鈇鉞一"
+
+msgid "Axe II"
+msgstr "鈇鉞二"
+
+msgid "Axe III"
+msgstr "鈇鉞三"
+
+msgid "Axe Added I"
+msgstr "鈇鉞增一"
+
+msgid "Axe Added II"
+msgstr "鈇鉞增二"
+
+msgid "Axe Added III"
+msgstr "鈇鉞增三"
+
+msgid "Net for Catching Birds I"
+msgstr "八魁一"
+
+msgid "Net for Catching Birds II"
+msgstr "八魁二"
+
+msgid "Net for Catching Birds III"
+msgstr "八魁三"
+
+msgid "Net for Catching Birds IV"
+msgstr "八魁四"
+
+msgid "Net for Catching Birds V"
+msgstr "八魁五"
+
+msgid "Net for Catching Birds VI"
+msgstr "八魁六"
+
+msgid "Wall I"
+msgstr "壁宿一"
+
+msgid "Wall II"
+msgstr "壁宿二"
+
+msgid "Wall Added I"
+msgstr "壁宿增一"
+
+msgid "Wall Added II"
+msgstr "壁宿增二"
+
+msgid "Wall Added III"
+msgstr "壁宿增三"
+
+msgid "Wall Added IV"
+msgstr "壁宿增四"
+
+msgid "Wall Added V"
+msgstr "壁宿增五"
+
+msgid "Wall Added VI"
+msgstr "壁宿增六"
+
+msgid "Wall Added VII"
+msgstr "壁宿增七"
+
+msgid "Wall Added VIII"
+msgstr "壁宿增八"
+
+msgid "Wall Added IX"
+msgstr "壁宿增九"
+
+msgid "Wall Added X"
+msgstr "壁宿增十"
+
+msgid "Wall Added XI"
+msgstr "壁宿增十一"
+
+msgid "Wall Added XII"
+msgstr "壁宿增十二"
+
+msgid "Wall Added XIII"
+msgstr "壁宿增十三"
+
+msgid "Wall Added XIV"
+msgstr "壁宿增十四"
+
+msgid "Wall Added XV"
+msgstr "壁宿增十五"
+
+msgid "Wall Added XVI"
+msgstr "壁宿增十六"
+
+msgid "Wall Added XVII"
+msgstr "壁宿增十七"
+
+msgid "Wall Added XVIII"
+msgstr "壁宿增十八"
+
+msgid "Wall Added XIX"
+msgstr "壁宿增十九"
+
+msgid "Wall Added XX"
+msgstr "壁宿增廿"
+
+msgid "Wall Added XXI"
+msgstr "壁宿增廿一"
+
+msgid "Wall Added XXII"
+msgstr "壁宿增廿二"
+
+msgid "Wall Added XXIII"
+msgstr "壁宿增廿三"
+
+msgid "Celestial Stable I"
+msgstr "天廄一"
+
+msgid "Celestial Stable II"
+msgstr "天廄二"
+
+msgid "Celestial Stable III"
+msgstr "天廄三"
+
+msgid "Celestial Stable Added I"
+msgstr "天廄增一"
+
+msgid "Official for Earthworks and Buildings I"
+msgstr "土公一"
+
+msgid "Official for Earthworks and Buildings II"
+msgstr "土公二"
+
+msgid "Official for Earthworks and Buildings Added I"
+msgstr "土公增一"
+
+msgid "Official for Earthworks and Buildings Added II"
+msgstr "土公增二"
+
+msgid "Official for Earthworks and Buildings Added III"
+msgstr "土公增三"
+
+msgid "Official for Earthworks and Buildings Added IV"
+msgstr "土公增四"
+
+msgid "Official for Earthworks and Buildings Added V"
+msgstr "土公增五"
+
+msgid "Official for Earthworks and Buildings Added VI"
+msgstr "土公增六"
+
+msgid "Official for Earthworks and Buildings Added VII"
+msgstr "土公增七"
+
+msgid "Official for Earthworks and Buildings Added VIII"
+msgstr "土公增八"
+
+msgid "Official for Earthworks and Buildings Added IX"
+msgstr "土公增九"
+
+msgid "Official for Earthworks and Buildings Added X"
+msgstr "土公增十"
+
+msgid "Official for Earthworks and Buildings Added XI"
+msgstr "土公增十一"
+
+msgid "Thunderbolt I"
+msgstr "霹靂一"
+
+msgid "Thunderbolt II"
+msgstr "霹靂二"
+
+msgid "Thunderbolt III"
+msgstr "霹靂三"
+
+msgid "Thunderbolt IV"
+msgstr "霹靂四"
+
+msgid "Thunderbolt V"
+msgstr "霹靂五"
+
+msgid "Thunderbolt Added I"
+msgstr "霹靂增一"
+
+msgid "Thunderbolt Added II"
+msgstr "霹靂增二"
+
+msgid "Thunderbolt Added III"
+msgstr "霹靂增三"
+
+msgid "Thunderbolt Added IV"
+msgstr "霹靂增四"
+
+msgid "Thunderbolt Added V"
+msgstr "霹靂增五"
+
+msgid "Thunderbolt Added VI"
+msgstr "霹靂增六"
+
+msgid "Thunderbolt Added VII"
+msgstr "霹靂增七"
+
+msgid "Thunderbolt Added VIII"
+msgstr "霹靂增八"
+
+msgid "Cloud and Rain I"
+msgstr "雲雨一"
+
+msgid "Cloud and Rain II"
+msgstr "雲雨二"
+
+msgid "Cloud and Rain III"
+msgstr "雲雨三"
+
+msgid "Cloud and Rain IV"
+msgstr "雲雨四"
+
+msgid "Cloud and Rain Added I"
+msgstr "雲雨增一"
+
+msgid "Cloud and Rain Added II"
+msgstr "雲雨增二"
+
+msgid "Cloud and Rain Added III"
+msgstr "雲雨增三"
+
+msgid "Cloud and Rain Added IV"
+msgstr "雲雨增四"
+
+msgid "Cloud and Rain Added V"
+msgstr "雲雨增五"
+
+msgid "Cloud and Rain Added VI"
+msgstr "雲雨增六"
+
+msgid "Cloud and Rain Added VII"
+msgstr "雲雨增七"
+
+msgid "Cloud and Rain Added VIII"
+msgstr "雲雨增八"
+
+msgid "Cloud and Rain Added IX"
+msgstr "雲雨增九"
+
+msgid "Cloud and Rain Added X"
+msgstr "雲雨增十"
+
+msgid "Sickle I"
+msgstr "鈇鑕一"
+
+msgid "Sickle II?"
+msgstr "鈇鑕二 ?"
+
+msgid "Sickle IV"
+msgstr "鈇鑕四"
+
+msgid "Sickle V"
+msgstr "鈇鑕五"
+
+msgid "Legs I"
+msgstr "奎宿一"
+
+msgid "Legs II"
+msgstr "奎宿二"
+
+msgid "Legs III"
+msgstr "奎宿三"
+
+msgid "Legs IV"
+msgstr "奎宿四"
+
+msgid "Legs V"
+msgstr "奎宿五"
+
+msgid "Legs VI"
+msgstr "奎宿六"
+
+msgid "Legs VII"
+msgstr "奎宿七"
+
+msgid "Legs VIII"
+msgstr "奎宿八"
+
+msgid "Legs IX"
+msgstr "奎宿九"
+
+msgid "Legs X"
+msgstr "奎宿十"
+
+msgid "Legs XI"
+msgstr "奎宿十一"
+
+msgid "Legs XII"
+msgstr "奎宿十二"
+
+msgid "Legs XIII"
+msgstr "奎宿十三"
+
+msgid "Legs XIV"
+msgstr "奎宿十四"
+
+msgid "Legs XV"
+msgstr "奎宿十五"
+
+msgid "Legs XVI"
+msgstr "奎宿十六"
+
+msgid "Legs Added I"
+msgstr "奎宿增一"
+
+msgid "Legs Added II"
+msgstr "奎宿增二"
+
+msgid "Legs Added III"
+msgstr "奎宿增三"
+
+msgid "Legs Added IV"
+msgstr "奎宿增四"
+
+msgid "Legs Added V"
+msgstr "奎宿增五"
+
+msgid "Legs Added VI"
+msgstr "奎宿增六"
+
+msgid "Legs Added VII"
+msgstr "奎宿增七"
+
+msgid "Legs Added VIII"
+msgstr "奎宿增八"
+
+msgid "Legs Added IX"
+msgstr "奎宿增九"
+
+msgid "Legs Added X"
+msgstr "奎宿增十"
+
+msgid "Legs Added XI"
+msgstr "奎宿增十一"
+
+msgid "Legs Added XII"
+msgstr "奎宿增十二"
+
+msgid "Legs Added XIII"
+msgstr "奎宿增十三"
+
+msgid "Legs Added XIV"
+msgstr "奎宿增十四"
+
+msgid "Legs Added XV"
+msgstr "奎宿增十五"
+
+msgid "Legs Added XVI"
+msgstr "奎宿增十六"
+
+msgid "Legs Added XVII"
+msgstr "奎宿增十七"
+
+msgid "Legs Added XVIII"
+msgstr "奎宿增十八"
+
+msgid "Legs Added XIX"
+msgstr "奎宿增十九"
+
+msgid "Legs Added XX"
+msgstr "奎宿增廿"
+
+msgid "Legs Added XXII"
+msgstr "奎宿增廿一"
+
+msgid "Legs Added XXIII"
+msgstr "奎宿增廿二"
+
+msgid "Wang Liang I"
+msgstr "王良一"
+
+msgid "Wang Liang II"
+msgstr "王良二"
+
+msgid "Wang Liang III"
+msgstr "王良三"
+
+msgid "Wang Liang IV"
+msgstr "王良四"
+
+msgid "Wang Liang V"
+msgstr "王良五"
+
+msgid "Wang Liang Added I"
+msgstr "王良增一"
+
+msgid "Wang Liang Added II"
+msgstr "王良增二"
+
+msgid "Wang Liang Added III"
+msgstr "王良增三"
+
+msgid "Wang Liang Added IV"
+msgstr "王良增四"
+
+msgid "Wang Liang Added V"
+msgstr "王良增五"
+
+msgid "Wang Liang Added VI"
+msgstr "王良增六"
+
+msgid "Wang Liang Added VII"
+msgstr "王良增七"
+
+msgid "Wang Liang Added VIII"
+msgstr "王良增八"
+
+msgid "Wang Liang Added IX"
+msgstr "王良增九"
+
+msgid "Wang Liang Added X"
+msgstr "王良增十"
+
+msgid "Wang Liang Added XI"
+msgstr "王良增十一"
+
+msgid "Wang Liang Added XII"
+msgstr "王良增十二"
+
+msgid "Wang Liang Added XIII"
+msgstr "王良增十三"
+
+msgid "Wang Liang Added XIV"
+msgstr "王良增十四"
+
+msgid "Flying Corridor I"
+msgstr "閣道一"
+
+msgid "Flying Corridor II"
+msgstr "閣道二"
+
+msgid "Flying Corridor III"
+msgstr "閣道三"
+
+msgid "Flying Corridor IV"
+msgstr "閣道四"
+
+msgid "Flying Corridor V"
+msgstr "閣道五"
+
+msgid "Flying Corridor VI"
+msgstr "閣道六"
+
+msgid "Flying Corridor Added I"
+msgstr "閣道增一"
+
+msgid "Flying Corridor Added II"
+msgstr "閣道增二"
+
+msgid "Flying Corridor Added III"
+msgstr "閣道增三"
+
+msgid "Flying Corridor Added IV"
+msgstr "閣道增四"
+
+msgid "Flying Corridor Added V"
+msgstr "閣道增五"
+
+msgid "Outer Fence I"
+msgstr "外屏一"
+
+msgid "Outer Fence II"
+msgstr "外屏二"
+
+msgid "Outer Fence III"
+msgstr "外屏三"
+
+msgid "Outer Fence IV"
+msgstr "外屏四"
+
+msgid "Outer Fence V"
+msgstr "外屏五"
+
+msgid "Outer Fence VI"
+msgstr "外屏六"
+
+msgid "Outer Fence VII"
+msgstr "外屏七"
+
+msgid "Outer Fence Added I"
+msgstr "外屏增一"
+
+msgid "Outer Fence Added II"
+msgstr "外屏增二"
+
+msgid "Outer Fence Added III"
+msgstr "外屏增三"
+
+msgid "Outer Fence Added IV"
+msgstr "外屏增四"
+
+msgid "Outer Fence Added V"
+msgstr "外屏增五"
+
+msgid "Outer Fence Added VI"
+msgstr "外屏增六"
+
+msgid "Outer Fence Added VII"
+msgstr "外屏增七"
+
+msgid "Outer Fence Added VIII"
+msgstr "外屏增八"
+
+msgid "Outer Fence Added IX"
+msgstr "外屏增九"
+
+msgid "Outer Fence Added X"
+msgstr "外屏增十"
+
+msgid "Outer Fence Added XI"
+msgstr "外屏增十一"
+
+msgid "Outer Fence Added XII"
+msgstr "外屏增十二"
+
+msgid "Outer Fence Added XIII"
+msgstr "外屏增十三"
+
+msgid "Outer Fence Added XIV"
+msgstr "外屏增十四"
+
+msgid "Outer Fence Added XV"
+msgstr "外屏增十五"
+
+msgid "Celestial Pigsty I"
+msgstr "天溷一"
+
+msgid "Celestial Pigsty II"
+msgstr "天溷二"
+
+msgid "Celestial Pigsty III"
+msgstr "天溷三"
+
+msgid "Celestial Pigsty IV"
+msgstr "天溷四"
+
+msgid "Celestial Pigsty Added I"
+msgstr "天溷增一"
+
+msgid "Celestial Pigsty Added II"
+msgstr "天溷增二"
+
+msgid "Celestial Pigsty Added III"
+msgstr "天溷增三"
+
+msgid "Celestial Pigsty Added IV"
+msgstr "天溷增四"
+
+msgid "Celestial Pigsty Added V"
+msgstr "天溷增五"
+
+msgid "Celestial Pigsty Added VI"
+msgstr "天溷增六"
+
+msgid "Bond I"
+msgstr "婁宿一"
+
+msgid "Bond II"
+msgstr "婁宿二"
+
+msgid "Bond III"
+msgstr "婁宿三"
+
+msgid "Bond Added I"
+msgstr "婁宿增一"
+
+msgid "Bond Added II"
+msgstr "婁宿增二"
+
+msgid "Bond Added III"
+msgstr "婁宿增三"
+
+msgid "Bond Added V"
+msgstr "婁宿增五"
+
+msgid "Bond Added VI"
+msgstr "婁宿增六"
+
+msgid "Bond Added VII"
+msgstr "婁宿增七"
+
+msgid "Bond Added VIII"
+msgstr "婁宿增八"
+
+msgid "Bond Added IX"
+msgstr "婁宿增九"
+
+msgid "Bond Added X"
+msgstr "婁宿增十"
+
+msgid "Bond Added XI"
+msgstr "婁宿增十一"
+
+msgid "Bond Added XII"
+msgstr "婁宿增十二"
+
+msgid "Bond Added XIII"
+msgstr "婁宿增十三"
+
+msgid "Bond Added XIV"
+msgstr "婁宿增十四"
+
+msgid "Bond Added XV"
+msgstr "婁宿增十五"
+
+msgid "Great General of Heaven I"
+msgstr "天大將軍一"
+
+msgid "Great General of Heaven II"
+msgstr "天大將軍二"
+
+msgid "Great General of Heaven III"
+msgstr "天大將軍三"
+
+msgid "Great General of Heaven IV"
+msgstr "天大將軍四"
+
+msgid "Great General of Heaven V"
+msgstr "天大將軍五"
+
+msgid "Great General of Heaven VI"
+msgstr "天大將軍六"
+
+msgid "Great General of Heaven VII"
+msgstr "天大將軍七"
+
+msgid "Great General of Heaven VIII"
+msgstr "天大將軍八"
+
+msgid "Great General of Heaven IX"
+msgstr "天大將軍九"
+
+msgid "Great General of Heaven X"
+msgstr "天大將軍十"
+
+msgid "Great General of Heaven XI"
+msgstr "天大將軍十一"
+
+msgid "Great General of Heaven Added I"
+msgstr "天大將軍增一"
+
+msgid "Great General of Heaven Added II"
+msgstr "天大將軍增二"
+
+msgid "Great General of Heaven Added III"
+msgstr "天大將軍增三"
+
+msgid "Great General of Heaven Added IV"
+msgstr "天大將軍增四"
+
+msgid "Great General of Heaven Added V"
+msgstr "天大將軍增五"
+
+msgid "Great General of Heaven Added VI"
+msgstr "天大將軍增六"
+
+msgid "Great General of Heaven Added VII"
+msgstr "天大將軍增七"
+
+msgid "Great General of Heaven Added VIII"
+msgstr "天大將軍增八"
+
+msgid "Great General of Heaven Added IX"
+msgstr "天大將軍增九"
+
+msgid "Great General of Heaven Added X"
+msgstr "天大將軍增十"
+
+msgid "Great General of Heaven Added XI"
+msgstr "天大將軍增十一"
+
+msgid "Great General of Heaven Added XII"
+msgstr "天大將軍增十二"
+
+msgid "Great General of Heaven Added XIII"
+msgstr "天大將軍增十三"
+
+msgid "Great General of Heaven Added XIV"
+msgstr "天大將軍增十四"
+
+msgid "Great General of Heaven Added XV"
+msgstr "天大將軍增十五"
+
+msgid "Great General of Heaven Added XVI"
+msgstr "天大將軍增十六"
+
+msgid "Great General of Heaven Added XVII"
+msgstr "天大將軍增十七"
+
+msgid "Official in Charge of Pasturing I"
+msgstr "右更一"
+
+msgid "Official in Charge of Pasturing II"
+msgstr "右更二"
+
+msgid "Official in Charge of Pasturing III"
+msgstr "右更三"
+
+msgid "Official in Charge of Pasturing IV"
+msgstr "右更四"
+
+msgid "Official in Charge of Pasturing V"
+msgstr "右更五"
+
+msgid "Official in Charge of Pasturing Added I"
+msgstr "右更增一"
+
+msgid "Official in Charge of Pasturing Added II"
+msgstr "右更增二"
+
+msgid "Official in Charge of Pasturing Added III"
+msgstr "右更增三"
+
+msgid "Official in Charge of Pasturing Added IV"
+msgstr "右更增四"
+
+msgid "Official in Charge of Pasturing Added V"
+msgstr "右更增五"
+
+msgid "Official in Charge of the Forest I"
+msgstr "左更一"
+
+msgid "Official in Charge of the Forest II"
+msgstr "左更二"
+
+msgid "Official in Charge of the Forest III"
+msgstr "左更三"
+
+msgid "Official in Charge of the Forest IV"
+msgstr "左更四"
+
+msgid "Official in Charge of the Forest V"
+msgstr "左更五"
+
+msgid "Official in Charge of the Forest Added I"
+msgstr "左更增一"
+
+msgid "Official in Charge of the Forest Added II"
+msgstr "左更增二"
+
+msgid "Official in Charge of the Forest Added III"
+msgstr "左更增三"
+
+msgid "Official in Charge of the Forest Added IV"
+msgstr "左更增四"
+
+msgid "Official in Charge of the Forest Added V"
+msgstr "左更增五"
+
+msgid "Official in Charge of the Forest Added VI"
+msgstr "左更增六"
+
+msgid "Official in Charge of the Forest Added VII"
+msgstr "左更增七"
+
+msgid "Official in Charge of the Forest Added VIII"
+msgstr "左更增八"
+
+msgid "Square Celestial Granary I"
+msgstr "天倉一"
+
+msgid "Square Celestial Granary II"
+msgstr "天倉二"
+
+msgid "Square Celestial Granary III"
+msgstr "天倉三"
+
+msgid "Square Celestial Granary IV"
+msgstr "天倉四"
+
+msgid "Square Celestial Granary V"
+msgstr "天倉五"
+
+msgid "Square Celestial Granary VI"
+msgstr "天倉六"
+
+msgid "Square Celestial Granary Added I"
+msgstr "天倉增一"
+
+msgid "Square Celestial Granary Added II"
+msgstr "天倉增二"
+
+msgid "Square Celestial Granary Added III"
+msgstr "天倉增三"
+
+msgid "Square Celestial Granary Added IV"
+msgstr "天倉增四"
+
+msgid "Square Celestial Granary Added V"
+msgstr "天倉增五"
+
+msgid "Square Celestial Granary Added VI"
+msgstr "天倉增六"
+
+msgid "Square Celestial Granary Added VII"
+msgstr "天倉增七"
+
+msgid "Square Celestial Granary Added VIII"
+msgstr "天倉增八"
+
+msgid "Square Celestial Granary Added IX"
+msgstr "天倉增九"
+
+msgid "Square Celestial Granary Added X"
+msgstr "天倉增十"
+
+msgid "Square Celestial Granary Added XI"
+msgstr "天倉增十一"
+
+msgid "Square Celestial Granary Added XII"
+msgstr "天倉增十二"
+
+msgid "Square Celestial Granary Added XIII"
+msgstr "天倉增十三"
+
+msgid "Square Celestial Granary Added XIV"
+msgstr "天倉增十四"
+
+msgid "Square Celestial Granary Added XV"
+msgstr "天倉增十五"
+
+msgid "Square Celestial Granary Added XVI"
+msgstr "天倉增十六"
+
+msgid "Square Celestial Granary Added XVII"
+msgstr "天倉增十七"
+
+msgid "Square Celestial Granary Added XVIII"
+msgstr "天倉增十八"
+
+msgid "Square Celestial Granary Added XIX"
+msgstr "天倉增十九"
+
+msgid "Square Celestial Granary Added XX"
+msgstr "天倉增廿"
+
+msgid "Square Celestial Granary Added XXI"
+msgstr "天倉增廿一"
+
+msgid "Ricks of Grain I*"
+msgstr "天庾一*"
+
+msgid "Ricks of Grain II*"
+msgstr "天庾二*"
+
+msgid "Ricks of Grain III*"
+msgstr "天庾三*"
+
+msgid "Ricks of Grain Added II?"
+msgstr "天庾增二 ?"
+
+msgid "Ricks of Grain Added III?"
+msgstr "天庾增三  ?"
+
+msgid "Stomach I"
+msgstr "胃宿一"
+
+msgid "Stomach II"
+msgstr "胃宿二"
+
+msgid "Stomach III"
+msgstr "胃宿三"
+
+msgid "Stomach Added I"
+msgstr "胃宿增一"
+
+msgid "Stomach Added II"
+msgstr "胃宿增二"
+
+msgid "Stomach Added III"
+msgstr "胃宿增三"
+
+msgid "Stomach Added IV"
+msgstr "胃宿增四"
+
+msgid "Stomach Added V"
+msgstr "胃宿增五"
+
+msgid "Mausoleum I"
+msgstr "大陵一"
+
+msgid "Mausoleum II"
+msgstr "大陵二"
+
+msgid "Mausoleum III"
+msgstr "大陵三"
+
+msgid "Mausoleum IV"
+msgstr "大陵四"
+
+msgid "Mausoleum V"
+msgstr "大陵五"
+
+msgid "Mausoleum VI"
+msgstr "大陵六"
+
+msgid "Mausoleum VII"
+msgstr "大陵七"
+
+msgid "Mausoleum VIII"
+msgstr "大陵八"
+
+msgid "Mausoleum Added I"
+msgstr "大陵增一"
+
+msgid "Mausoleum Added II"
+msgstr "大陵增二"
+
+msgid "Mausoleum Added III"
+msgstr "大陵增三"
+
+msgid "Mausoleum Added IV"
+msgstr "大陵增四"
+
+msgid "Mausoleum Added V"
+msgstr "大陵增五"
+
+msgid "Mausoleum Added VI"
+msgstr "大陵增六"
+
+msgid "Mausoleum Added VII"
+msgstr "大陵增七"
+
+msgid "Mausoleum Added VIII"
+msgstr "大陵增八"
+
+msgid "Mausoleum Added IX"
+msgstr "大陵增九"
+
+msgid "Mausoleum Added X"
+msgstr "大陵增十"
+
+msgid "Mausoleum Added XI"
+msgstr "大陵增十一"
+
+msgid "Mausoleum Added XIII"
+msgstr "大陵增十三"
+
+msgid "Mausoleum Added XIV"
+msgstr "大陵增十四"
+
+msgid "Mausoleum Added XV"
+msgstr "大陵增十五"
+
+msgid "Mausoleum Added XVI"
+msgstr "大陵增十六"
+
+msgid "Mausoleum Added XVII"
+msgstr "大陵增十七"
+
+msgid "Mausoleum Added XVIII"
+msgstr "大陵增十八"
+
+msgid "Mausoleum Added XIX"
+msgstr "大陵增十九"
+
+msgid "Mausoleum Added XX"
+msgstr "大陵增廿"
+
+msgid "Mausoleum Added XXI"
+msgstr "大陵增廿一"
+
+msgid "Celestial Boat I"
+msgstr "天船一"
+
+msgid "Celestial Boat II"
+msgstr "天船二"
+
+msgid "Celestial Boat III"
+msgstr "天船三"
+
+msgid "Celestial Boat IV"
+msgstr "天船四"
+
+msgid "Celestial Boat V"
+msgstr "天船五"
+
+msgid "Celestial Boat VI"
+msgstr "天船六"
+
+msgid "Celestial Boat VII"
+msgstr "天船七"
+
+msgid "Celestial Boat VIII"
+msgstr "天船八"
+
+msgid "Celestial Boat IX"
+msgstr "天船九"
+
+msgid "Celestial Boat Added I"
+msgstr "天船增一"
+
+msgid "Celestial Boat Added II"
+msgstr "天船增二"
+
+msgid "Celestial Boat Added III"
+msgstr "天船增三"
+
+msgid "Celestial Boat Added IV"
+msgstr "天船增四"
+
+msgid "Celestial Boat Added V"
+msgstr "天船增五"
+
+msgid "Celestial Boat Added VI"
+msgstr "天船增六"
+
+msgid "Celestial Boat Added VII"
+msgstr "天船增七"
+
+msgid "Celestial Boat Added VIII"
+msgstr "天船增八"
+
+msgid "Celestial Boat Added IX"
+msgstr "天船增九"
+
+msgid "Celestial Boat Added X"
+msgstr "天船增十"
+
+msgid "Stored Water"
+msgstr "積水"
+
+msgid "Stored Water Added I"
+msgstr "積水增一"
+
+msgid "Celestial Foodstuff I"
+msgstr "天廩一"
+
+msgid "Celestial Foodstuff II"
+msgstr "天廩二"
+
+msgid "Celestial Foodstuff III"
+msgstr "天廩三"
+
+msgid "Celestial Foodstuff IV"
+msgstr "天廩四"
+
+msgid "Celestial Foodstuff Added I"
+msgstr "天廩增一"
+
+msgid "Celestial Foodstuff Added II"
+msgstr "天廩增二"
+
+msgid "Celestial Foodstuff Added III"
+msgstr "天廩增三"
+
+msgid "Circular Celestial Granary I"
+msgstr "天囷一"
+
+msgid "Circular Celestial Granary II"
+msgstr "天囷二"
+
+msgid "Circular Celestial Granary III"
+msgstr "天囷三"
+
+msgid "Circular Celestial Granary IV"
+msgstr "天囷四"
+
+msgid "Circular Celestial Granary V"
+msgstr "天囷五"
+
+msgid "Circular Celestial Granary VI"
+msgstr "天囷六"
+
+msgid "Circular Celestial Granary VII"
+msgstr "天囷七"
+
+msgid "Circular Celestial Granary VIII"
+msgstr "天囷八"
+
+msgid "Circular Celestial Granary IX"
+msgstr "天囷九"
+
+msgid "Circular Celestial Granary X"
+msgstr "天囷十"
+
+msgid "Circular Celestial Granary XI"
+msgstr "天囷十一"
+
+msgid "Circular Celestial Granary XII"
+msgstr "天囷十二"
+
+msgid "Circular Celestial Granary XIII"
+msgstr "天囷十三"
+
+msgid "Circular Celestial Granary Added I"
+msgstr "天囷增一"
+
+msgid "Circular Celestial Granary Added II"
+msgstr "天囷增二"
+
+msgid "Circular Celestial Granary Added III"
+msgstr "天囷增三"
+
+msgid "Circular Celestial Granary Added IV"
+msgstr "天囷增四"
+
+msgid "Circular Celestial Granary Added V"
+msgstr "天囷增五"
+
+msgid "Circular Celestial Granary Added VI"
+msgstr "天囷增六"
+
+msgid "Circular Celestial Granary Added VII"
+msgstr "天囷增七"
+
+msgid "Circular Celestial Granary Added VIII"
+msgstr "天囷增八"
+
+msgid "Circular Celestial Granary Added IX"
+msgstr "天囷增九"
+
+msgid "Circular Celestial Granary Added X"
+msgstr "天囷增十"
+
+msgid "Circular Celestial Granary Added XI"
+msgstr "天囷增十一"
+
+msgid "Circular Celestial Granary Added XII"
+msgstr "天囷增十二"
+
+msgid "Circular Celestial Granary Added XIII"
+msgstr "天囷增十三"
+
+msgid "Circular Celestial Granary Added XIV"
+msgstr "天囷增十四"
+
+msgid "Circular Celestial Granary Added XV"
+msgstr "天囷增十五"
+
+msgid "Circular Celestial Granary Added XVI"
+msgstr "天囷增十六"
+
+msgid "Circular Celestial Granary Added XVII"
+msgstr "天囷增十七"
+
+msgid "Circular Celestial Granary Added XVIII"
+msgstr "天囷增十八"
+
+msgid "Circular Celestial Granary Added XIX"
+msgstr "天囷增十九"
+
+msgid "Circular Celestial Granary Added XX"
+msgstr "天囷增廿"
+
+msgid "Circular Celestial Granary Added XXI"
+msgstr "天囷增廿一"
+
+msgid "Hairy Head I"
+msgstr "昴宿一"
+
+msgid "Hairy Head II"
+msgstr "昴宿二"
+
+msgid "Hairy Head III"
+msgstr "昴宿三"
+
+msgid "Hairy Head IV"
+msgstr "昴宿四"
+
+msgid "Hairy Head V"
+msgstr "昴宿五"
+
+msgid "Hairy Head VI"
+msgstr "昴宿六"
+
+msgid "Hairy Head VII"
+msgstr "昴宿七"
+
+msgid "Hairy Head Added I"
+msgstr "昴宿增一"
+
+msgid "Hairy Head Added II"
+msgstr "昴宿增二"
+
+msgid "Hairy Head Added III"
+msgstr "昴宿增三"
+
+msgid "Hairy Head Added IV*"
+msgstr "昴宿增四"
+
+msgid "Hairy Head Added V"
+msgstr "昴宿增五"
+
+msgid "Hairy Head Added VIII"
+msgstr "昴宿增八"
+
+msgid "Hairy Head Added IX"
+msgstr "昴宿增九"
+
+msgid "Hairy Head Added XI"
+msgstr "昴宿增十一"
+
+msgid "Hairy Head Added XII"
+msgstr "昴宿增十二"
+
+msgid "Hairy Head Added XIII"
+msgstr "昴宿增十三"
+
+msgid "Lunar Star Added I"
+msgstr "月增一"
+
+msgid "Rolled Tongue I"
+msgstr "卷舌一"
+
+msgid "Rolled Tongue II"
+msgstr "卷舌二"
+
+msgid "Rolled Tongue III"
+msgstr "卷舌三"
+
+msgid "Rolled Tongue IV"
+msgstr "卷舌四"
+
+msgid "Rolled Tongue V"
+msgstr "卷舌五"
+
+msgid "Rolled Tongue VI"
+msgstr "卷舌六"
+
+msgid "Rolled Tongue Added I"
+msgstr "卷舌增一"
+
+msgid "Rolled Tongue Added II"
+msgstr "卷舌增二"
+
+msgid "Rolled Tongue Added III"
+msgstr "卷舌增三"
+
+msgid "Rolled Tongue Added IV"
+msgstr "卷舌增四"
+
+msgid "Rolled Tongue Added V"
+msgstr "卷舌增五"
+
+msgid "Rolled Tongue Added VI"
+msgstr "卷舌增六"
+
+msgid "Rolled Tongue Added VII"
+msgstr "卷舌增七"
+
+msgid "Whetstone I"
+msgstr "礪石一"
+
+msgid "Whetstone II"
+msgstr "礪石二"
+
+msgid "Whetstone III"
+msgstr "礪石三"
+
+msgid "Whetstone IV"
+msgstr "礪石四"
+
+msgid "Celestial Yin Force II"
+msgstr "天陰二"
+
+msgid "Celestial Yin Force III"
+msgstr "天陰三"
+
+msgid "Celestial Yin Force IV"
+msgstr "天陰四"
+
+msgid "Celestial Yin Force V*"
+msgstr "天陰五"
+
+msgid "Celestial Yin Force Added I"
+msgstr "天陰增一"
+
+msgid "Celestial Yin Force Added II"
+msgstr "天陰增二"
+
+msgid "Celestial Yin Force Added III"
+msgstr "天陰增三"
+
+msgid "Celestial Yin Force Added IV"
+msgstr "天陰增四"
+
+msgid "Celestial Yin Force Added V"
+msgstr "天陰增五"
+
+msgid "Celestial Yin Force Added VI"
+msgstr "天陰增六"
+
+msgid "Hay I"
+msgstr "蒭藁一"
+
+msgid "Hay II"
+msgstr "蒭藁二"
+
+msgid "Hay III"
+msgstr "蒭藁三"
+
+msgid "Hay IV"
+msgstr "蒭藁四"
+
+msgid "Hay V"
+msgstr "蒭藁五"
+
+msgid "Hay VI"
+msgstr "蒭藁六"
+
+msgid "Hay Added I"
+msgstr "蒭藁增一"
+
+msgid "Hay Added II"
+msgstr "蒭藁增二"
+
+msgid "Hay Added III"
+msgstr "蒭藁增三"
+
+msgid "Hay Added IV"
+msgstr "蒭藁增四"
+
+msgid "Hay Added V"
+msgstr "蒭藁增五"
+
+msgid "Celestial Meadows I"
+msgstr "天苑一"
+
+msgid "Celestial Meadows II"
+msgstr "天苑二"
+
+msgid "Celestial Meadows III"
+msgstr "天苑三"
+
+msgid "Celestial Meadows IV"
+msgstr "天苑四"
+
+msgid "Celestial Meadows V"
+msgstr "天苑五"
+
+msgid "Celestial Meadows VI"
+msgstr "天苑六"
+
+msgid "Celestial Meadows VII"
+msgstr "天苑七"
+
+msgid "Celestial Meadows VIII"
+msgstr "天苑八"
+
+msgid "Celestial Meadows IX"
+msgstr "天苑九"
+
+msgid "Celestial Meadows X"
+msgstr "天苑十"
+
+msgid "Celestial Meadows XI"
+msgstr "天苑十一"
+
+msgid "Celestial Meadows XII"
+msgstr "天苑十二"
+
+msgid "Celestial Meadows XIII"
+msgstr "天苑十三"
+
+msgid "Celestial Meadows XIV"
+msgstr "天苑十四"
+
+msgid "Celestial Meadows XV"
+msgstr "天苑十五"
+
+msgid "Celestial Meadows XVI"
+msgstr "天苑十六"
+
+msgid "Celestial Meadows Added I"
+msgstr "天苑增一"
+
+msgid "Celestial Meadows Added II"
+msgstr "天苑增二"
+
+msgid "Celestial Meadows Added III"
+msgstr "天苑增三"
+
+msgid "Celestial Meadows Added IV"
+msgstr "天苑增四"
+
+msgid "Celestial Meadows Added V"
+msgstr "天苑增五"
+
+msgid "Celestial Meadows Added VI"
+msgstr "天苑增六"
+
+msgid "Celestial Meadows Added VII"
+msgstr "天苑增七"
+
+msgid "Celestial Meadows Added VIII"
+msgstr "天苑增八"
+
+msgid "Celestial Meadows Added IX"
+msgstr "天苑增九"
+
+msgid "Celestial Meadows Added X"
+msgstr "天苑增十"
+
+msgid "Celestial Meadows Added XI"
+msgstr "天苑增十一"
+
+msgid "Celestial Meadows Added XII"
+msgstr "天苑增十二"
+
+msgid "Celestial Meadows Added XIII"
+msgstr "天苑增十三"
+
+msgid "Celestial Meadows Added XIV"
+msgstr "天苑增十四"
+
+msgid "Celestial Meadows Added XV"
+msgstr "天苑增十五"
+
+msgid "Celestial Meadows Added XVI"
+msgstr "天苑增十六"
+
+msgid "Celestial Meadows Added XVII"
+msgstr "天苑增十七"
+
+msgid "Celestial Meadows Added XVIII"
+msgstr "天苑增十八"
+
+msgid "Net I"
+msgstr "畢宿一"
+
+msgid "Net II"
+msgstr "畢宿二"
+
+msgid "Net III"
+msgstr "畢宿三"
+
+msgid "Net IV"
+msgstr "畢宿四"
+
+msgid "Net V"
+msgstr "畢宿五"
+
+msgid "Net VI"
+msgstr "畢宿六"
+
+msgid "Net VII"
+msgstr "畢宿七"
+
+msgid "Net VIII"
+msgstr "畢宿八"
+
+msgid "Net Added I"
+msgstr "畢宿增一"
+
+msgid "Net Added II"
+msgstr "畢宿增二"
+
+msgid "Net Added III"
+msgstr "畢宿增三"
+
+msgid "Net Added IV"
+msgstr "畢宿增四"
+
+msgid "Net Added V"
+msgstr "畢宿增五"
+
+msgid "Net Added VI"
+msgstr "畢宿增六"
+
+msgid "Net Added VII"
+msgstr "畢宿增七"
+
+msgid "Net Added VIII"
+msgstr "畢宿增八"
+
+msgid "Net Added IX"
+msgstr "畢宿增九"
+
+msgid "Net Added X"
+msgstr "畢宿增十"
+
+msgid "Net Added XI"
+msgstr "畢宿增十一"
+
+msgid "Net Added XII"
+msgstr "畢宿增十二"
+
+msgid "Net Added XIII"
+msgstr "畢宿增十三"
+
+msgid "Net Added XIV"
+msgstr "畢宿增十四"
+
+msgid "Net Added XV"
+msgstr "畢宿增十五"
+
+msgid "Net Added XVI"
+msgstr "畢宿增十六"
+
+msgid "Net Added XVII"
+msgstr "畢宿增十七"
+
+msgid "Net Added XVIII"
+msgstr "畢宿增十八"
+
+msgid "Whisper"
+msgstr "附耳"
+
+msgid "Whisper Added I"
+msgstr "附耳增一"
+
+msgid "Whisper Added II"
+msgstr "附耳增二"
+
+msgid "Whisper Added III"
+msgstr "附耳增三"
+
+msgid "Whisper Added IV"
+msgstr "附耳增四"
+
+msgid "Celestial Street I"
+msgstr "天街一"
+
+msgid "Celestial Street II"
+msgstr "天街二"
+
+msgid "Celestial Street Added I"
+msgstr "天街增一"
+
+msgid "Celestial Street Added II"
+msgstr "天街增二"
+
+msgid "Celestial Street Added III"
+msgstr "天街增三"
+
+msgid "Celestial Street Added IV"
+msgstr "天街增四"
+
+msgid "Celestial High Terrace I"
+msgstr "天高一"
+
+msgid "Celestial High Terrace II"
+msgstr "天高二"
+
+msgid "Celestial High Terrace III"
+msgstr "天高三"
+
+msgid "Celestial High Terrace IV"
+msgstr "天高四"
+
+msgid "Celestial High Terrace Added I"
+msgstr "天高增一"
+
+msgid "Celestial High Terrace Added II"
+msgstr "天高增二"
+
+msgid "Celestial High Terrace Added III"
+msgstr "天高增三"
+
+msgid "Celestial High Terrace Added IV"
+msgstr "天高增四"
+
+msgid "Feudal Kings I"
+msgstr "諸王一"
+
+msgid "Feudal Kings II"
+msgstr "諸王二"
+
+msgid "Feudal Kings III"
+msgstr "諸王三"
+
+msgid "Feudal Kings IV"
+msgstr "諸王四"
+
+msgid "Feudal Kings V"
+msgstr "諸王五"
+
+msgid "Feudal Kings VI"
+msgstr "諸王六"
+
+msgid "Feudal Kings Added I"
+msgstr "諸王增一"
+
+msgid "Feudal Kings Added II"
+msgstr "諸王增二"
+
+msgid "Feudal Kings Added III"
+msgstr "諸王增三"
+
+msgid "Feudal Kings Added IV"
+msgstr "諸王增四"
+
+msgid "Five Chariots I"
+msgstr "五車一"
+
+msgid "Five Chariots II"
+msgstr "五車二"
+
+msgid "Five Chariots III"
+msgstr "五車三"
+
+msgid "Five Chariots IV"
+msgstr "五車四"
+
+msgid "Five Chariots V"
+msgstr "五車五"
+
+msgid "Five Chariots Added I"
+msgstr "五車增一"
+
+msgid "Five Chariots Added II"
+msgstr "五車增二"
+
+msgid "Five Chariots Added III"
+msgstr "五車增三"
+
+msgid "Five Chariots Added IV"
+msgstr "五車增四"
+
+msgid "Five Chariots Added V"
+msgstr "五車增五"
+
+msgid "Five Chariots Added VI"
+msgstr "五車增六"
+
+msgid "Five Chariots Added VII"
+msgstr "五車增七"
+
+msgid "Five Chariots Added VIII"
+msgstr "五車增八"
+
+msgid "Five Chariots Added IX"
+msgstr "五車增九"
+
+msgid "Five Chariots Added X"
+msgstr "五車增十"
+
+msgid "Five Chariots Added XI"
+msgstr "五車增十一"
+
+msgid "Five Chariots Added XII"
+msgstr "五車增十二"
+
+msgid "Five Chariots Added XIII"
+msgstr "五車增十三"
+
+msgid "Five Chariots Added XIV"
+msgstr "五車增十四"
+
+msgid "Five Chariots Added XV"
+msgstr "五車增十五"
+
+msgid "Five Chariots Added XVI"
+msgstr "五車增十六"
+
+msgid "Five Chariots Added XVII"
+msgstr "五車增十七"
+
+msgid "Five Chariots Added XIX"
+msgstr "五車增十九"
+
+msgid "Pillars I (In Net Mansion)"
+msgstr "柱一 (畢宿)"
+
+msgid "Pillars II (In Net Mansion)"
+msgstr "柱二 (畢宿)"
+
+msgid "Pillars III (In Net Mansion)"
+msgstr "柱三 (畢宿)"
+
+msgid "Pillars IV (In Net Mansion)"
+msgstr "柱四 (畢宿)"
+
+msgid "Pillars V (In Net Mansion)"
+msgstr "柱五 (畢宿)"
+
+msgid "Pillars VI (In Net Mansion)"
+msgstr "柱六 (畢宿)"
+
+msgid "Pillars VII (In Net Mansion)"
+msgstr "柱七 (畢宿)"
+
+msgid "Pillars VIII (In Net Mansion)"
+msgstr "柱八 (畢宿)"
+
+msgid "Pool of Harmony I"
+msgstr "咸池一"
+
+msgid "Pool of Harmony II"
+msgstr "咸池二"
+
+msgid "Pool of Harmony III"
+msgstr "咸池三"
+
+msgid "Celestial Pier I"
+msgstr "天潢一"
+
+msgid "Celestial Pier II"
+msgstr "天潢二"
+
+msgid "Celestial Pier III"
+msgstr "天潢三"
+
+msgid "Celestial Pier IV"
+msgstr "天潢四"
+
+msgid "Celestial Pier V"
+msgstr "天潢五"
+
+msgid "Celestial Pier Added I"
+msgstr "天潢增一"
+
+msgid "Celestial Pier Added II"
+msgstr "天潢增二"
+
+msgid "Celestial Pass Added I"
+msgstr "天關增一"
+
+msgid "Celestial Pass Added II"
+msgstr "天關增二"
+
+msgid "Celestial Pass Added III"
+msgstr "天關增三"
+
+msgid "Celestial Pass Added IV"
+msgstr "天關增四"
+
+msgid "Celestial Pass Added V"
+msgstr "天關增五"
+
+msgid "Celestial Pass Added VI"
+msgstr "天關增六"
+
+msgid "Celestial Tally I"
+msgstr "天節一"
+
+msgid "Celestial Tally II"
+msgstr "天節二"
+
+msgid "Celestial Tally III"
+msgstr "天節三"
+
+msgid "Celestial Tally IV"
+msgstr "天節四"
+
+msgid "Celestial Tally V"
+msgstr "天節五"
+
+msgid "Celestial Tally VI"
+msgstr "天節六"
+
+msgid "Celestial Tally VII"
+msgstr "天節七"
+
+msgid "Celestial Tally VIII"
+msgstr "天節八"
+
+msgid "Interpreters of Nine Dialects I"
+msgstr "九州殊口一"
+
+msgid "Interpreters of Nine Dialects II"
+msgstr "九州殊口二"
+
+msgid "Interpreters of Nine Dialects III"
+msgstr "九州殊口三"
+
+msgid "Interpreters of Nine Dialects IV"
+msgstr "九州殊口四"
+
+msgid "Interpreters of Nine Dialects V"
+msgstr "九州殊口五"
+
+msgid "Interpreters of Nine Dialects VI"
+msgstr "九州殊口六"
+
+msgid "Interpreters of Nine Dialects Added I"
+msgstr "九州殊口增一"
+
+msgid "Interpreters of Nine Dialects Added II"
+msgstr "九州殊口增二"
+
+msgid "Interpreters of Nine Dialects Added III"
+msgstr "九州殊口增三"
+
+msgid "Interpreters of Nine Dialects Added IV"
+msgstr "九州殊口增四"
+
+msgid "Interpreters of Nine Dialects Added V"
+msgstr "九州殊口增五"
+
+msgid "Interpreters of Nine Dialects Added VI"
+msgstr "九州殊口增六"
+
+msgid "Interpreters of Nine Dialects Added VII"
+msgstr "九州殊口增七"
+
+msgid "Interpreters of Nine Dialects Added VIII"
+msgstr "九州殊口增八"
+
+msgid "Interpreters of Nine Dialects Added IX"
+msgstr "九州殊口增九"
+
+msgid "Interpreters of Nine Dialects Added X"
+msgstr "九州殊口增十"
+
+msgid "Interpreters of Nine Dialects Added XI"
+msgstr "九州殊口增十一"
+
+msgid "Banner of Three Stars I"
+msgstr "參旗一"
+
+msgid "Banner of Three Stars II"
+msgstr "參旗二"
+
+msgid "Banner of Three Stars III"
+msgstr "參旗三"
+
+msgid "Banner of Three Stars IV"
+msgstr "參旗四"
+
+msgid "Banner of Three Stars V"
+msgstr "參旗五"
+
+msgid "Banner of Three Stars VI"
+msgstr "參旗六"
+
+msgid "Banner of Three Stars VII"
+msgstr "參旗七"
+
+msgid "Banner of Three Stars VIII"
+msgstr "參旗八"
+
+msgid "Banner of Three Stars IX"
+msgstr "參旗九"
+
+msgid "Banner of Three Stars Added I"
+msgstr "參旗增一"
+
+msgid "Banner of Three Stars Added II"
+msgstr "參旗增二"
+
+msgid "Banner of Three Stars Added III"
+msgstr "參旗增三"
+
+msgid "Banner of Three Stars Added IV"
+msgstr "參旗增四"
+
+msgid "Banner of Three Stars Added V"
+msgstr "參旗增五"
+
+msgid "Banner of Three Stars Added VI"
+msgstr "參旗增六"
+
+msgid "Banner of Three Stars Added VII"
+msgstr "參旗增七"
+
+msgid "Banner of Three Stars Added VIII"
+msgstr "參旗增八"
+
+msgid "Banner of Three Stars Added IX"
+msgstr "參旗增九"
+
+msgid "Banner of Three Stars Added X"
+msgstr "參旗增十"
+
+msgid "Banner of Three Stars Added XI"
+msgstr "參旗增十一"
+
+msgid "Banner of Three Stars Added XII"
+msgstr "參旗增十二"
+
+msgid "Imperial Military Flag I"
+msgstr "九斿一"
+
+msgid "Imperial Military Flag II"
+msgstr "九斿二"
+
+msgid "Imperial Military Flag III"
+msgstr "九斿三"
+
+msgid "Imperial Military Flag IV"
+msgstr "九斿四"
+
+msgid "Imperial Military Flag V"
+msgstr "九斿五"
+
+msgid "Imperial Military Flag VI"
+msgstr "九斿六"
+
+msgid "Imperial Military Flag VII"
+msgstr "九斿七"
+
+msgid "Imperial Military Flag VIII"
+msgstr "九斿八"
+
+msgid "Imperial Military Flag IX"
+msgstr "九斿九"
+
+msgid "Imperial Military Flag Added I"
+msgstr "九斿增一"
+
+msgid "Imperial Military Flag Added II"
+msgstr "九斿增二"
+
+msgid "Imperial Military Flag Added III"
+msgstr "九斿增三"
+
+msgid "Imperial Military Flag Added IV"
+msgstr "九斿增四"
+
+msgid "Imperial Military Flag Added V"
+msgstr "九斿增五"
+
+msgid "Imperial Military Flag Added VI"
+msgstr "九斿增六"
+
+msgid "Imperial Military Flag Added VII"
+msgstr "九斿增七"
+
+msgid "Celestial Orchard I"
+msgstr "天園一"
+
+msgid "Celestial Orchard II"
+msgstr "天園二"
+
+msgid "Celestial Orchard III"
+msgstr "天園三"
+
+msgid "Celestial Orchard IV"
+msgstr "天園四"
+
+msgid "Celestial Orchard V"
+msgstr "天園五"
+
+msgid "Celestial Orchard VI"
+msgstr "天園六"
+
+msgid "Celestial Orchard VII"
+msgstr "天園七"
+
+msgid "Celestial Orchard VIII"
+msgstr "天園八"
+
+msgid "Celestial Orchard IX"
+msgstr "天園九"
+
+msgid "Celestial Orchard X"
+msgstr "天園十"
+
+msgid "Celestial Orchard XI"
+msgstr "天園十一"
+
+msgid "Celestial Orchard XII"
+msgstr "天園十二"
+
+msgid "Celestial Orchard XIII"
+msgstr "天園十三"
+
+msgid "Celestial Orchard Added I"
+msgstr "天園增一"
+
+msgid "Celestial Orchard Added III"
+msgstr "天園增三"
+
+msgid "Celestial Orchard Added IV"
+msgstr "天園增四"
+
+msgid "Celestial Orchard Added V"
+msgstr "天園增五"
+
+msgid "Celestial Orchard Added VI"
+msgstr "天園增六"
+
+msgid "Turtle Beak I"
+msgstr "觜宿一"
+
+msgid "Turtle Beak II"
+msgstr "觜宿二"
+
+msgid "Turtle Beak III"
+msgstr "觜宿三"
+
+msgid "Deity in Charge of Monsters I"
+msgstr "司怪一"
+
+msgid "Deity in Charge of Monsters II"
+msgstr "司怪二"
+
+msgid "Deity in Charge of Monsters III"
+msgstr "司怪三"
+
+msgid "Deity in Charge of Monsters IV"
+msgstr "司怪四"
+
+msgid "Deity in Charge of Monsters Added I"
+msgstr "司怪增一"
+
+msgid "Deity in Charge of Monsters Added II"
+msgstr "司怪增二"
+
+msgid "Deity in Charge of Monsters Added III"
+msgstr "司怪增三"
+
+msgid "Deity in Charge of Monsters Added IV"
+msgstr "司怪增四"
+
+msgid "Deity in Charge of Monsters Added V"
+msgstr "司怪增五"
+
+msgid "Deity in Charge of Monsters Added VI"
+msgstr "司怪增六"
+
+msgid "Seat Flags I"
+msgstr "座旗一"
+
+msgid "Seat Flags II"
+msgstr "座旗二"
+
+msgid "Seat Flags III"
+msgstr "座旗三"
+
+msgid "Seat Flags IV"
+msgstr "座旗四"
+
+msgid "Seat Flags V"
+msgstr "座旗五"
+
+msgid "Seat Flags VI"
+msgstr "座旗六"
+
+msgid "Seat Flags VII"
+msgstr "座旗七"
+
+msgid "Seat Flags VIII"
+msgstr "座旗八"
+
+msgid "Seat Flags IX"
+msgstr "座旗九"
+
+msgid "Seat Flags Added I"
+msgstr "座旗增一"
+
+msgid "Seat Flags Added II"
+msgstr "座旗增二"
+
+msgid "Seat Flags Added III"
+msgstr "座旗增三"
+
+msgid "Seat Flags Added IV"
+msgstr "座旗增四"
+
+msgid "Seat Flags Added V"
+msgstr "座旗增五"
+
+msgid "Seat Flags Added VI"
+msgstr "座旗增六"
+
+msgid "Seat Flags Added VII"
+msgstr "座旗增七"
+
+msgid "Seat Flags Added VIII"
+msgstr "座旗增八"
+
+msgid "Seat Flags Added IX"
+msgstr "座旗增九"
+
+msgid "Seat Flags Added X"
+msgstr "座旗增十"
+
+msgid "Seat Flags Added XI"
+msgstr "座旗增十一"
+
+msgid "Three Stars I"
+msgstr "參宿一"
+
+msgid "Three Stars II"
+msgstr "參宿二"
+
+msgid "Three Stars III"
+msgstr "參宿三"
+
+msgid "Three Stars IV"
+msgstr "參宿四"
+
+msgid "Three Stars V"
+msgstr "參宿五"
+
+msgid "Three Stars VI"
+msgstr "參宿六"
+
+msgid "Three Stars VII"
+msgstr "參宿七"
+
+msgid "Three Stars Added I"
+msgstr "參宿增一"
+
+msgid "Three Stars Added II"
+msgstr "參宿增二"
+
+msgid "Three Stars Added III"
+msgstr "參宿增三"
+
+msgid "Three Stars Added IV"
+msgstr "參宿增四"
+
+msgid "Three Stars Added V"
+msgstr "參宿增五"
+
+msgid "Three Stars Added VI"
+msgstr "參宿增六"
+
+msgid "Three Stars Added VII"
+msgstr "參宿增七"
+
+msgid "Three Stars Added VIII"
+msgstr "參宿增八"
+
+msgid "Three Stars Added IX"
+msgstr "參宿增九"
+
+msgid "Three Stars Added X"
+msgstr "參宿增十"
+
+msgid "Three Stars Added XI"
+msgstr "參宿增十一"
+
+msgid "Three Stars Added XII"
+msgstr "參宿增十二"
+
+msgid "Three Stars Added XIII"
+msgstr "參宿增十三"
+
+msgid "Three Stars Added XIV"
+msgstr "參宿增十四"
+
+msgid "Three Stars Added XV"
+msgstr "參宿增十五"
+
+msgid "Three Stars Added XVI"
+msgstr "參宿增十六"
+
+msgid "Three Stars Added XVII"
+msgstr "參宿增十七"
+
+msgid "Three Stars Added XVIII"
+msgstr "參宿增十八"
+
+msgid "Three Stars Added XIX"
+msgstr "參宿增十九"
+
+msgid "Three Stars Added XX"
+msgstr "參宿增廿"
+
+msgid "Three Stars Added XXI"
+msgstr "參宿增廿一"
+
+msgid "Three Stars Added XXII"
+msgstr "參宿增廿二"
+
+msgid "Three Stars Added XXIII"
+msgstr "參宿增廿三"
+
+msgid "Three Stars Added XXIV"
+msgstr "參宿增廿四"
+
+msgid "Three Stars Added XXV"
+msgstr "參宿增廿五"
+
+msgid "Three Stars Added XXVI"
+msgstr "參宿增廿六"
+
+msgid "Three Stars Added XXVII"
+msgstr "參宿增廿七"
+
+msgid "Three Stars Added XXVIII"
+msgstr "參宿增廿八"
+
+msgid "Three Stars Added XXIX"
+msgstr "參宿增廿九"
+
+msgid "Three Stars Added XXX"
+msgstr "參宿增卅"
+
+msgid "Three Stars Added XXXI"
+msgstr "參宿增卅一"
+
+msgid "Three Stars Added XXXII"
+msgstr "參宿增卅二"
+
+msgid "Three Stars Added XXXIII"
+msgstr "參宿增卅三"
+
+msgid "Three Stars Added XXXIV"
+msgstr "參宿增卅四"
+
+msgid "Three Stars Added XXXV"
+msgstr "參宿增卅五"
+
+msgid "Three Stars Added XXXVI"
+msgstr "參宿增卅六"
+
+msgid "Three Stars Added XXXVII"
+msgstr "參宿增卅七"
+
+msgid "Three Stars Added XXXIX"
+msgstr "參宿增卅九"
+
+msgid "Send Armed Forces To Suppress I"
+msgstr "伐一"
+
+msgid "Send Armed Forces To Suppress II"
+msgstr "伐二"
+
+msgid "Send Armed Forces To Suppress III"
+msgstr "伐三"
+
+msgid "Send Armed Forces To Suppress Added I"
+msgstr "伐增一"
+
+msgid "Send Armed Forces To Suppress Added II"
+msgstr "伐增二"
+
+msgid "Jade Well I"
+msgstr "玉井一"
+
+msgid "Jade Well II"
+msgstr "玉井二"
+
+msgid "Jade Well III"
+msgstr "玉井三"
+
+msgid "Jade Well IV"
+msgstr "玉井四"
+
+msgid "Jade Well Added I"
+msgstr "玉井增一"
+
+msgid "Jade Well Added II"
+msgstr "玉井增二"
+
+msgid "Jade Well Added III"
+msgstr "玉井增三"
+
+msgid "Three Stars Added XXXVIII"
+msgstr "參宿增卅八"
+
+msgid "Military Well I"
+msgstr "軍井一"
+
+msgid "Military Well II"
+msgstr "軍井二"
+
+msgid "Military Well III"
+msgstr "軍井三"
+
+msgid "Military Well IV"
+msgstr "軍井四"
+
+msgid "Military Well Added I"
+msgstr "軍井增一"
+
+msgid "Military Well Added II"
+msgstr "軍井增二"
+
+msgid "Screen I"
+msgstr "屏一"
+
+msgid "Screen II"
+msgstr "屏二"
+
+msgid "Toilet I"
+msgstr "廁一"
+
+msgid "Toilet II"
+msgstr "廁二"
+
+msgid "Toilet III"
+msgstr "廁三"
+
+msgid "Toilet IV"
+msgstr "廁四"
+
+msgid "Toilet Added I"
+msgstr "廁增一"
+
+msgid "Toilet Added II"
+msgstr "廁增二"
+
+msgid "Toilet Added III"
+msgstr "廁增三"
+
+msgid "Toilet Added IV"
+msgstr "廁增四"
+
+msgid "Toilet Added V"
+msgstr "廁增五"
+
+msgid "Toilet Added VI"
+msgstr "廁增六"
+
+msgid "Toilet Added VII"
+msgstr "廁增七"
+
+msgid "Toilet Added VIII"
+msgstr "廁增八"
+
+msgid "Well I"
+msgstr "井宿一"
+
+msgid "Well II"
+msgstr "井宿二"
+
+msgid "Well III"
+msgstr "井宿三"
+
+msgid "Well IV"
+msgstr "井宿四"
+
+msgid "Well V"
+msgstr "井宿五"
+
+msgid "Well VI"
+msgstr "井宿六"
+
+msgid "Well VII"
+msgstr "井宿七"
+
+msgid "Well VIII"
+msgstr "井宿八"
+
+msgid "Well Added I"
+msgstr "井宿增一"
+
+msgid "Well Added II"
+msgstr "井宿增二"
+
+msgid "Well Added III"
+msgstr "井宿增三"
+
+msgid "Well Added IV"
+msgstr "井宿增四"
+
+msgid "Well Added V"
+msgstr "井宿增五"
+
+msgid "Well Added VI"
+msgstr "井宿增六"
+
+msgid "Well Added VII"
+msgstr "井宿增七"
+
+msgid "Well Added VIII"
+msgstr "井宿增八"
+
+msgid "Well Added IX"
+msgstr "井宿增九"
+
+msgid "Well Added X"
+msgstr "井宿增十"
+
+msgid "Well Added XI"
+msgstr "井宿增十一"
+
+msgid "Well Added XII"
+msgstr "井宿增十二"
+
+msgid "Well Added XIII"
+msgstr "井宿增十三"
+
+msgid "Well Added XIV"
+msgstr "井宿增十四"
+
+msgid "Well Added XV"
+msgstr "井宿增十五"
+
+msgid "Well Added XVI"
+msgstr "井宿增十六"
+
+msgid "Well Added XVII"
+msgstr "井宿增十七"
+
+msgid "Well Added XVIII"
+msgstr "井宿增十八"
+
+msgid "Well Added XIX"
+msgstr "井宿增十九"
+
+msgid "Battle Axe"
+msgstr "鉞"
+
+msgid "Battle Axe Added I"
+msgstr "鉞增一"
+
+msgid "Official for Irrigation I"
+msgstr "水府一"
+
+msgid "Official for Irrigation II"
+msgstr "水府二"
+
+msgid "Official for Irrigation III"
+msgstr "水府三"
+
+msgid "Official for Irrigation IV"
+msgstr "水府四"
+
+msgid "Official for Irrigation Added I"
+msgstr "水府增一"
+
+msgid "Official for Irrigation Added II"
+msgstr "水府增二"
+
+msgid "Official for Irrigation Added III"
+msgstr "水府增三"
+
+msgid "Official for Irrigation Added IV"
+msgstr "水府增四"
+
+msgid "Official for Irrigation Added V"
+msgstr "水府增五"
+
+msgid "Official for Irrigation Added VI"
+msgstr "水府增六"
+
+msgid "Official for Irrigation Added VII"
+msgstr "水府增七"
+
+msgid "Official for Irrigation Added VIII"
+msgstr "水府增八"
+
+msgid "Celestial Wine Cup I"
+msgstr "天罇一"
+
+msgid "Celestial Wine Cup II"
+msgstr "天罇二"
+
+msgid "Celestial Wine Cup III"
+msgstr "天罇三"
+
+msgid "Celestial Wine Cup Added I"
+msgstr "天罇增一"
+
+msgid "Celestial Wine Cup Added II"
+msgstr "天罇增二"
+
+msgid "Celestial Wine Cup Added III"
+msgstr "天罇增三"
+
+msgid "Celestial Wine Cup Added IV"
+msgstr "天罇增四"
+
+msgid "Celestial Wine Cup Added V"
+msgstr "天罇增五"
+
+msgid "Celestial Wine Cup Added VI"
+msgstr "天罇增六"
+
+msgid "Celestial Wine Cup Added VII"
+msgstr "天罇增七"
+
+msgid "Celestial Wine Cup Added VIII"
+msgstr "天罇增八"
+
+msgid "Celestial Wine Cup Added IX"
+msgstr "天罇增九"
+
+msgid "Five Feudal Kings I"
+msgstr "五諸侯一"
+
+msgid "Five Feudal Kings II"
+msgstr "五諸侯二"
+
+msgid "Five Feudal Kings III"
+msgstr "五諸侯三"
+
+msgid "Five Feudal Kings IV"
+msgstr "五諸侯四"
+
+msgid "Five Feudal Kings V"
+msgstr "五諸侯五"
+
+msgid "Five Feudal Kings Added I"
+msgstr "五諸侯增一"
+
+msgid "Five Feudal Kings Added II"
+msgstr "五諸侯增二"
+
+msgid "Five Feudal Kings Added III"
+msgstr "五諸侯增三"
+
+msgid "Five Feudal Kings Added VI"
+msgstr "五諸侯增四"
+
+msgid "North River I"
+msgstr "北河一"
+
+msgid "North River II"
+msgstr "北河二"
+
+msgid "North River III"
+msgstr "北河三"
+
+msgid "North River Added I"
+msgstr "北河增一"
+
+msgid "North River Added II"
+msgstr "北河增二"
+
+msgid "North River Added III"
+msgstr "北河增三"
+
+msgid "North River Added IV"
+msgstr "北河增四"
+
+msgid "Pile of Firewood Added I"
+msgstr "積薪增一"
+
+msgid "Pile of Firewood Added II"
+msgstr "積薪增二"
+
+msgid "Pile of Firewood Added III"
+msgstr "積薪增三"
+
+msgid "Water Level I"
+msgstr "水位一"
+
+msgid "Water Level II"
+msgstr "水位二"
+
+msgid "Water Level III"
+msgstr "水位三"
+
+msgid "Water Level IV"
+msgstr "水位四"
+
+msgid "Water Level Added I"
+msgstr "水位增一"
+
+msgid "Water Level Added II"
+msgstr "水位增二"
+
+msgid "Water Level Added III"
+msgstr "水位增三"
+
+msgid "Water Level Added IV"
+msgstr "水位增四"
+
+msgid "Water Level Added V"
+msgstr "水位增五"
+
+msgid "Water Level Added VI"
+msgstr "水位增六"
+
+msgid "Water Level Added VII"
+msgstr "水位增七"
+
+msgid "Water Level Added VIII"
+msgstr "水位增八"
+
+msgid "Water Level Added IX"
+msgstr "水位增九"
+
+msgid "Water Level Added X?"
+msgstr "水位增十 ?"
+
+msgid "Water Level Added XI"
+msgstr "水位增十一"
+
+msgid "Water Level Added XII"
+msgstr "水位增十二"
+
+msgid "South River I"
+msgstr "南河一"
+
+msgid "South River II"
+msgstr "南河二"
+
+msgid "South River III"
+msgstr "南河三"
+
+msgid "South River Added I"
+msgstr "南河增一"
+
+msgid "South River Added II"
+msgstr "南河增二"
+
+msgid "South River Added III"
+msgstr "南河增三"
+
+msgid "South River Added IV"
+msgstr "南河增四"
+
+msgid "South River Added V"
+msgstr "南河增五"
+
+msgid "South River Added VI"
+msgstr "南河增六"
+
+msgid "South River Added VII"
+msgstr "南河增七"
+
+msgid "South River Added VIII"
+msgstr "南河增八"
+
+msgid "South River Added IX"
+msgstr "南河增九"
+
+msgid "South River Added X"
+msgstr "南河增十"
+
+msgid "Four Channels I"
+msgstr "四瀆一"
+
+msgid "Four Channels II"
+msgstr "四瀆二"
+
+msgid "Four Channels III"
+msgstr "四瀆三"
+
+msgid "Four Channels IV"
+msgstr "四瀆四"
+
+msgid "Four Channels Added I"
+msgstr "四瀆增一"
+
+msgid "Four Channels Added II"
+msgstr "四瀆增二"
+
+msgid "Four Channels Added III"
+msgstr "四瀆增三"
+
+msgid "Four Channels Added V"
+msgstr "四瀆增五"
+
+msgid "Four Channels Added VI"
+msgstr "四瀆增六"
+
+msgid "Four Channels Added VII"
+msgstr "四瀆增七"
+
+msgid "Four Channels Added VIII"
+msgstr "四瀆增八"
+
+msgid "Palace Gate I"
+msgstr "闕邱一"
+
+msgid "Palace Gate II"
+msgstr "闕邱二"
+
+msgid "Palace Gate Added I"
+msgstr "闕邱增一"
+
+msgid "Palace Gate Added II"
+msgstr "闕邱增二"
+
+msgid "Palace Gate Added III"
+msgstr "闕邱增三"
+
+msgid "Palace Gate Added IV"
+msgstr "闕邱增四"
+
+msgid "Palace Gate Added V"
+msgstr "闕邱增五"
+
+msgid "Palace Gate Added VI"
+msgstr "闕邱增六"
+
+msgid "Palace Gate Added VII"
+msgstr "闕邱增七"
+
+msgid "Market for Soldiers I"
+msgstr "軍市一"
+
+msgid "Market for Soldiers II"
+msgstr "軍市二"
+
+msgid "Market for Soldiers III"
+msgstr "軍市三"
+
+msgid "Market for Soldiers IV"
+msgstr "軍市四"
+
+msgid "Market for Soldiers V"
+msgstr "軍市五"
+
+msgid "Market for Soldiers VI"
+msgstr "軍市六"
+
+msgid "Market for Soldiers Added I"
+msgstr "軍市增一"
+
+msgid "Market for Soldiers Added II"
+msgstr "軍市增二"
+
+msgid "Market for Soldiers Added III"
+msgstr "軍市增三"
+
+msgid "Market for Soldiers Added IV"
+msgstr "軍市增四"
+
+msgid "Market for Soldiers Added V"
+msgstr "軍市增五"
+
+msgid "Market for Soldiers Added VI"
+msgstr "軍市增六"
+
+msgid "Market for Soldiers Added VII"
+msgstr "軍市增七"
+
+msgid "Celestial Wolf Added I"
+msgstr "天狼增一"
+
+msgid "Celestial Wolf Added II"
+msgstr "天狼增二"
+
+msgid "Celestial Wolf Added III"
+msgstr "天狼增三"
+
+msgid "Celestial Wolf Added IV"
+msgstr "天狼增四"
+
+msgid "Celestial Wolf Added V"
+msgstr "天狼增五"
+
+msgid "Celestial Wolf Added VI"
+msgstr "天狼增六"
+
+msgid "Grandfather I"
+msgstr "丈人一"
+
+msgid "Grandfather II"
+msgstr "丈人二"
+
+msgid "Son I"
+msgstr "子一"
+
+msgid "Son II"
+msgstr "子二"
+
+msgid "Son Added I"
+msgstr "子增一"
+
+msgid "Grandson I"
+msgstr "孫一"
+
+msgid "Grandson II"
+msgstr "孫二"
+
+msgid "Grandson Added I"
+msgstr "孫增一"
+
+msgid "Grandson Added II"
+msgstr "孫增二"
+
+msgid "Grandson Added III"
+msgstr "孫增三"
+
+msgid "Grandson Added IV"
+msgstr "孫增四"
+
+msgid "Old Man Added I"
+msgstr "老人增一"
+
+msgid "Old Man Added II"
+msgstr "老人增二"
+
+msgid "Old Man Added III"
+msgstr "老人增三"
+
+msgid "Old Man Added IV"
+msgstr "老人增四"
+
+msgid "Bow and Arrow I"
+msgstr "弧矢一"
+
+msgid "Bow and Arrow II"
+msgstr "弧矢二"
+
+msgid "Bow and Arrow III"
+msgstr "弧矢三"
+
+msgid "Bow and Arrow IV"
+msgstr "弧矢四"
+
+msgid "Bow and Arrow V"
+msgstr "弧矢五"
+
+msgid "Bow and Arrow VI"
+msgstr "弧矢六"
+
+msgid "Bow and Arrow VII"
+msgstr "弧矢七"
+
+msgid "Bow and Arrow VIII"
+msgstr "弧矢八"
+
+msgid "Bow and Arrow IX"
+msgstr "弧矢九"
+
+msgid "Bow and Arrow Added I"
+msgstr "弧矢增一"
+
+msgid "Bow and Arrow Added II"
+msgstr "弧矢增二"
+
+msgid "Bow and Arrow Added III"
+msgstr "弧矢增三"
+
+msgid "Bow and Arrow Added IV"
+msgstr "弧矢增四"
+
+msgid "Bow and Arrow Added V"
+msgstr "弧矢增五"
+
+msgid "Bow and Arrow Added VI"
+msgstr "弧矢增六"
+
+msgid "Bow and Arrow Added VII"
+msgstr "弧矢增七"
+
+msgid "Bow and Arrow Added VIII"
+msgstr "弧矢增八"
+
+msgid "Bow and Arrow Added IX"
+msgstr "弧矢增九"
+
+msgid "Bow and Arrow Added X"
+msgstr "弧矢增十"
+
+msgid "Bow and Arrow Added XI"
+msgstr "弧矢增十一"
+
+msgid "Bow and Arrow Added XII"
+msgstr "弧矢增十二"
+
+msgid "Bow and Arrow Added XIII"
+msgstr "弧矢增十三"
+
+msgid "Bow and Arrow Added XIV"
+msgstr "弧矢增十四"
+
+msgid "Bow and Arrow Added XV"
+msgstr "弧矢增十五"
+
+msgid "Bow and Arrow Added XVI"
+msgstr "弧矢增十六"
+
+msgid "Bow and Arrow Added XVII"
+msgstr "弧矢增十七"
+
+msgid "Bow and Arrow Added XVIII"
+msgstr "弧矢增十八"
+
+msgid "Bow and Arrow Added XIX"
+msgstr "弧矢增十九"
+
+msgid "Bow and Arrow Added XX"
+msgstr "弧矢增廿"
+
+msgid "Bow and Arrow Added XXI"
+msgstr "弧矢增廿一"
+
+msgid "Bow and Arrow Added XXII"
+msgstr "弧矢增廿二"
+
+msgid "Bow and Arrow Added XXIII"
+msgstr "弧矢增廿三"
+
+msgid "Bow and Arrow Added XXIV"
+msgstr "弧矢增廿四"
+
+msgid "Bow and Arrow Added XXV"
+msgstr "弧矢增廿五"
+
+msgid "Bow and Arrow Added XXVI"
+msgstr "弧矢增廿六"
+
+msgid "Bow and Arrow Added XXVII"
+msgstr "弧矢增廿七"
+
+msgid "Bow and Arrow Added XXVIII"
+msgstr "弧矢增廿八"
+
+msgid "Bow and Arrow Added XXIX"
+msgstr "弧矢增廿九"
+
+msgid "Bow and Arrow Added XXX"
+msgstr "弧矢增卅"
+
+msgid "Bow and Arrow Added XXXI"
+msgstr "弧矢增卅一"
+
+msgid "Bow and Arrow Added XXXII"
+msgstr "弧矢增卅二"
+
+msgid "Ghosts I"
+msgstr "鬼宿一"
+
+msgid "Ghosts II"
+msgstr "鬼宿二"
+
+msgid "Ghosts III"
+msgstr "鬼宿三"
+
+msgid "Ghosts IV"
+msgstr "鬼宿四"
+
+msgid "Ghosts Added I"
+msgstr "鬼宿增一"
+
+msgid "Ghosts Added II"
+msgstr "鬼宿增二"
+
+msgid "Ghosts Added III"
+msgstr "鬼宿增三"
+
+msgid "Ghosts Added IV"
+msgstr "鬼宿增四"
+
+msgid "Ghosts Added V"
+msgstr "鬼宿增五"
+
+msgid "Ghosts Added VI"
+msgstr "鬼宿增六"
+
+msgid "Ghosts Added VII"
+msgstr "鬼宿增七"
+
+msgid "Ghosts Added VIII"
+msgstr "鬼宿增八"
+
+msgid "Ghosts Added IX"
+msgstr "鬼宿增九"
+
+msgid "Ghosts Added X"
+msgstr "鬼宿增十"
+
+msgid "Ghosts Added XI"
+msgstr "鬼宿增十一"
+
+msgid "Ghosts Added XII"
+msgstr "鬼宿增十二"
+
+msgid "Ghosts Added XIII"
+msgstr "鬼宿增十三"
+
+msgid "Ghosts Added XIV"
+msgstr "鬼宿增十四"
+
+msgid "Ghosts Added XV"
+msgstr "鬼宿增十五"
+
+msgid "Ghosts Added XVI"
+msgstr "鬼宿增十六"
+
+msgid "Ghosts Added XVIII*"
+msgstr "鬼宿增十八 ?"
+
+msgid "Ghosts Added XIX"
+msgstr "鬼宿增十九"
+
+msgid "Cumulative Corpses Added I"
+msgstr "積尸增一"
+
+msgid "Cumulative Corpses Added II"
+msgstr "積尸增二"
+
+msgid "Cumulative Corpses Added III"
+msgstr "積尸增三"
+
+msgid "Beacon Fire I"
+msgstr "爟一"
+
+msgid "Beacon Fire II"
+msgstr "爟二"
+
+msgid "Beacon Fire III"
+msgstr "爟三"
+
+msgid "Beacon Fire IV"
+msgstr "爟四"
+
+msgid "Beacon Fire Added I"
+msgstr "爟增一"
+
+msgid "Beacon Fire Added II"
+msgstr "爟增二"
+
+msgid "Beacon Fire Added III"
+msgstr "爟增三"
+
+msgid "Beacon Fire Added IV"
+msgstr "爟增四"
+
+msgid "Beacon Fire Added V"
+msgstr "爟增五"
+
+msgid "Beacon Fire Added VI"
+msgstr "爟增六"
+
+msgid "Beacon Fire Added VII"
+msgstr "爟增七"
+
+msgid "Beacon Fire Added VIII"
+msgstr "爟增八"
+
+msgid "Beacon Fire Added IX"
+msgstr "爟增九"
+
+msgid "Beacon Fire Added X"
+msgstr "爟增十"
+
+msgid "Beacon Fire Added XI"
+msgstr "爟增十一"
+
+msgid "Outer Kitchen I"
+msgstr "外廚一"
+
+msgid "Outer Kitchen II"
+msgstr "外廚二"
+
+msgid "Outer Kitchen III"
+msgstr "外廚三"
+
+msgid "Outer Kitchen IV?"
+msgstr "外廚四 ?"
+
+msgid "Outer Kitchen Added I"
+msgstr "外廚增一"
+
+msgid "Outer Kitchen Added II"
+msgstr "外廚增二"
+
+msgid "Outer Kitchen Added III"
+msgstr "外廚增三"
+
+msgid "Outer Kitchen Added IV"
+msgstr "外廚增四"
+
+msgid "Outer Kitchen Added VI"
+msgstr "外廚增六"
+
+msgid "Outer Kitchen Added VII"
+msgstr "外廚增七"
+
+msgid "Outer Kitchen Added VIII"
+msgstr "外廚增八"
+
+msgid "Outer Kitchen Added IX"
+msgstr "外廚增九"
+
+msgid "Outer Kitchen Added X"
+msgstr "外廚增十"
+
+msgid "Outer Kitchen Added XI"
+msgstr "外廚增十一"
+
+msgid "Outer Kitchen Added XIII"
+msgstr "外廚增十三"
+
+msgid "Outer Kitchen Added XIV"
+msgstr "外廚增十四"
+
+msgid "Outer Kitchen Added XV"
+msgstr "外廚增十五"
+
+msgid "Outer Kitchen Added XVI"
+msgstr "外廚增十六"
+
+msgid "Outer Kitchen Added XVII"
+msgstr "外廚增十七"
+
+msgid "Judge for Estimating the Age of Animals Added I"
+msgstr "天記增一"
+
+msgid "Judge for Estimating the Age of Animals Added II"
+msgstr "天記增二"
+
+msgid "Celestial Dog I"
+msgstr "天狗一"
+
+msgid "Celestial Dog II"
+msgstr "天狗二"
+
+msgid "Celestial Dog III*"
+msgstr "天狗三"
+
+msgid "Celestial Dog IV"
+msgstr "天狗四"
+
+msgid "Celestial Dog V"
+msgstr "天狗五"
+
+msgid "Celestial Dog VI"
+msgstr "天狗六"
+
+msgid "Celestial Dog VII"
+msgstr "天狗七"
+
+msgid "Celestial Earth God's Temple I"
+msgstr "天社一"
+
+msgid "Celestial Earth God's Temple II"
+msgstr "天社二"
+
+msgid "Celestial Earth God's Temple III"
+msgstr "天社三"
+
+msgid "Celestial Earth God's Temple V"
+msgstr "天社五"
+
+msgid "Celestial Earth God's Temple VI"
+msgstr "天社六"
+
+msgid "Celestial Earth God's Temple Added I"
+msgstr "天社增一"
+
+msgid "Celestial Earth God's Temple Added II"
+msgstr "天社增二"
+
+msgid "Celestial Earth God's Temple Added III"
+msgstr "天社增三"
+
+msgid "Celestial Earth God's Temple Added IV*"
+msgstr "天社增四*"
+
+msgid "Celestial Earth God's Temple Added V?"
+msgstr "天社增五 ?"
+
+msgid "Willow I"
+msgstr "柳宿一"
+
+msgid "Willow II"
+msgstr "柳宿二"
+
+msgid "Willow III"
+msgstr "柳宿三"
+
+msgid "Willow IV"
+msgstr "柳宿四"
+
+msgid "Willow V"
+msgstr "柳宿五"
+
+msgid "Willow VI"
+msgstr "柳宿六"
+
+msgid "Willow VII"
+msgstr "柳宿七"
+
+msgid "Willow VIII"
+msgstr "柳宿八"
+
+msgid "Willow Added I"
+msgstr "柳宿增一"
+
+msgid "Willow Added II"
+msgstr "柳宿增二"
+
+msgid "Willow Added III"
+msgstr "柳宿增三"
+
+msgid "Willow Added IV"
+msgstr "柳宿增四"
+
+msgid "Willow Added V"
+msgstr "柳宿增五"
+
+msgid "Willow Added VI"
+msgstr "柳宿增六"
+
+msgid "Willow Added VII"
+msgstr "柳宿增七"
+
+msgid "Willow Added VIII"
+msgstr "柳宿增八"
+
+msgid "Willow Added IX"
+msgstr "柳宿增九"
+
+msgid "Willow Added X"
+msgstr "柳宿增十"
+
+msgid "Willow Added XI"
+msgstr "柳宿增十一"
+
+msgid "Willow Added XII"
+msgstr "柳宿增十二"
+
+msgid "Willow Added XIII"
+msgstr "柳宿增十三"
+
+msgid "Banner of Wine Shop I"
+msgstr "酒旗一"
+
+msgid "Banner of Wine Shop II"
+msgstr "酒旗二"
+
+msgid "Banner of Wine Shop III"
+msgstr "酒旗三"
+
+msgid "Banner of Wine Shop Added I"
+msgstr "酒旗增一"
+
+msgid "Banner of Wine Shop Added II"
+msgstr "酒旗增二"
+
+msgid "Banner of Wine Shop Added III"
+msgstr "酒旗增三"
+
+msgid "Banner of Wine Shop Added IV"
+msgstr "酒旗增四"
+
+msgid "Banner of Wine Shop Added V"
+msgstr "酒旗增五"
+
+msgid "Star I"
+msgstr "星宿一"
+
+msgid "Star II"
+msgstr "星宿二"
+
+msgid "Star III"
+msgstr "星宿三"
+
+msgid "Star IV"
+msgstr "星宿四"
+
+msgid "Star V"
+msgstr "星宿五"
+
+msgid "Star VI"
+msgstr "星宿六"
+
+msgid "Star VII"
+msgstr "星宿七"
+
+msgid "Star Added I"
+msgstr "星宿增一"
+
+msgid "Star Added II"
+msgstr "星宿增二"
+
+msgid "Star Added III"
+msgstr "星宿增三"
+
+msgid "Star Added IV"
+msgstr "星宿增四"
+
+msgid "Star Added V"
+msgstr "星宿增五"
+
+msgid "Star Added VI"
+msgstr "星宿增六"
+
+msgid "Star Added VII"
+msgstr "星宿增七"
+
+msgid "Star Added VIII"
+msgstr "星宿增八"
+
+msgid "Star Added IX"
+msgstr "星宿增九"
+
+msgid "Star Added X"
+msgstr "星宿增十"
+
+msgid "Star Added XI"
+msgstr "星宿增十一"
+
+msgid "Star Added XII"
+msgstr "星宿增十二"
+
+msgid "Star Added XIII"
+msgstr "星宿增十三"
+
+msgid "Star Added XV"
+msgstr "星宿增十四"
+
+msgid "Celestial Premier I"
+msgstr "天相一"
+
+msgid "Celestial Premier III"
+msgstr "天相三"
+
+msgid "Celestial Premier Added I"
+msgstr "天相增一"
+
+msgid "Celestial Premier Added II"
+msgstr "天相增二"
+
+msgid "Celestial Premier Added III"
+msgstr "天相增三"
+
+msgid "Celestial Premier Added IV"
+msgstr "天相增四"
+
+msgid "Celestial Premier Added V"
+msgstr "天相增五"
+
+msgid "Celestial Premier Added VI"
+msgstr "天相增六"
+
+msgid "Celestial Premier Added VIII"
+msgstr "天相增八"
+
+msgid "Celestial Premier Added IX"
+msgstr "天相增九"
+
+msgid "Celestial Premier Added X"
+msgstr "天相增十"
+
+msgid "Celestial Premier Added XI"
+msgstr "天相增十一"
+
+msgid "Celestial Premier Added XII"
+msgstr "天相增十二"
+
+msgid "Xuanyuan I"
+msgstr "軒轅一"
+
+msgid "Xuanyuan II"
+msgstr "軒轅二"
+
+msgid "Xuanyuan III"
+msgstr "軒轅三"
+
+msgid "Xuanyuan IV"
+msgstr "軒轅四"
+
+msgid "Xuanyuan V"
+msgstr "軒轅五"
+
+msgid "Xuanyuan VI"
+msgstr "軒轅六"
+
+msgid "Xuanyuan VII"
+msgstr "軒轅七"
+
+msgid "Xuanyuan VIII"
+msgstr "軒轅八"
+
+msgid "Xuanyuan IX"
+msgstr "軒轅九"
+
+msgid "Xuanyuan X"
+msgstr "軒轅十"
+
+msgid "Xuanyuan XI"
+msgstr "軒轅十一"
+
+msgid "Xuanyuan XII"
+msgstr "軒轅十二"
+
+msgid "Xuanyuan XIII"
+msgstr "軒轅十三"
+
+msgid "Xuanyuan XIV"
+msgstr "軒轅十四"
+
+msgid "Xuanyuan XV"
+msgstr "軒轅十五"
+
+msgid "Xuanyuan XVI"
+msgstr "軒轅十六"
+
+msgid "Xuanyuan XVII"
+msgstr "軒轅十七"
+
+msgid "Xuanyuan Added I"
+msgstr "軒轅增一"
+
+msgid "Xuanyuan Added II"
+msgstr "軒轅增二"
+
+msgid "Xuanyuan Added III"
+msgstr "軒轅增三"
+
+msgid "Xuanyuan Added IV"
+msgstr "軒轅增四"
+
+msgid "Xuanyuan Added V"
+msgstr "軒轅增五"
+
+msgid "Xuanyuan Added VI"
+msgstr "軒轅增六"
+
+msgid "Xuanyuan Added VII"
+msgstr "軒轅增七"
+
+msgid "Xuanyuan Added VIII"
+msgstr "軒轅增八"
+
+msgid "Xuanyuan Added IX"
+msgstr "軒轅增九"
+
+msgid "Xuanyuan Added X"
+msgstr "軒轅增十"
+
+msgid "Xuanyuan Added XI"
+msgstr "軒轅增十一"
+
+msgid "Xuanyuan Added XII"
+msgstr "軒轅增十二"
+
+msgid "Xuanyuan Added XIII"
+msgstr "軒轅增十三"
+
+msgid "Xuanyuan Added XIV"
+msgstr "軒轅增十四"
+
+msgid "Xuanyuan Added XV"
+msgstr "軒轅增十五"
+
+msgid "Xuanyuan Added XVI"
+msgstr "軒轅增十六"
+
+msgid "Xuanyuan Added XVII"
+msgstr "軒轅增十七"
+
+msgid "Xuanyuan Added XVIII"
+msgstr "軒轅增十八"
+
+msgid "Xuanyuan Added XIX"
+msgstr "軒轅增十九"
+
+msgid "Xuanyuan Added XX"
+msgstr "軒轅增廿"
+
+msgid "Xuanyuan Added XXI"
+msgstr "軒轅增廿一"
+
+msgid "Xuanyuan Added XXII"
+msgstr "軒轅增廿二"
+
+msgid "Xuanyuan Added XXIII"
+msgstr "軒轅增廿三"
+
+msgid "Xuanyuan Added XXIV"
+msgstr "軒轅增廿四"
+
+msgid "Xuanyuan Added XXV"
+msgstr "軒轅增廿五"
+
+msgid "Xuanyuan Added XXVI"
+msgstr "軒轅增廿六"
+
+msgid "Xuanyuan Added XXVII"
+msgstr "軒轅增廿七"
+
+msgid "Xuanyuan Added XXVIII"
+msgstr "軒轅增廿八"
+
+msgid "Xuanyuan Added XXIX"
+msgstr "軒轅增廿九"
+
+msgid "Xuanyuan Added XXX"
+msgstr "軒轅增卅"
+
+msgid "Xuanyuan Added XXXI"
+msgstr "軒轅增卅一"
+
+msgid "Xuanyuan Added XXXII"
+msgstr "軒轅增卅二"
+
+msgid "Xuanyuan Added XXXIII"
+msgstr "軒轅增卅三"
+
+msgid "Xuanyuan Added XXXIV"
+msgstr "軒轅增卅四"
+
+msgid "Xuanyuan Added XXXV"
+msgstr "軒轅增卅五"
+
+msgid "Xuanyuan Added XXXVI"
+msgstr "軒轅增卅六"
+
+msgid "Xuanyuan Added XXXVII"
+msgstr "軒轅增卅七"
+
+msgid "Xuanyuan Added XXXVIII"
+msgstr "軒轅增卅八"
+
+msgid "Xuanyuan Added XXXIX"
+msgstr "軒轅增卅九"
+
+msgid "Xuanyuan Added XL"
+msgstr "軒轅增四十"
+
+msgid "Xuanyuan Added XLII"
+msgstr "軒轅增四二"
+
+msgid "Xuanyuan Added XLIII"
+msgstr "軒轅增四三"
+
+msgid "Xuanyuan Added XLIV"
+msgstr "軒轅增四四"
+
+msgid "Xuanyuan Added XLV"
+msgstr "軒轅增四五"
+
+msgid "Xuanyuan Added XLVI"
+msgstr "軒轅增四六"
+
+msgid "Xuanyuan Added XLVII"
+msgstr "軒轅增四七"
+
+msgid "Xuanyuan Added XLVIII"
+msgstr "軒轅增四八"
+
+msgid "Xuanyuan Added XLIX"
+msgstr "軒轅增四九"
+
+msgid "Xuanyuan Added L"
+msgstr "軒轅增五十"
+
+msgid "Xuanyuan Added LI"
+msgstr "軒轅增五一"
+
+msgid "Xuanyuan Added LII"
+msgstr "軒轅增五二"
+
+msgid "Xuanyuan Added LIII"
+msgstr "軒轅增五三"
+
+msgid "Xuanyuan Added LIV"
+msgstr "軒轅增五四"
+
+msgid "Xuanyuan Added LV"
+msgstr "軒轅增五五"
+
+msgid "Xuanyuan Added LVI"
+msgstr "軒轅增五六"
+
+msgid "Xuanyuan Added LVII"
+msgstr "軒轅增五七"
+
+msgid "Xuanyuan Added LVIII"
+msgstr "軒轅增五八"
+
+msgid "Xuanyuan Added LIX"
+msgstr "軒轅增五九"
+
+msgid "High Judge I"
+msgstr "內平一"
+
+msgid "High Judge II"
+msgstr "內平二"
+
+msgid "High Judge III"
+msgstr "內平三"
+
+msgid "High Judge IV"
+msgstr "內平四"
+
+msgid "High Judge Added I"
+msgstr "內平增一"
+
+msgid "High Judge Added II"
+msgstr "內平增二"
+
+msgid "High Judge Added III"
+msgstr "內平增三"
+
+msgid "High Judge Added IV"
+msgstr "內平增四"
+
+msgid "High Judge Added V"
+msgstr "內平增五"
+
+msgid "High Judge Added VI"
+msgstr "內平增六"
+
+msgid "High Judge Added VII"
+msgstr "內平增七"
+
+msgid "High Judge Added VIII"
+msgstr "內平增八"
+
+msgid "High Judge Added IX"
+msgstr "內平增九"
+
+msgid "High Judge Added X"
+msgstr "內平增十"
+
+msgid "High Judge Added XI"
+msgstr "內平增十一"
+
+msgid "Extended Net I"
+msgstr "張宿一"
+
+msgid "Extended Net II"
+msgstr "張宿二"
+
+msgid "Extended Net III"
+msgstr "張宿三"
+
+msgid "Extended Net IV"
+msgstr "張宿四"
+
+msgid "Extended Net V"
+msgstr "張宿五"
+
+msgid "Extended Net VI"
+msgstr "張宿六"
+
+msgid "Extended Net Added I"
+msgstr "張宿增一"
+
+msgid "Extended Net Added II"
+msgstr "張宿增二"
+
+msgid "Extended Net Added III"
+msgstr "張宿增三"
+
+msgid "Extended Net Added IV"
+msgstr "張宿增四"
+
+msgid "Extended Net Added V"
+msgstr "張宿增五"
+
+msgid "Wings I"
+msgstr "翼宿一"
+
+msgid "Wings II"
+msgstr "翼宿二"
+
+msgid "Wings III"
+msgstr "翼宿三"
+
+msgid "Wings IV"
+msgstr "翼宿四"
+
+msgid "Wings V"
+msgstr "翼宿五"
+
+msgid "Wings VI"
+msgstr "翼宿六"
+
+msgid "Wings VII"
+msgstr "翼宿七"
+
+msgid "Wings VIII"
+msgstr "翼宿八"
+
+msgid "Wings IX"
+msgstr "翼宿九"
+
+msgid "Wings X"
+msgstr "翼宿十"
+
+msgid "Wings XI?"
+msgstr "翼宿十一 ?"
+
+msgid "Wings XII"
+msgstr "翼宿十二"
+
+msgid "Wings XIII"
+msgstr "翼宿十三"
+
+msgid "Wings XIV"
+msgstr "翼宿十四"
+
+msgid "Wings XVI"
+msgstr "翼宿十六"
+
+msgid "Wings XVII?"
+msgstr "翼宿十七 ?"
+
+msgid "Wings XX"
+msgstr "翼宿廿"
+
+msgid "Wings XXI?"
+msgstr "翼宿廿一 ?"
+
+msgid "Wings Added I"
+msgstr "翼宿增一"
+
+msgid "Wings Added II"
+msgstr "翼宿增二"
+
+msgid "Wings Added III"
+msgstr "翼宿增三"
+
+msgid "Wings Added IV"
+msgstr "翼宿增四"
+
+msgid "Wings Added V"
+msgstr "翼宿增五"
+
+msgid "Wings Added VI"
+msgstr "翼宿增六"
+
+msgid "Wings Added VII"
+msgstr "翼宿增七"
+
+msgid "Chariot I"
+msgstr "軫宿一"
+
+msgid "Chariot II"
+msgstr "軫宿二"
+
+msgid "Chariot III"
+msgstr "軫宿三"
+
+msgid "Chariot IV"
+msgstr "軫宿四"
+
+msgid "Chariot Added I"
+msgstr "軫宿增一"
+
+msgid "Chariot Added II"
+msgstr "軫宿增二"
+
+msgid "Chariot Added III"
+msgstr "軫宿增三"
+
+msgid "Chariot Added IV"
+msgstr "軫宿增四"
+
+msgid "Chariot Added V"
+msgstr "軫宿增五"
+
+msgid "Right linchpin"
+msgstr "右轄"
+
+msgid "Left linchpin"
+msgstr "左轄"
+
+msgid "Changsha"
+msgstr "長沙"
+
+msgid "Green Hill I"
+msgstr "青邱一"
+
+msgid "Green Hill II"
+msgstr "青邱二"
+
+msgid "Green Hill III"
+msgstr "青邱三"
+
+msgid "Green Hill IV"
+msgstr "青邱四"
+
+msgid "Green Hill V"
+msgstr "青邱五"
+
+msgid "Green Hill VI"
+msgstr "青邱六"
+
+msgid "Green Hill VII"
+msgstr "青邱七"
+
+msgid "Green Hill Added I"
+msgstr "青邱增一"
+
+msgid "Green Hill Added II"
+msgstr "青邱增二"
+
+msgid "Green Hill Added III*"
+msgstr "青邱增三*"
+
+msgid "Sea and Mountain I"
+msgstr "海山一"
+
+msgid "Sea and Mountain IV*"
+msgstr "海山四*"
+
+msgid "Sea and Mountain V"
+msgstr "海山五"
+
+msgid "Sea and Mountain VI"
+msgstr "海山六"
+
+msgid "Sea and Mountain Added I"
+msgstr "海山增一"
+
+msgid "Sea and Mountain Added II"
+msgstr "海山增二"
+
+msgid "Cross I"
+msgstr "十字架一"
+
+msgid "Cross II"
+msgstr "十字架二"
+
+msgid "Cross III"
+msgstr "十字架三"
+
+msgid "Cross IV"
+msgstr "十字架四"
+
+msgid "Horse's Tail I"
+msgstr "馬尾一"
+
+msgid "Horse's Tail II"
+msgstr "馬尾二"
+
+msgid "Horse's Tail III"
+msgstr "馬尾三"
+
+msgid "Horse's Abdomen I"
+msgstr "馬腹一"
+
+msgid "Horse's Abdomen II?"
+msgstr "馬腹二 ?"
+
+msgid "Bee I"
+msgstr "蜜蜂一"
+
+msgid "Bee II*"
+msgstr "蜜蜂二"
+
+msgid "Bee III"
+msgstr "蜜蜂三"
+
+msgid "Bee IV*"
+msgstr "蜜蜂四"
+
+msgid "Triangle I"
+msgstr "三角形一"
+
+msgid "Triangle II"
+msgstr "三角形二"
+
+msgid "Triangle III"
+msgstr "三角形三"
+
+msgid "Triangle Added I"
+msgstr "三角形增一"
+
+msgid "Triangle Added II"
+msgstr "三角形增二"
+
+msgid "Triangle Added III"
+msgstr "三角形增三"
+
+msgid "Triangle Added IV"
+msgstr "三角形增四"
+
+msgid "Exotic Bird I"
+msgstr "異雀一"
+
+msgid "Exotic Bird II"
+msgstr "異雀二"
+
+msgid "Exotic Bird III"
+msgstr "異雀三"
+
+msgid "Exotic Bird IV"
+msgstr "異雀四"
+
+msgid "Exotic Bird V"
+msgstr "異雀五"
+
+msgid "Exotic Bird VI"
+msgstr "異雀六"
+
+msgid "Exotic Bird VII"
+msgstr "異雀七"
+
+msgid "Exotic Bird VIII"
+msgstr "異雀八"
+
+msgid "Exotic Bird IX"
+msgstr "異雀九"
+
+msgid "Peafowl I"
+msgstr "孔雀一"
+
+msgid "Peafowl II"
+msgstr "孔雀二"
+
+msgid "Peafowl III"
+msgstr "孔雀三"
+
+msgid "Peafowl IV"
+msgstr "孔雀四"
+
+msgid "Peafowl V"
+msgstr "孔雀五"
+
+msgid "Peafowl VI"
+msgstr "孔雀六"
+
+msgid "Peafowl VII"
+msgstr "孔雀七"
+
+msgid "Peafowl VIII"
+msgstr "孔雀八"
+
+msgid "Peafowl IX"
+msgstr "孔雀九"
+
+msgid "Peafowl X"
+msgstr "孔雀十"
+
+msgid "Peafowl XI"
+msgstr "孔雀十一"
+
+msgid "Peafowl Added I"
+msgstr "孔雀增一"
+
+msgid "Peafowl Added II"
+msgstr "孔雀增二"
+
+msgid "Peafowl Added III"
+msgstr "孔雀增三"
+
+msgid "Peafowl Added IV"
+msgstr "孔雀增四"
+
+msgid "Persia I?"
+msgstr "波斯一 ?"
+
+msgid "Persia II"
+msgstr "波斯二"
+
+msgid "Persia IV*"
+msgstr "波斯四 ?"
+
+msgid "Persia VI?"
+msgstr "波斯六 ?"
+
+msgid "Persia VII*"
+msgstr "波斯七 ?"
+
+msgid "Persia IX?"
+msgstr "波斯九 ?"
+
+msgid "Persia XI*"
+msgstr "波斯十一 ?"
+
+msgid "Snake's Tail I"
+msgstr "蛇尾一"
+
+msgid "Snake's Tail II"
+msgstr "蛇尾二"
+
+msgid "Snake's Tail III"
+msgstr "蛇尾三"
+
+msgid "Snake's Tail IV"
+msgstr "蛇尾四"
+
+msgid "Snake's Abdomen I"
+msgstr "蛇腹一"
+
+msgid "Snake's Abdomen II"
+msgstr "蛇腹二"
+
+msgid "Snake's Abdomen III"
+msgstr "蛇腹三"
+
+msgid "Snake's Abdomen IV"
+msgstr "蛇腹四"
+
+msgid "Snake's Head I"
+msgstr "蛇首一"
+
+msgid "Snake's Head II"
+msgstr "蛇首二"
+
+msgid "Bird's Beak I"
+msgstr "鳥喙一"
+
+msgid "Bird's Beak II"
+msgstr "鳥喙二"
+
+msgid "Bird's Beak III"
+msgstr "鳥喙三"
+
+msgid "Bird's Beak IV"
+msgstr "鳥喙四"
+
+msgid "Bird's Beak V"
+msgstr "鳥喙五"
+
+msgid "Bird's Beak VI"
+msgstr "鳥喙六"
+
+msgid "Bird's Beak VII"
+msgstr "鳥喙七"
+
+msgid "Bird's Beak Added I"
+msgstr "鳥喙增一"
+
+msgid "Crane I"
+msgstr "鶴一"
+
+msgid "Crane II"
+msgstr "鶴二"
+
+msgid "Crane III"
+msgstr "鶴三"
+
+msgid "Crane IV"
+msgstr "鶴四"
+
+msgid "Crane V"
+msgstr "鶴五"
+
+msgid "Crane VI"
+msgstr "鶴六"
+
+msgid "Crane VII"
+msgstr "鶴七"
+
+msgid "Crane VIII"
+msgstr "鶴八"
+
+msgid "Crane IX"
+msgstr "鶴九"
+
+msgid "Crane X"
+msgstr "鶴十"
+
+msgid "Crane XI"
+msgstr "鶴十一"
+
+msgid "Crane XII"
+msgstr "鶴十二"
+
+msgid "Crane Added I"
+msgstr "鶴增一"
+
+msgid "Crane Added II"
+msgstr "鶴增二"
+
+msgid "Firebird I"
+msgstr "火鳥一"
+
+msgid "Firebird II"
+msgstr "火鳥二"
+
+msgid "Firebird III"
+msgstr "火鳥三"
+
+msgid "Firebird IV"
+msgstr "火鳥四"
+
+msgid "Firebird V"
+msgstr "火鳥五"
+
+msgid "Firebird VI"
+msgstr "火鳥六"
+
+msgid "Firebird VII"
+msgstr "火鳥七"
+
+msgid "Firebird VIII"
+msgstr "火鳥八"
+
+msgid "Firebird IX"
+msgstr "火鳥九"
+
+msgid "Firebird X"
+msgstr "火鳥十"
+
+msgid "Firebird Added I"
+msgstr "火鳥增一"
+
+msgid "Crooked Running Water I"
+msgstr "水委一"
+
+msgid "Crooked Running Water II"
+msgstr "水委二"
+
+msgid "Crooked Running Water III"
+msgstr "水委三"
+
+msgid "White Patched Nearby I"
+msgstr "附白一"
+
+msgid "White Patched Nearby II"
+msgstr "附白二"
+
+msgid "White Patches Attached I"
+msgstr "夾白一"
+
+msgid "White Patches Attached II"
+msgstr "夾白二"
+
+msgid "Goldfish I"
+msgstr "金魚一"
+
+msgid "Goldfish II"
+msgstr "金魚二"
+
+msgid "Goldfish III"
+msgstr "金魚三"
+
+msgid "Goldfish IV"
+msgstr "金魚四"
+
+msgid "Goldfish V"
+msgstr "金魚五"
+
+msgid "Goldfish Added I"
+msgstr "金魚增一"
+
+msgid "Sea Rock I"
+msgstr "海石一"
+
+msgid "Sea Rock II"
+msgstr "海石二"
+
+msgid "Sea Rock III"
+msgstr "海石三"
+
+msgid "Sea Rock IV"
+msgstr "海石四"
+
+msgid "Sea Rock V"
+msgstr "海石五"
+
+msgid "Sea Rock Added I"
+msgstr "海石增一"
+
+msgid "Sea Rock Added II"
+msgstr "海石增二"
+
+msgid "Sea Rock Added III"
+msgstr "海石增三"
+
+msgid "Flying Fish I"
+msgstr "飛魚一"
+
+msgid "Flying Fish II"
+msgstr "飛魚二"
+
+msgid "Flying Fish III"
+msgstr "飛魚三"
+
+msgid "Flying Fish IV"
+msgstr "飛魚四"
+
+msgid "Flying Fish V"
+msgstr "飛魚五"
+
+msgid "Flying Fish VI"
+msgstr "飛魚六"
+
+msgid "Southern Boat I"
+msgstr "南船一"
+
+msgid "Southern Boat II"
+msgstr "南船二"
+
+msgid "Southern Boat III"
+msgstr "南船三"
+
+msgid "Southern Boat IV"
+msgstr "南船四"
+
+msgid "Southern Boat V"
+msgstr "南船五"
+
+msgid "Southern Boat Added I"
+msgstr "南船增一"
+
+msgid "Little Dipper I"
+msgstr "小斗一"
+
+msgid "Little Dipper II"
+msgstr "小斗二"
+
+msgid "Little Dipper III"
+msgstr "小斗三"
+
+msgid "Little Dipper IV"
+msgstr "小斗四"
+
+msgid "Little Dipper V"
+msgstr "小斗五"
+
+msgid "Little Dipper VI"
+msgstr "小斗六"
+
+msgid "Little Dipper VII"
+msgstr "小斗七"
+
+msgid "Little Dipper VIII"
+msgstr "小斗八"
+
+msgid "Little Dipper IX"
+msgstr "小斗九"
+
+msgid "Little Dipper Added I"
+msgstr "小斗增一"
+
+msgid "Sculptor"
+msgstr "玉夫座"
+
+msgid "Pyxis"
+msgstr "羅盤座"
+
+msgid "Caelum"
+msgstr "雕具座"
+
+msgid "Chamaeleon"
+msgstr "蝘蜓座"
+
+msgid "Carina"
+msgstr "船底座"
+
+msgid "Coma Berenices"
+msgstr "后髮座"
+
+msgid "Canes Venatici"
+msgstr "獵犬座"
+
+msgid "Columba"
+msgstr "天鴿座"
+
+msgid "Circinus"
+msgstr "圓規座"
+
+msgid "Crux"
+msgstr "南十字座"
+
+msgid "Dorado"
+msgstr "劍魚座"
+
+msgid "Norma"
+msgstr "矩尺座"
+
+msgid "Fornax"
+msgstr "天爐座"
+
+msgid "Camelopardalis"
+msgstr "鹿豹座"
+
+msgid "Grus"
+msgstr "Grus (天鶴座)"
+
+msgid "Horologium"
+msgstr "時鐘座"
+
+msgid "Hydrus"
+msgstr "水蛇座"
+
+msgid "Indus"
+msgstr "印第安座"
+
+msgid "Lacerta"
+msgstr "蝎虎座"
+
+msgid "Monoceros"
+msgstr "麒麟座"
+
+msgid "Lynx"
+msgstr "天貓座"
+
+msgid "Antlia"
+msgstr "唧筒座"
+
+msgid "Microscopium"
+msgstr "顯微鏡座"
+
+msgid "Musca"
+msgstr "蒼蠅座"
+
+msgid "Octans"
+msgstr "南極座"
+
+msgid "Apus"
+msgstr "天燕座"
+
+msgid "Pavo"
+msgstr "孔雀座"
+
+msgid "Pictor"
+msgstr "繪架座"
+
+msgid "Leo Minor"
+msgstr "小獅座"
+
+msgid "Vulpecula"
+msgstr "狐狸座"
+
+msgid "Phoenix"
+msgstr "鳳凰座"
+
+msgid "Volans"
+msgstr "飛魚座"
+
+msgid "Puppis"
+msgstr "船尾座"
+
+msgid "Reticulum"
+msgstr "網罟座"
+
+msgid "Scutum"
+msgstr "盾牌座"
+
+msgid "Sextans"
+msgstr "六分儀座"
+
+msgid "Mensa"
+msgstr "山案座"
+
+msgid "Telescopium"
+msgstr "望遠鏡座"
+
+msgid "Tucana"
+msgstr "杜鵑座"
+
+msgid "Triangulum Australe"
+msgstr "南三角座"
+
+msgid "Vela"
+msgstr "船帆座"
+
+msgid "Andrews' star"
+msgstr "安德魯斯 (Andrews) 星"
+
+msgid "Luyten's Star"
+msgstr "Luyten 星"
+
+msgid "Innes' Star"
+msgstr "Innes 星"
+
+msgid "Proxima"
+msgstr "比鄰星 (Proxima)"
+
+msgid "Przybylski's Star"
+msgstr "Przybylski 星"
+
+msgid "Blaze Star"
+msgstr "Blaze 星"
+
+msgid "Campbell's Star"
+msgstr "Campbell 星"
+
+msgid "Babcock's Star"
+msgstr "Babcock 星"
+
+msgid "Hind's Crimson Star"
+msgstr "Hind 深紅星"
+
+msgid "Plaskett's Star"
+msgstr "Plaskett 星"
+
+msgid "Red Rectangle"
+msgstr "紅矩形"
+
+msgid "Polaris Australis"
+msgstr "南極 (Polaris Australis)"
+
+msgid "Barnard's Star"
+msgstr "巴納德 (Barnard) 星"
+
+msgid "Kapteyn's Star"
+msgstr "Kapteyn 星"
+
+msgid "van Maanen's Star"
+msgstr "van Maanen 星"
+
+msgid "Vanant"
+msgstr "Vanant"
+
+msgid "The Ruby Star"
+msgstr "紅寶石星"
+
+msgid "Lalande 21185"
+msgstr "拉蘭德 (Lalande) 21185"
