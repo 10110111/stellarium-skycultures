@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Catalan (Valencian) (https://app.transifex.com/stellarium/"
+"teams/80998/ca@valencia/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca@valencia\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Macedonian"
+msgstr ""
+
+msgid "Libra"
+msgstr "Balança"
+
+msgid "Plough"
+msgstr "Aladre"
+
+msgid "Fox"
+msgstr "Rabosa"
+
+msgid "Yoke"
+msgstr "Jou"
+
+msgid "Cross"
+msgstr "Creu"
+
+msgid "Ploughman"
+msgstr "Llaurador"
+
+msgid "'Aramii' (organized group of thieves)"
+msgstr "'Aramii' (grup organitzat de lladres)"
+
+msgid "Mother Hen"
+msgstr "Mare gallina"
+
+msgid "Oxen"
+msgstr "Bous"
+
+msgid "Wolves"
+msgstr "Llops"
+
+msgid "Threshing Floor"
+msgstr "Era de batre"
+
+msgid "Hawk"
+msgstr "Falcó"
+
+msgid "Tongs"
+msgstr "Pinces"
+
+msgid "Cock"
+msgstr "Gall"
+
+msgid "Trivet"
+msgstr "Trespeus"
+
+msgid "Round Table"
+msgstr "Taula Redona"
+
+msgid "Pigs"
+msgstr "Porcs"
+
+msgid "Auger"
+msgstr "Barrina"
+
+msgid "Part of Plough 'Ushi'"
+msgstr "Part de l'aladre 'Ushi'"
+
+msgid "Mediterranean star"
+msgstr "estrela mediterrània"

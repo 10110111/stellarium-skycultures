@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Vietnamese (https://app.transifex.com/stellarium/teams/80998/"
+"vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Macedonian"
+msgstr ""
+
+msgid "Libra"
+msgstr "Thiên Bình"
+
+msgid "Plough"
+msgstr "Cái Cày"
+
+msgid "Fox"
+msgstr "Con Cáo"
+
+msgid "Yoke"
+msgstr "Sữa Chua"
+
+msgid "Cross"
+msgstr "Chữ Thập"
+
+msgid "Ploughman"
+msgstr "Thợ Cày"
+
+msgid "'Aramii' (organized group of thieves)"
+msgstr ""
+
+msgid "Mother Hen"
+msgstr "Gà Mái Mẹ"
+
+msgid "Oxen"
+msgstr ""
+
+msgid "Wolves"
+msgstr "Chó Sói"
+
+msgid "Threshing Floor"
+msgstr ""
+
+msgid "Hawk"
+msgstr "Chim Ưng"
+
+msgid "Tongs"
+msgstr "Cái Kẹp"
+
+msgid "Cock"
+msgstr "Gà Trống"
+
+msgid "Trivet"
+msgstr "Kiềng Ba Chân"
+
+msgid "Round Table"
+msgstr "Bàn Tròn"
+
+msgid "Pigs"
+msgstr "Những Con Lợn"
+
+msgid "Auger"
+msgstr "Mũi Khoan"
+
+msgid "Part of Plough 'Ushi'"
+msgstr ""
+
+msgid "Mediterranean star"
+msgstr ""

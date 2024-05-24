@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Hungarian (https://app.transifex.com/stellarium/teams/80998/"
+"hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Macedonian"
+msgstr ""
+
+msgid "Libra"
+msgstr "Mérleg"
+
+msgid "Plough"
+msgstr "Szántás"
+
+msgid "Fox"
+msgstr "Róka"
+
+msgid "Yoke"
+msgstr "Iga"
+
+msgid "Cross"
+msgstr "Kereszt"
+
+msgid "Ploughman"
+msgstr "Szántóvető"
+
+msgid "'Aramii' (organized group of thieves)"
+msgstr "'Aramii' (tolvajbanda)"
+
+msgid "Mother Hen"
+msgstr "Tyúkanyó"
+
+msgid "Oxen"
+msgstr "Ökör"
+
+msgid "Wolves"
+msgstr "Farkasok"
+
+msgid "Threshing Floor"
+msgstr ""
+
+msgid "Hawk"
+msgstr "Sólyom"
+
+msgid "Tongs"
+msgstr "Fogó"
+
+msgid "Cock"
+msgstr "Kakas"
+
+msgid "Trivet"
+msgstr "Trivet"
+
+msgid "Round Table"
+msgstr "Kerek asztal"
+
+msgid "Pigs"
+msgstr "Disznók"
+
+msgid "Auger"
+msgstr "Fúró"
+
+msgid "Part of Plough 'Ushi'"
+msgstr ""
+
+msgid "Mediterranean star"
+msgstr "Mediterrán csillag"

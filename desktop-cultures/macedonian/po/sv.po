@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Karl Birgersson <birgerssonkarl@outlook.com>, 2022\n"
+"Language-Team: Swedish (https://app.transifex.com/stellarium/teams/80998/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Macedonian"
+msgstr "Makedonisk"
+
+msgid "Libra"
+msgstr "Vågen"
+
+msgid "Plough"
+msgstr "Plog"
+
+msgid "Fox"
+msgstr "Räv"
+
+msgid "Yoke"
+msgstr "Ok"
+
+msgid "Cross"
+msgstr "Kors"
+
+msgid "Ploughman"
+msgstr "Plöjare"
+
+msgid "'Aramii' (organized group of thieves)"
+msgstr "'Aramii' (organiserad grupp av tjuvar)"
+
+msgid "Mother Hen"
+msgstr "Moderhöna"
+
+msgid "Oxen"
+msgstr "Oxe"
+
+msgid "Wolves"
+msgstr "Vargar"
+
+msgid "Threshing Floor"
+msgstr "Trösklada"
+
+msgid "Hawk"
+msgstr "Hök"
+
+msgid "Tongs"
+msgstr "Griptång"
+
+msgid "Cock"
+msgstr "Tupp"
+
+msgid "Trivet"
+msgstr "Eldgaffel"
+
+msgid "Round Table"
+msgstr "Runt bord"
+
+msgid "Pigs"
+msgstr "Grisar"
+
+msgid "Auger"
+msgstr "Borr"
+
+msgid "Part of Plough 'Ushi'"
+msgstr "Del av plogen 'Ushi'"
+
+msgid "Mediterranean star"
+msgstr "Medelhavsstjärnan"
