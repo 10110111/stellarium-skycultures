@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>, 2024\n"
+"Language-Team: Ukrainian (https://app.transifex.com/stellarium/teams/80998/"
+"uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+# Sky culture name
+msgid "Maori"
+msgstr "Маорійська"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Maori (New Zealand) night sky is similar to the Polynesian night sky. "
+"But it differs enough to warrant it's own sky culture. Maritime themes are "
+"central to the Maori sky culture and were used extensively in nautical "
+"navigation. Along with most other cultures, the rising and setting of "
+"prominent stars were used to signal planting and harvesting seasons."
+msgstr ""
+"Маорійська (новозеландська) картина зоряного неба подібна до полінезійської, "
+"але відрізняється від неї достатньо, щоб вважати її самостійною. Аспекти "
+"пов’язані з морем є основним у картині зоряного неба. Знання з розташування "
+"зірок широко використовувалися для навігації. Як і у більшості інших "
+"культур, час заходу та сходження яскравих зірок позначав початок сезонів "
+"посіву та збирання врожаю."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Maori sky culture on Stellarium Wiki](http://www.stellarium.org/"
+"wiki/index.php/Sky_cultures#Maori_.28New_Zealand.29): a more complete "
+"version of this text.\n"
+" - [#2]: [The Phoenix Astronomical Society](http://www.astronomynz.org/): a "
+"very good website on Maori sky culture (Wairarapa, New Zealand)."
+msgstr ""
+" - [#1]: [Маорійська картина неба у вікі Stellarium](http://www.stellarium."
+"org/wiki/index.php/Sky_cultures#Maori_.28New_Zealand.29): повніша версія "
+"цього опису.\n"
+" - [#2]: [The Phoenix Astronomical Society](http://www.astronomynz.org/): "
+"чудова інтернет-сторінка щодо маорійської картини неба (Вайрарапа, Нова "
+"Зеландія)."
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *Dan Smale*, "
+"smaledaniel(at)outlook.com"
+msgstr ""
+"Записи цієї картини зоряного неба було створено користувачем Stellarium *Dan "
+"Smale*, smaledaniel(at)outlook.com"
+
+#. TRANSLATORS: Anutan Name
+msgid "Matariki"
+msgstr "Матарікі"
+
+msgid "Taki-o-Autahi"
+msgstr "Такі-о-аутахі"
+
+msgid "Te Taura-o-te-waka-o-tamarereti"
+msgstr "Те Таура-о-те-вака-о-тамаререті"
+
+msgid "Tau-toro"
+msgstr "Тау-торо"
+
+msgid "The Great Boat of Tama Rereti"
+msgstr "Великий човен Тама Ререті"
+
+msgid "Matakarehu"
+msgstr "Матакареху"
+
+msgid "The Sail of Tainui"
+msgstr "Плавання Таїнуї"
+
+msgid "Waipunarangi"
+msgstr "Вайпунарангі"
+
+msgid "Taumata-kuku"
+msgstr "Таумата-куку"
+
+msgid "Puanga"
+msgstr "Пуанга"
+
+msgid "Atutahi"
+msgstr "Атутахі"
+
+msgid "Takarua"
+msgstr "Такаруа"
+
+msgid "Whakaahu"
+msgstr "Вакааху"
+
+msgid "Puanga Hori"
+msgstr "Пуанга-Хорі"
+
+msgid "Mariao"
+msgstr "Маріао"
+
+msgid "Ruawahia"
+msgstr "Руавайя"
+
+msgid "Rehua"
+msgstr "Рехуа"
+
+msgid "Pekehawani"
+msgstr "Пекехавані"
+
+msgid "Whakaonge-kai"
+msgstr "Вакаонге-каї"
+
+msgid "Whanui"
+msgstr "Вануї"
+
+msgid "Poutu-te-Rangi"
+msgstr "Поуту-те-Рангі"
+
+msgid "Pipiri"
+msgstr "Піпірі"
+
+msgid "Turu"
+msgstr "Туру"
+
+msgid "Waiti"
+msgstr "Ваїті"
+
+msgid "Waita"
+msgstr "Ваїта"
+
+msgid "Tupuarangi"
+msgstr "Тупуарангі"
+
+msgid "Pohutukawa"
+msgstr "Похутукава"
+
+msgid "Hiwa-i-te-rangi"
+msgstr "Хіва-і-те-рангі"
+
+msgid "Tupuanuku"
+msgstr "Тупуануку"
+
+msgid "Ururangi"
+msgstr "Урурангі"
+
+#. TRANSLATORS: Native name of the Sun in Maori culture
+msgid "Te Ra"
+msgstr "Те-Ра"
+
+#. TRANSLATORS: Native name of the Moon in Maori culture
+msgid "Te Marama"
+msgstr "Те-Марама"
+
+#. TRANSLATORS: Native name of Mercury in Maori culture
+msgid "Takero"
+msgstr "Такеро"
+
+#. TRANSLATORS: Native name of Venus in Maori culture
+msgid "Tawera/Meremere"
+msgstr "Тавера/Меремере"
+
+#. TRANSLATORS: Native name of Earth in Maori culture
+msgid "Papa"
+msgstr "Папа"
+
+#. TRANSLATORS: Native name of Mars in Maori culture
+msgid "Rangiwhenua"
+msgstr "Рангівенуа"
+
+#. TRANSLATORS: Native name of Jupiter in Maori culture
+msgid "Perearau"
+msgstr "Переарау"
+
+#. TRANSLATORS: Native name of Saturn in Maori culture
+msgid "Perearau*"
+msgstr "Переарау*"
