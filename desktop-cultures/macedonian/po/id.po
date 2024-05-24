@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Indonesian (https://app.transifex.com/stellarium/teams/80998/"
+"id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Macedonian"
+msgstr "Makedonia"
+
+msgid "Libra"
+msgstr "Libra"
+
+msgid "Plough"
+msgstr ""
+
+msgid "Fox"
+msgstr ""
+
+msgid "Yoke"
+msgstr ""
+
+msgid "Cross"
+msgstr ""
+
+msgid "Ploughman"
+msgstr ""
+
+msgid "'Aramii' (organized group of thieves)"
+msgstr ""
+
+msgid "Mother Hen"
+msgstr ""
+
+msgid "Oxen"
+msgstr ""
+
+msgid "Wolves"
+msgstr ""
+
+msgid "Threshing Floor"
+msgstr ""
+
+msgid "Hawk"
+msgstr ""
+
+msgid "Tongs"
+msgstr ""
+
+msgid "Cock"
+msgstr ""
+
+msgid "Trivet"
+msgstr ""
+
+msgid "Round Table"
+msgstr ""
+
+msgid "Pigs"
+msgstr ""
+
+msgid "Auger"
+msgstr ""
+
+msgid "Part of Plough 'Ushi'"
+msgstr ""
+
+msgid "Mediterranean star"
+msgstr ""

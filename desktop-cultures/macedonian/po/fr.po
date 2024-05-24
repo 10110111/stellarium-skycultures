@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2023\n"
+"Language-Team: French (https://app.transifex.com/stellarium/teams/80998/"
+"fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Macedonian"
+msgstr "Macédonienne"
+
+msgid "Libra"
+msgstr "Libra"
+
+msgid "Plough"
+msgstr "La charrue"
+
+msgid "Fox"
+msgstr "Le renard"
+
+msgid "Yoke"
+msgstr "Le joug"
+
+msgid "Cross"
+msgstr "Croix"
+
+msgid "Ploughman"
+msgstr "Bouvier"
+
+msgid "'Aramii' (organized group of thieves)"
+msgstr "Aramii (la bande de voleurs)"
+
+msgid "Mother Hen"
+msgstr "La mère Hen"
+
+msgid "Oxen"
+msgstr "Les bœufs"
+
+msgid "Wolves"
+msgstr "Les loups"
+
+msgid "Threshing Floor"
+msgstr "Le plancher de battage"
+
+msgid "Hawk"
+msgstr "Le faucon"
+
+msgid "Tongs"
+msgstr "Les pinces"
+
+msgid "Cock"
+msgstr "Le coq"
+
+msgid "Trivet"
+msgstr "La grille"
+
+msgid "Round Table"
+msgstr "La table ronde"
+
+msgid "Pigs"
+msgstr "Les porcs"
+
+msgid "Auger"
+msgstr "La vrille"
+
+msgid "Part of Plough 'Ushi'"
+msgstr "La pièce de charrue (Ushi)"
+
+msgid "Mediterranean star"
+msgstr "Étoile méditerranéenne"

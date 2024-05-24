@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Georg Zotti <Georg.Zotti@univie.ac.at>, 2023\n"
+"Language-Team: German (https://app.transifex.com/stellarium/teams/80998/"
+"de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Macedonian"
+msgstr "Mazedonisch"
+
+msgid "Libra"
+msgstr "Waage"
+
+msgid "Plough"
+msgstr "Pflug"
+
+msgid "Fox"
+msgstr "Fuchs"
+
+msgid "Yoke"
+msgstr "Joch"
+
+msgid "Cross"
+msgstr "Kreuz"
+
+msgid "Ploughman"
+msgstr "Pflüger"
+
+msgid "'Aramii' (organized group of thieves)"
+msgstr "'Aramii' (Diebesbande)"
+
+msgid "Mother Hen"
+msgstr "Gluckhenne"
+
+msgid "Oxen"
+msgstr "Ochsen"
+
+msgid "Wolves"
+msgstr "Wölfe"
+
+msgid "Threshing Floor"
+msgstr "Dreschboden"
+
+msgid "Hawk"
+msgstr "Falke"
+
+msgid "Tongs"
+msgstr "Zange"
+
+msgid "Cock"
+msgstr "Hahn"
+
+msgid "Trivet"
+msgstr "Dreifuß"
+
+msgid "Round Table"
+msgstr "Runder Tisch"
+
+msgid "Pigs"
+msgstr "Schweine"
+
+msgid "Auger"
+msgstr "Bohrer"
+
+msgid "Part of Plough 'Ushi'"
+msgstr "'Ushi' (ohrförmiger Teil eines Pflugs)"
+
+msgid "Mediterranean star"
+msgstr "Mediterraner Stern"
