@@ -1,0 +1,2337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Josef S, 2023\n"
+"Language-Team: Japanese (https://app.transifex.com/stellarium/teams/80998/"
+"ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Modern (IAU)"
+msgstr ""
+
+#. TRANSLATORS: Proper name of star 14 Andromedae
+#. TRANSLATORS: https://en.wikipedia.org/wiki/14_Andromedae
+msgid "Veritate"
+msgstr "ウェリタテ(Veritate)"
+
+#. TRANSLATORS: Proper name of star 18 Delphini
+#. TRANSLATORS: https://en.wikipedia.org/wiki/18_Delphini
+msgid "Musica"
+msgstr "ムシカ(Musica)"
+
+#. TRANSLATORS: Proper name of star 42 Draconis
+#. TRANSLATORS: https://en.wikipedia.org/wiki/42_Draconis
+msgid "Fafnir"
+msgstr "ファフニール(Fafnir)"
+
+#. TRANSLATORS: Proper name of star 47 Ursae Majoris
+#. TRANSLATORS: https://en.wikipedia.org/wiki/47_Ursae_Majoris
+msgid "Chalawan"
+msgstr "チャラワン(Chalawan)"
+
+#. TRANSLATORS: Proper name of star 51 Pegasi
+#. TRANSLATORS: https://en.wikipedia.org/wiki/51_Pegasi
+msgid "Helvetios"
+msgstr "ヘルウェティオス(Helvetios)"
+
+#. TRANSLATORS: Proper name of star 55 Cancri
+#. TRANSLATORS: https://en.wikipedia.org/wiki/55_Cancri
+msgid "Copernicus"
+msgstr "コペルニクス(Copernicus)"
+
+#. TRANSLATORS: Proper name of star epsilon Eridani
+#. TRANSLATORS: https://en.wikipedia.org/wiki/Epsilon_Eridani
+msgid "Ran"
+msgstr "ラーン(Ran)"
+
+#. TRANSLATORS: Proper name of star HD 104985
+#. TRANSLATORS: https://en.wikipedia.org/wiki/HD_104985
+msgid "Tonatiuh"
+msgstr "トナティウ(Tonatiuh)"
+
+#. TRANSLATORS: Proper name of star HD 149026
+#. TRANSLATORS: https://en.wikipedia.org/wiki/HD_149026
+msgid "Ogma"
+msgstr "オグマ(Ogma)"
+
+#. TRANSLATORS: Proper name of star HD 81688
+#. TRANSLATORS: https://en.wikipedia.org/wiki/41_Lyncis
+msgid "Intercrus"
+msgstr "インテルクルス(Intercrus)"
+
+#. TRANSLATORS: Proper name of star mu Arae
+#. TRANSLATORS: https://en.wikipedia.org/wiki/Mu_Arae
+msgid "Cervantes"
+msgstr "セルバンテス(Cervantes)"
+
+#. TRANSLATORS: Proper name of star upsilon Andromedae
+#. TRANSLATORS: https://en.wikipedia.org/wiki/Upsilon_Andromedae
+msgid "Titawin"
+msgstr "ティタウィン(Titawin)"
+
+#. TRANSLATORS: Proper name of star xi Aquilae
+#. TRANSLATORS: https://en.wikipedia.org/wiki/Xi_Aquilae
+msgid "Libertas"
+msgstr "リベルタス(Libertas)"
+
+#. TRANSLATORS: Proper name of star HD 82886
+#. TRANSLATORS: Historians largely believe that the Albanians are descendants
+#. of the Illyrians, a term Albanians proudly call themselves.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Illyrian"
+msgstr "イリリアン(Illyrian)"
+
+#. TRANSLATORS: Proper name of star HD 28678
+#. TRANSLATORS: Hoggar is the name of the main mountain range in the Sahara
+#. Desert in southern Algeria.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Hoggar"
+msgstr "ホガール(Hoggar)"
+
+#. TRANSLATORS: Proper name of star HD 131496
+#. TRANSLATORS: Arcalis is a famous peak in the north of Andorra, where the
+#. Sun passes through a hole in the mountain twice a year at fixed dates. It
+#. was used as a primitive solar calendar and reference point for shepherds
+#. and early inhabitants of Andorra.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Arcalís"
+msgstr "アルカリス(Arcalis)"
+
+#. TRANSLATORS: Proper name of star HD 48265
+#. TRANSLATORS: Nosaxa means spring in the Moqoit language. The word comes
+#. from a combination of nosahuec, which means renew, and ñaaxa, which means
+#. year.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Nosaxa"
+msgstr "ノサクサ(Nosaxa)"
+
+#. TRANSLATORS: Proper name of star HD 38283
+#. TRANSLATORS: Bubup is the Boonwurrung word for child.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Bubup"
+msgstr "ブブプ(Bubup)"
+
+#. TRANSLATORS: Proper name of star HD 152581
+#. TRANSLATORS: Mahsati Ganjavi (1089–1159) is one of the brightest shining
+#. stars of Azerbaijani poetry. She was said to have associated with both Omar
+#. Khayyam and Nizami and was well educated and talented and played numerous
+#. musical instruments.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Mahsati"
+msgstr "マハサティ(Mahsati)"
+
+#. TRANSLATORS: Proper name of star HD 148427
+#. TRANSLATORS: Timir means darkness in Bengali language, alluding to the star
+#. being far away in the darkness of space.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Timir"
+msgstr "ティミル(Timir)"
+
+#. TRANSLATORS: Proper name of star HD 49674
+#. TRANSLATORS: Nervia, adapted from Nervii, was a prominent Belgian Celtic
+#. tribe.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Nervia"
+msgstr "ネルウィア(Nervia)"
+
+#. TRANSLATORS: Proper name of star HD 73534
+#. TRANSLATORS: Gakyid means happiness. Gross National Happiness is the
+#. development philosophy conceived and followed in Bhutan and is one of
+#. Bhutan's contributions to the world.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Gakyid"
+msgstr "ガキイド(Gakyid)"
+
+#. TRANSLATORS: Proper name of star HD 63765
+#. TRANSLATORS: Tapecue means eternal path in Guarani and represents the Milky
+#. Way through which the first inhabitants of the Earth arrived and could
+#. return.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Tapecue"
+msgstr "タペクエ(Tapecue)"
+
+#. TRANSLATORS: Proper name of star HD 206610
+#. TRANSLATORS: Bosona is the name given to the territory of Bosnia in the
+#. 10th century. Later, the name was transformed to Bosnia originating from
+#. the name of the Bosna river.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Bosona"
+msgstr "ボソナ(Bosona)"
+
+#. TRANSLATORS: Proper name of star HD 23079
+#. TRANSLATORS: Tupi is the name of the most populous Indigenous People living
+#. on the eastern coast of South America, before the Portuguese arrived in the
+#. 16th century.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Tupi"
+msgstr "トゥピ(Tupi)"
+
+#. TRANSLATORS: Proper name of star HD 179949
+#. TRANSLATORS: Gumala is a Malay word, which means a magic bezoar stone found
+#. in snakes, dragons, etc.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Gumala"
+msgstr "グマラ(Gumala)"
+
+#. TRANSLATORS: Proper name of star HD 30856
+#. TRANSLATORS: Mouhoun, also called Volta Noire, is the largest river in
+#. Burkina Faso and plays an important role in the lives of the people in the
+#. areas it passes through.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Mouhoun"
+msgstr "ムフン(Mouhoun)"
+
+#. TRANSLATORS: Proper name of star HD 136418
+#. TRANSLATORS: Nikawiy is the word for mother in the Indigenous Cree language
+#. of Canada.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Nikawiy"
+msgstr "ニカウィ(Nikawiy)"
+
+#. TRANSLATORS: Proper name of star HD 164604
+#. TRANSLATORS: Pincoya is a female water spirit from southern Chilean
+#. mythology who is said to bring drowned sailors to the Caleuche so that they
+#. can live in the afterlife.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Pincoya"
+msgstr "ピンコヤ(Pincoya)"
+
+#. TRANSLATORS: Proper name of star HD 212771
+#. TRANSLATORS: Lion Rock is a lion-shaped peak overlooking Hong Kong and is a
+#. cultural symbol with deep respect from the local community.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Lionrock"
+msgstr "ライオンロック(Lionrock)"
+
+#. TRANSLATORS: Proper name of star HD 173416
+#. TRANSLATORS: Xihe (羲和) is the goddess of the sun in the Chinese mythology
+#. and also represents the earliest astronomers and developers of calendars in
+#. ancient China.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Xihe"
+msgstr "シーフー(Xihe)"
+
+#. TRANSLATORS: Proper name of star HD 100655
+#. TRANSLATORS: Formosa is the historical name of Taiwan used in the 17th
+#. century, meaning beautiful in Latin.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Formosa"
+msgstr "フォルモサ(Formosa)"
+
+#. TRANSLATORS: Proper name of star HD 93083
+#. TRANSLATORS: Macondo is the mythical village of the novel One Hundred Years
+#. of Solitude (Cien años de soledad) the classic novel by Gabriel García
+#. Marquez. Macondo is a fictional place where magic and reality are mixed.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Macondo"
+msgstr "マコンド(Macondo)"
+
+#. TRANSLATORS: Proper name of star HD 221287
+#. TRANSLATORS: Poerava is the word in the Cook Islands Maori language for a
+#. large mystical black pearl of utter beauty and perfection.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Poerava"
+msgstr "ポエラヴァ(Poerava)"
+
+#. TRANSLATORS: Proper name of star HD 75898
+#. TRANSLATORS: Stribor is God of winds in Slavic mythology, as well as a
+#. literature character in the book Priče iz davnine (Croatian Tales of Long
+#. Ago) by the Croatian author Ivana Brlić-Mažuranić.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Stribor"
+msgstr "ストリボル(Stribor)"
+
+#. TRANSLATORS: Proper name of star BD-17 63
+#. TRANSLATORS: Felix Varela (1788–1853) was the first to teach science in
+#. Cuba at the San Carlos and San Ambrosio Seminary. He opened the way to
+#. education for all, and began the experimental teaching of physics in Cuba.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Felixvarela"
+msgstr "フェリックスヴァレーラ(Felixvarela)"
+
+#. TRANSLATORS: Proper name of star HD 168746
+#. TRANSLATORS: Alasia is the first historically recorded name of Cyprus,
+#. dating back to mid-fifteenth century BC.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Alasia"
+msgstr "アラシア(Alasia)"
+
+#. TRANSLATORS: Proper name of star HD 6434
+#. TRANSLATORS: Nenque means the Sun in the language spoken by the Indigenous
+#. Waorani tribes of the Amazon regions of Ecuador
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Nenque"
+msgstr "ネンクエ(Nenque)"
+
+#. TRANSLATORS: Proper name of star HD 52265
+#. TRANSLATORS: Citalá means River of stars in the native Nahuat language.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Citalá"
+msgstr "シタラ(Citalá )"
+
+#. TRANSLATORS: Proper name of star HD 16175
+#. TRANSLATORS: Buna is the commonly used word for coffee in Ethiopia.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Buna"
+msgstr "ブナ(Buna)"
+
+#. TRANSLATORS: Proper name of star HD 8574
+#. TRANSLATORS: Bélénos was the god of light, of the Sun, and of health in
+#. Gaulish mythology.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Bélénos"
+msgstr "ベレノス(Bélénos)"
+
+#. TRANSLATORS: Proper name of star HD 208487
+#. TRANSLATORS: Itonda, in the Myene tongue, corresponds to all that is
+#. beautiful.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Itonda"
+msgstr "イトンダ(Itonda)"
+
+#. TRANSLATORS: Proper name of star HD 32518
+#. TRANSLATORS: Mago is a National Park in Ethiopia noted for its giraffes.
+#. The star also happens to be in the constellation of Camelopardis (the
+#. giraffe).
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Mago"
+msgstr "マゴ(Mago)"
+
+#. TRANSLATORS: Proper name of star HD 181720
+#. TRANSLATORS: Sika means gold in the Ewe language and gold is one of Ghana's
+#. principal exports.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Sika"
+msgstr "シカ(Sika)"
+
+#. TRANSLATORS: Proper name of star HD 1502
+#. TRANSLATORS: The Citadelle is a large mountaintop fortress in Nord, Haiti
+#. built after Haiti's independence, and was designated a UNESCO World
+#. Heritage site along with the nearby Sans-Souci Palace.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Citadelle"
+msgstr "シタデル(Citadelle)"
+
+#. TRANSLATORS: Proper name of star HD 98219
+#. TRANSLATORS: Hunahpú was one of the twin gods who became the Sun in K'iche'
+#. (Quiché) Mayan mythology as recounted in the Popol Vuh.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Hunahpú"
+msgstr "フンアフプー(Hunahpú)"
+
+#. TRANSLATORS: Proper name of star HAT-P-2
+#. TRANSLATORS: Hunor was a legendary ancestor of the Huns and the Hungarian
+#. nation, and brother of Magor.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Hunor"
+msgstr "フノール(Hunor)"
+
+#. TRANSLATORS: Proper name of star HD 109246
+#. TRANSLATORS: Funi is an old Icelandic word meaning fire or blaze.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Funi"
+msgstr "フニ(Funi)"
+
+#. TRANSLATORS: Proper name of star HD 86081
+#. TRANSLATORS: Bibhā [/bɪbɦa/] is the Bengali pronunciation of the Sanskrit
+#. word Vibha, which means a bright beam of light.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Bibhā"
+msgstr "ビブファ(Bibhā)"
+
+#. TRANSLATORS: Proper name of star HD 117618
+#. TRANSLATORS: Dofida means our star in Nias language.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Dofida"
+msgstr "ドフィダ(Dofida)"
+
+#. TRANSLATORS: Proper name of star HD 175541
+#. TRANSLATORS: Kaveh is one of the heroes of Shahnameh, the epic poem
+#. composed by Persian poet Ferdowsi between 977 and 1010 CE. Kaveh is a
+#. blacksmith who symbolises justice.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Kaveh"
+msgstr "カーヴェ(Kaveh)"
+
+#. TRANSLATORS: Proper name of star HD 231701
+#. TRANSLATORS: Uruk was an ancient city of the Sumer and Babylonian
+#. civilizations in Mesopotamia situated along an ancient channel of the
+#. Euphrates river in modern-day Iraq.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Uruk"
+msgstr "ウルク(Uruk)"
+
+#. TRANSLATORS: Proper name of star HD 102195
+#. TRANSLATORS: Flegetonte is the underworld river of fire from Greek
+#. Mythology in the Italian narrative poem on the afterlife 'Divina Commedia'
+#. (Divine Commedy) by Dante Alighieri, chosen as an allusion to the star's
+#. fiery nature.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Flegetonte"
+msgstr "フレゲトンテ(Flegetonte)"
+
+#. TRANSLATORS: Proper name of star HD 83443
+#. TRANSLATORS: The word Kalausi means a very strong whirling column of wind
+#. in the Dholuo language of Kenya.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Kalausi"
+msgstr "カラウシ(Kalausi)"
+
+#. TRANSLATORS: Proper name of star HD 118203
+#. TRANSLATORS: Liesma means flame, and it is the name of a character from the
+#. Latvian poem Staburags un Liesma.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Liesma"
+msgstr "リエスマ(Liesma)"
+
+#. TRANSLATORS: Proper name of star HD 192263
+#. TRANSLATORS: Phoenicia was an ancient thalassocratic civilisation of the
+#. Mediterranean that originated from the area of modern-day Lebanon.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Phoenicia"
+msgstr "フェニキア(Phoenicia)"
+
+#. TRANSLATORS: Proper name of star HD 45350
+#. TRANSLATORS: The Lucilinburhuc fortress was built in 963 by the founder of
+#. Luxembourg, Count Siegfried.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Lucilinburhuc"
+msgstr "ルシリンブルフ(Lucilinburhuc)"
+
+#. TRANSLATORS: Proper name of star HD 153950
+#. TRANSLATORS: Rapeto is a giant creature from Malagasy tales.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Rapeto"
+msgstr "ラペト(Rapeto)"
+
+#. TRANSLATORS: Proper name of star HD 20868
+#. TRANSLATORS: Intan means diamond in the Malay language (Bahasa Melayu),
+#. alluding to the shining of a star.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Intan"
+msgstr "インタン(Intan)"
+
+#. TRANSLATORS: Proper name of star HD 224693
+#. TRANSLATORS: Axólotl means water animal in the native Nahuatl language,
+#. which is a unique and culturally significant endemic amphibious species
+#. from the basin of Mexico.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Axólotl"
+msgstr "アショロトル(Axólotl)"
+
+#. TRANSLATORS: Proper name of star HD 7199
+#. TRANSLATORS: Emiw represents love in the local Makhuwa language of the
+#. northern region of Mozambique.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Emiw"
+msgstr "エミウ(Emiw)"
+
+#. TRANSLATORS: Proper name of star HD 18742
+#. TRANSLATORS: Ayeyarwady is the largest and most important river in Myanmar.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Ayeyarwady"
+msgstr "エーヤワディー(Ayeyarwady)"
+
+#. TRANSLATORS: Proper name of star HD 100777
+#. TRANSLATORS: Sagarmatha is the Nepali name for the highest peak in the
+#. world (also known as Mount Everest) and symbol of national pride of Nepal.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Sagarmatha"
+msgstr "サガルマータ(Sagarmatha)"
+
+#. TRANSLATORS: Proper name of star HD 137388
+#. TRANSLATORS: Karaka is the word in the Māori language for a plant endemic
+#. to New Zealand that produces a bright orange, fleshy fruit.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Karaka"
+msgstr "カラカ(Karaka)"
+
+#. TRANSLATORS: Proper name of star HD 4208
+#. TRANSLATORS: Cocibolca is the Nahualt name for the largest lake in Central
+#. America in Nicaragua.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Cocibolca"
+msgstr "コシボルカ(Cocibolca)"
+
+#. TRANSLATORS: Proper name of star HD 43197
+#. TRANSLATORS: Amadioha is the god of thunder in Igbo mythology. As well as
+#. representing justice, Amadioha is also a god of love, peace and unity.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Amadioha"
+msgstr "アマディオハ(Amadioha)"
+
+#. TRANSLATORS: Proper name of star HD 68988
+#. TRANSLATORS: Násti means star in the Northern Sami language of Norway.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Násti"
+msgstr "ナスティ(Násti)"
+
+#. TRANSLATORS: Proper name of star HAT-P-23
+#. TRANSLATORS: Shama is an Urdu literary term meaning a small lamp or flame,
+#. symbolic of the light of the star.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Shama"
+msgstr "シャマ(Shama)"
+
+#. TRANSLATORS: Proper name of star HD 108147
+#. TRANSLATORS: Tupã is one of four principle gods of the Guarani Cosmogony in
+#. popular Paraguayan folklore that helped the supreme god Ñamandu to create
+#. the Universe.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Tupã"
+msgstr "トゥパン(Tupã)"
+
+#. TRANSLATORS: Proper name of star HD 156411
+#. TRANSLATORS: Inquil was one half of the couple involved in the tragic love
+#. story Way to the Sun by famous Peruvian writer Abraham Valdelomar.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Inquill"
+msgstr "インキル(Inquil)"
+
+#. TRANSLATORS: Proper name of star HD 102117
+#. TRANSLATORS: Uklun means us or we in the Pitkern language of the people of
+#. Pitcairn Islands.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Uklun"
+msgstr "ウクルン(Uklun)"
+
+#. TRANSLATORS: Proper name of star BD+14 4559
+#. TRANSLATORS: Solaris is the title of a 1961 science fiction novel about an
+#. ocean-covered exoplanet by Polish writer Stanislaw Lem.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Solaris"
+msgstr "ソラリス(Solaris)"
+
+#. TRANSLATORS: Proper name of star HD 45652
+#. TRANSLATORS: Lusitânia is the ancient name of the western region of the
+#. Iberic Peninsula where the Lusitanian people lived and where most of
+#. modern-day Portugal is situated.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Lusitânia"
+msgstr "ルシタニア(Lusitânia)"
+
+#. TRANSLATORS: Proper name of star HIP 12961
+#. TRANSLATORS: Koeia was the word for star in the language of the Taíno
+#. Indigenous People of the Caribbean.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Koeia"
+msgstr "コエイア(Koeia)"
+
+#. TRANSLATORS: Proper name of star HD 181342
+#. TRANSLATORS: Belel is a rare source of water in the north of Senegal.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Belel"
+msgstr "ベレル(Belel)"
+
+#. TRANSLATORS: Proper name of star 8 Umi
+#. TRANSLATORS: Baekdu is the highest mountain on the Korean peninsula,
+#. situated in North Korea, and symbolises the national spirit of Korea.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Baekdu"
+msgstr "バクドゥ(Baekdu)"
+
+#. TRANSLATORS: Proper name of star HD 149143
+#. TRANSLATORS: Rosalía de Castro was a significant figure of Galician culture
+#. and prominent Spanish writer, whose pioneeting work often referenced the
+#. night and celestial objects.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Rosalíadecastro"
+msgstr "ロサリアデカストロ(Rosalíadecastro)"
+
+#. TRANSLATORS: Proper name of star HD 205739
+#. TRANSLATORS: Sāmaya means peace in the Sinhalese language.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Sāmaya"
+msgstr "サーマヤ(Sāmaya)"
+
+#. TRANSLATORS: Proper name of star HD 102956
+#. TRANSLATORS: Aniara is the name of a spaceship in the epic poem Aniara by
+#. Swedish author Harry Martinson.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Aniara"
+msgstr "アニアーラ(Aniara)"
+
+#. TRANSLATORS: Proper name of star HD 130322
+#. TRANSLATORS: Mönch is one of the prominent peaks of the Bernese Alps in
+#. Switzerland.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Mönch"
+msgstr "メンヒ(Mönch)"
+
+#. TRANSLATORS: Proper name of star HD 218566
+#. TRANSLATORS: Ebla was one of the earliest kingdoms in Syria, and served as
+#. a prominent region in the 2nd and 3rd millennia B.C.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Ebla"
+msgstr "エブラ(Ebla)"
+
+#. TRANSLATORS: Proper name of star HD 96063
+#. TRANSLATORS: Dingolay means to dance, twist and turn in elaborate
+#. movements, symbolising the culture and language of the ancestors of the
+#. people of Trinidad and Tobago.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Dingolay"
+msgstr "ディンゴレイ(Dingolay)"
+
+#. TRANSLATORS: Proper name of star HD 192699
+#. TRANSLATORS: Chechia is a flat-surfaced, traditional red wool hat worn by
+#. men and women, symbolising the country's rich traditions and is considered
+#. as the national headdress for in Tunisia.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Chechia"
+msgstr "シェシャ(Chechia)"
+
+#. TRANSLATORS: Proper name of star HIP 79431
+#. TRANSLATORS: Sharjah is the cultural capital of United Arab Emirates, and
+#. considered the city of knowledge due to its many educational centers,
+#. institutes, museums, libraries and heritage centers.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Sharjah"
+msgstr "シャールジャ(Sharjah)"
+
+#. TRANSLATORS: Proper name of star HD 17156
+#. TRANSLATORS: Nushagak is a regional river near Dilingham, Alaska, which is
+#. famous for its wild salmon that sustain local Indigenous communities.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Nushagak"
+msgstr "ヌシャガク(Nushagak)"
+
+#. TRANSLATORS: Proper name of star HD 63454
+#. TRANSLATORS: Ceibo is the name of the native tree of Uruguay that gives
+#. rise to the national flower.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Ceibo"
+msgstr "セイボ(Ceibo)"
+
+#. TRANSLATORS: Proper name of star HD 85390
+#. TRANSLATORS: Natasha means thank you in many languages of Zambia.
+#. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
+msgid "Natasha"
+msgstr "ナターシャ(Natasha)"
+
+msgid "47 Tucanae"
+msgstr ""
+
+msgid "Andromeda Galaxy"
+msgstr "アンドロメダ銀河"
+
+msgid "Sculptor Galaxy"
+msgstr "ちょうこくしつ座銀河"
+
+msgid "Small Magellanic Cloud"
+msgstr "小マゼラン雲"
+
+msgid "Minkowski's Object"
+msgstr "ミンコフスキー天体"
+
+msgid "Pinwheel Galaxy"
+msgstr "回転花火銀河"
+
+msgid "Butterfly Nebula"
+msgstr "バタフライ星雲"
+
+msgid "Double Cluster"
+msgstr "二重星団"
+
+msgid "Fornax Dwarf"
+msgstr "ろ座矮小星団"
+
+msgid "Perseus A"
+msgstr "ペルセウス座A"
+
+msgid "Fornax A"
+msgstr "ろ座A"
+
+msgid "Merope Nebula"
+msgstr "メローペ星雲"
+
+msgid "Tempel's Nebula"
+msgstr "テンペルの星雲"
+
+msgid "California Nebula"
+msgstr "カリフォルニア星雲"
+
+msgid "Kemble's Cascade"
+msgstr ""
+
+msgid "Hind's Variable Nebula"
+msgstr "ハインドの変光星雲"
+
+msgid "Crab Nebula"
+msgstr "かに星雲"
+
+msgid "Taurus A"
+msgstr "おうし座A"
+
+msgid "Orion Nebula"
+msgstr "オリオン星雲"
+
+msgid "Seagull Nebula"
+msgstr "カモメ星雲"
+
+msgid "Tarantula Nebula"
+msgstr "タランチュラ星雲"
+
+msgid "30 Doradus Cluster"
+msgstr ""
+
+msgid "Rosette Nebula"
+msgstr "バラ星雲 (ロゼット星雲)"
+
+msgid "Hubble's Variable Nebula"
+msgstr "ハッブル変光星雲"
+
+msgid "Christmas Tree Cluster"
+msgstr "クリスマスツリー星団"
+
+msgid "Cone Nebula"
+msgstr "コーン星雲"
+
+msgid "Ant Nebula"
+msgstr "アリ星雲"
+
+msgid "Eskimo Nebula"
+msgstr "エスキモー星雲"
+
+msgid "Intergalactic Wanderer"
+msgstr ""
+
+msgid "Intergalactic Tramp"
+msgstr ""
+
+msgid "Butterfly Cluster"
+msgstr "バタフライ星団"
+
+msgid "Cancer Cluster"
+msgstr ""
+
+msgid "Polarissima Australis"
+msgstr "南極銀河"
+
+msgid "Praesepe"
+msgstr "プレセペ"
+
+msgid "Spindle Galaxy"
+msgstr "紡錘状銀河"
+
+msgid "Bode's Nebula"
+msgstr "ボーデの星雲"
+
+msgid "Eight-Burst Nebula"
+msgstr ""
+
+msgid "Polarissima Borealis"
+msgstr "北極銀河"
+
+msgid "Owl Nebula"
+msgstr "ふくろう星雲"
+
+msgid "Leo Triplet"
+msgstr "しし座3重銀河"
+
+msgid "Trio in Leo"
+msgstr ""
+
+msgid "Copeland's Sextet"
+msgstr ""
+
+msgid "Miniature Spiral"
+msgstr ""
+
+msgid "Antennae"
+msgstr "アンテナ銀河"
+
+msgid "The Box"
+msgstr ""
+
+msgid "The Eyes"
+msgstr ""
+
+msgid "Virgo A"
+msgstr "おとめ座A"
+
+msgid "Siamese Twins"
+msgstr "シャム双生児銀河"
+
+msgid "Sombrero Galaxy"
+msgstr "ソンブレロ銀河"
+
+msgid "Jewel Box"
+msgstr "宝石箱"
+
+msgid "Blackeye Galaxy"
+msgstr ""
+
+msgid "Sunflower Galaxy"
+msgstr "ひまわり銀河"
+
+msgid "Centaurus A"
+msgstr "ケンタウルス座A"
+
+msgid "Omega Centauri"
+msgstr "Omega Centauri(ω星団)"
+
+msgid "Whirlpool Galaxy"
+msgstr "子持ち銀河"
+
+msgid "Keenan's System"
+msgstr "キーナンの相互作用銀河"
+
+msgid "Seashell Galaxy"
+msgstr "貝殻(シーシェル)銀河"
+
+msgid "Seyfert's Sextet"
+msgstr "セイファートの六つ子"
+
+msgid "Great Hercules Cluster"
+msgstr "ヘルクレス大星団"
+
+msgid "Bug Nebula"
+msgstr "バグ星雲"
+
+msgid "Box Nebula"
+msgstr "ボックス星雲"
+
+msgid "Little Gem Nebula"
+msgstr ""
+
+msgid "Trifid Nebula"
+msgstr "三裂星雲"
+
+msgid "Lagoon Nebula"
+msgstr "干潟(ラグーン)星雲"
+
+msgid "Hourglass Nebula"
+msgstr ""
+
+msgid "Cat's Eye Nebula"
+msgstr "キャッツアイ星雲"
+
+msgid "Eagle Nebula"
+msgstr "わし星雲"
+
+msgid "Omega Nebula"
+msgstr "オメガ星雲"
+
+msgid "Swan Nebula"
+msgstr "白鳥星雲"
+
+msgid "Ring Nebula"
+msgstr "環状(リング)星雲"
+
+msgid "Barnard's Galaxy"
+msgstr "バーナード銀河"
+
+msgid "Dumbbell Nebula"
+msgstr "亜鈴状星雲"
+
+msgid "Crescent Nebula"
+msgstr "三日月星雲"
+
+msgid "Filamentary Nebula"
+msgstr "フィラメント星雲"
+
+msgid "Cirrus Nebula"
+msgstr "巻雲星雲"
+
+msgid "Veil Nebula"
+msgstr "網状星雲(ベール星雲)"
+
+msgid "Network Nebula"
+msgstr "ネットワーク星雲"
+
+msgid "Cygnus Loop"
+msgstr "はくちょう座ループ星雲"
+
+msgid "North America Nebula"
+msgstr "北アメリカ星雲"
+
+msgid "Saturn Nebula"
+msgstr "土星状星雲"
+
+msgid "Helix Nebula"
+msgstr "らせん状星雲"
+
+msgid "Stephan's Quintet"
+msgstr "ステファンの五つ子"
+
+msgid "Pegasus II"
+msgstr "ペガスス座II"
+
+msgid "Grus Quartet"
+msgstr "つる座の四重星"
+
+msgid "Pegasus I Cluster"
+msgstr ""
+
+msgid "Bubble Nebula"
+msgstr "バブル星雲"
+
+msgid "Blue Snowball"
+msgstr "青い雪だるま(Blue Snowball)"
+
+msgid "Flaming Star Nebula"
+msgstr "曲玉星雲"
+
+msgid "Horsehead Nebula"
+msgstr "馬頭星雲"
+
+msgid "Witch Head Nebula"
+msgstr "魔女の頭星雲"
+
+msgid "Toby Jug Nebula"
+msgstr "トービージャグ星雲"
+
+msgid "Coddington's Nebula"
+msgstr ""
+
+msgid "Southern Pleiades"
+msgstr "南のプレアデス"
+
+msgid "Running Chicken Nebula"
+msgstr "走るニワトリ星雲"
+
+msgid "Antares Nebula"
+msgstr "アンタレス星雲"
+
+msgid "Graff Cluster"
+msgstr ""
+
+msgid "Graff 1"
+msgstr ""
+
+msgid "Pelican Nebula"
+msgstr "ペリカン星雲"
+
+msgid "Cocoon Nebula"
+msgstr "まゆ星雲 (コクーン星雲)"
+
+msgid "Pleiades"
+msgstr "プレアデス"
+
+msgid "Taurus Dark Cloud"
+msgstr ""
+
+msgid "Pipe Nebula"
+msgstr "パイプ星雲"
+
+msgid "Snake Nebula"
+msgstr "ヘビ星雲"
+
+msgid "The Double Dark Nebula"
+msgstr ""
+
+msgid "Fish on the Platter"
+msgstr ""
+
+msgid "Coathanger"
+msgstr ""
+
+msgid "Brocchi's Cluster"
+msgstr "ブロッキの星団"
+
+msgid "Cave Nebula"
+msgstr "洞窟星雲"
+
+msgid "Medusa Nebula"
+msgstr "メドゥーサ星雲"
+
+msgid "Barnard's Loop"
+msgstr "バーナード・ループ"
+
+msgid "Wolf-Lundmark-Melotte galaxy"
+msgstr ""
+
+msgid "Large Magellanic Cloud"
+msgstr "大マゼラン雲"
+
+msgid "Integral Sign Galaxy"
+msgstr "積分記号銀河"
+
+msgid "Sextans B"
+msgstr "ろくぶんぎ座B"
+
+msgid "Sextans A"
+msgstr "ろくぶんぎ座A"
+
+msgid "Ant Galaxy"
+msgstr "アリ銀河"
+
+msgid "Mayall's Object"
+msgstr "メイオール天体"
+
+msgid "Wild's Triplet"
+msgstr ""
+
+msgid "Hardcastle Nebula"
+msgstr "ハードキャッスル星雲"
+
+msgid "Fourcade-Figueroa Galaxy"
+msgstr "フォルカデ=フィゲロア銀河"
+
+msgid "Circinus Galaxy"
+msgstr "コンパス座銀河"
+
+msgid "McLeish's Object"
+msgstr "マクリーシュ天体"
+
+msgid "Barbon's Galaxy"
+msgstr "バーボンの銀河"
+
+msgid "Leo III"
+msgstr "しし座III"
+
+msgid "Leo I"
+msgstr "しし座I"
+
+msgid "Egg Nebula"
+msgstr "卵星雲"
+
+msgid "Pegasus Dwarf"
+msgstr ""
+
+msgid "Campbell's Hydrogen Star"
+msgstr "キャンベルの水素星"
+
+msgid "Haufen A"
+msgstr "ハウフェンA"
+
+msgid "Perseus Cluster"
+msgstr "ペルセウス座銀河団"
+
+msgid "Gemini Cluster"
+msgstr ""
+
+msgid "Hydra II Cluster"
+msgstr ""
+
+msgid "Leo Cluster"
+msgstr "しし座銀河団"
+
+msgid "Hydra I Cluster"
+msgstr ""
+
+msgid "Ursa Major II Cluster"
+msgstr ""
+
+msgid "Leo A Cluster"
+msgstr ""
+
+msgid "Ursa Major I Cluster"
+msgstr ""
+
+msgid "Coma Cluster"
+msgstr "かみのけ座銀河団"
+
+msgid "Corona Cluster"
+msgstr ""
+
+msgid "Hercules Galaxy Cluster"
+msgstr ""
+
+msgid "Centaurus Cluster"
+msgstr "ケンタウルス座銀河団"
+
+msgid "Fornax Galaxy Cluster"
+msgstr ""
+
+msgid "Carafe Galaxy"
+msgstr ""
+
+msgid "Carina Dwarf"
+msgstr ""
+
+msgid "Phoenix Dwarf"
+msgstr ""
+
+msgid "Sculptor Dwarf"
+msgstr ""
+
+msgid "Pazmino's Cluster"
+msgstr ""
+
+msgid "Ursa Minor"
+msgstr "こぐま"
+
+msgid "Ursa Major"
+msgstr "おおぐま"
+
+msgid "Draco"
+msgstr "りゅう"
+
+msgid "Cepheus"
+msgstr "ケフェウス"
+
+msgid "Bootes"
+msgstr "うしかい"
+
+msgid "Corona Borealis"
+msgstr "かんむり"
+
+msgid "Hercules"
+msgstr "ヘルクレス"
+
+msgid "Lyra"
+msgstr "こと"
+
+msgid "Cygnus"
+msgstr "はくちょう"
+
+msgid "Cassiopeia"
+msgstr "カシオペア"
+
+msgid "Perseus"
+msgstr "ペルセウス"
+
+msgid "Auriga"
+msgstr "ぎょしゃ"
+
+msgid "Ophiuchus"
+msgstr "へびつかい"
+
+msgid "Serpens"
+msgstr "へび"
+
+msgid "Sagitta"
+msgstr "や"
+
+msgid "Aquila"
+msgstr "わし"
+
+msgid "Delphinus"
+msgstr "いるか"
+
+msgid "Equuleus"
+msgstr "こうま"
+
+msgid "Pegasus"
+msgstr "ペガスス"
+
+msgid "Andromeda"
+msgstr "アンドロメダ"
+
+msgid "Triangulum"
+msgstr "さんかく"
+
+msgid "Aries"
+msgstr "おひつじ"
+
+msgid "Taurus"
+msgstr "おうし"
+
+msgid "Gemini"
+msgstr "ふたご"
+
+msgid "Cancer"
+msgstr "かに"
+
+msgid "Leo"
+msgstr "しし"
+
+msgid "Virgo"
+msgstr "おとめ"
+
+msgid "Libra"
+msgstr "てんびん"
+
+msgid "Scorpius"
+msgstr "さそり"
+
+msgid "Sagittarius"
+msgstr "いて"
+
+msgid "Capricornus"
+msgstr "やぎ"
+
+msgid "Aquarius"
+msgstr "みずがめ"
+
+msgid "Pisces"
+msgstr "うお"
+
+msgid "Cetus"
+msgstr "くじら"
+
+msgid "Orion"
+msgstr "オリオン"
+
+msgid "Eridanus"
+msgstr "エリダヌス"
+
+msgid "Lepus"
+msgstr "うさぎ"
+
+msgid "Canis Major"
+msgstr "おおいぬ"
+
+msgid "Canis Minor"
+msgstr "こいぬ"
+
+msgid "Hydra"
+msgstr "うみへび"
+
+msgid "Crater"
+msgstr "コップ"
+
+msgid "Corvus"
+msgstr "からす"
+
+msgid "Centaurus"
+msgstr "ケンタウルス"
+
+msgid "Lupus"
+msgstr "おおかみ"
+
+msgid "Ara"
+msgstr "さいだん"
+
+msgid "Corona Australis"
+msgstr "みなみのかんむり"
+
+msgid "Piscis Austrinus"
+msgstr "みなみのうお"
+
+msgid "Procyon"
+msgstr "プロキオン"
+
+msgid "Sirius"
+msgstr "シリウス"
+
+msgid "Arcturus"
+msgstr "アークトゥルス"
+
+msgid "Vega"
+msgstr "ベガ"
+
+msgid "Capella"
+msgstr "カペラ"
+
+msgid "Aldebaran"
+msgstr "アルデバラン"
+
+msgid "Regulus"
+msgstr "レグルス"
+
+msgid "Denebola"
+msgstr "デネボラ"
+
+msgid "Spica"
+msgstr "スピカ"
+
+msgid "Fomalhaut"
+msgstr "フォーマルハウト"
+
+msgid "Betelgeuse"
+msgstr "ベテルギウス"
+
+msgid "Rigel"
+msgstr "リゲル"
+
+msgid "Canopus"
+msgstr "カノープス"
+
+msgid "Bellatrix"
+msgstr "ベラトリックス"
+
+msgid "Alnitak"
+msgstr "アルニタク"
+
+msgid "Alnilam"
+msgstr "アルニラム"
+
+msgid "Mintaka"
+msgstr "ミンタカ"
+
+msgid "Achernar"
+msgstr "アケルナル"
+
+msgid "Acrux"
+msgstr "アクルクス"
+
+msgid "Hadar"
+msgstr "ハダル"
+
+msgid "Antares"
+msgstr "アンタレス"
+
+msgid "Sculptor"
+msgstr "ちょうこくしつ"
+
+msgid "Pyxis"
+msgstr "らしんばん"
+
+msgid "Caelum"
+msgstr "ちょうこくぐ"
+
+msgid "Chamaeleon"
+msgstr "カメレオン"
+
+msgid "Carina"
+msgstr "りゅうこつ"
+
+msgid "Coma Berenices"
+msgstr "かみのけ"
+
+msgid "Canes Venatici"
+msgstr "りょうけん"
+
+msgid "Columba"
+msgstr "はと"
+
+msgid "Circinus"
+msgstr "コンパス"
+
+msgid "Crux"
+msgstr "みなみじゅうじ"
+
+msgid "Dorado"
+msgstr "かじき"
+
+msgid "Norma"
+msgstr "じょうぎ"
+
+msgid "Fornax"
+msgstr "ろ"
+
+msgid "Camelopardalis"
+msgstr "きりん"
+
+msgid "Grus"
+msgstr "つる"
+
+msgid "Horologium"
+msgstr "とけい"
+
+msgid "Hydrus"
+msgstr "みずへび"
+
+msgid "Indus"
+msgstr "インディアン"
+
+msgid "Lacerta"
+msgstr "とかげ"
+
+msgid "Monoceros"
+msgstr "いっかくじゅう"
+
+msgid "Lynx"
+msgstr "やまねこ"
+
+msgid "Antlia"
+msgstr "ポンプ"
+
+msgid "Microscopium"
+msgstr "けんびきょう"
+
+msgid "Musca"
+msgstr "はえ"
+
+msgid "Octans"
+msgstr "はちぶんぎ"
+
+msgid "Apus"
+msgstr "ふうちょう"
+
+msgid "Pavo"
+msgstr "くじゃく"
+
+msgid "Pictor"
+msgstr "がか"
+
+msgid "Leo Minor"
+msgstr "こじし"
+
+msgid "Vulpecula"
+msgstr "こぎつね"
+
+msgid "Phoenix"
+msgstr "ほうおう"
+
+msgid "Volans"
+msgstr "とびうお"
+
+msgid "Puppis"
+msgstr "とも"
+
+msgid "Reticulum"
+msgstr "レチクル"
+
+msgid "Scutum"
+msgstr "たて"
+
+msgid "Sextans"
+msgstr "ろくぶんぎ"
+
+msgid "Mensa"
+msgstr "テーブルさん"
+
+msgid "Telescopium"
+msgstr "ぼうえんきょう"
+
+msgid "Tucana"
+msgstr "きょしちょう"
+
+msgid "Triangulum Australe"
+msgstr "みなみのさんかく"
+
+msgid "Vela"
+msgstr "ほ"
+
+msgid "Alpheratz"
+msgstr "アルフェラッツ"
+
+msgid "Mirach"
+msgstr "ミラク"
+
+msgid "Almach"
+msgstr "アルマク"
+
+msgid "Adhil"
+msgstr "アディル"
+
+msgid "Nembus"
+msgstr "ネムブス"
+
+msgid "Sadalmelik"
+msgstr "サダルメリク"
+
+msgid "Sadalsuud"
+msgstr "サダルスウド"
+
+msgid "Sadachbia"
+msgstr "サドアクビア"
+
+msgid "Skat"
+msgstr "スカット"
+
+msgid "Scheat"
+msgstr "シェアト"
+
+msgid "Albali"
+msgstr "アルバリ"
+
+msgid "Ancha"
+msgstr "アンカ"
+
+msgid "Situla"
+msgstr "シトゥラ"
+
+msgid "Bunda"
+msgstr "ブンダ"
+
+msgid "Altair"
+msgstr "アルタイル"
+
+msgid "Alshain"
+msgstr "アルシャイン"
+
+msgid "Tarazed"
+msgstr "タラゼド"
+
+msgid "Okab"
+msgstr "オカブ"
+
+msgid "Hamal"
+msgstr "ハマル"
+
+msgid "Sheratan"
+msgstr "シェラタン"
+
+msgid "Mesarthim"
+msgstr "メサルティム"
+
+msgid "Botein"
+msgstr "ボテイン"
+
+msgid "Lilii Borea"
+msgstr "リリー・ボレア"
+
+msgid "Bharani"
+msgstr "バラニ"
+
+msgid "Menkalinan"
+msgstr "メンカリナン"
+
+msgid "Hassaleh"
+msgstr "ハッサレー"
+
+msgid "Saclateni"
+msgstr "サクラテニ"
+
+msgid "Haedus"
+msgstr "ヘドゥス"
+
+msgid "Almaaz"
+msgstr "アルマーズ"
+
+msgid "Mahasim"
+msgstr "マハシム"
+
+msgid "Nekkar"
+msgstr "ネッカル"
+
+msgid "Seginus"
+msgstr "セギヌス"
+
+msgid "Izar"
+msgstr "イザル"
+
+msgid "Muphrid"
+msgstr "ムフリド"
+
+msgid "Alkalurops"
+msgstr "アルカルロプス"
+
+msgid "Merga"
+msgstr "メルガ"
+
+msgid "Xuange"
+msgstr "クサンゲ"
+
+msgid "Acubens"
+msgstr "アクベンス"
+
+msgid "Asellus Australis"
+msgstr "アルセス・アウストラリス"
+
+msgid "Tegmine"
+msgstr "テグミン"
+
+msgid "Tarf"
+msgstr "タルフ"
+
+msgid "Meleph"
+msgstr "メレフ"
+
+msgid "Piautos"
+msgstr "ピアウトス"
+
+msgid "Nahn"
+msgstr "ナン"
+
+msgid "Cor Caroli"
+msgstr "コルカロリ"
+
+msgid "Chara"
+msgstr "カラ"
+
+msgid "La Superba"
+msgstr "ラ・スペルバ"
+
+msgid "Mirzam"
+msgstr "ミルザム"
+
+msgid "Muliphein"
+msgstr "ムリフェイン"
+
+msgid "Wezen"
+msgstr "ウェゼン"
+
+msgid "Adhara"
+msgstr "アダラ"
+
+msgid "Furud"
+msgstr "フルド"
+
+msgid "Aludra"
+msgstr "アルドラ"
+
+msgid "Nganurganity"
+msgstr ""
+
+msgid "Gomeisa"
+msgstr "ゴメイサ"
+
+msgid "Algedi"
+msgstr "アルゲディ"
+
+msgid "Dabih"
+msgstr "ダビー"
+
+msgid "Nashira"
+msgstr "ナシラ"
+
+msgid "Deneb Algedi"
+msgstr "デネブ・アルゲディ"
+
+msgid "Alshat"
+msgstr "アルサト"
+
+msgid "Miaplacidus"
+msgstr "ミアプラキドス"
+
+msgid "Avior"
+msgstr "アウィオル"
+
+msgid "Aspidiske"
+msgstr "アスピディスケ"
+
+msgid "Tureis"
+msgstr "トゥレイス"
+
+msgid "Schedar"
+msgstr "スケダル"
+
+msgid "Caph"
+msgstr "カフ"
+
+msgid "Ruchbah"
+msgstr "ルクバー"
+
+msgid "Achird"
+msgstr "アキルド"
+
+msgid "Segin"
+msgstr "セギン"
+
+msgid "Fulu"
+msgstr "フル"
+
+msgid "Castula"
+msgstr "カストゥラ"
+
+msgid "Rigil Kentaurus"
+msgstr "リギル・ケンタウルス"
+
+msgid "Toliman"
+msgstr "トリマン"
+
+msgid "Menkent"
+msgstr "メンケント"
+
+msgid "Alnair"
+msgstr "アルナイル"
+
+msgid "Alderamin"
+msgstr "アルデラミン"
+
+msgid "Alfirk"
+msgstr "アルフィルク"
+
+msgid "Errai"
+msgstr "エライ"
+
+msgid "Kurhah"
+msgstr "クラー"
+
+msgid "Menkar"
+msgstr "メンカル"
+
+msgid "Diphda"
+msgstr "ディフダ"
+
+msgid "Baten Kaitos"
+msgstr "バテン・カイトス"
+
+msgid "Mira"
+msgstr "ミラ"
+
+msgid "Kaffaljidhma"
+msgstr "カファルジドマ"
+
+msgid "Phact"
+msgstr "ファクト"
+
+msgid "Wazn"
+msgstr "ワズン"
+
+msgid "Elkurud"
+msgstr "エルクルド"
+
+msgid "Diadem"
+msgstr "ディアデム"
+
+msgid "Meridiana"
+msgstr "メリディアナ"
+
+msgid "Alphecca"
+msgstr "アルフェッカ"
+
+msgid "Nusakan"
+msgstr "ヌサカン"
+
+msgid "Kamuy"
+msgstr ""
+
+msgid "Alchiba"
+msgstr "アルキバ"
+
+msgid "Gienah"
+msgstr "ギエナ"
+
+msgid "Algorab"
+msgstr "アルゴラブ"
+
+msgid "Kraz"
+msgstr "クラズ"
+
+msgid "Alkes"
+msgstr "アルケス"
+
+msgid "Mimosa"
+msgstr "ミモザ"
+
+msgid "Gacrux"
+msgstr "ガクルクス"
+
+msgid "Ginan"
+msgstr "ギナン"
+
+msgid "Imai"
+msgstr "イマイ"
+
+msgid "Deneb"
+msgstr "デネブ"
+
+msgid "Albireo"
+msgstr "アルビレオ"
+
+msgid "Sadr"
+msgstr "サドル"
+
+msgid "Aljanah"
+msgstr "アルジェナー"
+
+msgid "Azelfafage"
+msgstr "アゼルファファゲ"
+
+msgid "Fawaris"
+msgstr "ファワリス"
+
+msgid "Sualocin"
+msgstr "スワロキン"
+
+msgid "Rotanev"
+msgstr "ロタネウ"
+
+msgid "Aldulfin"
+msgstr "アルドゥルフィン"
+
+msgid "Thuban"
+msgstr "ツバン"
+
+msgid "Rastaban"
+msgstr "ラスタバン"
+
+msgid "Eltanin"
+msgstr "エルタニン"
+
+msgid "Altais"
+msgstr "アルタイス"
+
+msgid "Edasich"
+msgstr "エダシク"
+
+msgid "Giausar"
+msgstr "ギャウサル"
+
+msgid "Alrakis"
+msgstr "アルラキス"
+
+msgid "Grumium"
+msgstr "グルミウム"
+
+msgid "Alsafi"
+msgstr "アルサフィ"
+
+msgid "Dziban"
+msgstr "ジバン"
+
+msgid "Alruba"
+msgstr "アルルバ"
+
+msgid "Aldhibah"
+msgstr "アルディバー"
+
+msgid "Athebyne"
+msgstr "アテビネ"
+
+msgid "Taiyi"
+msgstr "タイイ"
+
+msgid "Tianyi"
+msgstr "ティアニ"
+
+msgid "Kitalpha"
+msgstr "キタルファ"
+
+msgid "Cursa"
+msgstr "クルサ"
+
+msgid "Zaurak"
+msgstr "ザウラク"
+
+msgid "Zibal"
+msgstr "ジバル"
+
+msgid "Azha"
+msgstr "アザー"
+
+msgid "Acamar"
+msgstr "アカマル"
+
+msgid "Dalim"
+msgstr "ダリム"
+
+msgid "Beid"
+msgstr "ベイド"
+
+msgid "Keid"
+msgstr "ケイド"
+
+msgid "Theemin"
+msgstr "テーミン"
+
+msgid "Beemim"
+msgstr "ベーミン"
+
+msgid "Angetenar"
+msgstr "アンゲテナール"
+
+msgid "Rana"
+msgstr "ラナ"
+
+msgid "Sceptrum"
+msgstr "スケプトルム"
+
+msgid "Castor"
+msgstr "カストル"
+
+msgid "Pollux"
+msgstr "ポルックス"
+
+msgid "Alhena"
+msgstr "アルヘナ"
+
+msgid "Wasat"
+msgstr "ワサト"
+
+msgid "Mebsuta"
+msgstr "メブスタ"
+
+msgid "Mekbuda"
+msgstr "メクブダ"
+
+msgid "Propus"
+msgstr "プロプス"
+
+msgid "Tejat"
+msgstr "タヤト"
+
+msgid "Alzirr"
+msgstr "アルジル"
+
+msgid "Jishui"
+msgstr "ジシュイ(積水)"
+
+msgid "Aldhanab"
+msgstr "アルダナブ"
+
+msgid "Tiaki"
+msgstr "ティアキ"
+
+msgid "Rasalgethi"
+msgstr "ラスアルゲティ"
+
+msgid "Kornephoros"
+msgstr "コルネポロス"
+
+msgid "Marsic"
+msgstr "マルシク"
+
+msgid "Marfik"
+msgstr "マルフィク"
+
+msgid "Maasym"
+msgstr "マシム"
+
+msgid "Cujam"
+msgstr "クヤム"
+
+msgid "Sarin"
+msgstr "サリン"
+
+msgid "Alphard"
+msgstr "アルファルド"
+
+msgid "Ashlesha"
+msgstr "アスレサ"
+
+msgid "Ukdah"
+msgstr "ウクダ"
+
+msgid "Minchir"
+msgstr "ミンキル"
+
+msgid "Zhang"
+msgstr "チャン(張)"
+
+msgid "Felis"
+msgstr "フェリス"
+
+msgid "Algieba"
+msgstr "アルギエバ"
+
+msgid "Zosma"
+msgstr "ゾスマ"
+
+msgid "Adhafera"
+msgstr "アダフェラ"
+
+msgid "Chertan"
+msgstr "シェルタン"
+
+msgid "Alterf"
+msgstr "アルテルフ"
+
+msgid "Rasalas"
+msgstr "ラサラス"
+
+msgid "Subra"
+msgstr "スブラ"
+
+msgid "Praecipua"
+msgstr "プラエキプア"
+
+msgid "Arneb"
+msgstr "アルネブ"
+
+msgid "Nihal"
+msgstr "ニハル"
+
+msgid "Zubenelgenubi"
+msgstr "ズベネルゲヌビ"
+
+msgid "Zubeneschamali"
+msgstr "ズベネスカマリ"
+
+msgid "Brachium"
+msgstr "ブラキウム"
+
+msgid "Zubenelhakrabi"
+msgstr "ズベネルハクラビ"
+
+msgid "Alsciaukat"
+msgstr "アルスキアウカト"
+
+msgid "Sheliak"
+msgstr "シェリアク"
+
+msgid "Sulafat"
+msgstr "スラファト"
+
+msgid "Aladfar"
+msgstr "アラドファル"
+
+msgid "Polaris Australis"
+msgstr "ポラリス・アウストラリス"
+
+msgid "Rasalhague"
+msgstr "ラスアルハゲ"
+
+msgid "Cebalrai"
+msgstr "ケバルライ"
+
+msgid "Yed Prior"
+msgstr "イェッド・プリオル"
+
+msgid "Yed Posterior"
+msgstr "イェッド・ポステリオル"
+
+msgid "Sabik"
+msgstr "サビク"
+
+msgid "Barnard's Star"
+msgstr "バーナード星"
+
+msgid "Guniibuu"
+msgstr "グニーブー"
+
+msgid "Saiph"
+msgstr "サイフ"
+
+msgid "Meissa"
+msgstr "メイサ"
+
+msgid "Hatysa"
+msgstr "ハチサ"
+
+msgid "Tabit"
+msgstr "タビト"
+
+msgid "Peacock"
+msgstr "ピーコック"
+
+msgid "Markab"
+msgstr "マルカブ"
+
+msgid "Algenib"
+msgstr "アルゲニブ"
+
+msgid "Enif"
+msgstr "エニフ"
+
+msgid "Homam"
+msgstr "ホマム"
+
+msgid "Matar"
+msgstr "マタール"
+
+msgid "Biham"
+msgstr "ビハム"
+
+msgid "Sadalbari"
+msgstr "サダルバリ"
+
+msgid "Salm"
+msgstr "サルム"
+
+msgid "Alkarab"
+msgstr "アルカラブ"
+
+msgid "Mirfak"
+msgstr "ミルファク"
+
+msgid "Algol"
+msgstr "アルゴル"
+
+msgid "Menkib"
+msgstr "メンキブ"
+
+msgid "Atik"
+msgstr "アティク"
+
+msgid "Miram"
+msgstr "ミラム"
+
+msgid "Misam"
+msgstr "ミサム"
+
+msgid "Ankaa"
+msgstr "アンカー"
+
+msgid "Wurren"
+msgstr "ウーレン"
+
+msgid "Alrescha"
+msgstr "アルレシャ"
+
+msgid "Torcular"
+msgstr "トルクラル"
+
+msgid "Alpherg"
+msgstr "アルフェルグ"
+
+msgid "Fumalsamakah"
+msgstr "フマルサマカー"
+
+msgid "Revati"
+msgstr "レバティ"
+
+msgid "Naos"
+msgstr "ナオス"
+
+msgid "Azmidi"
+msgstr "アズミディ"
+
+msgid "Sham"
+msgstr "シャム"
+
+msgid "Rukbat"
+msgstr "ルクバト"
+
+msgid "Arkab Prior"
+msgstr "アルカブ・プリオル"
+
+msgid "Arkab Posterior"
+msgstr "アルカブ・ポステリオル"
+
+msgid "Alnasl"
+msgstr "アルナスル"
+
+msgid "Kaus Media"
+msgstr "カウス・メディア"
+
+msgid "Kaus Australis"
+msgstr "カウス・アウストラリス"
+
+msgid "Ascella"
+msgstr "アスケラ"
+
+msgid "Kaus Borealis"
+msgstr "カウス・ボレアリス"
+
+msgid "Nunki"
+msgstr "ヌンキ"
+
+msgid "Polis"
+msgstr "ポリス"
+
+msgid "Albaldah"
+msgstr "アルバルダー"
+
+msgid "Terebellum"
+msgstr "テレベルム"
+
+msgid "Ainalrami"
+msgstr "アイナルラミ"
+
+msgid "Acrab"
+msgstr "アクラブ"
+
+msgid "Dschubba"
+msgstr "ドゥスクッバ"
+
+msgid "Sargas"
+msgstr "サルガズ"
+
+msgid "Shaula"
+msgstr "シャウラ"
+
+msgid "Alniyat"
+msgstr "アルニヤト"
+
+msgid "Paikauhale"
+msgstr "パイカウハレ"
+
+msgid "Lesath"
+msgstr "レサート"
+
+msgid "Jabbah"
+msgstr "ヤッバ"
+
+msgid "Xamidimura"
+msgstr "クサミディムラ"
+
+msgid "Pipirima"
+msgstr "ピピリマ"
+
+msgid "Fang"
+msgstr "ファング"
+
+msgid "Iklil"
+msgstr "イクリル"
+
+msgid "Fuyue"
+msgstr "フユエ"
+
+msgid "Larawag"
+msgstr "ララワグ"
+
+msgid "Unukalhai"
+msgstr "ウヌカルハイ"
+
+msgid "Alya"
+msgstr "アリア"
+
+msgid "Gudja"
+msgstr "グドゥヤ"
+
+msgid "Elnath"
+msgstr "エルナト"
+
+msgid "Ain"
+msgstr "アイン"
+
+msgid "Alcyone"
+msgstr "アルキオーネ"
+
+msgid "Celaeno"
+msgstr "ケレノ"
+
+msgid "Electra"
+msgstr "エレクトラ"
+
+msgid "Taygeta"
+msgstr "タイゲタ"
+
+msgid "Maia"
+msgstr "マイア"
+
+msgid "Asterope"
+msgstr "アステローペ"
+
+msgid "Merope"
+msgstr "メローペ"
+
+msgid "Atlas"
+msgstr "アトラス"
+
+msgid "Pleione"
+msgstr "プレイオネ"
+
+msgid "Prima Hyadum"
+msgstr "プリマ・ヒアデュム"
+
+msgid "Secunda Hyadum"
+msgstr "セクンダ・ヒアデュム"
+
+msgid "Chamukuy"
+msgstr "カムクイ"
+
+msgid "Tianguan"
+msgstr "ティアングアン"
+
+msgid "Mothallah"
+msgstr "メタラー"
+
+msgid "Atria"
+msgstr "アトリア"
+
+msgid "Dubhe"
+msgstr "ドゥベー"
+
+msgid "Merak"
+msgstr "メラク"
+
+msgid "Phecda"
+msgstr "フェクダ"
+
+msgid "Megrez"
+msgstr "メグレズ"
+
+msgid "Alioth"
+msgstr "アリオト"
+
+msgid "Mizar"
+msgstr "ミザール"
+
+msgid "Alcor"
+msgstr "アルコル"
+
+msgid "Alkaid"
+msgstr "アルカイド"
+
+msgid "Talitha"
+msgstr "タリタ"
+
+msgid "Tania Borealis"
+msgstr "タニア・ボレアリス"
+
+msgid "Tania Australis"
+msgstr "タニア・アウストラリス"
+
+msgid "Alula Borealis"
+msgstr "アルラ・ボレアリス"
+
+msgid "Alula Australis"
+msgstr "アルラ・アウストラリス"
+
+msgid "Muscida"
+msgstr "ムシダ"
+
+msgid "Taiyangshou"
+msgstr "タイヤンシュー(太陽守)"
+
+msgid "Alkaphrah"
+msgstr "アルカファラー"
+
+msgid "Polaris"
+msgstr "北極星(ポラリス)"
+
+msgid "Kochab"
+msgstr "コカブ"
+
+msgid "Pherkad"
+msgstr "フェルカド"
+
+msgid "Yildun"
+msgstr "イルドゥン"
+
+msgid "Suhail"
+msgstr "スハイル"
+
+msgid "Markeb"
+msgstr "マルケブ"
+
+msgid "Alsephina"
+msgstr "アルセフィナ"
+
+msgid "Zavijava"
+msgstr "ザウィヤワ"
+
+msgid "Minelauva"
+msgstr "ミネラウバ"
+
+msgid "Porrima"
+msgstr "ポリマ"
+
+msgid "Vindemiatrix"
+msgstr "ウィンデミアトリクス"
+
+msgid "Zaniah"
+msgstr "ザニア"
+
+msgid "Syrma"
+msgstr "シルマ"
+
+msgid "Heze"
+msgstr "ヘゼ"
+
+msgid "Khambalia"
+msgstr ""
+
+msgid "Kang"
+msgstr "カング"
+
+msgid "Elgafar"
+msgstr "エルガファル"
+
+msgid "Anser"
+msgstr "アンセル"
+
+msgid "Asellus Borealis "
+msgstr ""
+
+msgid "Proxima Centauri "
+msgstr ""
+
+msgid "Ursa Minor Dwarf"
+msgstr ""
+
+msgid "Draco Dwarf"
+msgstr ""
+
+msgid "Little Dumbbell"
+msgstr ""
+
+msgid "Blinking Planetary"
+msgstr ""
+
+msgid "Bear Paw Galaxy"
+msgstr ""
+
+msgid "The Mice"
+msgstr ""
+
+msgid "Beehive"
+msgstr ""
+
+msgid "Struveis Lost Nebula"
+msgstr ""
+
+msgid "The Triple Cave Nebula"
+msgstr ""
+
+msgid "The Flame"
+msgstr ""
+
+msgid "Ghost of Jupiter"
+msgstr ""
+
+msgid "Parrot's Head"
+msgstr ""
+
+msgid "Blue Planetary"
+msgstr ""
+
+msgid "Eta Carinae Nebula"
+msgstr ""
