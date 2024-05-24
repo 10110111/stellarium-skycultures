@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Josef S, 2023\n"
+"Language-Team: Japanese (https://app.transifex.com/stellarium/teams/80998/"
+"ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Maori"
+msgstr ""
+
+# Sky culture introduction section in markdown format
+msgid ""
+"The Maori (New Zealand) night sky is similar to the Polynesian night sky. "
+"But it differs enough to warrant it's own sky culture. Maritime themes are "
+"central to the Maori sky culture and were used extensively in nautical "
+"navigation. Along with most other cultures, the rising and setting of "
+"prominent stars were used to signal planting and harvesting seasons."
+msgstr ""
+"マオリ族(ニュージーランド)の夜空はポリネシアの人々の夜空と似ています。でも独"
+"自の星の文化であることは保証します。海洋についてがマオリの星の文化の中心であ"
+"り、航海に広く使用されていました。他のほとんどの文化と同様に、有名な星の出没"
+"は、植栽と収穫の季節を知らせるために使用されました。"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Maori sky culture on Stellarium Wiki](http://www.stellarium.org/"
+"wiki/index.php/Sky_cultures#Maori_.28New_Zealand.29): a more complete "
+"version of this text.\n"
+" - [#2]: [The Phoenix Astronomical Society](http://www.astronomynz.org/): a "
+"very good website on Maori sky culture (Wairarapa, New Zealand)."
+msgstr ""
+" - [#1]: [ステラリウムWikiでのマオリの星の文化](http://www.stellarium.org/"
+"wiki/index.php/Sky_cultures#Maori_.28New_Zealand.29):この文章のより完全なバー"
+"ジョン。\n"
+" - [#2]: [The Phoenix Astronomical Society(フェニックス天文学会)](http://www."
+"astronomynz.org/):マオリの星の文化に関する非常に優れたウェブサイト(ニュージー"
+"ランド、ワイララパ)。"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *Dan Smale*, "
+"smaledaniel(at)outlook.com"
+msgstr ""
+"この星の文化はステラリウムユーザーの*Dan Smale*(ダン・スメール、e-mail:"
+"smaledaniel(at)outlook.com)による"
+
+#. TRANSLATORS: Anutan Name
+msgid "Matariki"
+msgstr "マタリキ(Matariki)"
+
+msgid "Taki-o-Autahi"
+msgstr "タキ=オ=アウタヒ"
+
+msgid "Te Taura-o-te-waka-o-tamarereti"
+msgstr "テ・タウラ=オ=テ=ワカ=オ=タマレレティ"
+
+msgid "Tau-toro"
+msgstr "タウ=トロ"
+
+msgid "The Great Boat of Tama Rereti"
+msgstr "タマ・レレティの偉大な舟"
+
+msgid "Matakarehu"
+msgstr "マタカレフ"
+
+msgid "The Sail of Tainui"
+msgstr "タイヌイの帆"
+
+msgid "Waipunarangi"
+msgstr "ワイプナランギ"
+
+msgid "Taumata-kuku"
+msgstr "タウマタ=クク"
+
+msgid "Puanga"
+msgstr "プアンガ"
+
+msgid "Atutahi"
+msgstr "アトゥタヒ"
+
+msgid "Takarua"
+msgstr "タカルア"
+
+msgid "Whakaahu"
+msgstr "ワカーフ"
+
+msgid "Puanga Hori"
+msgstr "プアンガ・ホリ"
+
+msgid "Mariao"
+msgstr "マリアオ"
+
+msgid "Ruawahia"
+msgstr "ルアワヒア"
+
+msgid "Rehua"
+msgstr "レフア"
+
+msgid "Pekehawani"
+msgstr "ペケハワニ"
+
+msgid "Whakaonge-kai"
+msgstr "ワカオンゲ=カイ"
+
+msgid "Whanui"
+msgstr "ワヌイ"
+
+msgid "Poutu-te-Rangi"
+msgstr "ポウトゥ=テ=ランギ"
+
+msgid "Pipiri"
+msgstr "ピピリ"
+
+msgid "Turu"
+msgstr "トゥル"
+
+msgid "Waiti"
+msgstr "ワイティ"
+
+msgid "Waita"
+msgstr "ワイタ"
+
+msgid "Tupuarangi"
+msgstr "トゥプアランギ"
+
+msgid "Pohutukawa"
+msgstr "ポフトゥカワ"
+
+msgid "Hiwa-i-te-rangi"
+msgstr "ヒワ=イ=テ=ランギ"
+
+msgid "Tupuanuku"
+msgstr "トゥプアヌク"
+
+msgid "Ururangi"
+msgstr "ウルランギ"
+
+#. TRANSLATORS: Native name of the Sun in Maori culture
+msgid "Te Ra"
+msgstr "テ・ラ"
+
+#. TRANSLATORS: Native name of the Moon in Maori culture
+msgid "Te Marama"
+msgstr "テ・マラマ"
+
+#. TRANSLATORS: Native name of Mercury in Maori culture
+msgid "Takero"
+msgstr "タケロ"
+
+#. TRANSLATORS: Native name of Venus in Maori culture
+msgid "Tawera/Meremere"
+msgstr "タウェラ/メレメレ"
+
+#. TRANSLATORS: Native name of Earth in Maori culture
+msgid "Papa"
+msgstr "パパ"
+
+#. TRANSLATORS: Native name of Mars in Maori culture
+msgid "Rangiwhenua"
+msgstr "ランギウェヌア"
+
+#. TRANSLATORS: Native name of Jupiter in Maori culture
+msgid "Perearau"
+msgstr "ペレラウ"
+
+#. TRANSLATORS: Native name of Saturn in Maori culture
+msgid "Perearau*"
+msgstr "ペレラウ*"

@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Maori"
+msgstr ""
+
+#. TRANSLATORS: Anutan Name
+msgid "Matariki"
+msgstr "మాటారికి"
+
+msgid "Taki-o-Autahi"
+msgstr "టాకి-ఓ-ఔటాహి"
+
+msgid "Te Taura-o-te-waka-o-tamarereti"
+msgstr "టే టారా-ఓ-టె-వాకా-ఓ-టమరేటి"
+
+msgid "Tau-toro"
+msgstr "టౌ-టోరో"
+
+msgid "The Great Boat of Tama Rereti"
+msgstr "టమా రెరేటి యొక్క్క గొప్ప పడవ"
+
+msgid "Matakarehu"
+msgstr "ంటాకరేహు"
+
+msgid "The Sail of Tainui"
+msgstr "టైనుయి తెరచాప"
+
+msgid "Waipunarangi"
+msgstr "వైపునరంగి"
+
+msgid "Taumata-kuku"
+msgstr "టౌమాటా-కుకు"
+
+msgid "Puanga"
+msgstr "పువాంగా"
+
+msgid "Atutahi"
+msgstr "అటుటాహి"
+
+msgid "Takarua"
+msgstr "టకారువా"
+
+msgid "Whakaahu"
+msgstr "వ్హాకాహు"
+
+msgid "Puanga Hori"
+msgstr "పువాంగా హోరి"
+
+msgid "Mariao"
+msgstr "మరియావో"
+
+msgid "Ruawahia"
+msgstr "రువావాహియా"
+
+msgid "Rehua"
+msgstr "రేహువా"
+
+msgid "Pekehawani"
+msgstr "పెకెహవాని"
+
+msgid "Whakaonge-kai"
+msgstr "వ్హాకాంగే-కై"
+
+msgid "Whanui"
+msgstr "వ్హానూయి"
+
+msgid "Poutu-te-Rangi"
+msgstr "పౌటు-టే-రంగి"
+
+msgid "Pipiri"
+msgstr "పిపిరి"
+
+msgid "Turu"
+msgstr "తురు"
+
+msgid "Waiti"
+msgstr "వైటీ"
+
+msgid "Waita"
+msgstr "వైటా"
+
+msgid "Tupuarangi"
+msgstr "టుపువరంగి"
+
+msgid "Pohutukawa"
+msgstr "పొహుటుకావా"
+
+msgid "Hiwa-i-te-rangi"
+msgstr "హివ-ఇ-టె-రంగి"
+
+msgid "Tupuanuku"
+msgstr "తుపువనుకు"
+
+msgid "Ururangi"
+msgstr "ఉరురంగి"
+
+#. TRANSLATORS: Native name of the Sun in Maori culture
+msgid "Te Ra"
+msgstr "టే రా"
+
+#. TRANSLATORS: Native name of the Moon in Maori culture
+msgid "Te Marama"
+msgstr "టే మరామా"
+
+#. TRANSLATORS: Native name of Mercury in Maori culture
+msgid "Takero"
+msgstr "టకేరో"
+
+#. TRANSLATORS: Native name of Venus in Maori culture
+msgid "Tawera/Meremere"
+msgstr "టవేరా/మెరెమెరె"
+
+#. TRANSLATORS: Native name of Earth in Maori culture
+msgid "Papa"
+msgstr "పాపా"
+
+#. TRANSLATORS: Native name of Mars in Maori culture
+msgid "Rangiwhenua"
+msgstr "రంగివ్హేనువా"
+
+#. TRANSLATORS: Native name of Jupiter in Maori culture
+msgid "Perearau"
+msgstr "పెరేరౌ"
+
+#. TRANSLATORS: Native name of Saturn in Maori culture
+msgid "Perearau*"
+msgstr "పెరేరౌ*"
