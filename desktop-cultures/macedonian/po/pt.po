@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Portuguese (https://app.transifex.com/stellarium/teams/80998/"
+"pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Macedonian"
+msgstr ""
+
+msgid "Libra"
+msgstr "Libra (Balança)"
+
+msgid "Plough"
+msgstr "Arado"
+
+msgid "Fox"
+msgstr "Raposa"
+
+msgid "Yoke"
+msgstr "Canga"
+
+msgid "Cross"
+msgstr "Cruz"
+
+msgid "Ploughman"
+msgstr "Homem do Arado"
+
+msgid "'Aramii' (organized group of thieves)"
+msgstr "'Aramii' (grupo organizado de ladrões)"
+
+msgid "Mother Hen"
+msgstr "Mãe Galinha"
+
+msgid "Oxen"
+msgstr "Bois"
+
+msgid "Wolves"
+msgstr "Lobos"
+
+msgid "Threshing Floor"
+msgstr "Eira"
+
+msgid "Hawk"
+msgstr "Falcão"
+
+msgid "Tongs"
+msgstr "Tenazes"
+
+msgid "Cock"
+msgstr "Galo"
+
+msgid "Trivet"
+msgstr "Tripé"
+
+msgid "Round Table"
+msgstr "Mesa Redonda"
+
+msgid "Pigs"
+msgstr "Porcos"
+
+msgid "Auger"
+msgstr "Broca"
+
+msgid "Part of Plough 'Ushi'"
+msgstr "Parte do Arado 'Ushi'"
+
+msgid "Mediterranean star"
+msgstr "Estrela do Mediterrâneo"

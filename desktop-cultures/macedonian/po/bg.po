@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander Shopov <ash@kambanaria.org>, 2022\n"
+"Language-Team: Bulgarian (https://app.transifex.com/stellarium/teams/80998/"
+"bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Macedonian"
+msgstr ""
+
+msgid "Libra"
+msgstr "Везни"
+
+msgid "Plough"
+msgstr "Рало"
+
+msgid "Fox"
+msgstr "Лисица"
+
+msgid "Yoke"
+msgstr "Хомот"
+
+msgid "Cross"
+msgstr "Кръст"
+
+msgid "Ploughman"
+msgstr "Орач"
+
+msgid "'Aramii' (organized group of thieves)"
+msgstr "Харамии (крадци)"
+
+msgid "Mother Hen"
+msgstr "Квачката"
+
+msgid "Oxen"
+msgstr "Волове"
+
+msgid "Wolves"
+msgstr "Вълци"
+
+msgid "Threshing Floor"
+msgstr "Харман"
+
+msgid "Hawk"
+msgstr "Орел"
+
+msgid "Tongs"
+msgstr "Дилаф"
+
+msgid "Cock"
+msgstr "Петел"
+
+msgid "Trivet"
+msgstr "Пиростия"
+
+msgid "Round Table"
+msgstr "Кръгла маса"
+
+msgid "Pigs"
+msgstr "Прасета"
+
+msgid "Auger"
+msgstr "Бургия"
+
+msgid "Part of Plough 'Ushi'"
+msgstr "Воище"
+
+msgid "Mediterranean star"
+msgstr "Средиземноморската звезда"
