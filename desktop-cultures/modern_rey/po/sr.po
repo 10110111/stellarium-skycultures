@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Serbian (https://app.transifex.com/stellarium/teams/80998/"
+"sr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr ""
+
+msgid "Pleiades"
+msgstr "Влашићи"
+
+msgid "Ursa Minor"
+msgstr "Мали медвед"
+
+msgid "Ursa Major"
+msgstr "Велики медвед"
+
+msgid "Draco"
+msgstr "Змај"
+
+msgid "Cepheus"
+msgstr "Кефеј"
+
+msgid "Bootes"
+msgstr "Волар"
+
+msgid "Corona Borealis"
+msgstr "Северна круна"
+
+msgid "Hercules"
+msgstr "Херкул"
+
+msgid "Lyra"
+msgstr "Лира"
+
+msgid "Cygnus"
+msgstr "Лабуд"
+
+msgid "Cassiopeia"
+msgstr "Касиопеја"
+
+msgid "Perseus"
+msgstr "Персеј"
+
+msgid "Auriga"
+msgstr "Кочијаш"
+
+msgid "Ophiuchus"
+msgstr "Змијоноша"
+
+msgid "Serpens"
+msgstr "Змија"
+
+msgid "Sagitta"
+msgstr "Стрелица"
+
+msgid "Aquila"
+msgstr "Орао"
+
+msgid "Delphinus"
+msgstr "Делфин"
+
+msgid "Equuleus"
+msgstr "Ждребе"
+
+msgid "Pegasus"
+msgstr "Пегаз"
+
+msgid "Andromeda"
+msgstr "Андромеда"
+
+msgid "Triangulum"
+msgstr "Троугао"
+
+msgid "Aries"
+msgstr "Ован"
+
+msgid "Taurus"
+msgstr "Бик"
+
+msgid "Gemini"
+msgstr "Близанци"
+
+msgid "Cancer"
+msgstr "Рак"
+
+msgid "Leo"
+msgstr "Лав"
+
+msgid "Virgo"
+msgstr "Девица"
+
+msgid "Libra"
+msgstr "Вага"
+
+msgid "Scorpius"
+msgstr "Шкорпија"
+
+msgid "Sagittarius"
+msgstr "Стрелац"
+
+msgid "Capricornus"
+msgstr "Јарац"
+
+msgid "Aquarius"
+msgstr "Водолија"
+
+msgid "Pisces"
+msgstr "Рибе"
+
+msgid "Cetus"
+msgstr "Кето"
+
+msgid "Orion"
+msgstr "Орион"
+
+msgid "Eridanus"
+msgstr "Река Еридан"
+
+msgid "Lepus"
+msgstr "Зец"
+
+msgid "Canis Major"
+msgstr "Велики пас"
+
+msgid "Canis Minor"
+msgstr "Мали пас"
+
+msgid "Hydra"
+msgstr "Хидра"
+
+msgid "Crater"
+msgstr "Пехар"
+
+msgid "Corvus"
+msgstr "Гавран"
+
+msgid "Centaurus"
+msgstr "Кентаур"
+
+msgid "Lupus"
+msgstr "Вук"
+
+msgid "Ara"
+msgstr "Ара"
+
+msgid "Corona Australis"
+msgstr "Јужна круна"
+
+msgid "Piscis Austrinus"
+msgstr "Јужна риба"
+
+msgid "Procyon"
+msgstr "Просион"
+
+msgid "Sirius"
+msgstr "Сиријус"
+
+msgid "Arcturus"
+msgstr "Арктурус"
+
+msgid "Vega"
+msgstr "Вега"
+
+msgid "Capella"
+msgstr "Капела"
+
+msgid "Aldebaran"
+msgstr "Алдебаран"
+
+msgid "Regulus"
+msgstr "Регулус"
+
+msgid "Denebola"
+msgstr "Денебола"
+
+msgid "Spica"
+msgstr "Спика"
+
+msgid "Fomalhaut"
+msgstr "Фомалхаут"
+
+msgid "Betelgeuse"
+msgstr "Бетелгејз"
+
+msgid "Rigel"
+msgstr "Ригел"
+
+msgid "Canopus"
+msgstr "Канопус"
+
+msgid "Achernar"
+msgstr "Ашернар"
+
+msgid "Acrux"
+msgstr "Акрукс"
+
+msgid "Antares"
+msgstr "Антарес"
+
+msgid "Sculptor"
+msgstr "Вајар"
+
+msgid "Pyxis"
+msgstr "Компас"
+
+msgid "Caelum"
+msgstr "Длето"
+
+msgid "Chamaeleon"
+msgstr "Камелеон"
+
+msgid "Carina"
+msgstr "Прамац"
+
+msgid "Coma Berenices"
+msgstr "Береникина коса"
+
+msgid "Canes Venatici"
+msgstr "Ловачки пси"
+
+msgid "Columba"
+msgstr "Голуб"
+
+msgid "Circinus"
+msgstr "Шестар"
+
+msgid "Crux"
+msgstr "Крст"
+
+msgid "Dorado"
+msgstr "Златна риба"
+
+msgid "Norma"
+msgstr "Лењир"
+
+msgid "Fornax"
+msgstr "Пећ (хемијска)"
+
+msgid "Camelopardalis"
+msgstr "Жирафа"
+
+msgid "Grus"
+msgstr "Ждрал"
+
+msgid "Horologium"
+msgstr "Часовник"
+
+msgid "Hydrus"
+msgstr "Хидрон"
+
+msgid "Indus"
+msgstr "Индијанац"
+
+msgid "Lacerta"
+msgstr "Гуштерица"
+
+msgid "Monoceros"
+msgstr "Једнорог"
+
+msgid "Lynx"
+msgstr "Рис"
+
+msgid "Antlia"
+msgstr "Пумпа"
+
+msgid "Microscopium"
+msgstr "Микроскоп"
+
+msgid "Octans"
+msgstr "Октант"
+
+msgid "Apus"
+msgstr "Рајска птица"
+
+msgid "Pavo"
+msgstr "Паун"
+
+msgid "Pictor"
+msgstr "Сликар"
+
+msgid "Leo Minor"
+msgstr "Мали лав"
+
+msgid "Vulpecula"
+msgstr "Лисичица"
+
+msgid "Phoenix"
+msgstr "Феникс"
+
+msgid "Volans"
+msgstr "Летећа риба"
+
+msgid "Puppis"
+msgstr "Крма"
+
+msgid "Reticulum"
+msgstr "Мрежица"
+
+msgid "Scutum"
+msgstr "Штит"
+
+msgid "Sextans"
+msgstr "Секстант"
+
+msgid "Mensa"
+msgstr "Менса"
+
+msgid "Telescopium"
+msgstr "Телескоп"
+
+msgid "Tucana"
+msgstr "Тукан"
+
+msgid "Triangulum Australe"
+msgstr "Јужни троугао"
+
+msgid "Vela"
+msgstr "Једра"
+
+msgid "Altair"
+msgstr "Алтер"
+
+msgid "Cor Caroli"
+msgstr "Кор Кароли"
+
+msgid "Mira"
+msgstr "Мира"
+
+msgid "Gemma"
+msgstr "Пупољак"
+
+msgid "Deneb"
+msgstr "Денеб"
+
+msgid "Albireo"
+msgstr "Албирео"
+
+msgid "Thuban"
+msgstr "Тубан"
+
+msgid "Castor"
+msgstr "Кастор"
+
+msgid "Pollux"
+msgstr "Полукс"
+
+msgid "Alphard"
+msgstr "Алфард"
+
+msgid "Algol"
+msgstr "Алгол"
+
+msgid "Mizar"
+msgstr "Мизар"
+
+msgid "Alcor"
+msgstr "Алкор"
+
+msgid "Kochab"
+msgstr "Кочаб"
+
+msgid "Guardians"
+msgstr "Чувари"
+
+msgid "feet"
+msgstr "Стопа"
+
+msgid "head"
+msgstr "Глава"
+
+msgid "tail"
+msgstr "Реп"
+
+msgid "Pointers"
+msgstr "Показивачи"
+
+msgid "paws"
+msgstr "Шапе"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "Тело"
+
+msgid "pipe"
+msgstr "Цев"
+
+msgid "wing"
+msgstr "Крило"
+
+msgid "outstretched neck"
+msgstr "Издужен врат"
+
+msgid "Keystone"
+msgstr "Темељац"
+
+msgid "club"
+msgstr "Клуб"
+
+msgid "the chain"
+msgstr "Ланац"
+
+msgid "horn"
+msgstr "Рог"
+
+msgid "belt"
+msgstr "Појас"
+
+msgid "shield"
+msgstr "Штит"
+
+msgid "Hydra's head"
+msgstr "Хидрина глава"
+
+msgid "Hydra's tail"
+msgstr "Хидрин реп"
+
+msgid "bill"
+msgstr "Рачун"
+
+msgid "foot"
+msgstr "Стопа"
+
+msgid "arm"
+msgstr "Рука"
+
+msgid "cat's eyes"
+msgstr "Мачије очи"
+
+msgid "claws"
+msgstr "Канџе"
+
+msgid "skirt"
+msgstr "Сукња"
+
+msgid "the bow"
+msgstr "Лук"
+
+msgid "vessel"
+msgstr "Брод"
+
+msgid "Knot"
+msgstr "Чвор"
+
+msgid "Northern Fish"
+msgstr "Северна риба"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "Глава фигуре"
+
+msgid "transom"
+msgstr "Попречна греда"
+
+msgid "front legs"
+msgstr "Предње ноге"
+
+msgid "hind legs"
+msgstr "Задње ноге"
+
+msgid "ears"
+msgstr "Уши"
+
+msgid "Fly"
+msgstr "Лети"
+
+msgid "eyes"
+msgstr "Очи"
+
+msgid "Pole Star"
+msgstr "Поларна звезда"
+
+msgid "Tau Ceti"
+msgstr "Тау Кети"
+
+msgid "Alpha Centauri"
+msgstr "α Кентаур"
+
+msgid "Beta Centauri"
+msgstr "β Кентаур"

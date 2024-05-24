@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Icelandic (https://app.transifex.com/stellarium/teams/80998/"
+"is/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "Nútímalegt (H.A. Rey)"
+
+msgid "Pleiades"
+msgstr "Sjöstirnið"
+
+msgid "Ursa Minor"
+msgstr "Litlibjörn"
+
+msgid "Ursa Major"
+msgstr "Stóribjörn"
+
+msgid "Draco"
+msgstr "Drekinn"
+
+msgid "Cepheus"
+msgstr "Sefeus"
+
+msgid "Bootes"
+msgstr "Hjarðmaðurinn"
+
+msgid "Corona Borealis"
+msgstr "Norðurkórónan"
+
+msgid "Hercules"
+msgstr "Herkúles"
+
+msgid "Lyra"
+msgstr "Harpan"
+
+msgid "Cygnus"
+msgstr "Svanurinn"
+
+msgid "Cassiopeia"
+msgstr "Kassíópeia"
+
+msgid "Perseus"
+msgstr "Perseifur"
+
+msgid "Auriga"
+msgstr "Ökumaðurinn"
+
+msgid "Ophiuchus"
+msgstr "Naðurvaldi"
+
+msgid "Serpens"
+msgstr "Höggormurinn"
+
+msgid "Sagitta"
+msgstr "Örin"
+
+msgid "Aquila"
+msgstr "Örninn"
+
+msgid "Delphinus"
+msgstr "Höfrungurinn"
+
+msgid "Equuleus"
+msgstr "Folinn"
+
+msgid "Pegasus"
+msgstr "Vængfákurinn"
+
+msgid "Andromeda"
+msgstr "Andrómeda"
+
+msgid "Triangulum"
+msgstr "Þríhyrningurinn"
+
+msgid "Aries"
+msgstr "Hrúturinn"
+
+msgid "Taurus"
+msgstr "Nautið"
+
+msgid "Gemini"
+msgstr "Tvíburarnir"
+
+msgid "Cancer"
+msgstr "Krabbinn"
+
+msgid "Leo"
+msgstr "Ljónið"
+
+msgid "Virgo"
+msgstr "Meyjan"
+
+msgid "Libra"
+msgstr "Vogin"
+
+msgid "Scorpius"
+msgstr "Sporðdrekinn"
+
+msgid "Sagittarius"
+msgstr "Bogmaðurinn"
+
+msgid "Capricornus"
+msgstr "Steingeitin"
+
+msgid "Aquarius"
+msgstr "Vatnsberinn"
+
+msgid "Pisces"
+msgstr "Fiskarnir"
+
+msgid "Cetus"
+msgstr "Hvalurinn"
+
+msgid "Orion"
+msgstr "Óríon"
+
+msgid "Eridanus"
+msgstr "Fljótið"
+
+msgid "Lepus"
+msgstr "Hérinn"
+
+msgid "Canis Major"
+msgstr "Stórihundur"
+
+msgid "Canis Minor"
+msgstr "Litlihundur"
+
+msgid "Hydra"
+msgstr "Vatnaskrímslið"
+
+msgid "Crater"
+msgstr "Bikarinn"
+
+msgid "Corvus"
+msgstr "Hrafninn"
+
+msgid "Centaurus"
+msgstr "Mannfákurinn"
+
+msgid "Lupus"
+msgstr "Úlfurinn"
+
+msgid "Ara"
+msgstr "Altarið"
+
+msgid "Corona Australis"
+msgstr "Suðurkórónan"
+
+msgid "Piscis Austrinus"
+msgstr "Suðurfiskurinn"
+
+msgid "Procyon"
+msgstr "Prókýon"
+
+msgid "Sirius"
+msgstr "Síríus"
+
+msgid "Arcturus"
+msgstr "Arktúrus"
+
+msgid "Vega"
+msgstr "Vega (Blástjarnan)"
+
+msgid "Capella"
+msgstr "Kapella (Kaupmannastjarnan)"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regúlus"
+
+msgid "Denebola"
+msgstr "Denebóla"
+
+msgid "Spica"
+msgstr "Axið (Spíka)"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgás"
+
+msgid "Rigel"
+msgstr "Rígel"
+
+msgid "Canopus"
+msgstr "Kanópus"
+
+msgid "Achernar"
+msgstr "Akernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Myndhöggvarinn"
+
+msgid "Pyxis"
+msgstr "Áttavitinn"
+
+msgid "Caelum"
+msgstr "Meitillinn"
+
+msgid "Chamaeleon"
+msgstr "Kamelljónið"
+
+msgid "Carina"
+msgstr "Kjölurinn"
+
+msgid "Coma Berenices"
+msgstr "Bereníkuhaddur"
+
+msgid "Canes Venatici"
+msgstr "Veiðihundarnir"
+
+msgid "Columba"
+msgstr "Dúfan"
+
+msgid "Circinus"
+msgstr "Hringfarinn"
+
+msgid "Crux"
+msgstr "Suðurkrossinn"
+
+msgid "Dorado"
+msgstr "Sverðfiskurinn"
+
+msgid "Norma"
+msgstr "Hornmátið"
+
+msgid "Fornax"
+msgstr "Ofninn"
+
+msgid "Camelopardalis"
+msgstr "Gíraffinn"
+
+msgid "Grus"
+msgstr "Tranan"
+
+msgid "Horologium"
+msgstr "Klukkan"
+
+msgid "Hydrus"
+msgstr "Lagarormurinn"
+
+msgid "Indus"
+msgstr "Indíáninn"
+
+msgid "Lacerta"
+msgstr "Eðlan"
+
+msgid "Monoceros"
+msgstr "Einhyrningurinn"
+
+msgid "Lynx"
+msgstr "Gaupan"
+
+msgid "Antlia"
+msgstr "Dælan"
+
+msgid "Microscopium"
+msgstr "Smásjáin"
+
+msgid "Octans"
+msgstr "Áttungurinn"
+
+msgid "Apus"
+msgstr "Paradísarfuglinn"
+
+msgid "Pavo"
+msgstr "Páfuglinn"
+
+msgid "Pictor"
+msgstr "Málarinn"
+
+msgid "Leo Minor"
+msgstr "Litlaljón"
+
+msgid "Vulpecula"
+msgstr "Litlirefur"
+
+msgid "Phoenix"
+msgstr "Fönix"
+
+msgid "Volans"
+msgstr "Flugfiskurinn"
+
+msgid "Puppis"
+msgstr "Skuturinn"
+
+msgid "Reticulum"
+msgstr "Netið"
+
+msgid "Scutum"
+msgstr "Skjöldurinn"
+
+msgid "Sextans"
+msgstr "Sextantinn"
+
+msgid "Mensa"
+msgstr "Borðið"
+
+msgid "Telescopium"
+msgstr "Sjónaukinn"
+
+msgid "Tucana"
+msgstr "Piparfuglinn"
+
+msgid "Triangulum Australe"
+msgstr "Suðurþríhyrningurinn"
+
+msgid "Vela"
+msgstr "Seglið"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Míra"
+
+msgid "Gemma"
+msgstr ""
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albíreó"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Kastor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mízar"
+
+msgid "Alcor"
+msgstr "Alkor"
+
+msgid "Kochab"
+msgstr ""
+
+msgid "Guardians"
+msgstr ""
+
+msgid "feet"
+msgstr "fætur"
+
+msgid "head"
+msgstr "höfuð"
+
+msgid "tail"
+msgstr "hali"
+
+msgid "Pointers"
+msgstr ""
+
+msgid "paws"
+msgstr "loppur"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "búkur"
+
+msgid "pipe"
+msgstr "goggur"
+
+msgid "wing"
+msgstr "vængur"
+
+msgid "outstretched neck"
+msgstr "teygður háls"
+
+msgid "Keystone"
+msgstr ""
+
+msgid "club"
+msgstr "kylfa"
+
+msgid "the chain"
+msgstr "keðjan"
+
+msgid "horn"
+msgstr "horn"
+
+msgid "belt"
+msgstr "belti"
+
+msgid "shield"
+msgstr "skjöldur"
+
+msgid "Hydra's head"
+msgstr ""
+
+msgid "Hydra's tail"
+msgstr ""
+
+msgid "bill"
+msgstr ""
+
+msgid "foot"
+msgstr "fótur"
+
+msgid "arm"
+msgstr "handleggur"
+
+msgid "cat's eyes"
+msgstr "kattaraugu"
+
+msgid "claws"
+msgstr "klær"
+
+msgid "skirt"
+msgstr "pils"
+
+msgid "the bow"
+msgstr "boginn"
+
+msgid "vessel"
+msgstr "bátur"
+
+msgid "Knot"
+msgstr ""
+
+msgid "Northern Fish"
+msgstr ""
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "stafnlíkneski"
+
+msgid "transom"
+msgstr ""
+
+msgid "front legs"
+msgstr "framlappir"
+
+msgid "hind legs"
+msgstr "afturlappir"
+
+msgid "ears"
+msgstr "eyru"
+
+msgid "Fly"
+msgstr ""
+
+msgid "eyes"
+msgstr "augu"
+
+msgid "Pole Star"
+msgstr "Pólstjarna"
+
+msgid "Tau Ceti"
+msgstr ""
+
+msgid "Alpha Centauri"
+msgstr ""
+
+msgid "Beta Centauri"
+msgstr ""

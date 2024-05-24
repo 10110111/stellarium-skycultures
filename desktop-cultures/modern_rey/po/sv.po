@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Karl Birgersson <birgerssonkarl@outlook.com>, 2022\n"
+"Language-Team: Swedish (https://app.transifex.com/stellarium/teams/80998/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "Modern (H.A. Rey)"
+
+msgid "Pleiades"
+msgstr "Plejaderna"
+
+msgid "Ursa Minor"
+msgstr "Lilla björnen"
+
+msgid "Ursa Major"
+msgstr "Stora björnen"
+
+msgid "Draco"
+msgstr "Draken"
+
+msgid "Cepheus"
+msgstr "Cepheus"
+
+msgid "Bootes"
+msgstr "Björnvaktaren"
+
+msgid "Corona Borealis"
+msgstr "Norra kronan"
+
+msgid "Hercules"
+msgstr "Herkules"
+
+msgid "Lyra"
+msgstr "Lyran"
+
+msgid "Cygnus"
+msgstr "Svanen"
+
+msgid "Cassiopeia"
+msgstr "Cassiopeja"
+
+msgid "Perseus"
+msgstr "Perseus"
+
+msgid "Auriga"
+msgstr "Kusken"
+
+msgid "Ophiuchus"
+msgstr "Ormbäraren"
+
+msgid "Serpens"
+msgstr "Ormen"
+
+msgid "Sagitta"
+msgstr "Pilen"
+
+msgid "Aquila"
+msgstr "Örnen"
+
+msgid "Delphinus"
+msgstr "Delfinen"
+
+msgid "Equuleus"
+msgstr "Lilla hästen"
+
+msgid "Pegasus"
+msgstr "Pegasus"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Triangeln"
+
+msgid "Aries"
+msgstr "Väduren"
+
+msgid "Taurus"
+msgstr "Oxen"
+
+msgid "Gemini"
+msgstr "Tvillingarna"
+
+msgid "Cancer"
+msgstr "Kräftan"
+
+msgid "Leo"
+msgstr "Lejonet"
+
+msgid "Virgo"
+msgstr "Jungfrun"
+
+msgid "Libra"
+msgstr "Vågen"
+
+msgid "Scorpius"
+msgstr "Skorpionen"
+
+msgid "Sagittarius"
+msgstr "Skytten"
+
+msgid "Capricornus"
+msgstr "Stenbocken"
+
+msgid "Aquarius"
+msgstr "Vattumannen"
+
+msgid "Pisces"
+msgstr "Fiskarna"
+
+msgid "Cetus"
+msgstr "Valfisken"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Floden Eridanus"
+
+msgid "Lepus"
+msgstr "Haren"
+
+msgid "Canis Major"
+msgstr "Stora hunden"
+
+msgid "Canis Minor"
+msgstr "Lilla hunden"
+
+msgid "Hydra"
+msgstr "Vattenormen"
+
+msgid "Crater"
+msgstr "Bägaren"
+
+msgid "Corvus"
+msgstr "Korpen"
+
+msgid "Centaurus"
+msgstr "Kentauren"
+
+msgid "Lupus"
+msgstr "Vargen"
+
+msgid "Ara"
+msgstr "Altaret"
+
+msgid "Corona Australis"
+msgstr "Södra kronan"
+
+msgid "Piscis Austrinus"
+msgstr "Södra fisken"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Sirius"
+msgstr "Sirius"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Bildhuggaren"
+
+msgid "Pyxis"
+msgstr "Kompassen"
+
+msgid "Caelum"
+msgstr "Gravstickeln"
+
+msgid "Chamaeleon"
+msgstr "Kameleonten"
+
+msgid "Carina"
+msgstr "Kölen"
+
+msgid "Coma Berenices"
+msgstr "Berenikes hår"
+
+msgid "Canes Venatici"
+msgstr "Jakthundarna"
+
+msgid "Columba"
+msgstr "Duvan"
+
+msgid "Circinus"
+msgstr "Cirkelpassaren"
+
+msgid "Crux"
+msgstr "Södra korset"
+
+msgid "Dorado"
+msgstr "Svärdfisken"
+
+msgid "Norma"
+msgstr "Vinkelhaken"
+
+msgid "Fornax"
+msgstr "Ugnen"
+
+msgid "Camelopardalis"
+msgstr "Giraffen"
+
+msgid "Grus"
+msgstr "Tranan"
+
+msgid "Horologium"
+msgstr "Pendeluret"
+
+msgid "Hydrus"
+msgstr "Lilla vattenormen"
+
+msgid "Indus"
+msgstr "Indianen"
+
+msgid "Lacerta"
+msgstr "Ödlan"
+
+msgid "Monoceros"
+msgstr "Enhörningen"
+
+msgid "Lynx"
+msgstr "Lodjuret"
+
+msgid "Antlia"
+msgstr "Luftpumpen"
+
+msgid "Microscopium"
+msgstr "Mikroskopet"
+
+msgid "Octans"
+msgstr "Oktanten"
+
+msgid "Apus"
+msgstr "Paradisfågeln"
+
+msgid "Pavo"
+msgstr "Påfågeln"
+
+msgid "Pictor"
+msgstr "Målaren"
+
+msgid "Leo Minor"
+msgstr "Lilla lejonet"
+
+msgid "Vulpecula"
+msgstr "Räven"
+
+msgid "Phoenix"
+msgstr "Fenix"
+
+msgid "Volans"
+msgstr "Flygfisken"
+
+msgid "Puppis"
+msgstr "Akterskeppet"
+
+msgid "Reticulum"
+msgstr "Rombiska nätet"
+
+msgid "Scutum"
+msgstr "Skölden"
+
+msgid "Sextans"
+msgstr "Sextanten"
+
+msgid "Mensa"
+msgstr "Taffelberget"
+
+msgid "Telescopium"
+msgstr "Kikaren"
+
+msgid "Tucana"
+msgstr "Tukanen"
+
+msgid "Triangulum Australe"
+msgstr "Södra triangeln"
+
+msgid "Vela"
+msgstr "Seglet"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr "Gemma"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr "Väktarna"
+
+msgid "feet"
+msgstr "fot"
+
+msgid "head"
+msgstr "huvud"
+
+msgid "tail"
+msgstr "svans"
+
+msgid "Pointers"
+msgstr "Pekarna"
+
+msgid "paws"
+msgstr "tassar"
+
+msgid "rump"
+msgstr "bakdel"
+
+msgid "body"
+msgstr "kropp"
+
+msgid "pipe"
+msgstr "pipa"
+
+msgid "wing"
+msgstr "vinge"
+
+msgid "outstretched neck"
+msgstr "utsträckt nacke"
+
+msgid "Keystone"
+msgstr "Slutsten"
+
+msgid "club"
+msgstr "klubba"
+
+msgid "the chain"
+msgstr "kedjan"
+
+msgid "horn"
+msgstr "horn"
+
+msgid "belt"
+msgstr "bälte"
+
+msgid "shield"
+msgstr "sköld"
+
+msgid "Hydra's head"
+msgstr "Vattenormens huvud"
+
+msgid "Hydra's tail"
+msgstr "Vattenormens svans"
+
+msgid "bill"
+msgstr "näbb"
+
+msgid "foot"
+msgstr "fot"
+
+msgid "arm"
+msgstr "arm"
+
+msgid "cat's eyes"
+msgstr "kattögon"
+
+msgid "claws"
+msgstr "klor"
+
+msgid "skirt"
+msgstr "klädsel"
+
+msgid "the bow"
+msgstr "pilpågen"
+
+msgid "vessel"
+msgstr "kärl"
+
+msgid "Knot"
+msgstr "Knut"
+
+msgid "Northern Fish"
+msgstr "Norra fisken"
+
+msgid "Western Fish"
+msgstr "Västra fisken"
+
+msgid "figurehead"
+msgstr "galjonsfigur"
+
+msgid "transom"
+msgstr "akterspegel"
+
+msgid "front legs"
+msgstr "framben"
+
+msgid "hind legs"
+msgstr "bakben"
+
+msgid "ears"
+msgstr "öron"
+
+msgid "Fly"
+msgstr "Fluga"
+
+msgid "eyes"
+msgstr "ögon"
+
+msgid "Pole Star"
+msgstr "Polstjärnan"
+
+msgid "Tau Ceti"
+msgstr "Tau Ceti"
+
+msgid "Alpha Centauri"
+msgstr "Alfa Centauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Centauri"

@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: 03bfdb1e3bdfa21b80c8160ea93f1c67_2436d66, 2022\n"
+"Language-Team: Turkish (https://app.transifex.com/stellarium/teams/80998/"
+"tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "Modern (H.A. Rey)"
+
+msgid "Pleiades"
+msgstr "Ülker"
+
+msgid "Ursa Minor"
+msgstr "Küçük Ayı"
+
+msgid "Ursa Major"
+msgstr "Büyük Ayı"
+
+msgid "Draco"
+msgstr "Ejderha"
+
+msgid "Cepheus"
+msgstr "Kral"
+
+msgid "Bootes"
+msgstr "Çoban"
+
+msgid "Corona Borealis"
+msgstr "Kuzey Tacı"
+
+msgid "Hercules"
+msgstr "Herkül"
+
+msgid "Lyra"
+msgstr "Çalgı"
+
+msgid "Cygnus"
+msgstr "Kuğu"
+
+msgid "Cassiopeia"
+msgstr "Kraliçe"
+
+msgid "Perseus"
+msgstr "Kahraman"
+
+msgid "Auriga"
+msgstr "Arabacı"
+
+msgid "Ophiuchus"
+msgstr "Yılancı"
+
+msgid "Serpens"
+msgstr "Yılan"
+
+msgid "Sagitta"
+msgstr "Ok"
+
+msgid "Aquila"
+msgstr "Kartal"
+
+msgid "Delphinus"
+msgstr "Yunus"
+
+msgid "Equuleus"
+msgstr "Tay"
+
+msgid "Pegasus"
+msgstr "Kanatlı At"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Üçgen"
+
+msgid "Aries"
+msgstr "Koç"
+
+msgid "Taurus"
+msgstr "Boğa"
+
+msgid "Gemini"
+msgstr "İkizler"
+
+msgid "Cancer"
+msgstr "Yengeç"
+
+msgid "Leo"
+msgstr "Aslan"
+
+msgid "Virgo"
+msgstr "Başak"
+
+msgid "Libra"
+msgstr "Terazi"
+
+msgid "Scorpius"
+msgstr "Akrep"
+
+msgid "Sagittarius"
+msgstr "Yay"
+
+msgid "Capricornus"
+msgstr "Oğlak"
+
+msgid "Aquarius"
+msgstr "Kova"
+
+msgid "Pisces"
+msgstr "Balık"
+
+msgid "Cetus"
+msgstr "Balina (Cetus)"
+
+msgid "Orion"
+msgstr "Avcı"
+
+msgid "Eridanus"
+msgstr "Irmak"
+
+msgid "Lepus"
+msgstr "Tavşan"
+
+msgid "Canis Major"
+msgstr "Büyük Köpek"
+
+msgid "Canis Minor"
+msgstr "Küçük Köpek"
+
+msgid "Hydra"
+msgstr "Su Yılanı"
+
+msgid "Crater"
+msgstr "Kupa"
+
+msgid "Corvus"
+msgstr "Karga"
+
+msgid "Centaurus"
+msgstr "Erboğa"
+
+msgid "Lupus"
+msgstr "Kurt"
+
+msgid "Ara"
+msgstr "Ara"
+
+msgid "Corona Australis"
+msgstr "Güney Tacı"
+
+msgid "Piscis Austrinus"
+msgstr "Güney Balığı"
+
+msgid "Procyon"
+msgstr "Öncü"
+
+msgid "Sirius"
+msgstr "Akyıldız"
+
+msgid "Arcturus"
+msgstr "Arktürüs"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Kapella"
+
+msgid "Aldebaran"
+msgstr "Eldeberan"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Başakçı"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "İkizlerevi"
+
+msgid "Rigel"
+msgstr "Ayak"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Ağız"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Akrep Yüreği"
+
+msgid "Sculptor"
+msgstr "Heykeltraş"
+
+msgid "Pyxis"
+msgstr "Pusula"
+
+msgid "Caelum"
+msgstr "Çelikkalem"
+
+msgid "Chamaeleon"
+msgstr "Bukalemun"
+
+msgid "Carina"
+msgstr "Karina"
+
+msgid "Coma Berenices"
+msgstr "Berenis'in Saçı"
+
+msgid "Canes Venatici"
+msgstr "Av Köpekleri"
+
+msgid "Columba"
+msgstr "Güvercin"
+
+msgid "Circinus"
+msgstr "Pergel"
+
+msgid "Crux"
+msgstr "Güney Haçı"
+
+msgid "Dorado"
+msgstr "Kılıç Balığı"
+
+msgid "Norma"
+msgstr "Cetvel"
+
+msgid "Fornax"
+msgstr "Ocak"
+
+msgid "Camelopardalis"
+msgstr "Zürafa"
+
+msgid "Grus"
+msgstr "Turna"
+
+msgid "Horologium"
+msgstr "Saat"
+
+msgid "Hydrus"
+msgstr "Küçük Su Yılanı"
+
+msgid "Indus"
+msgstr "Kızılderili"
+
+msgid "Lacerta"
+msgstr "Kertenkele"
+
+msgid "Monoceros"
+msgstr "Tekboynuz"
+
+msgid "Lynx"
+msgstr "Vaşak"
+
+msgid "Antlia"
+msgstr "Pompa"
+
+msgid "Microscopium"
+msgstr "Mikroskop"
+
+msgid "Octans"
+msgstr "Oktant"
+
+msgid "Apus"
+msgstr "Cennet Kuşu"
+
+msgid "Pavo"
+msgstr "Tavus Kuşu"
+
+msgid "Pictor"
+msgstr "Ressam"
+
+msgid "Leo Minor"
+msgstr "Küçük Aslan"
+
+msgid "Vulpecula"
+msgstr "Tilki"
+
+msgid "Phoenix"
+msgstr "Anka Kuşu"
+
+msgid "Volans"
+msgstr "Uçan Balık"
+
+msgid "Puppis"
+msgstr "Pupa"
+
+msgid "Reticulum"
+msgstr "Ağ"
+
+msgid "Scutum"
+msgstr "Kalkan"
+
+msgid "Sextans"
+msgstr "Sekstant"
+
+msgid "Mensa"
+msgstr "Masa"
+
+msgid "Telescopium"
+msgstr "Teleskop"
+
+msgid "Tucana"
+msgstr "Tukan"
+
+msgid "Triangulum Australe"
+msgstr "Güney Üçgeni"
+
+msgid "Vela"
+msgstr "Yelken"
+
+msgid "Altair"
+msgstr "Uçucu"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Tansık"
+
+msgid "Gemma"
+msgstr ""
+
+msgid "Deneb"
+msgstr "Denep"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Kastor"
+
+msgid "Pollux"
+msgstr "Polluks"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Umacı"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr ""
+
+msgid "Guardians"
+msgstr ""
+
+msgid "feet"
+msgstr ""
+
+msgid "head"
+msgstr ""
+
+msgid "tail"
+msgstr ""
+
+msgid "Pointers"
+msgstr ""
+
+msgid "paws"
+msgstr ""
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr ""
+
+msgid "pipe"
+msgstr ""
+
+msgid "wing"
+msgstr ""
+
+msgid "outstretched neck"
+msgstr ""
+
+msgid "Keystone"
+msgstr ""
+
+msgid "club"
+msgstr ""
+
+msgid "the chain"
+msgstr ""
+
+msgid "horn"
+msgstr ""
+
+msgid "belt"
+msgstr ""
+
+msgid "shield"
+msgstr ""
+
+msgid "Hydra's head"
+msgstr ""
+
+msgid "Hydra's tail"
+msgstr ""
+
+msgid "bill"
+msgstr ""
+
+msgid "foot"
+msgstr ""
+
+msgid "arm"
+msgstr ""
+
+msgid "cat's eyes"
+msgstr ""
+
+msgid "claws"
+msgstr ""
+
+msgid "skirt"
+msgstr ""
+
+msgid "the bow"
+msgstr ""
+
+msgid "vessel"
+msgstr ""
+
+msgid "Knot"
+msgstr ""
+
+msgid "Northern Fish"
+msgstr ""
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr ""
+
+msgid "transom"
+msgstr ""
+
+msgid "front legs"
+msgstr "ön bacaklar"
+
+msgid "hind legs"
+msgstr ""
+
+msgid "ears"
+msgstr ""
+
+msgid "Fly"
+msgstr ""
+
+msgid "eyes"
+msgstr ""
+
+msgid "Pole Star"
+msgstr ""
+
+msgid "Tau Ceti"
+msgstr ""
+
+msgid "Alpha Centauri"
+msgstr "Alfa yıldız sistemi"
+
+msgid "Beta Centauri"
+msgstr ""

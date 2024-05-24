@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2023\n"
+"Language-Team: French (https://app.transifex.com/stellarium/teams/80998/"
+"fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "Moderne (H.A. Rey)"
+
+msgid "Pleiades"
+msgstr "Pléiades"
+
+msgid "Ursa Minor"
+msgstr "Ursa Minor"
+
+msgid "Ursa Major"
+msgstr "Ursa Major"
+
+msgid "Draco"
+msgstr "Draco"
+
+msgid "Cepheus"
+msgstr "Cepheus"
+
+msgid "Bootes"
+msgstr "Bouvier"
+
+msgid "Corona Borealis"
+msgstr "Corona Borealis"
+
+msgid "Hercules"
+msgstr "Hercules"
+
+msgid "Lyra"
+msgstr "Lyra"
+
+msgid "Cygnus"
+msgstr "Cygnus"
+
+msgid "Cassiopeia"
+msgstr "Cassiopeia"
+
+msgid "Perseus"
+msgstr "Persée"
+
+msgid "Auriga"
+msgstr "Auriga"
+
+msgid "Ophiuchus"
+msgstr "Ophiuchus"
+
+msgid "Serpens"
+msgstr "Serpens"
+
+msgid "Sagitta"
+msgstr "Sagitta"
+
+msgid "Aquila"
+msgstr "Aquila"
+
+msgid "Delphinus"
+msgstr "Delphinus"
+
+msgid "Equuleus"
+msgstr "Equuleus"
+
+msgid "Pegasus"
+msgstr "Pegasus"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Triangulum"
+
+msgid "Aries"
+msgstr "Aries"
+
+msgid "Taurus"
+msgstr "Taurus"
+
+msgid "Gemini"
+msgstr "Gemini"
+
+msgid "Cancer"
+msgstr "Cancer"
+
+msgid "Leo"
+msgstr "Leo"
+
+msgid "Virgo"
+msgstr "Virgo"
+
+msgid "Libra"
+msgstr "Libra"
+
+msgid "Scorpius"
+msgstr "Scorpius"
+
+msgid "Sagittarius"
+msgstr "Sagittarius"
+
+msgid "Capricornus"
+msgstr "Capricornus"
+
+msgid "Aquarius"
+msgstr "Aquarius"
+
+msgid "Pisces"
+msgstr "Pisces"
+
+msgid "Cetus"
+msgstr "Cetus"
+
+msgid "Orion"
+msgstr "Orion"
+
+msgid "Eridanus"
+msgstr "Eridanus"
+
+msgid "Lepus"
+msgstr "Lepus"
+
+msgid "Canis Major"
+msgstr "Canis Major"
+
+msgid "Canis Minor"
+msgstr "Canis Minor"
+
+msgid "Hydra"
+msgstr "Hydra"
+
+msgid "Crater"
+msgstr "Crater"
+
+msgid "Corvus"
+msgstr "Corvus"
+
+msgid "Centaurus"
+msgstr "Centaurus"
+
+msgid "Lupus"
+msgstr "Lupus"
+
+msgid "Ara"
+msgstr "Ara"
+
+msgid "Corona Australis"
+msgstr "Corona Australis"
+
+msgid "Piscis Austrinus"
+msgstr "Piscis Austrinus"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Sirius"
+msgstr "Sirius"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Vega"
+msgstr "Véga"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldébaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Bételgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antarès"
+
+msgid "Sculptor"
+msgstr "Sculpteur"
+
+msgid "Pyxis"
+msgstr "Boussole"
+
+msgid "Caelum"
+msgstr "Burin"
+
+msgid "Chamaeleon"
+msgstr "Caméléon"
+
+msgid "Carina"
+msgstr "Carène"
+
+msgid "Coma Berenices"
+msgstr "Chevelure de Bérénice"
+
+msgid "Canes Venatici"
+msgstr "Chiens de chasse"
+
+msgid "Columba"
+msgstr "Colombe"
+
+msgid "Circinus"
+msgstr "Compas"
+
+msgid "Crux"
+msgstr "Croix du Sud"
+
+msgid "Dorado"
+msgstr "Dorade"
+
+msgid "Norma"
+msgstr "Règle"
+
+msgid "Fornax"
+msgstr "Fourneau"
+
+msgid "Camelopardalis"
+msgstr "Girafe"
+
+msgid "Grus"
+msgstr "La Grue"
+
+msgid "Horologium"
+msgstr "Horloge"
+
+msgid "Hydrus"
+msgstr "Hydre Mâle"
+
+msgid "Indus"
+msgstr "Indien"
+
+msgid "Lacerta"
+msgstr "Lézard"
+
+msgid "Monoceros"
+msgstr "Licorne"
+
+msgid "Lynx"
+msgstr "Lynx"
+
+msgid "Antlia"
+msgstr "Machine pneumatique"
+
+msgid "Microscopium"
+msgstr "Microscope"
+
+msgid "Octans"
+msgstr "Octant"
+
+msgid "Apus"
+msgstr "Oiseau de Paradis"
+
+msgid "Pavo"
+msgstr "Paon"
+
+msgid "Pictor"
+msgstr "Peintre"
+
+msgid "Leo Minor"
+msgstr "Petit Lion"
+
+msgid "Vulpecula"
+msgstr "Petit Renard"
+
+msgid "Phoenix"
+msgstr "Phénix"
+
+msgid "Volans"
+msgstr "Poisson volant"
+
+msgid "Puppis"
+msgstr "Poupe"
+
+msgid "Reticulum"
+msgstr "Réticule"
+
+msgid "Scutum"
+msgstr "Écu de Sobieski"
+
+msgid "Sextans"
+msgstr "Sextant"
+
+msgid "Mensa"
+msgstr "Table"
+
+msgid "Telescopium"
+msgstr "Télescope"
+
+msgid "Tucana"
+msgstr "Toucan"
+
+msgid "Triangulum Australe"
+msgstr "Triangle austral"
+
+msgid "Vela"
+msgstr "Voiles"
+
+msgid "Altair"
+msgstr "Altaïr"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr "Gemma"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr "Les gardes"
+
+msgid "feet"
+msgstr "pieds"
+
+msgid "head"
+msgstr "tête"
+
+msgid "tail"
+msgstr "queue"
+
+msgid "Pointers"
+msgstr "Pointeurs"
+
+msgid "paws"
+msgstr "pattes"
+
+msgid "rump"
+msgstr ""
+
+msgid "body"
+msgstr "corps"
+
+msgid "pipe"
+msgstr "tuyau"
+
+msgid "wing"
+msgstr "aile"
+
+msgid "outstretched neck"
+msgstr "cou déployé"
+
+msgid "Keystone"
+msgstr "Pierre de touche"
+
+msgid "club"
+msgstr "massue"
+
+msgid "the chain"
+msgstr "la chaîne"
+
+msgid "horn"
+msgstr "corne"
+
+msgid "belt"
+msgstr "ceinture"
+
+msgid "shield"
+msgstr "bouclier"
+
+msgid "Hydra's head"
+msgstr "Tête de l'hydre"
+
+msgid "Hydra's tail"
+msgstr "Queue de l'hydre"
+
+msgid "bill"
+msgstr "serpe"
+
+msgid "foot"
+msgstr "pied"
+
+msgid "arm"
+msgstr "bras"
+
+msgid "cat's eyes"
+msgstr "yeux de chat"
+
+msgid "claws"
+msgstr "machoires"
+
+msgid "skirt"
+msgstr "jupe"
+
+msgid "the bow"
+msgstr "l'arc"
+
+msgid "vessel"
+msgstr "vaisseau"
+
+msgid "Knot"
+msgstr "Nœud"
+
+msgid "Northern Fish"
+msgstr "Poisson septentrional"
+
+msgid "Western Fish"
+msgstr ""
+
+msgid "figurehead"
+msgstr "La figure de proue"
+
+msgid "transom"
+msgstr "tableau arrière"
+
+msgid "front legs"
+msgstr "pattes antérieures"
+
+msgid "hind legs"
+msgstr "pattes postérieures"
+
+msgid "ears"
+msgstr "oreilles"
+
+msgid "Fly"
+msgstr "Mouche"
+
+msgid "eyes"
+msgstr "yeux"
+
+msgid "Pole Star"
+msgstr "Étoile du pôle"
+
+msgid "Tau Ceti"
+msgstr "Tau Ceti"
+
+msgid "Alpha Centauri"
+msgstr "Alpha Centauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Centauri"

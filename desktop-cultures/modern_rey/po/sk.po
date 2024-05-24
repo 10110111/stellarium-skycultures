@@ -1,0 +1,629 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Lubomir Hambalek <lubomir.hambalek@gmail.com>, 2024\n"
+"Language-Team: Slovak (https://app.transifex.com/stellarium/teams/80998/"
+"sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n "
+">= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Modern (H.A. Rey)"
+msgstr "Moderná (H.A. Rey)"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"During the 19th century the use and further editions of richly illustrated "
+"atlases with sumptuously engraved mythological figures fell out of fashion. "
+"The stars of the constellations in atlases of that time started to be shown "
+"connected with line patterns (\"stick figures\"), which however appear "
+"sometimes only to have been used to indicate which stars belong to which "
+"constellation. Over several decades the figures had ceased to resemble the "
+"figures they were named after and appeared incomprehensible to beginning "
+"stargazers in the middle of the 20th century."
+msgstr ""
+"V 19. storočí vyšlo z módy používanie nových edícií bohato ilustrovaných "
+"atlasov s prepychovými rezbami mytologických postáv. Hviezdy súhvezdí v "
+"atlasoch tej doby sa začali zobrazovať spojené do čiarových vzorov "
+"(\"paličkové postavy\"), ktoré však vyzerali, že boli použité len na "
+"znázornenie, ktorá hviezda patrí do ktorého súhvezdia. Počas niekoľkých "
+"desaťročí sa prestali ponášať na postavy, podľa ktorých boli pomenované a "
+"pre začínajúcich pozorovateľov oblohy sa uprostred 20. storočia stali "
+"nezrozumiteľnými."
+
+# Sky culture description section in markdown format
+msgid ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H. A. Rey (Hans "
+"Augusto Reyersbach) (1898-1977), an artist and author of children's books of "
+"German descent but emigrated to the USA, published his answer to this "
+"problem in 1952 with the book *The Stars - A New Way To See Them*[#1][#2].\n"
+"\n"
+"### The Constellations\n"
+"\n"
+"In this book, which has become very popular especially in the US, Rey "
+"connected the stars of every constellation \"in such a way that the "
+"resulting shape makes sense.\" What surprised him was \"that nobody has done "
+"it before. The basic idea is so simple.\"\n"
+"\n"
+"Rey's new stick figures make it indeed very simple to recognize the depicted "
+"constellation figures. Rey's work does not include figurative artwork, "
+"therefore this sky culture deliberately only comes with Rey's original stick "
+"figures. The constellation names were also always given in English by Rey. "
+"If you switch to \"Native\" name display mode, you may see exactly the "
+"spelling used in his book. Also the stars named here are limited to those "
+"included in the book.\n"
+"\n"
+"### Rey's Figures and the Classic Constellations\n"
+"\n"
+"Rey's constellations adhere to the tradition of the Western sky culture and "
+"describes the 88 officially acknowledged constellations, with addition of "
+"asterisms of the two Dippers and the \"Great Square\" (of Pegasus). However, "
+"at several points Rey's figures deviate from the canonical figures described "
+"since Ptolemy's Almagest (2nd century AD), where also positions of the stars "
+"in their constellations had been described in their names. For example,\n"
+"\n"
+" -  Rey inverted the figure of the Great Bear (*Ursa Major*) to look like a "
+"polar bear scenting prey. This on one hand does not have the usual problem "
+"to explain its long tail. On the other hand, the bear is not shown to walk "
+"around the pole in this orientation.\n"
+" - The Bull (*Taurus*), only the front of which is shown with long upright "
+"horns in usual depictions, is shown with a complete body including its tail, "
+"with horns stretched wide like those of a buffalo. Its bright eye "
+"*Aldebaran* now lies in its neck.\n"
+" - The head of *Hercules* is usually next to the head of *Ophiuchus*, the "
+"serpent holder, and the four stars known as \"keystone\" form his body. Rey "
+"makes his head out of the keystone, and the star that usually marks the "
+"hero's head is now one of his feet.\n"
+" - The Whale (*Cetus*) has been turned around, its former mouth now forming "
+"a tail fin.\n"
+" - *Pegasus* exchanged feet and head.\n"
+" - *Bootes*, the herdsman, is shown sitting and smoking a pipe (no trace of "
+"political correctness in a children's book of the 1950s... :-)\n"
+"\n"
+"### External links\n"
+"\n"
+" - [H.A.Rey (Wikipedia)](http://en.wikipedia.org/wiki/H._A._Rey)"
+msgstr ""
+"<img src=\"Rey_cover.png\" width=\"150\" align=\"right\"/> H. A. Rey (Hans "
+"Augusto Reyersbach) (1898-1977), umelec a spisovateľ detských kníh nemeckého "
+"pôvodu, ktorý emigroval do USA, vydal v r. 1952 knihu *Hviezdy - Nový "
+"spôsob, ako sa na ne pozerať*[#1][#2], ako svoju odpoveď na tento problém.\n"
+"\n"
+"### Súhvezdia\n"
+"\n"
+"V tejto knihe, ktorá sa stala hlavne v USA veľmi populárna, Rey spojil "
+"hviezdy každého súhvezdia \"takým spôsobom, aby výsledný obrazec dával "
+"zmysel.\" Prekvapilo ho, že \"to nikto predtým neurobil. Základná myšlienka "
+"je taká jednoduchá.\"\n"
+"\n"
+"Reyove nové paličkové postavy naozaj umožňovali ľahko si predstaviť "
+"zobrazené súhvezdia. Jeho práca neobsahovala figuratívne kresby, preto táto "
+"kultúra hviezdnej oblohy obsahuje len jeho originálne paličkové postavy. "
+"Mená súhvezdí boli ním preložené do angličtiny. Ak si nastavíte režim "
+"zobrazenia na \"Natívny\", uvidíte priamo pôvodné názvy z jeho knihy. "
+"Hviezdy, ktoré sú tu zobrazené, sú obmedzené len na tie, z jeho knihy.\n"
+"\n"
+"### Reyove obrazce a klasické súhvezdia\n"
+"\n"
+"Reyove súhvezdia sa pridržiavajú tradície západnej kultúry oblohy a popisujú "
+"88 oficiálne uznaných súhvezdí, s pridaním asterizmov dvoch Vozov a Veľkého "
+"(pegasovho) štvorca. Napriek tomu sa niektoré Reyove obrazce odlišujú od "
+"kánonických postáv popisovaných už od Ptolemajovho Almagestu (2. stor. n."
+"l.), kde boli okrem polôh hviezd v súhvezdiach zapísané aj ich mená. "
+"Napríklad:\n"
+"\n"
+" -  Rey otočil obrazec Veľkej medvedice (*Ursa Major*), aby vyzeral, ako "
+"polárny medveď snoriaci za korisťou. Takto na jednej strane nemal zvyčajný "
+"problém vysvetliť jej dlhý chvost. Na druhej strane, medvedica v tejto "
+"orientácii nekráča okolo pólu.\n"
+" - Býk (*Taurus*). V zvyčajných zobrazeniach je naznačený len predok so "
+"vztýčenými rohmi, tu je celé telo vrátane chvosta a rohy sa rozširujú "
+"podobne, ako u bizónov. Jeho jasné oko *Aldebaran* teraz leží v jeho krku.\n"
+" - Hlava *Herkula* je zvyčajne blízko hlavy *Hadonosa* a štyri hviezdy, "
+"známe ako základný kameň, tvoria jeho telo. Rey jeho hlavu vytvoril zo "
+"základného kameňa a hviezdy, ktoré zvyčajne tvoria hlavu hrdinu, sú teraz "
+"jednou z jeho nôh.\n"
+" - Veľryba (*Cetus*) bola otočená, jej bývalá hlava tvorí teraz chvostovú "
+"plutvu.\n"
+" - *Pegas* má vymenené nohy a hlavu.\n"
+" - *Bootes*, pastier je zobrazený sediaci a fajčiaci fajku (ani stopa "
+"politickej korektnosti v detskej knihe z päťdesiatich rokov minulého "
+"storočia... :-)\n"
+"\n"
+"### Externé zdroje\n"
+"\n"
+" - [H.A.Rey (anglická Wikipédia)](http://en.wikipedia.org/wiki/H._A._Rey)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture used to be for a long time an easy user-installable addon "
+"example contributed by Mike Richards. It has been reworked following the "
+"41st reprint and completed with this description by Georg Zotti."
+msgstr ""
+"Táto kultúra hviezdnej oblohy bývala dlho ľahko užívateľsky inštalovateľným "
+"príkladom doplnku od Mikea Richardsa. Georg Zotti ju prepracoval podľa 41. "
+"vydania a doplnil popisom."
+
+msgid "Pleiades"
+msgstr "Plejády"
+
+msgid "Ursa Minor"
+msgstr "Malý medveď"
+
+msgid "Ursa Major"
+msgstr "Veľká medvedica"
+
+msgid "Draco"
+msgstr "Drak"
+
+msgid "Cepheus"
+msgstr "Cefeus"
+
+msgid "Bootes"
+msgstr "Pastier"
+
+msgid "Corona Borealis"
+msgstr "Severná koruna"
+
+msgid "Hercules"
+msgstr "Herkules"
+
+msgid "Lyra"
+msgstr "Lýra"
+
+msgid "Cygnus"
+msgstr "Labuť"
+
+msgid "Cassiopeia"
+msgstr "Kasiopeja"
+
+msgid "Perseus"
+msgstr "Perzeus"
+
+msgid "Auriga"
+msgstr "Povozník"
+
+msgid "Ophiuchus"
+msgstr "Hadonos"
+
+msgid "Serpens"
+msgstr "Had"
+
+msgid "Sagitta"
+msgstr "Šíp"
+
+msgid "Aquila"
+msgstr "Orol"
+
+msgid "Delphinus"
+msgstr "Delfín"
+
+msgid "Equuleus"
+msgstr "Koník"
+
+msgid "Pegasus"
+msgstr "Pegas"
+
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgid "Triangulum"
+msgstr "Trojuholník"
+
+msgid "Aries"
+msgstr "Baran"
+
+msgid "Taurus"
+msgstr "Býk"
+
+msgid "Gemini"
+msgstr "Blíženci"
+
+msgid "Cancer"
+msgstr "Rak"
+
+msgid "Leo"
+msgstr "Lev"
+
+msgid "Virgo"
+msgstr "Panna"
+
+msgid "Libra"
+msgstr "Váhy"
+
+msgid "Scorpius"
+msgstr "Škorpión"
+
+msgid "Sagittarius"
+msgstr "Strelec"
+
+msgid "Capricornus"
+msgstr "Kozorožec"
+
+msgid "Aquarius"
+msgstr "Vodnár"
+
+msgid "Pisces"
+msgstr "Ryby"
+
+msgid "Cetus"
+msgstr "Veľryba"
+
+msgid "Orion"
+msgstr "Orión"
+
+msgid "Eridanus"
+msgstr "Eridanus"
+
+msgid "Lepus"
+msgstr "Zajac"
+
+msgid "Canis Major"
+msgstr "Veľký pes"
+
+msgid "Canis Minor"
+msgstr "Malý pes"
+
+msgid "Hydra"
+msgstr "Hydra"
+
+msgid "Crater"
+msgstr "Pohár"
+
+msgid "Corvus"
+msgstr "Havran"
+
+msgid "Centaurus"
+msgstr "Kentaur"
+
+msgid "Lupus"
+msgstr "Vlk"
+
+msgid "Ara"
+msgstr "Oltár"
+
+msgid "Corona Australis"
+msgstr "Južná koruna"
+
+msgid "Piscis Austrinus"
+msgstr "Južná ryba"
+
+msgid "Procyon"
+msgstr "Prokyón"
+
+msgid "Sirius"
+msgstr "Sírius"
+
+msgid "Arcturus"
+msgstr "Arktúr"
+
+msgid "Vega"
+msgstr "Vega"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Aldebaran"
+msgstr "Aldebaran"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Sculptor"
+msgstr "Sochár"
+
+msgid "Pyxis"
+msgstr "Kompas"
+
+msgid "Caelum"
+msgstr "Rydlo"
+
+msgid "Chamaeleon"
+msgstr "Chameleón"
+
+msgid "Carina"
+msgstr "Kýl"
+
+msgid "Coma Berenices"
+msgstr "Vlasy Bereniky"
+
+msgid "Canes Venatici"
+msgstr "Poľovné psy"
+
+msgid "Columba"
+msgstr "Holubica"
+
+msgid "Circinus"
+msgstr "Kružidlo"
+
+msgid "Crux"
+msgstr "Južný kríž"
+
+msgid "Dorado"
+msgstr "Mečiar"
+
+msgid "Norma"
+msgstr "Pravítko"
+
+msgid "Fornax"
+msgstr "Pec"
+
+msgid "Camelopardalis"
+msgstr "Žirafa"
+
+msgid "Grus"
+msgstr "Žeriav"
+
+msgid "Horologium"
+msgstr "Hodiny"
+
+msgid "Hydrus"
+msgstr "Vodný had"
+
+msgid "Indus"
+msgstr "Indián"
+
+msgid "Lacerta"
+msgstr "Jašterica"
+
+msgid "Monoceros"
+msgstr "Jednorožec"
+
+msgid "Lynx"
+msgstr "Rys"
+
+msgid "Antlia"
+msgstr "Výveva"
+
+msgid "Microscopium"
+msgstr "Mikroskop"
+
+msgid "Octans"
+msgstr "Oktant"
+
+msgid "Apus"
+msgstr "Rajka"
+
+msgid "Pavo"
+msgstr "Páv"
+
+msgid "Pictor"
+msgstr "Maliar"
+
+msgid "Leo Minor"
+msgstr "Malý lev"
+
+msgid "Vulpecula"
+msgstr "Líška"
+
+msgid "Phoenix"
+msgstr "Fénix"
+
+msgid "Volans"
+msgstr "Lietajúca ryba"
+
+msgid "Puppis"
+msgstr "Korma"
+
+msgid "Reticulum"
+msgstr "Sieť"
+
+msgid "Scutum"
+msgstr "Štít"
+
+msgid "Sextans"
+msgstr "Sextant"
+
+msgid "Mensa"
+msgstr "Stolový vrch"
+
+msgid "Telescopium"
+msgstr "Ďalekohľad"
+
+msgid "Tucana"
+msgstr "Tukan"
+
+msgid "Triangulum Australe"
+msgstr "Južný trujuholník"
+
+msgid "Vela"
+msgstr "Plachty"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Cor Caroli"
+msgstr "Karolovo srdce"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Gemma"
+msgstr "Gemma"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Castor"
+msgstr "Castor"
+
+msgid "Pollux"
+msgstr "Pollux"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alcor"
+msgstr "Alcor"
+
+msgid "Kochab"
+msgstr "Kochab"
+
+msgid "Guardians"
+msgstr "Strážcovia"
+
+msgid "feet"
+msgstr "nohy"
+
+msgid "head"
+msgstr "hlava"
+
+msgid "tail"
+msgstr "chvost"
+
+msgid "Pointers"
+msgstr "Smerovky"
+
+msgid "paws"
+msgstr "labky"
+
+msgid "rump"
+msgstr "stehno"
+
+msgid "body"
+msgstr "telo"
+
+msgid "pipe"
+msgstr "píšťaľa"
+
+msgid "wing"
+msgstr "krídlo"
+
+msgid "outstretched neck"
+msgstr "natiahnutý krk"
+
+msgid "Keystone"
+msgstr "Kľúčový kameň"
+
+msgid "club"
+msgstr "kyjak"
+
+msgid "the chain"
+msgstr "reťaz"
+
+msgid "horn"
+msgstr "roh"
+
+msgid "belt"
+msgstr "pás"
+
+msgid "shield"
+msgstr "štít"
+
+msgid "Hydra's head"
+msgstr "Hlava Hydry"
+
+msgid "Hydra's tail"
+msgstr "Chvost Hydry"
+
+msgid "bill"
+msgstr "listina"
+
+msgid "foot"
+msgstr "chodidlo"
+
+msgid "arm"
+msgstr "rameno"
+
+msgid "cat's eyes"
+msgstr "mačacie oči"
+
+msgid "claws"
+msgstr "klepetá"
+
+msgid "skirt"
+msgstr "sukňa"
+
+msgid "the bow"
+msgstr "luk"
+
+msgid "vessel"
+msgstr "plavidlo"
+
+msgid "Knot"
+msgstr "Uzol"
+
+msgid "Northern Fish"
+msgstr "Severná ryba"
+
+msgid "Western Fish"
+msgstr "Západná ryba"
+
+msgid "figurehead"
+msgstr "bábka"
+
+msgid "transom"
+msgstr "priečka"
+
+msgid "front legs"
+msgstr "predné nohy"
+
+msgid "hind legs"
+msgstr "zadné nohy"
+
+msgid "ears"
+msgstr "uši"
+
+msgid "Fly"
+msgstr "Mucha"
+
+msgid "eyes"
+msgstr "oči"
+
+msgid "Pole Star"
+msgstr "Polárka"
+
+msgid "Tau Ceti"
+msgstr "Tau Ceti"
+
+msgid "Alpha Centauri"
+msgstr "Alfa Centauri"
+
+msgid "Beta Centauri"
+msgstr "Beta Centauri"
