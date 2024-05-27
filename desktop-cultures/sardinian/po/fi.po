@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ilpo Kantonen, 2024\n"
+"Language-Team: Finnish (https://app.transifex.com/stellarium/teams/80998/"
+"fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Sardinian"
+msgstr "Sardinia"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"Like all peoples of the world, even the ancient Sardinians, turned their "
+"eyes to the sky that marked the time and the seasons. The peasant's world "
+"has given its name to the stars and the constellations of the Sardinian "
+"culture."
+msgstr ""
+"Kuten kaikki maailman ihmiset, myös muinaiset sardinialaiset käänsivät "
+"katseensa taivaalle, joka merkitsi aikaa ja vuodenaikoja. Talonpojan maailma "
+"on antanut nimensä Sardinian kulttuurin tähdille ja tähtikuviolle."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Stars and constellations in sardinian language](https://web."
+"archive.org/web/20201029082540/http://www.sarabu.it/193_521_news_2863.php)\n"
+" - [#2]: [Stellarium Script: Sardinian Constellations Tour](http://www."
+"stellarium.org/wiki/index.php/Scripts)\n"
+" - [#3]: [Stellarium Wiki](http://www.stellarium.org/wiki/index.php/"
+"Sky_cultures#Sardinian)"
+msgstr ""
+" - [#1]: [Tähdet ja tähdistöt sardiinialaisessa kielessä](https://web."
+"archive.org/web/20201029082540/http://www.sarabu.it/193_521_news_2863.php)\n"
+" - [#2]: [Stellarium-skripti: Sardinialainen tähdistömatka](http://www."
+"stellarium.org/wiki/index.php/Scripts)\n"
+" - [#3]: [Stellarium Wiki](http://www.stellarium.org/wiki/index.php/"
+"Sky_cultures#Sardinian)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"These constellations have been created by the Stellarium's user *Giuseppe "
+"Putzolu*, giuseppe.putzolu(at)gmail.com\n"
+"\n"
+"### Credits\n"
+"\n"
+"The constellations of the Sardinian culture are the result of research done "
+"by Tonino Bussu and Marco Puddu"
+msgstr ""
+"Nämä tähdistöt on luonut Stellariumin käyttäjä *Giuseppe Putzolu*, giuseppe."
+"putzolu(at)gmail.com\n"
+"\n"
+"### Kiitokset\n"
+"\n"
+"Sardinian kulttuurin tähtikuviot ovat tulosta Tonino Bussun ja Marco Puddun "
+"tekemästä tutkimuksesta"
+
+msgid "The Throne"
+msgstr "Valtaistuin"
+
+msgid "The Twins"
+msgstr "Kaksoset"
+
+msgid "The Sickle"
+msgstr "Sirppi"
+
+msgid "The Hut"
+msgstr "Maja"
+
+msgid "The Bunch"
+msgstr "Kimppu"
+
+msgid "The Seven Brothers"
+msgstr "Seitsemän veljestä"
+
+msgid "The Sticks"
+msgstr "Risut"
+
+msgid "The Fence for Sheep"
+msgstr "Lammasaitaus"
+
+msgid "The Dance of Widows"
+msgstr "Leskien tanssi"
+
+msgid "The Deer Horn"
+msgstr "Peuransarvi"
+
+msgid "The Cross of St. Constantine"
+msgstr "Pyhän Konstantinuksen risti"
+
+msgid "Three Marias"
+msgstr "Kolme Mariaa"
+
+msgid "Steel Star"
+msgstr "Terästähti"
+
+msgid "The Seven Brother's Driver"
+msgstr "Seitsemän veljeksen ajaja"
+
+msgid "Polar Star"
+msgstr "Napatähti"
+
+msgid "The Bunch's Driver"
+msgstr "Kimpun ajaja"
+
+#. TRANSLATORS: Native name of Venus in Sardinian culture
+msgid "Evening Star / Morning Star"
+msgstr "Iltatähti / Aamutähti"
