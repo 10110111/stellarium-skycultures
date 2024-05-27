@@ -1,0 +1,821 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Worachate Boonplod, 2024\n"
+"Language-Team: Thai (https://app.transifex.com/stellarium/teams/80998/th/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Romanian"
+msgstr "โรมาเนีย"
+
+msgid "The Horse"
+msgstr ""
+
+msgid "The Scorpion"
+msgstr "แมงป่อง"
+
+msgid "The Raven"
+msgstr "นกกา"
+
+msgid "The Scales"
+msgstr ""
+
+msgid "The Ram"
+msgstr "แกะตัวผู้"
+
+msgid "The Serpent"
+msgstr ""
+
+msgid "Procyon"
+msgstr "โพรซิออน"
+
+msgid "Arcturus"
+msgstr "อาร์กทูรัส / ดวงแก้ว"
+
+msgid "Capella"
+msgstr "คาเพลลา"
+
+msgid "Regulus"
+msgstr "เรกูลัส / หัวใจสิงห์"
+
+msgid "Denebola"
+msgstr "เดเนโบลา"
+
+msgid "Spica"
+msgstr "สไปกา / รวงข้าว"
+
+msgid "Fomalhaut"
+msgstr "โฟมัลฮอต"
+
+msgid "Betelgeuse"
+msgstr "เบเทลจุส"
+
+msgid "Rigel"
+msgstr "ไรเจล"
+
+msgid "Canopus"
+msgstr "คาโนปัส"
+
+msgid "Bellatrix"
+msgstr "เบลลาทริกซ์"
+
+msgid "Alnitak"
+msgstr ""
+
+msgid "Alnilam"
+msgstr "อัลนิลัม"
+
+msgid "Mintaka"
+msgstr "มินทากา"
+
+msgid "Achernar"
+msgstr "อะเคอร์นาร์"
+
+msgid "Acrux"
+msgstr "เอครักซ์"
+
+msgid "Hadar"
+msgstr "แฮดาร์ / เฮดาร์"
+
+msgid "Rigil Kent"
+msgstr "ไรจิลเคนต์"
+
+msgid "Antares"
+msgstr "แอนทาเรส / ปาริชาต"
+
+msgid "Alpheratz"
+msgstr ""
+
+msgid "Mirach"
+msgstr ""
+
+msgid "Almaak"
+msgstr ""
+
+msgid "Adhil"
+msgstr "แอดฮิล"
+
+msgid "Sadalmelik"
+msgstr ""
+
+msgid "Sadalsuud"
+msgstr ""
+
+msgid "Sadachbia"
+msgstr ""
+
+msgid "Skat"
+msgstr ""
+
+msgid "Scheat"
+msgstr ""
+
+msgid "Albali"
+msgstr ""
+
+msgid "Ancha"
+msgstr ""
+
+msgid "Situla"
+msgstr ""
+
+msgid "Altair"
+msgstr "อัลแทร์ / ตานกอินทรี"
+
+msgid "Alshain"
+msgstr ""
+
+msgid "Tarazed"
+msgstr ""
+
+msgid "Hamal"
+msgstr "ฮามาล"
+
+msgid "Sheratan"
+msgstr ""
+
+msgid "Mesarthim"
+msgstr ""
+
+msgid "Botein"
+msgstr ""
+
+msgid "Menkalinan"
+msgstr ""
+
+msgid "Nekkar"
+msgstr "เนกคาร์"
+
+msgid "Seginus"
+msgstr ""
+
+msgid "Izar"
+msgstr ""
+
+msgid "Muphrid"
+msgstr ""
+
+msgid "Alkalurops"
+msgstr ""
+
+msgid "Merga"
+msgstr "เมอร์กา"
+
+msgid "Acubens"
+msgstr ""
+
+msgid "Asellus Borealis"
+msgstr ""
+
+msgid "Asellus Australis"
+msgstr ""
+
+msgid "Tegmine"
+msgstr ""
+
+msgid "Cor Caroli"
+msgstr ""
+
+msgid "Chara"
+msgstr "คารา"
+
+msgid "Mirzam"
+msgstr ""
+
+msgid "Muliphein"
+msgstr ""
+
+msgid "Wezen"
+msgstr ""
+
+msgid "Adhara"
+msgstr "แอดฮารา"
+
+msgid "Furud"
+msgstr ""
+
+msgid "Aludra"
+msgstr ""
+
+msgid "Gomeisa"
+msgstr ""
+
+msgid "Luyten's Star"
+msgstr ""
+
+msgid "Algedi"
+msgstr ""
+
+msgid "Dabih"
+msgstr ""
+
+msgid "Nashira"
+msgstr ""
+
+msgid "Deneb Algedi"
+msgstr ""
+
+msgid "Miaplacidus"
+msgstr ""
+
+msgid "Avior"
+msgstr ""
+
+msgid "Aspidiske"
+msgstr ""
+
+msgid "Shedir"
+msgstr ""
+
+msgid "Caph"
+msgstr ""
+
+msgid "Ruchbah"
+msgstr ""
+
+msgid "Proxima"
+msgstr "พร็อกซิมา"
+
+msgid "Menkent"
+msgstr "เมนเคนต์"
+
+msgid "Alnair"
+msgstr "อัลแนร์"
+
+msgid "Alderamin"
+msgstr ""
+
+msgid "Alfirk"
+msgstr ""
+
+msgid "Errai"
+msgstr ""
+
+msgid "The Garnet Star"
+msgstr "ดาวโกเมน"
+
+msgid "Kurhah"
+msgstr ""
+
+msgid "Kruger 60"
+msgstr "ครูเกอร์ 60"
+
+msgid "Menkar"
+msgstr ""
+
+msgid "Diphda"
+msgstr "ดิฟดา"
+
+msgid "Baten Kaitos"
+msgstr ""
+
+msgid "Mira"
+msgstr ""
+
+msgid "Phact"
+msgstr "แฟกต์"
+
+msgid "Phad"
+msgstr ""
+
+msgid "Wazn"
+msgstr ""
+
+msgid "Alphekka"
+msgstr ""
+
+msgid "Nusakan"
+msgstr ""
+
+msgid "Alchiba"
+msgstr "อัลชิบา"
+
+msgid "Gienah"
+msgstr ""
+
+msgid "Algorab"
+msgstr ""
+
+msgid "Alkes"
+msgstr ""
+
+msgid "Mimosa"
+msgstr "มิโมซา"
+
+msgid "Gacrux"
+msgstr "กาครักซ์"
+
+msgid "Deneb"
+msgstr "เดเนบ"
+
+msgid "Albireo"
+msgstr "อัลบิรีโอ"
+
+msgid "Sadr"
+msgstr ""
+
+msgid "Azelfafage"
+msgstr ""
+
+msgid "Campbell's Star"
+msgstr "ดาวแคมป์เบล"
+
+msgid "Sualocin"
+msgstr ""
+
+msgid "Rotanev"
+msgstr ""
+
+msgid "Thuban"
+msgstr ""
+
+msgid "Rastaban"
+msgstr ""
+
+msgid "Etamin"
+msgstr ""
+
+msgid "Altais"
+msgstr ""
+
+msgid "Edasich"
+msgstr ""
+
+msgid "Giausar"
+msgstr ""
+
+msgid "Alrakis"
+msgstr ""
+
+msgid "Grumium"
+msgstr ""
+
+msgid "Kitalpha"
+msgstr ""
+
+msgid "Cursa"
+msgstr "เคอร์ซา"
+
+msgid "Zaurak"
+msgstr ""
+
+msgid "Zibal"
+msgstr ""
+
+msgid "Azha"
+msgstr ""
+
+msgid "Acamar"
+msgstr ""
+
+msgid "Beid"
+msgstr ""
+
+msgid "Keid"
+msgstr ""
+
+msgid "Alhena"
+msgstr "อัลเฮนา"
+
+msgid "Wasat"
+msgstr ""
+
+msgid "Mebsuta"
+msgstr ""
+
+msgid "Mekbuda"
+msgstr ""
+
+msgid "Propus"
+msgstr "โพรพัส"
+
+msgid "Tejat"
+msgstr ""
+
+msgid "Rasalgethi"
+msgstr ""
+
+msgid "Kornephoros"
+msgstr ""
+
+msgid "Marsic"
+msgstr "มาร์ซิก"
+
+msgid "Marfik"
+msgstr "มาร์ฟิก"
+
+msgid "Maasym"
+msgstr ""
+
+msgid "Cujam"
+msgstr ""
+
+msgid "Alphard"
+msgstr "อัลฟาร์ด"
+
+msgid "Babcock's Star"
+msgstr ""
+
+msgid "Algieba"
+msgstr "อัลจีบา"
+
+msgid "Zosma"
+msgstr "ซอสมา"
+
+msgid "Adhafera"
+msgstr ""
+
+msgid "Chertan"
+msgstr ""
+
+msgid "Alterf"
+msgstr "อัลเทิร์ฟ"
+
+msgid "Rasalas"
+msgstr "ราซาลาส"
+
+msgid "Subra"
+msgstr ""
+
+msgid "Arneb"
+msgstr "อาร์เนบ"
+
+msgid "Nihal"
+msgstr ""
+
+msgid "Zubenelgenubi"
+msgstr ""
+
+msgid "Zubeneschamali"
+msgstr ""
+
+msgid "Sheliak"
+msgstr ""
+
+msgid "Sulafat"
+msgstr ""
+
+msgid "Red Rectangle"
+msgstr "สี่เหลี่ยมแดง"
+
+msgid "Rasalhague"
+msgstr ""
+
+msgid "Cebalrai"
+msgstr ""
+
+msgid "Yed Prior"
+msgstr ""
+
+msgid "Yed Posterior"
+msgstr ""
+
+msgid "Sabik"
+msgstr "ซาบิก"
+
+msgid "Barnard's Star"
+msgstr "ดาวบาร์นาร์ด"
+
+msgid "Saiph"
+msgstr ""
+
+msgid "Meissa"
+msgstr ""
+
+msgid "Peacock"
+msgstr ""
+
+msgid "Markab"
+msgstr "มาร์แคบ"
+
+msgid "Algenib"
+msgstr ""
+
+msgid "Enif"
+msgstr ""
+
+msgid "Homan"
+msgstr ""
+
+msgid "Matar"
+msgstr ""
+
+msgid "Biham"
+msgstr ""
+
+msgid "Sadalbari"
+msgstr ""
+
+msgid "Mirphak"
+msgstr ""
+
+msgid "Algol"
+msgstr "อัลกอล"
+
+msgid "Menkib"
+msgstr "เมนคิบ"
+
+msgid "Atik"
+msgstr ""
+
+msgid "Ankaa"
+msgstr ""
+
+msgid "Kapteyn's Star"
+msgstr "ดาวของแคปทีน"
+
+msgid "Alrescha"
+msgstr ""
+
+msgid "Naos"
+msgstr ""
+
+msgid "Bernes 135"
+msgstr ""
+
+msgid "Sham"
+msgstr "แชม"
+
+msgid "Rukbat"
+msgstr ""
+
+msgid "Arkab"
+msgstr "อาร์แคบ"
+
+msgid "Alnasl"
+msgstr ""
+
+msgid "Kaus Media"
+msgstr ""
+
+msgid "Kaus Australis"
+msgstr ""
+
+msgid "Ascella"
+msgstr "แอสเซลลา"
+
+msgid "Kaus Borealis"
+msgstr ""
+
+msgid "Nunki"
+msgstr ""
+
+msgid "Acrab"
+msgstr ""
+
+msgid "Dschubba"
+msgstr ""
+
+msgid "Girtab"
+msgstr ""
+
+msgid "Shaula"
+msgstr "ชอลา"
+
+msgid "Al Niyat"
+msgstr ""
+
+msgid "Lesath"
+msgstr ""
+
+msgid "Unukalhai"
+msgstr ""
+
+msgid "Alya"
+msgstr ""
+
+msgid "Ain"
+msgstr ""
+
+msgid "Alcyone"
+msgstr ""
+
+msgid "Celaeno"
+msgstr ""
+
+msgid "Electra"
+msgstr ""
+
+msgid "Taygeta"
+msgstr ""
+
+msgid "Maia"
+msgstr ""
+
+msgid "Asterope"
+msgstr ""
+
+msgid "Merope"
+msgstr "เมโรพี"
+
+msgid "Atlas"
+msgstr "แอตลัส"
+
+msgid "Pleione"
+msgstr ""
+
+msgid "Mothallah"
+msgstr ""
+
+msgid "Atria"
+msgstr ""
+
+msgid "Dubhe"
+msgstr ""
+
+msgid "Merak"
+msgstr "เมรัก"
+
+msgid "Megrez"
+msgstr "เมเกรซ"
+
+msgid "Alioth"
+msgstr "อัลลิออท"
+
+msgid "Mizar"
+msgstr "ไมซาร์"
+
+msgid "Alkaid"
+msgstr ""
+
+msgid "Talitha"
+msgstr ""
+
+msgid "Tania Borealis"
+msgstr ""
+
+msgid "Tania Australis"
+msgstr ""
+
+msgid "Alula Borealis"
+msgstr ""
+
+msgid "Alula Australis"
+msgstr ""
+
+msgid "Muscida"
+msgstr ""
+
+msgid "Kocab"
+msgstr "โคแค็บ"
+
+msgid "Pherkad"
+msgstr ""
+
+msgid "Yildun"
+msgstr ""
+
+msgid "Regor"
+msgstr ""
+
+msgid "Suhail"
+msgstr ""
+
+msgid "Zavijava"
+msgstr ""
+
+msgid "Porrima"
+msgstr "พอร์ริมา"
+
+msgid "Vindemiatrix"
+msgstr ""
+
+msgid "Zaniah"
+msgstr ""
+
+msgid "Syrma"
+msgstr ""
+
+msgid "The Great Chariot"
+msgstr ""
+
+msgid "The She-Goat with Three She-Goat’s Kids"
+msgstr ""
+
+msgid "The Scythe"
+msgstr ""
+
+msgid "God’s Chair"
+msgstr ""
+
+msgid "The Ring Dance"
+msgstr ""
+
+msgid "The Emperor’s Daughter with a Yoke"
+msgstr ""
+
+msgid "The Shepherd with His Sheep"
+msgstr ""
+
+msgid "The Wall with a Drain"
+msgstr ""
+
+msgid "The Hatching Hen with Her Chicks"
+msgstr ""
+
+msgid "The Little Chariot"
+msgstr ""
+
+msgid "The Brothers"
+msgstr ""
+
+msgid "The Great Cross"
+msgstr ""
+
+msgid "The Little Cross"
+msgstr ""
+
+msgid "The He-Goat"
+msgstr ""
+
+msgid "The Crayfish"
+msgstr ""
+
+msgid "The Dragon"
+msgstr "มังกร"
+
+msgid "The Virgin"
+msgstr ""
+
+msgid "The Carp"
+msgstr ""
+
+msgid "The Mastiff"
+msgstr ""
+
+msgid "The Little Dog"
+msgstr ""
+
+msgid "The Herdsman"
+msgstr ""
+
+msgid "The Turtle Dove"
+msgstr ""
+
+msgid "He Who Pours Out the Water"
+msgstr ""
+
+msgid "The Whale"
+msgstr "วาฬ"
+
+msgid "The Little Plough"
+msgstr ""
+
+msgid "The Sickle"
+msgstr ""
+
+msgid "The Great Auger"
+msgstr ""
+
+msgid "The Bull"
+msgstr "วัว"
+
+msgid "The Man"
+msgstr ""
+
+msgid "The Axe"
+msgstr ""
+
+msgid "The Archer"
+msgstr "คนยิงธนู"
+
+msgid "The Three Saints"
+msgstr ""
+
+msgid "The Boars"
+msgstr ""
+
+msgid "Van Maanen 2"
+msgstr ""
+
+msgid "The Sky's Votive Light"
+msgstr ""
+
+msgid "The Bright Star of the Pig (The Alarm Clock)"
+msgstr ""
+
+msgid "Alnath"
+msgstr ""
+
+msgid "Morning Star"
+msgstr "ดาวรุ่ง"
+
+msgid "Romulus"
+msgstr ""
+
+msgid "Remus"
+msgstr ""
+
+msgid "The Little Bitch"
+msgstr ""
+
+msgid "The Shepherd (The Stars Queen)"
+msgstr ""

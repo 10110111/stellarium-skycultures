@@ -1,0 +1,912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Thomas P C Chu, 2023\n"
+"Language-Team: Chinese (Hong Kong) (https://app.transifex.com/stellarium/"
+"teams/80998/zh_HK/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Romanian"
+msgstr "羅馬尼亞"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"Considered as a whole, Romanian popular stellar mythology has three "
+"essential components.\n"
+"\n"
+"The FIRST one - the ancestral pastoral-agricultural is pre-Christian, in "
+"which the sky seen both as an agrarian clock for specific activities and as "
+"an \"exhibition\" of agricultural tools used by peasants.\n"
+"\n"
+"The SECOND component - more recent - corresponding to the Christianization "
+"of Romanian geographical space and repositioning in the sky the Christian "
+"and pre-Christian elements where constellations are associated with "
+"cosmogonical and theogonical myths, so that the sky is seen more like a "
+"church.\n"
+"\n"
+"And the THIRD component - the origin of the Romanian people, projecting on "
+"the sky the synthesis of formation of this people (the conquest of Dacia by "
+"the Romans) through projection of dramatic scenes from this history of "
+"Dacians mixing with the Romans.\n"
+"\n"
+"**Note**: in Western Constellation Orion there are four Traditional Romanian "
+"Constellations that are overlapping."
+msgstr ""
+"整體而言，羅馬尼亞流行的星空神話有三個基本組成部分。\n"
+"\n"
+"1.前基督教時期。田園農業時期，天空既被用於指示農業物候，也被視為農具的展覽"
+"館。\n"
+"\n"
+"2.更新期。和羅馬尼亞地理空間的基督教化相對應。天空中重新定義了基督教的元素和"
+"基督教前的元素。建立的星座和基督教神話有關，天空更像教堂。\n"
+"\n"
+"3.羅馬尼亞民族的起源。通過映射達契亞人與羅馬人融合歷史場景，在天空中映射出羅"
+"馬尼亞民族的（羅馬對達契亞的征服）的形成。\n"
+"\n"
+"**注意**: 在西方星座獵戶座中有四個重疊的羅馬尼亞傳統星座。"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Website for Tradițional Romanian Constellation](http://www.crt-ro."
+"com)\n"
+" - [#2]: [On-line booklet in ro/en about 39 Traditional Romanian "
+"Constellations](http://www.slideshare.net/planetariubm/broura-constelaii-"
+"romanesti-tradiionale)\n"
+" - [#3]: [30 seconds movies made from scripts and with subtitle in English]"
+"(http://www.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro)\n"
+" - [#4]: [Romanian peasants beliefs in stars and sky – Translation of texts "
+"adapted from Ion Ottescu](http://www.sarm.ro/newsite/index.php?"
+"id=1&zi=29&luna=12&an=2009&act=news)\n"
+" - [#5]: [PLANETARIUL BAIA MARE – MARAMURES](http://planetariubm.ro/)\n"
+"\n"
+"Thanks to Andrei Dorian Gheorghe and Alastair McBeth – SARM members"
+msgstr ""
+" - [#1]: [羅馬尼亞傳統星座網頁](http://www.crt-ro.com)\n"
+" - [#2]: [關於39個羅馬尼亞傳統星座的線上頁面](http://www.slideshare.net/"
+"planetariubm/broura-constelaii-romanesti-tradiionale)\n"
+" - [#3]: [30秒段視頻（英文字幕）](http://www.youtube.com/playlist?"
+"list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro)\n"
+" - [#4]: [羅馬尼亞農民對星星和天空的信仰（Romanian peasants beliefs in stars "
+"and sky）](http://www.sarm.ro/newsite/index.php?"
+"id=1&zi=29&luna=12&an=2009&act=news)\n"
+" - [#5]: [PLANETARIUL BAIA MARE – MARAMURES](http://planetariubm.ro/)\n"
+"\n"
+"鳴謝 SARM 成員 Andrei Dorian Gheorghe 和 Alastair McBeth。"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user [Mircea Lite](mailto:"
+"MirceaLite@yahoo.com) on behalf of Baia Mare Planetarium, as a result of a "
+"project called *Traditional Romanian Constellations* primarily based on the "
+"book *Romanian peasants beliefs in stars and sky* by Ioan Otescu.\n"
+"\n"
+"The Romanian constellation lines, images, scripts and texts for movies "
+"prepared by [Radu Lodina](mailto:rlodina@gmail.com) and [Ovidiu Ignat]"
+"(mailto:OviIgnat@yahoo.com). Romanian constellation art done by Zamfir "
+"Somcutean."
+msgstr ""
+"此星空文化由Stellarium用戶[Mircea Lite](mailto:MirceaLite@yahoo.com)代表 "
+"Baia Mare天文館貢獻。這是 *羅馬尼亞傳統星座(Traditional Romanian "
+"Constellations)*專案的成果。基於 Ioan Otescu 的著作*羅馬尼亞農民對星星和天空"
+"的信仰(Romanian peasants beliefs in stars and sky)* 。\n"
+"\n"
+"羅納尼亞星座連線、圖像、腳本、視頻文本來自 [Radu Lodina](mailto:"
+"rlodina@gmail.com) 以及 [Ovidiu Ignat](mailto:OviIgnat@yahoo.com)。羅馬尼亞星"
+"空藝術圖繪來自 Zamfir Somcutean。\n"
+"\n"
+"所有與羅馬尼亞星空文化有關的資料均以 Creative Commons Attribution-ShareAlike "
+"3.0 Unported 許可證發佈。\n"
+"\n"
+"翻譯：Wang Lingyi"
+
+msgid "The Horse"
+msgstr "馬"
+
+msgid "The Scorpion"
+msgstr "蠍子"
+
+msgid "The Raven"
+msgstr "大烏鴉"
+
+msgid "The Scales"
+msgstr "天平"
+
+msgid "The Ram"
+msgstr "公羊"
+
+msgid "The Serpent"
+msgstr "蛇"
+
+msgid "Procyon"
+msgstr "南河三 (Procyon)"
+
+msgid "Arcturus"
+msgstr "大角 (Arcturus)"
+
+msgid "Capella"
+msgstr "五車二 (Capella)"
+
+msgid "Regulus"
+msgstr "軒轅十四 (Regulus)"
+
+msgid "Denebola"
+msgstr "五帝座一 (Denebola)"
+
+msgid "Spica"
+msgstr "角宿一 (Spica)"
+
+msgid "Fomalhaut"
+msgstr "北落師門 (Fomalhaut)"
+
+msgid "Betelgeuse"
+msgstr "參宿四 (Betelgeuse)"
+
+msgid "Rigel"
+msgstr "參宿七 (Rigel)"
+
+msgid "Canopus"
+msgstr "老人 (Canopus)"
+
+msgid "Bellatrix"
+msgstr "參宿五 (Bellatrix)"
+
+msgid "Alnitak"
+msgstr "參宿一 (Alnitak)"
+
+msgid "Alnilam"
+msgstr "參宿二 (Alnilam)"
+
+msgid "Mintaka"
+msgstr "參宿三 (Mintaka)"
+
+msgid "Achernar"
+msgstr "水委一 (Achernar)"
+
+msgid "Acrux"
+msgstr "十字架二 (Acrux)"
+
+msgid "Hadar"
+msgstr "馬腹一 (Hadar)"
+
+msgid "Rigil Kent"
+msgstr "南門二 (Rigil Kent)"
+
+msgid "Antares"
+msgstr "心宿二 (Antares)"
+
+msgid "Alpheratz"
+msgstr "壁宿二 (Alpheratz)"
+
+msgid "Mirach"
+msgstr "奎宿九 (Mirach)"
+
+msgid "Almaak"
+msgstr "天大將軍一 (Almaak)"
+
+msgid "Adhil"
+msgstr "奎宿七 (Adhil)"
+
+msgid "Sadalmelik"
+msgstr "危宿一 (Sad al Melik)"
+
+msgid "Sadalsuud"
+msgstr "虛宿一 (Sad al Suud)"
+
+msgid "Sadachbia"
+msgstr "墳墓二 (Sadachbia)"
+
+msgid "Skat"
+msgstr "羽林軍廿六 (Skat)"
+
+msgid "Scheat"
+msgstr "室宿二 (Scheat)"
+
+msgid "Albali"
+msgstr "女宿一 (Al Bali)"
+
+msgid "Ancha"
+msgstr "泣二 (Ancha)"
+
+msgid "Situla"
+msgstr "虛梁三 (Situla)"
+
+msgid "Altair"
+msgstr "河鼓二 (Altair)"
+
+msgid "Alshain"
+msgstr "河鼓一 (Alshain)"
+
+msgid "Tarazed"
+msgstr "河鼓三 (Tarazed)"
+
+msgid "Hamal"
+msgstr "婁宿三 (Hamal)"
+
+msgid "Sheratan"
+msgstr "婁宿一 (Sheratan)"
+
+msgid "Mesarthim"
+msgstr "婁宿二 (Mesarthim)"
+
+msgid "Botein"
+msgstr "天陰四 (Botein)"
+
+msgid "Menkalinan"
+msgstr "五車三 (Menkalinan)"
+
+msgid "Nekkar"
+msgstr "七公增五 (Nekkar)"
+
+msgid "Seginus"
+msgstr "招搖 (Seginus)"
+
+msgid "Izar"
+msgstr "梗河一 (Izar)"
+
+msgid "Muphrid"
+msgstr "右攝提一 (Muphrid)"
+
+msgid "Alkalurops"
+msgstr "七公六 (Alkalurops)"
+
+msgid "Merga"
+msgstr "玄戈增二 (Merga)"
+
+msgid "Acubens"
+msgstr "柳宿增三 (Acubens)"
+
+msgid "Asellus Borealis"
+msgstr "鬼宿三 (Asellus Borealis)"
+
+msgid "Asellus Australis"
+msgstr "鬼宿四 (Asellus Australis)"
+
+msgid "Tegmine"
+msgstr "水位四 (Tegmine)"
+
+msgid "Cor Caroli"
+msgstr "常陳一 (Cor Caroli)"
+
+msgid "Chara"
+msgstr "常陳四 (Chara)"
+
+msgid "Mirzam"
+msgstr "軍市一 (Mirzam)"
+
+msgid "Muliphein"
+msgstr "天狼增四 (Muliphein)"
+
+msgid "Wezen"
+msgstr "弧矢一 (Wezen)"
+
+msgid "Adhara"
+msgstr "弧矢七 (Adhara)"
+
+msgid "Furud"
+msgstr "孫增一 (Furud)"
+
+msgid "Aludra"
+msgstr "弧矢二 (Aludra)"
+
+msgid "Gomeisa"
+msgstr "南河二 (Gomeisa)"
+
+msgid "Luyten's Star"
+msgstr "Luyten 星"
+
+msgid "Algedi"
+msgstr "牛宿二 (Algedi)"
+
+msgid "Dabih"
+msgstr "牛宿一 (Dabih)"
+
+msgid "Nashira"
+msgstr "壘壁陣三 (Nashira)"
+
+msgid "Deneb Algedi"
+msgstr "壘壁陣四 (Deneb Algedi)"
+
+msgid "Miaplacidus"
+msgstr "南船五 (Miaplacidus)"
+
+msgid "Avior"
+msgstr "海石一 (Avior)"
+
+msgid "Aspidiske"
+msgstr "海石二 (Aspidiske)"
+
+msgid "Shedir"
+msgstr "王良四 (Shedir)"
+
+msgid "Caph"
+msgstr "王良一 (Caph)"
+
+msgid "Ruchbah"
+msgstr "閣道三 (Ruchbah)"
+
+msgid "Proxima"
+msgstr "比鄰星 (Proxima)"
+
+msgid "Menkent"
+msgstr "庫樓三 (Menkent)"
+
+msgid "Alnair"
+msgstr "鶴一 (Al Nair)"
+
+msgid "Alderamin"
+msgstr "天鉤五 (Alderamin)"
+
+msgid "Alfirk"
+msgstr "上衛增一 (Alfirk)"
+
+msgid "Errai"
+msgstr "少衛增八 (Errai)"
+
+msgid "The Garnet Star"
+msgstr "造父四 (The Garnet Star)"
+
+msgid "Kurhah"
+msgstr "天鉤六 (Kurhah)"
+
+msgid "Kruger 60"
+msgstr "Kruger 60"
+
+msgid "Menkar"
+msgstr "天囷一 (Menkar)"
+
+msgid "Diphda"
+msgstr "土司空 (Diphda)"
+
+msgid "Baten Kaitos"
+msgstr "天倉四 (Baten Kaitos)"
+
+msgid "Mira"
+msgstr "蒭藁增二 (Mira)"
+
+msgid "Phact"
+msgstr "丈人一 (Phact)"
+
+msgid "Phad"
+msgstr "天璣 (Phad)"
+
+msgid "Wazn"
+msgstr "子二 (Wazn)"
+
+msgid "Alphekka"
+msgstr "貫索四 (Alphekka)"
+
+msgid "Nusakan"
+msgstr "貫索三 (Nusakan)"
+
+msgid "Alchiba"
+msgstr "右轄 (Al Chiba)"
+
+msgid "Gienah"
+msgstr "軫宿一 (Gienah)"
+
+msgid "Algorab"
+msgstr "軫宿三 (Algorab)"
+
+msgid "Alkes"
+msgstr "翼宿一 (Alkes)"
+
+msgid "Mimosa"
+msgstr "十字架三 (Mimosa)"
+
+msgid "Gacrux"
+msgstr "十字架一 (Gacrux)"
+
+msgid "Deneb"
+msgstr "天津四 (Deneb)"
+
+msgid "Albireo"
+msgstr "輦道增七 (Albireo)"
+
+msgid "Sadr"
+msgstr "天津一 (Sadr)"
+
+msgid "Azelfafage"
+msgstr "螣蛇四 (Azelfafage)"
+
+msgid "Campbell's Star"
+msgstr "Campbell 星"
+
+msgid "Sualocin"
+msgstr "瓠瓜一 (Sualocin)"
+
+msgid "Rotanev"
+msgstr "瓠瓜四 (Rotanev)"
+
+msgid "Thuban"
+msgstr "右樞 (Thuban)"
+
+msgid "Rastaban"
+msgstr "天棓三 (Rastaban)"
+
+msgid "Etamin"
+msgstr "天棓四 (Etamin)"
+
+msgid "Altais"
+msgstr "天廚一 (Altais)"
+
+msgid "Edasich"
+msgstr "左樞[紫微左垣一] (Edasich)"
+
+msgid "Giausar"
+msgstr "上輔 (Giausar)"
+
+msgid "Alrakis"
+msgstr "天棓二 (Al Rakis)"
+
+msgid "Grumium"
+msgstr "天棓一 (Grumium)"
+
+msgid "Kitalpha"
+msgstr "虛宿二 (Kitalpha)"
+
+msgid "Cursa"
+msgstr "玉井三 (Cursa)"
+
+msgid "Zaurak"
+msgstr "天苑一 (Zaurak)"
+
+msgid "Zibal"
+msgstr "天苑五 (Zibal)"
+
+msgid "Azha"
+msgstr "天苑六 (Azha)"
+
+msgid "Acamar"
+msgstr "天園六 (Acamar)"
+
+msgid "Beid"
+msgstr "九州殊口二 (Beid)"
+
+msgid "Keid"
+msgstr "九州殊口增七 (keid)"
+
+msgid "Alhena"
+msgstr "井宿三 (Alhena)"
+
+msgid "Wasat"
+msgstr "天樽二 (Wasat)"
+
+msgid "Mebsuta"
+msgstr "井宿五 (Mebsuta)"
+
+msgid "Mekbuda"
+msgstr "井宿七 (Mekbuda)"
+
+msgid "Propus"
+msgstr "鉞 (Propus)"
+
+msgid "Tejat"
+msgstr "井宿一 (Tejat)"
+
+msgid "Rasalgethi"
+msgstr "帝座 (Ras Algethi)"
+
+msgid "Kornephoros"
+msgstr "河中 (Kornephoros)"
+
+msgid "Marsic"
+msgstr "列肆二 (Marsic)"
+
+msgid "Marfik"
+msgstr "列肆二 (Marfik)"
+
+msgid "Maasym"
+msgstr "趙(天市左垣) (Maasym)"
+
+msgid "Cujam"
+msgstr "斗一 (Cujam)"
+
+msgid "Alphard"
+msgstr "星宿一 (Alphard)"
+
+msgid "Babcock's Star"
+msgstr "Babcock 星"
+
+msgid "Algieba"
+msgstr "軒轅十二 (Al Gieba)"
+
+msgid "Zosma"
+msgstr "西上相 (Zosma)"
+
+msgid "Adhafera"
+msgstr "軒轅十一 (Adhafera)"
+
+msgid "Chertan"
+msgstr "西次相 (Chertan)"
+
+msgid "Alterf"
+msgstr "軒轅八 (Alterf)"
+
+msgid "Rasalas"
+msgstr "軒轅十 (Rasalas)"
+
+msgid "Subra"
+msgstr "軒轅十五 (Subra)"
+
+msgid "Arneb"
+msgstr "廁一 (Arneb)"
+
+msgid "Nihal"
+msgstr "廁二 (Nihal)"
+
+msgid "Zubenelgenubi"
+msgstr "氐宿一 (Zuben el Genubi)"
+
+msgid "Zubeneschamali"
+msgstr "氐宿四 (Zubeneschamali)"
+
+msgid "Sheliak"
+msgstr "漸台二 (Sheliak)"
+
+msgid "Sulafat"
+msgstr "漸台三 (Sulafat)"
+
+msgid "Red Rectangle"
+msgstr "紅矩形"
+
+msgid "Rasalhague"
+msgstr "候 (Ras Alhague)"
+
+msgid "Cebalrai"
+msgstr "宗正一 (Cebalrai)"
+
+msgid "Yed Prior"
+msgstr "梁(天市右垣) (Yed Prior)"
+
+msgid "Yed Posterior"
+msgstr "楚(天市右垣) (Yed Posterior)"
+
+msgid "Sabik"
+msgstr "宋(天市左垣) (Sabik)"
+
+msgid "Barnard's Star"
+msgstr "巴納德 (Barnard) 星"
+
+msgid "Saiph"
+msgstr "參宿六 (Saiph)"
+
+msgid "Meissa"
+msgstr "觜宿一 (Meissa)"
+
+msgid "Peacock"
+msgstr "孔雀"
+
+msgid "Markab"
+msgstr "室宿一 (Markab)"
+
+msgid "Algenib"
+msgstr "壁宿一 (Algenib)"
+
+msgid "Enif"
+msgstr "危宿三 (Enif)"
+
+msgid "Homan"
+msgstr "雷電一 (Homan)"
+
+msgid "Matar"
+msgstr "離宮四 (Matar)"
+
+msgid "Biham"
+msgstr "危宿二 (Biham)"
+
+msgid "Sadalbari"
+msgstr "離宮二 (Sadalbari)"
+
+msgid "Mirphak"
+msgstr "天船三 (Mirphak)"
+
+msgid "Algol"
+msgstr "大陵五 (Algol)"
+
+msgid "Menkib"
+msgstr "卷舌四 (Menkib)"
+
+msgid "Atik"
+msgstr "卷舌增七 (Al Atik)"
+
+msgid "Ankaa"
+msgstr "火鳥六 (Ankaa)"
+
+msgid "Kapteyn's Star"
+msgstr "Kapteyn 星"
+
+msgid "Alrescha"
+msgstr "外屏七 (Al Rescha)"
+
+msgid "Naos"
+msgstr "弧矢增廿二 (Naos)"
+
+msgid "Bernes 135"
+msgstr "Bernes 135"
+
+msgid "Sham"
+msgstr "左旗一 (Sham)"
+
+msgid "Rukbat"
+msgstr "天淵三 (Rukbat)"
+
+msgid "Arkab"
+msgstr "Arkab"
+
+msgid "Alnasl"
+msgstr "箕宿一 (Al Nasl)"
+
+msgid "Kaus Media"
+msgstr "箕宿二 (Kaus Media)"
+
+msgid "Kaus Australis"
+msgstr "箕宿三 (Kaus Australis)"
+
+msgid "Ascella"
+msgstr "斗宿六 (Ascella)"
+
+msgid "Kaus Borealis"
+msgstr "斗宿二 (Kaus Borealis)"
+
+msgid "Nunki"
+msgstr "斗宿四 (Nunki)"
+
+msgid "Acrab"
+msgstr "房宿四 (Acrab)"
+
+msgid "Dschubba"
+msgstr "房宿三 (Dschubba)"
+
+msgid "Girtab"
+msgstr "尾宿六 (Girtab)"
+
+msgid "Shaula"
+msgstr "尾宿八 (Shaula)"
+
+msgid "Al Niyat"
+msgstr "心宿一 (Al Niyat)"
+
+msgid "Lesath"
+msgstr " 尾宿九 (Lesath)"
+
+msgid "Unukalhai"
+msgstr "蜀(天市右垣) (Unukalhai)"
+
+msgid "Alya"
+msgstr "徐 (Alya)"
+
+msgid "Ain"
+msgstr "畢宿一 (Ain)"
+
+msgid "Alcyone"
+msgstr "昴宿六 (Alcyone)"
+
+msgid "Celaeno"
+msgstr "昴宿增六 (Celaeno)"
+
+msgid "Electra"
+msgstr "昴宿一 (Electra)"
+
+msgid "Taygeta"
+msgstr "昴宿二 (Taygeta)"
+
+msgid "Maia"
+msgstr "昴宿四 (Maia)"
+
+msgid "Asterope"
+msgstr "昴宿三 (Asterope)"
+
+msgid "Merope"
+msgstr "昴宿五 (Merope)"
+
+msgid "Atlas"
+msgstr "昴宿七 (Atlas)"
+
+msgid "Pleione"
+msgstr "昴宿增十二 (Pleione)"
+
+msgid "Mothallah"
+msgstr "婁宿增六 (Mothallah)"
+
+msgid "Atria"
+msgstr "三角形三 (Atria)"
+
+msgid "Dubhe"
+msgstr "天樞 (Dubhe)"
+
+msgid "Merak"
+msgstr "天璇 (Merak)"
+
+msgid "Megrez"
+msgstr "天權 (Megrez)"
+
+msgid "Alioth"
+msgstr "玉衡 (Alioth)"
+
+msgid "Mizar"
+msgstr "開陽 (Mizar)"
+
+msgid "Alkaid"
+msgstr "搖光 (Alkaid)"
+
+msgid "Talitha"
+msgstr "上台一 (Talitha)"
+
+msgid "Tania Borealis"
+msgstr "中台一 (Tania Borealis)"
+
+msgid "Tania Australis"
+msgstr "中台二 (Tania Australis)"
+
+msgid "Alula Borealis"
+msgstr "下台一 (Alula Borealis)"
+
+msgid "Alula Australis"
+msgstr "下台二 (Alula Australis)"
+
+msgid "Muscida"
+msgstr "內階一 (Muscida)"
+
+msgid "Kocab"
+msgstr "帝[北極二] (Kocab)"
+
+msgid "Pherkad"
+msgstr "太子 (Pherkad)"
+
+msgid "Yildun"
+msgstr "勾陳二 (Yildun)"
+
+msgid "Regor"
+msgstr "天社一 (Regor)"
+
+msgid "Suhail"
+msgstr "老人 (Suhail)"
+
+msgid "Zavijava"
+msgstr "右執法 (Zavijava)"
+
+msgid "Porrima"
+msgstr "東上相 (Porrima)"
+
+msgid "Vindemiatrix"
+msgstr "東次將 (Vindemiatrix)"
+
+msgid "Zaniah"
+msgstr "左執法 (Zaniah)"
+
+msgid "Syrma"
+msgstr "亢宿二 (Syrma)"
+
+msgid "The Great Chariot"
+msgstr "大戰車"
+
+msgid "The She-Goat with Three She-Goat’s Kids"
+msgstr "母山羊與它的三隻小山羊"
+
+msgid "The Scythe"
+msgstr "大鐮刀"
+
+msgid "God’s Chair"
+msgstr "神椅"
+
+msgid "The Ring Dance"
+msgstr "繞圈舞蹈"
+
+msgid "The Emperor’s Daughter with a Yoke"
+msgstr "挑擔的皇帝女兒"
+
+msgid "The Shepherd with His Sheep"
+msgstr "牧羊人與羊"
+
+msgid "The Wall with a Drain"
+msgstr "有水道的牆"
+
+msgid "The Hatching Hen with Her Chicks"
+msgstr "孵蛋的母雞與小雞"
+
+msgid "The Little Chariot"
+msgstr "小戰車"
+
+msgid "The Brothers"
+msgstr "兄弟"
+
+msgid "The Great Cross"
+msgstr "大十字架"
+
+msgid "The Little Cross"
+msgstr "小十字架"
+
+msgid "The He-Goat"
+msgstr "公山羊"
+
+msgid "The Crayfish"
+msgstr "小龍蝦"
+
+msgid "The Dragon"
+msgstr "龍"
+
+msgid "The Virgin"
+msgstr "處女"
+
+msgid "The Carp"
+msgstr "鯉魚"
+
+msgid "The Mastiff"
+msgstr "獒犬"
+
+msgid "The Little Dog"
+msgstr "小狗"
+
+msgid "The Herdsman"
+msgstr "牧人"
+
+msgid "The Turtle Dove"
+msgstr "斑鳩"
+
+msgid "He Who Pours Out the Water"
+msgstr "倒水的人"
+
+msgid "The Whale"
+msgstr "鯨魚"
+
+msgid "The Little Plough"
+msgstr "小北斗"
+
+msgid "The Sickle"
+msgstr "鐮刀"
+
+msgid "The Great Auger"
+msgstr "大螺旋鑽"
+
+msgid "The Bull"
+msgstr "公牛"
+
+msgid "The Man"
+msgstr "男人"
+
+msgid "The Axe"
+msgstr "斧"
+
+msgid "The Archer"
+msgstr "射手"
+
+msgid "The Three Saints"
+msgstr "三聖人"
+
+msgid "The Boars"
+msgstr "野豬"
+
+msgid "Van Maanen 2"
+msgstr "范馬南星"
+
+msgid "The Sky's Votive Light"
+msgstr "勾陳一 (天空的還願光)"
+
+msgid "The Bright Star of the Pig (The Alarm Clock)"
+msgstr "畢宿五 (豬的亮星(鬧鐘))"
+
+msgid "Alnath"
+msgstr "天棓四 (Al Nath)"
+
+msgid "Morning Star"
+msgstr "天狼星 (晨星)"
+
+msgid "Romulus"
+msgstr "北河二 (Romulus)"
+
+msgid "Remus"
+msgstr "北河三 (Remus)"
+
+msgid "The Little Bitch"
+msgstr "輔 (小母狗)"
+
+msgid "The Shepherd (The Stars Queen)"
+msgstr "織女一 (The Shepherd (星之女王))"
