@@ -1,0 +1,912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Bengali (https://app.transifex.com/stellarium/teams/80998/"
+"bn/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Romanian"
+msgstr "রোমানীয়"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"Considered as a whole, Romanian popular stellar mythology has three "
+"essential components.\n"
+"\n"
+"The FIRST one - the ancestral pastoral-agricultural is pre-Christian, in "
+"which the sky seen both as an agrarian clock for specific activities and as "
+"an \"exhibition\" of agricultural tools used by peasants.\n"
+"\n"
+"The SECOND component - more recent - corresponding to the Christianization "
+"of Romanian geographical space and repositioning in the sky the Christian "
+"and pre-Christian elements where constellations are associated with "
+"cosmogonical and theogonical myths, so that the sky is seen more like a "
+"church.\n"
+"\n"
+"And the THIRD component - the origin of the Romanian people, projecting on "
+"the sky the synthesis of formation of this people (the conquest of Dacia by "
+"the Romans) through projection of dramatic scenes from this history of "
+"Dacians mixing with the Romans.\n"
+"\n"
+"**Note**: in Western Constellation Orion there are four Traditional Romanian "
+"Constellations that are overlapping."
+msgstr ""
+"সামগ্রিক ভাবে দেখলে দেখা যায় যে, রোমানীয় রূপকথাগুলি তিনটি বিশেষ উপাদান নিয়ে "
+"গঠিত ।\n"
+"\n"
+"প্রথমত, বংশানুক্রমিক ধার্মিক ও কৃষিকাজে প্রাক খ্রীষ্টানীয় প্রভাব, যেখানে আকাশকে "
+"কৃষিকাজ সংক্রান্ত ঘড়ি হিসাবে ব্যবহার করা হয়েছে ও বিভিন্ন অংশকে কৃষকদের ব্যবহৃত "
+"যন্ত্রপাতির প্রতিকৃতির রূপ দেওয়া হয়েছে ।\n"
+"\n"
+"দ্বিতীয়ত, রোমানীয় অঞ্চলে খ্রীষ্টান ধর্মের বিস্তার, যেখানে আকাশকে খ্রীষ্টানীয় রূপে "
+"দেখা হয় । মন্ডলগুলিও বিভিন্ন খ্রীষ্টানীয় সৃষ্টিতত্ব ও আধ্যত্মিক পুরাকথার প্রতিকৃতি "
+"পেয়েছে, যাতে আকাশকে চার্চের মত দেখায় ।\n"
+"\n"
+"তৃতীয়ত, রোমানীয় লোকেদের বুৎপত্তি, যেখানে আকাশের বিভিন্ন অংশকে রোমানদের ডাসিয়া "
+"দখল ও তাদের সাথে একাত্ম হওয়ার ঘটনাগুলির নাট্যরূপ দেওয়া হয়েছে ।\n"
+"\n"
+"**বি: দ্র:** কালপুরুষ মন্ডলের কাছে চারটি রোমানীয় মন্ডল একে অপরের সঙ্গে একসাথে "
+"অবস্থান করছে ।"
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Website for Tradițional Romanian Constellation](http://www.crt-ro."
+"com)\n"
+" - [#2]: [On-line booklet in ro/en about 39 Traditional Romanian "
+"Constellations](http://www.slideshare.net/planetariubm/broura-constelaii-"
+"romanesti-tradiionale)\n"
+" - [#3]: [30 seconds movies made from scripts and with subtitle in English]"
+"(http://www.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro)\n"
+" - [#4]: [Romanian peasants beliefs in stars and sky – Translation of texts "
+"adapted from Ion Ottescu](http://www.sarm.ro/newsite/index.php?"
+"id=1&zi=29&luna=12&an=2009&act=news)\n"
+" - [#5]: [PLANETARIUL BAIA MARE – MARAMURES](http://planetariubm.ro/)\n"
+"\n"
+"Thanks to Andrei Dorian Gheorghe and Alastair McBeth – SARM members"
+msgstr ""
+" - [#1]: [রোমানীয় চিরায়িত তারামন্ডল ওয়েবসাইট](http://www.crt-ro.com)\n"
+" - [#2]: [৩৯টি রোমানীয় চিরায়িত তারামন্ডল সংক্রান্ত অনলাইন ইস্তাহার রোমানীয়/"
+"ইংরাজী](http://www.slideshare.net/planetariubm/broura-constelaii-romanesti-"
+"tradiionale)\n"
+" - [#3]: [কার্যলিপির সাহায্যে তৈরী ইংরেজীতে সাবটাইটেল সহ ৩০ সেকেন্ডের একটি "
+"চলচিত্র](http://www.youtube.com/playlist?"
+"list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro)\n"
+" - [#4]: [Romanian peasants beliefs in stars and sky – Translation of texts "
+"adapted from Ion Ottescu](http://www.sarm.ro/newsite/index.php?"
+"id=1&zi=29&luna=12&an=2009&act=news)\n"
+" - [#5]: [PLANETARIUL BAIA MARE – MARAMURES](http://planetariubm.ro/)\n"
+"\n"
+"Andrei Dorian Gheorghe ও Alastair McBeth – SARM সদস্যদের অসংখ্য ধন্যবাদ"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user [Mircea Lite](mailto:"
+"MirceaLite@yahoo.com) on behalf of Baia Mare Planetarium, as a result of a "
+"project called *Traditional Romanian Constellations* primarily based on the "
+"book *Romanian peasants beliefs in stars and sky* by Ioan Otescu.\n"
+"\n"
+"The Romanian constellation lines, images, scripts and texts for movies "
+"prepared by [Radu Lodina](mailto:rlodina@gmail.com) and [Ovidiu Ignat]"
+"(mailto:OviIgnat@yahoo.com). Romanian constellation art done by Zamfir "
+"Somcutean."
+msgstr ""
+"এটি প্রস্তুত করেছেন *রোমানীয় চিরায়িত তারামন্ডল* নামক একটি প্রকল্প হিসাবে যা Ioan "
+"Otescu রচিত *চাষীদের মধ্যে তারামন্ডল ও আকাশ সংক্রান্ত প্রচলিত ধারণা* বইয়ের থেকে "
+"মূলত সংগৃহিত ।\n"
+"\n"
+"এই সংক্রান্ত কল্পরেখা, কার্যলিপি ও ভিডিও গুলি প্রস্তুত করেছেন গুলি [Radu Lodina]"
+"(mailto:rlodina@gmail.com) এবং [Ovidiu Ignat](mailto:OviIgnat@yahoo.com) । "
+"কল্পচিত্রগুলি প্রস্তুত করেছেন Zamfir Somcutean ।"
+
+msgid "The Horse"
+msgstr "ঘোড়া"
+
+msgid "The Scorpion"
+msgstr "বৃশ্চিক"
+
+msgid "The Raven"
+msgstr "দাঁড়কাক"
+
+msgid "The Scales"
+msgstr "দাঁড়িপাল্লা"
+
+msgid "The Ram"
+msgstr "ভেড়া"
+
+msgid "The Serpent"
+msgstr "সাপ"
+
+msgid "Procyon"
+msgstr "প্রশ্বন"
+
+msgid "Arcturus"
+msgstr "আর্কটুরাস (স্বাতী)"
+
+msgid "Capella"
+msgstr "ক্যাপেলা (ব্রহ্মহৃদয়)"
+
+msgid "Regulus"
+msgstr "রেগুলাস (মঘা)"
+
+msgid "Denebola"
+msgstr "ডেনেবোনা (উত্তর ফাল্গুনী)"
+
+msgid "Spica"
+msgstr "স্পাইকা (চিত্রা)"
+
+msgid "Fomalhaut"
+msgstr "ফম্যালহট"
+
+msgid "Betelgeuse"
+msgstr "বিটলজিউস (আদ্রা)"
+
+msgid "Rigel"
+msgstr "রাইজেল (বাণরাজা)"
+
+msgid "Canopus"
+msgstr "ক্যানোপাস (অগস্ত্য)"
+
+msgid "Bellatrix"
+msgstr "বেলাট্রিক্স (কার্তিকেয়)"
+
+msgid "Alnitak"
+msgstr "আলনিতক (ঊষা)"
+
+msgid "Alnilam"
+msgstr "আলনিলাম (অনিরুদ্ধ)"
+
+msgid "Mintaka"
+msgstr "মিনটাকা (চিত্রলেখা)"
+
+msgid "Achernar"
+msgstr "আখেরনার"
+
+msgid "Acrux"
+msgstr "ইক্রাক্স (বিশ্বামিত্র)"
+
+msgid "Hadar"
+msgstr "হাদার"
+
+msgid "Rigil Kent"
+msgstr "রিজেল কেন্ট"
+
+msgid "Antares"
+msgstr "আন্টেরিস (জ্যেষ্ঠা)"
+
+msgid "Alpheratz"
+msgstr "আলফার্জ"
+
+msgid "Mirach"
+msgstr "মিরাচ"
+
+msgid "Almaak"
+msgstr "অ্যালমাক"
+
+msgid "Adhil"
+msgstr "আধিল"
+
+msgid "Sadalmelik"
+msgstr "সাদালমেলিক"
+
+msgid "Sadalsuud"
+msgstr "সাদালসুদ"
+
+msgid "Sadachbia"
+msgstr "সাডাচবি"
+
+msgid "Skat"
+msgstr "স্কাট"
+
+msgid "Scheat"
+msgstr "স্চিট"
+
+msgid "Albali"
+msgstr "অ্যালবালি"
+
+msgid "Ancha"
+msgstr "আনচা"
+
+msgid "Situla"
+msgstr "শিটুলা"
+
+msgid "Altair"
+msgstr "আলটেয়ার (শ্রবণা)"
+
+msgid "Alshain"
+msgstr "আলশেইন"
+
+msgid "Tarazed"
+msgstr "টারাজেড (কর্ণ )"
+
+msgid "Hamal"
+msgstr "হামাল"
+
+msgid "Sheratan"
+msgstr "শেরতান"
+
+msgid "Mesarthim"
+msgstr "মেসারথিম"
+
+msgid "Botein"
+msgstr "বোতেইন"
+
+msgid "Menkalinan"
+msgstr "মেনকালিনান"
+
+msgid "Nekkar"
+msgstr "নেক্কার"
+
+msgid "Seginus"
+msgstr "সেগিনাস"
+
+msgid "Izar"
+msgstr "ইজার"
+
+msgid "Muphrid"
+msgstr "মুফরাদ"
+
+msgid "Alkalurops"
+msgstr "আলকারূপস্"
+
+msgid "Merga"
+msgstr "মার্গা"
+
+msgid "Acubens"
+msgstr "আকিউবেন্স"
+
+msgid "Asellus Borealis"
+msgstr "আসেলুস বোরিয়ালিস"
+
+msgid "Asellus Australis"
+msgstr "আসেলুস অস্ট্রালিস"
+
+msgid "Tegmine"
+msgstr "তিগমিন"
+
+msgid "Cor Caroli"
+msgstr "কর ক্যারোলি"
+
+msgid "Chara"
+msgstr "চারা"
+
+msgid "Mirzam"
+msgstr "মির্জাম"
+
+msgid "Muliphein"
+msgstr "মুলিফেইন"
+
+msgid "Wezen"
+msgstr "ওয়েজেন"
+
+msgid "Adhara"
+msgstr "আধারা"
+
+msgid "Furud"
+msgstr "ফারদ"
+
+msgid "Aludra"
+msgstr "অ্যালয়ুধরা"
+
+msgid "Gomeisa"
+msgstr "গুমেইসা"
+
+msgid "Luyten's Star"
+msgstr "লাউট্যার তারা"
+
+msgid "Algedi"
+msgstr "অ্যালগেদি"
+
+msgid "Dabih"
+msgstr "ডেবি"
+
+msgid "Nashira"
+msgstr "নাসিরা"
+
+msgid "Deneb Algedi"
+msgstr "ডেনেব অ্যালগেদি"
+
+msgid "Miaplacidus"
+msgstr "মিয়াপ্লাচিডুস"
+
+msgid "Avior"
+msgstr "আভিয়োর"
+
+msgid "Aspidiske"
+msgstr "আস্পিডিস্কে"
+
+msgid "Shedir"
+msgstr "আশেদির (গৌতম)"
+
+msgid "Caph"
+msgstr "ক্যাফ (জমদগ্নি)"
+
+msgid "Ruchbah"
+msgstr "রুখবাহ্"
+
+msgid "Proxima"
+msgstr "প্রক্সিমা"
+
+msgid "Menkent"
+msgstr "মেনকেন্ত"
+
+msgid "Alnair"
+msgstr "অ্যালনেয়ার"
+
+msgid "Alderamin"
+msgstr "অ্যালডারমিন"
+
+msgid "Alfirk"
+msgstr "অ্যালফিক"
+
+msgid "Errai"
+msgstr "ইরি"
+
+msgid "The Garnet Star"
+msgstr "তামড়ি নক্ষত্র"
+
+msgid "Kurhah"
+msgstr "কুরাহ"
+
+msgid "Kruger 60"
+msgstr "ক্রুগার ৬০"
+
+msgid "Menkar"
+msgstr "মেনখার"
+
+msgid "Diphda"
+msgstr "দিফদা"
+
+msgid "Baten Kaitos"
+msgstr "বতন আখিতোস"
+
+msgid "Mira"
+msgstr "মিরা"
+
+msgid "Phact"
+msgstr "ফাকিত"
+
+msgid "Phad"
+msgstr "ফাড"
+
+msgid "Wazn"
+msgstr "ওজন"
+
+msgid "Alphekka"
+msgstr "আলপেকা"
+
+msgid "Nusakan"
+msgstr "নুসকাম"
+
+msgid "Alchiba"
+msgstr "আলখিবা"
+
+msgid "Gienah"
+msgstr "জিনাহ্"
+
+msgid "Algorab"
+msgstr "অ্যালগুরাব"
+
+msgid "Alkes"
+msgstr "অ্যালকেস"
+
+msgid "Mimosa"
+msgstr "মিমোসা"
+
+msgid "Gacrux"
+msgstr "গাক্রাক্স"
+
+msgid "Deneb"
+msgstr "ডেনেব"
+
+msgid "Albireo"
+msgstr "অ্যালবেরিও"
+
+msgid "Sadr"
+msgstr "সাদর"
+
+msgid "Azelfafage"
+msgstr "অ্যাজেলফাফেজ"
+
+msgid "Campbell's Star"
+msgstr "ক্যাম্পবেলের নক্ষত্র"
+
+msgid "Sualocin"
+msgstr "সুয়ালোসিন"
+
+msgid "Rotanev"
+msgstr "রোটানেভ"
+
+msgid "Thuban"
+msgstr "থুবান"
+
+msgid "Rastaban"
+msgstr "রাস্টাব্যান"
+
+msgid "Etamin"
+msgstr "এটামিন"
+
+msgid "Altais"
+msgstr "অ্যালটেইস"
+
+msgid "Edasich"
+msgstr "এডাসিচ"
+
+msgid "Giausar"
+msgstr "জাউজার"
+
+msgid "Alrakis"
+msgstr "আলরাকিস"
+
+msgid "Grumium"
+msgstr "গ্রুমিয়াম"
+
+msgid "Kitalpha"
+msgstr "কিটাফা"
+
+msgid "Cursa"
+msgstr "কুরসী"
+
+msgid "Zaurak"
+msgstr "জাউর‍্যাক"
+
+msgid "Zibal"
+msgstr "জ্যিবাল"
+
+msgid "Azha"
+msgstr "আজহা"
+
+msgid "Acamar"
+msgstr "আখমার"
+
+msgid "Beid"
+msgstr "বেইদ"
+
+msgid "Keid"
+msgstr "কাইদ"
+
+msgid "Alhena"
+msgstr "আলহেনা (অনল)"
+
+msgid "Wasat"
+msgstr "ওয়াসাত"
+
+msgid "Mebsuta"
+msgstr "মেবসুতা"
+
+msgid "Mekbuda"
+msgstr "মাকবুদা"
+
+msgid "Propus"
+msgstr "প্রোপুস"
+
+msgid "Tejat"
+msgstr "তেজাট"
+
+msgid "Rasalgethi"
+msgstr "রাস অ্যালিগ্যাথি"
+
+msgid "Kornephoros"
+msgstr "করনেফোরোস"
+
+msgid "Marsic"
+msgstr "মারসিক"
+
+msgid "Marfik"
+msgstr "মারফিক"
+
+msgid "Maasym"
+msgstr "মাশিম"
+
+msgid "Cujam"
+msgstr "কুজাম"
+
+msgid "Alphard"
+msgstr "আলফার্ড"
+
+msgid "Babcock's Star"
+msgstr "ব্যাবক -এর তারা"
+
+msgid "Algieba"
+msgstr "আলজিবাহ্"
+
+msgid "Zosma"
+msgstr "জ্যোসমা"
+
+msgid "Adhafera"
+msgstr "আদদাফিরা"
+
+msgid "Chertan"
+msgstr "খারতান"
+
+msgid "Alterf"
+msgstr "আলতার্ফ"
+
+msgid "Rasalas"
+msgstr "রাস্যালাস"
+
+msgid "Subra"
+msgstr "সুর্বা"
+
+msgid "Arneb"
+msgstr "আরনেব"
+
+msgid "Nihal"
+msgstr "নিহাল"
+
+msgid "Zubenelgenubi"
+msgstr "জুবেনিলজেনুবি"
+
+msgid "Zubeneschamali"
+msgstr "জুবেনেস্চামালি"
+
+msgid "Sheliak"
+msgstr "শেলিয়াক"
+
+msgid "Sulafat"
+msgstr "সুলাফাত"
+
+msgid "Red Rectangle"
+msgstr "লাল আয়তক্ষেত্র"
+
+msgid "Rasalhague"
+msgstr "রাস অ্যালগি"
+
+msgid "Cebalrai"
+msgstr "সেবালারি"
+
+msgid "Yed Prior"
+msgstr "এড প্রায়র"
+
+msgid "Yed Posterior"
+msgstr "পশ্চাত ইয়াদ"
+
+msgid "Sabik"
+msgstr "সাবিক"
+
+msgid "Barnard's Star"
+msgstr "বারনাডের নক্ষত্র"
+
+msgid "Saiph"
+msgstr "সাইফ (কার্তবীর্য)"
+
+msgid "Meissa"
+msgstr "মেইসা"
+
+msgid "Peacock"
+msgstr "ময়ূর"
+
+msgid "Markab"
+msgstr "মারকাব"
+
+msgid "Algenib"
+msgstr "আলজেনিব"
+
+msgid "Enif"
+msgstr "এনিফ"
+
+msgid "Homan"
+msgstr "হোম্যান"
+
+msgid "Matar"
+msgstr "মাতার"
+
+msgid "Biham"
+msgstr "বিহাম"
+
+msgid "Sadalbari"
+msgstr "সাদালব্যারি"
+
+msgid "Mirphak"
+msgstr "মিরফাক"
+
+msgid "Algol"
+msgstr "অ্যালগল"
+
+msgid "Menkib"
+msgstr "মেনকিব"
+
+msgid "Atik"
+msgstr "আটিক"
+
+msgid "Ankaa"
+msgstr "আনকা"
+
+msgid "Kapteyn's Star"
+msgstr "কাপতেইনের তারা"
+
+msgid "Alrescha"
+msgstr "অ্যালরাশ্যা"
+
+msgid "Naos"
+msgstr "নাওস"
+
+msgid "Bernes 135"
+msgstr "বার্নেস ১৩৫"
+
+msgid "Sham"
+msgstr "শাম"
+
+msgid "Rukbat"
+msgstr "রূকবাট"
+
+msgid "Arkab"
+msgstr "আরকাব"
+
+msgid "Alnasl"
+msgstr "আলনাস্ল"
+
+msgid "Kaus Media"
+msgstr "কাউস মিডিয়া"
+
+msgid "Kaus Australis"
+msgstr "কাউস অস্ট্রালিস"
+
+msgid "Ascella"
+msgstr "অ্যাস্কেলা"
+
+msgid "Kaus Borealis"
+msgstr "কাউস বোরিয়ালিস"
+
+msgid "Nunki"
+msgstr "নুনকি"
+
+msgid "Acrab"
+msgstr "আকরাব"
+
+msgid "Dschubba"
+msgstr "স্চুবা (অনুরাধা)"
+
+msgid "Girtab"
+msgstr "গিরটাব"
+
+msgid "Shaula"
+msgstr "শ্যাউলা"
+
+msgid "Al Niyat"
+msgstr "আল নিয়াত"
+
+msgid "Lesath"
+msgstr "লেসাথ"
+
+msgid "Unukalhai"
+msgstr "আনউকালহাই"
+
+msgid "Alya"
+msgstr "আলিয়া"
+
+msgid "Ain"
+msgstr "আয়িন"
+
+msgid "Alcyone"
+msgstr "অ্যালসিয়্যানি"
+
+msgid "Celaeno"
+msgstr "সেল্যানো"
+
+msgid "Electra"
+msgstr "ইলেকট্রা"
+
+msgid "Taygeta"
+msgstr "তেইজ্যাতে (অনুসূয়া)"
+
+msgid "Maia"
+msgstr "মেইয়্যা"
+
+msgid "Asterope"
+msgstr "অ্যাস্টেরোপি"
+
+msgid "Merope"
+msgstr "মেরোপি"
+
+msgid "Atlas"
+msgstr "আটলাস"
+
+msgid "Pleione"
+msgstr "প্লাইয়নি"
+
+msgid "Mothallah"
+msgstr "মুথাল্লাহ্"
+
+msgid "Atria"
+msgstr "আট্রিয়া"
+
+msgid "Dubhe"
+msgstr "ধুবে (ক্রতু)"
+
+msgid "Merak"
+msgstr "মিরাক (পুলহ)"
+
+msgid "Megrez"
+msgstr "মেগরেজ (অত্রি)"
+
+msgid "Alioth"
+msgstr "অ্যালিয়থ (অঙ্গিরা)"
+
+msgid "Mizar"
+msgstr "মিজার (বশিষ্ঠ)"
+
+msgid "Alkaid"
+msgstr "আলকাইদ (মারিচী)"
+
+msgid "Talitha"
+msgstr "থালিথা"
+
+msgid "Tania Borealis"
+msgstr "টানিয়া বোরিয়ালিস"
+
+msgid "Tania Australis"
+msgstr "টানিয়া অস্ট্রালিস"
+
+msgid "Alula Borealis"
+msgstr "আলুলা বোরিয়ালিস"
+
+msgid "Alula Australis"
+msgstr "আলুলা অস্ট্রালিস"
+
+msgid "Muscida"
+msgstr "মুসিডা"
+
+msgid "Kocab"
+msgstr "কোখাব"
+
+msgid "Pherkad"
+msgstr "ফার্কাড"
+
+msgid "Yildun"
+msgstr "ইলডান"
+
+msgid "Regor"
+msgstr "রেগোর"
+
+msgid "Suhail"
+msgstr "সুহাইল"
+
+msgid "Zavijava"
+msgstr "জাভিজাভা"
+
+msgid "Porrima"
+msgstr "পোরিমা"
+
+msgid "Vindemiatrix"
+msgstr "ভিন্ডেমিয়েট্রিক্স"
+
+msgid "Zaniah"
+msgstr "জ্যানাইয়্যা"
+
+msgid "Syrma"
+msgstr "শায়র্মা"
+
+msgid "The Great Chariot"
+msgstr "বিশাল রথ"
+
+msgid "The She-Goat with Three She-Goat’s Kids"
+msgstr "তিনটি ছানা সহ মা ছাগল"
+
+msgid "The Scythe"
+msgstr "কাস্তে"
+
+msgid "God’s Chair"
+msgstr "ভগবানের চেয়ার"
+
+msgid "The Ring Dance"
+msgstr "বৃত্তাকার নাচ"
+
+msgid "The Emperor’s Daughter with a Yoke"
+msgstr "জোয়াল হাতে রাজকন্যা"
+
+msgid "The Shepherd with His Sheep"
+msgstr "মেষপালক ও তার ভেঁড়ার দল"
+
+msgid "The Wall with a Drain"
+msgstr "নালা যুক্ত দেওয়াল"
+
+msgid "The Hatching Hen with Her Chicks"
+msgstr "ডিমে তা দেওয়া মুরগী ও তার বাচ্চারা"
+
+msgid "The Little Chariot"
+msgstr "ছোটো রথ"
+
+msgid "The Brothers"
+msgstr "ভাই ভাই"
+
+msgid "The Great Cross"
+msgstr "বিশাল ক্রুশ"
+
+msgid "The Little Cross"
+msgstr "ছোটো ক্রুশ"
+
+msgid "The He-Goat"
+msgstr "পাঁঠা"
+
+msgid "The Crayfish"
+msgstr "বাগদা চিংড়ি"
+
+msgid "The Dragon"
+msgstr "ড্রাগন"
+
+msgid "The Virgin"
+msgstr "কুমারী"
+
+msgid "The Carp"
+msgstr "পোনা মাছ"
+
+msgid "The Mastiff"
+msgstr "বিশেষ কুকুর"
+
+msgid "The Little Dog"
+msgstr "ছোটো কুকুর"
+
+msgid "The Herdsman"
+msgstr "পশুপালক"
+
+msgid "The Turtle Dove"
+msgstr "ঘুঘু পাখি"
+
+msgid "He Who Pours Out the Water"
+msgstr "জল বাহক"
+
+msgid "The Whale"
+msgstr "মাছ"
+
+msgid "The Little Plough"
+msgstr "ছোটো লাঙল"
+
+msgid "The Sickle"
+msgstr "কাস্তে"
+
+msgid "The Great Auger"
+msgstr "তুরপুন"
+
+msgid "The Bull"
+msgstr "ষাঁড়"
+
+msgid "The Man"
+msgstr "মানুষ"
+
+msgid "The Axe"
+msgstr "কুড়ুল"
+
+msgid "The Archer"
+msgstr "ধনুর্ধর"
+
+msgid "The Three Saints"
+msgstr "তিন সাধু"
+
+msgid "The Boars"
+msgstr "বুনো শুকর"
+
+msgid "Van Maanen 2"
+msgstr "ভ্যান মানেন ২"
+
+msgid "The Sky's Votive Light"
+msgstr "শপথের গ্রহনের দ্যুতি"
+
+msgid "The Bright Star of the Pig (The Alarm Clock)"
+msgstr "শুকর মন্ডলের উজ্জ্বল তারা (অ্যালার্মঘড়ি)"
+
+msgid "Alnath"
+msgstr "আ্যালনাথ"
+
+msgid "Morning Star"
+msgstr "ভোরের তারা"
+
+msgid "Romulus"
+msgstr "রোমুউল্যাস"
+
+msgid "Remus"
+msgstr "রীম্যাস"
+
+msgid "The Little Bitch"
+msgstr "মেয়ে কুকুর ছানা"
+
+msgid "The Shepherd (The Stars Queen)"
+msgstr "মেষপালক (ডারাদের রানি)"
