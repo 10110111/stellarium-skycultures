@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander Shopov <ash@kambanaria.org>, 2022\n"
+"Language-Team: Bulgarian (https://app.transifex.com/stellarium/teams/80998/"
+"bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr ""
+
+msgid "Morning Star"
+msgstr "Зорница"
+
+msgid "Sarva the Elk"
+msgstr "Лосът Сарва"
+
+msgid "Favdna's Bow and Arrow"
+msgstr "Лъкът и стрелата на Фавдна"
+
+msgid "Galla's Sons"
+msgstr "Синовете на Гала"
+
+msgid "Sky Support"
+msgstr "Опората на небето"
+
+msgid "Favdna"
+msgstr "Фавдна"
+
+msgid "The Runner"
+msgstr "Бегачът"
+
+msgid "Pack of Dogs"
+msgstr "Кучешка глутница"
+
+msgid "Galla"
+msgstr "Гала"
+
+msgid "The Ski Runners"
+msgstr "Ски бегачи"

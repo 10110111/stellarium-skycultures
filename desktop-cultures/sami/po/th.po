@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Worachate Boonplod, 2024\n"
+"Language-Team: Thai (https://app.transifex.com/stellarium/teams/80998/th/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr "เซมี"
+
+msgid "Morning Star"
+msgstr "ดาวรุ่ง"
+
+msgid "Sarva the Elk"
+msgstr ""
+
+msgid "Favdna's Bow and Arrow"
+msgstr ""
+
+msgid "Galla's Sons"
+msgstr ""
+
+msgid "Sky Support"
+msgstr ""
+
+msgid "Favdna"
+msgstr ""
+
+msgid "The Runner"
+msgstr ""
+
+msgid "Pack of Dogs"
+msgstr "ฝูงสุนัข"
+
+msgid "Galla"
+msgstr ""
+
+msgid "The Ski Runners"
+msgstr ""

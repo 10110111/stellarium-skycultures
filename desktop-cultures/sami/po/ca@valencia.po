@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Catalan (Valencian) (https://app.transifex.com/stellarium/"
+"teams/80998/ca@valencia/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca@valencia\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr ""
+
+msgid "Morning Star"
+msgstr "Estrela del Matí"
+
+msgid "Sarva the Elk"
+msgstr "L'Ant Sarva"
+
+msgid "Favdna's Bow and Arrow"
+msgstr "Arc i Fletxa de Favdna"
+
+msgid "Galla's Sons"
+msgstr "Fills de Galla"
+
+msgid "Sky Support"
+msgstr "Suport del Cel"
+
+msgid "Favdna"
+msgstr "Favdna"
+
+msgid "The Runner"
+msgstr "El Corredor"
+
+msgid "Pack of Dogs"
+msgstr "Gossada"
+
+msgid "Galla"
+msgstr "Galla"
+
+msgid "The Ski Runners"
+msgstr "Els Esquiadors"

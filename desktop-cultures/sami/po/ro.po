@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Romanian (https://app.transifex.com/stellarium/teams/80998/"
+"ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr ""
+
+msgid "Morning Star"
+msgstr "Zorila"
+
+msgid "Sarva the Elk"
+msgstr "Elanul Sarva"
+
+msgid "Favdna's Bow and Arrow"
+msgstr "Arcul şi săgeata lui Favdna"
+
+msgid "Galla's Sons"
+msgstr "Fiii lui Galla"
+
+msgid "Sky Support"
+msgstr ""
+
+msgid "Favdna"
+msgstr "Favdna"
+
+msgid "The Runner"
+msgstr "Alergatorul"
+
+msgid "Pack of Dogs"
+msgstr ""
+
+msgid "Galla"
+msgstr "Galla"
+
+msgid "The Ski Runners"
+msgstr "Alergătorii pe schiuri"

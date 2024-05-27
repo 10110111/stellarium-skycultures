@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Indonesian (https://app.transifex.com/stellarium/teams/80998/"
+"id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr "Sami"
+
+msgid "Morning Star"
+msgstr "Morning Star (Bintang Fajar)"
+
+msgid "Sarva the Elk"
+msgstr "Sarva the Elk"
+
+msgid "Favdna's Bow and Arrow"
+msgstr "Favdna's Bow and Arrow"
+
+msgid "Galla's Sons"
+msgstr "Galla's Sons"
+
+msgid "Sky Support"
+msgstr "Sky Support"
+
+msgid "Favdna"
+msgstr "Favdna"
+
+msgid "The Runner"
+msgstr "The Runner (Pelari)"
+
+msgid "Pack of Dogs"
+msgstr "Pack of Dogs (Sekumpulan Anjing)"
+
+msgid "Galla"
+msgstr "Galla"
+
+msgid "The Ski Runners"
+msgstr "The Ski Runners"
