@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: freemanli <freeman.tam@gmail.com>, 2023\n"
+"Language-Team: Chinese (Taiwan) (https://app.transifex.com/stellarium/"
+"teams/80998/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr "北歐 Sami"
+
+msgid "Morning Star"
+msgstr "天狼星 (晨星)"
+
+msgid "Sarva the Elk"
+msgstr "Sarva 麋鹿"
+
+msgid "Favdna's Bow and Arrow"
+msgstr "Favdna 的弓箭"
+
+msgid "Galla's Sons"
+msgstr "Galla的兒子"
+
+msgid "Sky Support"
+msgstr "天援"
+
+msgid "Favdna"
+msgstr "Favdna"
+
+msgid "The Runner"
+msgstr "跑步人"
+
+msgid "Pack of Dogs"
+msgstr "狗群"
+
+msgid "Galla"
+msgstr "蓋拉 (Galla)"
+
+msgid "The Ski Runners"
+msgstr "滑雪橇人"

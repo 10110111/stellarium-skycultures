@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Vietnamese (https://app.transifex.com/stellarium/teams/80998/"
+"vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr ""
+
+msgid "Morning Star"
+msgstr "Sao Bình Minh"
+
+msgid "Sarva the Elk"
+msgstr "Sarva the Elk"
+
+msgid "Favdna's Bow and Arrow"
+msgstr "Cung và mũi tên của Favdna"
+
+msgid "Galla's Sons"
+msgstr "Những đứa con trai của Galla"
+
+msgid "Sky Support"
+msgstr "Cột chống trời"
+
+msgid "Favdna"
+msgstr "Favdna"
+
+msgid "The Runner"
+msgstr "Người chạy đua"
+
+msgid "Pack of Dogs"
+msgstr "Đàn chó"
+
+msgid "Galla"
+msgstr "Galla"
+
+msgid "The Ski Runners"
+msgstr "Những người trượt tuyết"

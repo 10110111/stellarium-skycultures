@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr ""
+
+msgid "Morning Star"
+msgstr "వేగుచుక్క"
+
+msgid "Sarva the Elk"
+msgstr "ఎల్క్ సర్వా"
+
+msgid "Favdna's Bow and Arrow"
+msgstr "ఫవద్నా విల్లమ్ములు"
+
+msgid "Galla's Sons"
+msgstr "గల్లా కొడుకులు"
+
+msgid "Sky Support"
+msgstr "ఆకాశ ఆధారం"
+
+msgid "Favdna"
+msgstr "ఫవద్నా"
+
+msgid "The Runner"
+msgstr "పరుగుతీసేవాడు"
+
+msgid "Pack of Dogs"
+msgstr "కుక్కల గుంపు"
+
+msgid "Galla"
+msgstr "గల్లా కొడుకులు"
+
+msgid "The Ski Runners"
+msgstr "స్కీపై పరిగిత్తేవారు"

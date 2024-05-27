@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Icelandic (https://app.transifex.com/stellarium/teams/80998/"
+"is/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr "Samísk"
+
+msgid "Morning Star"
+msgstr "Morgunstjarnan"
+
+msgid "Sarva the Elk"
+msgstr "Elgurinn Sarva"
+
+msgid "Favdna's Bow and Arrow"
+msgstr "Bogi og örvar Favdna"
+
+msgid "Galla's Sons"
+msgstr "Synir Galla"
+
+msgid "Sky Support"
+msgstr "Himnastoðin"
+
+msgid "Favdna"
+msgstr "Favdna"
+
+msgid "The Runner"
+msgstr "Hlauparinn"
+
+msgid "Pack of Dogs"
+msgstr "Hundahjörðin"
+
+msgid "Galla"
+msgstr "Galla"
+
+msgid "The Ski Runners"
+msgstr "Skíðahlaupararnir"
