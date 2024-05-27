@@ -1,0 +1,919 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ilpo Kantonen, 2024\n"
+"Language-Team: Finnish (https://app.transifex.com/stellarium/teams/80998/"
+"fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Romanian"
+msgstr "Romanialainen"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"Considered as a whole, Romanian popular stellar mythology has three "
+"essential components.\n"
+"\n"
+"The FIRST one - the ancestral pastoral-agricultural is pre-Christian, in "
+"which the sky seen both as an agrarian clock for specific activities and as "
+"an \"exhibition\" of agricultural tools used by peasants.\n"
+"\n"
+"The SECOND component - more recent - corresponding to the Christianization "
+"of Romanian geographical space and repositioning in the sky the Christian "
+"and pre-Christian elements where constellations are associated with "
+"cosmogonical and theogonical myths, so that the sky is seen more like a "
+"church.\n"
+"\n"
+"And the THIRD component - the origin of the Romanian people, projecting on "
+"the sky the synthesis of formation of this people (the conquest of Dacia by "
+"the Romans) through projection of dramatic scenes from this history of "
+"Dacians mixing with the Romans.\n"
+"\n"
+"**Note**: in Western Constellation Orion there are four Traditional Romanian "
+"Constellations that are overlapping."
+msgstr ""
+"Kokonaisuutena katsottuna Romanian suositussa tähtimytologiassa on kolme "
+"olennaista osaa.\n"
+"\n"
+"ENSIMMÄINEN - esi-isien paisto-maatalous on esikristillistä, jossa taivas "
+"nähdään sekä maatalouden kellona tiettyä toimintaa varten että talonpoikien "
+"käyttämien maataloustyökalujen \"näyttelynä\".\n"
+"\n"
+"TOINEN komponentti - uudempi - vastaa Romanian maantieteellisen tilan "
+"kristinuskoa ja kristillisten ja esikristillisten elementtien "
+"uudelleensijoittamista taivaalle, jossa tähtikuviot yhdistetään "
+"kosmogonisiin ja teogonisiin myytteihin, jotta taivas nähdään enemmän "
+"kirkkona.\n"
+"\n"
+"Ja KOLMAS komponentti - Romanian kansan alkuperä, projisoi taivaalle tämän "
+"kansan muodostumisen synteesin (roomalaisten valloitus Dacian) projisoimalla "
+"dramaattisia kohtauksia tästä historiasta, jossa dakialaiset sekoittuvat "
+"roomalaisten kanssa.\n"
+"\n"
+"**Merkintä**: änsi-Orionin tähdistössä on neljä perinteistä romanialaista "
+"tähdistöä, jotka ovat päällekkäisiä."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Website for Tradițional Romanian Constellation](http://www.crt-ro."
+"com)\n"
+" - [#2]: [On-line booklet in ro/en about 39 Traditional Romanian "
+"Constellations](http://www.slideshare.net/planetariubm/broura-constelaii-"
+"romanesti-tradiionale)\n"
+" - [#3]: [30 seconds movies made from scripts and with subtitle in English]"
+"(http://www.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro)\n"
+" - [#4]: [Romanian peasants beliefs in stars and sky – Translation of texts "
+"adapted from Ion Ottescu](http://www.sarm.ro/newsite/index.php?"
+"id=1&zi=29&luna=12&an=2009&act=news)\n"
+" - [#5]: [PLANETARIUL BAIA MARE – MARAMURES](http://planetariubm.ro/)\n"
+"\n"
+"Thanks to Andrei Dorian Gheorghe and Alastair McBeth – SARM members"
+msgstr ""
+" - [#1]: [Perinteisen romanialaisen tähdistön verkkosivusto](http://www.crt-"
+"ro.com)\n"
+" - [#2]: [Online-kirjanen ro/en-kielellä 39 perinteisestä romanialaisesta "
+"tähtikuviosta](http://www.slideshare.net/planetariubm/broura-constelaii-"
+"romanesti-tradiionale)\n"
+" - [#3]: [30 sekunnin elokuvat käsikirjoituksista ja englanninkielisillä "
+"tekstityksillä](http://www.youtube.com/playlist?"
+"list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro)\n"
+" - [#4]: [Romanian talonpoikien usko tähtiin ja taivaaseen – Ion Ottesculta "
+"muokattujen tekstien käännös](http://www.sarm.ro/newsite/index.php?"
+"id=1&zi=29&luna=12&an=2009&act=news)\n"
+" - [#5]: [PLANETARIUL BAIA MARE – MARAMURES](http://planetariubm.ro/)\n"
+"\n"
+"Kiitos Andrei Dorian Gheorghe ja Alastair McBeth – SARM-jäsenet"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user [Mircea Lite](mailto:"
+"MirceaLite@yahoo.com) on behalf of Baia Mare Planetarium, as a result of a "
+"project called *Traditional Romanian Constellations* primarily based on the "
+"book *Romanian peasants beliefs in stars and sky* by Ioan Otescu.\n"
+"\n"
+"The Romanian constellation lines, images, scripts and texts for movies "
+"prepared by [Radu Lodina](mailto:rlodina@gmail.com) and [Ovidiu Ignat]"
+"(mailto:OviIgnat@yahoo.com). Romanian constellation art done by Zamfir "
+"Somcutean."
+msgstr ""
+"Tämän tähdistötaruston loi Stellariumin käyttäjä [Mircea Lite](mailto:"
+"MirceaLite@yahoo.com) Baia Mare Planetariumin puolesta projektin tuloksena "
+"*Traditional Romanian Constellations* perustuu ensisijaisesti kirjaan "
+"*Romanian peasants beliefs in stars and sky* kirjoittanut Ioan Otescu.\n"
+"\n"
+"Romanian tähdistölinjat, kuvat, käsikirjoitukset ja tekstit elokuville, "
+"jotka on valmistanut [Radu Lodina](mailto:rlodina@gmail.com) ja [Ovidiu "
+"Ignat](mailto:OviIgnat@yahoo.com). Zamfir Somcuteanin tekemä romanialainen "
+"tähtikuvio."
+
+msgid "The Horse"
+msgstr "Hevonen"
+
+msgid "The Scorpion"
+msgstr "Skorpioni"
+
+msgid "The Raven"
+msgstr "Korppi"
+
+msgid "The Scales"
+msgstr "Vaaka"
+
+msgid "The Ram"
+msgstr "Oinas"
+
+msgid "The Serpent"
+msgstr "Käärme"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuse"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Bellatrix"
+msgstr "Bellatrix"
+
+msgid "Alnitak"
+msgstr "Alnitak"
+
+msgid "Alnilam"
+msgstr "Alnilam"
+
+msgid "Mintaka"
+msgstr "Mintaka"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Hadar"
+msgstr "Hadar"
+
+msgid "Rigil Kent"
+msgstr "Rigil Kentaurus"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Alpheratz"
+msgstr "Alpheratz"
+
+msgid "Mirach"
+msgstr "Mirach"
+
+msgid "Almaak"
+msgstr "Almaak"
+
+msgid "Adhil"
+msgstr "Adhil"
+
+msgid "Sadalmelik"
+msgstr "Sadalmelik"
+
+msgid "Sadalsuud"
+msgstr "Sadalsuud"
+
+msgid "Sadachbia"
+msgstr "Sadachbia"
+
+msgid "Skat"
+msgstr "Skat"
+
+msgid "Scheat"
+msgstr "Scheat"
+
+msgid "Albali"
+msgstr "Albali"
+
+msgid "Ancha"
+msgstr "Ancha"
+
+msgid "Situla"
+msgstr "Situla"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Alshain"
+msgstr "Alshain"
+
+msgid "Tarazed"
+msgstr "Tarazed"
+
+msgid "Hamal"
+msgstr "Hamal"
+
+msgid "Sheratan"
+msgstr "Sheratan"
+
+msgid "Mesarthim"
+msgstr "Mesarthim"
+
+msgid "Botein"
+msgstr "Botein"
+
+msgid "Menkalinan"
+msgstr "Menkalinan"
+
+msgid "Nekkar"
+msgstr "Nekkar"
+
+msgid "Seginus"
+msgstr "Seginus"
+
+msgid "Izar"
+msgstr "Izar"
+
+msgid "Muphrid"
+msgstr "Muphrid"
+
+msgid "Alkalurops"
+msgstr "Alkalurops"
+
+msgid "Merga"
+msgstr "Merga"
+
+msgid "Acubens"
+msgstr "Acubens"
+
+msgid "Asellus Borealis"
+msgstr "Asellus Borealis"
+
+msgid "Asellus Australis"
+msgstr "Asellus Australis"
+
+msgid "Tegmine"
+msgstr "Tegmine"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Chara"
+msgstr "Chara"
+
+msgid "Mirzam"
+msgstr "Mirzam"
+
+msgid "Muliphein"
+msgstr "Muliphein"
+
+msgid "Wezen"
+msgstr "Wezen"
+
+msgid "Adhara"
+msgstr "Adhara"
+
+msgid "Furud"
+msgstr "Furud"
+
+msgid "Aludra"
+msgstr "Aludra"
+
+msgid "Gomeisa"
+msgstr "Gomeisa"
+
+msgid "Luyten's Star"
+msgstr "Luytenin tähti"
+
+msgid "Algedi"
+msgstr "Algedi"
+
+msgid "Dabih"
+msgstr "Dabih"
+
+msgid "Nashira"
+msgstr "Nashira"
+
+msgid "Deneb Algedi"
+msgstr "Deneb Algedi"
+
+msgid "Miaplacidus"
+msgstr "Miaplacidus"
+
+msgid "Avior"
+msgstr "Avior"
+
+msgid "Aspidiske"
+msgstr "Aspidiske"
+
+msgid "Shedir"
+msgstr "Shedir"
+
+msgid "Caph"
+msgstr "Caph"
+
+msgid "Ruchbah"
+msgstr "Ruchbah"
+
+msgid "Proxima"
+msgstr "Proxima"
+
+msgid "Menkent"
+msgstr "Menkent"
+
+msgid "Alnair"
+msgstr "Alnair"
+
+msgid "Alderamin"
+msgstr "Alderamin"
+
+msgid "Alfirk"
+msgstr "Alfirk"
+
+msgid "Errai"
+msgstr "Errai"
+
+msgid "The Garnet Star"
+msgstr "Granaattitähti"
+
+msgid "Kurhah"
+msgstr "Kurhah"
+
+msgid "Kruger 60"
+msgstr "Kruger 60"
+
+msgid "Menkar"
+msgstr "Menkar"
+
+msgid "Diphda"
+msgstr "Diphda"
+
+msgid "Baten Kaitos"
+msgstr "Baten Kaitos"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Phact"
+msgstr "Phact"
+
+msgid "Phad"
+msgstr "Phad"
+
+msgid "Wazn"
+msgstr "Wazn"
+
+msgid "Alphekka"
+msgstr "Alphekka"
+
+msgid "Nusakan"
+msgstr "Nusakan"
+
+msgid "Alchiba"
+msgstr "Alchiba"
+
+msgid "Gienah"
+msgstr "Gienah"
+
+msgid "Algorab"
+msgstr "Algorab"
+
+msgid "Alkes"
+msgstr "Alkes"
+
+msgid "Mimosa"
+msgstr "Mimosa"
+
+msgid "Gacrux"
+msgstr "Gacrux"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Sadr"
+msgstr "Sadr"
+
+msgid "Azelfafage"
+msgstr "Azelfafage"
+
+msgid "Campbell's Star"
+msgstr "Campbellin tähti"
+
+msgid "Sualocin"
+msgstr "Sualocin"
+
+msgid "Rotanev"
+msgstr "Rotanev"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Rastaban"
+msgstr "Rastaban"
+
+msgid "Etamin"
+msgstr "Etamin"
+
+msgid "Altais"
+msgstr "Altais"
+
+msgid "Edasich"
+msgstr "Edasich"
+
+msgid "Giausar"
+msgstr "Giausar"
+
+msgid "Alrakis"
+msgstr "Alrakis"
+
+msgid "Grumium"
+msgstr "Grumium"
+
+msgid "Kitalpha"
+msgstr "Kitalpha"
+
+msgid "Cursa"
+msgstr "Cursa"
+
+msgid "Zaurak"
+msgstr "Zaurak"
+
+msgid "Zibal"
+msgstr "Zibal"
+
+msgid "Azha"
+msgstr "Azha"
+
+msgid "Acamar"
+msgstr "Acamar"
+
+msgid "Beid"
+msgstr "Beid"
+
+msgid "Keid"
+msgstr "Keid"
+
+msgid "Alhena"
+msgstr "Alhena"
+
+msgid "Wasat"
+msgstr "Wasat"
+
+msgid "Mebsuta"
+msgstr "Mebsuta"
+
+msgid "Mekbuda"
+msgstr "Mekbuda"
+
+msgid "Propus"
+msgstr "Propus"
+
+msgid "Tejat"
+msgstr "Tejat"
+
+msgid "Rasalgethi"
+msgstr "Rasalgethi"
+
+msgid "Kornephoros"
+msgstr "Kornephoros"
+
+msgid "Marsic"
+msgstr "Marsic"
+
+msgid "Marfik"
+msgstr "Marfik"
+
+msgid "Maasym"
+msgstr "Maasym"
+
+msgid "Cujam"
+msgstr "Cujam"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Babcock's Star"
+msgstr "Babcockin tähti"
+
+msgid "Algieba"
+msgstr "Algieba"
+
+msgid "Zosma"
+msgstr "Zosma"
+
+msgid "Adhafera"
+msgstr "Adhafera"
+
+msgid "Chertan"
+msgstr "Chertan"
+
+msgid "Alterf"
+msgstr "Alterf"
+
+msgid "Rasalas"
+msgstr "Rasalas"
+
+msgid "Subra"
+msgstr "Subra"
+
+msgid "Arneb"
+msgstr "Arneb"
+
+msgid "Nihal"
+msgstr "Nihal"
+
+msgid "Zubenelgenubi"
+msgstr "Zubenelgenubi"
+
+msgid "Zubeneschamali"
+msgstr "Zubeneschamali"
+
+msgid "Sheliak"
+msgstr "Sheliak"
+
+msgid "Sulafat"
+msgstr "Sulafat"
+
+msgid "Red Rectangle"
+msgstr "Punainen neliö"
+
+msgid "Rasalhague"
+msgstr "Rasalhague"
+
+msgid "Cebalrai"
+msgstr "Cebalrai"
+
+msgid "Yed Prior"
+msgstr "Yed Prior"
+
+msgid "Yed Posterior"
+msgstr "Yed Posterior"
+
+msgid "Sabik"
+msgstr "Sabik"
+
+msgid "Barnard's Star"
+msgstr "Barnardin tähti"
+
+msgid "Saiph"
+msgstr "Saiph"
+
+msgid "Meissa"
+msgstr "Meissa"
+
+msgid "Peacock"
+msgstr "Peacock"
+
+msgid "Markab"
+msgstr "Markab"
+
+msgid "Algenib"
+msgstr "Algenib"
+
+msgid "Enif"
+msgstr "Enif"
+
+msgid "Homan"
+msgstr "Homan"
+
+msgid "Matar"
+msgstr "Matar"
+
+msgid "Biham"
+msgstr "Biham"
+
+msgid "Sadalbari"
+msgstr "Sadalbari"
+
+msgid "Mirphak"
+msgstr "Mirfak"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Menkib"
+msgstr "Menkib"
+
+msgid "Atik"
+msgstr "Atik"
+
+msgid "Ankaa"
+msgstr "Ankaa"
+
+msgid "Kapteyn's Star"
+msgstr "Kapteynin tähti"
+
+msgid "Alrescha"
+msgstr "Alrescha"
+
+msgid "Naos"
+msgstr "Naos"
+
+msgid "Bernes 135"
+msgstr "Bernes 135"
+
+msgid "Sham"
+msgstr "Sham"
+
+msgid "Rukbat"
+msgstr "Rukbat"
+
+msgid "Arkab"
+msgstr "Arkab"
+
+msgid "Alnasl"
+msgstr "Alnasl"
+
+msgid "Kaus Media"
+msgstr "Kaus Media"
+
+msgid "Kaus Australis"
+msgstr "Kaus Australis"
+
+msgid "Ascella"
+msgstr "Ascella"
+
+msgid "Kaus Borealis"
+msgstr "Kaus Borealis"
+
+msgid "Nunki"
+msgstr "Nunki"
+
+msgid "Acrab"
+msgstr "Acrab"
+
+msgid "Dschubba"
+msgstr "Dschubba"
+
+msgid "Girtab"
+msgstr "Girtab"
+
+msgid "Shaula"
+msgstr "Shaula"
+
+msgid "Al Niyat"
+msgstr "Al Niyat"
+
+msgid "Lesath"
+msgstr "Lesath"
+
+msgid "Unukalhai"
+msgstr "Unukalhai"
+
+msgid "Alya"
+msgstr "Alya"
+
+msgid "Ain"
+msgstr "Ain"
+
+msgid "Alcyone"
+msgstr "Alcyone"
+
+msgid "Celaeno"
+msgstr "Celaeno"
+
+msgid "Electra"
+msgstr "Electra"
+
+msgid "Taygeta"
+msgstr "Taygeta"
+
+msgid "Maia"
+msgstr "Maia"
+
+msgid "Asterope"
+msgstr "Asterope"
+
+msgid "Merope"
+msgstr "Merope"
+
+msgid "Atlas"
+msgstr "Atlas"
+
+msgid "Pleione"
+msgstr "Pleione"
+
+msgid "Mothallah"
+msgstr "Mothallah"
+
+msgid "Atria"
+msgstr "Atria"
+
+msgid "Dubhe"
+msgstr "Dubhe"
+
+msgid "Merak"
+msgstr "Merak"
+
+msgid "Megrez"
+msgstr "Megrez"
+
+msgid "Alioth"
+msgstr "Alioth"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alkaid"
+msgstr "Alkaid"
+
+msgid "Talitha"
+msgstr "Talitha"
+
+msgid "Tania Borealis"
+msgstr "Tania Borealis"
+
+msgid "Tania Australis"
+msgstr "Tania Australis"
+
+msgid "Alula Borealis"
+msgstr "Alula Borealis"
+
+msgid "Alula Australis"
+msgstr "Alula Australis"
+
+msgid "Muscida"
+msgstr "Muscida"
+
+msgid "Kocab"
+msgstr "Kochab"
+
+msgid "Pherkad"
+msgstr "Pherkad"
+
+msgid "Yildun"
+msgstr "Yildun"
+
+msgid "Regor"
+msgstr "Regor"
+
+msgid "Suhail"
+msgstr "Suhail"
+
+msgid "Zavijava"
+msgstr "Zavijava"
+
+msgid "Porrima"
+msgstr "Porrima"
+
+msgid "Vindemiatrix"
+msgstr "Vindemiatrix"
+
+msgid "Zaniah"
+msgstr "Zaniah"
+
+msgid "Syrma"
+msgstr "Syrma"
+
+msgid "The Great Chariot"
+msgstr "Suuri sotavaunu"
+
+msgid "The She-Goat with Three She-Goat’s Kids"
+msgstr "Kuttu ja kolme kiliä"
+
+msgid "The Scythe"
+msgstr "Viikate"
+
+msgid "God’s Chair"
+msgstr "Jumalan tuoli"
+
+msgid "The Ring Dance"
+msgstr "Piiritanssi"
+
+msgid "The Emperor’s Daughter with a Yoke"
+msgstr "Keisarin tytär ja ies"
+
+msgid "The Shepherd with His Sheep"
+msgstr "Lammaspaimen ja lammas"
+
+msgid "The Wall with a Drain"
+msgstr "Seinä ja viemäri"
+
+msgid "The Hatching Hen with Her Chicks"
+msgstr "Hautova kana ja kananpojat"
+
+msgid "The Little Chariot"
+msgstr "Pieni sotavaunu"
+
+msgid "The Brothers"
+msgstr "Veljekset"
+
+msgid "The Great Cross"
+msgstr "Suuri risti"
+
+msgid "The Little Cross"
+msgstr "Pieni risti"
+
+msgid "The He-Goat"
+msgstr "Pukki"
+
+msgid "The Crayfish"
+msgstr "Jokirapu"
+
+msgid "The Dragon"
+msgstr "Lohikäärme"
+
+msgid "The Virgin"
+msgstr "Neitsyt"
+
+msgid "The Carp"
+msgstr "Karppi"
+
+msgid "The Mastiff"
+msgstr "Mastiffi"
+
+msgid "The Little Dog"
+msgstr "Pieni koira"
+
+msgid "The Herdsman"
+msgstr "Paimen"
+
+msgid "The Turtle Dove"
+msgstr "Turturikyyhky"
+
+msgid "He Who Pours Out the Water"
+msgstr "Vedenkaataja"
+
+msgid "The Whale"
+msgstr "Valaskala"
+
+msgid "The Little Plough"
+msgstr "Pieni aura"
+
+msgid "The Sickle"
+msgstr "Sirppi"
+
+msgid "The Great Auger"
+msgstr "Suuri kaira"
+
+msgid "The Bull"
+msgstr "Härkä"
+
+msgid "The Man"
+msgstr "Mies"
+
+msgid "The Axe"
+msgstr "Kirves"
+
+msgid "The Archer"
+msgstr "Jousimies"
+
+msgid "The Three Saints"
+msgstr "Kolme pyhimystä"
+
+msgid "The Boars"
+msgstr "Villisiat"
+
+msgid "Van Maanen 2"
+msgstr "Van Maanen 2"
+
+msgid "The Sky's Votive Light"
+msgstr "Taivaan rukouskynttilä"
+
+msgid "The Bright Star of the Pig (The Alarm Clock)"
+msgstr "Sian kirkas tähti (Herätyskello)"
+
+msgid "Alnath"
+msgstr "Alnath"
+
+msgid "Morning Star"
+msgstr "Aamutähti"
+
+msgid "Romulus"
+msgstr "Romulus"
+
+msgid "Remus"
+msgstr "Remus"
+
+msgid "The Little Bitch"
+msgstr "Pikku narttu"
+
+msgid "The Shepherd (The Stars Queen)"
+msgstr "Paimen (Tähtien kuningatar)"

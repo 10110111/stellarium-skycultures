@@ -1,0 +1,822 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2022\n"
+"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
+"te/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Romanian"
+msgstr ""
+
+msgid "The Horse"
+msgstr "గుర్రం"
+
+msgid "The Scorpion"
+msgstr "ది స్కార్పియన్"
+
+msgid "The Raven"
+msgstr "ది రావెన్"
+
+msgid "The Scales"
+msgstr "పొలుసులు"
+
+msgid "The Ram"
+msgstr "ది ర్యామ్"
+
+msgid "The Serpent"
+msgstr "పాము"
+
+msgid "Procyon"
+msgstr "ప్రోచియాన్"
+
+msgid "Arcturus"
+msgstr "ఆర్క్‌టురస్"
+
+msgid "Capella"
+msgstr "కాపెల్లా"
+
+msgid "Regulus"
+msgstr "రెగ్యులస్"
+
+msgid "Denebola"
+msgstr "డెనెబోలా"
+
+msgid "Spica"
+msgstr "స్పికా"
+
+msgid "Fomalhaut"
+msgstr "ఫోమల్‌హాట్"
+
+msgid "Betelgeuse"
+msgstr "బెటెల్‌జూస్"
+
+msgid "Rigel"
+msgstr "రిజెల్"
+
+msgid "Canopus"
+msgstr "కానోపస్"
+
+msgid "Bellatrix"
+msgstr "బెల్లాట్రిక్స్"
+
+msgid "Alnitak"
+msgstr "ఆల్నిటాక్"
+
+msgid "Alnilam"
+msgstr "ఆల్నిలమ్"
+
+msgid "Mintaka"
+msgstr "మింటాకా"
+
+msgid "Achernar"
+msgstr "అచెర్నార్"
+
+msgid "Acrux"
+msgstr "అక్రక్స్"
+
+msgid "Hadar"
+msgstr "హాడర్"
+
+msgid "Rigil Kent"
+msgstr "రిజిల్ కెంట్"
+
+msgid "Antares"
+msgstr "అంటారెస్"
+
+msgid "Alpheratz"
+msgstr "ఆళ్ఫరాజ్"
+
+msgid "Mirach"
+msgstr "మిరాచ్"
+
+msgid "Almaak"
+msgstr "అల్మాక్"
+
+msgid "Adhil"
+msgstr "అధిల్"
+
+msgid "Sadalmelik"
+msgstr "సాడల్మెలిక్"
+
+msgid "Sadalsuud"
+msgstr "సడాల్సూడ్"
+
+msgid "Sadachbia"
+msgstr "సడక్బియా"
+
+msgid "Skat"
+msgstr "స్కాట్"
+
+msgid "Scheat"
+msgstr "స్కీట్"
+
+msgid "Albali"
+msgstr "అల్బాలి"
+
+msgid "Ancha"
+msgstr "అంచా"
+
+msgid "Situla"
+msgstr "సిటూలా"
+
+msgid "Altair"
+msgstr "అల్టెయిర్"
+
+msgid "Alshain"
+msgstr "అల్షైన్"
+
+msgid "Tarazed"
+msgstr "తారాజెడ్"
+
+msgid "Hamal"
+msgstr "హమాల్"
+
+msgid "Sheratan"
+msgstr "షెరటన్"
+
+msgid "Mesarthim"
+msgstr "మెసార్తిమ్"
+
+msgid "Botein"
+msgstr "బోటీన్"
+
+msgid "Menkalinan"
+msgstr "మెంకాలినన్"
+
+msgid "Nekkar"
+msgstr "నెక్కర్"
+
+msgid "Seginus"
+msgstr "సెజినస్"
+
+msgid "Izar"
+msgstr "ఇజార్"
+
+msgid "Muphrid"
+msgstr "ముఫిర్డ్"
+
+msgid "Alkalurops"
+msgstr "అల్కలురోప్స్"
+
+msgid "Merga"
+msgstr "మెర్గా"
+
+msgid "Acubens"
+msgstr "అక్యుబెన్స్"
+
+msgid "Asellus Borealis"
+msgstr "అసెల్లస్ బొరియాలిస్"
+
+msgid "Asellus Australis"
+msgstr "అసెల్లస్ ఆస్ట్రాలిస్"
+
+msgid "Tegmine"
+msgstr "టెగ్మైన్"
+
+msgid "Cor Caroli"
+msgstr "కోర్ కరోలి"
+
+msgid "Chara"
+msgstr "చారా"
+
+msgid "Mirzam"
+msgstr "మిర్జామ్"
+
+msgid "Muliphein"
+msgstr "ములిఫీన్"
+
+msgid "Wezen"
+msgstr "వెజెన్"
+
+msgid "Adhara"
+msgstr "అధరా"
+
+msgid "Furud"
+msgstr "ఫురుద్"
+
+msgid "Aludra"
+msgstr "అలుడ్రా"
+
+msgid "Gomeisa"
+msgstr "గొమీసా"
+
+msgid "Luyten's Star"
+msgstr "లుయ్‌టెన్ నక్షత్రం"
+
+msgid "Algedi"
+msgstr "అల్గేడి"
+
+msgid "Dabih"
+msgstr "డాబి"
+
+msgid "Nashira"
+msgstr "నషీరా"
+
+msgid "Deneb Algedi"
+msgstr "డెనెబ్ అల్గేడి"
+
+msgid "Miaplacidus"
+msgstr "మియాప్లాసిడస్"
+
+msgid "Avior"
+msgstr "ఏవియర్"
+
+msgid "Aspidiske"
+msgstr "అస్పిడిస్క్"
+
+msgid "Shedir"
+msgstr "షెడిర్"
+
+msgid "Caph"
+msgstr "కాఫ్"
+
+msgid "Ruchbah"
+msgstr "రుచ్‌బా"
+
+msgid "Proxima"
+msgstr "ప్రాక్సిమా"
+
+msgid "Menkent"
+msgstr "మెంకెంట్"
+
+msgid "Alnair"
+msgstr "అల్నైర్"
+
+msgid "Alderamin"
+msgstr "అల్డెరామిన్"
+
+msgid "Alfirk"
+msgstr "ఆల్ఫ్రిక్"
+
+msgid "Errai"
+msgstr "ఎర్రాయ్"
+
+msgid "The Garnet Star"
+msgstr "గార్నెట్ నక్షత్రం"
+
+msgid "Kurhah"
+msgstr "కుర్హా"
+
+msgid "Kruger 60"
+msgstr "క్రూగర్ 60"
+
+msgid "Menkar"
+msgstr "మెంకార్"
+
+msgid "Diphda"
+msgstr "డిఫ్డ్"
+
+msgid "Baten Kaitos"
+msgstr "బాటెన్ కైటోస్"
+
+msgid "Mira"
+msgstr "మిరా"
+
+msgid "Phact"
+msgstr "ఫక్ట్"
+
+msgid "Phad"
+msgstr "ఫాడ్"
+
+msgid "Wazn"
+msgstr "వజ్ఞ్"
+
+msgid "Alphekka"
+msgstr "ఆల్ఫెక్కా"
+
+msgid "Nusakan"
+msgstr "నుసాకన్"
+
+msgid "Alchiba"
+msgstr "అల్కిబా"
+
+msgid "Gienah"
+msgstr "గీనా"
+
+msgid "Algorab"
+msgstr "అల్గోరబ్"
+
+msgid "Alkes"
+msgstr "ఆల్కెస్"
+
+msgid "Mimosa"
+msgstr "మిమోసా"
+
+msgid "Gacrux"
+msgstr "గాక్రక్స్"
+
+msgid "Deneb"
+msgstr "డెనెబ్"
+
+msgid "Albireo"
+msgstr "అల్బీరియో"
+
+msgid "Sadr"
+msgstr "సాద్ర్"
+
+msgid "Azelfafage"
+msgstr "అజెల్‌ఫాఫేజ్"
+
+msgid "Campbell's Star"
+msgstr "క్యాంప్‌బెల్ నక్షత్రం"
+
+msgid "Sualocin"
+msgstr "సువలోసిన్"
+
+msgid "Rotanev"
+msgstr "రోటనోవ్"
+
+msgid "Thuban"
+msgstr "తుబాన్"
+
+msgid "Rastaban"
+msgstr "రస్టాబాన్"
+
+msgid "Etamin"
+msgstr "ఎటామిన్"
+
+msgid "Altais"
+msgstr "అల్టాయిస్"
+
+msgid "Edasich"
+msgstr "ఎడాసిక్"
+
+msgid "Giausar"
+msgstr "గేయుసార్"
+
+msgid "Alrakis"
+msgstr "అల్రాకిస్"
+
+msgid "Grumium"
+msgstr "గ్రూమియమ్"
+
+msgid "Kitalpha"
+msgstr "కిట్ల్ఫా"
+
+msgid "Cursa"
+msgstr "కర్సా"
+
+msgid "Zaurak"
+msgstr "జౌరాక్"
+
+msgid "Zibal"
+msgstr "జిబాల్"
+
+msgid "Azha"
+msgstr "అఝా"
+
+msgid "Acamar"
+msgstr "అచమార్"
+
+msgid "Beid"
+msgstr "బీడ్"
+
+msgid "Keid"
+msgstr "కీడ్"
+
+msgid "Alhena"
+msgstr "అళెనా"
+
+msgid "Wasat"
+msgstr "వాసట్"
+
+msgid "Mebsuta"
+msgstr "మెబ్సుటా"
+
+msgid "Mekbuda"
+msgstr "మెక్బుడా"
+
+msgid "Propus"
+msgstr "ప్రోపస్"
+
+msgid "Tejat"
+msgstr "టెజాట్"
+
+msgid "Rasalgethi"
+msgstr "రసెల్గేతి"
+
+msgid "Kornephoros"
+msgstr "కోర్నెఫోరోస్"
+
+msgid "Marsic"
+msgstr "మార్సిక్"
+
+msgid "Marfik"
+msgstr "మార్ఫిక్"
+
+msgid "Maasym"
+msgstr "మాసిమ్"
+
+msgid "Cujam"
+msgstr "కుజామ్"
+
+msgid "Alphard"
+msgstr "అల్ఫార్డ్"
+
+msgid "Babcock's Star"
+msgstr "బాబ్‌కాక్ నక్షత్రం"
+
+msgid "Algieba"
+msgstr "అల్గీబా"
+
+msgid "Zosma"
+msgstr "జోస్మా"
+
+msgid "Adhafera"
+msgstr "అధాఫెరా"
+
+msgid "Chertan"
+msgstr "చెర్టన్"
+
+msgid "Alterf"
+msgstr "ఆల్టర్ఫ్"
+
+msgid "Rasalas"
+msgstr "రసాలస్"
+
+msgid "Subra"
+msgstr "సుబ్రా"
+
+msgid "Arneb"
+msgstr "ఆర్నెబ్"
+
+msgid "Nihal"
+msgstr "నిహాల్"
+
+msgid "Zubenelgenubi"
+msgstr "జెబెనెల్‌గెనుబి"
+
+msgid "Zubeneschamali"
+msgstr "జెబెనెశ్చమాలి"
+
+msgid "Sheliak"
+msgstr "షెలియాక్"
+
+msgid "Sulafat"
+msgstr "సులాఫత్"
+
+msgid "Red Rectangle"
+msgstr "ఎర్ర దీర్ఘచతురస్రం"
+
+msgid "Rasalhague"
+msgstr "రసల్‌హేగ్"
+
+msgid "Cebalrai"
+msgstr "సెబెల్రాయ్"
+
+msgid "Yed Prior"
+msgstr "యెడ్ ప్రయర్"
+
+msgid "Yed Posterior"
+msgstr "యెడ్ పోస్టీరియర్"
+
+msgid "Sabik"
+msgstr "సాబిక్"
+
+msgid "Barnard's Star"
+msgstr "బర్నార్డ్ నక్షత్రం"
+
+msgid "Saiph"
+msgstr "సైఫ్"
+
+msgid "Meissa"
+msgstr "మీస్సా"
+
+msgid "Peacock"
+msgstr "నెమలి"
+
+msgid "Markab"
+msgstr "మర్కాబ్"
+
+msgid "Algenib"
+msgstr "ఆల్గెనిబ్"
+
+msgid "Enif"
+msgstr "ఎనిఫ్"
+
+msgid "Homan"
+msgstr "హోమన్"
+
+msgid "Matar"
+msgstr "మాటార్"
+
+msgid "Biham"
+msgstr "బిహామ్"
+
+msgid "Sadalbari"
+msgstr "సాడల్బరీ"
+
+msgid "Mirphak"
+msgstr "మిర్ఫాక్"
+
+msgid "Algol"
+msgstr "అల్గోల్"
+
+msgid "Menkib"
+msgstr "మెంకిబ్"
+
+msgid "Atik"
+msgstr "అటిక్"
+
+msgid "Ankaa"
+msgstr "అంకా"
+
+msgid "Kapteyn's Star"
+msgstr "కాప్టేయిన్స్ స్టార్"
+
+msgid "Alrescha"
+msgstr "అల్రెస్కా"
+
+msgid "Naos"
+msgstr "నావోస్"
+
+msgid "Bernes 135"
+msgstr "బెర్నెస్ 135"
+
+msgid "Sham"
+msgstr "షామ్"
+
+msgid "Rukbat"
+msgstr "రుక్బాట్"
+
+msgid "Arkab"
+msgstr "అర్కాబ్"
+
+msgid "Alnasl"
+msgstr "అల్నాసి"
+
+msgid "Kaus Media"
+msgstr "కౌస్ మెడియా"
+
+msgid "Kaus Australis"
+msgstr "కౌస్ ఆస్ట్రాలిస్"
+
+msgid "Ascella"
+msgstr "అస్కెల్లా"
+
+msgid "Kaus Borealis"
+msgstr "కౌస్ బొరియాలిస్"
+
+msgid "Nunki"
+msgstr "నూన్కి"
+
+msgid "Acrab"
+msgstr "అక్రాబ్"
+
+msgid "Dschubba"
+msgstr "డ్షుబ్బా"
+
+msgid "Girtab"
+msgstr "గిర్టాబ్"
+
+msgid "Shaula"
+msgstr "షౌలా"
+
+msgid "Al Niyat"
+msgstr "అల్ నియత్"
+
+msgid "Lesath"
+msgstr "లెసాత్"
+
+msgid "Unukalhai"
+msgstr "ఉనుకల్‌హై"
+
+msgid "Alya"
+msgstr "అల్యా"
+
+msgid "Ain"
+msgstr "ఐన్"
+
+msgid "Alcyone"
+msgstr "అల్సియోన్"
+
+msgid "Celaeno"
+msgstr "చెలేనో"
+
+msgid "Electra"
+msgstr "ఎలెక్ట్రా"
+
+msgid "Taygeta"
+msgstr "తేగెటా"
+
+msgid "Maia"
+msgstr "మయా"
+
+msgid "Asterope"
+msgstr "ఏస్టెరోప్"
+
+msgid "Merope"
+msgstr "మెరోప్"
+
+msgid "Atlas"
+msgstr "అట్లాస్"
+
+msgid "Pleione"
+msgstr "ప్లీయోన్"
+
+msgid "Mothallah"
+msgstr "మొతల్లా"
+
+msgid "Atria"
+msgstr "అట్రియా"
+
+msgid "Dubhe"
+msgstr "డూభే"
+
+msgid "Merak"
+msgstr "మెరాక్"
+
+msgid "Megrez"
+msgstr "మెగ్రెజ్"
+
+msgid "Alioth"
+msgstr "అలియోత్"
+
+msgid "Mizar"
+msgstr "మిజార్"
+
+msgid "Alkaid"
+msgstr "అల్కైడ్"
+
+msgid "Talitha"
+msgstr "తలిత"
+
+msgid "Tania Borealis"
+msgstr "టానియా బొరియాలిస్"
+
+msgid "Tania Australis"
+msgstr "టానియా ఆస్ట్రాలిస్"
+
+msgid "Alula Borealis"
+msgstr "అలూలా బొరియాలిస్"
+
+msgid "Alula Australis"
+msgstr "అలూలా ఆస్ట్రాలిస్"
+
+msgid "Muscida"
+msgstr "మస్కిడా"
+
+msgid "Kocab"
+msgstr "కోకాబ్"
+
+msgid "Pherkad"
+msgstr "ఫెర్కాడ్"
+
+msgid "Yildun"
+msgstr "యిల్డున్"
+
+msgid "Regor"
+msgstr "రేగర్"
+
+msgid "Suhail"
+msgstr "సుహైల్"
+
+msgid "Zavijava"
+msgstr "జావిజావా"
+
+msgid "Porrima"
+msgstr "పొర్రిమా"
+
+msgid "Vindemiatrix"
+msgstr "విండెమియాట్రిక్స్"
+
+msgid "Zaniah"
+msgstr "జానియా"
+
+msgid "Syrma"
+msgstr "సిర్మా"
+
+msgid "The Great Chariot"
+msgstr "గొప్ప రథం"
+
+msgid "The She-Goat with Three She-Goat’s Kids"
+msgstr "మూడు పిల్లలతో ఆడ గొర్రె"
+
+msgid "The Scythe"
+msgstr "కొడవలి"
+
+msgid "God’s Chair"
+msgstr "దేవుడి పీఠం"
+
+msgid "The Ring Dance"
+msgstr "వలయ నాట్యం"
+
+msgid "The Emperor’s Daughter with a Yoke"
+msgstr "కాడితో చక్రవర్తి తనయ"
+
+msgid "The Shepherd with His Sheep"
+msgstr "తన గొర్రెలతో కాపరి"
+
+msgid "The Wall with a Drain"
+msgstr "నీరు పోయే కంతతో గోడ"
+
+msgid "The Hatching Hen with Her Chicks"
+msgstr "పిల్లలతో పొదిగే కోడి"
+
+msgid "The Little Chariot"
+msgstr "చిన్న రథం"
+
+msgid "The Brothers"
+msgstr "సోదరులు"
+
+msgid "The Great Cross"
+msgstr "గొప్ప క్రాస్"
+
+msgid "The Little Cross"
+msgstr "చిన్న క్రాస్"
+
+msgid "The He-Goat"
+msgstr "మగ మేక"
+
+msgid "The Crayfish"
+msgstr "క్రే చేప"
+
+msgid "The Dragon"
+msgstr "ది డ్రాగన్"
+
+msgid "The Virgin"
+msgstr "కన్య"
+
+msgid "The Carp"
+msgstr "కర్ప్"
+
+msgid "The Mastiff"
+msgstr "కావలి కుక్క"
+
+msgid "The Little Dog"
+msgstr "చిన్న కుక్క"
+
+msgid "The Herdsman"
+msgstr "కాపరి"
+
+msgid "The Turtle Dove"
+msgstr "తాబేలు పావురం"
+
+msgid "He Who Pours Out the Water"
+msgstr "నీళ్ళు పారబోసే వాడు"
+
+msgid "The Whale"
+msgstr "ది వేల్"
+
+msgid "The Little Plough"
+msgstr "చిన్న నాగలి"
+
+msgid "The Sickle"
+msgstr "కొడవలి"
+
+msgid "The Great Auger"
+msgstr "గొప్ప బరమ"
+
+msgid "The Bull"
+msgstr "ది బుల్"
+
+msgid "The Man"
+msgstr "పురుషుడు"
+
+msgid "The Axe"
+msgstr "గొడ్డలి"
+
+msgid "The Archer"
+msgstr "ది ఆర్చర్"
+
+msgid "The Three Saints"
+msgstr "ముగ్గురు రుషులు"
+
+msgid "The Boars"
+msgstr "అడవి పందులు"
+
+msgid "Van Maanen 2"
+msgstr "వాన్ మనెన్ 2"
+
+msgid "The Sky's Votive Light"
+msgstr "అకశపు మొక్కుబడి కాంతి"
+
+msgid "The Bright Star of the Pig (The Alarm Clock)"
+msgstr "ప్రకాశవంతమైన పంది నక్షత్రం (అలారం గడియారం)"
+
+msgid "Alnath"
+msgstr "ఆల్నాత్"
+
+msgid "Morning Star"
+msgstr "వేగుచుక్క"
+
+msgid "Romulus"
+msgstr "రోములస్"
+
+msgid "Remus"
+msgstr "రేమస్"
+
+msgid "The Little Bitch"
+msgstr "చిన్న ఆదకుక్క"
+
+msgid "The Shepherd (The Stars Queen)"
+msgstr "గొర్రెల కాపరి (నక్షత్రాల రాణి)"

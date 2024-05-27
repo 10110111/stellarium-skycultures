@@ -1,0 +1,918 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alex Rijckaert, 2023\n"
+"Language-Team: Dutch (https://app.transifex.com/stellarium/teams/80998/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Romanian"
+msgstr "Romanian"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"Considered as a whole, Romanian popular stellar mythology has three "
+"essential components.\n"
+"\n"
+"The FIRST one - the ancestral pastoral-agricultural is pre-Christian, in "
+"which the sky seen both as an agrarian clock for specific activities and as "
+"an \"exhibition\" of agricultural tools used by peasants.\n"
+"\n"
+"The SECOND component - more recent - corresponding to the Christianization "
+"of Romanian geographical space and repositioning in the sky the Christian "
+"and pre-Christian elements where constellations are associated with "
+"cosmogonical and theogonical myths, so that the sky is seen more like a "
+"church.\n"
+"\n"
+"And the THIRD component - the origin of the Romanian people, projecting on "
+"the sky the synthesis of formation of this people (the conquest of Dacia by "
+"the Romans) through projection of dramatic scenes from this history of "
+"Dacians mixing with the Romans.\n"
+"\n"
+"**Note**: in Western Constellation Orion there are four Traditional Romanian "
+"Constellations that are overlapping."
+msgstr ""
+"Alles overziend, de Roemeense populaire sterrenmythologie heeft drie "
+"essentiële componenten.\n"
+"\n"
+"De EERSTE - de voorouderlijke pastorale-landbouw is pre-christelijke, waarin "
+"de hemel gezien als een agrarisch klok voor specifieke activiteiten en als "
+"een \"tentoonstelling\" van door boeren gebruikte landbouwwerktuigen.\n"
+"\n"
+"Het TWEEDE component - meer recent - komt overeen met de kerstening van de "
+"Roemeense geografische heelal en het in de hemel herpositioneren van de "
+"christelijke en vóór-christelijke elementen waar sterrenbeelden worden "
+"geassocieerd met kosmogonische en theologische mythen, zodat de hemel meer "
+"gezien wordt als een kerk.\n"
+"\n"
+"En het DERDE component - de oorsprong van het Roemeense volk, geprojecteerd "
+"op de hemel en de synthese van de vorming van dit volk (de verovering van "
+"Dacia door de Romeinen) door het projecteren van dramatische scènes uit deze "
+"geschiedenis van Dacians te mengen met die van de Romeinen.\n"
+"\n"
+"**Aantekening**: in het westelijke Orion sterrenbeeld staan vier "
+"traditionele Roemeense sterrenbeelden die elkaar overlappen."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Website for Tradițional Romanian Constellation](http://www.crt-ro."
+"com)\n"
+" - [#2]: [On-line booklet in ro/en about 39 Traditional Romanian "
+"Constellations](http://www.slideshare.net/planetariubm/broura-constelaii-"
+"romanesti-tradiionale)\n"
+" - [#3]: [30 seconds movies made from scripts and with subtitle in English]"
+"(http://www.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro)\n"
+" - [#4]: [Romanian peasants beliefs in stars and sky – Translation of texts "
+"adapted from Ion Ottescu](http://www.sarm.ro/newsite/index.php?"
+"id=1&zi=29&luna=12&an=2009&act=news)\n"
+" - [#5]: [PLANETARIUL BAIA MARE – MARAMURES](http://planetariubm.ro/)\n"
+"\n"
+"Thanks to Andrei Dorian Gheorghe and Alastair McBeth – SARM members"
+msgstr ""
+" - [#1]: [Website voor de traditionele Roemeense sterrenbeelden](http://www."
+"crt-ro.com)\n"
+" - [#2]: [On-line brochure in Roe/Eng over 39 traditionele Roemeense "
+"sterrenbeelden](http://www.slideshare.net/planetariubm/broura-constelaii-"
+"romanesti-tradiionale)\n"
+" - [#3]: [30 seconden films gemaakt van scripts en ondertitelt in het Engels]"
+"(http://www.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro)\n"
+" - [#4]: [Roemeens boerengeloof in sterren en hemel - Vertaling van teksten "
+"overgenomen van Ion Ottescu](http://www.sarm.ro/newsite/index.php?"
+"id=1&zi=29&luna=12&an=2009&act=news)\n"
+" - [#5]: [PLANETARIUL BAIA MARE – MARAMURES](http://planetariubm.ro/)\n"
+"\n"
+"Dank aan Andrei Dorian Gheorghe en Alastair McBeth – SARM leden"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user [Mircea Lite](mailto:"
+"MirceaLite@yahoo.com) on behalf of Baia Mare Planetarium, as a result of a "
+"project called *Traditional Romanian Constellations* primarily based on the "
+"book *Romanian peasants beliefs in stars and sky* by Ioan Otescu.\n"
+"\n"
+"The Romanian constellation lines, images, scripts and texts for movies "
+"prepared by [Radu Lodina](mailto:rlodina@gmail.com) and [Ovidiu Ignat]"
+"(mailto:OviIgnat@yahoo.com). Romanian constellation art done by Zamfir "
+"Somcutean."
+msgstr ""
+"Deze hemelcultuur is een bijdrage van Stellarium gebruiker [Mircea Lite]"
+"(mailto:MirceaLite@yahoo.com) namens het Baia Mare Planetarium, als "
+"resultaat van een project genaamd *Traditional Romanian Constellations* "
+"primaire gebaseerd op het boek *Romanian peasants beliefs in stars and sky* "
+"door Ioan Otescu.\n"
+"\n"
+"De Roemeense sterrenbeeld lijnen, afbeeldingen, scripts en teksten voor "
+"films zijn geprepareerd door [Radu Lodina](mailto:rlodina@gmail.com) en "
+"[Ovidiu Ignat](mailto:OviIgnat@yahoo.com). Roemeense sterrenbeeldkunst door "
+"Zamfir Somcutean."
+
+msgid "The Horse"
+msgstr "Het paard"
+
+msgid "The Scorpion"
+msgstr "De Schorpioen"
+
+msgid "The Raven"
+msgstr "De raaf"
+
+msgid "The Scales"
+msgstr "De Weegschaal"
+
+msgid "The Ram"
+msgstr "De Ram"
+
+msgid "The Serpent"
+msgstr "De slang"
+
+msgid "Procyon"
+msgstr "Procyon"
+
+msgid "Arcturus"
+msgstr "Arcturus"
+
+msgid "Capella"
+msgstr "Capella"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Denebola"
+msgstr "Denebola"
+
+msgid "Spica"
+msgstr "Spica"
+
+msgid "Fomalhaut"
+msgstr "Fomalhaut"
+
+msgid "Betelgeuse"
+msgstr "Betelgeuze"
+
+msgid "Rigel"
+msgstr "Rigel"
+
+msgid "Canopus"
+msgstr "Canopus"
+
+msgid "Bellatrix"
+msgstr "Bellatrix"
+
+msgid "Alnitak"
+msgstr "Alnitak"
+
+msgid "Alnilam"
+msgstr "Alnilam"
+
+msgid "Mintaka"
+msgstr "Mintaka"
+
+msgid "Achernar"
+msgstr "Achernar"
+
+msgid "Acrux"
+msgstr "Acrux"
+
+msgid "Hadar"
+msgstr "Hadar"
+
+msgid "Rigil Kent"
+msgstr "Rigil Kent"
+
+msgid "Antares"
+msgstr "Antares"
+
+msgid "Alpheratz"
+msgstr "Alpheratz"
+
+msgid "Mirach"
+msgstr "Mirach"
+
+msgid "Almaak"
+msgstr "Almaak"
+
+msgid "Adhil"
+msgstr "Adhil"
+
+msgid "Sadalmelik"
+msgstr "Sadalmelik"
+
+msgid "Sadalsuud"
+msgstr "Sadalsuud"
+
+msgid "Sadachbia"
+msgstr "Sadachbia"
+
+msgid "Skat"
+msgstr "Skat"
+
+msgid "Scheat"
+msgstr "Schede"
+
+msgid "Albali"
+msgstr "Albali"
+
+msgid "Ancha"
+msgstr "Ancha"
+
+msgid "Situla"
+msgstr "Situla"
+
+msgid "Altair"
+msgstr "Altair"
+
+msgid "Alshain"
+msgstr "Alshain"
+
+msgid "Tarazed"
+msgstr "Tarazed"
+
+msgid "Hamal"
+msgstr "Hamal"
+
+msgid "Sheratan"
+msgstr "Sheratan"
+
+msgid "Mesarthim"
+msgstr "Mesarthim"
+
+msgid "Botein"
+msgstr "Botein"
+
+msgid "Menkalinan"
+msgstr "Menkalinan"
+
+msgid "Nekkar"
+msgstr "Nekkar"
+
+msgid "Seginus"
+msgstr "Seginus"
+
+msgid "Izar"
+msgstr "Izar"
+
+msgid "Muphrid"
+msgstr "Muphrid"
+
+msgid "Alkalurops"
+msgstr "Alkalurops"
+
+msgid "Merga"
+msgstr "Merga"
+
+msgid "Acubens"
+msgstr "Acubens"
+
+msgid "Asellus Borealis"
+msgstr "Asellus Borealis"
+
+msgid "Asellus Australis"
+msgstr "Asellus Australis"
+
+msgid "Tegmine"
+msgstr "Tegmine"
+
+msgid "Cor Caroli"
+msgstr "Cor Caroli"
+
+msgid "Chara"
+msgstr "Chara"
+
+msgid "Mirzam"
+msgstr "Mirzam"
+
+msgid "Muliphein"
+msgstr "Muliphein"
+
+msgid "Wezen"
+msgstr "Wezen"
+
+msgid "Adhara"
+msgstr "Adhara"
+
+msgid "Furud"
+msgstr "Furud"
+
+msgid "Aludra"
+msgstr "Aludra"
+
+msgid "Gomeisa"
+msgstr "Gomeisa"
+
+msgid "Luyten's Star"
+msgstr "Luytens ster"
+
+msgid "Algedi"
+msgstr "Algedi"
+
+msgid "Dabih"
+msgstr "Dabih"
+
+msgid "Nashira"
+msgstr "Nashira"
+
+msgid "Deneb Algedi"
+msgstr "Deneb Algedi"
+
+msgid "Miaplacidus"
+msgstr "Miaplacidus"
+
+msgid "Avior"
+msgstr "Avior"
+
+msgid "Aspidiske"
+msgstr "Aspidiske"
+
+msgid "Shedir"
+msgstr "Shedir"
+
+msgid "Caph"
+msgstr "Caph"
+
+msgid "Ruchbah"
+msgstr "Ruchbah"
+
+msgid "Proxima"
+msgstr "Proxima"
+
+msgid "Menkent"
+msgstr "Menkent"
+
+msgid "Alnair"
+msgstr "Alnair"
+
+msgid "Alderamin"
+msgstr "Alderamin"
+
+msgid "Alfirk"
+msgstr "Alfirk"
+
+msgid "Errai"
+msgstr "Errai"
+
+msgid "The Garnet Star"
+msgstr "De Granaatster"
+
+msgid "Kurhah"
+msgstr "Kurhah"
+
+msgid "Kruger 60"
+msgstr "Kruger 60"
+
+msgid "Menkar"
+msgstr "Menkar"
+
+msgid "Diphda"
+msgstr "Diphda"
+
+msgid "Baten Kaitos"
+msgstr "Baten Kaitos"
+
+msgid "Mira"
+msgstr "Mira"
+
+msgid "Phact"
+msgstr "Phact"
+
+msgid "Phad"
+msgstr "Phad"
+
+msgid "Wazn"
+msgstr "Wazn"
+
+msgid "Alphekka"
+msgstr "Alphekka"
+
+msgid "Nusakan"
+msgstr "Nusakan"
+
+msgid "Alchiba"
+msgstr "Alchiba"
+
+msgid "Gienah"
+msgstr "Gienah"
+
+msgid "Algorab"
+msgstr "Algorab"
+
+msgid "Alkes"
+msgstr "Alkes"
+
+msgid "Mimosa"
+msgstr "Mimosa"
+
+msgid "Gacrux"
+msgstr "Gacrux"
+
+msgid "Deneb"
+msgstr "Deneb"
+
+msgid "Albireo"
+msgstr "Albireo"
+
+msgid "Sadr"
+msgstr "Sadr"
+
+msgid "Azelfafage"
+msgstr "Azelfafage"
+
+msgid "Campbell's Star"
+msgstr "Campbells ster"
+
+msgid "Sualocin"
+msgstr "Sualocin"
+
+msgid "Rotanev"
+msgstr "Rotanev"
+
+msgid "Thuban"
+msgstr "Thuban"
+
+msgid "Rastaban"
+msgstr "Rastaban"
+
+msgid "Etamin"
+msgstr "Etamin"
+
+msgid "Altais"
+msgstr "Altais"
+
+msgid "Edasich"
+msgstr "Edasich"
+
+msgid "Giausar"
+msgstr "Giausar"
+
+msgid "Alrakis"
+msgstr "Alrakis"
+
+msgid "Grumium"
+msgstr "Grumium"
+
+msgid "Kitalpha"
+msgstr "Kitalpha"
+
+msgid "Cursa"
+msgstr "Cursa"
+
+msgid "Zaurak"
+msgstr "Zaurak"
+
+msgid "Zibal"
+msgstr "Zibal"
+
+msgid "Azha"
+msgstr "Azha"
+
+msgid "Acamar"
+msgstr "Acamar"
+
+msgid "Beid"
+msgstr "Beid"
+
+msgid "Keid"
+msgstr "Keid"
+
+msgid "Alhena"
+msgstr "Alhena"
+
+msgid "Wasat"
+msgstr "Wasat"
+
+msgid "Mebsuta"
+msgstr "Mebsuta"
+
+msgid "Mekbuda"
+msgstr "Mekbuda"
+
+msgid "Propus"
+msgstr "Propus"
+
+msgid "Tejat"
+msgstr "Tejat"
+
+msgid "Rasalgethi"
+msgstr "Rasalgethi"
+
+msgid "Kornephoros"
+msgstr "Kornephoros"
+
+msgid "Marsic"
+msgstr "Marsic"
+
+msgid "Marfik"
+msgstr "Marfik"
+
+msgid "Maasym"
+msgstr "Maasym"
+
+msgid "Cujam"
+msgstr "Cujam"
+
+msgid "Alphard"
+msgstr "Alphard"
+
+msgid "Babcock's Star"
+msgstr "Babcocks ster"
+
+msgid "Algieba"
+msgstr "Algieba"
+
+msgid "Zosma"
+msgstr "Zosma"
+
+msgid "Adhafera"
+msgstr "Adhafera"
+
+msgid "Chertan"
+msgstr "Chertan"
+
+msgid "Alterf"
+msgstr "Alterf"
+
+msgid "Rasalas"
+msgstr "Rasalas"
+
+msgid "Subra"
+msgstr "Subra"
+
+msgid "Arneb"
+msgstr "Arneb"
+
+msgid "Nihal"
+msgstr "Nihal"
+
+msgid "Zubenelgenubi"
+msgstr "Zubenelgenubi"
+
+msgid "Zubeneschamali"
+msgstr "Zubeneschamali"
+
+msgid "Sheliak"
+msgstr "Sheliak"
+
+msgid "Sulafat"
+msgstr "Sulafat"
+
+msgid "Red Rectangle"
+msgstr "Rode rechthoek"
+
+msgid "Rasalhague"
+msgstr "Rasalhague"
+
+msgid "Cebalrai"
+msgstr "Cebalrai"
+
+msgid "Yed Prior"
+msgstr "Yed Prior"
+
+msgid "Yed Posterior"
+msgstr "Yed Posterior"
+
+msgid "Sabik"
+msgstr "Sabik"
+
+msgid "Barnard's Star"
+msgstr "Barnards ster"
+
+msgid "Saiph"
+msgstr "Saiph"
+
+msgid "Meissa"
+msgstr "Meissa"
+
+msgid "Peacock"
+msgstr "Peacock"
+
+msgid "Markab"
+msgstr "Markab"
+
+msgid "Algenib"
+msgstr "Algenib"
+
+msgid "Enif"
+msgstr "Enif"
+
+msgid "Homan"
+msgstr "Homan"
+
+msgid "Matar"
+msgstr "Matar"
+
+msgid "Biham"
+msgstr "Biham"
+
+msgid "Sadalbari"
+msgstr "Sadalbari"
+
+msgid "Mirphak"
+msgstr "Mirphak"
+
+msgid "Algol"
+msgstr "Algol"
+
+msgid "Menkib"
+msgstr "Menkib"
+
+msgid "Atik"
+msgstr "Atik"
+
+msgid "Ankaa"
+msgstr "Ankaa"
+
+msgid "Kapteyn's Star"
+msgstr "Kapteyns ster"
+
+msgid "Alrescha"
+msgstr "Alrescha"
+
+msgid "Naos"
+msgstr "Naos"
+
+msgid "Bernes 135"
+msgstr "Bernes 135"
+
+msgid "Sham"
+msgstr "Sham"
+
+msgid "Rukbat"
+msgstr "Rukbat"
+
+msgid "Arkab"
+msgstr "Arkab"
+
+msgid "Alnasl"
+msgstr "Alnasl"
+
+msgid "Kaus Media"
+msgstr "Kaus Media"
+
+msgid "Kaus Australis"
+msgstr "Kaus Australis"
+
+msgid "Ascella"
+msgstr "Ascella"
+
+msgid "Kaus Borealis"
+msgstr "Kaus Borealis"
+
+msgid "Nunki"
+msgstr "Nunki"
+
+msgid "Acrab"
+msgstr "Acrab"
+
+msgid "Dschubba"
+msgstr "Dschubba"
+
+msgid "Girtab"
+msgstr "Girtab"
+
+msgid "Shaula"
+msgstr "Shaula"
+
+msgid "Al Niyat"
+msgstr "Al Niyat"
+
+msgid "Lesath"
+msgstr "Lesath"
+
+msgid "Unukalhai"
+msgstr "Unukalhai"
+
+msgid "Alya"
+msgstr "Alya"
+
+msgid "Ain"
+msgstr "Ain"
+
+msgid "Alcyone"
+msgstr "Alcyone"
+
+msgid "Celaeno"
+msgstr "Celaeno"
+
+msgid "Electra"
+msgstr "Electra"
+
+msgid "Taygeta"
+msgstr "Taygeta"
+
+msgid "Maia"
+msgstr "Maia"
+
+msgid "Asterope"
+msgstr "Asterope"
+
+msgid "Merope"
+msgstr "Merope"
+
+msgid "Atlas"
+msgstr "Atlas"
+
+msgid "Pleione"
+msgstr "Pleione"
+
+msgid "Mothallah"
+msgstr "Mothallah"
+
+msgid "Atria"
+msgstr "Atria"
+
+msgid "Dubhe"
+msgstr "Dubhe"
+
+msgid "Merak"
+msgstr "Merak"
+
+msgid "Megrez"
+msgstr "Megrez"
+
+msgid "Alioth"
+msgstr "Alioth"
+
+msgid "Mizar"
+msgstr "Mizar"
+
+msgid "Alkaid"
+msgstr "Alkaid"
+
+msgid "Talitha"
+msgstr "Talitha"
+
+msgid "Tania Borealis"
+msgstr "Tania Borealis"
+
+msgid "Tania Australis"
+msgstr "Tania Australis"
+
+msgid "Alula Borealis"
+msgstr "Alula Borealis"
+
+msgid "Alula Australis"
+msgstr "Alula Australis"
+
+msgid "Muscida"
+msgstr "Muscida"
+
+msgid "Kocab"
+msgstr "Kocab"
+
+msgid "Pherkad"
+msgstr "Pherkad"
+
+msgid "Yildun"
+msgstr "Yildun"
+
+msgid "Regor"
+msgstr "Regor"
+
+msgid "Suhail"
+msgstr "Suhail"
+
+msgid "Zavijava"
+msgstr "Zavijava"
+
+msgid "Porrima"
+msgstr "Porrima"
+
+msgid "Vindemiatrix"
+msgstr "Vindemiatrix"
+
+msgid "Zaniah"
+msgstr "Zaniah"
+
+msgid "Syrma"
+msgstr "Syrma"
+
+msgid "The Great Chariot"
+msgstr "De grote strijdwagen"
+
+msgid "The She-Goat with Three She-Goat’s Kids"
+msgstr "De geit met drie geiten kinderen"
+
+msgid "The Scythe"
+msgstr "De zeis"
+
+msgid "God’s Chair"
+msgstr "Gods stoel"
+
+msgid "The Ring Dance"
+msgstr "De ronde dans"
+
+msgid "The Emperor’s Daughter with a Yoke"
+msgstr "De dochters van de keizer met een juk"
+
+msgid "The Shepherd with His Sheep"
+msgstr "De herder met zijn schaap"
+
+msgid "The Wall with a Drain"
+msgstr "De muur met een afvoer"
+
+msgid "The Hatching Hen with Her Chicks"
+msgstr "De broedende kip met haar kuikens"
+
+msgid "The Little Chariot"
+msgstr "De kleine strijdwagen"
+
+msgid "The Brothers"
+msgstr "DE broers"
+
+msgid "The Great Cross"
+msgstr "Het grote kruis"
+
+msgid "The Little Cross"
+msgstr "Het kleine kruis"
+
+msgid "The He-Goat"
+msgstr "De bok"
+
+msgid "The Crayfish"
+msgstr "De rivierkreeft"
+
+msgid "The Dragon"
+msgstr "De draak"
+
+msgid "The Virgin"
+msgstr "De maagd"
+
+msgid "The Carp"
+msgstr "De krap"
+
+msgid "The Mastiff"
+msgstr "De buldog"
+
+msgid "The Little Dog"
+msgstr "De kleine hond"
+
+msgid "The Herdsman"
+msgstr "De veehoeder"
+
+msgid "The Turtle Dove"
+msgstr "De tortelduif"
+
+msgid "He Who Pours Out the Water"
+msgstr "Hij die het water uitgiet"
+
+msgid "The Whale"
+msgstr "De walvis"
+
+msgid "The Little Plough"
+msgstr "De kleine ploeg"
+
+msgid "The Sickle"
+msgstr "De sikkel"
+
+msgid "The Great Auger"
+msgstr "De grote avegaar"
+
+msgid "The Bull"
+msgstr "De Stier"
+
+msgid "The Man"
+msgstr "De man"
+
+msgid "The Axe"
+msgstr "De bijl"
+
+msgid "The Archer"
+msgstr "De Boogschutter"
+
+msgid "The Three Saints"
+msgstr "De drie heilige"
+
+msgid "The Boars"
+msgstr "De zwijnen"
+
+msgid "Van Maanen 2"
+msgstr "Van Maanen 2"
+
+msgid "The Sky's Votive Light"
+msgstr "Het votieve licht van de hemel"
+
+msgid "The Bright Star of the Pig (The Alarm Clock)"
+msgstr "De heldere ster van het varken (De wekker)"
+
+msgid "Alnath"
+msgstr "Alnath"
+
+msgid "Morning Star"
+msgstr "Morgenster"
+
+msgid "Romulus"
+msgstr "Romulus"
+
+msgid "Remus"
+msgstr "Remus"
+
+msgid "The Little Bitch"
+msgstr "De kleine teef"
+
+msgid "The Shepherd (The Stars Queen)"
+msgstr "DE herder (De sterren koningin)"

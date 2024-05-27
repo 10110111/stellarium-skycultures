@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2022-09-30 13:16+0700\n"
+"PO-Revision-Date: 2017-11-29 01:17+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: English (Australia) (https://www.transifex.com/stellarium/"
+"teams/80998/en_AU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_AU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Romanian"
+msgstr ""
+
+msgid "The Horse"
+msgstr ""
+
+msgid "The Scorpion"
+msgstr ""
+
+msgid "The Raven"
+msgstr "The Raven"
+
+msgid "The Scales"
+msgstr ""
+
+msgid "The Ram"
+msgstr "The Ram"
+
+msgid "The Serpent"
+msgstr ""
+
+msgid "Proxima"
+msgstr ""
+
+msgid "Kapteyn's Star"
+msgstr ""
+
+msgid "Red Rectangle"
+msgstr ""
+
+msgid "Luyten's Star"
+msgstr ""
+
+msgid "Barnard's Star"
+msgstr ""
+
+msgid "Campbell's Star"
+msgstr ""
+
+msgid "Babcock's Star"
+msgstr ""
+
+#. TRANSLATORS: Native name of Venus in Dakota culture
+msgid "Morning Star"
+msgstr "Morning Star"
+
+msgid "Procyon"
+msgstr ""
+
+msgid "Bellatrix"
+msgstr ""
+
+msgid "Alnitak"
+msgstr ""
+
+msgid "Alnilam"
+msgstr ""
+
+msgid "Mintaka"
+msgstr ""
+
+msgid "Achernar"
+msgstr ""
+
+msgid "Rigel"
+msgstr ""
+
+msgid "Capella"
+msgstr ""
+
+msgid "Betelgeuse"
+msgstr ""
+
+msgid "Canopus"
+msgstr ""
+
+msgid "Acrux"
+msgstr ""
+
+msgid "Hadar"
+msgstr ""
+
+msgid "Rigil Kent"
+msgstr ""
+
+msgid "Antares"
+msgstr ""
+
+msgid "The Great Chariot"
+msgstr ""
+
+msgid "The She-Goat with Three She-Goat’s Kids"
+msgstr ""
+
+msgid "The Scythe"
+msgstr ""
+
+msgid "God’s Chair"
+msgstr ""
+
+msgid "The Ring Dance"
+msgstr ""
+
+msgid "The Emperor’s Daughter with a Yoke"
+msgstr ""
+
+msgid "The Shepherd with His Sheep"
+msgstr ""
+
+msgid "The Wall with a Drain"
+msgstr ""
+
+msgid "The Hatching Hen with Her Chicks"
+msgstr ""
+
+msgid "The Little Chariot"
+msgstr ""
+
+msgid "The Brothers"
+msgstr ""
+
+msgid "The Great Cross"
+msgstr ""
+
+msgid "The Little Cross"
+msgstr ""
+
+msgid "The He-Goat"
+msgstr ""
+
+msgid "The Crayfish"
+msgstr ""
+
+msgid "The Dragon"
+msgstr "The Dragon"
+
+msgid "The Virgin"
+msgstr ""
+
+msgid "The Carp"
+msgstr ""
+
+msgid "The Mastiff"
+msgstr ""
+
+msgid "The Little Dog"
+msgstr ""
+
+msgid "The Herdsman"
+msgstr ""
+
+msgid "The Turtle Dove"
+msgstr ""
+
+msgid "He Who Pours Out the Water"
+msgstr ""
+
+msgid "The Whale"
+msgstr ""
+
+msgid "The Little Plough"
+msgstr ""
+
+msgid "The Sickle"
+msgstr ""
+
+msgid "The Great Auger"
+msgstr ""
+
+msgid "The Bull"
+msgstr "The Bull"
+
+msgid "The Man"
+msgstr ""
+
+msgid "The Axe"
+msgstr ""
+
+msgid "The Archer"
+msgstr ""
+
+msgid "The Three Saints"
+msgstr ""
+
+msgid "The Boars"
+msgstr ""
+
+msgid "Alpheratz"
+msgstr ""
+
+msgid "Caph"
+msgstr ""
+
+msgid "Algenib"
+msgstr ""
+
+msgid "Ankaa"
+msgstr ""
+
+msgid "Shedir"
+msgstr ""
+
+msgid "Diphda"
+msgstr ""
+
+msgid "Van Maanen 2"
+msgstr ""
+
+msgid "Mirach"
+msgstr ""
+
+msgid "Adhil"
+msgstr ""
+
+msgid "Ruchbah"
+msgstr ""
+
+msgid "Baten Kaitos"
+msgstr ""
+
+msgid "Mothallah"
+msgstr ""
+
+msgid "Mesarthim"
+msgstr ""
+
+msgid "Sheratan"
+msgstr ""
+
+msgid "Alrescha"
+msgstr ""
+
+msgid "Almaak"
+msgstr ""
+
+msgid "Hamal"
+msgstr ""
+
+msgid "Mira"
+msgstr ""
+
+msgid "The Sky's Votive Light"
+msgstr ""
+
+msgid "Azha"
+msgstr ""
+
+msgid "Acamar"
+msgstr ""
+
+msgid "Menkar"
+msgstr ""
+
+msgid "Algol"
+msgstr ""
+
+msgid "Botein"
+msgstr ""
+
+msgid "Zibal"
+msgstr ""
+
+msgid "Mirphak"
+msgstr ""
+
+msgid "Atik"
+msgstr ""
+
+msgid "Celaeno"
+msgstr ""
+
+msgid "Electra"
+msgstr ""
+
+msgid "Taygeta"
+msgstr ""
+
+msgid "Maia"
+msgstr ""
+
+msgid "Asterope"
+msgstr ""
+
+msgid "Merope"
+msgstr ""
+
+msgid "Alcyone"
+msgstr ""
+
+msgid "Atlas"
+msgstr ""
+
+msgid "Pleione"
+msgstr ""
+
+msgid "Zaurak"
+msgstr ""
+
+msgid "Menkib"
+msgstr ""
+
+msgid "Beid"
+msgstr ""
+
+msgid "Keid"
+msgstr ""
+
+msgid "Ain"
+msgstr ""
+
+msgid "The Bright Star of the Pig (The Alarm Clock)"
+msgstr ""
+
+msgid "Cursa"
+msgstr ""
+
+msgid "Alnath"
+msgstr ""
+
+msgid "Nihal"
+msgstr ""
+
+msgid "Arneb"
+msgstr ""
+
+msgid "Meissa"
+msgstr ""
+
+msgid "Phact"
+msgstr ""
+
+msgid "Saiph"
+msgstr ""
+
+msgid "Wazn"
+msgstr ""
+
+msgid "Menkalinan"
+msgstr ""
+
+msgid "Propus"
+msgstr ""
+
+msgid "Furud"
+msgstr ""
+
+msgid "Mirzam"
+msgstr ""
+
+msgid "Tejat"
+msgstr ""
+
+msgid "Alhena"
+msgstr ""
+
+msgid "Mebsuta"
+msgstr ""
+
+msgid "Adhara"
+msgstr ""
+
+msgid "Muliphein"
+msgstr ""
+
+msgid "Mekbuda"
+msgstr ""
+
+msgid "Wezen"
+msgstr ""
+
+msgid "Bernes 135"
+msgstr ""
+
+msgid "Wasat"
+msgstr ""
+
+msgid "Aludra"
+msgstr ""
+
+msgid "Gomeisa"
+msgstr ""
+
+msgid "Romulus"
+msgstr ""
+
+msgid "Remus"
+msgstr ""
+
+msgid "Naos"
+msgstr ""
+
+msgid "Regor"
+msgstr ""
+
+msgid "Tegmine"
+msgstr ""
+
+msgid "Avior"
+msgstr ""
+
+msgid "Muscida"
+msgstr ""
+
+msgid "Asellus Borealis"
+msgstr ""
+
+msgid "Asellus Australis"
+msgstr ""
+
+msgid "Acubens"
+msgstr ""
+
+msgid "Talitha"
+msgstr ""
+
+msgid "Suhail"
+msgstr ""
+
+msgid "Miaplacidus"
+msgstr ""
+
+msgid "Aspidiske"
+msgstr ""
+
+msgid "Alphard"
+msgstr ""
+
+msgid "Alterf"
+msgstr ""
+
+msgid "Subra"
+msgstr ""
+
+msgid "Rasalas"
+msgstr ""
+
+msgid "Regulus"
+msgstr ""
+
+msgid "Adhafera"
+msgstr ""
+
+msgid "Tania Borealis"
+msgstr ""
+
+msgid "Algieba"
+msgstr ""
+
+msgid "Tania Australis"
+msgstr ""
+
+msgid "Alkes"
+msgstr ""
+
+msgid "Merak"
+msgstr ""
+
+msgid "Dubhe"
+msgstr ""
+
+msgid "Zosma"
+msgstr ""
+
+msgid "Chertan"
+msgstr ""
+
+msgid "Alula Australis"
+msgstr ""
+
+msgid "Alula Borealis"
+msgstr ""
+
+msgid "Giausar"
+msgstr ""
+
+msgid "Denebola"
+msgstr ""
+
+msgid "Zavijava"
+msgstr ""
+
+msgid "Phad"
+msgstr ""
+
+msgid "Alchiba"
+msgstr ""
+
+msgid "Megrez"
+msgstr ""
+
+msgid "Gienah"
+msgstr ""
+
+msgid "Zaniah"
+msgstr ""
+
+msgid "Algorab"
+msgstr ""
+
+msgid "Gacrux"
+msgstr ""
+
+msgid "Chara"
+msgstr ""
+
+msgid "Porrima"
+msgstr ""
+
+msgid "Mimosa"
+msgstr ""
+
+msgid "Alioth"
+msgstr ""
+
+msgid "Cor Caroli"
+msgstr ""
+
+msgid "Vindemiatrix"
+msgstr ""
+
+msgid "Mizar"
+msgstr ""
+
+msgid "Spica"
+msgstr ""
+
+msgid "The Little Bitch"
+msgstr ""
+
+msgid "Alkaid"
+msgstr ""
+
+msgid "Muphrid"
+msgstr ""
+
+msgid "Thuban"
+msgstr ""
+
+msgid "Menkent"
+msgstr ""
+
+msgid "Arcturus"
+msgstr ""
+
+msgid "Syrma"
+msgstr ""
+
+msgid "Seginus"
+msgstr ""
+
+msgid "Izar"
+msgstr ""
+
+msgid "Merga"
+msgstr ""
+
+msgid "Kocab"
+msgstr ""
+
+msgid "Zubenelgenubi"
+msgstr ""
+
+msgid "Nekkar"
+msgstr ""
+
+msgid "Zubeneschamali"
+msgstr ""
+
+msgid "Pherkad"
+msgstr ""
+
+msgid "Alkalurops"
+msgstr ""
+
+msgid "Edasich"
+msgstr ""
+
+msgid "Nusakan"
+msgstr ""
+
+msgid "Alphekka"
+msgstr ""
+
+msgid "Unukalhai"
+msgstr ""
+
+msgid "Dschubba"
+msgstr ""
+
+msgid "Acrab"
+msgstr ""
+
+msgid "Marsic"
+msgstr ""
+
+msgid "Yed Prior"
+msgstr ""
+
+msgid "Yed Posterior"
+msgstr ""
+
+msgid "Al Niyat"
+msgstr ""
+
+msgid "Cujam"
+msgstr ""
+
+msgid "Kornephoros"
+msgstr ""
+
+msgid "Marfik"
+msgstr ""
+
+msgid "Atria"
+msgstr ""
+
+msgid "Alrakis"
+msgstr ""
+
+msgid "Sabik"
+msgstr ""
+
+msgid "Rasalgethi"
+msgstr ""
+
+msgid "Rastaban"
+msgstr ""
+
+msgid "Maasym"
+msgstr ""
+
+msgid "Lesath"
+msgstr ""
+
+msgid "Yildun"
+msgstr ""
+
+msgid "Shaula"
+msgstr ""
+
+msgid "Rasalhague"
+msgstr ""
+
+msgid "Girtab"
+msgstr ""
+
+msgid "Cebalrai"
+msgstr ""
+
+msgid "Grumium"
+msgstr ""
+
+msgid "Etamin"
+msgstr ""
+
+msgid "Alnasl"
+msgstr ""
+
+msgid "Kaus Media"
+msgstr ""
+
+msgid "Kaus Australis"
+msgstr ""
+
+msgid "Kaus Borealis"
+msgstr ""
+
+msgid "The Shepherd (The Stars Queen)"
+msgstr ""
+
+msgid "Sheliak"
+msgstr ""
+
+msgid "Nunki"
+msgstr ""
+
+msgid "Alya"
+msgstr ""
+
+msgid "Sulafat"
+msgstr ""
+
+msgid "Ascella"
+msgstr ""
+
+msgid "Altais"
+msgstr ""
+
+msgid "Arkab"
+msgstr ""
+
+msgid "Rukbat"
+msgstr ""
+
+msgid "Albireo"
+msgstr ""
+
+msgid "Sham"
+msgstr ""
+
+msgid "Tarazed"
+msgstr ""
+
+msgid "Altair"
+msgstr ""
+
+msgid "Alshain"
+msgstr ""
+
+msgid "Algedi"
+msgstr ""
+
+msgid "Dabih"
+msgstr ""
+
+msgid "Sadr"
+msgstr ""
+
+msgid "Peacock"
+msgstr ""
+
+msgid "Rotanev"
+msgstr ""
+
+msgid "Sualocin"
+msgstr ""
+
+msgid "Deneb"
+msgstr ""
+
+msgid "Albali"
+msgstr ""
+
+msgid "Kitalpha"
+msgstr ""
+
+msgid "Alderamin"
+msgstr ""
+
+msgid "Alfirk"
+msgstr ""
+
+msgid "Sadalsuud"
+msgstr ""
+
+msgid "Nashira"
+msgstr ""
+
+msgid "Azelfafage"
+msgstr ""
+
+msgid "The Garnet Star"
+msgstr ""
+
+msgid "Enif"
+msgstr ""
+
+msgid "Deneb Algedi"
+msgstr ""
+
+msgid "Kurhah"
+msgstr ""
+
+msgid "Sadalmelik"
+msgstr ""
+
+msgid "Alnair"
+msgstr ""
+
+msgid "Biham"
+msgstr ""
+
+msgid "Ancha"
+msgstr ""
+
+msgid "Sadachbia"
+msgstr ""
+
+msgid "Kruger 60"
+msgstr ""
+
+msgid "Situla"
+msgstr ""
+
+msgid "Homan"
+msgstr ""
+
+msgid "Matar"
+msgstr ""
+
+msgid "Sadalbari"
+msgstr ""
+
+msgid "Skat"
+msgstr ""
+
+msgid "Fomalhaut"
+msgstr ""
+
+msgid "Scheat"
+msgstr ""
+
+msgid "Markab"
+msgstr ""
+
+msgid "Errai"
+msgstr ""
