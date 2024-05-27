@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-12-02 12:46+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Latein Lebt, 2024\n"
+"Language-Team: German (https://app.transifex.com/stellarium/teams/80998/"
+"de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Northern Andes"
+msgstr "Nordanden"
+
+msgid "The Arrow"
+msgstr "Pfeil"
+
+msgid "The Jaguar"
+msgstr "Jaguar"
+
+msgid "The Monkey"
+msgstr "Affe"
+
+msgid "The Warrior"
+msgstr "Krieger"
+
+msgid "The Frog"
+msgstr "Frosch"
