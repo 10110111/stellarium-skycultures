@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2022\n"
+"Language-Team: Norwegian Bokmål (https://app.transifex.com/stellarium/"
+"teams/80998/nb/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Norse"
+msgstr ""
+
+# Sky culture norse section in markdown format
+msgid ""
+"### External links\n"
+"\n"
+" - [Norse Constellations](http://digitaliseducation.com/resources-norse.html)"
+msgstr ""
+"### Ekstern lenke\n"
+"\n"
+" <ul> <li>[Norse Constellations](http://digitaliseducation.com/resources-"
+"norse.html) </ul>"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *Jonas Persson*, jonas."
+"persson(at)mna.hkr.se"
+msgstr ""
+"Bidragsyter til denne himmelkulturen er Stellarium-bruker *Jonas Persson*, "
+"jonas.persson(at)mna.hkr.se"
+
+msgid "Aurvandil's Toe"
+msgstr "Aurvandils tå"
+
+msgid "Wolf's Mouth"
+msgstr "Ulfs Keptr (Fenrisulvens kjeft)"
+
+msgid "The Fishermen"
+msgstr "Fiskikarlar (Fiskerne) / Friggs rokk"
+
+msgid "Woman's Cart"
+msgstr "Kvennavagn (Kvinnevogn)"
+
+msgid "Man's Cart"
+msgstr "Karlvagn (Karlsvogna)"
+
+msgid "The Asar Battlefield"
+msgstr "Æsir Bardagi (Æsenes kamp)"
+
+msgid "Guide Star"
+msgstr "Leidarstjarna (Ledestjerne)"
+
+msgid "Day Star"
+msgstr "Dagstjarna (Dagstjerne)"
+
+msgid "South Star"
+msgstr "Sudrstjarna (Sydstjerne)"

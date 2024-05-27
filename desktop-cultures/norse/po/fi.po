@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Ilpo Kantonen, 2024\n"
+"Language-Team: Finnish (https://app.transifex.com/stellarium/teams/80998/"
+"fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Norse"
+msgstr "Norse"
+
+# Sky culture norse section in markdown format
+msgid ""
+"### External links\n"
+"\n"
+" - [Norse Constellations](http://digitaliseducation.com/resources-norse.html)"
+msgstr ""
+"### Ulkoiset linkit\n"
+"\n"
+" - [Norjan tähtikuvioita](http://digitaliseducation.com/resources-norse.html)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *Jonas Persson*, jonas."
+"persson(at)mna.hkr.se"
+msgstr ""
+"Tämän tähdistötaruston loi Stellariumin käyttäjä *Jonas Persson*, jonas."
+"persson(at)mna.hkr.se"
+
+msgid "Aurvandil's Toe"
+msgstr "Aurvandilin varvas"
+
+msgid "Wolf's Mouth"
+msgstr "Suden suu"
+
+msgid "The Fishermen"
+msgstr "Kalastajat"
+
+msgid "Woman's Cart"
+msgstr "Naisen kärryt"
+
+msgid "Man's Cart"
+msgstr "Miehen kärryt"
+
+msgid "The Asar Battlefield"
+msgstr "Asarin taistelukenttä"
+
+msgid "Guide Star"
+msgstr "Opastähti"
+
+msgid "Day Star"
+msgstr "Päivätähti"
+
+msgid "South Star"
+msgstr "Etelätähti"
