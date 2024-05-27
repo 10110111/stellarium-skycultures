@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2023\n"
+"Language-Team: French (https://app.transifex.com/stellarium/teams/80998/"
+"fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Sardinian"
+msgstr "Sarde"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"Like all peoples of the world, even the ancient Sardinians, turned their "
+"eyes to the sky that marked the time and the seasons. The peasant's world "
+"has given its name to the stars and the constellations of the Sardinian "
+"culture."
+msgstr ""
+"Comme tous les peuples du monde, même les anciens Sardes, tournaient leurs "
+"yeux vers le ciel qui marquait le temps et les saisons. Le monde paysan a "
+"donné son nom aux étoiles et aux constellations de la culture sarde."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Stars and constellations in sardinian language](https://web."
+"archive.org/web/20201029082540/http://www.sarabu.it/193_521_news_2863.php)\n"
+" - [#2]: [Stellarium Script: Sardinian Constellations Tour](http://www."
+"stellarium.org/wiki/index.php/Scripts)\n"
+" - [#3]: [Stellarium Wiki](http://www.stellarium.org/wiki/index.php/"
+"Sky_cultures#Sardinian)"
+msgstr ""
+" - [#1]: [Étoiles et constellations en langue sarde](http://www.sarabu."
+"it/193_521_news_2863.php)\n"
+" - [#2]: [Stellarium Script: Sardinian Constellations Tour](http://www."
+"stellarium.org/wiki/index.php/Scripts)\n"
+" - [#3]: [Stellarium Wiki](http://www.stellarium.org/wiki/index.php/"
+"Sky_cultures#Sardinian)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"These constellations have been created by the Stellarium's user *Giuseppe "
+"Putzolu*, giuseppe.putzolu(at)gmail.com\n"
+"\n"
+"### Credits\n"
+"\n"
+"The constellations of the Sardinian culture are the result of research done "
+"by Tonino Bussu and Marco Puddu"
+msgstr ""
+"Ces constellations ont été créées par l'utilisateur de Stellarium *Giuseppe "
+"Putzolu*, giuseppe.putzolu(at)gmail.com\n"
+"\n"
+"### Crédits\n"
+"\n"
+"Les constellations de la culture sarde sont le résultat de recherches "
+"effectuées par Tonino Bussu et Marco Puddu"
+
+msgid "The Throne"
+msgstr "Le Trône"
+
+msgid "The Twins"
+msgstr "Les Jumeaux"
+
+msgid "The Sickle"
+msgstr "La faucille"
+
+msgid "The Hut"
+msgstr "La Cabane"
+
+msgid "The Bunch"
+msgstr "Le Bouquet"
+
+msgid "The Seven Brothers"
+msgstr "Les Sept Frères"
+
+msgid "The Sticks"
+msgstr "Les Bâtons"
+
+msgid "The Fence for Sheep"
+msgstr "La Barrière à moutons"
+
+msgid "The Dance of Widows"
+msgstr "La Danse des Veuves"
+
+msgid "The Deer Horn"
+msgstr "Les Bois du Renne"
+
+msgid "The Cross of St. Constantine"
+msgstr "La Croix de Constantin"
+
+msgid "Three Marias"
+msgstr "Les trois Marie"
+
+msgid "Steel Star"
+msgstr "L'Étoile d'acier"
+
+msgid "The Seven Brother's Driver"
+msgstr "Le Cocher des sept frères"
+
+msgid "Polar Star"
+msgstr "L'Étoile polaire"
+
+msgid "The Bunch's Driver"
+msgstr "Le Cocher du Bouquet"
+
+#. TRANSLATORS: Native name of Venus in Sardinian culture
+msgid "Evening Star / Morning Star"
+msgstr ""

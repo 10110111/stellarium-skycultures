@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Gediminas Tauras, 2024\n"
+"Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
+"lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+# Sky culture name
+msgid "Sardinian"
+msgstr "Sardinijos"
+
+msgid "The Throne"
+msgstr "Sostas"
+
+msgid "The Twins"
+msgstr "Dvyniai"
+
+msgid "The Sickle"
+msgstr ""
+
+msgid "The Hut"
+msgstr ""
+
+msgid "The Bunch"
+msgstr ""
+
+msgid "The Seven Brothers"
+msgstr "Septyni broliai"
+
+msgid "The Sticks"
+msgstr ""
+
+msgid "The Fence for Sheep"
+msgstr ""
+
+msgid "The Dance of Widows"
+msgstr "Našlių šokis"
+
+msgid "The Deer Horn"
+msgstr "Elnio ragas"
+
+msgid "The Cross of St. Constantine"
+msgstr "Šv. Konstantino kryžius"
+
+msgid "Three Marias"
+msgstr ""
+
+msgid "Steel Star"
+msgstr "Plieninė žvaigždė"
+
+msgid "The Seven Brother's Driver"
+msgstr ""
+
+msgid "Polar Star"
+msgstr "Šiaurinė žvaigždė"
+
+msgid "The Bunch's Driver"
+msgstr ""
+
+#. TRANSLATORS: Native name of Venus in Sardinian culture
+msgid "Evening Star / Morning Star"
+msgstr "Vakarinė žvaigždė / Ryto žvaigždė"
