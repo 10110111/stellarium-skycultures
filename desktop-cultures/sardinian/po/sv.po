@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Karl Birgersson <birgerssonkarl@outlook.com>, 2022\n"
+"Language-Team: Swedish (https://app.transifex.com/stellarium/teams/80998/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Sardinian"
+msgstr "Sardinsk"
+
+msgid "The Throne"
+msgstr "Tronen"
+
+msgid "The Twins"
+msgstr "Tvillingarna"
+
+msgid "The Sickle"
+msgstr "Skäran"
+
+msgid "The Hut"
+msgstr "Stugan"
+
+msgid "The Bunch"
+msgstr "Vännerna"
+
+msgid "The Seven Brothers"
+msgstr "De sju bröderna"
+
+msgid "The Sticks"
+msgstr "PInnarna"
+
+msgid "The Fence for Sheep"
+msgstr "Gärdesgården"
+
+msgid "The Dance of Widows"
+msgstr "Änkornas dans"
+
+msgid "The Deer Horn"
+msgstr "Hjortens horn"
+
+msgid "The Cross of St. Constantine"
+msgstr "Konstantin den stores kors"
+
+msgid "Three Marias"
+msgstr "Tre Marior"
+
+msgid "Steel Star"
+msgstr "Stålstjärnan"
+
+msgid "The Seven Brother's Driver"
+msgstr "De sju brödernas kusk"
+
+msgid "Polar Star"
+msgstr "Polarstjärnan"
+
+msgid "The Bunch's Driver"
+msgstr "Vännernas kusk"
+
+#. TRANSLATORS: Native name of Venus in Sardinian culture
+msgid "Evening Star / Morning Star"
+msgstr "Aftonstjärnan / Morgonstjärnan"

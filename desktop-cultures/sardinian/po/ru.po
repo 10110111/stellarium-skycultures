@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-01-01 16:59+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2024\n"
+"Language-Team: Russian (https://app.transifex.com/stellarium/teams/80998/"
+"ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+# Sky culture name
+msgid "Sardinian"
+msgstr "Сардинская"
+
+# Sky culture introduction section in markdown format
+msgid ""
+"Like all peoples of the world, even the ancient Sardinians, turned their "
+"eyes to the sky that marked the time and the seasons. The peasant's world "
+"has given its name to the stars and the constellations of the Sardinian "
+"culture."
+msgstr ""
+"Как и все народы мира, древние сардинцы тоже обращали свои взоры к небу, "
+"которое отмеряло время и смену сезонов. Мир крестьянина и пастуха дал свое "
+"название звёздам и созвездиям в сардинской культуре."
+
+# Sky culture references section in markdown format
+msgid ""
+" - [#1]: [Stars and constellations in sardinian language](https://web."
+"archive.org/web/20201029082540/http://www.sarabu.it/193_521_news_2863.php)\n"
+" - [#2]: [Stellarium Script: Sardinian Constellations Tour](http://www."
+"stellarium.org/wiki/index.php/Scripts)\n"
+" - [#3]: [Stellarium Wiki](http://www.stellarium.org/wiki/index.php/"
+"Sky_cultures#Sardinian)"
+msgstr ""
+" - [#1]: [Звёзды и созвездия на сардинском языке](https://web.archive.org/"
+"web/20201029082540/http://www.sarabu.it/193_521_news_2863.php)\n"
+" - [#2]: [Stellarium Script: Sardinian Constellations Tour](http://www."
+"stellarium.org/wiki/index.php/Scripts)\n"
+" - [#3]: [Stellarium Wiki](http://www.stellarium.org/wiki/index.php/"
+"Sky_cultures#Sardinian)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"These constellations have been created by the Stellarium's user *Giuseppe "
+"Putzolu*, giuseppe.putzolu(at)gmail.com\n"
+"\n"
+"### Credits\n"
+"\n"
+"The constellations of the Sardinian culture are the result of research done "
+"by Tonino Bussu and Marco Puddu"
+msgstr ""
+"Эти созвездия были созданы пользователем в Stellarium'а *Джузеппе Путцолу "
+"(Giuseppe Putzolu)*, giuseppe.putzolu(at)gmail.com\n"
+"\n"
+"### Благодарности\n"
+"\n"
+"Созвездия сардинской культуры являются результатом исследований, проведенных "
+"Тонино Буссу (Tonino Bussu) и Марко Пудду (Marco Puddu)."
+
+msgid "The Throne"
+msgstr "Трон"
+
+msgid "The Twins"
+msgstr "Близнецы"
+
+msgid "The Sickle"
+msgstr "Серп"
+
+msgid "The Hut"
+msgstr "Хижина"
+
+msgid "The Bunch"
+msgstr "Банда"
+
+msgid "The Seven Brothers"
+msgstr "Семь братьев"
+
+msgid "The Sticks"
+msgstr "Палочки"
+
+msgid "The Fence for Sheep"
+msgstr "Забор для овец"
+
+msgid "The Dance of Widows"
+msgstr "Танец вдов"
+
+msgid "The Deer Horn"
+msgstr "Олений рог"
+
+msgid "The Cross of St. Constantine"
+msgstr "Крест святого Константина"
+
+msgid "Three Marias"
+msgstr "Три Марии"
+
+msgid "Steel Star"
+msgstr "Стальная звезда"
+
+msgid "The Seven Brother's Driver"
+msgstr "Кучер семи братьев"
+
+msgid "Polar Star"
+msgstr "Полярная звезда"
+
+msgid "The Bunch's Driver"
+msgstr "Главарь банды"
+
+#. TRANSLATORS: Native name of Venus in Sardinian culture
+msgid "Evening Star / Morning Star"
+msgstr "Вечерняя звезда / Утренняя звезда"
