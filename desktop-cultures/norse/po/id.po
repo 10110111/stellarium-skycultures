@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Indonesian (https://app.transifex.com/stellarium/teams/80998/"
+"id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Sky culture name
+msgid "Norse"
+msgstr ""
+
+msgid "Aurvandil's Toe"
+msgstr "Jari Kaki Aurvandil"
+
+msgid "Wolf's Mouth"
+msgstr "Mulut Srigala"
+
+msgid "The Fishermen"
+msgstr "Sang Nelayan"
+
+msgid "Woman's Cart"
+msgstr "Kereta Wanita"
+
+msgid "Man's Cart"
+msgstr "Kereta Pria"
+
+msgid "The Asar Battlefield"
+msgstr "Pertempuran Asar"
+
+msgid "Guide Star"
+msgstr ""
+
+msgid "Day Star"
+msgstr ""
+
+msgid "South Star"
+msgstr ""
