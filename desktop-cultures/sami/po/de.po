@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Georg Zotti <Georg.Zotti@univie.ac.at>, 2023\n"
+"Language-Team: German (https://app.transifex.com/stellarium/teams/80998/"
+"de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr "Sami"
+
+msgid "Morning Star"
+msgstr "Morgenstern"
+
+msgid "Sarva the Elk"
+msgstr "Sarva der Elch"
+
+msgid "Favdna's Bow and Arrow"
+msgstr "Favdnas Pfeil und Bogen"
+
+msgid "Galla's Sons"
+msgstr "Gallas Söhne"
+
+msgid "Sky Support"
+msgstr "Himmelsstütze"
+
+msgid "Favdna"
+msgstr "Favdna"
+
+msgid "The Runner"
+msgstr "Der Läufer"
+
+msgid "Pack of Dogs"
+msgstr "Hundemeute"
+
+msgid "Galla"
+msgstr "Galla"
+
+msgid "The Ski Runners"
+msgstr "Die Schiläufer"

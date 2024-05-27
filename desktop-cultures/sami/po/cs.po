@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Zdeněk Moravec <moravec@hapteplice.cz>, 2023\n"
+"Language-Team: Czech (https://app.transifex.com/stellarium/teams/80998/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n "
+"<= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+# Sky culture name
+msgid "Sami"
+msgstr "Sámská (Laponská)"
+
+msgid "Morning Star"
+msgstr "Ranní hvězda"
+
+msgid "Sarva the Elk"
+msgstr "Los Sarva"
+
+msgid "Favdna's Bow and Arrow"
+msgstr "Favdna's Bow and Arrow"
+
+msgid "Galla's Sons"
+msgstr "Synové Galvy"
+
+msgid "Sky Support"
+msgstr "Nebeská podpěra"
+
+msgid "Favdna"
+msgstr "Favdna"
+
+msgid "The Runner"
+msgstr "Běžec"
+
+msgid "Pack of Dogs"
+msgstr "Smečka psů"
+
+msgid "Galla"
+msgstr "Galla"
+
+msgid "The Ski Runners"
+msgstr "Běžkaři"
