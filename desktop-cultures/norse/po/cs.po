@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Zdeněk Moravec <moravec@hapteplice.cz>, 2023\n"
+"Language-Team: Czech (https://app.transifex.com/stellarium/teams/80998/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n "
+"<= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+# Sky culture name
+msgid "Norse"
+msgstr "Severská"
+
+msgid "Aurvandil's Toe"
+msgstr "Aurvandilův palec"
+
+msgid "Wolf's Mouth"
+msgstr "Vlčí tlama"
+
+msgid "The Fishermen"
+msgstr "Rybáři"
+
+msgid "Woman's Cart"
+msgstr "Vozík ženy"
+
+msgid "Man's Cart"
+msgstr "Vozík muže"
+
+msgid "The Asar Battlefield"
+msgstr "Asarovo bojiště"
+
+msgid "Guide Star"
+msgstr "Provázející hvězda"
+
+msgid "Day Star"
+msgstr "Denní hvězda"
+
+msgid "South Star"
+msgstr "Jižní hvězda"

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: stellarium 0.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-18 14:03+0700\n"
+"PO-Revision-Date: 2010-05-07 20:47+0000\n"
+"Last-Translator: Fabien Chéreau <Unknown>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Aurvandil's Toe"
+msgstr "Aurvandil's Toe"
+
+msgid "Wolf's Mouth"
+msgstr "Wolf's Mouth"
+
+msgid "The Fishermen"
+msgstr "The Fishermen"
+
+msgid "Woman's Cart"
+msgstr "Woman's Cart"
+
+msgid "Man's Cart"
+msgstr "Man's Cart"
+
+msgid "The Asar Battlefield"
+msgstr "The Asar Battlefield"
+
+msgid "Guide Star"
+msgstr ""
+
+msgid "Day Star"
+msgstr ""
+
+msgid "South Star"
+msgstr ""

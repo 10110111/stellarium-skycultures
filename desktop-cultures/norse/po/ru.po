@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-01-01 16:59+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2024\n"
+"Language-Team: Russian (https://app.transifex.com/stellarium/teams/80998/"
+"ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+# Sky culture name
+msgid "Norse"
+msgstr "Скандинавская"
+
+# Sky culture norse section in markdown format
+msgid ""
+"### External links\n"
+"\n"
+" - [Norse Constellations](http://digitaliseducation.com/resources-norse.html)"
+msgstr ""
+"### Внешние ссылки\n"
+"\n"
+" - [Скандинавские созвездия](http://digitaliseducation.com/resources-norse."
+"html)"
+
+# Sky culture authors section in markdown format
+msgid ""
+"This sky culture was contributed by Stellarium user *Jonas Persson*, jonas."
+"persson(at)mna.hkr.se"
+msgstr ""
+"Эта культура неба была предоставлена пользователем Stellarium'а *Джонасом "
+"Перссоном (Jonas Persson)*, jonas.persson(at)mna.hkr.se"
+
+msgid "Aurvandil's Toe"
+msgstr "Палец Орвандила"
+
+msgid "Wolf's Mouth"
+msgstr "Волчья пасть"
+
+msgid "The Fishermen"
+msgstr "Рыбак"
+
+msgid "Woman's Cart"
+msgstr "Повозка женщины"
+
+msgid "Man's Cart"
+msgstr "Повозка мужчины"
+
+msgid "The Asar Battlefield"
+msgstr "Азарское поле битвы"
+
+msgid "Guide Star"
+msgstr "Путеводная звезда"
+
+msgid "Day Star"
+msgstr "Дневная звезда"
+
+msgid "South Star"
+msgstr "Южная звезда"

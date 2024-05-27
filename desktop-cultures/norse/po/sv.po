@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Karl Birgersson <birgerssonkarl@outlook.com>, 2022\n"
+"Language-Team: Swedish (https://app.transifex.com/stellarium/teams/80998/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Norse"
+msgstr "Nordisk"
+
+msgid "Aurvandil's Toe"
+msgstr "Aurvandils tå"
+
+msgid "Wolf's Mouth"
+msgstr "Vargagap"
+
+msgid "The Fishermen"
+msgstr "Friggs spinnrock"
+
+msgid "Woman's Cart"
+msgstr "Kvinnovagn"
+
+msgid "Man's Cart"
+msgstr "Karlsvagn"
+
+msgid "The Asar Battlefield"
+msgstr "Asastriden"
+
+msgid "Guide Star"
+msgstr "Ledstjärnan"
+
+msgid "Day Star"
+msgstr "Dagstjärnan"
+
+msgid "South Star"
+msgstr "Sydstjärnan"
