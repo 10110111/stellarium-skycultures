@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2023\n"
+"Language-Team: French (https://app.transifex.com/stellarium/teams/80998/"
+"fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Tukano"
+msgstr "Tucano"
+
+msgid "Tortoise"
+msgstr "Tortue"
+
+msgid "Fer-de-lance (snake)"
+msgstr "Le fer-de-lance (serpent)"
+
+msgid "Armadillo"
+msgstr "Le tatou"
+
+msgid "Caridean Shrimp"
+msgstr "La crevette"
+
+msgid "A kind of fish"
+msgstr "Une sorte de poisson"
+
+msgid "Puma or Jaguar"
+msgstr "Le puma ou jaguar"
+
+msgid "Group of Stars"
+msgstr "Groupe d'étoiles"
+
+msgid "A kind of grill to cook fish"
+msgstr "Le grill à poisson"
+
+msgid "Adze Handle"
+msgstr "Le manche d'herminette"
+
+msgid "Egret"
+msgstr "L'aigrette"
+
+msgid "Snake Large Anus"
+msgstr "L'anus du gros serpent"
