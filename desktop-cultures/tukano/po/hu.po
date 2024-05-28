@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Language-Team: Hungarian (https://app.transifex.com/stellarium/teams/80998/"
+"hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Tukano"
+msgstr ""
+
+msgid "Tortoise"
+msgstr "Teknős"
+
+msgid "Fer-de-lance (snake)"
+msgstr "Fer-de-lance (kígyó)"
+
+msgid "Armadillo"
+msgstr "Tatu"
+
+msgid "Caridean Shrimp"
+msgstr ""
+
+msgid "A kind of fish"
+msgstr "Egy fajta hal"
+
+msgid "Puma or Jaguar"
+msgstr "Puma vagy Jaguár"
+
+msgid "Group of Stars"
+msgstr "Csillagcsoport"
+
+msgid "A kind of grill to cook fish"
+msgstr ""
+
+msgid "Adze Handle"
+msgstr "Adze Handle"
+
+msgid "Egret"
+msgstr "Nemes kócsag"
+
+msgid "Snake Large Anus"
+msgstr "Kígyó Nagy Ánusz"

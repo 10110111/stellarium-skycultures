@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Nuno Cunha <nunoccunha@gmail.com>, 2023\n"
+"Language-Team: Portuguese (Brazil) (https://app.transifex.com/stellarium/"
+"teams/80998/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+
+# Sky culture name
+msgid "Tukano"
+msgstr ""
+
+msgid "Tortoise"
+msgstr "Jabuti"
+
+msgid "Fer-de-lance (snake)"
+msgstr "Jararaca"
+
+msgid "Armadillo"
+msgstr "Tatu"
+
+msgid "Caridean Shrimp"
+msgstr "Camarão de rio"
+
+msgid "A kind of fish"
+msgstr "Jacundá"
+
+msgid "Puma or Jaguar"
+msgstr "Onça"
+
+msgid "Group of Stars"
+msgstr "Grupo de Estrelas"
+
+msgid "A kind of grill to cook fish"
+msgstr "Moquém"
+
+msgid "Adze Handle"
+msgstr "Cabo do Enxó"
+
+msgid "Egret"
+msgstr "Garça"
+
+msgid "Snake Large Anus"
+msgstr "Cobra de ânus grande"

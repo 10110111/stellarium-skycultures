@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Georg Zotti <Georg.Zotti@univie.ac.at>, 2023\n"
+"Language-Team: German (https://app.transifex.com/stellarium/teams/80998/"
+"de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Tukano"
+msgstr "Tukano"
+
+msgid "Tortoise"
+msgstr "Landschildkröte"
+
+msgid "Fer-de-lance (snake)"
+msgstr "Terciopelo-Lanzenotter (Giftschlange)"
+
+msgid "Armadillo"
+msgstr "Gürteltier"
+
+msgid "Caridean Shrimp"
+msgstr "Caridea-Garnele"
+
+msgid "A kind of fish"
+msgstr "Hechtbuntbarsch"
+
+msgid "Puma or Jaguar"
+msgstr "Puma oder Jaguar"
+
+msgid "Group of Stars"
+msgstr "Sterngruppe"
+
+msgid "A kind of grill to cook fish"
+msgstr "Räuchergrill"
+
+msgid "Adze Handle"
+msgstr "Dechselschaft"
+
+msgid "Egret"
+msgstr "Reiher"
+
+msgid "Snake Large Anus"
+msgstr "Schlange mit großer Kloake"

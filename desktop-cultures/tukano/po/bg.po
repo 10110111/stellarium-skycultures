@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
+"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"PO-Revision-Date: 2022-10-05 10:49+0000\n"
+"Last-Translator: Alexander Shopov <ash@kambanaria.org>, 2022\n"
+"Language-Team: Bulgarian (https://app.transifex.com/stellarium/teams/80998/"
+"bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Sky culture name
+msgid "Tukano"
+msgstr ""
+
+msgid "Tortoise"
+msgstr "Костенурка"
+
+msgid "Fer-de-lance (snake)"
+msgstr "Аня (ярарака — змия, сем. Отровници)"
+
+msgid "Armadillo"
+msgstr "Памо (броненосец)"
+
+msgid "Caridean Shrimp"
+msgstr "Дасю (сладководна скарида)"
+
+msgid "A kind of fish"
+msgstr "Вид риба"
+
+msgid "Puma or Jaguar"
+msgstr "Яѝ (пума или ягуар)"
+
+msgid "Group of Stars"
+msgstr "Ньохкоатеро (Групата звезди)"
+
+msgid "A kind of grill to cook fish"
+msgstr "Вид скара за риба"
+
+msgid "Adze Handle"
+msgstr "Сиояхпу (тесла/дръжка на тесла)"
+
+msgid "Egret"
+msgstr "Ихѐ (чапла)"
+
+msgid "Snake Large Anus"
+msgstr "Клоаката на змията"
