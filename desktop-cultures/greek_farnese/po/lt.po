@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2024-12-02 12:46+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
 "Last-Translator: Gediminas Tauras, 2024\n"
 "Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
@@ -26,7 +26,7 @@ msgid "Perseus"
 msgstr "Persėjas"
 
 msgid "The nebulous star to the rear of the sting"
-msgstr ""
+msgstr "Miglota žvaigždė, esanti už geluonies"
 
 msgid "The nebulous mass on the right hand"
 msgstr "Ūkanota masė dešinėje rankoje"
@@ -137,37 +137,37 @@ msgid "Sea Monster"
 msgstr "Jūros pabaisa"
 
 msgid "Hero Orion"
-msgstr ""
+msgstr "Didvyris Orionas"
 
 msgid "River"
-msgstr ""
+msgstr "Upė"
 
 msgid "Hare"
 msgstr "Kiškis"
 
 msgid "The Ship Argo"
-msgstr ""
+msgstr "Laivas Argo"
 
 msgid "Water Snake"
 msgstr "Vandens gyvatė"
 
 msgid "Vessel"
-msgstr ""
+msgstr "Indas"
 
 msgid "Kentaur"
-msgstr ""
+msgstr "Kentauras"
 
 msgid "Altar"
-msgstr ""
+msgstr "Altorius"
 
 msgid "Southern Crown"
-msgstr ""
+msgstr "Pietinė karūna"
 
 msgid "Southern Fish"
-msgstr ""
+msgstr "Pietinė žuvis"
 
 msgid "The Lock [in Leo]"
-msgstr ""
+msgstr "Spyna[Liūte]"
 
 msgid "φάτνη (Manger)"
 msgstr "φάτνη (Prakartas)"
@@ -185,7 +185,7 @@ msgid "Tau 11-15"
 msgstr "Tau 11-15"
 
 msgid "πλόκαμος (Coma)"
-msgstr ""
+msgstr "πλόκαμος (Pynė)"
 
 msgid "Leo 33"
 msgstr "Leo 33"
