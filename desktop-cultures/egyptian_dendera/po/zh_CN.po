@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2024-12-02 12:46+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Silas Wong <wsl98501@163.com>, 2023\n"
+"Last-Translator: 殳玮 孙 <itun@qq.com>, 2024\n"
 "Language-Team: Chinese (China) (https://app.transifex.com/stellarium/"
 "teams/80998/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Egyptian (Dendera)"
-msgstr "埃及 (Dendera)"
+msgstr "埃及 (丹达腊)"
 
 msgid "Aquila"
 msgstr "天鹰座"
@@ -66,107 +66,107 @@ msgid "Fox"
 msgstr "狐狸"
 
 msgid "Thigh of Bull"
-msgstr ""
+msgstr "公牛的大腿"
 
 msgid "Hathor Cow (Egypt.)"
-msgstr ""
+msgstr "哈托尔的小牛（埃及）"
 
 msgid "Canopus (Egypt.)"
-msgstr ""
+msgstr "克诺珀斯(埃及)"
 
 msgid "Goddess Satis"
-msgstr ""
+msgstr "女神萨提斯"
 
 msgid "Field (Sum.)"
-msgstr ""
+msgstr "方场（巴比伦）"
 
 msgid "Leo + Berenike(?)"
-msgstr ""
+msgstr "狮子和女人"
 
 msgid "King Osiris"
-msgstr ""
+msgstr "奥西里斯王"
 
 msgid "Hydra and Corvus"
-msgstr ""
+msgstr "长蛇和乌鸦座"
 
 msgid "Babylonian Rooster"
-msgstr ""
+msgstr "巴比伦公鸡"
 
 msgid "? (Egypt.)"
-msgstr ""
+msgstr "？（某个埃及神）"
 
 msgid " ? "
-msgstr ""
+msgstr "？（某个神）"
 
 msgid "Guard (Arkturos)"
-msgstr ""
+msgstr "侍卫（阿克图罗斯）"
 
 msgid "Goat (Capella)"
-msgstr ""
+msgstr "山羊（卡佩拉）"
 
 msgid "Baboon"
-msgstr ""
+msgstr "狒狒"
 
 msgid "Falcon"
-msgstr ""
+msgstr "猎鹰"
 
 msgid "Cyg/ Cep"
-msgstr ""
+msgstr "天鹅/仙王"
 
 msgid "Cas"
 msgstr "Cas"
 
 msgid "Sum. Corpse Egyptized"
-msgstr ""
+msgstr "尸体（来自巴比伦）"
 
 msgid "Min-Pan"
-msgstr ""
+msgstr "敏-潘"
 
 msgid "Mother Goddess Isis"
-msgstr ""
+msgstr "母亲女神艾西斯"
 
 msgid "Goddess Anuket"
-msgstr ""
+msgstr "女神阿努凯特"
 
 msgid "Chenti Irti"
-msgstr ""
+msgstr "肯提艾提"
 
 msgid "Beast"
 msgstr "野兽"
 
 msgid "Kanobos/Canopus"
-msgstr ""
+msgstr "克诺珀斯"
 
 msgid "Scorpion's Heart"
-msgstr ""
+msgstr "鞋心"
 
 msgid "The Guard"
-msgstr ""
+msgstr "侍卫"
 
 #. TRANSLATORS: Native name of Venus in Egyptian culture
 msgid "Phoenix Bird"
-msgstr ""
+msgstr "凤凰鸟"
 
 #. TRANSLATORS: Native name of Mercury in Egyptian culture
 msgid "Seth in the Twilight"
-msgstr ""
+msgstr "暮光中的赛特"
 
 #. TRANSLATORS: Native name of Jupiter in Egyptian culture
 msgid "Horus the merchant"
-msgstr ""
+msgstr "商人荷鲁斯"
 
 #. TRANSLATORS: Native name of Mars in Egyptian culture
 msgid "Horus the red one"
-msgstr ""
+msgstr "红色的荷鲁斯"
 
 #. TRANSLATORS: Native name of Saturn in Egyptian culture
 msgid "Horus the bull"
-msgstr ""
+msgstr "公牛荷鲁斯"
 
 #. TRANSLATORS: Native name of the Sun in Egyptian culture
 msgid "Aten"
-msgstr ""
+msgstr "阿顿"
 
 #. TRANSLATORS: Native name of the Moon in Egyptian culture
 msgid "Aah"
-msgstr ""
+msgstr "阿"
