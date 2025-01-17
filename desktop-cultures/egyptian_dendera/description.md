@@ -8,190 +8,190 @@
 
 The temple in (today's) Egypt probably dates to the Roman (or Late Greek) time of Egypt and, thus, does not show the original Egyptian sky but a mixture of Greco-Roman, Egyptian and Babylonian figures, all drawn in an Egyptian style.
 
-<p><img width="600" src="Dendera_zodiac_Louvre.jpg"/></p>
+<p><img width="600" src="illustrations/Dendera_zodiac_Louvre.jpg"/></p>
 <p><i>Photograph for the display in Musée du Louvre (Paris), Public Domain/ CC0. The plate is 255 x 253 cm in size.</i></p>
 
 ### List of constellation figure
 
 <p><table>
 <tr valign="middle">
-	<td> <img width="255" src="ari.png" /></td>
+	<td> <img width="255" src="illustrations/ari.png" /></td>
 	<td>zodiac</td>
 	<td><b>Aries</b><br />a ram (not the Babylonian Hired Man, not the Roman ram that jumps through a ring)</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="tau.png" /></td>
+	<td><img width="255" src="illustrations/tau.png" /></td>
 	<td>zodiac</td>
 	<td><b>Taurus</b><br />a bull (not the Babylonian halfed bull)</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="gem.png" /></td>
+	<td><img width="255" src="illustrations/gem.png" /></td>
 	<td>zodiac</td>
 	<td><b>Gemini</b><br />a couple (Shu & Tefnut), i.e. a woman and a man (neither the Babylonian warriors nor the Greek heros)</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="cnc.png" /></td>
+	<td><img width="255" src="illustrations/cnc.png" /></td>
 	<td>zodiac</td>
 	<td><b>Cancer</b><br />a crab (as usual)</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="leo+erua.png" /></td>
+	<td><img width="255" src="illustrations/leo+erua.png" /></td>
 	<td>zodiac</td>
 	<td><b>Leo</b><br />a lion (as usual)<br />with a woman whose head is at Coma Berenices</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="vir.png" /></td>
+	<td><img width="255" src="illustrations/vir.png" /></td>
 	<td>zodiac</td>
 	<td><b>Virgo</b><br />a maiden, depicted like the Babylonian goddess Shala (clay tablet AO 6448 from Uruk)</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="lib.png" /></td>
+	<td><img width="255" src="illustrations/lib.png" /></td>
 	<td>zodiac</td>
 	<td><b>Libra</b><br />a balance (as usual)</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="sco.png" /></td>
+	<td><img width="255" src="illustrations/sco.png" /></td>
 	<td>zodiac</td>
 	<td><b>Scorpius</b><br />a scorpion (as usual)</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="sgr.png" /></td>
+	<td><img width="255" src="illustrations/sgr.png" /></td>
 	<td>zodiac</td>
 	<td><b>Sagittarius</b><br />this figure is an Egyptised version of the Babylonian god Pabilsang; the double-head indicates a mythical context</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="cap.png" /></td>
+	<td><img width="255" src="illustrations/cap.png" /></td>
 	<td>zodiac</td>
 	<td><b>Capricornus</b><br />a goat-fish (Babylonian)</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="aqr+psa.png" /></td>
+	<td><img width="255" src="illustrations/aqr+psa.png" /></td>
 	<td>zodiac</td>
 	<td><b>Aquarius</b><br />Egyptian god of the Nile, Hapi</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="psc.png" /></td>
+	<td><img width="255" src="illustrations/psc.png" /></td>
 	<td>zodiac</td>
 	<td><b>Pisces</b><br />two fish (not the Babylonian "tails of the Giant Swallow" and not "Swallow-Fish")</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="uma_wagon+fox+ewe+yoke.png" /></td>
+	<td><img width="255" src="illustrations/uma_wagon+fox+ewe+yoke.png" /></td>
 	<td>north</td>
 	<td><b>Ursa Major</b><br />the Bull's Thigh is Egyptian (also depicted on diagonal star clocks, two millennia earlier),
   the Jackal and the Sheep are at the places of the Babylonian asterisms "Fox" and "Ewe"</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="lup+cen.png" /></td>
+	<td><img width="255" src="illustrations/lup+cen.png" /></td>
 	<td>south</td>
 	<td><b>Lupus</b><br />the beast is at the place of the Babylonian "Mad Dog" (rabid dog) and the Greco-Roman Lupus</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="nilpferd.png" /></td>
+	<td><img width="255" src="illustrations/nilpferd.png" /></td>
 	<td>north</td>
 	<td><b>Bootes, Corona Borealis and others</b><br />the hippo goddess is an old Egyptian goddess who guards the celestial pole and the Bull's Thigh (constellation)</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="hya+crv.png" /></td>
+	<td><img width="255" src="illustrations/hya+crv.png" /></td>
 	<td>north</td>
 	<td><b>Hydra and Corvus</b><br />the huge snake with the bird on its tail is the new interpretation of the Babylonian constellations Snake (Mush-Dragon) and Raven</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="ori.png" /></td>
+	<td><img width="255" src="illustrations/ori.png" /></td>
 	<td>south</td>
 	<td><b>Orion</b><br />Osiris is a deified Egyptian king</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="horusfalke_canopus.png" /></td>
+	<td><img width="255" src="illustrations/horusfalke_canopus.png" /></td>
 	<td>south</td>
 	<td><b>southwesternmost part of Argo plus Columba</b><br />a falcon sitting on a canopy - obviously an Egyptian constellation that remains today as a star name</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="sirius_bow+arrow.png" /></td>
+	<td><img width="255" src="illustrations/sirius_bow+arrow.png" /></td>
 	<td>south</td>
 	<td><b>Canis Major</b><br />Sothis is the Egyptian name of a constellation around Sirius; in Babylon, there is a goddess with Bow and Arrow at this place</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="himmelskuh_sirius.png" /></td>
+	<td><img width="255" src="illustrations/himmelskuh_sirius.png" /></td>
 	<td>south</td>
 	<td><b>Canis Minor</b><br />as all other bright stars in the area are already decorated, this heavenly cow apparently needs to be placed on Procyon</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="lep.png" /></td>
+	<td><img width="255" src="illustrations/lep.png" /></td>
 	<td>south</td>
 	<td><b>Lepus</b><br />in Babylonian uranology, a rooster is placed below the Orion-constellation in the modern Lepus; this bird is apparently the Egyptian version of it</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="peg.png" /></td>
+	<td><img width="255" src="illustrations/peg.png" /></td>
 	<td>north</td>
 	<td><b>Pegasus area</b><br />the Babylonian constellation of The Field is a quadrilateral of bright stars. It looks like the Egyptian hieroglyph for "water" which makes sense in the neighbourhood of fish.</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="aql_gegend.png" /></td>
+	<td><img width="255" src="illustrations/aql_gegend.png" /></td>
 	<td>north</td>
 	<td><b>Aquila area</b><br />this small dark bird (a duck?) apparently is located in the area of Aquila. For the time being, I put it on the bright star (Altair).</td>
 </tr>
 <tr valign="middle">
-	<td><img width="255" src="corpse.png" /></td>
+	<td><img width="255" src="illustrations/corpse.png" /></td>
 	<td>north</td>
 	<td><b>Delphinus area</b><br />next to this bird, there is a cadaver of an animal - interestingly at the place of the Babylonian constellation of "the Corpse"</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="cyg_gegend.png" /></td>
+	<td><img width="255" src="illustrations/cyg_gegend.png" /></td>
 	<td>north</td>
 	<td><b>Cygnus / Cepheus area</b><br />?</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="lyr_gula.png" /></td>
+	<td><img width="255" src="illustrations/lyr_gula.png" /></td>
 	<td>north</td>
 	<td><b>Lyra / Ophiuchus area</b><br />there is a huge Egyptian figure in the area of Lyra and Ophiuchus. In Lyra was the Babylonian constellation of the goddess of medicine, while Ophiuchus is the Greek equivalent. Thus, this might possibly be the Egyptian mythological founder of medicine, Imhotep.</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="cet_unterAri.png" /></td>
+	<td><img width="255" src="illustrations/cet_unterAri.png" /></td>
 	<td>south</td>
 	<td><b>Cetus area</b><br />?</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="Leo_below_3.png" /></td>
+	<td><img width="255" src="illustrations/Leo_below_3.png" /></td>
 	<td>south</td>
 	<td><b>Centaurus area</b><br />the Egyptian figure shows a landworker and at this place, there is the Babylonian god of agriculture and war (Ningirsu), so this might be a very strange depiction of the Egyptian god Min who was merged with Greek Pan in late epochs</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="Leo_below_2.png" /></td>
+	<td><img width="255" src="illustrations/Leo_below_2.png" /></td>
 	<td>south</td><td>
 	<b>eastern and southern Argo area</b><br />the image shows a mother goddess, in Egyptian this is Isis and in Babylonian this would be Ninmakh (who is indeed positioned at this place)</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="Leo_below.png" /></td>
+	<td><img width="255" src="illustrations/Leo_below.png" /></td>
 	<td>south</td>
 	<td><b>northwestern Argo area</b><br />the hat of this woman resembles the Egyptian goddess Anuket, the goddess of the Nile flood. In Babylonian uranology of the middle first millennium, there is the goddess Nunki at this area: due to the sound of the names, an exchange or transfer is likely.</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="goat.png" /></td>
+	<td><img width="255" src="illustrations/goat.png" /></td>
 	<td>north</td>
 	<td><b>Auriga</b><br />goat is at the position of the constellation Auriga (neither in Babylonian nor in Greek tradition, there is a goat at this place. Highly likely, the Roman star name Capella (the Goat) resembles this Egyptian constellation.</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="alfCen_512.jpg" /></td>
+	<td><img width="255" src="illustrations/alfCen_512.jpg" /></td>
 	<td>south</td>
 	<td><b>alpha Centauri area</b><br />the ceiling clearly depicts an Egyptian Chenti Irti figure: this little creature should be positioned in the area around/ above the bright star alpha Centauri, and there is no Greek or Babylonian equivalent. The meaning of Chenti Irti is unclear but a suggestion is "the sharp sighted one" which could make sense for a bright star that is only roughly 5° above the horizon (2nd c. BCE in Egypt)</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="udjat.jpg" /></td>
+	<td><img width="255" src="illustrations/udjat.jpg" /></td>
 	<td>north</td>
 	<td><b>"above" Aries</b><br />the udjat eye in this context probably refers to the spring equinox</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="affe.jpg" /></td>
+	<td><img width="255" src="illustrations/affe.jpg" /></td>
 	<td>north</td>
 	<td><b>Perseus area</b><br />the baboon is an attribute or representation of the Egyptian god Thoth and therefore worshipped. However, it is uncertain whether this particular baboon is connected to Thoth.</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="vogel.jpg" /></td>
+	<td><img width="255" src="illustrations/vogel.jpg" /></td>
 	<td>north</td>
 	<td><b>Ursa Minor area</b><br />a falcon (one of the many falcon deities)</td>
 </tr>
  <tr valign="middle">
-	<td><img width="255" src="cas_grp.png" /></td>
+	<td><img width="255" src="illustrations/cas_grp.png" /></td>
 	<td>north</td>
 	<td><b>Cassiopeia area (or Cas/And)</b><br />?</td>
 </tr>

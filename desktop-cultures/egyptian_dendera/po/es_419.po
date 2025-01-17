@@ -2,171 +2,172 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-12-02 12:46+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Sirish Kumar Tummala <sirishtummala@gmail.com>, 2024\n"
-"Language-Team: Telugu (https://app.transifex.com/stellarium/teams/80998/"
-"te/)\n"
+"Last-Translator: Alejandro Moctezuma <moctezumaalejandro25@gmail.com>, 2025\n"
+"Language-Team: Spanish (Latin America) (https://app.transifex.com/stellarium/"
+"teams/80998/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: te\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_419\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
 
 # Sky culture name
 msgid "Egyptian (Dendera)"
-msgstr ""
+msgstr "Egipcio (Dendera)"
 
 msgid "Aquila"
-msgstr "అక్విలా"
+msgstr "Águila"
 
 msgid "Aries"
-msgstr "ఏరీస్"
+msgstr "Aries"
 
 msgid "Taurus"
-msgstr "టారస్"
+msgstr "Tauro"
 
 msgid "Gemini"
-msgstr "జెమిని"
+msgstr "Géminis"
 
 msgid "Cancer"
-msgstr "కాన్సర్"
+msgstr "Cáncer"
 
 msgid "Virgo"
-msgstr "విర్గో"
+msgstr "Virgo"
 
 msgid "Libra"
-msgstr "లిబ్రా"
+msgstr "Libra"
 
 msgid "Scorpius"
-msgstr "స్కార్పియస్"
+msgstr "Escorpión"
 
 msgid "Sagittarius"
-msgstr "సాజిట్టేరియస్"
+msgstr "Sagitario"
 
 msgid "Capricornus"
-msgstr "కాప్రికార్నస్"
+msgstr "Capricornio"
 
 msgid "Aquarius"
-msgstr "ఆక్వారిస్"
+msgstr "Acuario"
 
 msgid "Pisces"
-msgstr "పైసెస్"
+msgstr "Pisces"
 
 msgid "Ear of Grain"
-msgstr "ధన్యపు సంవత్సరం"
+msgstr "Oreja de Grain"
 
 msgid "King"
-msgstr "రాజు"
+msgstr "Rey"
 
 msgid "Ewe"
-msgstr "ఆడ గొర్రె"
+msgstr "Oveja"
 
 msgid "Fox"
-msgstr "నక్క"
+msgstr "Zorro"
 
 msgid "Thigh of Bull"
-msgstr ""
+msgstr "Muslo del Toro"
 
 msgid "Hathor Cow (Egypt.)"
-msgstr ""
+msgstr "Vaca Hathor (Egipto)"
 
 msgid "Canopus (Egypt.)"
-msgstr ""
+msgstr "Canopus (Egipto)"
 
 msgid "Goddess Satis"
-msgstr ""
+msgstr "Diosa Satis"
 
 msgid "Field (Sum.)"
-msgstr ""
+msgstr "Campo (Sum.)"
 
 msgid "Leo + Berenike(?)"
-msgstr ""
+msgstr "Leo + Berenike(?)"
 
 msgid "King Osiris"
-msgstr ""
+msgstr "Rey Osiris"
 
 msgid "Hydra and Corvus"
-msgstr ""
+msgstr "Hydra y Corvus"
 
 msgid "Babylonian Rooster"
-msgstr ""
+msgstr "Gallo Babilónico"
 
 msgid "? (Egypt.)"
-msgstr ""
+msgstr "? (Egipto)"
 
 msgid " ? "
-msgstr ""
+msgstr " ? "
 
 msgid "Guard (Arkturos)"
-msgstr ""
+msgstr "Guardia (Arturo)"
 
 msgid "Goat (Capella)"
-msgstr ""
+msgstr "Cabra (Capella)"
 
 msgid "Baboon"
-msgstr ""
+msgstr "Babuino"
 
 msgid "Falcon"
-msgstr ""
+msgstr "Halcón"
 
 msgid "Cyg/ Cep"
-msgstr ""
+msgstr "Cyg/ Cep"
 
 msgid "Cas"
-msgstr ""
+msgstr "Cas"
 
 msgid "Sum. Corpse Egyptized"
-msgstr ""
+msgstr "Sum. Gula Egipciado"
 
 msgid "Min-Pan"
-msgstr ""
+msgstr "Min-Pan"
 
 msgid "Mother Goddess Isis"
-msgstr ""
+msgstr "Diosa Madre Isis"
 
 msgid "Goddess Anuket"
-msgstr ""
+msgstr "Diosa Anuket"
 
 msgid "Chenti Irti"
-msgstr ""
+msgstr "Chenti Irti"
 
 msgid "Beast"
-msgstr ""
+msgstr "Bestia"
 
 msgid "Kanobos/Canopus"
-msgstr ""
+msgstr "Kanobos/Canopus"
 
 msgid "Scorpion's Heart"
-msgstr ""
+msgstr "Corazón del Escorpión"
 
 msgid "The Guard"
-msgstr ""
+msgstr "El Guardia"
 
 #. TRANSLATORS: Native name of Venus in Egyptian culture
 msgid "Phoenix Bird"
-msgstr ""
+msgstr "Ave Fénix"
 
 #. TRANSLATORS: Native name of Mercury in Egyptian culture
 msgid "Seth in the Twilight"
-msgstr ""
+msgstr "Seth en el crepúsculo"
 
 #. TRANSLATORS: Native name of Jupiter in Egyptian culture
 msgid "Horus the merchant"
-msgstr ""
+msgstr "Horus el mercante"
 
 #. TRANSLATORS: Native name of Mars in Egyptian culture
 msgid "Horus the red one"
-msgstr ""
+msgstr "Horus el rojo"
 
 #. TRANSLATORS: Native name of Saturn in Egyptian culture
 msgid "Horus the bull"
-msgstr ""
+msgstr "Horus el toro"
 
 #. TRANSLATORS: Native name of the Sun in Egyptian culture
 msgid "Aten"
-msgstr ""
+msgstr "Aten"
 
 #. TRANSLATORS: Native name of the Moon in Egyptian culture
 msgid "Aah"
-msgstr ""
+msgstr "Aah"
