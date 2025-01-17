@@ -56,10 +56,10 @@ Here we describe the constellations decoded to date:
 
 |Image|Description|
 |-----|-----------|
-|<img src="jaguar.png" width="100" height="107" />|Estelina Quinatoa (The Jaguar): Constellation that governs the male cycle, also called "Wilca" or "Otorongo", indicates the arrival of the crops of tender grains.|
-|<img src="mono.png" width="100" height="107" />|Mercedes Cotacachi (The Monkey): Constellation that governs the female cycle, indicates the arrival of rains and the start of agricultural processes.|
-|<img src="sapo.png" width="100" height="107" />|Hernán Crespo Toral (The Frog): The "Hampatu" is the animal that has several stages, like the Andean thought, it appears on the night of the June solstice and it is related to the contact with the world of the dead.|
-|<img src="guerrero.png" width="100" height="107" />|Ana Jaramillo de Velasteguí (The Warrior): Known as "the Man and the Spear" or "The Dancer", the constellation governs the December solstice.|
+|<img src="illustrations/jaguar.png" width="100" height="107" />|Estelina Quinatoa (The Jaguar): Constellation that governs the male cycle, also called "Wilca" or "Otorongo", indicates the arrival of the crops of tender grains.|
+|<img src="illustrations/mono.png" width="100" height="107" />|Mercedes Cotacachi (The Monkey): Constellation that governs the female cycle, indicates the arrival of rains and the start of agricultural processes.|
+|<img src="illustrations/sapo.png" width="100" height="107" />|Hernán Crespo Toral (The Frog): The "Hampatu" is the animal that has several stages, like the Andean thought, it appears on the night of the June solstice and it is related to the contact with the world of the dead.|
+|<img src="illustrations/guerrero.png" width="100" height="107" />|Ana Jaramillo de Velasteguí (The Warrior): Known as "the Man and the Spear" or "The Dancer", the constellation governs the December solstice.|
 
 ## Authors
 
