@@ -4,56 +4,57 @@ msgstr ""
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
 "POT-Creation-Date: 2024-12-02 12:46+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Worachate Boonplod, 2024\n"
-"Language-Team: Thai (https://app.transifex.com/stellarium/teams/80998/th/)\n"
+"Last-Translator: tommy <tmhrozw@gmail.com>, 2024\n"
+"Language-Team: Japanese (https://app.transifex.com/stellarium/teams/80998/"
+"ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: th\n"
+"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 # Sky culture name
 msgid "Seri"
-msgstr "เซรี"
+msgstr "セリ族"
 
 msgid "Zaamth (Crab)"
-msgstr ""
+msgstr "ザアムス (蟹)"
 
 msgid "Cohamc (The wife and husband)"
-msgstr ""
+msgstr "コハムク (夫婦)"
 
 msgid "Haapjc (The deer hunter)"
-msgstr ""
+msgstr "ハアプジェク (鹿狩人)"
 
 msgid "Caamoilcoj (Wheel game)"
-msgstr ""
+msgstr "カアモイルコジ (輪遊び)"
 
 msgid "Haacosah (Pitahayas cutter)"
-msgstr ""
+msgstr "ハアコサー（ピタハヤの刃）"
 
 msgid "Hazoj canoj (He who comes at sunrise)"
-msgstr ""
+msgstr "ハゾジ・カノジ（日の出の地から来る者）"
 
 msgid "Yay xapi hanopas (Young hunter)"
-msgstr ""
+msgstr "イェイ・ザピ・ハノパス (若い狩人)"
 
 msgid "Quetoh (Small dove)"
-msgstr ""
+msgstr "クエトー (小鳩)"
 
 msgid "Coozactim (Hunter)"
-msgstr ""
+msgstr "コーザクティム (狩人)"
 
 msgid "Hap (Deer)"
-msgstr ""
+msgstr "ハプ (鹿)"
 
 msgid "Hee (Hare)"
-msgstr ""
+msgstr "ヒー (野ウサギ)"
 
 msgid "Hazoj Koii (Person)"
-msgstr ""
+msgstr "ハゾジ・コイイ (人)"
 
 msgid "Hazoj Himatax (Polar star)"
-msgstr ""
+msgstr "ハゾジ・ヒマタクス (北極星)"
 
 msgid "Haacoosah"
 msgstr ""

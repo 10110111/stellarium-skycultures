@@ -2,59 +2,60 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-12-02 12:46+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Latein Lebt, 2024\n"
-"Language-Team: German (https://app.transifex.com/stellarium/teams/80998/"
-"de/)\n"
+"Last-Translator: Alejandro Moctezuma <moctezumaalejandro25@gmail.com>, 2025\n"
+"Language-Team: Spanish (Latin America) (https://app.transifex.com/stellarium/"
+"teams/80998/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_419\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
 
 # Sky culture name
 msgid "Seri"
-msgstr "Seri"
+msgstr ""
 
 msgid "Zaamth (Crab)"
-msgstr "Zaamth (Krebs)"
+msgstr "Zaamth (Cangrejo)"
 
 msgid "Cohamc (The wife and husband)"
-msgstr "Cohamc (Frau und Ehemann)"
+msgstr "Cohamc (La esposa y el esposo)"
 
 msgid "Haapjc (The deer hunter)"
-msgstr "Haapjc (Rotwildjäger)"
+msgstr "Haapjc (El cazador de ciervos)"
 
 msgid "Caamoilcoj (Wheel game)"
-msgstr "Caamoilcoj (Reifenspiel)"
+msgstr "Caamoilcoj (Juego de rueda)"
 
 msgid "Haacosah (Pitahayas cutter)"
-msgstr "Haacosah (Kaktusfrucht-Messer)"
+msgstr "Haacosah (Cortador de pitayas)"
 
 msgid "Hazoj canoj (He who comes at sunrise)"
-msgstr "Hazoj canoj (Der zu Sonnenaufgang kommt)"
+msgstr "Hazoj canoj (El que viene al amanecer)"
 
 msgid "Yay xapi hanopas (Young hunter)"
-msgstr "Yay xapi hanopas (Junger Jäger)"
+msgstr "Yay xapi hanopas (Cazador joven)"
 
 msgid "Quetoh (Small dove)"
-msgstr "Quetoh (Kleine Taube)"
+msgstr "Quetoh (Paloma pequeña)"
 
 msgid "Coozactim (Hunter)"
-msgstr "Coozactim (Jäger)"
+msgstr "Coozactim (Cazador)"
 
 msgid "Hap (Deer)"
-msgstr "Hap (Rotwild)"
+msgstr "Hap (Ciervo)"
 
 msgid "Hee (Hare)"
-msgstr "Hee (Hase)"
+msgstr "Hee (Liebre)"
 
 msgid "Hazoj Koii (Person)"
-msgstr "Hazoj Koii (Person)"
+msgstr "Hazoj Koii (Persona)"
 
 msgid "Hazoj Himatax (Polar star)"
-msgstr "Hazoj Himatax (Polarstern)"
+msgstr "Hazoj Himatax (Estrella polar)"
 
 msgid "Haacoosah"
 msgstr "Haacoosah"

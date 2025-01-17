@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2024-12-02 12:46+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
 "Last-Translator: Gediminas Tauras, 2024\n"
 "Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
@@ -32,10 +32,10 @@ msgid "Caamoilcoj (Wheel game)"
 msgstr "Caamoilcoj (Ratų žaidimas)"
 
 msgid "Haacosah (Pitahayas cutter)"
-msgstr ""
+msgstr "Haacosah (Pitahayas pjaustytuvas)"
 
 msgid "Hazoj canoj (He who comes at sunrise)"
-msgstr ""
+msgstr " Hazoj canoj (Tas, kuris ateina saulei tekant)"
 
 msgid "Yay xapi hanopas (Young hunter)"
 msgstr "Yay xapi hanopas (Jaunas medžiotojas)"
@@ -59,10 +59,10 @@ msgid "Hazoj Himatax (Polar star)"
 msgstr "Hazoj Himatax (Šiaurės žvaigždė)"
 
 msgid "Haacoosah"
-msgstr ""
+msgstr "Haakusach"
 
 msgid "Himatax"
-msgstr ""
+msgstr "Himataksas"
 
 msgid "Haxl'c"
 msgstr ""
@@ -74,7 +74,7 @@ msgid "Coozactim"
 msgstr ""
 
 msgid "Hap"
-msgstr ""
+msgstr "Hap"
 
 msgid "Zaamth"
 msgstr ""
@@ -89,7 +89,7 @@ msgid "Naapxah"
 msgstr ""
 
 msgid "Hiasim"
-msgstr ""
+msgstr "Hiasim"
 
 msgid "Coamc"
 msgstr ""

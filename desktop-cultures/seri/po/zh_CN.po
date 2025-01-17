@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2024-12-02 12:46+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Silas Wong <wsl98501@163.com>, 2023\n"
+"Last-Translator: 殳玮 孙 <itun@qq.com>, 2024\n"
 "Language-Team: Chinese (China) (https://app.transifex.com/stellarium/"
 "teams/80998/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -18,100 +18,100 @@ msgid "Seri"
 msgstr "赛里"
 
 msgid "Zaamth (Crab)"
-msgstr ""
+msgstr "Zaamth（螃蟹）"
 
 msgid "Cohamc (The wife and husband)"
-msgstr ""
+msgstr "Cohamc（夫妻）"
 
 msgid "Haapjc (The deer hunter)"
-msgstr ""
+msgstr "Haapjc（猎鹿人）"
 
 msgid "Caamoilcoj (Wheel game)"
-msgstr ""
+msgstr "Caamoilcoj（轮盘游戏）"
 
 msgid "Haacosah (Pitahayas cutter)"
-msgstr ""
+msgstr "Haacosah（火龙果切刀）"
 
 msgid "Hazoj canoj (He who comes at sunrise)"
-msgstr ""
+msgstr "Hazoj canoj（他在日出时出现）"
 
 msgid "Yay xapi hanopas (Young hunter)"
-msgstr ""
+msgstr "Yay xapi hanopas（年轻猎人）"
 
 msgid "Quetoh (Small dove)"
-msgstr ""
+msgstr "Quetoh（幼鸽）"
 
 msgid "Coozactim (Hunter)"
-msgstr ""
+msgstr "Coozactin（猎人）"
 
 msgid "Hap (Deer)"
-msgstr ""
+msgstr "Hap（鹿）"
 
 msgid "Hee (Hare)"
-msgstr ""
+msgstr "Hee（野兔）"
 
 msgid "Hazoj Koii (Person)"
-msgstr ""
+msgstr "Hazoj Koii（人）"
 
 msgid "Hazoj Himatax (Polar star)"
-msgstr ""
+msgstr "Hazoj Himatax（极星）"
 
 msgid "Haacoosah"
-msgstr ""
+msgstr "Haacoosah"
 
 msgid "Himatax"
-msgstr ""
+msgstr "Himatax"
 
 msgid "Haxl'c"
-msgstr ""
+msgstr "Haxl'c"
 
 msgid "Heepem"
-msgstr ""
+msgstr "Heepem"
 
 msgid "Coozactim"
-msgstr ""
+msgstr "Coozactim"
 
 msgid "Hap"
-msgstr ""
+msgstr "Hap"
 
 msgid "Zaamth"
-msgstr ""
+msgstr "Zaamth"
 
 msgid "Yay Hapi Hanopas"
-msgstr ""
+msgstr "Yay Hapi Hanopas"
 
 msgid "Caanooj Haantificaö"
-msgstr ""
+msgstr "Caanooj Haantificaö"
 
 msgid "Naapxah"
-msgstr ""
+msgstr "Naapxah"
 
 msgid "Hiasim"
-msgstr ""
+msgstr "Hiasim"
 
 msgid "Coamc"
-msgstr ""
+msgstr "Coamc"
 
 msgid "Coohaamc"
-msgstr ""
+msgstr "Coohaamc"
 
 msgid "Coam'c"
-msgstr ""
+msgstr "Coam'c"
 
 msgid "Caamooiilcooj"
-msgstr ""
+msgstr "Caamooiilcooj"
 
 msgid "Camoilcoj"
-msgstr ""
+msgstr "Camoilcoj"
 
 msgid "Quetoh"
-msgstr ""
+msgstr "Quetoh"
 
 msgid "Hazoj Cöiiqui"
-msgstr ""
+msgstr "Hazoj Cöiiqui"
 
 msgid "Hazoj Köii"
-msgstr ""
+msgstr "Hazoj Köii"
 
 msgid "Hee"
-msgstr ""
+msgstr "Hee"
