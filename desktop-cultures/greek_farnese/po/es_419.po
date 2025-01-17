@@ -2,182 +2,184 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-12-02 12:46+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Alexander V. Wolf <alex.v.wolf@gmail.com>, 2024\n"
-"Language-Team: English (United States) (https://app.transifex.com/stellarium/"
-"teams/80998/en_US/)\n"
+"Last-Translator: Alejandro Moctezuma <moctezumaalejandro25@gmail.com>, 2025\n"
+"Language-Team: Spanish (Latin America) (https://app.transifex.com/stellarium/"
+"teams/80998/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_419\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
 
 # Sky culture name
 msgid "Greek (Farnese + Almagest)"
-msgstr "Greek (Farnese + Almagest)"
+msgstr "‎Griego (Farneso + Almagesto)‎"
 
 msgid "Bird"
-msgstr "Bird"
+msgstr "Pájaro"
 
 msgid "Perseus"
-msgstr "Perseus"
+msgstr "Perseo"
 
 msgid "The nebulous star to the rear of the sting"
-msgstr "The nebulous star to the rear of the sting"
+msgstr "‎La ‎‎estrella‎‎ nebulosa en la parte trasera del aguijón"
 
 msgid "The nebulous mass on the right hand"
-msgstr "The nebulous mass on the right hand"
+msgstr "La masa nebulosa en la mano derecha"
 
 msgid "The star on the place where the back joins [the horse's body]"
-msgstr "The star on the place where the back joins [the horse's body]"
+msgstr ""
+"La estrella en el lugar donde la espalda se une [al cuerpo del caballo]"
 
 msgid "The middle of the nebulous mass in the chest, called Praesepe"
-msgstr "The middle of the nebulous mass in the chest, called Praesepe"
+msgstr "La mitad de la masa nebulosa en el pecho, llamada Praesepe"
 
 msgid "Crab"
-msgstr "Crab"
+msgstr "Cangrejo"
 
 msgid "Dog"
-msgstr "Dog"
+msgstr "Perro"
 
 msgid "Horse"
-msgstr "Horse"
+msgstr "Caballo"
 
 msgid "Arrow"
-msgstr "Arrow"
+msgstr "Flecha"
 
 msgid "Raven"
-msgstr "Raven"
+msgstr "Cuervo"
 
 msgid "Eagle"
-msgstr "Eagle"
+msgstr "Águila"
 
 msgid "Scorpion"
-msgstr "Scorpion"
+msgstr "Escorpio"
 
 msgid "Twins"
-msgstr "Twins"
+msgstr "Gemelos"
 
 msgid "Triangle"
-msgstr "Triangle"
+msgstr "Triángulo"
 
 msgid "Lion"
-msgstr "Lion"
+msgstr "León"
 
 msgid "Beast"
-msgstr "Beast"
+msgstr "Bestia"
 
 msgid "Dragon"
-msgstr "Dragon"
+msgstr "Dragón"
 
 msgid "King Kepheus"
-msgstr "King Kepheus"
+msgstr "Rey Cefeo"
 
 msgid "Ploughman"
-msgstr "Ploughman"
+msgstr "Arador"
 
 msgid "Crown"
-msgstr "Crown"
+msgstr "Corona"
 
 msgid "Kneeler"
-msgstr "Kneeler"
+msgstr "Reclinatorio"
 
 msgid "Lyre"
-msgstr "Lyre"
+msgstr "Lira"
 
 msgid "Queen Kassiepeia"
-msgstr "Queen Kassiepeia"
+msgstr "Reina Casiopea"
 
 msgid "Charioteer"
-msgstr "Charioteer"
+msgstr "Auriga"
 
 msgid "Serpent Bearer"
-msgstr "Serpent Bearer"
+msgstr "Portador de la serpiente"
 
 msgid "Snake"
-msgstr "Snake"
+msgstr "Serpiente"
 
 msgid "Dolphin"
-msgstr "Dolphin"
+msgstr "Delfín"
 
 msgid "Bust [of a Horse]"
-msgstr "Bust [of a Horse]"
+msgstr "Busto [de un Caballo]"
 
 msgid "Princess Andromeda"
-msgstr "Princess Andromeda"
+msgstr "Princesa Andrómeda"
 
 msgid "Ram"
-msgstr "Ram"
+msgstr "Carnero"
 
 msgid "Bull"
-msgstr "Bull"
+msgstr "Toro"
 
 msgid "Maiden"
-msgstr "Maiden"
+msgstr "Doncella"
 
 msgid "Claws [of Scorpion]"
-msgstr "Claws [of Scorpion]"
+msgstr "Garras [de Escorpio]"
 
 msgid "Archer"
-msgstr "Archer"
+msgstr "Arquero"
 
 msgid "The One with the Goat's Horn"
-msgstr "The One with the Goat's Horn"
+msgstr "El del Cuerno de la Cabra"
 
 msgid "Water-carrier"
-msgstr "Water-carrier"
+msgstr "Portador del Agua"
 
 msgid "Fishes"
-msgstr "Fishes"
+msgstr "Peces"
 
 msgid "Sea Monster"
-msgstr "Sea Monster"
+msgstr "Monstruo marino"
 
 msgid "Hero Orion"
-msgstr "Hero Orion"
+msgstr "Héroe Orión"
 
 msgid "River"
-msgstr "River"
+msgstr "Río"
 
 msgid "Hare"
-msgstr "Hare"
+msgstr "Liebre"
 
 msgid "The Ship Argo"
-msgstr "The Ship Argo"
+msgstr "La nave Argo"
 
 msgid "Water Snake"
-msgstr "Water Snake"
+msgstr "Serpiente marina"
 
 msgid "Vessel"
-msgstr "Vessel"
+msgstr "Barco"
 
 msgid "Kentaur"
-msgstr "Kentaur"
+msgstr "Centauro"
 
 msgid "Altar"
 msgstr "Altar"
 
 msgid "Southern Crown"
-msgstr "Southern Crown"
+msgstr "Corona Austral"
 
 msgid "Southern Fish"
-msgstr "Southern Fish"
+msgstr "Pez Austral"
 
 msgid "The Lock [in Leo]"
-msgstr "The Lock [in Leo]"
+msgstr "La Cerradura [en Leo]"
 
 msgid "φάτνη (Manger)"
-msgstr "φάτνη (Manger)"
+msgstr "φάτνη (Pesebre)"
 
 msgid "Πλειάδες (Pleiades)"
-msgstr "Πλειάδες (Pleiades)"
+msgstr "Πλειάδες (Pléyades)"
 
 msgid "Tau 30-33"
 msgstr "Tau 30-33"
 
 msgid "ʿΥάδες (Hyades)"
-msgstr "ʿΥάδες (Hyades)"
+msgstr "ʿΥάδες (Híades)"
 
 msgid "Tau 11-15"
 msgstr "Tau 11-15"
@@ -192,16 +194,16 @@ msgid "sco 22"
 msgstr "sco 22"
 
 msgid "Small She-Bear"
-msgstr "Small She-Bear"
+msgstr "Osa Pequeña"
 
 msgid "Great She-Bear"
-msgstr "Great She-Bear"
+msgstr "Osa Grande"
 
 msgid "Left Hand of the Atlas Statue"
-msgstr "Left Hand of the Atlas Statue"
+msgstr "‎Mano izquierda de la estatua de Atlas‎"
 
 msgid "Right Hand of the Atlas Statue"
-msgstr "Right Hand of the Atlas Statue"
+msgstr "‎Mano derecha de la estatua de Atlas‎"
 
 msgid "special feature: unclear"
-msgstr "special feature: unclear"
+msgstr "función especial: no clara"
