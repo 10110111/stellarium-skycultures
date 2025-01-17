@@ -2,72 +2,73 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-12-02 12:46+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Daniel Alomar <daniel.adastra@gmail.com>, 2024\n"
-"Language-Team: Catalan (https://app.transifex.com/stellarium/teams/80998/"
-"ca/)\n"
+"Last-Translator: Alejandro Moctezuma <moctezumaalejandro25@gmail.com>, 2025\n"
+"Language-Team: Spanish (Latin America) (https://app.transifex.com/stellarium/"
+"teams/80998/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ca\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_419\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
 
 # Sky culture name
 msgid "Maya"
-msgstr "Maia"
+msgstr "Maya"
 
 msgid "Scorpion"
-msgstr "Escorpí"
+msgstr "Escorpio"
 
 msgid "Snake"
-msgstr "Serp"
+msgstr "Serpiente"
 
 msgid "Hole-backed Caiman"
-msgstr "Caiman amb l'esquena foradada"
+msgstr "Caimán con orificio"
 
 msgid "Turtle"
 msgstr "Tortuga"
 
 msgid "Primordial Fire"
-msgstr "Foc primordial"
+msgstr "Fuego primordial"
 
 msgid "Peccaries"
-msgstr ""
+msgstr "Pecaríes"
 
 msgid "Shark"
-msgstr "Tauró"
+msgstr "Tiburón"
 
 msgid "Paddler Gods"
-msgstr "Deus remers"
+msgstr "Dioses palistas"
 
 msgid "Bat"
-msgstr "Ratpenat"
+msgstr "Murciélago"
 
 msgid "Owl"
-msgstr "Mussol"
+msgstr "Búho"
 
 msgid "Vulture"
-msgstr "Voltor"
+msgstr "Buitre"
 
 msgid "Death"
-msgstr "Mort"
+msgstr "Muerte"
 
 msgid "Jaguar"
 msgstr "Jaguar"
 
 msgid "Toad"
-msgstr "Gripau"
+msgstr "Sapo"
 
 msgid "Single Star"
-msgstr "Estrela única"
+msgstr "Estrella sencilla"
 
 msgid "Two brilliant ones"
-msgstr "Dues de brillants"
+msgstr "Dos brillantes"
 
 msgid "Corner Star"
-msgstr "Estrela cantonera"
+msgstr "Estrella esquinera"
 
 #. TRANSLATORS: Native name of Venus in Maya culture
 msgid "Bright Star"
-msgstr "Estrela brillant"
+msgstr "Estrella brillante"
