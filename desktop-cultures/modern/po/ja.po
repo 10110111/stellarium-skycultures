@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2024-12-02 12:46+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Josef S, 2023\n"
+"Last-Translator: tommy <tmhrozw@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/stellarium/teams/80998/"
 "ja/)\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # Sky culture name
 msgid "Modern"
-msgstr ""
+msgstr "現代"
 
 #. TRANSLATORS: Proper name of star 14 Andromedae
 #. TRANSLATORS: https://en.wikipedia.org/wiki/14_Andromedae
@@ -1000,10 +1000,10 @@ msgid "Sadachbia"
 msgstr "サドアクビア"
 
 msgid "Sadalachbia"
-msgstr ""
+msgstr "サダラクビア"
 
 msgid "Sadachiba"
-msgstr ""
+msgstr "サダクバ"
 
 msgid "Skat"
 msgstr "スカット"
@@ -1054,13 +1054,13 @@ msgid "Altair"
 msgstr "アルタイル"
 
 msgid "Atair"
-msgstr ""
+msgstr "アタイル"
 
 msgid "Alshain"
 msgstr "アルシャイン"
 
 msgid "Alschairn"
-msgstr ""
+msgstr "アルスカイルン"
 
 msgid "Tarazed"
 msgstr "タラゼド"
@@ -1081,7 +1081,7 @@ msgid "Al Thalimain II"
 msgstr "アル・タリマインII"
 
 msgid "Althalimain"
-msgstr ""
+msgstr "アルタリマイン"
 
 msgid "Okab"
 msgstr "オカブ"
@@ -1168,7 +1168,7 @@ msgid "Menkalinan"
 msgstr "メンカリナン"
 
 msgid "Menkarlina"
-msgstr ""
+msgstr "メンカルリナ"
 
 msgid "Hassaleh"
 msgstr "ハッサレー"
@@ -1198,7 +1198,7 @@ msgid "Alanz"
 msgstr "アランズ"
 
 msgid "Al Anz"
-msgstr ""
+msgstr "アル・アンズ"
 
 msgid "Haedus II"
 msgstr "ヘドゥスII"
@@ -1207,7 +1207,7 @@ msgid "Mahasim"
 msgstr "マハシム"
 
 msgid "Bogardus"
-msgstr ""
+msgstr "ボガルドゥス"
 
 msgid "Alhiba II"
 msgstr "アルヒバII"
@@ -1249,7 +1249,7 @@ msgid "Andrews' star"
 msgstr "アンドリュー星"
 
 msgid "Prijipati"
-msgstr ""
+msgstr "プリジパティ"
 
 msgid "Nekkar"
 msgstr "ネッカル"
@@ -1297,7 +1297,7 @@ msgid "Asellus Secundus"
 msgstr "アセルス・セクンドゥス"
 
 msgid "Asellus Secondus"
-msgstr ""
+msgstr "アセルス・セコンドゥス"
 
 msgid "Asellus Tertius"
 msgstr "アセルス・テルティウス"
@@ -1327,7 +1327,7 @@ msgid "Asellus Borealis"
 msgstr "アセルス・ボレアリス"
 
 msgid "Asellus Australis"
-msgstr "アルセス・アウストラリス"
+msgstr "アセルス・アウストラリス"
 
 msgid "Tegmine"
 msgstr "テグミン"
@@ -1402,10 +1402,10 @@ msgid "Alwazn"
 msgstr "アルワズン"
 
 msgid "Al Wazor"
-msgstr ""
+msgstr "アル・ワゾル"
 
 msgid "Wezea"
-msgstr ""
+msgstr "ウェゼア"
 
 msgid "Adhara"
 msgstr "アダラ"
@@ -1417,7 +1417,7 @@ msgid "Furud"
 msgstr "フルド"
 
 msgid "Phurad"
-msgstr ""
+msgstr "フラド"
 
 msgid "Aludra"
 msgstr "アルドラ"
@@ -1429,10 +1429,10 @@ msgid "Al Zara"
 msgstr "アル・ザラ"
 
 msgid "Nganurganity"
-msgstr ""
+msgstr "ンガヌルガニティ"
 
 msgid "Winter Albireo"
-msgstr ""
+msgstr "冬のアルビレオ"
 
 msgid "Elgomaisa"
 msgstr "エルゴマイサ"
@@ -1462,7 +1462,7 @@ msgid "Giedi"
 msgstr "ギエディ"
 
 msgid "Al Giedi Prima"
-msgstr ""
+msgstr "アル・ギエディ・プリマ"
 
 msgid "Algedi"
 msgstr "アルゲディ"
@@ -1471,7 +1471,7 @@ msgid "Secunda Giedi"
 msgstr "セクンダ・ギエディ"
 
 msgid "Al Giedi"
-msgstr ""
+msgstr "アル・ギエディ"
 
 msgid "Dabih"
 msgstr "ダビー"
@@ -1492,10 +1492,10 @@ msgid "Deneb Algiedi"
 msgstr "デネブ・アルギエディ"
 
 msgid "Scheddi"
-msgstr ""
+msgstr "スケッディ"
 
 msgid "Deneb al Giedi"
-msgstr ""
+msgstr "デネブ・アル・ギエディ"
 
 msgid "Alshat"
 msgstr "アルサト"
@@ -1504,7 +1504,7 @@ msgid "Al Shat"
 msgstr "アル・サト"
 
 msgid "Yen"
-msgstr ""
+msgstr "イェン"
 
 msgid "Suhel"
 msgstr "スヘル"
@@ -1543,10 +1543,10 @@ msgid "Caph"
 msgstr "カフ"
 
 msgid "Al Sanam al Nakah"
-msgstr ""
+msgstr "アル・サナム・アル・ナカ"
 
 msgid "Chaph"
-msgstr ""
+msgstr "カフ"
 
 msgid "Ruchbah"
 msgstr "ルクバー"
@@ -1624,10 +1624,10 @@ msgid "Baten Kentaurus"
 msgstr "バテン・ケンタウルス"
 
 msgid "Al Nair al Kentaurus"
-msgstr ""
+msgstr "アル・ナイル・アル・ケンタウルス"
 
 msgid "Haratan"
-msgstr ""
+msgstr "ハラタン"
 
 msgid "Przybylski's Star"
 msgstr "プジビルスキー星"
@@ -1639,7 +1639,7 @@ msgid "Popper's Star"
 msgstr "ポッパーの星"
 
 msgid "Ke Kwan"
-msgstr ""
+msgstr "ケ・クワン"
 
 msgid "Alderamin"
 msgstr "アルデラミン"
@@ -1717,7 +1717,7 @@ msgid "Kafalgidma"
 msgstr "カファルギドマ"
 
 msgid "Alkaffaljidhina"
-msgstr ""
+msgstr "アルカフアルジディナ"
 
 msgid "Deneb Algenubi"
 msgstr "デネブ・アルゲヌビ"
@@ -1729,7 +1729,7 @@ msgid "Schemali"
 msgstr "シェマリ"
 
 msgid "Baten Kaitos Shemali"
-msgstr ""
+msgstr "バテン・カイトス・シェマリ"
 
 msgid "Menkab"
 msgstr "メンカブ"
@@ -1813,7 +1813,7 @@ msgid "Diadem"
 msgstr "ディアデム"
 
 msgid "Diadema"
-msgstr ""
+msgstr "ディアデマ"
 
 msgid "Kissin"
 msgstr "キシン"
@@ -1852,7 +1852,7 @@ msgid "Blaze Star"
 msgstr "火炎星(ブレーズ・スター)"
 
 msgid "Kamuy"
-msgstr ""
+msgstr "カムイ"
 
 msgid "Alchiba"
 msgstr "アルキバ"
@@ -1879,7 +1879,7 @@ msgid "Algorab"
 msgstr "アルゴラブ"
 
 msgid "Algorel"
-msgstr ""
+msgstr "アルゴレル"
 
 msgid "Kraz"
 msgstr "クラズ"
@@ -1924,10 +1924,10 @@ msgid "Arrioph"
 msgstr "アリオフ"
 
 msgid "Deneb el Adige"
-msgstr ""
+msgstr "デネブ・エル・アディゲ"
 
 msgid "Deneb Cygni"
-msgstr ""
+msgstr "デネブ・シグニ"
 
 msgid "Albireo"
 msgstr "アルビレオ"
@@ -1954,10 +1954,10 @@ msgid "Azelfage"
 msgstr "アゼルファゲ"
 
 msgid "Ruchba"
-msgstr "ルクバ"
+msgstr "ルクフバ"
 
 msgid "Rucba"
-msgstr ""
+msgstr "ルクバ"
 
 msgid "Bessel's Star"
 msgstr "ベッセル星"
@@ -2029,7 +2029,7 @@ msgid "Alwaid"
 msgstr "アルワイド"
 
 msgid "Asuia"
-msgstr ""
+msgstr "アスイア"
 
 msgid "Eltanin"
 msgstr "エルタニン"
@@ -2041,7 +2041,7 @@ msgid "Taurt"
 msgstr "タウルト"
 
 msgid "Eltamin"
-msgstr ""
+msgstr "エルタミン"
 
 msgid "Altais"
 msgstr "アルタイス"
@@ -2056,10 +2056,10 @@ msgid "Nodus Secundus"
 msgstr "ノドゥス・セクンドゥス"
 
 msgid "Aldib"
-msgstr ""
+msgstr "アルディブ"
 
 msgid "Taïs"
-msgstr ""
+msgstr "タイス"
 
 msgid "Edasich"
 msgstr "エダシク"
@@ -2068,7 +2068,7 @@ msgid "Ed Asich"
 msgstr "エド・アシク"
 
 msgid "Al Dhihi"
-msgstr ""
+msgstr "アル・ディイ"
 
 msgid "Giausar"
 msgstr "ギャウサル"
@@ -2089,13 +2089,13 @@ msgid "Grumium"
 msgstr "グルミウム"
 
 msgid "Genam"
-msgstr ""
+msgstr "ゲナム"
 
 msgid "Nodus I"
 msgstr "ノドゥスI"
 
 msgid "Juza"
-msgstr ""
+msgstr "ユザ"
 
 msgid "Kuma"
 msgstr "クマ"
@@ -2146,7 +2146,7 @@ msgid "Dhibain"
 msgstr "ディバイン"
 
 msgid "Aldhibain"
-msgstr ""
+msgstr "アルディバイン"
 
 msgid "Adfar Aldib I"
 msgstr "アドファル・アルディブI"
@@ -2185,7 +2185,7 @@ msgid "Dhalim"
 msgstr "ダリム"
 
 msgid "Kursa"
-msgstr ""
+msgstr "クルサ"
 
 msgid "Zaurak"
 msgstr "ザウラク"
@@ -2212,7 +2212,7 @@ msgid "Theemin"
 msgstr "テーミン"
 
 msgid "Theemini"
-msgstr ""
+msgstr "テーミニ"
 
 msgid "Beemim"
 msgstr "ベーミン"
@@ -2230,7 +2230,7 @@ msgid "Anchat"
 msgstr "アンカト"
 
 msgid "An Anchat al Nahr"
-msgstr ""
+msgstr "アン・アンカト・アル・ナル"
 
 msgid "Beemim III"
 msgstr "ベーミンIII"
@@ -2273,7 +2273,7 @@ msgstr "ポルックス"
 
 #. TRANSLATORS: Added context to avoid conflict with constellation name
 msgid "Hercules [star]"
-msgstr ""
+msgstr "ヘルクレス [星]"
 
 msgid "Alhena"
 msgstr "アルヘナ"
@@ -2459,7 +2459,7 @@ msgid "Kabeleced"
 msgstr "カベレケド"
 
 msgid "Al Kalb al Asad"
-msgstr ""
+msgstr "アル・カルブ・アル・アサド"
 
 msgid "Deneb Aleet"
 msgstr "デネブ・アレート"
@@ -2510,7 +2510,7 @@ msgid "Ras Elased Borealis"
 msgstr "ラス・エルアセド・ボレアリス"
 
 msgid "Rassalas"
-msgstr ""
+msgstr "ラッサラス"
 
 msgid "Subra"
 msgstr "スブラ"
@@ -2525,7 +2525,7 @@ msgid "Ras Elased"
 msgstr "ラス・エルアセド"
 
 msgid "Asad Australis"
-msgstr ""
+msgstr "アサド・アウストラリス"
 
 msgid "Al Minlear al Asad"
 msgstr "アル・ミンレアル・アル・アサド"
@@ -2543,7 +2543,7 @@ msgid "Klemola's Star"
 msgstr "クレモラの星"
 
 msgid "Tsze Tseang"
-msgstr ""
+msgstr "ツー・ツェアン (Tsze Tseang)"
 
 msgid "Praecipua"
 msgstr "プラエキプア"
@@ -2573,7 +2573,7 @@ msgid "Zubenelgenubi"
 msgstr "ズベネルゲヌビ"
 
 msgid "Zuben el Genubi"
-msgstr ""
+msgstr "ズベン・エル・ゲヌビ"
 
 msgid "Zuben Elgenubi"
 msgstr "ズベン・エルゲヌビ"
@@ -2591,7 +2591,7 @@ msgid "Zuben Elschemali"
 msgstr "ズベン・エルスケマリ"
 
 msgid "Zubenelchemale"
-msgstr ""
+msgstr "ズベネルケマレ"
 
 msgid "Brachium"
 msgstr "ブラキウム"
@@ -2603,13 +2603,13 @@ msgid "Cornu"
 msgstr "コルヌ"
 
 msgid "Zubenalgubi"
-msgstr ""
+msgstr "ズベナルグビ"
 
 msgid "Zuben Elakribi"
 msgstr "ズベン・エルアクリビ"
 
 msgid "Mulu-Lizi"
-msgstr ""
+msgstr "ムル=リジ"
 
 msgid "Zubenelhakrabi"
 msgstr "ズベネルハクラビ"
@@ -2621,16 +2621,16 @@ msgid "Zuben Hakrabi"
 msgstr "ズベン・ハクラビ"
 
 msgid "Methuselah star"
-msgstr ""
+msgstr "メトシェラ星"
 
 msgid "Zuban al Kravi"
-msgstr ""
+msgstr "ズバン・アル・クラヴィ"
 
 msgid "Men"
-msgstr ""
+msgstr "メン"
 
 msgid "KeKouan"
-msgstr ""
+msgstr "ケコウアン"
 
 msgid "Alsciaukat"
 msgstr "アルスキアウカト"
@@ -2648,7 +2648,7 @@ msgid "Fidis"
 msgstr "フィディス"
 
 msgid "Harp star"
-msgstr ""
+msgstr "ハープスター"
 
 msgid "Sheliak"
 msgstr "シェリアク"
@@ -2657,10 +2657,10 @@ msgid "Sulafat"
 msgstr "スラファト"
 
 msgid "Jugum"
-msgstr "ジュグム"
+msgstr "ユグム"
 
 msgid "Sulaphat"
-msgstr ""
+msgstr "スラファト"
 
 msgid "Aladfar"
 msgstr "アラドファル"
@@ -2702,7 +2702,7 @@ msgid "Kelb Alrai"
 msgstr "ケルブ・アルライ"
 
 msgid "Cheleb"
-msgstr ""
+msgstr "チェレブ"
 
 msgid "Yed Prior"
 msgstr "イェッド・プリオル"
@@ -2711,7 +2711,7 @@ msgid "Yed Posterior"
 msgstr "イェッド・ポステリオル"
 
 msgid "Yed Post"
-msgstr ""
+msgstr "イェッド・ポスト"
 
 msgid "Sabik"
 msgstr "サビク"
@@ -2768,7 +2768,7 @@ msgid "Hatysa"
 msgstr "ハチサ"
 
 msgid "Nair al Saif"
-msgstr ""
+msgstr "ナイル・アル・サイフ"
 
 msgid "Thabit"
 msgstr "タビト"
@@ -2789,7 +2789,7 @@ msgid "Saif al Jabbar"
 msgstr "サイフ・アル・ヤバール"
 
 msgid "Algjebbah"
-msgstr ""
+msgstr "アルグジェッバハ"
 
 msgid "Trapezium"
 msgstr "トラペジウム"
@@ -2855,7 +2855,7 @@ msgid "Homam"
 msgstr "ホマム"
 
 msgid "Al Hammam"
-msgstr ""
+msgstr "アル・ハッマム"
 
 msgid "Homan"
 msgstr "ホーマン"
@@ -2936,7 +2936,7 @@ msgid "Gorgonea Tertia"
 msgstr "ゴルゴネア・テルティア"
 
 msgid "Gorgonea Terti"
-msgstr ""
+msgstr "ゴルゴネア・テルティ"
 
 msgid "Gorgonea Quarta"
 msgstr "ゴルゴネア・クアルタ"
@@ -2954,7 +2954,7 @@ msgid "Bidelman's Peculiar Star"
 msgstr "ビデルマンの奇妙な星"
 
 msgid "Kerb"
-msgstr ""
+msgstr "ケルブ"
 
 msgid "Ankaa"
 msgstr "アンカー"
@@ -2996,13 +2996,13 @@ msgid "Alrisha"
 msgstr "アルリサ"
 
 msgid "Okda"
-msgstr ""
+msgstr "オクダ"
 
 msgid "Kaitain"
-msgstr ""
+msgstr "カイタイン"
 
 msgid "Al Rischa"
-msgstr ""
+msgstr "アル・リスカ"
 
 msgid "van Maanen's Star"
 msgstr "ファン・マーネン星"
@@ -3104,7 +3104,7 @@ msgid "El Nasl"
 msgstr "エル・ナスル"
 
 msgid "Alnasr"
-msgstr ""
+msgstr "アルナスル"
 
 msgid "Kaus Media"
 msgstr "カウス・メディア"
@@ -3287,7 +3287,7 @@ msgid "Jabhat Acrabi I"
 msgstr "ジャバト・アクラビ I"
 
 msgid "Jabhat al Akrab"
-msgstr ""
+msgstr "ジャバト・アル・アクラブ"
 
 msgid "Jabhat Acrabi II"
 msgstr "ジャバト・アクラビ II"
@@ -3305,7 +3305,7 @@ msgid "Cor Serpentis"
 msgstr "コル・セルペンティス"
 
 msgid "Unuk al Hay"
-msgstr ""
+msgstr "ウヌク・アル・ハイ"
 
 msgid "Unuk Elhaia"
 msgstr "ウヌク・エルハイア"
@@ -3314,7 +3314,7 @@ msgid "Alya"
 msgstr "アリア"
 
 msgid "Chow"
-msgstr ""
+msgstr "コウ"
 
 msgid "Nasak Shamiya I"
 msgstr "ナサク・サミヤI"
@@ -3326,7 +3326,7 @@ msgid "Nasak Yamani I"
 msgstr "ナサク・ヤミニI"
 
 msgid "Tsin"
-msgstr ""
+msgstr "トゥシン"
 
 msgid "Nasak Yamani II"
 msgstr "ナサク・ヤミニII"
@@ -3338,7 +3338,7 @@ msgid "Gudja"
 msgstr "グドゥヤ"
 
 msgid "Alava"
-msgstr ""
+msgstr "アラヴァ"
 
 msgid "Cor Tauri"
 msgstr "コル・タウリ"
@@ -3356,7 +3356,7 @@ msgid "Nath"
 msgstr "ナト"
 
 msgid "Al Nath"
-msgstr ""
+msgstr "アル・ナト"
 
 msgid "Ain"
 msgstr "アイン"
@@ -3401,7 +3401,7 @@ msgid "Hyadum I"
 msgstr "ヒアデュムI"
 
 msgid "Hyadum Primus"
-msgstr ""
+msgstr "ヒアデュム・プリムス"
 
 msgid "Secunda Hyadum"
 msgstr "セクンダ・ヒアデュム"
@@ -3443,7 +3443,7 @@ msgid "Tianguan"
 msgstr "ティアングアン"
 
 msgid "Alheka"
-msgstr ""
+msgstr "アルヘカ"
 
 msgid "Mothallah"
 msgstr "メタラー"
@@ -3458,10 +3458,10 @@ msgid "Atria"
 msgstr "アトリア"
 
 msgid "Rasalmudallah"
-msgstr ""
+msgstr "ラサルムダッラ"
 
 msgid "Rasalmothallah"
-msgstr ""
+msgstr "ラサルモタッラ"
 
 msgid "Mizan"
 msgstr "ミザン"
@@ -3485,7 +3485,7 @@ msgid "Phecda"
 msgstr "フェクダ"
 
 msgid "Phekda"
-msgstr ""
+msgstr "フェクダ"
 
 msgid "Megrez"
 msgstr "メグレズ"
@@ -3497,7 +3497,7 @@ msgid "Alioth"
 msgstr "アリオト"
 
 msgid "Aliath"
-msgstr ""
+msgstr "アリアト"
 
 msgid "Mizar"
 msgstr "ミザール"
@@ -3584,7 +3584,7 @@ msgid "Al Kaprah"
 msgstr "アル・カプラー"
 
 msgid "Talitha Australis"
-msgstr ""
+msgstr "タリタ・アウストラリス"
 
 msgid "Althiba II"
 msgstr "アルティーバII"
@@ -3638,7 +3638,7 @@ msgid "Mismar"
 msgstr "ミスマル"
 
 msgid "Star of Arcady"
-msgstr ""
+msgstr "アルカディの星"
 
 msgid "Kochab"
 msgstr "コカブ"
@@ -3695,7 +3695,7 @@ msgid "Alsephina"
 msgstr "アルセフィナ"
 
 msgid "Koo She"
-msgstr ""
+msgstr "クー・シー (弓矢)"
 
 msgid "Azimech"
 msgstr "アジメク"
@@ -3728,10 +3728,10 @@ msgid "Almuredin"
 msgstr "アルムレディン"
 
 msgid "Provindemiator"
-msgstr ""
+msgstr "プロヴィンデミアトル"
 
 msgid "Protrigetrix"
-msgstr ""
+msgstr "プロトリゲトリクス"
 
 msgid "Zaniah"
 msgstr "ザニア"
@@ -3746,7 +3746,7 @@ msgid "Auva"
 msgstr "アウバ"
 
 msgid "Khambalia"
-msgstr ""
+msgstr "クハムバリア"
 
 msgid "Kambalia"
 msgstr "カムバリア"

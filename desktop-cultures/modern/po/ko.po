@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2024-12-02 12:46+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: ysjbserver <ysjbserver@naver.com>, 2023\n"
+"Last-Translator: Kim H, 2024\n"
 "Language-Team: Korean (https://app.transifex.com/stellarium/teams/80998/"
 "ko/)\n"
 "MIME-Version: 1.0\n"
@@ -117,7 +117,7 @@ msgstr "노삭사"
 #. TRANSLATORS: Bubup is the Boonwurrung word for child.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Bubup"
-msgstr ""
+msgstr "HD 32383"
 
 #. TRANSLATORS: Proper name of star HD 152581
 #. TRANSLATORS: Mahsati Ganjavi (1089–1159) is one of the brightest shining
@@ -126,21 +126,21 @@ msgstr ""
 #. musical instruments.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Mahsati"
-msgstr ""
+msgstr "마하사티"
 
 #. TRANSLATORS: Proper name of star HD 148427
 #. TRANSLATORS: Timir means darkness in Bengali language, alluding to the star
 #. being far away in the darkness of space.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Timir"
-msgstr ""
+msgstr "티미르"
 
 #. TRANSLATORS: Proper name of star HD 49674
 #. TRANSLATORS: Nervia, adapted from Nervii, was a prominent Belgian Celtic
 #. tribe.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Nervia"
-msgstr ""
+msgstr "널비아"
 
 #. TRANSLATORS: Proper name of star HD 73534
 #. TRANSLATORS: Gakyid means happiness. Gross National Happiness is the
@@ -148,7 +148,7 @@ msgstr ""
 #. Bhutan's contributions to the world.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Gakyid"
-msgstr ""
+msgstr "HD 73534"
 
 #. TRANSLATORS: Proper name of star HD 63765
 #. TRANSLATORS: Tapecue means eternal path in Guarani and represents the Milky
@@ -156,7 +156,7 @@ msgstr ""
 #. return.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Tapecue"
-msgstr ""
+msgstr "테잎큐"
 
 #. TRANSLATORS: Proper name of star HD 206610
 #. TRANSLATORS: Bosona is the name given to the territory of Bosnia in the
@@ -164,7 +164,7 @@ msgstr ""
 #. the name of the Bosna river.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Bosona"
-msgstr ""
+msgstr "보소나"
 
 #. TRANSLATORS: Proper name of star HD 23079
 #. TRANSLATORS: Tupi is the name of the most populous Indigenous People living
@@ -179,7 +179,7 @@ msgstr "투피"
 #. in snakes, dragons, etc.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Gumala"
-msgstr ""
+msgstr "굼알라"
 
 #. TRANSLATORS: Proper name of star HD 30856
 #. TRANSLATORS: Mouhoun, also called Volta Noire, is the largest river in
@@ -187,14 +187,14 @@ msgstr ""
 #. areas it passes through.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Mouhoun"
-msgstr ""
+msgstr "무훈"
 
 #. TRANSLATORS: Proper name of star HD 136418
 #. TRANSLATORS: Nikawiy is the word for mother in the Indigenous Cree language
 #. of Canada.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Nikawiy"
-msgstr ""
+msgstr "니카위"
 
 #. TRANSLATORS: Proper name of star HD 164604
 #. TRANSLATORS: Pincoya is a female water spirit from southern Chilean
@@ -202,14 +202,14 @@ msgstr ""
 #. can live in the afterlife.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Pincoya"
-msgstr ""
+msgstr "핀코야"
 
 #. TRANSLATORS: Proper name of star HD 212771
 #. TRANSLATORS: Lion Rock is a lion-shaped peak overlooking Hong Kong and is a
 #. cultural symbol with deep respect from the local community.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Lionrock"
-msgstr ""
+msgstr "라이언록"
 
 #. TRANSLATORS: Proper name of star HD 173416
 #. TRANSLATORS: Xihe (羲和) is the goddess of the sun in the Chinese mythology
@@ -217,7 +217,7 @@ msgstr ""
 #. ancient China.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Xihe"
-msgstr ""
+msgstr "지헤"
 
 #. TRANSLATORS: Proper name of star HD 100655
 #. TRANSLATORS: Formosa is the historical name of Taiwan used in the 17th
@@ -232,14 +232,14 @@ msgstr "포모사"
 #. Marquez. Macondo is a fictional place where magic and reality are mixed.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Macondo"
-msgstr ""
+msgstr "마콘도"
 
 #. TRANSLATORS: Proper name of star HD 221287
 #. TRANSLATORS: Poerava is the word in the Cook Islands Maori language for a
 #. large mystical black pearl of utter beauty and perfection.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Poerava"
-msgstr ""
+msgstr "포에라바"
 
 #. TRANSLATORS: Proper name of star HD 75898
 #. TRANSLATORS: Stribor is God of winds in Slavic mythology, as well as a
@@ -247,7 +247,7 @@ msgstr ""
 #. Ago) by the Croatian author Ivana Brlić-Mažuranić.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Stribor"
-msgstr ""
+msgstr "스트리보"
 
 #. TRANSLATORS: Proper name of star BD-17 63
 #. TRANSLATORS: Felix Varela (1788–1853) was the first to teach science in
@@ -255,7 +255,7 @@ msgstr ""
 #. education for all, and began the experimental teaching of physics in Cuba.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Felixvarela"
-msgstr ""
+msgstr "펠릭스 바렐라"
 
 #. TRANSLATORS: Proper name of star HD 168746
 #. TRANSLATORS: Alasia is the first historically recorded name of Cyprus,
@@ -742,7 +742,7 @@ msgid "Canis Minor"
 msgstr "작은개"
 
 msgid "Hydra"
-msgstr "큰물뱀"
+msgstr "바다뱀자리"
 
 msgid "Crater"
 msgstr "컵"

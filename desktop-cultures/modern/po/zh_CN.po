@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2024-12-02 12:46+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Silas Wong <wsl98501@163.com>, 2023\n"
+"Last-Translator: 殳玮 孙 <itun@qq.com>, 2024\n"
 "Language-Team: Chinese (China) (https://app.transifex.com/stellarium/"
 "teams/80998/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -75,7 +75,7 @@ msgstr "塞万提斯 Cervantes"
 #. TRANSLATORS: Proper name of star upsilon Andromedae
 #. TRANSLATORS: https://en.wikipedia.org/wiki/Upsilon_Andromedae
 msgid "Titawin"
-msgstr "天大将军六"
+msgstr "天大将军六 Titawin"
 
 #. TRANSLATORS: Proper name of star xi Aquilae
 #. TRANSLATORS: https://en.wikipedia.org/wiki/Xi_Aquilae
@@ -772,19 +772,19 @@ msgid "Wei"
 msgstr "魏"
 
 msgid "Procyon"
-msgstr "南河三"
+msgstr "南河三 Procyon"
 
 msgid "Sirius"
-msgstr "天狼"
+msgstr "天狼 Sirius"
 
 msgid "Arcturus"
-msgstr "大角"
+msgstr "大角 Arcturus"
 
 msgid "Vega"
-msgstr "织女一"
+msgstr "织女一 Vega"
 
 msgid "Capella"
-msgstr "五车二"
+msgstr "五车二 Capella"
 
 msgid "Aldebaran"
 msgstr "毕宿五 Aldebaran"
@@ -802,13 +802,13 @@ msgid "Fomalhaut"
 msgstr "北落师门 Fomalhaut"
 
 msgid "Betelgeuse"
-msgstr "参宿四（猎户座α）"
+msgstr "参宿四 Betelgeuse"
 
 msgid "Rigel"
 msgstr "参宿七 Rigel"
 
 msgid "Canopus"
-msgstr "老人"
+msgstr "老人 Canopus"
 
 msgid "Bellatrix"
 msgstr "参宿五 Bellatrix"
@@ -1051,7 +1051,7 @@ msgid "Seat"
 msgstr "坟墓四 Seat"
 
 msgid "Altair"
-msgstr "河鼓二"
+msgstr "河鼓二 Altair"
 
 msgid "Atair"
 msgstr "Atair"
@@ -1207,7 +1207,7 @@ msgid "Mahasim"
 msgstr "五车四 Mahasim"
 
 msgid "Bogardus"
-msgstr ""
+msgstr "Bogardus"
 
 msgid "Alhiba II"
 msgstr "咸池三 Alhiba II"
@@ -1249,7 +1249,7 @@ msgid "Andrews' star"
 msgstr "安德鲁斯星 Andrews' star"
 
 msgid "Prijipati"
-msgstr "Prijipati"
+msgstr "八谷一 Prijipati"
 
 msgid "Nekkar"
 msgstr "七公增五 Nekkar"
@@ -1351,13 +1351,13 @@ msgid "Almalaf"
 msgstr "积尸增二 Almalaf"
 
 msgid "Zubanah"
-msgstr "轩辕增廿二 Zubanah"
+msgstr "轩辕增二十二 Zubanah"
 
 msgid "Piautos"
 msgstr "爟二 Piautos"
 
 msgid "Nahn"
-msgstr "轩辕增廿四 Nahn"
+msgstr "轩辕增二十四 Nahn"
 
 msgid "Cor Caroli"
 msgstr "常陈一 Cor Caroli"
@@ -1429,10 +1429,10 @@ msgid "Al Zara"
 msgstr "军市增五 Al Zara"
 
 msgid "Nganurganity"
-msgstr ""
+msgstr "弧矢增二 Nganurganity"
 
 msgid "Winter Albireo"
-msgstr ""
+msgstr "Winter Albireo"
 
 msgid "Elgomaisa"
 msgstr "Elgomaisa"
@@ -1465,7 +1465,7 @@ msgid "Al Giedi Prima"
 msgstr "Al Giedi Prima"
 
 msgid "Algedi"
-msgstr "牛宿二和牛宿增六（摩羯座α1和α2）"
+msgstr "牛宿二 Algedi"
 
 msgid "Secunda Giedi"
 msgstr "Secunda Giedi"
@@ -1519,7 +1519,7 @@ msgid "Aspidiske"
 msgstr "海石二 Aspidiske"
 
 msgid "Tureis"
-msgstr "弧矢增卅二Tureis"
+msgstr "弧矢增三十二Tureis"
 
 msgid "Turais"
 msgstr "Turais"
@@ -1639,7 +1639,7 @@ msgid "Popper's Star"
 msgstr "波普尔星 Popper's Star"
 
 msgid "Ke Kwan"
-msgstr "Ke Kwan"
+msgstr "骑官三 Ke Kwan"
 
 msgid "Alderamin"
 msgstr "天钩五 Alderamin"
@@ -1849,10 +1849,10 @@ msgid "Variabilis Coronae"
 msgstr "北冕座变星 Variabilis Coronae"
 
 msgid "Blaze Star"
-msgstr "北冕座T / 博雷兹星"
+msgstr "博雷兹星 Blaze Star"
 
 msgid "Kamuy"
-msgstr ""
+msgstr "Kamuy"
 
 msgid "Alchiba"
 msgstr "右辖 Alchiba"
@@ -1912,7 +1912,7 @@ msgid "Imai"
 msgstr "十字架四 Imai"
 
 msgid "Deneb"
-msgstr "天津四"
+msgstr "天津四 Deneb"
 
 msgid "Arided"
 msgstr "Arided"
@@ -1954,13 +1954,13 @@ msgid "Azelfage"
 msgstr "Azelfage"
 
 msgid "Ruchba"
-msgstr "天津增卅五"
+msgstr "天津增三十五 Ruchba"
 
 msgid "Rucba"
 msgstr "Rucba"
 
 msgid "Bessel's Star"
-msgstr "天津增廿九 Bessel's Star"
+msgstr "天津增二十九 Bessel's Star"
 
 msgid "Piazzi's Flying Star"
 msgstr "皮亚齐飞行之星 Piazzi's Flying Star"
@@ -1969,7 +1969,7 @@ msgid "Campbell's Star"
 msgstr "坎贝尔星 Campbell's Star"
 
 msgid "Campbell’s Hydrogen Star"
-msgstr "坎贝尔的氢星 Campbell’s Hydrogen Star"
+msgstr "坎贝尔氢星 Campbell’s Hydrogen Star"
 
 msgid "Revenant of the Swan"
 msgstr "天津增九 Revenant of the Swan"
@@ -2005,7 +2005,7 @@ msgid "Aldulfin"
 msgstr "败瓜一 Aldulfin"
 
 msgid "Deneb Dulfim"
-msgstr "败瓜一Deneb Dulfim"
+msgstr "败瓜一 Deneb Dulfim"
 
 msgid "Al Salib"
 msgstr "瓠瓜二 Al Salib"
@@ -2044,7 +2044,7 @@ msgid "Eltamin"
 msgstr "Eltamin"
 
 msgid "Altais"
-msgstr "天厨一(Altais)"
+msgstr "天厨一 Altais"
 
 msgid "Al Tais"
 msgstr "Al Tais"
@@ -2113,10 +2113,10 @@ msgid "Dziban I"
 msgstr "Dziban I"
 
 msgid "Dziban II"
-msgstr "女史增一 Dziban II"
+msgstr "Dziban II"
 
 msgid "Dsiban"
-msgstr "女史增一 Dsiban"
+msgstr "Dsiban"
 
 msgid "Al Dhih"
 msgstr "尚书增一 Al Dhih"
@@ -2273,7 +2273,7 @@ msgstr "北河三 Pollux"
 
 #. TRANSLATORS: Added context to avoid conflict with constellation name
 msgid "Hercules [star]"
-msgstr "Hercules [star]"
+msgstr "Hercules [恒星]"
 
 msgid "Alhena"
 msgstr "井宿三 Alhena"
@@ -2450,7 +2450,7 @@ msgid "Babcock's Star"
 msgstr "巴布科克星 Campbell's Star"
 
 msgid "Cor Leonis"
-msgstr "轩辕十四"
+msgstr "Cor Leonis"
 
 msgid "Rex"
 msgstr "Rex"
@@ -2471,7 +2471,7 @@ msgid "Al Geiba"
 msgstr "Al Geiba"
 
 msgid "Zosma"
-msgstr "西上相 Zosma"
+msgstr "太微右垣五 西上相 Zosma"
 
 msgid "Duhr"
 msgstr "Duhr"
@@ -2543,7 +2543,7 @@ msgid "Klemola's Star"
 msgstr "克莱莫拉星 Klemola's Star"
 
 msgid "Tsze Tseang"
-msgstr "Tsze Tseang"
+msgstr "太微右垣三 西次将 Tsze Tseang"
 
 msgid "Praecipua"
 msgstr "势四 Praecipua"
@@ -2570,7 +2570,7 @@ msgid "Zubenelgenubi I"
 msgstr "氐宿增七 Zubenelgenubi I"
 
 msgid "Zubenelgenubi"
-msgstr "氐宿一和氐宿增七（天秤座α）"
+msgstr "氐宿一 Zubenelgenubi"
 
 msgid "Zuben el Genubi"
 msgstr "Zuben el Genubi"
@@ -2579,7 +2579,7 @@ msgid "Zuben Elgenubi"
 msgstr "Zuben Elgenubi"
 
 msgid "Zubenelgenubi II"
-msgstr "氐宿一 Zubenelgenubi II"
+msgstr "Zubenelgenubi II"
 
 msgid "Zubeneschamali"
 msgstr "氐宿四 Zubeneschamali"
@@ -2621,16 +2621,16 @@ msgid "Zuben Hakrabi"
 msgstr "氐宿增十 Zuben Hakrabi"
 
 msgid "Methuselah star"
-msgstr ""
+msgstr "梅撒瑟拉星 Methuselah star"
 
 msgid "Zuban al Kravi"
-msgstr ""
+msgstr "西咸四 Zuban al Kravi"
 
 msgid "Men"
 msgstr "Men"
 
 msgid "KeKouan"
-msgstr "KeKouan"
+msgstr "骑官四 KeKouan "
 
 msgid "Alsciaukat"
 msgstr "上台增四 Alsciaukat"
@@ -2651,7 +2651,7 @@ msgid "Harp star"
 msgstr "Harp star"
 
 msgid "Sheliak"
-msgstr "渐台二(Sheliak)"
+msgstr "渐台二 Sheliak"
 
 msgid "Sulafat"
 msgstr "渐台三 Sulafat"
@@ -2711,7 +2711,7 @@ msgid "Yed Posterior"
 msgstr "天市右垣十 楚 Yed Posterior"
 
 msgid "Yed Post"
-msgstr "Yed Post"
+msgstr "勾陈增九 Yed Post"
 
 msgid "Sabik"
 msgstr "宋 Sabik"
@@ -2771,7 +2771,7 @@ msgid "Nair al Saif"
 msgstr "Nair al Saif"
 
 msgid "Thabit"
-msgstr "参宿增卅六 Thabit"
+msgstr "参宿增三十六 Thabit"
 
 msgid "Tabit"
 msgstr "参旗六 Tabit"
@@ -2780,7 +2780,7 @@ msgid "Mizan Batil I"
 msgstr "伐一 Mizan Batil I"
 
 msgid "Mizan Batil III"
-msgstr "参宿增卅五"
+msgstr "参宿增三十五 Mizan Batil III"
 
 msgid "Manica"
 msgstr "参旗三 Manica"
@@ -2792,7 +2792,7 @@ msgid "Algjebbah"
 msgstr "Algjebbah"
 
 msgid "Trapezium"
-msgstr "猎户四边形"
+msgstr "伐增二 Trapezium"
 
 msgid "Mizan Batil II"
 msgstr "伐二 Mizan Batil II"
@@ -2816,7 +2816,7 @@ msgid "Al Taj III"
 msgstr "参旗八 Al Taj III"
 
 msgid "Al Taj V"
-msgstr "参旗久 Al Taj V"
+msgstr "参旗九 Al Taj V"
 
 msgid "Becklin's Star"
 msgstr "贝克林星 Becklin's Star"
@@ -2918,16 +2918,16 @@ msgid "Menkib"
 msgstr "卷舌三 Menkib"
 
 msgid "Atik"
-msgstr "卷舌增七 Atik"
+msgstr "Atik"
 
 msgid "Ati"
-msgstr "Ati"
+msgstr "卷舌五 Ati"
 
 msgid "Alatik"
 msgstr "Alatik"
 
 msgid "Menkhib"
-msgstr "Menkhib"
+msgstr "卷舌四"
 
 msgid "Gorgonea Secunda"
 msgstr "积尸 Gorgonea Secunda"
@@ -3053,7 +3053,7 @@ msgid "Fum al Hui"
 msgstr "败臼增一 Fum al Hui"
 
 msgid "Naos"
-msgstr "弧矢增廿二 Naos"
+msgstr "弧矢增二十二 Naos"
 
 msgid "Suhail Hadar"
 msgstr "Suhail Hadar"
@@ -3131,7 +3131,7 @@ msgid "Al Thalimain"
 msgstr "Al Thalimain"
 
 msgid "Nunki"
-msgstr "斗宿四(Nunki)"
+msgstr "斗宿四 Nunki"
 
 msgid "Sadira"
 msgstr "Sadira"
@@ -3167,7 +3167,7 @@ msgid "Hamalwarid"
 msgstr "箕宿四  Hamalwarid"
 
 msgid "Ainalrami"
-msgstr "Ainalrami 建增六 "
+msgstr "建增六  Ainalrami"
 
 msgid "Ain al Rami I"
 msgstr "Ain al Rami I"
@@ -3332,7 +3332,7 @@ msgid "Nasak Yamani II"
 msgstr "天市右垣八 巴 Nasak Yamani II"
 
 msgid "Tweedledee and Tweedledum"
-msgstr "双胞胎 Tweedledee and Tweedledum"
+msgstr "双胞胎星 Tweedledee and Tweedledum"
 
 msgid "Gudja"
 msgstr "周增八 Gudja"
@@ -3536,7 +3536,7 @@ msgid "Muscida"
 msgstr "内阶一 Muscida"
 
 msgid "Groombridge 1830"
-msgstr "葛罗姆布里吉1830"
+msgstr "葛罗姆布里吉1830 Groombridge 1830"
 
 msgid "Flying Star"
 msgstr "飞行之星 Flying Star"
@@ -3641,10 +3641,10 @@ msgid "Star of Arcady"
 msgstr "Star of Arcady"
 
 msgid "Kochab"
-msgstr "北极二 帝 Kochab"
+msgstr "北极二 Kochab"
 
 msgid "Kocab"
-msgstr "帝 北极二 Kocab"
+msgstr "帝 Kocab"
 
 msgid "Pherkad"
 msgstr "太子Pherkad"
@@ -3671,7 +3671,7 @@ msgid "Akfa Farkadain"
 msgstr "勾陈四 Akfa Farkadain"
 
 msgid "Anwa Farkadain"
-msgstr "勾陈增九 Anwa Farkadain"
+msgstr "Anwa Farkadain"
 
 msgid "Regor"
 msgstr "天社一 Regor"
@@ -3704,10 +3704,10 @@ msgid "Alaraph"
 msgstr "Alaraph"
 
 msgid "Zavijava"
-msgstr "右执法 Zavijava"
+msgstr "太微右垣一 右执法 Zavijava"
 
 msgid "Minelauva"
-msgstr "太微左垣三 东次相 Minelauva"
+msgstr "Minelauva"
 
 msgid "Zavijah"
 msgstr "Alaraph"
@@ -3734,7 +3734,7 @@ msgid "Protrigetrix"
 msgstr "Protrigetrix"
 
 msgid "Zaniah"
-msgstr "左执法 Zaniah"
+msgstr "太微左垣一 左执法 Zaniah"
 
 msgid "Syrma"
 msgstr "亢宿二 Syrma"
@@ -3746,7 +3746,7 @@ msgid "Auva"
 msgstr "Auva"
 
 msgid "Khambalia"
-msgstr ""
+msgstr "亢宿四 Khambalia"
 
 msgid "Kambalia"
 msgstr "Kambalia"

@@ -2,21 +2,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-12-02 12:46+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Luigi Ghia <luigi.ghia@gmail.com>, 2024\n"
-"Language-Team: Italian (https://app.transifex.com/stellarium/teams/80998/"
-"it/)\n"
+"Last-Translator: Alejandro Moctezuma <moctezumaalejandro25@gmail.com>, 2025\n"
+"Language-Team: Spanish (Latin America) (https://app.transifex.com/stellarium/"
+"teams/80998/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: it\n"
+"Language: es_419\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
 "1 : 2;\n"
 
 # Sky culture name
 msgid "Modern"
-msgstr "Moderno"
+msgstr ""
 
 #. TRANSLATORS: Proper name of star 14 Andromedae
 #. TRANSLATORS: https://en.wikipedia.org/wiki/14_Andromedae
@@ -626,34 +626,34 @@ msgid "Natasha"
 msgstr "Natasha"
 
 msgid "Ursa Minor"
-msgstr "Orsa Minore"
+msgstr "Osa Menor"
 
 msgid "Ursa Major"
-msgstr "Orsa Maggiore"
+msgstr "Osa Mayor"
 
 msgid "Draco"
-msgstr "Drago"
+msgstr "Dragón"
 
 msgid "Cepheus"
 msgstr "Cefeo"
 
 msgid "Bootes"
-msgstr "Boote"
+msgstr "Boyero"
 
 msgid "Corona Borealis"
-msgstr "Corona Boreale"
+msgstr "Corona Borealis"
 
 msgid "Hercules"
-msgstr "Ercole"
+msgstr "Hercules"
 
 msgid "Lyra"
 msgstr "Lira"
 
 msgid "Cygnus"
-msgstr "Cigno"
+msgstr "Cisne"
 
 msgid "Cassiopeia"
-msgstr "Cassiopea"
+msgstr "Casiopea"
 
 msgid "Perseus"
 msgstr "Perseo"
@@ -665,106 +665,106 @@ msgid "Ophiuchus"
 msgstr "Ofiuco"
 
 msgid "Serpens"
-msgstr "Serpente"
+msgstr "Serpiente"
 
 msgid "Sagitta"
-msgstr "Freccia"
+msgstr "Sagitta"
 
 msgid "Aquila"
-msgstr "Aquila"
+msgstr "Águila"
 
 msgid "Delphinus"
-msgstr "Delfino"
+msgstr "Delphinus"
 
 msgid "Equuleus"
-msgstr "Cavallino"
+msgstr "Equuleus"
 
 msgid "Pegasus"
 msgstr "Pegaso"
 
 msgid "Andromeda"
-msgstr "Andromeda"
+msgstr "Andrómeda"
 
 msgid "Triangulum"
-msgstr "Triangolo"
+msgstr "Triángulo"
 
 msgid "Aries"
-msgstr "Ariete"
+msgstr "Aries"
 
 msgid "Taurus"
-msgstr "Toro"
+msgstr "Tauro"
 
 msgid "Gemini"
-msgstr "Gemelli"
+msgstr "Géminis"
 
 msgid "Cancer"
-msgstr "Cancro"
+msgstr "Cáncer"
 
 msgid "Leo"
-msgstr "Leone"
+msgstr "Leo"
 
 msgid "Virgo"
-msgstr "Vergine"
+msgstr "Virgo"
 
 msgid "Libra"
-msgstr "Bilancia"
+msgstr "Libra"
 
 msgid "Scorpius"
-msgstr "Scorpione"
+msgstr "Escorpión"
 
 msgid "Sagittarius"
-msgstr "Sagittario"
+msgstr "Sagitario"
 
 msgid "Capricornus"
-msgstr "Capricorno"
+msgstr "Capricornio"
 
 msgid "Aquarius"
-msgstr "Acquario"
+msgstr "Acuario"
 
 msgid "Pisces"
-msgstr "Pesci"
+msgstr "Pisces"
 
 msgid "Cetus"
-msgstr "Balena"
+msgstr "Ballena"
 
 msgid "Orion"
-msgstr "Orione"
+msgstr "Orión"
 
 msgid "Eridanus"
-msgstr "Eridano"
+msgstr "Eridanus"
 
 msgid "Lepus"
-msgstr "Lepre"
+msgstr "Liebre"
 
 msgid "Canis Major"
-msgstr "Cane Maggiore"
+msgstr "Can Mayor"
 
 msgid "Canis Minor"
-msgstr "Cane Minore"
+msgstr "Can Menor"
 
 msgid "Hydra"
-msgstr "Idra"
+msgstr "Hydra"
 
 msgid "Crater"
-msgstr "Cratere"
+msgstr "Cráter"
 
 msgid "Corvus"
-msgstr "Corvo"
+msgstr "Cuervo"
 
 msgid "Centaurus"
 msgstr "Centauro"
 
 msgid "Lupus"
-msgstr "Lupo"
+msgstr "Lupus"
 
 msgid "Ara"
-msgstr "Altare"
+msgstr "Altar"
 
 msgid "Corona Australis"
-msgstr "Corona Australe"
+msgstr "Corona Australis"
 
 msgid "Piscis Austrinus"
-msgstr "Pesce Australe"
+msgstr "Pez Austral"
 
 msgid "Han"
 msgstr "Han"
@@ -773,7 +773,7 @@ msgid "Wei"
 msgstr "Wei"
 
 msgid "Procyon"
-msgstr "Procione"
+msgstr "Proción"
 
 msgid "Sirius"
 msgstr "Sirio"
@@ -788,13 +788,13 @@ msgid "Capella"
 msgstr "Capella"
 
 msgid "Aldebaran"
-msgstr "Aldebaran"
+msgstr "Aldebarán"
 
 msgid "Regulus"
-msgstr "Regolo"
+msgstr "Régulo"
 
 msgid "Denebola"
-msgstr "Denebola"
+msgstr "Denébola"
 
 msgid "Spica"
 msgstr "Spica"
@@ -836,124 +836,124 @@ msgid "Antares"
 msgstr "Antares"
 
 msgid "Sculptor"
-msgstr "Scultore"
+msgstr "Escultor"
 
 msgid "Pyxis"
-msgstr "Bussola"
+msgstr "Pyxis"
 
 msgid "Caelum"
-msgstr "Bulino"
+msgstr "Caelum"
 
 msgid "Chamaeleon"
-msgstr "Camaleonte"
+msgstr "Camaleón"
 
 msgid "Carina"
-msgstr "Carena"
+msgstr "Carina"
 
 msgid "Coma Berenices"
-msgstr "Chioma di Berenice"
+msgstr "Cabellera de Berenice"
 
 msgid "Canes Venatici"
-msgstr "Cani da Caccia"
+msgstr "Perros de Caza"
 
 msgid "Columba"
-msgstr "Colomba"
+msgstr "Columba"
 
 msgid "Circinus"
-msgstr "Compasso"
+msgstr "Compás"
 
 msgid "Crux"
-msgstr "Croce del sud"
+msgstr "Cruz del Sur"
 
 msgid "Dorado"
-msgstr "Dorado"
+msgstr "Pez dorado"
 
 msgid "Norma"
-msgstr "Regolo"
+msgstr "Norma"
 
 msgid "Fornax"
-msgstr "Fornace"
+msgstr "Horno"
 
 msgid "Camelopardalis"
-msgstr "Giraffa"
+msgstr "Jirafa"
 
 msgid "Grus"
-msgstr "Gru"
+msgstr "Grulla"
 
 msgid "Horologium"
-msgstr "Orologio"
+msgstr "Reloj"
 
 msgid "Hydrus"
-msgstr "Idro"
+msgstr "Hidra"
 
 msgid "Indus"
-msgstr "Indiano"
+msgstr "Indus"
 
 msgid "Lacerta"
-msgstr "Lucertola"
+msgstr "Lagarto"
 
 msgid "Monoceros"
-msgstr "Unicorno"
+msgstr "Unicornio"
 
 msgid "Lynx"
 msgstr "Lince"
 
 msgid "Antlia"
-msgstr "Macchina Pneumatica"
+msgstr "Máquina neumática"
 
 msgid "Microscopium"
 msgstr "Microscopio"
 
 msgid "Musca"
-msgstr "Mosca"
+msgstr "Musca"
 
 msgid "Octans"
-msgstr "Ottante"
+msgstr "Octante"
 
 msgid "Apus"
-msgstr "Uccello del Paradiso"
+msgstr "Ave del Paraíso"
 
 msgid "Pavo"
-msgstr "Pavone"
+msgstr "Pavo real"
 
 msgid "Pictor"
-msgstr "Pittore"
+msgstr "Pintor"
 
 msgid "Leo Minor"
-msgstr "Leone Minore"
+msgstr "Leo Menor"
 
 msgid "Vulpecula"
-msgstr "Volpetta"
+msgstr "Zorrilla"
 
 msgid "Phoenix"
-msgstr "Fenice"
+msgstr "Fénix"
 
 msgid "Volans"
-msgstr "Pesce Volante"
+msgstr "Pez volador"
 
 msgid "Puppis"
-msgstr "Poppa"
+msgstr "Puppis"
 
 msgid "Reticulum"
-msgstr "Reticolo"
+msgstr "Reticulum"
 
 msgid "Scutum"
-msgstr "Scudo"
+msgstr "Scutum"
 
 msgid "Sextans"
-msgstr "Sestante"
+msgstr "Sextante"
 
 msgid "Mensa"
-msgstr "Mensa"
+msgstr "Mesa"
 
 msgid "Telescopium"
 msgstr "Telescopio"
 
 msgid "Tucana"
-msgstr "Tucano"
+msgstr "Tucán"
 
 msgid "Triangulum Australe"
-msgstr "Triangolo Australe"
+msgstr "Triángulo Austral"
 
 msgid "Vela"
 msgstr "Vela"
@@ -971,7 +971,7 @@ msgid "Almach"
 msgstr "Almach"
 
 msgid "Almaak"
-msgstr "Almaak"
+msgstr "Alamak"
 
 msgid "Alamak"
 msgstr "Alamak"
@@ -1001,16 +1001,16 @@ msgid "Sadachbia"
 msgstr "Sadachbia"
 
 msgid "Sadalachbia"
-msgstr ""
+msgstr "Sadalachbia"
 
 msgid "Sadachiba"
-msgstr ""
+msgstr "Sadachiba"
 
 msgid "Skat"
 msgstr "Skat"
 
 msgid "Scheat"
-msgstr "Guaina"
+msgstr "Funda"
 
 msgid "Albali"
 msgstr "Albali"
@@ -1049,19 +1049,19 @@ msgid "Al Sa'd al Mulk"
 msgstr "Al Sa'd al Mulk"
 
 msgid "Seat"
-msgstr "Sedia"
+msgstr "Seat"
 
 msgid "Altair"
 msgstr "Altair"
 
 msgid "Atair"
-msgstr ""
+msgstr "Atair"
 
 msgid "Alshain"
 msgstr "Alshain"
 
 msgid "Alschairn"
-msgstr ""
+msgstr "Alschairn"
 
 msgid "Tarazed"
 msgstr "Tarazed"
@@ -1082,7 +1082,7 @@ msgid "Al Thalimain II"
 msgstr "Al Thalimain II"
 
 msgid "Althalimain"
-msgstr ""
+msgstr "Althalimain"
 
 msgid "Okab"
 msgstr "Okab"
@@ -1163,13 +1163,13 @@ msgid "Alhajoth"
 msgstr "Alhajoth"
 
 msgid "Goat Star"
-msgstr "Goat Star"
+msgstr "Estrella Cabra"
 
 msgid "Menkalinan"
 msgstr "Menkalinan"
 
 msgid "Menkarlina"
-msgstr ""
+msgstr "Menkarlina"
 
 msgid "Hassaleh"
 msgstr "Hassaleh"
@@ -1199,7 +1199,7 @@ msgid "Alanz"
 msgstr "Alanz"
 
 msgid "Al Anz"
-msgstr ""
+msgstr "Al Anz"
 
 msgid "Haedus II"
 msgstr "Haedus II"
@@ -1208,7 +1208,7 @@ msgid "Mahasim"
 msgstr "Mahasim"
 
 msgid "Bogardus"
-msgstr ""
+msgstr "Bogardus"
 
 msgid "Alhiba II"
 msgstr "Alhiba II"
@@ -1247,10 +1247,10 @@ msgid "Dolones IX"
 msgstr "Dolones IX"
 
 msgid "Andrews' star"
-msgstr "Andrews' star"
+msgstr "Estrella de Andrew"
 
 msgid "Prijipati"
-msgstr ""
+msgstr "Prijipati"
 
 msgid "Nekkar"
 msgstr "Nekkar"
@@ -1271,7 +1271,7 @@ msgid "Mirak"
 msgstr "Mirak"
 
 msgid "Mirac"
-msgstr ""
+msgstr "Mirac"
 
 msgid "Muphrid"
 msgstr "Muphrid"
@@ -1298,7 +1298,7 @@ msgid "Asellus Secundus"
 msgstr "Asellus Secundus"
 
 msgid "Asellus Secondus"
-msgstr ""
+msgstr "Asellus Secondus"
 
 msgid "Asellus Tertius"
 msgstr "Asellus Tertius"
@@ -1379,7 +1379,7 @@ msgid "Aschere"
 msgstr "Aschere"
 
 msgid "Mirzam"
-msgstr "Mirzam"
+msgstr "Murzim"
 
 msgid "Murzim"
 msgstr "Murzim"
@@ -1403,10 +1403,10 @@ msgid "Alwazn"
 msgstr "Alwazn"
 
 msgid "Al Wazor"
-msgstr ""
+msgstr "Al Wazor"
 
 msgid "Wezea"
-msgstr ""
+msgstr "Wezea"
 
 msgid "Adhara"
 msgstr "Adhara"
@@ -1418,7 +1418,7 @@ msgid "Furud"
 msgstr "Furud"
 
 msgid "Phurad"
-msgstr ""
+msgstr "Phurad"
 
 msgid "Aludra"
 msgstr "Aludra"
@@ -1430,10 +1430,10 @@ msgid "Al Zara"
 msgstr "Al Zara"
 
 msgid "Nganurganity"
-msgstr ""
+msgstr "Nganurganity"
 
 msgid "Winter Albireo"
-msgstr ""
+msgstr "Albireo de invierno"
 
 msgid "Elgomaisa"
 msgstr "Elgomaisa"
@@ -1451,7 +1451,7 @@ msgid "Gomelza"
 msgstr "Gomelza"
 
 msgid "Luyten's Star"
-msgstr "Stella di Luyten"
+msgstr "Estrella de Luyten"
 
 msgid "Prima Giedi"
 msgstr "Prima Giedi"
@@ -1463,7 +1463,7 @@ msgid "Giedi"
 msgstr "Giedi"
 
 msgid "Al Giedi Prima"
-msgstr ""
+msgstr "Al Giedi Prima"
 
 msgid "Algedi"
 msgstr "Algedi"
@@ -1472,7 +1472,7 @@ msgid "Secunda Giedi"
 msgstr "Secunda Giedi"
 
 msgid "Al Giedi"
-msgstr ""
+msgstr "Al Giedi"
 
 msgid "Dabih"
 msgstr "Dabih"
@@ -1493,10 +1493,10 @@ msgid "Deneb Algiedi"
 msgstr "Deneb Algiedi"
 
 msgid "Scheddi"
-msgstr ""
+msgstr "Scheddi"
 
 msgid "Deneb al Giedi"
-msgstr ""
+msgstr "Deneb al Giedi"
 
 msgid "Alshat"
 msgstr "Alshat"
@@ -1505,7 +1505,7 @@ msgid "Al Shat"
 msgstr "Al Shat"
 
 msgid "Yen"
-msgstr ""
+msgstr "Yen"
 
 msgid "Suhel"
 msgstr "Suhel"
@@ -1529,7 +1529,7 @@ msgid "Scutulum"
 msgstr "Scutulum"
 
 msgid "Innes' Star"
-msgstr "Stella di Innes"
+msgstr "Estrella de Innes"
 
 msgid "Schedar"
 msgstr "Schedar"
@@ -1544,13 +1544,13 @@ msgid "Caph"
 msgstr "Caph"
 
 msgid "Al Sanam al Nakah"
-msgstr ""
+msgstr "Al Sanam al Nakah"
 
 msgid "Chaph"
-msgstr ""
+msgstr "Chaph"
 
 msgid "Ruchbah"
-msgstr "Ruchbah"
+msgstr "Ksora"
 
 msgid "Ksora"
 msgstr "Ksora"
@@ -1568,10 +1568,10 @@ msgid "Segin"
 msgstr "Segin"
 
 msgid "Marfak-East"
-msgstr "Marfak-East"
+msgstr "Marfak-Este"
 
 msgid "Marfak-West"
-msgstr "Marfak-West"
+msgstr "Marfak-Oeste"
 
 msgid "Al Marfak"
 msgstr "Al Marfak"
@@ -1589,7 +1589,7 @@ msgid "Castula"
 msgstr "Castula"
 
 msgid "Pearce's Star"
-msgstr "Pearce's Star"
+msgstr "Estrella de Pearce"
 
 msgid "Rigil Kentaurus"
 msgstr "Rigil Kentaurus"
@@ -1604,7 +1604,7 @@ msgid "Bungula"
 msgstr "Bungula"
 
 msgid "Proxima"
-msgstr "Proxima"
+msgstr "Próxima"
 
 msgid "Proxima Centauri"
 msgstr "Proxima Centauri"
@@ -1625,31 +1625,31 @@ msgid "Baten Kentaurus"
 msgstr "Baten Kentaurus"
 
 msgid "Al Nair al Kentaurus"
-msgstr ""
+msgstr "Al Nair al Kentaurus"
 
 msgid "Haratan"
-msgstr ""
+msgstr "Haratan"
 
 msgid "Przybylski's Star"
-msgstr "Stella di Przybylski"
+msgstr "Estrella de Przybylski"
 
 msgid "Bidelman's Helium Variable Star"
-msgstr "Bidelman's Helium Variable Star"
+msgstr "Estrella variable de helio de Bidelman"
 
 msgid "Popper's Star"
-msgstr "Popper's Star"
+msgstr "Estrella de Popper"
 
 msgid "Ke Kwan"
-msgstr ""
+msgstr "Ke Kwan"
 
 msgid "Alderamin"
-msgstr "Alderamin"
+msgstr "Alderamín"
 
 msgid "Alfirk"
 msgstr "Alfirk"
 
 msgid "Alphirk"
-msgstr ""
+msgstr "Alphirk"
 
 msgid "Errai"
 msgstr "Errai"
@@ -1658,7 +1658,7 @@ msgid "Alrai"
 msgstr "Alrai"
 
 msgid "The Garnet Star"
-msgstr "La stella granata"
+msgstr "La Estrella de Garnet"
 
 msgid "Erakis"
 msgstr "Erakis"
@@ -1718,7 +1718,7 @@ msgid "Kafalgidma"
 msgstr "Kafalgidma"
 
 msgid "Alkaffaljidhina"
-msgstr ""
+msgstr "Alkaffaljidhina"
 
 msgid "Deneb Algenubi"
 msgstr "Deneb Algenubi"
@@ -1730,7 +1730,7 @@ msgid "Schemali"
 msgstr "Schemali"
 
 msgid "Baten Kaitos Shemali"
-msgstr ""
+msgstr "Baten Kaitos Shemali"
 
 msgid "Menkab"
 msgstr "Menkab"
@@ -1811,10 +1811,10 @@ msgid "Polaris Galacticus Borealis"
 msgstr "Polaris Galacticus Borealis"
 
 msgid "Diadem"
-msgstr "Diadem"
+msgstr "Diadema"
 
 msgid "Diadema"
-msgstr ""
+msgstr "Diadema"
 
 msgid "Kissin"
 msgstr "Kissin"
@@ -1835,7 +1835,7 @@ msgid "Gemma"
 msgstr "Gemma"
 
 msgid "Alphekka"
-msgstr "Alphekka"
+msgstr "Alphecca"
 
 msgid "Gnosia"
 msgstr "Gnosia"
@@ -1850,10 +1850,10 @@ msgid "Variabilis Coronae"
 msgstr "Variabilis Coronae"
 
 msgid "Blaze Star"
-msgstr "Blaze Star"
+msgstr "Estrella Blaze"
 
 msgid "Kamuy"
-msgstr ""
+msgstr "Kamuy"
 
 msgid "Alchiba"
 msgstr "Alchiba"
@@ -1880,7 +1880,7 @@ msgid "Algorab"
 msgstr "Algorab"
 
 msgid "Algorel"
-msgstr ""
+msgstr "Algorel"
 
 msgid "Kraz"
 msgstr "Kraz"
@@ -1895,7 +1895,7 @@ msgid "Al Sharasif II"
 msgstr "Al Sharasif II"
 
 msgid "Abt's Star"
-msgstr "Abt's Star"
+msgstr "Estrella de Abt"
 
 msgid "Mimosa"
 msgstr "Mimosa"
@@ -1925,10 +1925,10 @@ msgid "Arrioph"
 msgstr "Arrioph"
 
 msgid "Deneb el Adige"
-msgstr ""
+msgstr "Deneb el Adige"
 
 msgid "Deneb Cygni"
-msgstr ""
+msgstr "Deneb Cygni"
 
 msgid "Albireo"
 msgstr "Albireo"
@@ -1961,22 +1961,22 @@ msgid "Rucba"
 msgstr "Rucba"
 
 msgid "Bessel's Star"
-msgstr "Stella di Bessel"
+msgstr "Estrella de Bessel"
 
 msgid "Piazzi's Flying Star"
-msgstr "Stella Volante di Piazzi"
+msgstr "Estrella Voladora de Piazzi"
 
 msgid "Campbell's Star"
-msgstr "Stella di Campbell"
+msgstr "Estrella de Campbell"
 
 msgid "Campbell’s Hydrogen Star"
-msgstr "Stella d'Idrogeno di Campbell"
+msgstr "Estrella de Hidrógeno de Campbell"
 
 msgid "Revenant of the Swan"
-msgstr "Immortale del Cogno"
+msgstr "Revenant del Cisne"
 
 msgid "Permanent nova"
-msgstr "Permanent nova"
+msgstr "Nova Permanente"
 
 msgid "Fawaris"
 msgstr "Fawaris"
@@ -2030,7 +2030,7 @@ msgid "Alwaid"
 msgstr "Alwaid"
 
 msgid "Asuia"
-msgstr ""
+msgstr "Asuia"
 
 msgid "Eltanin"
 msgstr "Eltanin"
@@ -2042,7 +2042,7 @@ msgid "Taurt"
 msgstr "Taurt"
 
 msgid "Eltamin"
-msgstr ""
+msgstr "Eltamin"
 
 msgid "Altais"
 msgstr "Altais"
@@ -2057,10 +2057,10 @@ msgid "Nodus Secundus"
 msgstr "Nodus Secundus"
 
 msgid "Aldib"
-msgstr ""
+msgstr "Aldib"
 
 msgid "Taïs"
-msgstr ""
+msgstr "Taïs"
 
 msgid "Edasich"
 msgstr "Edasich"
@@ -2069,10 +2069,10 @@ msgid "Ed Asich"
 msgstr "Ed Asich"
 
 msgid "Al Dhihi"
-msgstr ""
+msgstr "Al Dhihi"
 
 msgid "Giausar"
-msgstr "Giausar"
+msgstr "Gianfar"
 
 msgid "Giansar"
 msgstr "Giansar"
@@ -2084,19 +2084,19 @@ msgid "Arrakis"
 msgstr "Arrakis"
 
 msgid "Errakis"
-msgstr "Arrakis"
+msgstr "Errakis"
 
 msgid "Grumium"
 msgstr "Grumium"
 
 msgid "Genam"
-msgstr ""
+msgstr "Genam"
 
 msgid "Nodus I"
 msgstr "Nodus I"
 
 msgid "Juza"
-msgstr ""
+msgstr "Juza"
 
 msgid "Kuma"
 msgstr "Kuma"
@@ -2147,7 +2147,7 @@ msgid "Dhibain"
 msgstr "Dhibain"
 
 msgid "Aldhibain"
-msgstr ""
+msgstr "Aldhibain"
 
 msgid "Adfar Aldib I"
 msgstr "Adfar Aldib I"
@@ -2186,7 +2186,7 @@ msgid "Dhalim"
 msgstr "Dhalim"
 
 msgid "Kursa"
-msgstr ""
+msgstr "Kursa"
 
 msgid "Zaurak"
 msgstr "Zaurak"
@@ -2213,7 +2213,7 @@ msgid "Theemin"
 msgstr "Theemin"
 
 msgid "Theemini"
-msgstr ""
+msgstr "Theemini"
 
 msgid "Beemim"
 msgstr "Beemim"
@@ -2231,7 +2231,7 @@ msgid "Anchat"
 msgstr "Anchat"
 
 msgid "An Anchat al Nahr"
-msgstr ""
+msgstr "An Anchat al Nahr"
 
 msgid "Beemim III"
 msgstr "Beemim III"
@@ -2240,7 +2240,7 @@ msgid "Rana"
 msgstr "Rana"
 
 msgid "Sceptrum"
-msgstr "Scettro"
+msgstr "Sceptrum"
 
 msgid "Kursi al Jauzah II"
 msgstr "Kursi al Jauzah II"
@@ -2264,17 +2264,17 @@ msgid "Fornacis"
 msgstr "Fornacis"
 
 msgid "Castor"
-msgstr "Castore"
+msgstr "Castor"
 
 msgid "Apollo"
-msgstr "Apollo"
+msgstr "Apolo"
 
 msgid "Pollux"
-msgstr "Polluce"
+msgstr "Pollux"
 
 #. TRANSLATORS: Added context to avoid conflict with constellation name
 msgid "Hercules [star]"
-msgstr ""
+msgstr "Hércules [estrella]"
 
 msgid "Alhena"
 msgstr "Alhena"
@@ -2301,7 +2301,7 @@ msgid "Propus"
 msgstr "Propus"
 
 msgid "Tejat Prior"
-msgstr "Tejat Prior"
+msgstr "Pie delantero"
 
 msgid "Praepes"
 msgstr "Praepes"
@@ -2310,7 +2310,7 @@ msgid "Tejat"
 msgstr "Tejat"
 
 msgid "Tejat Posterior"
-msgstr "Tejat Posterior"
+msgstr "Talon"
 
 msgid "Calx"
 msgstr "Calx"
@@ -2445,10 +2445,10 @@ msgid "Felis"
 msgstr "Felis"
 
 msgid "Persian"
-msgstr "Persiano"
+msgstr "Persian"
 
 msgid "Babcock's Star"
-msgstr "Stella di Babcock"
+msgstr "Estrella de Babcock"
 
 msgid "Cor Leonis"
 msgstr "Cor Leonis"
@@ -2460,7 +2460,7 @@ msgid "Kabeleced"
 msgstr "Kabeleced"
 
 msgid "Al Kalb al Asad"
-msgstr ""
+msgstr "Al Kalb al Asad"
 
 msgid "Deneb Aleet"
 msgstr "Deneb Aleet"
@@ -2511,7 +2511,7 @@ msgid "Ras Elased Borealis"
 msgstr "Ras Elased Borealis"
 
 msgid "Rassalas"
-msgstr ""
+msgstr "Rassalas"
 
 msgid "Subra"
 msgstr "Subra"
@@ -2520,13 +2520,13 @@ msgid "Algenubi"
 msgstr "Algenubi"
 
 msgid "Ras Elased Australis"
-msgstr "Ras Elased Borealis"
+msgstr "Ras Elased Australis"
 
 msgid "Ras Elased"
 msgstr "Ras Elased"
 
 msgid "Asad Australis"
-msgstr ""
+msgstr "Asad Australis"
 
 msgid "Al Minlear al Asad"
 msgstr "Al Minlear al Asad"
@@ -2541,10 +2541,10 @@ msgid "Al Jabhah"
 msgstr "Al Jabhah"
 
 msgid "Klemola's Star"
-msgstr "Klemola's Star"
+msgstr "Estrella de Klemola"
 
 msgid "Tsze Tseang"
-msgstr ""
+msgstr "Tsze Tseang"
 
 msgid "Praecipua"
 msgstr "Praecipua"
@@ -2559,7 +2559,7 @@ msgid "Nihal"
 msgstr "Nihal"
 
 msgid "Hind's Crimson Star"
-msgstr "la stella cremisi di Hind"
+msgstr "Estrella carmesí de Hind"
 
 msgid "Kursi al Jabbar"
 msgstr "Kursi al Jabbar"
@@ -2574,7 +2574,7 @@ msgid "Zubenelgenubi"
 msgstr "Zubenelgenubi"
 
 msgid "Zuben el Genubi"
-msgstr ""
+msgstr "Zuben el Genubi"
 
 msgid "Zuben Elgenubi"
 msgstr "Zuben Elgenubi"
@@ -2592,10 +2592,10 @@ msgid "Zuben Elschemali"
 msgstr "Zuben Elschemali"
 
 msgid "Zubenelchemale"
-msgstr ""
+msgstr "Zubenelchemale"
 
 msgid "Brachium"
-msgstr "Braccio"
+msgstr "Brazo"
 
 msgid "Zuben Acrabi"
 msgstr "Zuben Acrabi"
@@ -2604,13 +2604,13 @@ msgid "Cornu"
 msgstr "Cornu"
 
 msgid "Zubenalgubi"
-msgstr ""
+msgstr "Zubenalgubi"
 
 msgid "Zuben Elakribi"
 msgstr "Zuben Elakribi"
 
 msgid "Mulu-Lizi"
-msgstr ""
+msgstr "Mulu-Lizi"
 
 msgid "Zubenelhakrabi"
 msgstr "Zubenelhakrabi"
@@ -2622,16 +2622,16 @@ msgid "Zuben Hakrabi"
 msgstr "Zuben Hakrabi"
 
 msgid "Methuselah star"
-msgstr ""
+msgstr "Estrella de Matusalén"
 
 msgid "Zuban al Kravi"
-msgstr ""
+msgstr "Zuban al Kravi"
 
 msgid "Men"
-msgstr ""
+msgstr "Men"
 
 msgid "KeKouan"
-msgstr ""
+msgstr "KeKouan"
 
 msgid "Alsciaukat"
 msgstr "Alsciaukat"
@@ -2649,7 +2649,7 @@ msgid "Fidis"
 msgstr "Fidis"
 
 msgid "Harp star"
-msgstr ""
+msgstr "Estrella arpa"
 
 msgid "Sheliak"
 msgstr "Sheliak"
@@ -2661,7 +2661,7 @@ msgid "Jugum"
 msgstr "Jugum"
 
 msgid "Sulaphat"
-msgstr ""
+msgstr "Sulaphat"
 
 msgid "Aladfar"
 msgstr "Aladfar"
@@ -2670,10 +2670,10 @@ msgid "Al Athfar"
 msgstr "Al Athfar"
 
 msgid "Double Double I"
-msgstr "Double Double I"
+msgstr "Doble Doble I"
 
 msgid "Double Double II"
-msgstr "Double Double II"
+msgstr "Doble Doble II"
 
 msgid "Nasr Alwaki I"
 msgstr "Nasr Alwaki I"
@@ -2682,10 +2682,10 @@ msgid "Nasr Alwaki II"
 msgstr "Nasr Alwaki II"
 
 msgid "Plaskett's Star"
-msgstr "Stella di Plaskett"
+msgstr "Estrella de Plaskett"
 
 msgid "Red Rectangle"
-msgstr "Rettangolo rosso"
+msgstr "Rectángulo Rojo"
 
 msgid "Polaris Australis"
 msgstr "Polaris Australis"
@@ -2703,7 +2703,7 @@ msgid "Kelb Alrai"
 msgstr "Kelb Alrai"
 
 msgid "Cheleb"
-msgstr ""
+msgstr "Cheleb"
 
 msgid "Yed Prior"
 msgstr "Yed Prior"
@@ -2712,7 +2712,7 @@ msgid "Yed Posterior"
 msgstr "Yed Posterior"
 
 msgid "Yed Post"
-msgstr ""
+msgstr "Yed Post"
 
 msgid "Sabik"
 msgstr "Sabik"
@@ -2721,7 +2721,7 @@ msgid "Muliphen"
 msgstr "Muliphen"
 
 msgid "Barnard's Star"
-msgstr "Stella di Barnard"
+msgstr "Estrella de Banard"
 
 msgid "Velox Barnardi"
 msgstr "Velox Barnardi"
@@ -2736,7 +2736,7 @@ msgid "Aggia"
 msgstr "Aggia"
 
 msgid "Iron Star"
-msgstr "Iron Star"
+msgstr "Estrella de Hierro"
 
 msgid "Guniibuu"
 msgstr "Guniibuu"
@@ -2745,16 +2745,16 @@ msgid "Al Mankib"
 msgstr "Al Mankib"
 
 msgid "Betelgeux"
-msgstr "Betelgeux"
+msgstr "Betelgeuse"
 
 msgid "Martial Star"
-msgstr "Martial Star"
+msgstr "Estrella Marcial"
 
 msgid "Algebar"
 msgstr "Algebar"
 
 msgid "Amazon Star"
-msgstr "Amazon Star"
+msgstr "Estrella Amazónica"
 
 msgid "Saiph"
 msgstr "Saiph"
@@ -2769,7 +2769,7 @@ msgid "Hatysa"
 msgstr "Hatysa"
 
 msgid "Nair al Saif"
-msgstr ""
+msgstr "Nair al Saif"
 
 msgid "Thabit"
 msgstr "Thabit"
@@ -2790,7 +2790,7 @@ msgid "Saif al Jabbar"
 msgstr "Saif al Jabbar"
 
 msgid "Algjebbah"
-msgstr ""
+msgstr "Algjebbah"
 
 msgid "Trapezium"
 msgstr "Trapezium"
@@ -2820,10 +2820,10 @@ msgid "Al Taj V"
 msgstr "Al Taj V"
 
 msgid "Becklin's Star"
-msgstr "Becklin's Star"
+msgstr "Estrella de Becklin"
 
 msgid "Peacock"
-msgstr "Pavone"
+msgstr "Peacock"
 
 msgid "Markab"
 msgstr "Markab"
@@ -2856,7 +2856,7 @@ msgid "Homam"
 msgstr "Homam"
 
 msgid "Al Hammam"
-msgstr ""
+msgstr "Al Hammam"
 
 msgid "Homan"
 msgstr "Homan"
@@ -2904,7 +2904,7 @@ msgid "Alchemb"
 msgstr "Alchemb"
 
 msgid "Mirphak"
-msgstr "Mirphak"
+msgstr "Mirfak"
 
 msgid "Algol"
 msgstr "Algol"
@@ -2937,7 +2937,7 @@ msgid "Gorgonea Tertia"
 msgstr "Gorgonea Tertia"
 
 msgid "Gorgonea Terti"
-msgstr ""
+msgstr "Gorgonea Terti"
 
 msgid "Gorgonea Quarta"
 msgstr "Gorgonea Quarta"
@@ -2952,10 +2952,10 @@ msgid "Misam al Thurayya I"
 msgstr "Misam al Thurayya I"
 
 msgid "Bidelman's Peculiar Star"
-msgstr "Bidelman's Peculiar Star"
+msgstr "Estrella Peculiar de Bidelman"
 
 msgid "Kerb"
-msgstr ""
+msgstr "Kerb"
 
 msgid "Ankaa"
 msgstr "Ankaa"
@@ -2982,10 +2982,10 @@ msgid "Wurren"
 msgstr "Wurren"
 
 msgid "Kapteyn's Star"
-msgstr "Stella di Kapteyn"
+msgstr "Estrella de Kapteyn"
 
 msgid "Alrescha"
-msgstr "Alrescha"
+msgstr "Alrisha"
 
 msgid "Al Rescha"
 msgstr "Al Rescha"
@@ -2997,19 +2997,19 @@ msgid "Alrisha"
 msgstr "Alrisha"
 
 msgid "Okda"
-msgstr ""
+msgstr "Okda"
 
 msgid "Kaitain"
-msgstr ""
+msgstr "Kaitain"
 
 msgid "Al Rischa"
-msgstr ""
+msgstr "Al Rischa"
 
 msgid "van Maanen's Star"
-msgstr "Stella di Van Maanen"
+msgstr "Estrella de van Maanen"
 
 msgid "van Maanen 2"
-msgstr "van Maanen 2"
+msgstr "Van Maanen 2"
 
 msgid "Torcular"
 msgstr "Torcular"
@@ -3105,7 +3105,7 @@ msgid "El Nasl"
 msgstr "El Nasl"
 
 msgid "Alnasr"
-msgstr ""
+msgstr "Alnasr"
 
 msgid "Kaus Media"
 msgstr "Kaus Media"
@@ -3120,13 +3120,13 @@ msgid "Kaus Medius"
 msgstr "Kaus Medius"
 
 msgid "Kaus Australis"
-msgstr "Kaus Australe"
+msgstr "Kaus Australis"
 
 msgid "Ascella"
 msgstr "Ascella"
 
 msgid "Kaus Borealis"
-msgstr "Kaus Boreale"
+msgstr "Kaus Borealis"
 
 msgid "Al Thalimain"
 msgstr "Al Thalimain"
@@ -3138,7 +3138,7 @@ msgid "Sadira"
 msgstr "Sadira"
 
 msgid "Polis"
-msgstr "Polis"
+msgstr "Potro"
 
 msgid "Alnam"
 msgstr "Alnam"
@@ -3288,7 +3288,7 @@ msgid "Jabhat Acrabi I"
 msgstr "Jabhat Acrabi I"
 
 msgid "Jabhat al Akrab"
-msgstr ""
+msgstr "Jabhat al Akrab"
 
 msgid "Jabhat Acrabi II"
 msgstr "Jabhat Acrabi II"
@@ -3306,7 +3306,7 @@ msgid "Cor Serpentis"
 msgstr "Cor Serpentis"
 
 msgid "Unuk al Hay"
-msgstr ""
+msgstr "Unuk al Hay"
 
 msgid "Unuk Elhaia"
 msgstr "Unuk Elhaia"
@@ -3315,7 +3315,7 @@ msgid "Alya"
 msgstr "Alya"
 
 msgid "Chow"
-msgstr ""
+msgstr "Chow"
 
 msgid "Nasak Shamiya I"
 msgstr "Nasak Shamiya I"
@@ -3327,19 +3327,19 @@ msgid "Nasak Yamani I"
 msgstr "Nasak Yamani I"
 
 msgid "Tsin"
-msgstr ""
+msgstr "Tsin"
 
 msgid "Nasak Yamani II"
 msgstr "Nasak Yamani II"
 
 msgid "Tweedledee and Tweedledum"
-msgstr "Tweedledee and Tweedledum"
+msgstr "Tweedledee y Tweedledum"
 
 msgid "Gudja"
 msgstr "Gudja"
 
 msgid "Alava"
-msgstr ""
+msgstr "Alava"
 
 msgid "Cor Tauri"
 msgstr "Cor Tauri"
@@ -3357,7 +3357,7 @@ msgid "Nath"
 msgstr "Nath"
 
 msgid "Al Nath"
-msgstr ""
+msgstr "Al Nath"
 
 msgid "Ain"
 msgstr "Ain"
@@ -3366,13 +3366,13 @@ msgid "Oculus Boreus"
 msgstr "Oculus Boreus"
 
 msgid "Alcyone"
-msgstr "Alcione"
+msgstr "Alcíone"
 
 msgid "Celaeno"
-msgstr "Celaeno"
+msgstr "Celeno"
 
 msgid "Electra"
-msgstr "Elettra"
+msgstr "Electra"
 
 msgid "Taygeta"
 msgstr "Taygeta"
@@ -3381,19 +3381,19 @@ msgid "Maia"
 msgstr "Maia"
 
 msgid "Asterope"
-msgstr "Asterope"
+msgstr "Astérope"
 
 msgid "Sterope I"
 msgstr "Sterope I"
 
 msgid "Merope"
-msgstr "Merope"
+msgstr "Mérope"
 
 msgid "Atlas"
-msgstr "Atlante"
+msgstr "Atlas"
 
 msgid "Pleione"
-msgstr "Pleione"
+msgstr "Pléyone"
 
 msgid "Prima Hyadum"
 msgstr "Prima Hyadum"
@@ -3402,7 +3402,7 @@ msgid "Hyadum I"
 msgstr "Hyadum I"
 
 msgid "Hyadum Primus"
-msgstr ""
+msgstr "Hyadum Primus"
 
 msgid "Secunda Hyadum"
 msgstr "Secunda Hyadum"
@@ -3411,7 +3411,7 @@ msgid "Hyadum II"
 msgstr "Hyadum II"
 
 msgid "The Ruby Star"
-msgstr "La Star di Ruby"
+msgstr "La Estrella Rubí"
 
 msgid "Sterope II"
 msgstr "Sterope II"
@@ -3444,10 +3444,10 @@ msgid "Tianguan"
 msgstr "Tianguan"
 
 msgid "Alheka"
-msgstr ""
+msgstr "Alheka"
 
 msgid "Mothallah"
-msgstr "Mothallah"
+msgstr "Metallah"
 
 msgid "Caput Trianguli"
 msgstr "Caput Trianguli"
@@ -3459,10 +3459,10 @@ msgid "Atria"
 msgstr "Atria"
 
 msgid "Rasalmudallah"
-msgstr ""
+msgstr "Rasalmudallah"
 
 msgid "Rasalmothallah"
-msgstr ""
+msgstr "Rasalmothallah"
 
 msgid "Mizan"
 msgstr "Mizan"
@@ -3498,7 +3498,7 @@ msgid "Alioth"
 msgstr "Alioth"
 
 msgid "Aliath"
-msgstr ""
+msgstr "Aliath"
 
 msgid "Mizar"
 msgstr "Mizar"
@@ -3513,7 +3513,7 @@ msgid "Benetnasch"
 msgstr "Benetnasch"
 
 msgid "Talitha"
-msgstr "Talita"
+msgstr "Talitha"
 
 msgid "Talita"
 msgstr "Talita"
@@ -3540,13 +3540,13 @@ msgid "Groombridge 1830"
 msgstr "Groombridge 1830"
 
 msgid "Flying Star"
-msgstr "Stella Volante"
+msgstr "Estrella Voladora"
 
 msgid "Runaway Star"
-msgstr "Stella Figgiasca"
+msgstr "Estrella Fugitiva"
 
 msgid "Argelander's Star"
-msgstr "Stella di Argelander"
+msgstr "Estrella de Argelander"
 
 msgid "Taiyangshou"
 msgstr "Taiyangshou"
@@ -3585,7 +3585,7 @@ msgid "Al Kaprah"
 msgstr "Al Kaprah"
 
 msgid "Talitha Australis"
-msgstr ""
+msgstr "Talitha Australis"
 
 msgid "Althiba II"
 msgstr "Althiba II"
@@ -3618,7 +3618,7 @@ msgid "Lalande 21185"
 msgstr "Lalande 21185"
 
 msgid "Polaris"
-msgstr "Stella Polare"
+msgstr "Estrella Polar"
 
 msgid "Alrucaba"
 msgstr "Alrucaba"
@@ -3639,13 +3639,13 @@ msgid "Mismar"
 msgstr "Mismar"
 
 msgid "Star of Arcady"
-msgstr ""
+msgstr "‎Estrella‎‎ de Arcady‎"
 
 msgid "Kochab"
 msgstr "Kochab"
 
 msgid "Kocab"
-msgstr "Kochab"
+msgstr "Kocab"
 
 msgid "Pherkad"
 msgstr "Pherkad"
@@ -3654,7 +3654,7 @@ msgid "Pherkad Major"
 msgstr "Pherkad Major"
 
 msgid "Pherkad Minor"
-msgstr "Pherkad Minore"
+msgstr "Pherkad Minor"
 
 msgid "Yildun"
 msgstr "Yildun"
@@ -3696,7 +3696,7 @@ msgid "Alsephina"
 msgstr "Alsephina"
 
 msgid "Koo She"
-msgstr ""
+msgstr "Koo She"
 
 msgid "Azimech"
 msgstr "Azimech"
@@ -3729,10 +3729,10 @@ msgid "Almuredin"
 msgstr "Almuredin"
 
 msgid "Provindemiator"
-msgstr ""
+msgstr "Provindemiator"
 
 msgid "Protrigetrix"
-msgstr ""
+msgstr "Protrigetrix"
 
 msgid "Zaniah"
 msgstr "Zaniah"
@@ -3747,7 +3747,7 @@ msgid "Auva"
 msgstr "Auva"
 
 msgid "Khambalia"
-msgstr ""
+msgstr "Khambalia"
 
 msgid "Kambalia"
 msgstr "Kambalia"

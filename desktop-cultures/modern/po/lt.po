@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2024-12-02 12:46+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
 "Last-Translator: Gediminas Tauras, 2024\n"
 "Language-Team: Lithuanian (https://app.transifex.com/stellarium/teams/80998/"
@@ -22,7 +22,7 @@ msgstr "Moderni"
 #. TRANSLATORS: Proper name of star 14 Andromedae
 #. TRANSLATORS: https://en.wikipedia.org/wiki/14_Andromedae
 msgid "Veritate"
-msgstr ""
+msgstr "Veritate"
 
 #. TRANSLATORS: Proper name of star 18 Delphini
 #. TRANSLATORS: https://en.wikipedia.org/wiki/18_Delphini
@@ -37,12 +37,12 @@ msgstr "Fafnyras"
 #. TRANSLATORS: Proper name of star 47 Ursae Majoris
 #. TRANSLATORS: https://en.wikipedia.org/wiki/47_Ursae_Majoris
 msgid "Chalawan"
-msgstr ""
+msgstr "Čalavan"
 
 #. TRANSLATORS: Proper name of star 51 Pegasi
 #. TRANSLATORS: https://en.wikipedia.org/wiki/51_Pegasi
 msgid "Helvetios"
-msgstr ""
+msgstr "Helvetios"
 
 #. TRANSLATORS: Proper name of star 55 Cancri
 #. TRANSLATORS: https://en.wikipedia.org/wiki/55_Cancri
@@ -52,12 +52,12 @@ msgstr "Kopernikas"
 #. TRANSLATORS: Proper name of star epsilon Eridani
 #. TRANSLATORS: https://en.wikipedia.org/wiki/Epsilon_Eridani
 msgid "Ran"
-msgstr ""
+msgstr "Ranė"
 
 #. TRANSLATORS: Proper name of star HD 104985
 #. TRANSLATORS: https://en.wikipedia.org/wiki/HD_104985
 msgid "Tonatiuh"
-msgstr ""
+msgstr "Tonatiuchas"
 
 #. TRANSLATORS: Proper name of star HD 149026
 #. TRANSLATORS: https://en.wikipedia.org/wiki/HD_149026
@@ -67,7 +67,7 @@ msgstr "Ogma"
 #. TRANSLATORS: Proper name of star HD 81688
 #. TRANSLATORS: https://en.wikipedia.org/wiki/41_Lyncis
 msgid "Intercrus"
-msgstr ""
+msgstr "Interkrus"
 
 #. TRANSLATORS: Proper name of star mu Arae
 #. TRANSLATORS: https://en.wikipedia.org/wiki/Mu_Arae
@@ -77,26 +77,26 @@ msgstr "Servantesas"
 #. TRANSLATORS: Proper name of star upsilon Andromedae
 #. TRANSLATORS: https://en.wikipedia.org/wiki/Upsilon_Andromedae
 msgid "Titawin"
-msgstr ""
+msgstr "Titavin"
 
 #. TRANSLATORS: Proper name of star xi Aquilae
 #. TRANSLATORS: https://en.wikipedia.org/wiki/Xi_Aquilae
 msgid "Libertas"
-msgstr ""
+msgstr "Libertas"
 
 #. TRANSLATORS: Proper name of star HD 82886
 #. TRANSLATORS: Historians largely believe that the Albanians are descendants
 #. of the Illyrians, a term Albanians proudly call themselves.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Illyrian"
-msgstr ""
+msgstr "Ilyras"
 
 #. TRANSLATORS: Proper name of star HD 28678
 #. TRANSLATORS: Hoggar is the name of the main mountain range in the Sahara
 #. Desert in southern Algeria.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Hoggar"
-msgstr ""
+msgstr "Hogaras"
 
 #. TRANSLATORS: Proper name of star HD 131496
 #. TRANSLATORS: Arcalis is a famous peak in the north of Andorra, where the
@@ -105,7 +105,7 @@ msgstr ""
 #. and early inhabitants of Andorra.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Arcalís"
-msgstr ""
+msgstr "Arkalís"
 
 #. TRANSLATORS: Proper name of star HD 48265
 #. TRANSLATORS: Nosaxa means spring in the Moqoit language. The word comes
@@ -113,13 +113,13 @@ msgstr ""
 #. year.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Nosaxa"
-msgstr ""
+msgstr "Nosaksa"
 
 #. TRANSLATORS: Proper name of star HD 38283
 #. TRANSLATORS: Bubup is the Boonwurrung word for child.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Bubup"
-msgstr ""
+msgstr "Bubup"
 
 #. TRANSLATORS: Proper name of star HD 152581
 #. TRANSLATORS: Mahsati Ganjavi (1089–1159) is one of the brightest shining
@@ -128,21 +128,21 @@ msgstr ""
 #. musical instruments.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Mahsati"
-msgstr ""
+msgstr "Mahsati"
 
 #. TRANSLATORS: Proper name of star HD 148427
 #. TRANSLATORS: Timir means darkness in Bengali language, alluding to the star
 #. being far away in the darkness of space.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Timir"
-msgstr ""
+msgstr "Timiras"
 
 #. TRANSLATORS: Proper name of star HD 49674
 #. TRANSLATORS: Nervia, adapted from Nervii, was a prominent Belgian Celtic
 #. tribe.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Nervia"
-msgstr ""
+msgstr "Nervija"
 
 #. TRANSLATORS: Proper name of star HD 73534
 #. TRANSLATORS: Gakyid means happiness. Gross National Happiness is the
@@ -150,7 +150,7 @@ msgstr ""
 #. Bhutan's contributions to the world.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Gakyid"
-msgstr ""
+msgstr "Gakyidas"
 
 #. TRANSLATORS: Proper name of star HD 63765
 #. TRANSLATORS: Tapecue means eternal path in Guarani and represents the Milky
@@ -158,7 +158,7 @@ msgstr ""
 #. return.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Tapecue"
-msgstr ""
+msgstr "Tapekujė"
 
 #. TRANSLATORS: Proper name of star HD 206610
 #. TRANSLATORS: Bosona is the name given to the territory of Bosnia in the
@@ -174,14 +174,14 @@ msgstr "Bosona"
 #. 16th century.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Tupi"
-msgstr ""
+msgstr "Tupi"
 
 #. TRANSLATORS: Proper name of star HD 179949
 #. TRANSLATORS: Gumala is a Malay word, which means a magic bezoar stone found
 #. in snakes, dragons, etc.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Gumala"
-msgstr ""
+msgstr "Gumala"
 
 #. TRANSLATORS: Proper name of star HD 30856
 #. TRANSLATORS: Mouhoun, also called Volta Noire, is the largest river in
@@ -189,14 +189,14 @@ msgstr ""
 #. areas it passes through.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Mouhoun"
-msgstr ""
+msgstr "Muchonas"
 
 #. TRANSLATORS: Proper name of star HD 136418
 #. TRANSLATORS: Nikawiy is the word for mother in the Indigenous Cree language
 #. of Canada.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Nikawiy"
-msgstr ""
+msgstr "Nikavi"
 
 #. TRANSLATORS: Proper name of star HD 164604
 #. TRANSLATORS: Pincoya is a female water spirit from southern Chilean
@@ -204,14 +204,14 @@ msgstr ""
 #. can live in the afterlife.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Pincoya"
-msgstr ""
+msgstr "Pinkoja"
 
 #. TRANSLATORS: Proper name of star HD 212771
 #. TRANSLATORS: Lion Rock is a lion-shaped peak overlooking Hong Kong and is a
 #. cultural symbol with deep respect from the local community.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Lionrock"
-msgstr ""
+msgstr "Lionrock"
 
 #. TRANSLATORS: Proper name of star HD 173416
 #. TRANSLATORS: Xihe (羲和) is the goddess of the sun in the Chinese mythology
@@ -226,7 +226,7 @@ msgstr "Sihė"
 #. century, meaning beautiful in Latin.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Formosa"
-msgstr ""
+msgstr "Formosa"
 
 #. TRANSLATORS: Proper name of star HD 93083
 #. TRANSLATORS: Macondo is the mythical village of the novel One Hundred Years
@@ -234,14 +234,14 @@ msgstr ""
 #. Marquez. Macondo is a fictional place where magic and reality are mixed.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Macondo"
-msgstr ""
+msgstr "Makondas"
 
 #. TRANSLATORS: Proper name of star HD 221287
 #. TRANSLATORS: Poerava is the word in the Cook Islands Maori language for a
 #. large mystical black pearl of utter beauty and perfection.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Poerava"
-msgstr ""
+msgstr "Poerava"
 
 #. TRANSLATORS: Proper name of star HD 75898
 #. TRANSLATORS: Stribor is God of winds in Slavic mythology, as well as a
@@ -249,7 +249,7 @@ msgstr ""
 #. Ago) by the Croatian author Ivana Brlić-Mažuranić.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Stribor"
-msgstr ""
+msgstr "Striboras"
 
 #. TRANSLATORS: Proper name of star BD-17 63
 #. TRANSLATORS: Felix Varela (1788–1853) was the first to teach science in
@@ -257,27 +257,27 @@ msgstr ""
 #. education for all, and began the experimental teaching of physics in Cuba.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Felixvarela"
-msgstr ""
+msgstr "Felixvarela"
 
 #. TRANSLATORS: Proper name of star HD 168746
 #. TRANSLATORS: Alasia is the first historically recorded name of Cyprus,
 #. dating back to mid-fifteenth century BC.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Alasia"
-msgstr ""
+msgstr "Alasija"
 
 #. TRANSLATORS: Proper name of star HD 6434
 #. TRANSLATORS: Nenque means the Sun in the language spoken by the Indigenous
 #. Waorani tribes of the Amazon regions of Ecuador
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Nenque"
-msgstr ""
+msgstr "Nenke"
 
 #. TRANSLATORS: Proper name of star HD 52265
 #. TRANSLATORS: Citalá means River of stars in the native Nahuat language.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Citalá"
-msgstr ""
+msgstr "Citalá"
 
 #. TRANSLATORS: Proper name of star HD 16175
 #. TRANSLATORS: Buna is the commonly used word for coffee in Ethiopia.
@@ -290,14 +290,14 @@ msgstr "Buna"
 #. Gaulish mythology.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Bélénos"
-msgstr ""
+msgstr "Bélénas"
 
 #. TRANSLATORS: Proper name of star HD 208487
 #. TRANSLATORS: Itonda, in the Myene tongue, corresponds to all that is
 #. beautiful.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Itonda"
-msgstr ""
+msgstr "Itonda"
 
 #. TRANSLATORS: Proper name of star HD 32518
 #. TRANSLATORS: Mago is a National Park in Ethiopia noted for its giraffes.
@@ -305,14 +305,14 @@ msgstr ""
 #. giraffe).
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Mago"
-msgstr ""
+msgstr "Mago"
 
 #. TRANSLATORS: Proper name of star HD 181720
 #. TRANSLATORS: Sika means gold in the Ewe language and gold is one of Ghana's
 #. principal exports.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Sika"
-msgstr ""
+msgstr "Sika"
 
 #. TRANSLATORS: Proper name of star HD 1502
 #. TRANSLATORS: The Citadelle is a large mountaintop fortress in Nord, Haiti
@@ -320,34 +320,34 @@ msgstr ""
 #. Heritage site along with the nearby Sans-Souci Palace.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Citadelle"
-msgstr ""
+msgstr "Citadelė"
 
 #. TRANSLATORS: Proper name of star HD 98219
 #. TRANSLATORS: Hunahpú was one of the twin gods who became the Sun in K'iche'
 #. (Quiché) Mayan mythology as recounted in the Popol Vuh.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Hunahpú"
-msgstr ""
+msgstr "Hunahpú"
 
 #. TRANSLATORS: Proper name of star HAT-P-2
 #. TRANSLATORS: Hunor was a legendary ancestor of the Huns and the Hungarian
 #. nation, and brother of Magor.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Hunor"
-msgstr ""
+msgstr "Hunoras"
 
 #. TRANSLATORS: Proper name of star HD 109246
 #. TRANSLATORS: Funi is an old Icelandic word meaning fire or blaze.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Funi"
-msgstr ""
+msgstr "Funi"
 
 #. TRANSLATORS: Proper name of star HD 86081
 #. TRANSLATORS: Bibhā [/bɪbɦa/] is the Bengali pronunciation of the Sanskrit
 #. word Vibha, which means a bright beam of light.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Bibhā"
-msgstr ""
+msgstr "Bibhā"
 
 #. TRANSLATORS: Proper name of star HD 117618
 #. TRANSLATORS: Dofida means our star in Nias language.
@@ -361,7 +361,7 @@ msgstr "Dofida"
 #. blacksmith who symbolises justice.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Kaveh"
-msgstr ""
+msgstr "Kavehas"
 
 #. TRANSLATORS: Proper name of star HD 231701
 #. TRANSLATORS: Uruk was an ancient city of the Sumer and Babylonian
@@ -385,7 +385,7 @@ msgstr "Flegetontas"
 #. in the Dholuo language of Kenya.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Kalausi"
-msgstr ""
+msgstr "Kalausi"
 
 #. TRANSLATORS: Proper name of star HD 118203
 #. TRANSLATORS: Liesma means flame, and it is the name of a character from the
@@ -406,20 +406,20 @@ msgstr "Finikija"
 #. Luxembourg, Count Siegfried.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Lucilinburhuc"
-msgstr ""
+msgstr "Lucilinburhukas"
 
 #. TRANSLATORS: Proper name of star HD 153950
 #. TRANSLATORS: Rapeto is a giant creature from Malagasy tales.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Rapeto"
-msgstr ""
+msgstr "Rapetas"
 
 #. TRANSLATORS: Proper name of star HD 20868
 #. TRANSLATORS: Intan means diamond in the Malay language (Bahasa Melayu),
 #. alluding to the shining of a star.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Intan"
-msgstr ""
+msgstr "Intan"
 
 #. TRANSLATORS: Proper name of star HD 224693
 #. TRANSLATORS: Axólotl means water animal in the native Nahuatl language,
@@ -427,68 +427,68 @@ msgstr ""
 #. from the basin of Mexico.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Axólotl"
-msgstr ""
+msgstr "Aksólotl"
 
 #. TRANSLATORS: Proper name of star HD 7199
 #. TRANSLATORS: Emiw represents love in the local Makhuwa language of the
 #. northern region of Mozambique.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Emiw"
-msgstr ""
+msgstr "Emiv"
 
 #. TRANSLATORS: Proper name of star HD 18742
 #. TRANSLATORS: Ayeyarwady is the largest and most important river in Myanmar.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Ayeyarwady"
-msgstr ""
+msgstr "Ajejarvadis"
 
 #. TRANSLATORS: Proper name of star HD 100777
 #. TRANSLATORS: Sagarmatha is the Nepali name for the highest peak in the
 #. world (also known as Mount Everest) and symbol of national pride of Nepal.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Sagarmatha"
-msgstr ""
+msgstr "Sagarmata"
 
 #. TRANSLATORS: Proper name of star HD 137388
 #. TRANSLATORS: Karaka is the word in the Māori language for a plant endemic
 #. to New Zealand that produces a bright orange, fleshy fruit.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Karaka"
-msgstr ""
+msgstr "Karaka"
 
 #. TRANSLATORS: Proper name of star HD 4208
 #. TRANSLATORS: Cocibolca is the Nahualt name for the largest lake in Central
 #. America in Nicaragua.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Cocibolca"
-msgstr ""
+msgstr "Kocibolka"
 
 #. TRANSLATORS: Proper name of star HD 43197
 #. TRANSLATORS: Amadioha is the god of thunder in Igbo mythology. As well as
 #. representing justice, Amadioha is also a god of love, peace and unity.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Amadioha"
-msgstr ""
+msgstr "Amadioha"
 
 #. TRANSLATORS: Proper name of star HD 68988
 #. TRANSLATORS: Násti means star in the Northern Sami language of Norway.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Násti"
-msgstr ""
+msgstr "Násti"
 
 #. TRANSLATORS: Proper name of star HAT-P-23
 #. TRANSLATORS: Shama is an Urdu literary term meaning a small lamp or flame,
 #. symbolic of the light of the star.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Shama"
-msgstr ""
+msgstr "Šama"
 
 #. TRANSLATORS: Proper name of star HD 99109
 #. TRANSLATORS: Moriah is an ancient name for the mountain within the Old City
 #. of Jerusalem.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Moriah"
-msgstr ""
+msgstr "Moria"
 
 #. TRANSLATORS: Proper name of star HD 108147
 #. TRANSLATORS: Tupã is one of four principle gods of the Guarani Cosmogony in
@@ -496,21 +496,21 @@ msgstr ""
 #. the Universe.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Tupã"
-msgstr ""
+msgstr "Tupa"
 
 #. TRANSLATORS: Proper name of star HD 156411
 #. TRANSLATORS: Inquil was one half of the couple involved in the tragic love
 #. story Way to the Sun by famous Peruvian writer Abraham Valdelomar.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Inquill"
-msgstr ""
+msgstr "Inkvilis"
 
 #. TRANSLATORS: Proper name of star HD 102117
 #. TRANSLATORS: Uklun means us or we in the Pitkern language of the people of
 #. Pitcairn Islands.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Uklun"
-msgstr ""
+msgstr "Uklun"
 
 #. TRANSLATORS: Proper name of star BD+14 4559
 #. TRANSLATORS: Solaris is the title of a 1961 science fiction novel about an
@@ -532,20 +532,20 @@ msgstr "Luzitanija"
 #. Indigenous People of the Caribbean.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Koeia"
-msgstr ""
+msgstr "Koėja"
 
 #. TRANSLATORS: Proper name of star HD 181342
 #. TRANSLATORS: Belel is a rare source of water in the north of Senegal.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Belel"
-msgstr ""
+msgstr "Belelis"
 
 #. TRANSLATORS: Proper name of star 8 Umi
 #. TRANSLATORS: Baekdu is the highest mountain on the Korean peninsula,
 #. situated in North Korea, and symbolises the national spirit of Korea.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Baekdu"
-msgstr ""
+msgstr "Baekdu"
 
 #. TRANSLATORS: Proper name of star HD 149143
 #. TRANSLATORS: Rosalía de Castro was a significant figure of Galician culture
@@ -553,34 +553,34 @@ msgstr ""
 #. night and celestial objects.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Rosalíadecastro"
-msgstr ""
+msgstr "Rosalíadecastro"
 
 #. TRANSLATORS: Proper name of star HD 205739
 #. TRANSLATORS: Sāmaya means peace in the Sinhalese language.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Sāmaya"
-msgstr ""
+msgstr "Sāmaya"
 
 #. TRANSLATORS: Proper name of star HD 102956
 #. TRANSLATORS: Aniara is the name of a spaceship in the epic poem Aniara by
 #. Swedish author Harry Martinson.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Aniara"
-msgstr ""
+msgstr "Aniara"
 
 #. TRANSLATORS: Proper name of star HD 130322
 #. TRANSLATORS: Mönch is one of the prominent peaks of the Bernese Alps in
 #. Switzerland.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Mönch"
-msgstr ""
+msgstr "Mionchas"
 
 #. TRANSLATORS: Proper name of star HD 218566
 #. TRANSLATORS: Ebla was one of the earliest kingdoms in Syria, and served as
 #. a prominent region in the 2nd and 3rd millennia B.C.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Ebla"
-msgstr ""
+msgstr "Ebla"
 
 #. TRANSLATORS: Proper name of star HD 96063
 #. TRANSLATORS: Dingolay means to dance, twist and turn in elaborate
@@ -588,7 +588,7 @@ msgstr ""
 #. people of Trinidad and Tobago.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Dingolay"
-msgstr ""
+msgstr "Dingolai"
 
 #. TRANSLATORS: Proper name of star HD 192699
 #. TRANSLATORS: Chechia is a flat-surfaced, traditional red wool hat worn by
@@ -596,7 +596,7 @@ msgstr ""
 #. as the national headdress for in Tunisia.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Chechia"
-msgstr ""
+msgstr "Čečija"
 
 #. TRANSLATORS: Proper name of star HIP 79431
 #. TRANSLATORS: Sharjah is the cultural capital of United Arab Emirates, and
@@ -604,21 +604,21 @@ msgstr ""
 #. institutes, museums, libraries and heritage centers.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Sharjah"
-msgstr ""
+msgstr "Šardža"
 
 #. TRANSLATORS: Proper name of star HD 17156
 #. TRANSLATORS: Nushagak is a regional river near Dilingham, Alaska, which is
 #. famous for its wild salmon that sustain local Indigenous communities.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Nushagak"
-msgstr ""
+msgstr "Nušagakas"
 
 #. TRANSLATORS: Proper name of star HD 63454
 #. TRANSLATORS: Ceibo is the name of the native tree of Uruguay that gives
 #. rise to the national flower.
 #. TRANSLATORS: https://iau.org/news/pressreleases/detail/iau1912/
 msgid "Ceibo"
-msgstr ""
+msgstr "Ceibo"
 
 #. TRANSLATORS: Proper name of star HD 85390
 #. TRANSLATORS: Natasha means thank you in many languages of Zambia.
@@ -831,7 +831,7 @@ msgid "Acrux"
 msgstr "Akruksas"
 
 msgid "Hadar"
-msgstr ""
+msgstr "Hadaras"
 
 msgid "Antares"
 msgstr "Antaris"
@@ -1020,7 +1020,7 @@ msgid "Ancha"
 msgstr ""
 
 msgid "Situla"
-msgstr ""
+msgstr "Situla"
 
 msgid "Sadaltager"
 msgstr ""
@@ -1041,7 +1041,7 @@ msgid "Albulan I"
 msgstr ""
 
 msgid "Bunda"
-msgstr ""
+msgstr "Bunda"
 
 msgid "Sadalmulk"
 msgstr ""
@@ -1068,7 +1068,7 @@ msgid "Tarazed"
 msgstr "Tarazedas"
 
 msgid "Reda"
-msgstr ""
+msgstr "Reda"
 
 msgid "Al Thalimain Prior"
 msgstr ""
@@ -1086,7 +1086,7 @@ msgid "Althalimain"
 msgstr ""
 
 msgid "Okab"
-msgstr ""
+msgstr "Okabas"
 
 msgid "Deneb al Okab Australis"
 msgstr ""
@@ -1101,16 +1101,16 @@ msgid "Deneb al Okab Borealis"
 msgstr ""
 
 msgid "Almizan I"
-msgstr ""
+msgstr "Almizan I"
 
 msgid "Deneb Okab"
-msgstr ""
+msgstr "Deneb Okab"
 
 msgid "Almizan II"
-msgstr ""
+msgstr "Almizan II"
 
 msgid "Almizan III"
-msgstr ""
+msgstr "Almizan III"
 
 msgid "Hamal"
 msgstr "Hamalis"
@@ -1128,16 +1128,16 @@ msgid "Botein"
 msgstr "Boteinas"
 
 msgid "Barani I"
-msgstr ""
+msgstr "Barani I"
 
 msgid "Barani II"
-msgstr ""
+msgstr "Barani II"
 
 msgid "Lilii Borea"
-msgstr ""
+msgstr "Lilii Borea"
 
 msgid "Barani III"
-msgstr ""
+msgstr "Barani III"
 
 msgid "Bharani"
 msgstr ""
@@ -1146,19 +1146,19 @@ msgid "Nair al Butain"
 msgstr ""
 
 msgid "Al Butain III"
-msgstr ""
+msgstr "Al Butain III"
 
 msgid "Al Butain IV"
-msgstr ""
+msgstr "Al Butain IV"
 
 msgid "Koleon"
 msgstr ""
 
 msgid "Al Butain I"
-msgstr ""
+msgstr "Al Butain I"
 
 msgid "Al Butain II"
-msgstr ""
+msgstr "Al Butain II"
 
 msgid "Alhajoth"
 msgstr ""
@@ -1170,7 +1170,7 @@ msgid "Menkalinan"
 msgstr "Menkalinanas"
 
 msgid "Menkarlina"
-msgstr ""
+msgstr "Menkarlina"
 
 msgid "Hassaleh"
 msgstr ""
@@ -1188,7 +1188,7 @@ msgid "Haedus"
 msgstr ""
 
 msgid "Sadatoni"
-msgstr ""
+msgstr "Sadatonis"
 
 msgid "Almaaz"
 msgstr ""
@@ -1197,7 +1197,7 @@ msgid "Al Ma'az"
 msgstr ""
 
 msgid "Alanz"
-msgstr ""
+msgstr "Alancas"
 
 msgid "Al Anz"
 msgstr ""
@@ -1206,49 +1206,49 @@ msgid "Haedus II"
 msgstr ""
 
 msgid "Mahasim"
-msgstr ""
+msgstr "Mahasimas"
 
 msgid "Bogardus"
 msgstr ""
 
 msgid "Alhiba II"
-msgstr ""
+msgstr "Alhiba II"
 
 msgid "Alhiba I"
-msgstr ""
+msgstr "Alhiba I"
 
 msgid "Alhiba III"
-msgstr ""
+msgstr "Alhiba III"
 
 msgid "Dolones I"
-msgstr ""
+msgstr "Dolones I"
 
 msgid "Dolones III"
-msgstr ""
+msgstr "Dolones III"
 
 msgid "Dolones II"
-msgstr ""
+msgstr "Dolones II"
 
 msgid "Dolones IV"
-msgstr ""
+msgstr "Dolones IV"
 
 msgid "Dolones V"
-msgstr ""
+msgstr "Dolones V"
 
 msgid "Dolones VI"
-msgstr ""
+msgstr "Dolones VI"
 
 msgid "Dolones VII"
-msgstr ""
+msgstr "Dolones VII"
 
 msgid "Dolones VIII"
-msgstr ""
+msgstr "Dolones VIII"
 
 msgid "Dolones IX"
-msgstr ""
+msgstr "Dolones IX"
 
 msgid "Andrews' star"
-msgstr ""
+msgstr "Endriuso žvaigždė "
 
 msgid "Prijipati"
 msgstr ""
@@ -1260,7 +1260,7 @@ msgid "Seginus"
 msgstr "Seginas"
 
 msgid "Haris"
-msgstr ""
+msgstr "Haris"
 
 msgid "Izar"
 msgstr ""
@@ -1281,28 +1281,28 @@ msgid "Alkalurops"
 msgstr ""
 
 msgid "Inkalunis"
-msgstr ""
+msgstr "Inkalunis"
 
 msgid "Clava"
 msgstr "Klava"
 
 msgid "Venabulum"
-msgstr ""
+msgstr "Venabulum"
 
 msgid "Merga"
 msgstr "Merga"
 
 msgid "Asellus Primus"
-msgstr ""
+msgstr "Asellus Primus"
 
 msgid "Asellus Secundus"
-msgstr ""
+msgstr "Asellus Secundus"
 
 msgid "Asellus Secondus"
-msgstr ""
+msgstr "Asellus Secondus"
 
 msgid "Asellus Tertius"
-msgstr ""
+msgstr "Asellus Tertius"
 
 msgid "Thiba"
 msgstr ""
@@ -1314,7 +1314,7 @@ msgid "Aulad Althiba"
 msgstr ""
 
 msgid "Ceginus"
-msgstr ""
+msgstr "Seginas"
 
 msgid "Aulad Alnathlat"
 msgstr ""
@@ -1323,7 +1323,7 @@ msgid "Acubens"
 msgstr "Akubenas"
 
 msgid "Sertan"
-msgstr ""
+msgstr "Sertanas"
 
 msgid "Asellus Borealis"
 msgstr ""
@@ -1338,25 +1338,25 @@ msgid "Tegmeni"
 msgstr ""
 
 msgid "Tarf"
-msgstr ""
+msgstr "Tarfas"
 
 msgid "Al Tarf"
-msgstr ""
+msgstr "Al Tarfas"
 
 msgid "Altarf"
-msgstr ""
+msgstr "Altarfas"
 
 msgid "Meleph"
-msgstr ""
+msgstr "Melefas"
 
 msgid "Almalaf"
-msgstr ""
+msgstr "Almalaf"
 
 msgid "Zubanah"
-msgstr ""
+msgstr "Zubanah"
 
 msgid "Piautos"
-msgstr ""
+msgstr "Piautos"
 
 msgid "Nahn"
 msgstr ""
@@ -1368,10 +1368,10 @@ msgid "Chara"
 msgstr ""
 
 msgid "Asterion"
-msgstr ""
+msgstr "Asterionas"
 
 msgid "La Superba"
-msgstr ""
+msgstr "La Superba"
 
 msgid "Canicula"
 msgstr ""
@@ -1383,16 +1383,16 @@ msgid "Mirzam"
 msgstr "Mirzamas"
 
 msgid "Murzim"
-msgstr ""
+msgstr "Murzim"
 
 msgid "Murzam"
-msgstr ""
+msgstr "Murzam"
 
 msgid "Muliphein"
-msgstr ""
+msgstr "Mulifeinas"
 
 msgid "Mirza"
-msgstr ""
+msgstr "Mirza"
 
 msgid "Isis"
 msgstr "Izidė"
@@ -1407,7 +1407,7 @@ msgid "Al Wazor"
 msgstr ""
 
 msgid "Wezea"
-msgstr ""
+msgstr "Vezenas"
 
 msgid "Adhara"
 msgstr "Adara"
@@ -1416,7 +1416,7 @@ msgid "Adara"
 msgstr "Adara"
 
 msgid "Furud"
-msgstr ""
+msgstr "Furudas"
 
 msgid "Phurad"
 msgstr ""
@@ -1425,10 +1425,10 @@ msgid "Aludra"
 msgstr "Aludra"
 
 msgid "Udra"
-msgstr ""
+msgstr "Udra"
 
 msgid "Al Zara"
-msgstr ""
+msgstr "Al Zara"
 
 msgid "Nganurganity"
 msgstr ""
@@ -1437,40 +1437,40 @@ msgid "Winter Albireo"
 msgstr ""
 
 msgid "Elgomaisa"
-msgstr ""
+msgstr "Elgomaisa"
 
 msgid "Antecanis"
 msgstr ""
 
 msgid "Gomeisa"
-msgstr ""
+msgstr "Gomeisa"
 
 msgid "Algomeyla"
-msgstr ""
+msgstr "Algomeila"
 
 msgid "Gomelza"
-msgstr ""
+msgstr "Gomelza"
 
 msgid "Luyten's Star"
-msgstr ""
+msgstr "Luiteno žvaigždė"
 
 msgid "Prima Giedi"
-msgstr ""
+msgstr "Prima Giedi"
 
 msgid "Gredi"
-msgstr ""
+msgstr "Gredi"
 
 msgid "Giedi"
-msgstr ""
+msgstr "Giedi"
 
 msgid "Al Giedi Prima"
-msgstr ""
+msgstr "Al Giedi Prima"
 
 msgid "Algedi"
 msgstr "Algedis"
 
 msgid "Secunda Giedi"
-msgstr ""
+msgstr "Secunda Giedi"
 
 msgid "Al Giedi"
 msgstr "Al Giedis"
@@ -1491,19 +1491,19 @@ msgid "Deneb Algedi"
 msgstr "Denebas Algedis"
 
 msgid "Deneb Algiedi"
-msgstr ""
+msgstr "Deneb Algiedi"
 
 msgid "Scheddi"
 msgstr ""
 
 msgid "Deneb al Giedi"
-msgstr ""
+msgstr "Deneb al Giedi"
 
 msgid "Alshat"
 msgstr "Alšatas"
 
 msgid "Al Shat"
-msgstr ""
+msgstr "Al Šatas"
 
 msgid "Yen"
 msgstr ""
@@ -1530,16 +1530,16 @@ msgid "Scutulum"
 msgstr ""
 
 msgid "Innes' Star"
-msgstr ""
+msgstr "Ineso žvaigždė"
 
 msgid "Schedar"
-msgstr ""
+msgstr "Šedaras"
 
 msgid "Shedar"
-msgstr ""
+msgstr "Šedaras"
 
 msgid "Shedir"
-msgstr ""
+msgstr "Šedyras"
 
 msgid "Caph"
 msgstr "Kafas"
@@ -1548,13 +1548,13 @@ msgid "Al Sanam al Nakah"
 msgstr ""
 
 msgid "Chaph"
-msgstr ""
+msgstr "Čafas"
 
 msgid "Ruchbah"
 msgstr "Rukba"
 
 msgid "Ksora"
-msgstr ""
+msgstr "Ksora"
 
 msgid "Rucbar"
 msgstr ""
@@ -1563,46 +1563,46 @@ msgid "Achird"
 msgstr ""
 
 msgid "Marfak"
-msgstr ""
+msgstr "Marfakas"
 
 msgid "Segin"
-msgstr ""
+msgstr "Segina"
 
 msgid "Marfak-East"
-msgstr ""
+msgstr "Marfakas-Rytinis"
 
 msgid "Marfak-West"
-msgstr ""
+msgstr "Marfakas-Vakarinis"
 
 msgid "Al Marfak"
-msgstr ""
+msgstr "Al Marfakas"
 
 msgid "Navi"
-msgstr ""
+msgstr "Navi"
 
 msgid "Cih"
 msgstr ""
 
 msgid "Fulu"
-msgstr ""
+msgstr "Fulu"
 
 msgid "Castula"
-msgstr ""
+msgstr "Kastula"
 
 msgid "Pearce's Star"
-msgstr ""
+msgstr "Pirso žvaigždė"
 
 msgid "Rigil Kentaurus"
-msgstr ""
+msgstr "Rigil Kentaurus"
 
 msgid "Toliman"
 msgstr "Tolimanas"
 
 msgid "Rigel Kentaurus"
-msgstr ""
+msgstr "Rigel Kentaurus"
 
 msgid "Bungula"
-msgstr ""
+msgstr "Bungula"
 
 msgid "Proxima"
 msgstr "Proksima"
@@ -1611,7 +1611,7 @@ msgid "Proxima Centauri"
 msgstr "Kentauro proksima"
 
 msgid "Agena"
-msgstr ""
+msgstr "Agena"
 
 msgid "Muhlifain"
 msgstr ""
@@ -1632,10 +1632,10 @@ msgid "Haratan"
 msgstr "Haratanas"
 
 msgid "Przybylski's Star"
-msgstr ""
+msgstr "Pšibilskio žvaigždė"
 
 msgid "Bidelman's Helium Variable Star"
-msgstr ""
+msgstr "Bidelmano helio kintamoji žvaigždė"
 
 msgid "Popper's Star"
 msgstr "Popperio žvaigždė"
@@ -1650,7 +1650,7 @@ msgid "Alfirk"
 msgstr "Alfirkas"
 
 msgid "Alphirk"
-msgstr ""
+msgstr "Alfirikas"
 
 msgid "Errai"
 msgstr "Erajus"
@@ -1659,10 +1659,10 @@ msgid "Alrai"
 msgstr ""
 
 msgid "The Garnet Star"
-msgstr "Garneto Žvaigždė"
+msgstr "Granato Žvaigždė"
 
 msgid "Erakis"
-msgstr ""
+msgstr "Erakis"
 
 msgid "Kurhah"
 msgstr ""
@@ -1701,7 +1701,7 @@ msgid "Deneb Kaitos"
 msgstr ""
 
 msgid "Baten Kaitos"
-msgstr ""
+msgstr "Baten Kaitos"
 
 msgid "Mira"
 msgstr "Mira"
@@ -1722,7 +1722,7 @@ msgid "Alkaffaljidhina"
 msgstr ""
 
 msgid "Deneb Algenubi"
-msgstr ""
+msgstr "Deneb Algenubi"
 
 msgid "Deneb Kaitos Shemali"
 msgstr ""
@@ -1734,7 +1734,7 @@ msgid "Baten Kaitos Shemali"
 msgstr ""
 
 msgid "Menkab"
-msgstr ""
+msgstr "Menkab"
 
 msgid "Al Kaff al Jidhmah III"
 msgstr ""
@@ -1755,13 +1755,13 @@ msgid "Al Kaff al Jidhmah II"
 msgstr ""
 
 msgid "Sadr al Kaitos IV"
-msgstr ""
+msgstr "Sadr al Kaitos IV"
 
 msgid "Sadr al Kaitos I"
-msgstr ""
+msgstr "Sadr al Kaitos I"
 
 msgid "Sadr al Kaitos II"
-msgstr ""
+msgstr "Sadr al Kaitos II"
 
 msgid "Al Naymat II"
 msgstr ""
@@ -1791,7 +1791,7 @@ msgid "Phakt"
 msgstr ""
 
 msgid "Phad"
-msgstr ""
+msgstr "Fadas"
 
 msgid "Wazn"
 msgstr ""
@@ -1812,7 +1812,7 @@ msgid "Polaris Galacticus Borealis"
 msgstr ""
 
 msgid "Diadem"
-msgstr ""
+msgstr "Diadema"
 
 msgid "Diadema"
 msgstr "Diadema"
@@ -1833,25 +1833,25 @@ msgid "Alphecca"
 msgstr ""
 
 msgid "Gemma"
-msgstr ""
+msgstr "Gemma"
 
 msgid "Alphekka"
 msgstr "Alfeka"
 
 msgid "Gnosia"
-msgstr ""
+msgstr "Gnosija"
 
 msgid "Ashtaroth"
-msgstr ""
+msgstr "Aštarotas"
 
 msgid "Nusakan"
-msgstr ""
+msgstr "Nusakanas"
 
 msgid "Variabilis Coronae"
 msgstr ""
 
 msgid "Blaze Star"
-msgstr ""
+msgstr "Liepsnojanti žvaigždė"
 
 msgid "Kamuy"
 msgstr ""
@@ -1875,19 +1875,19 @@ msgid "Gienah Ghurab"
 msgstr ""
 
 msgid "Minkar"
-msgstr ""
+msgstr "Minkaras"
 
 msgid "Algorab"
-msgstr ""
+msgstr "Algorabas"
 
 msgid "Algorel"
-msgstr ""
+msgstr "Algorel"
 
 msgid "Kraz"
-msgstr ""
+msgstr "Krazas"
 
 msgid "Alkes"
-msgstr ""
+msgstr "Alkes"
 
 msgid "Al Sharasif"
 msgstr ""
@@ -1896,7 +1896,7 @@ msgid "Al Sharasif II"
 msgstr ""
 
 msgid "Abt's Star"
-msgstr ""
+msgstr "Abto žvaigždė"
 
 msgid "Mimosa"
 msgstr "Mimoza"
@@ -1920,16 +1920,16 @@ msgid "Arided"
 msgstr ""
 
 msgid "Aridif"
-msgstr ""
+msgstr "Aridifas"
 
 msgid "Arrioph"
-msgstr ""
+msgstr "Ariofas"
 
 msgid "Deneb el Adige"
 msgstr ""
 
 msgid "Deneb Cygni"
-msgstr ""
+msgstr "Deneb Cygni"
 
 msgid "Albireo"
 msgstr "Albirėjas"
@@ -1959,13 +1959,13 @@ msgid "Ruchba"
 msgstr ""
 
 msgid "Rucba"
-msgstr ""
+msgstr "Rukba"
 
 msgid "Bessel's Star"
-msgstr ""
+msgstr "Beselio žvaigždė"
 
 msgid "Piazzi's Flying Star"
-msgstr ""
+msgstr "Piacio Skraidanti žvagždė"
 
 msgid "Campbell's Star"
 msgstr "Campbello žvaigždė"
@@ -1977,7 +1977,7 @@ msgid "Revenant of the Swan"
 msgstr ""
 
 msgid "Permanent nova"
-msgstr ""
+msgstr "Nuolatinė nova"
 
 msgid "Fawaris"
 msgstr ""
@@ -1998,16 +1998,16 @@ msgid "Svalocin"
 msgstr ""
 
 msgid "Rotanev"
-msgstr ""
+msgstr "Rotanevas"
 
 msgid "Venator"
-msgstr ""
+msgstr "Venatorius"
 
 msgid "Aldulfin"
-msgstr ""
+msgstr "Aldulfin"
 
 msgid "Deneb Dulfim"
-msgstr ""
+msgstr "Deneb Dulfim"
 
 msgid "Al Salib"
 msgstr ""
@@ -2019,7 +2019,7 @@ msgid "Thuban"
 msgstr ""
 
 msgid "Adib"
-msgstr ""
+msgstr "Adib"
 
 msgid "Al Tinnin"
 msgstr ""
@@ -2031,34 +2031,34 @@ msgid "Alwaid"
 msgstr ""
 
 msgid "Asuia"
-msgstr ""
+msgstr "Asuja"
 
 msgid "Eltanin"
-msgstr ""
+msgstr "Eltaninas"
 
 msgid "Etamin"
-msgstr ""
+msgstr "Etaminas"
 
 msgid "Taurt"
-msgstr ""
+msgstr "Taurtas"
 
 msgid "Eltamin"
-msgstr ""
+msgstr "Eltaminas"
 
 msgid "Altais"
 msgstr "Altajas"
 
 msgid "Al Tais"
-msgstr ""
+msgstr "Al Tais"
 
 msgid "Nodus II"
-msgstr ""
+msgstr "Nodus II"
 
 msgid "Nodus Secundus"
 msgstr ""
 
 msgid "Aldib"
-msgstr ""
+msgstr "Aldibas"
 
 msgid "Taïs"
 msgstr ""
@@ -2073,34 +2073,34 @@ msgid "Al Dhihi"
 msgstr ""
 
 msgid "Giausar"
-msgstr ""
+msgstr "Giausaras"
 
 msgid "Giansar"
-msgstr ""
+msgstr "Giansaras"
 
 msgid "Alrakis"
-msgstr ""
+msgstr "Alrakis"
 
 msgid "Arrakis"
-msgstr ""
+msgstr "Arrakis"
 
 msgid "Errakis"
-msgstr ""
+msgstr "Errakis"
 
 msgid "Grumium"
-msgstr ""
+msgstr "Grumium"
 
 msgid "Genam"
-msgstr ""
+msgstr "Genam"
 
 msgid "Nodus I"
-msgstr ""
+msgstr "Nodus I"
 
 msgid "Juza"
 msgstr ""
 
 msgid "Kuma"
-msgstr ""
+msgstr "Kuma"
 
 msgid "Tyl"
 msgstr ""
@@ -2127,7 +2127,7 @@ msgid "Adfar Aldib II"
 msgstr ""
 
 msgid "Alruba"
-msgstr ""
+msgstr "Alruba"
 
 msgid "Aldhibah"
 msgstr ""
@@ -2154,22 +2154,22 @@ msgid "Adfar Aldib I"
 msgstr ""
 
 msgid "Tais I"
-msgstr ""
+msgstr "Tais I"
 
 msgid "Tais II"
-msgstr ""
+msgstr "Tais II"
 
 msgid "Athafi II"
-msgstr ""
+msgstr "Athafi II"
 
 msgid "Athafi I"
-msgstr ""
+msgstr "Athafi I"
 
 msgid "Aldhiba"
-msgstr ""
+msgstr "Aldhiba"
 
 msgid "Alahakan"
-msgstr ""
+msgstr "Alahakan"
 
 msgid "Taiyi"
 msgstr ""
@@ -2187,7 +2187,7 @@ msgid "Dhalim"
 msgstr ""
 
 msgid "Kursa"
-msgstr ""
+msgstr "Kursa"
 
 msgid "Zaurak"
 msgstr "Zaurakas"
@@ -2199,16 +2199,16 @@ msgid "Azha"
 msgstr ""
 
 msgid "Acamar"
-msgstr ""
+msgstr "Akamaras"
 
 msgid "Dalim"
-msgstr ""
+msgstr "Dalim"
 
 msgid "Beid"
-msgstr ""
+msgstr "Beid"
 
 msgid "Keid"
-msgstr ""
+msgstr "Keid"
 
 msgid "Theemin"
 msgstr ""
@@ -2238,22 +2238,22 @@ msgid "Beemim III"
 msgstr ""
 
 msgid "Rana"
-msgstr ""
+msgstr "Rana"
 
 msgid "Sceptrum"
-msgstr ""
+msgstr "Skeptras"
 
 msgid "Kursi al Jauzah II"
 msgstr ""
 
 msgid "Aludhi I"
-msgstr ""
+msgstr "Aludhi I"
 
 msgid "Aludhi II"
-msgstr ""
+msgstr "Aludhi II"
 
 msgid "Aludhi III"
-msgstr ""
+msgstr "Aludhi III"
 
 msgid "Beemim I"
 msgstr ""
@@ -2262,7 +2262,7 @@ msgid "Kursi al Jauzah I"
 msgstr ""
 
 msgid "Fornacis"
-msgstr ""
+msgstr "Fornacis"
 
 msgid "Castor"
 msgstr "Kastoras"
@@ -2281,13 +2281,13 @@ msgid "Alhena"
 msgstr "Alhena"
 
 msgid "Almeisan"
-msgstr ""
+msgstr "Almeisanas"
 
 msgid "Wasat"
 msgstr ""
 
 msgid "Mebsuta"
-msgstr ""
+msgstr "Mebsuta"
 
 msgid "Melucta"
 msgstr ""
@@ -2296,10 +2296,10 @@ msgid "Meboula"
 msgstr ""
 
 msgid "Mekbuda"
-msgstr ""
+msgstr "Mekbuda"
 
 msgid "Propus"
-msgstr ""
+msgstr "Propus"
 
 msgid "Tejat Prior"
 msgstr ""
@@ -2344,7 +2344,7 @@ msgid "Deneb Hut"
 msgstr ""
 
 msgid "Tiaki"
-msgstr ""
+msgstr "Tiaki"
 
 msgid "Deneb Alnahr"
 msgstr ""
@@ -2368,7 +2368,7 @@ msgid "Marsic"
 msgstr ""
 
 msgid "Marfik"
-msgstr ""
+msgstr "Marfik"
 
 msgid "Maasym"
 msgstr ""
@@ -2380,7 +2380,7 @@ msgid "Cujam"
 msgstr ""
 
 msgid "Sarin"
-msgstr ""
+msgstr "Sarin"
 
 msgid "Nasak Shamiya III"
 msgstr ""
@@ -2392,25 +2392,25 @@ msgid "Kalbelaphard"
 msgstr ""
 
 msgid "Cor Hydrae"
-msgstr ""
+msgstr "Cor Hydrae"
 
 msgid "Ukdah III"
 msgstr ""
 
 msgid "Minazal I"
-msgstr ""
+msgstr "Minazal I"
 
 msgid "Ashlesha"
 msgstr ""
 
 msgid "Minazal III"
-msgstr ""
+msgstr "Minazal III"
 
 msgid "Minazal V"
-msgstr ""
+msgstr "Minazal V"
 
 msgid "Minazal II"
-msgstr ""
+msgstr "Minazal II"
 
 msgid "Ukdah"
 msgstr ""
@@ -2422,7 +2422,7 @@ msgid "Al Sharasif I"
 msgstr ""
 
 msgid "Minazal IV"
-msgstr ""
+msgstr "Minazal IV"
 
 msgid "Minchir"
 msgstr ""
@@ -2443,19 +2443,19 @@ msgid "Zhang"
 msgstr ""
 
 msgid "Felis"
-msgstr ""
+msgstr "Felis"
 
 msgid "Persian"
-msgstr ""
+msgstr "Persų"
 
 msgid "Babcock's Star"
-msgstr ""
+msgstr "Babkoko žvaigždė"
 
 msgid "Cor Leonis"
-msgstr ""
+msgstr "Cor Liūto"
 
 msgid "Rex"
-msgstr ""
+msgstr "Rex"
 
 msgid "Kabeleced"
 msgstr ""
@@ -2470,13 +2470,13 @@ msgid "Algieba"
 msgstr "Algieba"
 
 msgid "Al Geiba"
-msgstr ""
+msgstr "Al Geiba"
 
 msgid "Zosma"
 msgstr "Zosma"
 
 msgid "Duhr"
-msgstr ""
+msgstr "Duhr"
 
 msgid "Zubra"
 msgstr "Zubra"
@@ -2485,7 +2485,7 @@ msgid "Adhafera"
 msgstr "Adafera"
 
 msgid "Aldhafera"
-msgstr ""
+msgstr "Aldhafera"
 
 msgid "Chertan"
 msgstr ""
@@ -2500,7 +2500,7 @@ msgid "Chort"
 msgstr ""
 
 msgid "Alterf"
-msgstr ""
+msgstr "Alterf"
 
 msgid "Rasalas"
 msgstr "Rasalas"
@@ -2512,37 +2512,37 @@ msgid "Ras Elased Borealis"
 msgstr ""
 
 msgid "Rassalas"
-msgstr ""
+msgstr "Rassalas"
 
 msgid "Subra"
 msgstr "Subra"
 
 msgid "Algenubi"
-msgstr ""
+msgstr "Algenubi"
 
 msgid "Ras Elased Australis"
-msgstr ""
+msgstr "Ras Elased Australis"
 
 msgid "Ras Elased"
-msgstr ""
+msgstr "Ras Elased"
 
 msgid "Asad Australis"
-msgstr ""
+msgstr "Asad Australis"
 
 msgid "Al Minlear al Asad"
-msgstr ""
+msgstr "Al Minlear al Asad"
 
 msgid "Minkarasad"
-msgstr ""
+msgstr "Minkarasad"
 
 msgid "Zubrah"
-msgstr ""
+msgstr "Zubrah"
 
 msgid "Al Jabhah"
 msgstr ""
 
 msgid "Klemola's Star"
-msgstr ""
+msgstr "Klemolos žvaigždė"
 
 msgid "Tsze Tseang"
 msgstr ""
@@ -2560,7 +2560,7 @@ msgid "Nihal"
 msgstr "Nihalas"
 
 msgid "Hind's Crimson Star"
-msgstr ""
+msgstr "Hindo purpurinė žvaigždė"
 
 msgid "Kursi al Jabbar"
 msgstr ""
@@ -2611,19 +2611,19 @@ msgid "Zuben Elakribi"
 msgstr ""
 
 msgid "Mulu-Lizi"
-msgstr ""
+msgstr "Mulu-Lizi"
 
 msgid "Zubenelhakrabi"
-msgstr ""
+msgstr "Zubenelhakrabi"
 
 msgid "Zuben Elakrab"
-msgstr ""
+msgstr "Zuben Elakrab"
 
 msgid "Zuben Hakrabi"
-msgstr ""
+msgstr "Zuben Hakrabi"
 
 msgid "Methuselah star"
-msgstr ""
+msgstr "Methuselacho žvagždė"
 
 msgid "Zuban al Kravi"
 msgstr ""
@@ -2644,13 +2644,13 @@ msgid "Shaukah"
 msgstr ""
 
 msgid "Dolones X"
-msgstr ""
+msgstr "Dolones X"
 
 msgid "Fidis"
-msgstr ""
+msgstr "Fidis"
 
 msgid "Harp star"
-msgstr ""
+msgstr " Arfos žvaigždė"
 
 msgid "Sheliak"
 msgstr "Šeliakas"
@@ -2668,13 +2668,13 @@ msgid "Aladfar"
 msgstr "Aladfaras"
 
 msgid "Al Athfar"
-msgstr ""
+msgstr "Al Athfaras"
 
 msgid "Double Double I"
-msgstr ""
+msgstr "Double Double I"
 
 msgid "Double Double II"
-msgstr ""
+msgstr "Double Double II"
 
 msgid "Nasr Alwaki I"
 msgstr ""
@@ -2683,7 +2683,7 @@ msgid "Nasr Alwaki II"
 msgstr ""
 
 msgid "Plaskett's Star"
-msgstr ""
+msgstr "Plasketo žvaigždė"
 
 msgid "Red Rectangle"
 msgstr "Raudonasis stačiakampis"
@@ -2731,7 +2731,7 @@ msgid "Saik"
 msgstr ""
 
 msgid "Garafsa"
-msgstr ""
+msgstr "Garafsa"
 
 msgid "Aggia"
 msgstr ""
@@ -2749,7 +2749,7 @@ msgid "Betelgeux"
 msgstr ""
 
 msgid "Martial Star"
-msgstr ""
+msgstr "Kovos žvaigždė"
 
 msgid "Algebar"
 msgstr ""
@@ -2761,10 +2761,10 @@ msgid "Saiph"
 msgstr "Saifas"
 
 msgid "Meissa"
-msgstr ""
+msgstr "Meissa"
 
 msgid "Heka"
-msgstr ""
+msgstr "Heka"
 
 msgid "Hatysa"
 msgstr ""
@@ -2785,7 +2785,7 @@ msgid "Mizan Batil III"
 msgstr ""
 
 msgid "Manica"
-msgstr ""
+msgstr "Manika"
 
 msgid "Saif al Jabbar"
 msgstr ""
@@ -2821,7 +2821,7 @@ msgid "Al Taj V"
 msgstr ""
 
 msgid "Becklin's Star"
-msgstr ""
+msgstr "Beklino žvaigždė"
 
 msgid "Peacock"
 msgstr "Povas"
@@ -2845,13 +2845,13 @@ msgid "Enif"
 msgstr "Enifas"
 
 msgid "Os Pegasi"
-msgstr ""
+msgstr "Os Pegasi"
 
 msgid "Fom"
 msgstr ""
 
 msgid "Fumalfaras"
-msgstr ""
+msgstr "Fumalfaras"
 
 msgid "Homam"
 msgstr ""
@@ -2881,7 +2881,7 @@ msgid "Al Karab"
 msgstr ""
 
 msgid "Salma"
-msgstr ""
+msgstr "Salma"
 
 msgid "Sadalnazi"
 msgstr ""
@@ -2911,7 +2911,7 @@ msgid "Algol"
 msgstr "Algolis"
 
 msgid "Gorgonea Prima"
-msgstr ""
+msgstr "Gorgonea Prima"
 
 msgid "Gorgona"
 msgstr "Gorgona"
@@ -2932,16 +2932,16 @@ msgid "Menkhib"
 msgstr ""
 
 msgid "Gorgonea Secunda"
-msgstr ""
+msgstr "Gorgonea Secunda"
 
 msgid "Gorgonea Tertia"
-msgstr ""
+msgstr "Gorgonea Tertia"
 
 msgid "Gorgonea Terti"
-msgstr ""
+msgstr "Gorgonea Terti"
 
 msgid "Gorgonea Quarta"
-msgstr ""
+msgstr "Gorgonea Quarta"
 
 msgid "Miram"
 msgstr ""
@@ -2998,7 +2998,7 @@ msgid "Alrisha"
 msgstr ""
 
 msgid "Okda"
-msgstr ""
+msgstr "Okda"
 
 msgid "Kaitain"
 msgstr ""
@@ -3034,7 +3034,7 @@ msgid "Kuton I"
 msgstr ""
 
 msgid "Revati"
-msgstr ""
+msgstr "Revati"
 
 msgid "Kuton II"
 msgstr ""
@@ -3067,16 +3067,16 @@ msgid "Azmidi"
 msgstr ""
 
 msgid "Asmidiske"
-msgstr ""
+msgstr "Asmidiskė"
 
 msgid "Azmidiske"
-msgstr ""
+msgstr "Azmidiskė"
 
 msgid "Sham"
 msgstr ""
 
 msgid "Rukbat"
-msgstr ""
+msgstr "Rukba"
 
 msgid "Alrami"
 msgstr ""
@@ -3094,7 +3094,7 @@ msgid "Alnasl"
 msgstr ""
 
 msgid "Nushaba"
-msgstr ""
+msgstr "Nušaba"
 
 msgid "Al Nasl"
 msgstr ""
@@ -3115,7 +3115,7 @@ msgid "Kaus Meridionalis"
 msgstr ""
 
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 msgid "Kaus Medius"
 msgstr ""
@@ -3139,7 +3139,7 @@ msgid "Sadira"
 msgstr "Sadira"
 
 msgid "Polis"
-msgstr ""
+msgstr "Polis"
 
 msgid "Alnam"
 msgstr ""
@@ -3151,19 +3151,19 @@ msgid "Al Baldah"
 msgstr ""
 
 msgid "Terebellum"
-msgstr ""
+msgstr "Terebellum"
 
 msgid "Terebellum I"
-msgstr ""
+msgstr "Terebellum I"
 
 msgid "Terebellum II"
-msgstr ""
+msgstr "Terebellum II"
 
 msgid "Terebellum III"
-msgstr ""
+msgstr "Terebellum III"
 
 msgid "Terebellum IV"
-msgstr ""
+msgstr "Terebellum IV"
 
 msgid "Hamalwarid"
 msgstr ""
@@ -3193,7 +3193,7 @@ msgid "Al Kiladah"
 msgstr ""
 
 msgid "Cor Scorpii"
-msgstr ""
+msgstr "Cor Scorpii"
 
 msgid "Vespertilio"
 msgstr ""
@@ -3208,7 +3208,7 @@ msgid "Graffias"
 msgstr ""
 
 msgid "Akrab"
-msgstr ""
+msgstr "Akrabas"
 
 msgid "Dschubba"
 msgstr "Dšuba"
@@ -3259,7 +3259,7 @@ msgid "Vanant"
 msgstr ""
 
 msgid "Mula"
-msgstr ""
+msgstr "Mula"
 
 msgid "Xamidimura"
 msgstr ""
@@ -3268,13 +3268,13 @@ msgid "Tali al Shaulah I"
 msgstr ""
 
 msgid "Pipirima"
-msgstr ""
+msgstr "Pipirima"
 
 msgid "Tali al Shaulah II"
 msgstr ""
 
 msgid "Fang"
-msgstr ""
+msgstr "Iltis"
 
 msgid "Nur"
 msgstr ""
@@ -3304,7 +3304,7 @@ msgid "Unukalhai"
 msgstr "Unukas"
 
 msgid "Cor Serpentis"
-msgstr ""
+msgstr "Cor Serpentis"
 
 msgid "Unuk al Hay"
 msgstr ""
@@ -3313,7 +3313,7 @@ msgid "Unuk Elhaia"
 msgstr ""
 
 msgid "Alya"
-msgstr ""
+msgstr "Alia"
 
 msgid "Chow"
 msgstr ""
@@ -3328,19 +3328,19 @@ msgid "Nasak Yamani I"
 msgstr ""
 
 msgid "Tsin"
-msgstr ""
+msgstr "Cin"
 
 msgid "Nasak Yamani II"
 msgstr ""
 
 msgid "Tweedledee and Tweedledum"
-msgstr ""
+msgstr "Tututis ir Dudutis"
 
 msgid "Gudja"
-msgstr ""
+msgstr "Gudža"
 
 msgid "Alava"
-msgstr ""
+msgstr "Alava"
 
 msgid "Cor Tauri"
 msgstr "Cor Tauri"
@@ -3364,7 +3364,7 @@ msgid "Ain"
 msgstr "Ainė"
 
 msgid "Oculus Boreus"
-msgstr ""
+msgstr "Oculus Boreus"
 
 msgid "Alcyone"
 msgstr "Alkionė"
@@ -3397,34 +3397,34 @@ msgid "Pleione"
 msgstr "Plejonė"
 
 msgid "Prima Hyadum"
-msgstr ""
+msgstr "Prima Hyadum"
 
 msgid "Hyadum I"
-msgstr ""
+msgstr "Hyadum I"
 
 msgid "Hyadum Primus"
-msgstr ""
+msgstr "Hyadum Primus"
 
 msgid "Secunda Hyadum"
-msgstr ""
+msgstr "Secunda Hyadum"
 
 msgid "Hyadum II"
-msgstr ""
+msgstr "Hyadum II"
 
 msgid "The Ruby Star"
-msgstr ""
+msgstr "Rubino žvaigždė"
 
 msgid "Sterope II"
 msgstr "Steropė II"
 
 msgid "Hyadum III"
-msgstr ""
+msgstr "Hyadum III"
 
 msgid "Chamukuy"
 msgstr ""
 
 msgid "Hyadum IV"
-msgstr ""
+msgstr "Hyadum IV"
 
 msgid "Alkalbain III"
 msgstr ""
@@ -3445,7 +3445,7 @@ msgid "Tianguan"
 msgstr ""
 
 msgid "Alheka"
-msgstr ""
+msgstr "Alheka"
 
 msgid "Mothallah"
 msgstr ""
@@ -3457,7 +3457,7 @@ msgid "Methallah"
 msgstr ""
 
 msgid "Atria"
-msgstr ""
+msgstr "Atrija"
 
 msgid "Rasalmudallah"
 msgstr ""
@@ -3484,16 +3484,16 @@ msgid "Merak"
 msgstr "Merakas"
 
 msgid "Phecda"
-msgstr ""
+msgstr "Fekda"
 
 msgid "Phekda"
-msgstr ""
+msgstr "Fekda"
 
 msgid "Megrez"
 msgstr "Megrecas"
 
 msgid "Kaffa"
-msgstr ""
+msgstr "Kaffa"
 
 msgid "Alioth"
 msgstr "Aliotas"
@@ -3514,40 +3514,40 @@ msgid "Benetnasch"
 msgstr ""
 
 msgid "Talitha"
-msgstr ""
+msgstr "Talitha"
 
 msgid "Talita"
-msgstr ""
+msgstr "Talita"
 
 msgid "Dnoces"
 msgstr ""
 
 msgid "Tania Borealis"
-msgstr ""
+msgstr "Tania Borealis"
 
 msgid "Tania Australis"
-msgstr ""
+msgstr "Tania Australis"
 
 msgid "Alula Borealis"
-msgstr ""
+msgstr "Alula Borealis"
 
 msgid "Alula Australis"
-msgstr ""
+msgstr "Alula Australis"
 
 msgid "Muscida"
 msgstr ""
 
 msgid "Groombridge 1830"
-msgstr ""
+msgstr "Grūmbridžo 1830"
 
 msgid "Flying Star"
-msgstr ""
+msgstr "Skraidanti žvaigždė"
 
 msgid "Runaway Star"
-msgstr ""
+msgstr "Pabėgusi žvaigždė"
 
 msgid "Argelander's Star"
-msgstr ""
+msgstr "Argelanderio žvaigždė"
 
 msgid "Taiyangshou"
 msgstr ""
@@ -3595,7 +3595,7 @@ msgid "Althiba III"
 msgstr ""
 
 msgid "Museida"
-msgstr ""
+msgstr "Museida"
 
 msgid "Althiba IV"
 msgstr ""
@@ -3616,13 +3616,13 @@ msgid "Alhaud VII"
 msgstr ""
 
 msgid "Lalande 21185"
-msgstr ""
+msgstr "Lalande 21185"
 
 msgid "Polaris"
 msgstr "Šiaurinė žvaigždė"
 
 msgid "Alrucaba"
-msgstr ""
+msgstr "Alrukaba"
 
 msgid "Cinosura"
 msgstr ""
@@ -3631,7 +3631,7 @@ msgid "Cynosura"
 msgstr ""
 
 msgid "Tramontana"
-msgstr ""
+msgstr "Tramontana"
 
 msgid "Yilduz"
 msgstr ""
@@ -3649,7 +3649,7 @@ msgid "Kocab"
 msgstr "Kocha­bas"
 
 msgid "Pherkad"
-msgstr ""
+msgstr "Ferkadas"
 
 msgid "Pherkad Major"
 msgstr ""
@@ -3664,7 +3664,7 @@ msgid "Vildiur"
 msgstr ""
 
 msgid "Pherkard"
-msgstr ""
+msgstr "Ferkardas"
 
 msgid "Circitores"
 msgstr ""
@@ -3694,7 +3694,7 @@ msgid "Alsuhail"
 msgstr ""
 
 msgid "Alsephina"
-msgstr ""
+msgstr "Alsefina"
 
 msgid "Koo She"
 msgstr ""
@@ -3706,19 +3706,19 @@ msgid "Alaraph"
 msgstr ""
 
 msgid "Zavijava"
-msgstr ""
+msgstr "Zavijava"
 
 msgid "Minelauva"
-msgstr ""
+msgstr "Minelauva"
 
 msgid "Zavijah"
 msgstr ""
 
 msgid "Porrima"
-msgstr ""
+msgstr "Porrima"
 
 msgid "Antevorta"
-msgstr ""
+msgstr "Antevorta"
 
 msgid "Arich"
 msgstr ""
@@ -3739,13 +3739,13 @@ msgid "Zaniah"
 msgstr ""
 
 msgid "Syrma"
-msgstr ""
+msgstr "Syrma"
 
 msgid "Heze"
-msgstr ""
+msgstr "Hezė"
 
 msgid "Auva"
-msgstr ""
+msgstr "Auva"
 
 msgid "Khambalia"
 msgstr ""
