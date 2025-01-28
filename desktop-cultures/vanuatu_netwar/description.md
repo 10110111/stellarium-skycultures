@@ -8,7 +8,7 @@ The Netwar sky culture for Stellarium stems from a research which is ran among t
 
 ### Solar system
 
- <ul> <li>Sun: Met</li> <li>Moon: Mawuk</li>
+<ul> <li>Sun: Met</li> <li>Moon: Mawuk</li>
 
  - Waxing crescent: Mawuk wi - 'new Moon'
  - First quarter: Nail ratuatu - 'it stays straight', meaning that in the sky the Moon appears straight in the zenith in the evening

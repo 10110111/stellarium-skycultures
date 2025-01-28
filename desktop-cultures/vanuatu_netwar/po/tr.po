@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: 03bfdb1e3bdfa21b80c8160ea93f1c67_2436d66, 2022\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Turkish (https://app.transifex.com/stellarium/teams/80998/"
 "tr/)\n"
 "MIME-Version: 1.0\n"
@@ -17,56 +17,70 @@ msgstr ""
 msgid "Vanuatu (Netwar)"
 msgstr "Vanuatu (Netwar)"
 
+# Vanuatu (Netwar) constellation, native: Kasulia apam
 msgid "Long Yoke"
 msgstr ""
 
+# Vanuatu (Netwar) constellation, native: Kasulia rerparep
 msgid "Short Yoke"
 msgstr ""
 
+# Vanuatu (Netwar) constellation, native: Kou
 msgid "Tweezers for Hot Stones"
 msgstr ""
 
+# Vanuatu (Netwar) constellation, native: Kahaur rul
 msgid "Rat"
 msgstr ""
 
+# Vanuatu (Netwar) constellation, native: Kilil
 msgid "Fan"
 msgstr ""
 
+# Vanuatu (Netwar) constellation, native: Suatu kywer
 msgid "Four roads"
 msgstr ""
 
+# Vanuatu (Netwar) constellation, native: Nowaswas Lapnuman, Neperawen Lapnuman
 msgid "Young Boys from Lapnuman, Young Girls from Lapnuman"
 msgstr ""
 
+# Vanuatu (Netwar) constellation, native: Nowanuman
 msgid "Earth oven"
 msgstr ""
 
+# Vanuatu (Netwar) constellation, native: Nemrau
 msgid "Ashes"
 msgstr ""
 
+# Name for HIP 21421
 msgid "Kapaumeta"
 msgstr ""
 
+# Name for NAME Sun
 msgid "Met"
 msgstr ""
 
+# Name for NAME Moon
 msgid "Mawuk"
 msgstr ""
 
+# Name for NAME Venus
 msgid "Fétukai (on morning sky), Kéwita (on evening sky)"
 msgstr ""
 
+# Name for NAME Jupiter
 msgid "Karatéi"
 msgstr ""
 
-#. TRANSLATORS: Meaning "Earth oven"
+# Name for NGC 292
 msgid "Nowanuman"
 msgstr ""
 
-#. TRANSLATORS: Meaning "Young boys of Lapnuman"
+# Name for M 45
 msgid "Nowaswas Lapnuman"
 msgstr ""
 
-#. TRANSLATORS: Meaning "Young girls of Lapnuman"
+# Name for M 45
 msgid "Neperawen Lapnuman"
 msgstr ""

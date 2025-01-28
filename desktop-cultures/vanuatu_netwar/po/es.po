@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-01-01 16:59+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Víctor Vega <transifex.757ab@simplelogin.com>, 2024\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Spanish (https://app.transifex.com/stellarium/teams/80998/"
 "es/)\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgstr ""
 msgid ""
 "### Solar system\n"
 "\n"
-" <ul> <li>Sun: Met</li> <li>Moon: Mawuk</li>\n"
+"<ul> <li>Sun: Met</li> <li>Moon: Mawuk</li>\n"
 "\n"
 " - Waxing crescent: Mawuk wi - 'new Moon'\n"
 " - First quarter: Nail ratuatu - 'it stays straight', meaning that in the "
@@ -100,7 +100,7 @@ msgid ""
 msgstr ""
 "### Sistema Solar\n"
 "\n"
-" <ul> <li>Sol: Met</li> <li>Luna: Mawuk</li>\n"
+"<ul> <li>Sol: Met</li> <li>Luna: Mawuk</li>\n"
 "\n"
 " - Luna creciente: Mawuk wi - 'Luna nueva'\n"
 " - Cuarto creciente: Nail ratuatu - 'se mantiene derecho', lo que significa "
@@ -193,56 +193,70 @@ msgstr ""
 "de Imapul, Nausien de Lamlu, Pierrot Nako Yaru de Lowanatom , Joe Natuman de "
 "Lowkweria."
 
+# Vanuatu (Netwar) constellation, native: Kasulia apam
 msgid "Long Yoke"
 msgstr "Gran Yugo"
 
+# Vanuatu (Netwar) constellation, native: Kasulia rerparep
 msgid "Short Yoke"
 msgstr "Corto Yugo"
 
+# Vanuatu (Netwar) constellation, native: Kou
 msgid "Tweezers for Hot Stones"
 msgstr "Pinzas para Piedras Calientes"
 
+# Vanuatu (Netwar) constellation, native: Kahaur rul
 msgid "Rat"
 msgstr "Rata"
 
+# Vanuatu (Netwar) constellation, native: Kilil
 msgid "Fan"
 msgstr "Fan"
 
+# Vanuatu (Netwar) constellation, native: Suatu kywer
 msgid "Four roads"
 msgstr "Cuatro Caminos"
 
+# Vanuatu (Netwar) constellation, native: Nowaswas Lapnuman, Neperawen Lapnuman
 msgid "Young Boys from Lapnuman, Young Girls from Lapnuman"
 msgstr "Jóvenes de Lapnuman"
 
+# Vanuatu (Netwar) constellation, native: Nowanuman
 msgid "Earth oven"
 msgstr "Horno de la Tierra"
 
+# Vanuatu (Netwar) constellation, native: Nemrau
 msgid "Ashes"
 msgstr "Cenizas"
 
+# Name for HIP 21421
 msgid "Kapaumeta"
 msgstr "Kapaumeta"
 
+# Name for NAME Sun
 msgid "Met"
 msgstr "Met"
 
+# Name for NAME Moon
 msgid "Mawuk"
 msgstr "Mawuk"
 
+# Name for NAME Venus
 msgid "Fétukai (on morning sky), Kéwita (on evening sky)"
 msgstr "Fétukai (en cielo matutino), Kéwita (en cielo de la tarde)"
 
+# Name for NAME Jupiter
 msgid "Karatéi"
 msgstr "Karatéi"
 
-#. TRANSLATORS: Meaning "Earth oven"
+# Name for NGC 292
 msgid "Nowanuman"
 msgstr "Nowanuman"
 
-#. TRANSLATORS: Meaning "Young boys of Lapnuman"
+# Name for M 45
 msgid "Nowaswas Lapnuman"
 msgstr "Nowaswas Lapnuman"
 
-#. TRANSLATORS: Meaning "Young girls of Lapnuman"
+# Name for M 45
 msgid "Neperawen Lapnuman"
 msgstr "Neperawen Lapnuman"
