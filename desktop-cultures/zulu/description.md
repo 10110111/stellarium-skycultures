@@ -26,7 +26,7 @@ Canopus is a bright star that appeared at harvest time and might also be connect
 
 ##### Umthala Wezinkanyezi &mdash; The Milky Way
 
- Umthala Wezinkanyezi means &#8220;the stream of stars.&#8221; This is related to the way the Nguni people used to fight before Shaka Zulu&#8217;s revolutionary close-combat strategy. The strong warriors used to throw spears like javelin and the stream of spears would be seen in the air.
+Umthala Wezinkanyezi means &#8220;the stream of stars.&#8221; This is related to the way the Nguni people used to fight before Shaka Zulu&#8217;s revolutionary close-combat strategy. The strong warriors used to throw spears like javelin and the stream of spears would be seen in the air.
 
 ## Authors
 

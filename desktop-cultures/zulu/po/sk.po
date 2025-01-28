@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Lubomir Hambalek <lubomir.hambalek@gmail.com>, 2024\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Slovak (https://app.transifex.com/stellarium/teams/80998/"
 "sk/)\n"
 "MIME-Version: 1.0\n"
@@ -60,7 +60,7 @@ msgid ""
 "\n"
 "##### Umthala Wezinkanyezi &mdash; The Milky Way\n"
 "\n"
-" Umthala Wezinkanyezi means &#8220;the stream of stars.&#8221; This is "
+"Umthala Wezinkanyezi means &#8220;the stream of stars.&#8221; This is "
 "related to the way the Nguni people used to fight before Shaka Zulu&#8217;s "
 "revolutionary close-combat strategy. The strong warriors used to throw "
 "spears like javelin and the stream of spears would be seen in the air."
@@ -95,7 +95,7 @@ msgstr ""
 "\n"
 "##### Umthala Wezinkanyezi &mdash; Mliečna cesta\n"
 "\n"
-" Umthala Wezinkanyezi means &#8220les kopijí&#8221;. Týka sa to spôsobu, ako "
+"Umthala Wezinkanyezi means &#8220les kopijí&#8221;. Týka sa to spôsobu, ako "
 "ľud Nguni bojoval, než Šaka Zulu zrevolučnil stratégiu boja nablízko. Silní "
 "bojovníci predtým vrhali kopije ako oštepy a vo vzduchu to vyzeralo ako les "
 "kopijí."
@@ -116,50 +116,66 @@ msgstr ""
 "diskusii s prof. Jaritou Holbrookovou a prof. Kevinom Snedegarom o "
 "astronómii africkej kultúry."
 
+# Name for HIP 32349
 msgid "Sirius"
 msgstr "Sírius"
 
+# Name for HIP 24608
 msgid "Capella"
 msgstr "Capella"
 
+# Name for HIP 21421
 msgid "Aldebaran"
 msgstr "Aldebaran"
 
+# Name for HIP 27989
 msgid "Betelgeuse"
 msgstr "Betelgeuse"
 
+# Name for HIP 24436
 msgid "Rigel"
 msgstr "Rigel"
 
+# Name for HIP 30438
 msgid "Canopus"
 msgstr "Canopus"
 
+# Name for HIP 7588
 msgid "Achernar"
 msgstr "Achernar"
 
+# Name for HIP 60718
 msgid "Acrux"
 msgstr "Acrux"
 
+# Name for HIP 68702
 msgid "Hadar"
 msgstr "Hadar"
 
+# Name for HIP 71683
 msgid "Rigil Kent"
 msgstr "Rigil Kent"
 
+# Name for HIP 80763
 msgid "Antares"
 msgstr "Antares"
 
+# Zulu constellation, native: isiLimela
 msgid "Digging Stars"
 msgstr "Kopacie hviezdy"
 
+# Zulu constellation, native: oNdwenjana
 msgid "Long-stemmed flower"
 msgstr "Kvet s dlhou stonkou"
 
+# Zulu constellation, native: isAndulela
 msgid "Journey to new grazing lands"
 msgstr "Cesta k novým pastvinám"
 
+# Zulu constellation, native: Umthala Wezinkanyezi
 msgid "Stream of spears"
 msgstr "Les kopijí"
 
+# Zulu constellation, native: Impanbana
 msgid "Crossing"
 msgstr "Križovatka"

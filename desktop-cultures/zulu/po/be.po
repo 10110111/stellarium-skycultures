@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Hleb Valoshka <375gnu@gmail.com>, 2024\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Belarusian (https://app.transifex.com/stellarium/teams/80998/"
 "be/)\n"
 "MIME-Version: 1.0\n"
@@ -19,50 +19,66 @@ msgstr ""
 msgid "Zulu"
 msgstr "Зулу"
 
+# Name for HIP 32349
 msgid "Sirius"
 msgstr "Сырыюс"
 
+# Name for HIP 24608
 msgid "Capella"
 msgstr "Капэла"
 
+# Name for HIP 21421
 msgid "Aldebaran"
 msgstr "Альдэбаран"
 
+# Name for HIP 27989
 msgid "Betelgeuse"
 msgstr "Бэтэльґейзэ"
 
+# Name for HIP 24436
 msgid "Rigel"
 msgstr "Рыгель"
 
+# Name for HIP 30438
 msgid "Canopus"
 msgstr "Канопус"
 
+# Name for HIP 7588
 msgid "Achernar"
 msgstr "Ахернар"
 
+# Name for HIP 60718
 msgid "Acrux"
 msgstr "Акрукс"
 
+# Name for HIP 68702
 msgid "Hadar"
 msgstr "Гадар"
 
+# Name for HIP 71683
 msgid "Rigil Kent"
 msgstr "Рыґіль Кентаўрус"
 
+# Name for HIP 80763
 msgid "Antares"
 msgstr "Антарэс"
 
+# Zulu constellation, native: isiLimela
 msgid "Digging Stars"
 msgstr ""
 
+# Zulu constellation, native: oNdwenjana
 msgid "Long-stemmed flower"
 msgstr ""
 
+# Zulu constellation, native: isAndulela
 msgid "Journey to new grazing lands"
 msgstr ""
 
+# Zulu constellation, native: Umthala Wezinkanyezi
 msgid "Stream of spears"
 msgstr ""
 
+# Zulu constellation, native: Impanbana
 msgid "Crossing"
 msgstr ""

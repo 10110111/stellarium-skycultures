@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Manuel Rosales <manuel.rosales.gr@gmail.com>, 2024\n"
+"Last-Translator: Manuel Rosales <manuel.rosales.gr@gmail.com>, 2025\n"
 "Language-Team: Galician (https://app.transifex.com/stellarium/teams/80998/"
 "gl/)\n"
 "MIME-Version: 1.0\n"
@@ -59,7 +59,7 @@ msgid ""
 "\n"
 "##### Umthala Wezinkanyezi &mdash; The Milky Way\n"
 "\n"
-" Umthala Wezinkanyezi means &#8220;the stream of stars.&#8221; This is "
+"Umthala Wezinkanyezi means &#8220;the stream of stars.&#8221; This is "
 "related to the way the Nguni people used to fight before Shaka Zulu&#8217;s "
 "revolutionary close-combat strategy. The strong warriors used to throw "
 "spears like javelin and the stream of spears would be seen in the air."
@@ -96,7 +96,7 @@ msgstr ""
 "\n"
 "##### Umthala Wezinkanyezi &mdash; A Vía Láctea\n"
 "\n"
-" Umthala Wezinkanyezi significa &#8220;o fluxo de estrelas.&#8221; Isto está "
+"Umthala Wezinkanyezi significa &#8220;o fluxo de estrelas.&#8221; Isto está "
 "relacionado coa forma en que o pobo Nguni adoitaba loitar antes da "
 "estratexia revolucionaria de combate preto de Shaka Zulu&#8217; Os fortes "
 "guerreiros adoitaban lanzar lanzas como xavelina e o regueiro de lanzas "
@@ -119,50 +119,66 @@ msgstr ""
 "conversas coa profesora Jarita Holbrook e o profesor Kevin Snedegar sobre a "
 "astronomía cultural africana."
 
+# Name for HIP 32349
 msgid "Sirius"
 msgstr "Sirio"
 
+# Name for HIP 24608
 msgid "Capella"
 msgstr "Capella"
 
+# Name for HIP 21421
 msgid "Aldebaran"
 msgstr "Aldebarán"
 
+# Name for HIP 27989
 msgid "Betelgeuse"
 msgstr "Betelgeuse"
 
+# Name for HIP 24436
 msgid "Rigel"
 msgstr "Rigel"
 
+# Name for HIP 30438
 msgid "Canopus"
 msgstr "Canopus"
 
+# Name for HIP 7588
 msgid "Achernar"
 msgstr "Achernar"
 
+# Name for HIP 60718
 msgid "Acrux"
 msgstr "Acrux"
 
+# Name for HIP 68702
 msgid "Hadar"
 msgstr "Hadar"
 
+# Name for HIP 71683
 msgid "Rigil Kent"
 msgstr "Rigil Kent"
 
+# Name for HIP 80763
 msgid "Antares"
 msgstr "Antares"
 
+# Zulu constellation, native: isiLimela
 msgid "Digging Stars"
 msgstr "Digging Stars"
 
+# Zulu constellation, native: oNdwenjana
 msgid "Long-stemmed flower"
 msgstr "Flor de talo longo"
 
+# Zulu constellation, native: isAndulela
 msgid "Journey to new grazing lands"
 msgstr "Viaxe a novas terras de pasto"
 
+# Zulu constellation, native: Umthala Wezinkanyezi
 msgid "Stream of spears"
 msgstr "Regueiro de lanzas"
 
+# Zulu constellation, native: Impanbana
 msgid "Crossing"
 msgstr "Travesía"
