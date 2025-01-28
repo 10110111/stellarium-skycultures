@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Alex Rijckaert, 2023\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Dutch (https://app.transifex.com/stellarium/teams/80998/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -153,23 +153,30 @@ msgstr ""
 "met Prof Jarita Holbrook en Prof Kevin Snedegar over Afrikaanse Culturele "
 "astronomie."
 
+# Xhosa constellation, native: isiLimela
 msgid "Digging Stars"
 msgstr "Gravende Sterren"
 
+# Xhosa constellation, native: iQhawe
 msgid "The Champion"
 msgstr "De Kampioen"
 
+# Xhosa constellation, native: uCanzibe
 msgid "Boys dancing"
 msgstr "Dansende jongens"
 
+# Xhosa constellation, native: umNyele
 msgid "Angry dog"
 msgstr "Boze hond"
 
+# Xhosa constellation, native: amaKroza
 msgid "In a queue"
 msgstr "In een wachtrij"
 
+# Name for HIP 30438
 msgid "uCanzibe"
 msgstr ""
 
+# Name for HIP 32349
 msgid "iQhawa"
 msgstr ""

@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Karl Birgersson <birgerssonkarl@outlook.com>, 2022\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/stellarium/teams/80998/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -15,25 +15,32 @@ msgstr ""
 
 # Sky culture name
 msgid "Xhosa"
-msgstr ""
+msgstr "Xhosa"
 
+# Xhosa constellation, native: isiLimela
 msgid "Digging Stars"
 msgstr "Grävstjärnor"
 
+# Xhosa constellation, native: iQhawe
 msgid "The Champion"
 msgstr "Segraren"
 
+# Xhosa constellation, native: uCanzibe
 msgid "Boys dancing"
 msgstr "Dansande pojkar"
 
+# Xhosa constellation, native: umNyele
 msgid "Angry dog"
 msgstr "Arg hund"
 
+# Xhosa constellation, native: amaKroza
 msgid "In a queue"
 msgstr "I rad"
 
+# Name for HIP 30438
 msgid "uCanzibe"
 msgstr "uCanzibe"
 
+# Name for HIP 32349
 msgid "iQhawa"
 msgstr "iQhawa"

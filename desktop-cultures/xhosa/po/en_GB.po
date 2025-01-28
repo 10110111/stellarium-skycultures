@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Andi Chandler <andi@gowling.com>, 2023\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: English (United Kingdom) (https://app.transifex.com/"
 "stellarium/teams/80998/en_GB/)\n"
 "MIME-Version: 1.0\n"
@@ -17,23 +17,30 @@ msgstr ""
 msgid "Xhosa"
 msgstr "Xhosa"
 
+# Xhosa constellation, native: isiLimela
 msgid "Digging Stars"
 msgstr "Digging Stars"
 
+# Xhosa constellation, native: iQhawe
 msgid "The Champion"
 msgstr "The Champion"
 
+# Xhosa constellation, native: uCanzibe
 msgid "Boys dancing"
 msgstr "Boys dancing"
 
+# Xhosa constellation, native: umNyele
 msgid "Angry dog"
 msgstr "Angry dog"
 
+# Xhosa constellation, native: amaKroza
 msgid "In a queue"
 msgstr "In a queue"
 
+# Name for HIP 30438
 msgid "uCanzibe"
 msgstr "uCanzibe"
 
+# Name for HIP 32349
 msgid "iQhawa"
 msgstr "iQhawa"

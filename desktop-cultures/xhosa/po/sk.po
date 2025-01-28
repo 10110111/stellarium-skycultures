@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Lubomir Hambalek <lubomir.hambalek@gmail.com>, 2024\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Slovak (https://app.transifex.com/stellarium/teams/80998/"
 "sk/)\n"
 "MIME-Version: 1.0\n"
@@ -150,23 +150,30 @@ msgstr ""
 "diskusii s prof. Jaritou Holbrookovou a prof. Kevinom Snedegarom o "
 "astronómii africkej kultúry."
 
+# Xhosa constellation, native: isiLimela
 msgid "Digging Stars"
 msgstr "Kopacie hviezdy"
 
+# Xhosa constellation, native: iQhawe
 msgid "The Champion"
 msgstr "Šampión"
 
+# Xhosa constellation, native: uCanzibe
 msgid "Boys dancing"
 msgstr "Tancujúci chlapci"
 
+# Xhosa constellation, native: umNyele
 msgid "Angry dog"
 msgstr "Zlostný pes"
 
+# Xhosa constellation, native: amaKroza
 msgid "In a queue"
 msgstr "V poradí"
 
+# Name for HIP 30438
 msgid "uCanzibe"
 msgstr "uCanzibe"
 
+# Name for HIP 32349
 msgid "iQhawa"
 msgstr "iQhawa"
