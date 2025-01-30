@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-12-02 12:46+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Víctor Vega <transifex.757ab@simplelogin.com>, 2024\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Spanish (https://app.transifex.com/stellarium/teams/80998/"
 "es/)\n"
 "MIME-Version: 1.0\n"
@@ -186,7 +186,7 @@ msgid ""
 "known as Hassaleh, Elnath and 123 Tau; the spear with its flint at Aldebaran "
 "and the stars forming a 'V' of Taurus, while the feathers are Castor and "
 "Pollux of Gemini; and, finally, the hunter, properly said, is Cozaactim "
-"(\"Who crosses\"), with his head at Capella.<brr> The legend says that "
+"(\"Who crosses\"), with his head at Capella.<br> The legend says that "
 "Cozaactim threw his spear and hit the Bura deer. Háap was wounded and flew "
 "through the sky bleeding; then, a little drop of blood fell in the Tiburón "
 "Island, and that is the reason why bura deer are native of the island. This "
@@ -235,7 +235,7 @@ msgid ""
 "put as bet their own life; now, the game is played at festivals and special "
 "occasions by women representing events of life and protection; in "
 "particular, it is played during puberty ceremonies for example; or at the "
-"feast of zaaptim (great basket). <brr>For this game, several round pieces of "
+"feast of zaaptim (great basket). <br>For this game, several round pieces of "
 "Pitahayas (cactus fruits) or of 'cinita' (four lines cactus) made the circle "
 "(today, they are decorated stones with different motives); and, three reed "
 "pieces (tablillas de carrizo), painted in colours. The meaning of these "
@@ -284,7 +284,7 @@ msgid ""
 "we cried for you a lot\". The young man told his parents: \"I live near the "
 "beach, I found a good place and stayed there\". \"But what kind of water you "
 "drink?\" They asked. \"I found any water and that is I drink, Haxhaxaha "
-"tahomisi\", he said to them while talking about the Tecomate Bay.<brr> "
+"tahomisi\", he said to them while talking about the Tecomate Bay.<br> "
 "According to this legend, the young hunter became the Constellation with "
 "Canopus at its centre caused by a conflict with his elder brother. It "
 "appears directly towards the south.</td>\n"
@@ -372,7 +372,7 @@ msgstr ""
 "con su pedernal en Aldebarán y las estrellas formando una 'V' de Tauro, "
 "mientras que las plumas son Cástor y Pólux de Géminis; y, finalmente, el "
 "cazador, propiamente dicho, es Cozaactim (\"Quien cruza\"), con la cabeza en "
-"Capella.<brr> La leyenda dice que Cozaactim arrojó su lanza y golpeó al "
+"Capella.<br> La leyenda dice que Cozaactim arrojó su lanza y golpeó al "
 "ciervo Bura. Háap resultó herido y voló por el cielo sangrando; luego, una "
 "gotita de sangre cayó en la isla Tiburón, y por eso los ciervos bura son "
 "nativos de la isla. Esta constelación se puede observar en los cielos "
@@ -422,7 +422,7 @@ msgstr ""
 "el juego es jugado en festivales y ocasiones especiales por mujeres que "
 "representan eventos de vida y protección; en particular, se toca durante las "
 "ceremonias de la pubertad, por ejemplo; o en la fiesta de zaaptim (gran "
-"canasta).<brr> Para este juego, varias piezas redondas de Pitahayas (frutos "
+"canasta).<br> Para este juego, varias piezas redondas de Pitahayas (frutos "
 "de cactus) o de cinita (cactus de cuatro líneas) hacían el círculo (hoy son "
 "piedras decoradas con diferentes motivos); y, tres tablillas de carrizo, "
 "pintadas de colores. El significado de estos tres colores son: Rojo - la "
@@ -473,7 +473,7 @@ msgstr ""
 "\"Vivo cerca de la playa, encontré un buen lugar y me quedé allí\". \"¿Pero "
 "qué tipo de agua bebes?\" Ellos preguntaron. “Encontré alguna agua y es que "
 "bebo, Haxhaxaha tahomisi”, les dijo mientras hablaba de la Bahía de Tecomate."
-"<brr> Según esta leyenda, el joven cazador se convirtió en la Constelación "
+"<br> Según esta leyenda, el joven cazador se convirtió en la Constelación "
 "con Canopus en su centro a causa de un conflicto con su hermano mayor. "
 "Aparece directamente hacia el sur.</td>\n"
 "</tr>\n"
@@ -520,101 +520,134 @@ msgstr ""
 "\n"
 "Traducción al inglés por: Alfredo Manríquez"
 
+# Seri constellation, native: Zaamth
 msgid "Zaamth (Crab)"
 msgstr "Zaamth (Cangrejo)"
 
+# Seri constellation, native: Cohamc
 msgid "Cohamc (The wife and husband)"
 msgstr "Cohamc (La esposa y esposo)"
 
+# Seri constellation, native: Haapjc
 msgid "Haapjc (The deer hunter)"
 msgstr "Haapjc (El cazador de ciervo)"
 
+# Seri constellation, native: Caamoilcoj
 msgid "Caamoilcoj (Wheel game)"
 msgstr "Caamoilcoj (Juego de rueda)"
 
+# Seri constellation, native: Haacosah
 msgid "Haacosah (Pitahayas cutter)"
 msgstr "Haacosah (Cortador de pitahayas)"
 
+# Seri constellation, native: Hant
 msgid "Hazoj canoj (He who comes at sunrise)"
 msgstr "Hazoj canoj (El que viene al amanecer)"
 
+# Seri constellation, native: Yay xapi hanopas
 msgid "Yay xapi hanopas (Young hunter)"
 msgstr "Yay xapi hanopas (Cazador joven)"
 
+# Seri constellation, native: Quetoh
 msgid "Quetoh (Small dove)"
 msgstr "Quetoh (Paloma pequeña)"
 
+# Seri constellation, native: Coozactim
 msgid "Coozactim (Hunter)"
 msgstr "Coozactim (Cazador)"
 
+# Seri constellation, native: Hap
 msgid "Hap (Deer)"
 msgstr "Hap (Ciervo)"
 
+# Seri constellation, native: Hee
 msgid "Hee (Hare)"
 msgstr "Hee (Liebre)"
 
+# Seri constellation, native: Hazoj-Koii
 msgid "Hazoj Koii (Person)"
 msgstr "Hazoj Koii (Persona)"
 
+# Seri constellation, native: Himatax
 msgid "Hazoj Himatax (Polar star)"
 msgstr "Hazoj Himatax (Estrella polar)"
 
+# Name for HIP 4427
 msgid "Haacoosah"
 msgstr "Haacoosah"
 
+# Name for HIP 11767
 msgid "Himatax"
 msgstr "Himatax"
 
+# Name for HIP 21421
 msgid "Haxl'c"
 msgstr "Haxl'c"
 
+# Name for HIP 23015
 msgid "Heepem"
 msgstr "Heepem"
 
+# Name for HIP 24608
 msgid "Coozactim"
 msgstr "Coozactim"
 
+# Name for HIP 25428
 msgid "Hap"
 msgstr "Hap"
 
+# Name for HIP 26311
 msgid "Zaamth"
 msgstr "Zaamth"
 
+# Name for HIP 30438
 msgid "Yay Hapi Hanopas"
 msgstr "Yay Hapi Hanopas"
 
+# Name for HIP 32349
 msgid "Caanooj Haantificaö"
 msgstr "Caanooj Haantificaö"
 
+# Name for HIP 37279
 msgid "Naapxah"
 msgstr "Naapxah"
 
+# Name for HIP 37826
 msgid "Hiasim"
 msgstr "Hiasim"
 
+# Name for HIP 53229
 msgid "Coamc"
 msgstr "Coamc"
 
+# Name for HIP 53910
 msgid "Coohaamc"
 msgstr "Coohaamc"
 
+# Name for HIP 54061
 msgid "Coam'c"
 msgstr "Coam'c"
 
+# Name for HIP 62956
 msgid "Caamooiilcooj"
 msgstr "Caamooiilcooj"
 
+# Name for HIP 67301
 msgid "Camoilcoj"
 msgstr "Camoilcoj"
 
+# Name for HIP 69673
 msgid "Quetoh"
 msgstr "Quetoh"
 
+# Name for HIP 71075
 msgid "Hazoj Cöiiqui"
 msgstr "Hazoj Cöiiqui"
 
+# Name for HIP 80763
 msgid "Hazoj Köii"
 msgstr "Hazoj Köii"
 
+# Name for HIP 91262
 msgid "Hee"
 msgstr "Hee"

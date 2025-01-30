@@ -184,7 +184,7 @@ msgid ""
 "known as Hassaleh, Elnath and 123 Tau; the spear with its flint at Aldebaran "
 "and the stars forming a 'V' of Taurus, while the feathers are Castor and "
 "Pollux of Gemini; and, finally, the hunter, properly said, is Cozaactim "
-"(\"Who crosses\"), with his head at Capella.<brr> The legend says that "
+"(\"Who crosses\"), with his head at Capella.<br> The legend says that "
 "Cozaactim threw his spear and hit the Bura deer. Háap was wounded and flew "
 "through the sky bleeding; then, a little drop of blood fell in the Tiburón "
 "Island, and that is the reason why bura deer are native of the island. This "
@@ -233,7 +233,7 @@ msgid ""
 "put as bet their own life; now, the game is played at festivals and special "
 "occasions by women representing events of life and protection; in "
 "particular, it is played during puberty ceremonies for example; or at the "
-"feast of zaaptim (great basket). <brr>For this game, several round pieces of "
+"feast of zaaptim (great basket). <br>For this game, several round pieces of "
 "Pitahayas (cactus fruits) or of 'cinita' (four lines cactus) made the circle "
 "(today, they are decorated stones with different motives); and, three reed "
 "pieces (tablillas de carrizo), painted in colours. The meaning of these "
@@ -282,7 +282,7 @@ msgid ""
 "we cried for you a lot\". The young man told his parents: \"I live near the "
 "beach, I found a good place and stayed there\". \"But what kind of water you "
 "drink?\" They asked. \"I found any water and that is I drink, Haxhaxaha "
-"tahomisi\", he said to them while talking about the Tecomate Bay.<brr> "
+"tahomisi\", he said to them while talking about the Tecomate Bay.<br> "
 "According to this legend, the young hunter became the Constellation with "
 "Canopus at its centre caused by a conflict with his elder brother. It "
 "appears directly towards the south.</td>\n"
@@ -367,7 +367,7 @@ msgstr ""
 "ми знаємо за назвами Хассалех, Ельнатх, та 123 Тільця; спису із його "
 "кремінним вістрям у Альдебарані та зірок, що поєднуються у «V» у Тільці, а "
 "перами списку є Кастор і Поллукс у Близнюках; і, нарешті, мисливця, іменем "
-"якого є Козаактім («Той, що перетинає»), з його головою у Капеллі.<brr> За "
+"якого є Козаактім («Той, що перетинає»), з його головою у Капеллі.<br> За "
 "легендою Козактім жбурляє свого списа і влучає у чорнохвостого оленя. Хаапа "
 "було поранено, і він тікає небом спливаючи кров'ю; потім, невеличка крапля "
 "крові падає на острів Тібурон, і тому чорнохвості олені є мешканцями "
@@ -414,7 +414,7 @@ msgstr ""
 "роль кісток. Кажуть, що у давні часи у цю гру грали лише чоловіки. Грали на "
 "життя. Тепер же у гру грають у свята та під час особливих подій жінки, які "
 "представляють події життя і захист. Наприклад, у цю гру грають під час "
-"церемоній визнання повноліття та свята зааптім (великого кошика).<brr> Для "
+"церемоній визнання повноліття та свята зааптім (великого кошика).<br> Для "
 "цієї гри потрібні декілька круглих пітаї (плодів кактуса) або "
 "«cinita» (чотирилінійного кактуса), з яких складають коло (у сучасності ними "
 "є розмальовані у різних мотивах камені); та розфарбовані три тростяні "
@@ -463,7 +463,7 @@ msgstr ""
 "тебе багато днів, аж доки втомилися; ми дуже сумували за тобою». Хлопець "
 "відповів своїм батькам: «Я жив на березі, я знайшов чудове місце і лишався "
 "там». «Але де ти брав воду?» — спитали батьки. «Я не знайшов води і пив "
-"Хашхашаха тахомісі,» — говорячи про затоку Текомате.<brr> За цією легендою, "
+"Хашхашаха тахомісі,» — говорячи про затоку Текомате.<br> За цією легендою, "
 "молодий мисливець який став сузір'ям із центром у Канопусі, посварився зі "
 "своїм старшим братом. Сузір'я з'являється безпосередньо у напрямку на "
 "південь.</td>\n"
@@ -509,101 +509,134 @@ msgstr ""
 "\n"
 "Переклад англійською: Альфредо Манрікес"
 
+# Seri constellation, native: Zaamth
 msgid "Zaamth (Crab)"
 msgstr "Заамф (Краб)"
 
+# Seri constellation, native: Cohamc
 msgid "Cohamc (The wife and husband)"
 msgstr "Кохамк (Жінка і чоловік)"
 
+# Seri constellation, native: Haapjc
 msgid "Haapjc (The deer hunter)"
 msgstr "Хаапжк (Мисливець на оленів)"
 
+# Seri constellation, native: Caamoilcoj
 msgid "Caamoilcoj (Wheel game)"
 msgstr "Саамоілкой (Гра у колесо)"
 
+# Seri constellation, native: Haacosah
 msgid "Haacosah (Pitahayas cutter)"
 msgstr "Хаакосах (Різак для пітаї)"
 
+# Seri constellation, native: Hant
 msgid "Hazoj canoj (He who comes at sunrise)"
 msgstr "Хазой каной (Той, що приходить на світанку)"
 
+# Seri constellation, native: Yay xapi hanopas
 msgid "Yay xapi hanopas (Young hunter)"
 msgstr "Яай сапі ханопас (Молодий мисливець)"
 
+# Seri constellation, native: Quetoh
 msgid "Quetoh (Small dove)"
 msgstr "Кетох (Малий голуб)"
 
+# Seri constellation, native: Coozactim
 msgid "Coozactim (Hunter)"
 msgstr "Козактім (Мисливець)"
 
+# Seri constellation, native: Hap
 msgid "Hap (Deer)"
 msgstr "Хап (Олень)"
 
+# Seri constellation, native: Hee
 msgid "Hee (Hare)"
 msgstr "Хее (Заєць)"
 
+# Seri constellation, native: Hazoj-Koii
 msgid "Hazoj Koii (Person)"
 msgstr "Хазой Кої (Особа)"
 
+# Seri constellation, native: Himatax
 msgid "Hazoj Himatax (Polar star)"
 msgstr "Хазой Хіматакс (Полярна зірка)"
 
+# Name for HIP 4427
 msgid "Haacoosah"
 msgstr "Хаакоосах"
 
+# Name for HIP 11767
 msgid "Himatax"
 msgstr "Хііматаш"
 
+# Name for HIP 21421
 msgid "Haxl'c"
 msgstr "Хашльк"
 
+# Name for HIP 23015
 msgid "Heepem"
 msgstr "Хеепем"
 
+# Name for HIP 24608
 msgid "Coozactim"
 msgstr "Коозактім"
 
+# Name for HIP 25428
 msgid "Hap"
 msgstr "Хап"
 
+# Name for HIP 26311
 msgid "Zaamth"
 msgstr "Заамф"
 
+# Name for HIP 30438
 msgid "Yay Hapi Hanopas"
 msgstr "Яй Хапі Ханопас"
 
+# Name for HIP 32349
 msgid "Caanooj Haantificaö"
 msgstr "Каанож Хаантіфікао"
 
+# Name for HIP 37279
 msgid "Naapxah"
 msgstr "Наапшах"
 
+# Name for HIP 37826
 msgid "Hiasim"
 msgstr "Хіасім"
 
+# Name for HIP 53229
 msgid "Coamc"
 msgstr "Коамк"
 
+# Name for HIP 53910
 msgid "Coohaamc"
 msgstr "Коохаамк"
 
+# Name for HIP 54061
 msgid "Coam'c"
 msgstr "Коам'к"
 
+# Name for HIP 62956
 msgid "Caamooiilcooj"
 msgstr "Каамооіілкоож"
 
+# Name for HIP 67301
 msgid "Camoilcoj"
 msgstr "Камоілкож"
 
+# Name for HIP 69673
 msgid "Quetoh"
 msgstr "Кетох"
 
+# Name for HIP 71075
 msgid "Hazoj Cöiiqui"
 msgstr "Хазож Коілкуй"
 
+# Name for HIP 80763
 msgid "Hazoj Köii"
 msgstr "Хазож Кої"
 
+# Name for HIP 91262
 msgid "Hee"
 msgstr "Хее"
