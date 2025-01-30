@@ -40,7 +40,7 @@ In this way, *The Continuation of Complete Studies of Astronomical* has 300 Xing
 
 Until the Revolution of 1911, China no longer regarded Xingguan as the official constellation system. Unlike Xingguans, traditional Chinese star names are still used in modern Chinese astronomy, even more common than Western names.
 
-![](yxkcxt.png)
+![](illustrations/yxkcxt.png)
 
 *Astronomical Map of Complete Studies of Astronomical (1757)*
 
