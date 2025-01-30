@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Thomas P C Chu, 2023\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Chinese (Hong Kong) (https://app.transifex.com/stellarium/"
 "teams/80998/zh_HK/)\n"
 "MIME-Version: 1.0\n"
@@ -17,38 +17,50 @@ msgstr ""
 msgid "Tibetan"
 msgstr ""
 
+# Tibetan constellation, native: Luk
 msgid "Aries"
 msgstr "白羊座 (Ari)"
 
+# Tibetan constellation, native: Lang
 msgid "Taurus"
 msgstr "金牛座 (Tau)"
 
+# Tibetan constellation, native: Trik
 msgid "Gemini"
 msgstr "雙子座 (Gem)"
 
+# Tibetan constellation, native: Karkata
 msgid "Cancer"
 msgstr "巨蟹座 (Cnc)"
 
+# Tibetan constellation, native: Senge
 msgid "Leo"
 msgstr "獅子座 (Leo)"
 
+# Tibetan constellation, native: Pumo
 msgid "Virgo"
 msgstr "室女座 (Vir)"
 
+# Tibetan constellation, native: Sangwa
 msgid "Libra"
 msgstr "天秤[ping4]座 (Lib)"
 
+# Tibetan constellation, native: Dikpa
 msgid "Scorpius"
 msgstr "天蠍[kit3]座 (Sco)"
 
+# Tibetan constellation, native: Zhu
 msgid "Sagittarius"
 msgstr "人馬座 (Sgr)"
 
+# Tibetan constellation, native: Chusin
 msgid "Capricornus"
 msgstr "摩羯[kit3]座 (Cap)"
 
+# Tibetan constellation, native: Bumpa
 msgid "Aquarius"
 msgstr "寶瓶座 (Aqr)"
 
+# Tibetan constellation, native: Nya
 msgid "Pisces"
 msgstr "雙魚座 (Psc)"

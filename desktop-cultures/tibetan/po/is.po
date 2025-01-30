@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Icelandic (https://app.transifex.com/stellarium/teams/80998/"
 "is/)\n"
 "MIME-Version: 1.0\n"
@@ -17,38 +17,50 @@ msgstr ""
 msgid "Tibetan"
 msgstr "Tíbetskt"
 
+# Tibetan constellation, native: Luk
 msgid "Aries"
 msgstr "Hrúturinn"
 
+# Tibetan constellation, native: Lang
 msgid "Taurus"
 msgstr "Nautið"
 
+# Tibetan constellation, native: Trik
 msgid "Gemini"
 msgstr "Tvíburarnir"
 
+# Tibetan constellation, native: Karkata
 msgid "Cancer"
 msgstr "Krabbinn"
 
+# Tibetan constellation, native: Senge
 msgid "Leo"
 msgstr "Ljónið"
 
+# Tibetan constellation, native: Pumo
 msgid "Virgo"
 msgstr "Meyjan"
 
+# Tibetan constellation, native: Sangwa
 msgid "Libra"
 msgstr "Vogin"
 
+# Tibetan constellation, native: Dikpa
 msgid "Scorpius"
 msgstr "Sporðdrekinn"
 
+# Tibetan constellation, native: Zhu
 msgid "Sagittarius"
 msgstr "Bogmaðurinn"
 
+# Tibetan constellation, native: Chusin
 msgid "Capricornus"
 msgstr "Steingeitin"
 
+# Tibetan constellation, native: Bumpa
 msgid "Aquarius"
 msgstr "Vatnsberinn"
 
+# Tibetan constellation, native: Nya
 msgid "Pisces"
 msgstr "Fiskarnir"

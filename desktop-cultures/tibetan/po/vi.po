@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Vietnamese (https://app.transifex.com/stellarium/teams/80998/"
 "vi/)\n"
 "MIME-Version: 1.0\n"
@@ -17,38 +17,50 @@ msgstr ""
 msgid "Tibetan"
 msgstr ""
 
+# Tibetan constellation, native: Luk
 msgid "Aries"
 msgstr "Bạch Dương"
 
+# Tibetan constellation, native: Lang
 msgid "Taurus"
 msgstr "Kim Ngưu"
 
+# Tibetan constellation, native: Trik
 msgid "Gemini"
 msgstr "Song Tử"
 
+# Tibetan constellation, native: Karkata
 msgid "Cancer"
 msgstr "Cự Giải"
 
+# Tibetan constellation, native: Senge
 msgid "Leo"
 msgstr "Sư Tử"
 
+# Tibetan constellation, native: Pumo
 msgid "Virgo"
 msgstr "Xử Nữ"
 
+# Tibetan constellation, native: Sangwa
 msgid "Libra"
 msgstr "Thiên Bình"
 
+# Tibetan constellation, native: Dikpa
 msgid "Scorpius"
 msgstr "Bò Cạp"
 
+# Tibetan constellation, native: Zhu
 msgid "Sagittarius"
 msgstr "Nhân Mã"
 
+# Tibetan constellation, native: Chusin
 msgid "Capricornus"
 msgstr "Ma Kết"
 
+# Tibetan constellation, native: Bumpa
 msgid "Aquarius"
 msgstr "Bảo Bình"
 
+# Tibetan constellation, native: Nya
 msgid "Pisces"
 msgstr "Song Ngư"

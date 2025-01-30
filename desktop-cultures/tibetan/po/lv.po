@@ -5,61 +5,63 @@ msgstr ""
 "POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
 "Last-Translator: Transifex Bot <>, 2025\n"
-"Language-Team: Thai (https://app.transifex.com/stellarium/teams/80998/th/)\n"
+"Language-Team: Latvian (https://app.transifex.com/stellarium/teams/80998/"
+"lv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: th\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
 
 # Sky culture name
 msgid "Tibetan"
-msgstr "ทิเบต"
+msgstr ""
 
 # Tibetan constellation, native: Luk
 msgid "Aries"
-msgstr "แกะ"
+msgstr "Auns"
 
 # Tibetan constellation, native: Lang
 msgid "Taurus"
-msgstr "วัว"
+msgstr "Vērsis"
 
 # Tibetan constellation, native: Trik
 msgid "Gemini"
-msgstr "คนคู่"
+msgstr "Dvīņi"
 
 # Tibetan constellation, native: Karkata
 msgid "Cancer"
-msgstr "ปู"
+msgstr "Vēzis"
 
 # Tibetan constellation, native: Senge
 msgid "Leo"
-msgstr "สิงโต"
+msgstr "Lauva"
 
 # Tibetan constellation, native: Pumo
 msgid "Virgo"
-msgstr "หญิงสาว"
+msgstr "Jaunava"
 
 # Tibetan constellation, native: Sangwa
 msgid "Libra"
-msgstr "คันชั่ง"
+msgstr "Svari"
 
 # Tibetan constellation, native: Dikpa
 msgid "Scorpius"
-msgstr "แมงป่อง"
+msgstr "Skorpions"
 
 # Tibetan constellation, native: Zhu
 msgid "Sagittarius"
-msgstr "คนยิงธนู"
+msgstr "Strēlnieks"
 
 # Tibetan constellation, native: Chusin
 msgid "Capricornus"
-msgstr "แพะทะเล"
+msgstr "Mežāzis"
 
 # Tibetan constellation, native: Bumpa
 msgid "Aquarius"
-msgstr "คนแบกหม้อน้ำ"
+msgstr "Ūdensvīrs"
 
 # Tibetan constellation, native: Nya
 msgid "Pisces"
-msgstr "ปลา"
+msgstr "Zivis"

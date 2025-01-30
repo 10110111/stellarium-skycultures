@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: abuyop <abuyop@gmail.com>, 2022\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Malay (https://app.transifex.com/stellarium/teams/80998/ms/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,38 +16,50 @@ msgstr ""
 msgid "Tibetan"
 msgstr ""
 
+# Tibetan constellation, native: Luk
 msgid "Aries"
 msgstr "Hamal (Aries)"
 
+# Tibetan constellation, native: Lang
 msgid "Taurus"
 msgstr "Taurus"
 
+# Tibetan constellation, native: Trik
 msgid "Gemini"
 msgstr "Jauza (Germini)"
 
+# Tibetan constellation, native: Karkata
 msgid "Cancer"
 msgstr "Sarta (Cancer)"
 
+# Tibetan constellation, native: Senge
 msgid "Leo"
 msgstr "Asad (Leo)"
 
+# Tibetan constellation, native: Pumo
 msgid "Virgo"
 msgstr "Virgo"
 
+# Tibetan constellation, native: Sangwa
 msgid "Libra"
 msgstr "Mizan (Libra)"
 
+# Tibetan constellation, native: Dikpa
 msgid "Scorpius"
 msgstr "Scorpius (Kala)"
 
+# Tibetan constellation, native: Zhu
 msgid "Sagittarius"
 msgstr "Sagittarius (Kaus)"
 
+# Tibetan constellation, native: Chusin
 msgid "Capricornus"
 msgstr "Kambing Duyung (Capricornus)"
 
+# Tibetan constellation, native: Bumpa
 msgid "Aquarius"
 msgstr "Aquarius"
 
+# Tibetan constellation, native: Nya
 msgid "Pisces"
 msgstr "Pisces (Ikan)"

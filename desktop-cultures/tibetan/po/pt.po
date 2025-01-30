@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Portuguese (https://app.transifex.com/stellarium/teams/80998/"
 "pt/)\n"
 "MIME-Version: 1.0\n"
@@ -18,38 +18,50 @@ msgstr ""
 msgid "Tibetan"
 msgstr ""
 
+# Tibetan constellation, native: Luk
 msgid "Aries"
 msgstr "Aries (Carneiro)"
 
+# Tibetan constellation, native: Lang
 msgid "Taurus"
 msgstr "Taurus (Touro)"
 
+# Tibetan constellation, native: Trik
 msgid "Gemini"
 msgstr "Gemini (Gémeos)"
 
+# Tibetan constellation, native: Karkata
 msgid "Cancer"
 msgstr "Cancer (Caranguejo)"
 
+# Tibetan constellation, native: Senge
 msgid "Leo"
 msgstr "Leo (Leão)"
 
+# Tibetan constellation, native: Pumo
 msgid "Virgo"
 msgstr "Virgo (Virgem)"
 
+# Tibetan constellation, native: Sangwa
 msgid "Libra"
 msgstr "Libra (Balança)"
 
+# Tibetan constellation, native: Dikpa
 msgid "Scorpius"
 msgstr "Scorpius (Escorpião)"
 
+# Tibetan constellation, native: Zhu
 msgid "Sagittarius"
 msgstr "Sagittarius (Sagitário)"
 
+# Tibetan constellation, native: Chusin
 msgid "Capricornus"
 msgstr "Capricornus (Capricórnio)"
 
+# Tibetan constellation, native: Bumpa
 msgid "Aquarius"
 msgstr "Aquarius (Aquário)"
 
+# Tibetan constellation, native: Nya
 msgid "Pisces"
 msgstr "Pisces (Peixes)"

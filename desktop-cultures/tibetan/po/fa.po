@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Ali Azadegan <sel3ulba@yahoo.com>, 2023\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Persian (https://app.transifex.com/stellarium/teams/80998/"
 "fa/)\n"
 "MIME-Version: 1.0\n"
@@ -17,38 +17,50 @@ msgstr ""
 msgid "Tibetan"
 msgstr ""
 
+# Tibetan constellation, native: Luk
 msgid "Aries"
 msgstr "حَمَل"
 
+# Tibetan constellation, native: Lang
 msgid "Taurus"
 msgstr "ثور"
 
+# Tibetan constellation, native: Trik
 msgid "Gemini"
 msgstr "جوزا"
 
+# Tibetan constellation, native: Karkata
 msgid "Cancer"
 msgstr "سرطان"
 
+# Tibetan constellation, native: Senge
 msgid "Leo"
 msgstr "اسد"
 
+# Tibetan constellation, native: Pumo
 msgid "Virgo"
 msgstr "سنبله"
 
+# Tibetan constellation, native: Sangwa
 msgid "Libra"
 msgstr "میزان"
 
+# Tibetan constellation, native: Dikpa
 msgid "Scorpius"
 msgstr "عقرب"
 
+# Tibetan constellation, native: Zhu
 msgid "Sagittarius"
 msgstr "قوس"
 
+# Tibetan constellation, native: Chusin
 msgid "Capricornus"
 msgstr "جَدی"
 
+# Tibetan constellation, native: Bumpa
 msgid "Aquarius"
 msgstr "دلو"
 
+# Tibetan constellation, native: Nya
 msgid "Pisces"
 msgstr "حوت"

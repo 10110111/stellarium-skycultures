@@ -5,61 +5,66 @@ msgstr ""
 "POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
 "Last-Translator: Transifex Bot <>, 2025\n"
-"Language-Team: Thai (https://app.transifex.com/stellarium/teams/80998/th/)\n"
+"Language-Team: Breton (https://app.transifex.com/stellarium/teams/80998/"
+"br/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: th\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: br\n"
+"Plural-Forms: nplurals=5; plural=((n%10 == 1) && (n%100 != 11) && (n%100 !"
+"=71) && (n%100 !=91) ? 0 :(n%10 == 2) && (n%100 != 12) && (n%100 !=72) && (n"
+"%100 !=92) ? 1 :(n%10 ==3 || n%10==4 || n%10==9) && (n%100 < 10 || n% 100 > "
+"19) && (n%100 < 70 || n%100 > 79) && (n%100 < 90 || n%100 > 99) ? 2 :(n != 0 "
+"&& n % 1000000 == 0) ? 3 : 4);\n"
 
 # Sky culture name
 msgid "Tibetan"
-msgstr "ทิเบต"
+msgstr ""
 
 # Tibetan constellation, native: Luk
 msgid "Aries"
-msgstr "แกะ"
+msgstr "An Tourz"
 
 # Tibetan constellation, native: Lang
 msgid "Taurus"
-msgstr "วัว"
+msgstr "An Tarv"
 
 # Tibetan constellation, native: Trik
 msgid "Gemini"
-msgstr "คนคู่"
+msgstr "Ar C'hevelled"
 
 # Tibetan constellation, native: Karkata
 msgid "Cancer"
-msgstr "ปู"
+msgstr "Ar C'hrank"
 
 # Tibetan constellation, native: Senge
 msgid "Leo"
-msgstr "สิงโต"
+msgstr "Al Leon"
 
 # Tibetan constellation, native: Pumo
 msgid "Virgo"
-msgstr "หญิงสาว"
+msgstr "Ar Werc'hez"
 
 # Tibetan constellation, native: Sangwa
 msgid "Libra"
-msgstr "คันชั่ง"
+msgstr "Ar Ventel"
 
 # Tibetan constellation, native: Dikpa
 msgid "Scorpius"
-msgstr "แมงป่อง"
+msgstr "Ar Grug"
 
 # Tibetan constellation, native: Zhu
 msgid "Sagittarius"
-msgstr "คนยิงธนู"
+msgstr "Ar Saezhataer"
 
 # Tibetan constellation, native: Chusin
 msgid "Capricornus"
-msgstr "แพะทะเล"
+msgstr "Ar C'havr"
 
 # Tibetan constellation, native: Bumpa
 msgid "Aquarius"
-msgstr "คนแบกหม้อน้ำ"
+msgstr "Ar Skuilher-dour"
 
 # Tibetan constellation, native: Nya
 msgid "Pisces"
-msgstr "ปลา"
+msgstr "Ar Pesked"

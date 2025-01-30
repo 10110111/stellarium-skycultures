@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: cardinot <mcardinot@gmail.com>, 2022\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Gaelic, Scottish (https://app.transifex.com/stellarium/"
 "teams/80998/gd/)\n"
 "MIME-Version: 1.0\n"
@@ -18,38 +18,50 @@ msgstr ""
 msgid "Tibetan"
 msgstr ""
 
+# Tibetan constellation, native: Luk
 msgid "Aries"
 msgstr "An Reithe (Aries)"
 
+# Tibetan constellation, native: Lang
 msgid "Taurus"
 msgstr "An Tarbh (Taurus)"
 
+# Tibetan constellation, native: Trik
 msgid "Gemini"
 msgstr "An Dà Leth-aon no Gaolag is Gràdhag na Caiginn (Gemini)"
 
+# Tibetan constellation, native: Karkata
 msgid "Cancer"
 msgstr "Am Partan (Cancer)"
 
+# Tibetan constellation, native: Senge
 msgid "Leo"
 msgstr "An Leòmhann (Leo)"
 
+# Tibetan constellation, native: Pumo
 msgid "Virgo"
 msgstr "An Òigh (Virgo)"
 
+# Tibetan constellation, native: Sangwa
 msgid "Libra"
 msgstr "A’ Mheidh (Libra)"
 
+# Tibetan constellation, native: Dikpa
 msgid "Scorpius"
 msgstr "An Sgairp (Scorpius)"
 
+# Tibetan constellation, native: Zhu
 msgid "Sagittarius"
 msgstr "An Saighdear (Sagittarius)"
 
+# Tibetan constellation, native: Chusin
 msgid "Capricornus"
 msgstr "An Gobhar (Capricornus)"
 
+# Tibetan constellation, native: Bumpa
 msgid "Aquarius"
 msgstr "An Giùlanair Uisge (Aquarius)"
 
+# Tibetan constellation, native: Nya
 msgid "Pisces"
 msgstr "Na h-Èisg (Pisces)"

@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: ysjbserver <ysjbserver@naver.com>, 2023\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Korean (https://app.transifex.com/stellarium/teams/80998/"
 "ko/)\n"
 "MIME-Version: 1.0\n"
@@ -17,38 +17,50 @@ msgstr ""
 msgid "Tibetan"
 msgstr ""
 
+# Tibetan constellation, native: Luk
 msgid "Aries"
 msgstr "양자리"
 
+# Tibetan constellation, native: Lang
 msgid "Taurus"
 msgstr "황소자리"
 
+# Tibetan constellation, native: Trik
 msgid "Gemini"
 msgstr "쌍둥이자리"
 
+# Tibetan constellation, native: Karkata
 msgid "Cancer"
 msgstr "게자리"
 
+# Tibetan constellation, native: Senge
 msgid "Leo"
 msgstr "사자자리"
 
+# Tibetan constellation, native: Pumo
 msgid "Virgo"
 msgstr "처녀자리"
 
+# Tibetan constellation, native: Sangwa
 msgid "Libra"
 msgstr "천칭자리"
 
+# Tibetan constellation, native: Dikpa
 msgid "Scorpius"
 msgstr "전갈자리"
 
+# Tibetan constellation, native: Zhu
 msgid "Sagittarius"
 msgstr "궁수자리"
 
+# Tibetan constellation, native: Chusin
 msgid "Capricornus"
 msgstr "염소자리"
 
+# Tibetan constellation, native: Bumpa
 msgid "Aquarius"
 msgstr "물병자리"
 
+# Tibetan constellation, native: Nya
 msgid "Pisces"
 msgstr "물고기자리"
