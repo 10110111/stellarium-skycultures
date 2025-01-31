@@ -4,18 +4,19 @@ msgstr ""
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
 "POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Manuel Rosales <manuel.rosales.gr@gmail.com>, 2025\n"
-"Language-Team: Galician (https://app.transifex.com/stellarium/teams/80998/"
-"gl/)\n"
+"Last-Translator: Alejandro Moctezuma <moctezumaalejandro25@gmail.com>, 2025\n"
+"Language-Team: Spanish (Latin America) (https://app.transifex.com/stellarium/"
+"teams/80998/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: gl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_419\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
 
 # Sky culture name
 msgid "Arabic (Indigenous)"
-msgstr "Árabe (Indíxena)"
+msgstr "Árabe (Indígena)"
 
 # Sky culture introduction section in markdown format
 msgid ""
@@ -23,9 +24,9 @@ msgid ""
 "Arabs living in the Arabian Peninsula prior to the Greek astronomy influence "
 "in the ninth century."
 msgstr ""
-"A cultura do ceo árabe mostra o coñecemento das estrelas indíxenas dos "
-"antigos árabes que vivían na Península arábiga antes da influencia da "
-"astronomía grega no século IX."
+"La cultura estelar árabe muestra el conocimiento de las estrellas indígenas "
+"de los antiguos árabes que vivían en la Península Arábiga antes de la "
+"influencia de la astronomía griega en el siglo IX."
 
 # Sky culture description section in markdown format
 msgid ""
@@ -48,25 +49,26 @@ msgid ""
 "of ancient Arabs from the following books: [#2], [#3], [#4], [#5], [#6], "
 "[#8], [#9]."
 msgstr ""
-"O coñecemento das estrelas dos antigos árabes foi rexistrado e preservado na "
-"poesía antiga e nas antigas obras de filólogos e lexicógrafos árabes da "
-"civilización islámica. Escribíronse moitos libros sobre o tema do "
-"coñecemento das estrelas e anwāʾ [en árabe الأنواء], o coñecemento árabe da "
-"meteoroloxía. Os editores de Ibn Qutaybah *Kitāb al-Anwāʾ* (século IX) "
-"enumeraron vintecatro libros sobre este tema escritos principalmente entre "
-"principios do século VIII e o X [#2]. O único texto completamente conservado "
-"é o de Ibn Qutaybah, pero os estudosos posteriores citarán moitos dos textos "
-"anteriores. Unha das obras máis significativas que rexistrou os nomes de "
-"estrelas árabes indíxenas é o*Libro das estrelas* escrito no ~ 964 d. C. "
-"polo destacado astrónomo: al-Ṣūfī, e nel identificou os nomes das estrelas "
-"árabes indíxenas coas respectivas estrelas ptolemaicas das constelacións "
-"gregas.[#5].\n"
+"El conocimiento estelar de los antiguos árabes se había registrado y "
+"preservado en la poesía antigua y en las antiguas obras de filólogos y "
+"lexicógrafos árabes de la civilización islámica. Se escribieron muchos "
+"libros sobre el tema del conocimiento de las estrellas y anwāʾ [árabe "
+"الأنواء], el conocimiento árabe de la meteorología. Los editores del *Kitāb "
+"al-Anwāʾ* de Ibn Qutaybah (siglo IX) enumeraron veinticuatro libros sobre "
+"este tema escritos principalmente entre principios del siglo VIII y X [#2]. "
+"El único texto completamente conservado es el de Ibn Qutaybah, pero los "
+"eruditos posteriores habían citado muchos de los textos anteriores. Una de "
+"las obras más significativas que registró los nombres de las estrellas "
+"árabes indígenas es el *Libro de las estrellas* escrito en ~ 964 d.C. por el "
+"astrónomo prominente: al-Ṣūfī, donde identificó los nombres de las estrellas "
+"árabes indígenas con las respectivas estrellas ptolemaicas de las "
+"constelaciones griegas[#5].\n"
 "\n"
-"### Fontes da cultura do ceo árabe\n"
+"### Fuentes de la cultura estelar árabe\n"
 "\n"
-"A fonte desta cultura do ceo é un estudo e recompilación do coñecemento das "
-"estrelas dos antigos árabes a partir dos seguintes libros: [#2], [#3], [#4], "
-"[#5], [#6], [#8], [#9]."
+"La fuente de esta cultura estelar es un estudio y compilación del "
+"conocimiento de las estrellas de los antiguos árabes de los siguientes "
+"libros: [#2], [#3], [#4], [#5], [#6], [#8], [#9]"
 
 # Sky culture constellations section in markdown format
 msgid ""
@@ -84,19 +86,21 @@ msgid ""
 "woman for Orion stars. Other asterisms are given names according to legends "
 "and stories."
 msgstr ""
-"Os antigos árabes deron nomes a estrelas únicas, parellas de estrelas, unha "
-"zona do ceo e a forma particular dun grupo de estrelas. As estrelas "
-"individuais recibiron o nome dunha figura humana ou dun animal do deserto, "
-"Arcturus é al-Simāk al-Rāmiḥ, que significa: O Alto coa lanza. Canopus é "
-"Suhayl, un nome propio dun home. Tamén temos estrelas chamadas: O Caracal e "
-"o Cabrito (o cabrito). Se dúas estrelas de brillo comparable están próximas "
-"entre si, reciben un nome común como: Os dous becerros, os dous lobos, as "
-"dúas pombas. Ás veces, unha zona recibe o nome dun grupo de animais. As "
-"estrelas máis brillantes son animais adultos, e as débiles son animais novos "
-"como: As hienas e as súas crías, os cabalos e os poldros. As formas "
-"particulares das estrelas recibiron nomes como o Escorpión, O león, al-"
-"Ǧawzā', que é o nome propio dunha muller para as estrelas de Orión. Outros "
-"asterismos reciben nomes segundo lendas e historias."
+"Los antiguos árabes dieron nombre a estrellas individuales, parejas de "
+"estrellas, un área en el cielo y la forma particular de un grupo de "
+"estrellas. Las estrellas individuales recibieron el nombre de una figura "
+"humana o un animal del desierto, Arcturus es al-Simāk al-Rāmiḥ, que "
+"significa: El Alto con la lanza. Canopus es Suhayl, un nombre propio de un "
+"hombre. También tenemos estrellas nombradas: El Caracal y el Cabrito (el "
+"cabrito). Si dos estrellas de brillo comparable están cerca una de la otra, "
+"se les da un nombre común como: Los dos terneros, los dos lobos, las dos "
+"palomas. A veces, un área lleva el nombre de un grupo de animales. Las "
+"estrellas más brillantes son los animales adultos, y las más débiles son los "
+"animales jóvenes como: Las hienas y sus crías, Los caballos y los potrillos. "
+"A las formas particulares de las estrellas se les dio nombres como el "
+"Escorpión, El león, al-Ǧawzā ', que es un nombre propio de una mujer para "
+"las estrellas de Orión. Otros asterismos reciben nombres de acuerdo con "
+"leyendas e historias."
 
 # Sky culture authors section in markdown format
 msgid "Khalid al-Ajaji: turath.alfalak@gmail.com"
@@ -104,7 +108,7 @@ msgstr "Khalid al-Ajaji: turath.alfalak@gmail.com"
 
 # Arabic (Indigenous) constellation, native: الطرف
 msgid "The Eyes"
-msgstr "Os Ollos"
+msgstr "los ojos"
 
 # Arabic (Indigenous) constellation
 msgid "Al-Thurayya"
@@ -112,7 +116,7 @@ msgstr "Al-Thurayya"
 
 # Name for HIP 62956
 msgid "The Oryx"
-msgstr "O órix"
+msgstr "El Oryx"
 
 # Name for HIP 65477
 msgid "Al-Suha"
@@ -136,75 +140,75 @@ msgstr "Hadari"
 
 # Arabic (Indigenous) constellation, native: البطين
 msgid "The Little Abdomen"
-msgstr "O pequeno abdome"
+msgstr "El Abdomen Pequeño"
 
 # Arabic (Indigenous) constellation, native: العضد
 msgid "The Arm"
-msgstr "O brazo"
+msgstr "El Brazo"
 
 # Arabic (Indigenous) constellation, native: النثرة
 msgid "The Nostrils"
-msgstr "Os narices"
+msgstr "Las Fosas Nasales"
 
 # Arabic (Indigenous) constellation, native: الجبهة
 msgid "The Forehead"
-msgstr "A fronte"
+msgstr "La Frente"
 
 # Arabic (Indigenous) constellation, native: الزبرة
 msgid "The Mane"
-msgstr "A melena"
+msgstr "La Melena"
 
 # Arabic (Indigenous) constellation, native: العوا
 msgid "The Bend"
-msgstr "A curva"
+msgstr "La Curva"
 
 # Arabic (Indigenous) constellation, native: الغفر
 msgid "The Cover"
-msgstr "A tapa"
+msgstr "La Tapa"
 
 # Arabic (Indigenous) constellation, native: الإكليل
 msgid "The Diadem"
-msgstr "O diadema"
+msgstr "La Diadema"
 
 # Name for HIP 85927
 msgid "Raised Tail Of The Scorpion"
-msgstr "Cola ergueita do escorpión"
+msgstr "La Cola Levantada de Escorpión"
 
 # Arabic (Indigenous) constellation, native: العقرب
 msgid "The Scorpion"
-msgstr "O Escorpión"
+msgstr "El Escorpio"
 
 # Arabic (Indigenous) constellation, native: البلدة
 msgid "The Empty Place"
-msgstr "O lugar baleiro"
+msgstr "El Lugar Vacío"
 
 # Arabic (Indigenous) constellation, native: النعائم
 msgid "The Ostriches"
-msgstr "As avestruces"
+msgstr "Los Avestruces"
 
 # Arabic (Indigenous) constellation, native: سعد الذابح
 msgid "The Lucky Star Of The Slaughterer"
-msgstr "As estrelas da sorte do abatedor"
+msgstr "‎La ‎‎Estrella‎‎ de la Suerte del Matadero‎"
 
 # Arabic (Indigenous) constellation, native: سعد بلع
 msgid "The Lucky Star Of The Swallower"
-msgstr "As estrelas da sorte do engulidor"
+msgstr "La estrella de la suerte del tragador"
 
 # Arabic (Indigenous) constellation, native: سعد السعود
 msgid "The Luckiest Of The Lucky Stars"
-msgstr "A máis afortunada de tódalas estrelas afortunadas"
+msgstr "‎La más afortunada de las estrellas de la suerte"
 
 # Arabic (Indigenous) constellation, native: سعد الأخبية
 msgid "The Lucky Star Of The Tents"
-msgstr "A estrela da sorte das tendas"
+msgstr "La estrella de la suerte de las tiendas"
 
 # Name for HIP 26366
 msgid "The Circular Mark"
-msgstr "A marca circular"
+msgstr "La marca circular"
 
 # Arabic (Indigenous) constellation, native: الهنعة
 msgid "The Downward Bend"
-msgstr "A curva descendente "
+msgstr "La curva hacia abajo"
 
 # Arabic (Indigenous) constellation, native: الجوزاء
 msgid "Al-Jawza"
@@ -212,47 +216,47 @@ msgstr "Al-Jawza"
 
 # Name for HIP 11767
 msgid "The Kid"
-msgstr "O neno"
+msgstr "El Niño"
 
 # Name for HIP 69673
 msgid "The Watcher"
-msgstr "O vixiante "
+msgstr "El observador"
 
 # Name for HIP 36046
 msgid "The Claws 1"
-msgstr "As poutas 1"
+msgstr "Las garras 1"
 
 # Name for HIP 36962
 msgid "The Claws 2"
-msgstr "As poutas 2"
+msgstr "Las garras 2"
 
 # Name for HIP 37740
 msgid "The Claws 3"
-msgstr "As poutas 3"
+msgstr "Las garras 3"
 
 # Name for HIP 35550
 msgid "The Claws 4"
-msgstr "As poutas 4"
+msgstr "Las garras 4"
 
 # Name for HIP 34088
 msgid "The Claws 5"
-msgstr "As poutas 5"
+msgstr "Las garras 5"
 
 # Name for HIP 35350
 msgid "The Claws 6"
-msgstr "As poutas 6"
+msgstr "Las garras 6"
 
 # Name for HIP 57632
 msgid "Star Of Weather Change"
-msgstr "Estrela do cambio de tempo"
+msgstr "Estrella de cambio del tiempo"
 
 # Name for HIP 80763
 msgid "The Heart"
-msgstr "O corazón"
+msgstr "El Corazón"
 
 # Name for HIP 24436
 msgid "Leg Of Al-Jawza"
-msgstr "Perna de Al-Jawza"
+msgstr "Pierna de Al-Jawza"
 
 # Name for HIP 30438
 msgid "Suhayl"
@@ -260,211 +264,211 @@ msgstr "Suhayl"
 
 # Arabic (Indigenous) constellation, native: الفرقدان
 msgid "The Two Oryx Calves"
-msgstr "Os dous becerros órix"
+msgstr "‎Los dos terneros oryx‎"
 
 # Arabic (Indigenous) constellation, native: فأس الرحى
 msgid "The Axe Of The Grindstone"
-msgstr "A machada da moa"
+msgstr "‎El hacha de la piedra molera‎"
 
 # Arabic (Indigenous) constellation, native: بنات نعش
 msgid "Daughters Of Na'sh"
-msgstr "As fillas de Na'sh"
+msgstr "Hijas de Na'sh"
 
 # Arabic (Indigenous) constellation, native: الظباء وأولاد الظباء
 msgid "The Gazelles And Their Youngsters"
-msgstr "As gacelas e as súas crías"
+msgstr "Las gacelas y sus crías"
 
 # Arabic (Indigenous) constellation, native: القفزة الأولى
 msgid "The First Leap"
-msgstr "O primeiro chimpo"
+msgstr "‎El primer salto‎"
 
 # Arabic (Indigenous) constellation, native: القفزة الثانية
 msgid "The Second Leap"
-msgstr "O segundo chimpo"
+msgstr "‎El segundo salto‎"
 
 # Arabic (Indigenous) constellation, native: القفزة الثالثة
 msgid "The Third Leap"
-msgstr "O terceiro chimpo"
+msgstr "El tercer salto"
 
 # Arabic (Indigenous) constellation, native: الفارطان
 msgid "The Two Preceding To The Water"
-msgstr "As dúas que preceden á auga"
+msgstr "Las dos precedentes al agua"
 
 # Arabic (Indigenous) constellation, native: الحوض
 msgid "The Pool"
-msgstr "A poza"
+msgstr "La piscina"
 
 # Arabic (Indigenous) constellation, native: الذئبان
 msgid "The Two Wolves"
-msgstr "Os dous lobos "
+msgstr "Los dos lobos"
 
 # Arabic (Indigenous) constellation, native: أظفار الذئب
 msgid "The Wolf Claws"
-msgstr "As poutas do lobo"
+msgstr "Las garras del lobo"
 
 # Arabic (Indigenous) constellation, native: العوائذ
 msgid "The Mother Camels"
-msgstr "A nai camela"
+msgstr "Las madres camellos"
 
 # Arabic (Indigenous) constellation, native: الأثافي
 msgid "The Three Stone Support"
-msgstr "O soporte das tres pedras "
+msgstr "El soporte de las tres piedras"
 
 # Arabic (Indigenous) constellation, native: القدر
 msgid "The Pot"
-msgstr "A pota"
+msgstr "‎La olla‎"
 
 # Arabic (Indigenous) constellation, native: الراعي الشمالي والشاء
 msgid "The Shepherd And The Sheep"
-msgstr "O pastor e as ovellas"
+msgstr "El pastor y la oveja"
 
 # Arabic (Indigenous) constellation, native: كوكبا الفرق
 msgid "The Two Separated Stars"
-msgstr "As dúas estrelas separadas"
+msgstr "Las dos estrellas separadas"
 
 # Arabic (Indigenous) constellation, native: ذو السلاح
 msgid "The Armed One"
-msgstr "O armado"
+msgstr "La armada"
 
 # Arabic (Indigenous) constellation, native: الرمح
 msgid "The Spear"
-msgstr "A lanza"
+msgstr "La Lanza"
 
 # Arabic (Indigenous) constellation, native: السماك الأعزل
 msgid "The Unarmed One"
-msgstr "O desarmado"
+msgstr "La desarmada"
 
 # Arabic (Indigenous) constellation, native: الضباع وأولاد الضباع
 msgid "The Hyenas And Their Youngsters"
-msgstr "As hienas e as súas crías"
+msgstr "‎Las hienas y sus crías"
 
 # Arabic (Indigenous) constellation, native: قصعة المساكين
 msgid "The Bowl Of The Poor"
-msgstr "A bóla dos pobres"
+msgstr "El tazón del pobre"
 
 # Arabic (Indigenous) constellation, native: الروضة والأغنام
 msgid "The Desert Garden And The Goats"
-msgstr "O xardín do deserto e as cabras"
+msgstr "El jardín del desierto y las cabras"
 
 # Arabic (Indigenous) constellation, native: النسق الشآمي
 msgid "The Northern Line"
-msgstr "A liña do norte"
+msgstr "La línea del norte"
 
 # Arabic (Indigenous) constellation, native: النسق اليماني
 msgid "The Southern Line"
-msgstr "A liña do sur"
+msgstr "La línea del sur"
 
 # Arabic (Indigenous) constellation, native: النسر الواقع
 msgid "The Landing Eagle"
-msgstr "A aguia pousada"
+msgstr "El águila que aterriza"
 
 # Arabic (Indigenous) constellation, native: النسر الطائر
 msgid "The Flying Eagle"
-msgstr "A aguia que voa"
+msgstr "El águila que vuela"
 
 # Arabic (Indigenous) constellation, native: الفوارس
 msgid "The Knights"
-msgstr "Os cabaleiros"
+msgstr "Los caballeros"
 
 # Arabic (Indigenous) constellation, native: الناقة
 msgid "The She-Camel"
-msgstr "A camela"
+msgstr "El camello"
 
 # Arabic (Indigenous) constellation, native: رأس الناقة
 msgid "Head Of The She-Camel"
-msgstr "Cabeza da camela"
+msgstr "Cabeza del camello"
 
 # Arabic (Indigenous) constellation, native: عنق الناقة
 msgid "Neck Of The She-Camel"
-msgstr "Pescozo da camela"
+msgstr "Cuello del camello"
 
 # Arabic (Indigenous) constellation, native: يدا الناقة
 msgid "Legs Of The She-Camel"
-msgstr "Pernas da camela"
+msgstr "Piernas del camello"
 
 # Arabic (Indigenous) constellation, native: سنام الناقة - الكف الخضيب
 msgid "The She-Camel's Hump - The Henna Tinted Hand"
-msgstr "A chepa da camela - A man tinguida con henna"
+msgstr "La joroba de la camello - La mano teñida de henna"
 
 # Arabic (Indigenous) constellation, native: العاتق
 msgid "The Shoulder Blade"
-msgstr "A omoplata"
+msgstr "El omóplato"
 
 # Arabic (Indigenous) constellation, native: المنكب
 msgid "The Shoulder"
-msgstr "O ombreiro"
+msgstr "El hombro"
 
 # Arabic (Indigenous) constellation, native: المرفق
 msgid "The Elbow"
-msgstr "O cóbado"
+msgstr "El Codo"
 
 # Arabic (Indigenous) constellation, native: الساعد
 msgid "The Forearm"
-msgstr "O antebrazo"
+msgstr "El antebrazo"
 
 # Arabic (Indigenous) constellation, native: المعصم
 msgid "The Wrist"
-msgstr "O pulso"
+msgstr "La muñeca"
 
 # Arabic (Indigenous) constellation, native: الكف الجذماء
 msgid "The Leprous Hand"
-msgstr "A man leprosa "
+msgstr "La mano leprosa"
 
 # Arabic (Indigenous) constellation, native: العيوق والأعلام
 msgid "Al-Ayyuq And The Posts"
-msgstr "Al-Ayyuq e os postes"
+msgstr "Al-Ayyuq y los mensajes"
 
 # Arabic (Indigenous) constellation, native: الخباء الشآمي
 msgid "The Northern Tent"
-msgstr "A tenda de campaña do norte"
+msgstr "La tienda del norte"
 
 # Arabic (Indigenous) constellation, native: القعود
 msgid "The Young Camel"
-msgstr "A cría de camelo"
+msgstr "El camello joven"
 
 # Arabic (Indigenous) constellation, native: عناق الأرض
 msgid "The Caracal"
-msgstr "O Caracal"
+msgstr "El Caracal"
 
 # Arabic (Indigenous) constellation, native: الدلو
 msgid "The Well Bucket"
-msgstr "O balde do pozo"
+msgstr "‎El cubo del pozo‎"
 
 # Arabic (Indigenous) constellation, native: الكرب
 msgid "The Bucket Rope Knot"
-msgstr "O nó da corda do balde"
+msgstr "El nudo de la cuerda del cubo"
 
 # Arabic (Indigenous) constellation, native: الفرغ المقدم
 msgid "The Front Bucket Mouth"
-msgstr "A boca do caldeiro de diante"
+msgstr "‎La boca delantera del cubo‎"
 
 # Arabic (Indigenous) constellation, native: الفرغ المؤخر
 msgid "The Rear Bucket Mouth"
-msgstr "A boca do caldeiro de atrás"
+msgstr "‎La boca trasera del cubo‎"
 
 # Arabic (Indigenous) constellation, native: الرشاء
 msgid "The Bucket Rope"
-msgstr "A corda do cubo balde"
+msgstr "La Cuerda del Cubo"
 
 # Arabic (Indigenous) constellation, native: الحوت
 msgid "The Fish"
-msgstr "O Peixe"
+msgstr "El Pez"
 
 # Arabic (Indigenous) constellation, native: بلدة الثعلب
 msgid "The Empty Place Of The Fox"
-msgstr "O lugar baleiro da raposa"
+msgstr "El lugar vacío del zorro"
 
 # Arabic (Indigenous) constellation, native: الحمل
 msgid "The Lamb"
-msgstr "O año"
+msgstr "El cordero"
 
 # Arabic (Indigenous) constellation, native: الأيبسان
 msgid "The Two Forelegs Of The Lamb"
-msgstr "As dúas patas dianteiras do año"
+msgstr "‎Las dos patas delanteras del cordero‎"
 
 # Arabic (Indigenous) constellation, native: الشرطان
 msgid "The Two Signs"
-msgstr "Os Dous Signos"
+msgstr "Los Dos Signos"
 
 # Arabic (Indigenous) constellation, native: الدبران
 msgid "Al-Dabaran"
@@ -472,215 +476,215 @@ msgstr "Al-Dabaran"
 
 # Arabic (Indigenous) constellation, native: كلبا الدبران
 msgid "The Two Dogs Of Al-Dabaran"
-msgstr "Os dous cans de Al-Dabaran"
+msgstr "Los dos perros de Al-Dabaran"
 
 # Arabic (Indigenous) constellation, native: القلاص
 msgid "The Young She-Camels"
-msgstr "As camelas noviñas"
+msgstr "‎Los camellos‎ jóvenes"
 
 # Arabic (Indigenous) constellation, native: الأسد
 msgid "The Lion"
-msgstr "O León"
+msgstr "El león"
 
 # Arabic (Indigenous) constellation, native: الذراع المقبوضة
 msgid "The Retracted Arm"
-msgstr "O brazo retraído "
+msgstr "El brazo retraído"
 
 # Arabic (Indigenous) constellation, native: الذراع المبسوطة
 msgid "The Extended Arm"
-msgstr "O brazo estendido"
+msgstr "El brazo extendido"
 
 # Arabic (Indigenous) constellation, native: الهلبة
 msgid "The Tassel"
-msgstr "A borla"
+msgstr "La borla"
 
 # Arabic (Indigenous) constellation, native: الشولة
 msgid "The Scorpion's Sting"
-msgstr "O aguillón do escorpión"
+msgstr "El aguijón del Escorpión"
 
 # Arabic (Indigenous) constellation, native: النعام الوارد
 msgid "The Ostriches Drinking At The River"
-msgstr "As avestruces bebendo no río"
+msgstr "‎Los avestruces bebiendo en el río‎"
 
 # Arabic (Indigenous) constellation, native: النعام الصادر
 msgid "The Ostriches Leaving The River"
-msgstr "As avestruces que abandonan o río"
+msgstr "‎Los avestruces dejando el río‎"
 
 # Arabic (Indigenous) constellation, native: الأدحي - القلادة
 msgid "The Ostrich Nest - The Necklace"
-msgstr "O niño de avestruz - O colar"
+msgstr "‎El nido de Avestruz - El collar‎"
 
 # Arabic (Indigenous) constellation, native: القبة
 msgid "The Dome-Like Tent"
-msgstr "A tenda de campaña de cúpula "
+msgstr "La carpa con forma de cúpula"
 
 # Arabic (Indigenous) constellation, native: سعد ناشرة
 msgid "The Lucky Star Of Nashira"
-msgstr "A estrela afortunada de Nashira"
+msgstr "‎La estrella de la suerte‎‎ de Nashira‎"
 
 # Arabic (Indigenous) constellation, native: سعد الملك
 msgid "The Lucky Star Of The King"
-msgstr "A estrela afortunada do rei"
+msgstr "‎La estrella de la suerte‎‎ del rey"
 
 # Arabic (Indigenous) constellation, native: سعد البهام
 msgid "The Lucky Star Of The Young Sheep"
-msgstr "A estrela afortunada das ovelliñas"
+msgstr "‎La ‎‎estrella‎‎ de la suerte de la oveja joven"
 
 # Arabic (Indigenous) constellation, native: سعد الهمام
 msgid "The Lucky Star Of The One With Great Endeavour"
-msgstr "A estrela afortunada de quen se esforza moito"
+msgstr "‎La ‎‎estrella‎‎ de la suerte de la que tiene un gran esfuerzo‎"
 
 # Arabic (Indigenous) constellation, native: سعد البارع
 msgid "The Lucky Star Of The Excellent One"
-msgstr "A estrela afortunada da persoa excelente"
+msgstr "‎La ‎‎estrella‎‎ de la suerte del excelente‎"
 
 # Arabic (Indigenous) constellation, native: سعد مطر
 msgid "The Lucky Star Of Matar"
-msgstr "A estrela afortunada de Mattar"
+msgstr "La estrella de la suerte de Matar"
 
 # Arabic (Indigenous) constellation, native: الربق
 msgid "The Ringed Rope"
-msgstr "A corda en anel"
+msgstr "‎La cuerda anillada‎"
 
 # Arabic (Indigenous) constellation, native: الهقعة
 msgid "The Circular Mark‎"
-msgstr "A marca circular"
+msgstr "La marca circular"
 
 # Arabic (Indigenous) constellation, native: النظم
 msgid "The String"
-msgstr "A corda"
+msgstr "La cuerda"
 
 # Arabic (Indigenous) constellation, native: الجواري
 msgid "The Young Maids"
-msgstr "As criadas noviñas"
+msgstr "Las doncellas jóvenes"
 
 # Arabic (Indigenous) constellation, native: ذوائب الجوزاء
 msgid "Hair Braids Of Al-Jawza"
-msgstr "Trenzas do cabelo de Al-Jawza"
+msgstr "Trenzas de pelo de Al-Jawza"
 
 # Arabic (Indigenous) constellation, native: قوس الجوزاء
 msgid "Bow Of Al-Jawza"
-msgstr "Arco de Al-Jawza"
+msgstr "‎Arco de Al-Jawza‎"
 
 # Arabic (Indigenous) constellation, native: التحايي
 msgid "Stars Of Abundant Rain"
-msgstr "Estrelas da choiva abundante"
+msgstr "Estrellas de la lluvia abundante"
 
 # Arabic (Indigenous) constellation, native: كرسي الجوزاء المقدم
 msgid "The Front Footstool Of Al-Jawza"
-msgstr "O tallo dianteiro de Al-Jawza"
+msgstr "‎El taburete delantero de Al-Jawza‎"
 
 # Arabic (Indigenous) constellation, native: كرسي الجوزاء المؤخر
 msgid "The Rear Footstool Of Al-Jawza"
-msgstr "O tallo traseiro de Al-Jawza"
+msgstr "‎El taburete trasero de Al-Jawza‎"
 
 # Arabic (Indigenous) constellation, native: العذارى
 msgid "The Virgins"
-msgstr "As virxes"
+msgstr "Las vírgenes"
 
 # Arabic (Indigenous) constellation, native: الأغربة
 msgid "The Ravens"
-msgstr "Os corvos"
+msgstr "Los cuervos"
 
 # Arabic (Indigenous) constellation, native: أدحي النعام والبيض والقيض
 msgid "The Ostriches Nest, The Eggs And Egg Shells"
-msgstr "Oniño de avestruz, os ovos e as cascas de ovos"
+msgstr "El nido de avestruces, los huevos y las cáscaras de huevo"
 
 # Arabic (Indigenous) constellation, native: البقر
 msgid "The Oryxes"
-msgstr "Os órix"
+msgstr "Los orixes"
 
 # Arabic (Indigenous) constellation, native: الشراسيف
 msgid "The Tied Camels"
-msgstr "Os camelos atados"
+msgstr "‎Los camellos atados‎"
 
 # Arabic (Indigenous) constellation, native: المعلف
 msgid "The Trough"
-msgstr "A artesa"
+msgstr "‎La vaguada‎"
 
 # Arabic (Indigenous) constellation, native: الخباء اليماني
 msgid "The Southern Tent"
-msgstr "A tenda de campaña do sur"
+msgstr "La tienda del sur"
 
 # Arabic (Indigenous) constellation, native: الشماريخ
 msgid "The Date Clusters"
-msgstr "O cúmulo de datas"
+msgstr "Los grupos de fechas"
 
 # Arabic (Indigenous) constellation, native: الخيل وأفلاء الخيل
 msgid "The Horses And The Foals"
-msgstr "Os cabalos e os poldros"
+msgstr "‎Los caballos y los potros‎"
 
 # Arabic (Indigenous) constellation, native: الصردان
 msgid "The Two Shrikes"
-msgstr "Os dous picanzos reais"
+msgstr "Los dos alcaudones"
 
 # Arabic (Indigenous) constellation, native: اليمامتان
 msgid "The Two Doves"
-msgstr "As dúas pombas"
+msgstr "Las dos palomas"
 
 # Arabic (Indigenous) constellation, native: الظليمان
 msgid "The Two Male Ostriches"
-msgstr "As dúas avestruces macho"
+msgstr "Los dos avestruces machos"
 
 # Arabic (Indigenous) constellation, native: الرئال
 msgid "The Young Ostriches"
-msgstr "As crías de avestruz"
+msgstr "Los avestruces jóvenes"
 
 # Arabic (Indigenous) constellation, native: المكاكي
 msgid "The Larks"
-msgstr "As lavercas"
+msgstr "Las alondras"
 
 # Arabic (Indigenous) constellation, native: القطا
 msgid "The Sandgrouses"
-msgstr "Os areeiros "
+msgstr "Los urogallos"
 
 # Arabic (Indigenous) constellation, native: العانة
 msgid "The Wild Asses"
-msgstr "Os asnos salvaxes "
+msgstr "Los asnos salvajes"
 
 # Arabic (Indigenous) constellation, native: السلم
 msgid "The Ladder"
-msgstr "A esqueira "
+msgstr "La escalera"
 
 # Name for NGC 869
 msgid "The Wrist 1"
-msgstr "O pulso 1"
+msgstr "La muñeca 1"
 
 # Name for NGC 884
 msgid "The Wrist 2"
-msgstr "O pulso 2"
+msgstr "La muñeca 2"
 
 # Name for NGC 869
 msgid "The She-Camel's Brand 1"
-msgstr "A marca da camela 1"
+msgstr "La marca del camello 1"
 
 # Name for NGC 884
 msgid "The She-Camel's Brand 2"
-msgstr "A marca da camela 2"
+msgstr "La marca del camello 2"
 
 # Name for M 44
 msgid "The Lion's Nostrils"
-msgstr "Os fuciños do león"
+msgstr "Las fosas nasales del león"
 
 # Name for NAME Jupiter
 msgid "The Shining One"
-msgstr "A brillante"
+msgstr "La brillante"
 
 # Name for NAME Venus
 msgid "The Beautiful Bright One"
-msgstr "A fermosa brillante"
+msgstr "La hermosa brillante"
 
 # Name for NAME Mars
 msgid "The Fire Starter"
-msgstr "O que prende o lume "
+msgstr "El iniciador de fuego"
 
 # Name for NAME Saturn
 msgid "The Remote one"
-msgstr "O remoto"
+msgstr "El remoto"
 
 # Name for NAME Mercury
 msgid "The Unstable"
-msgstr "O inestable"
+msgstr "El inestable"
 
 # Name for NAME Sun
 msgid "Ush-Shams"
@@ -688,39 +692,39 @@ msgstr "Ush-Shams"
 
 # Name for NAME Moon
 msgid "The Strongly White"
-msgstr "A intensamente branca"
+msgstr "La fuertemente blanca"
 
 # Name for HIP 72607
 msgid "The Two Calves 1"
-msgstr "Os dous becerros 1"
+msgstr "Los dos terneros 1"
 
 # Name for HIP 75097
 msgid "The Two Calves 2"
-msgstr "Os dous becerros 2"
+msgstr "Los dos terneros 2"
 
 # Name for HIP 54061
 msgid "The Two Front Ones 1"
-msgstr "As dúas de diante 1"
+msgstr "Los dos frontales 1"
 
 # Name for HIP 53910
 msgid "The Two Front Ones 2"
-msgstr "As dúas de diante 2"
+msgstr "Los dos frontales 2"
 
 # Name for HIP 58001
 msgid "The Two Lame Ones 1"
-msgstr "Os dous coxos 1"
+msgstr "Los dos cojos 1"
 
 # Name for HIP 59774
 msgid "The Two Lame Ones 2"
-msgstr "Os dous coxos 2"
+msgstr "Los dos cojos 2"
 
 # Name for HIP 62956
 msgid "The Dark Camel"
-msgstr "O camelo escuro"
+msgstr "El camello oscuro"
 
 # Name for HIP 65378
 msgid "The Little Goat"
-msgstr "A cabuxa"
+msgstr "La cabra pequeña"
 
 # Name for HIP 65477
 msgid "Aslam"
@@ -732,163 +736,163 @@ msgstr "As-Saydaq"
 
 # Name for HIP 67301
 msgid "The Leader"
-msgstr "O líder"
+msgstr "El Líder"
 
 # Name for HIP 46733
 msgid "The Two Preceding To The Water 1"
-msgstr "As dúas que preceden á auga 1"
+msgstr "Las dos precedentes al agua 1"
 
 # Name for HIP 48319
 msgid "The Two Preceding To The Water 2"
-msgstr "As dúas que preceden á auga 2"
+msgstr "Las dos precedentes al agua 2"
 
 # Name for HIP 63125
 msgid "Liver Of The Lion"
-msgstr "Fígado do león"
+msgstr "Hígado del león"
 
 # Name for HIP 746
 msgid "The She-Camel's Hump"
-msgstr "A chepa da camela"
+msgstr "La joroba del camello"
 
 # Name for HIP 83608
 msgid "The Trotting Camel"
-msgstr "O camelo trotador"
+msgstr "El Camello Trotando"
 
 # Name for HIP 86782
 msgid "The Baby Camel"
-msgstr "O bebé camelo"
+msgstr "El camello bebé"
 
 # Name for HIP 94376
 msgid "The Three Stone Support 1"
-msgstr "O soporte das tres pedras 1"
+msgstr "El soporte de las tres piedras 1"
 
 # Name for HIP 97433
 msgid "The Three Stone Support 2"
-msgstr "O soporte das tres pedras 2"
+msgstr "El soporte de las tres piedras 2"
 
 # Name for HIP 89937
 msgid "The Three Stone Support 3"
-msgstr "O soporte das tres pedras 3"
+msgstr "El soporte de las tres piedras 3"
 
 # Name for HIP 83895
 msgid "The Two Wolves 1"
-msgstr "Os dous lobos 1"
+msgstr "Los dos lobos 1"
 
 # Name for HIP 80331
 msgid "The Two Wolves 2"
-msgstr "Os dous lobos 2"
+msgstr "Los dos lobos 2"
 
 # Name for HIP 83895
 msgid "The Two Black Birds 1"
-msgstr "Os dous paxaros negros 1"
+msgstr "Las dos aves negras 1"
 
 # Name for HIP 80331
 msgid "The Two Black Birds 2"
-msgstr "Os dous paxaros negros 2"
+msgstr "Las dos aves negras 2"
 
 # Name for HIP 83895
 msgid "The Two Falcons 1"
-msgstr "Os dous falcóns 1"
+msgstr "Los dos halcones 1"
 
 # Name for HIP 80331
 msgid "The Two Falcons 2"
-msgstr "Os dous falcóns 2"
+msgstr "Los dos halcones 2"
 
 # Name for HIP 75458
 msgid "The Male Hyena"
-msgstr "A hiena macho"
+msgstr "El Hombre Hiena"
 
 # Name for HIP 116727
 msgid "The [Northern] Shepherd"
-msgstr "O Pastor [norte]"
+msgstr "‎El pastor [del norte]‎"
 
 # Name for HIP 114222
 msgid "The [Northern] Shepherd Dog"
-msgstr "O can do Pastor [norte]"
+msgstr "‎El perro pastor [del norte]‎"
 
 # Name for HIP 105199
 msgid "The Two Stars Of Separation 1"
-msgstr "As dúas estrelas de separación 1"
+msgstr "‎Las dos estrellas de ‎‎la separación‎ 1"
 
 # Name for HIP 105199
 msgid "The White One"
-msgstr "A branca"
+msgstr "La blanca"
 
 # Name for HIP 106032
 msgid "The Two Stars Of Separation 2"
-msgstr "As dúas estrelas de separación 2"
+msgstr "‎Las dos estrellas de ‎‎la separación‎ 2"
 
 # Name for HIP 108917
 msgid "The Horse Forehead Star"
-msgstr "A estrela da testa do cabalo"
+msgstr "‎La ‎‎estrella‎‎ de la frente del caballo‎"
 
 # Name for HIP 69673
 msgid "The High One With The Spear"
-msgstr "O alto coa lanza"
+msgstr "La alta con la lanza"
 
 # Name for HIP 67927
 msgid "The Spear 1"
-msgstr "A lanza 1"
+msgstr "La lanza 1"
 
 # Name for HIP 72105
 msgid "The Spear 2"
-msgstr "A lanza 2"
+msgstr "La lanza 2"
 
 # Name for HIP 71053
 msgid "The Front Spear Tassel"
-msgstr "A borla da parte de diante da lanza"
+msgstr "‎La borla de lanza delantera"
 
 # Name for HIP 67459
 msgid "The Rear Spear Tassel"
-msgstr "A borla da parte de atrás da lanza"
+msgstr "‎La borla de lanza trasera‎"
 
 # Name for HIP 67459
 msgid "Flag Of The High One"
-msgstr "Bandeira da alta"
+msgstr "Bnadera de la alta"
 
 # Name for HIP 76267
 msgid "The Bright Star Of Al-Fakkah"
-msgstr "A estrela brillante de Al-Fakkah"
+msgstr "La estrella brillante de Al-Fakkah"
 
 # Name for HIP 89826
 msgid "The Landing Eagle Claws 1"
-msgstr "As poutas da aguia pousada 1"
+msgstr "Las garras del águila que aterriza 1"
 
 # Name for HIP 90191
 msgid "The Landing Eagle Claws 2"
-msgstr "As poutas da aguia pousada 2"
+msgstr "Las garras del águila que aterriza 2"
 
 # Name for HIP 102098
 msgid "The Rear Knight"
-msgstr "O cabaleiro de atrás"
+msgstr "El caballero trasero"
 
 # Name for HIP 94779
 msgid "The Knights 1"
-msgstr "Os cabaleiros 1"
+msgstr "Los Caballeros 1"
 
 # Name for HIP 97165
 msgid "The Knights 2"
-msgstr "Os cabaleiros 2"
+msgstr "Los Caballeros 2"
 
 # Name for HIP 100453
 msgid "The Knights 3"
-msgstr "Os cabaleiros 3"
+msgstr "Los Caballeros 3"
 
 # Name for HIP 102488
 msgid "The Knights 4"
-msgstr "Os cabaleiros 4"
+msgstr "Los Caballeros 4"
 
 # Name for HIP 104732
 msgid "The Knights 5"
-msgstr "Os cabaleiros 5"
+msgstr "Los Caballeros 5"
 
 # Name for HIP 16335
 msgid "Bend Of The Hand"
-msgstr "Curva da man"
+msgstr "Doblez de la mano"
 
 # Name for HIP 17358
 msgid "Tip Of The Elbow"
-msgstr "Punta do cóbado"
+msgstr "Punta del codo"
 
 # Name for HIP 24608
 msgid "Al-Ayyuq"
@@ -896,123 +900,123 @@ msgstr "Al-Ayyuq"
 
 # Name for HIP 24608
 msgid "Al-Thurayya watcher"
-msgstr "O vixiante de Al-Thurayya"
+msgstr "‎Observador de Al-Thurayya‎"
 
 # Name for HIP 23015
 msgid "Foot Of Al-Ayyuq"
-msgstr "Pé de Al-Ayyuq"
+msgstr "Pie de Al-Ayyuq"
 
 # Name for HIP 28360
 msgid "The Posts 1"
-msgstr "Os postes 1"
+msgstr "Los puestos 1"
 
 # Name for HIP 28380
 msgid "The Posts 2"
-msgstr "Os postes 2"
+msgstr "Los puestos 2"
 
 # Name for HIP 25428
 msgid "The Posts 3"
-msgstr "Os postes 3"
+msgstr "Los puestos 3"
 
 # Name for HIP 28360
 msgid "The Associates Of Al-Ayyuq 1"
-msgstr "Os asociados de Al-Ayyuq 1"
+msgstr "Los asociados de Al-Ayyuq 1"
 
 # Name for HIP 28380
 msgid "The Associates Of Al-Ayyuq 2"
-msgstr "Os asociados de Al-Ayyuq 2"
+msgstr "Los asociados de Al-Ayyuq 2"
 
 # Name for HIP 25428
 msgid "The Associates Of Al-Ayyuq 3"
-msgstr "Os asociados de Al-Ayyuq 3"
+msgstr "Los asociados de Al-Ayyuq 3"
 
 # Name for HIP 86032
 msgid "The [Southern] Shepherd"
-msgstr "O pastor [do sur]"
+msgstr "‎El pastor [del sur]‎"
 
 # Name for HIP 84345
 msgid "First Dog Of The [Southern] Shepherd"
-msgstr "Primeiro can do pastor [do sur]"
+msgstr "Primer perro del pastor [del sur]"
 
 # Name for HIP 86742
 msgid "Second Dog Of The [Southern] Shepherd"
-msgstr "O segundo can do pastor [do sur]"
+msgstr "Segundo perro del pastor [del sur]"
 
 # Name for HIP 101421
 msgid "The Post Of The Cross"
-msgstr "O poste da cruz"
+msgstr "El poste de la cruz"
 
 # Name for HIP 677
 msgid "The Rear Bucket Mouth 2"
-msgstr "A boca do caldeiro de atrás 2"
+msgstr "‎La boca trasera del cubo‎ 2"
 
 # Name for HIP 1067
 msgid "The Rear Bucket Mouth 1"
-msgstr "A boca do caldeiro de atrás 1"
+msgstr "‎La boca trasera del cubo‎ 1"
 
 # Name for HIP 113881
 msgid "The Front Bucket Mouth 2"
-msgstr "A boca do caldeiro de diante 2"
+msgstr "‎La boca delantera del cubo‎ 2"
 
 # Name for HIP 113963
 msgid "The Front Bucket Mouth 1"
-msgstr "A boca do caldeiro de diante 1"
+msgstr "‎La boca delantera del cubo‎ 1"
 
 # Name for HIP 677
 msgid "The Lower Cross Beam 2"
-msgstr "A viga transversal inferior 2"
+msgstr "La viga transversal inferior 2"
 
 # Name for HIP 1067
 msgid "The Lower Cross Beam 1"
-msgstr "A viga transversal inferior 1"
+msgstr "La viga transversal inferior 1"
 
 # Name for HIP 113881
 msgid "The Upper Cross Beam 2"
-msgstr "A viga transversal superior 2"
+msgstr "La viga transversal superior 2"
 
 # Name for HIP 113963
 msgid "The Upper Cross Beam 1"
-msgstr "A viga transversal superior 1"
+msgstr "La viga transversal superior 1"
 
 # Name for HIP 5447
 msgid "Abdomen Of The Fish"
-msgstr "Abdome do peixe"
+msgstr "Abdomen del pez"
 
 # Name for HIP 5447
 msgid "Abdomen Of The Whale"
-msgstr "Abdome da balea"
+msgstr "Abdomen de la ballena"
 
 # Name for HIP 8796
 msgid "The Two Forelegs 1"
-msgstr "As dúas patas dianteiras 1"
+msgstr "Las dos patas delanteras 1"
 
 # Name for HIP 10064
 msgid "The Two Forelegs 2"
-msgstr "As dúas patas dianteiras 2"
+msgstr "Las dos patas delanteras 2"
 
 # Name for HIP 21421
 msgid "The Male Camel"
-msgstr "O camelo"
+msgstr "El camello macho"
 
 # Name for HIP 21421
 msgid "The Wood Stirring Rod"
-msgstr "A variña de madeira"
+msgstr "La varilla agitadora de madera"
 
 # Name for HIP 21421
 msgid "The Camel Herder"
-msgstr "O pastor de camelos"
+msgstr "El pastor de camellos"
 
 # Name for HIP 29655
 msgid "Stars Of Abundant Rain 1"
-msgstr "Estrelas da choiva abundante 1"
+msgstr "Estrellas de la lluvia abundante 1"
 
 # Name for HIP 30343
 msgid "Stars Of Abundant Rain 2"
-msgstr "Estrelas da choiva abundante 2"
+msgstr "Estrellas de la lluvia abundante 2"
 
 # Name for HIP 30883
 msgid "Stars Of Abundant Rain 3"
-msgstr "Estrelas da choiva abundante 3"
+msgstr "Estrellas de la lluvia abundante 3"
 
 # Name for HIP 31681
 msgid "Az-Zir"
@@ -1024,123 +1028,123 @@ msgstr "Al-Maysan"
 
 # Name for HIP 46750
 msgid "The Eyelashes 1"
-msgstr "As pestanas 1"
+msgstr "Las pestañas 1"
 
 # Name for HIP 48455
 msgid "The Eyelashes 2"
-msgstr "As pestanas 2"
+msgstr "Las pestañas 2"
 
 # Name for HIP 46771
 msgid "The Eyelashes 3"
-msgstr "As pestanas 3"
+msgstr "Las pestañas 3"
 
 # Name for HIP 46774
 msgid "The Eyelashes 4"
-msgstr "As pestanas 4"
+msgstr "Las pestañas 4"
 
 # Name for HIP 65474
 msgid "The Unarmed High One"
-msgstr "O desarmado alto"
+msgstr "El Alto Desarmado"
 
 # Name for HIP 80112
 msgid "Veins Of The Heart 1"
-msgstr "Veas do corazón 1"
+msgstr "Venas del corazón 1"
 
 # Name for HIP 81266
 msgid "Veins Of The Heart 2"
-msgstr "Veas do corazón 2"
+msgstr "Venas del corazón 2"
 
 # Name for HIP 82396
 msgid "Tail Segments Of The Scorpion 1"
-msgstr "Segmentos da cola do escorpión 1"
+msgstr "‎Segmentos de cola del escorpión‎ 1"
 
 # Name for HIP 82514
 msgid "Tail Segments Of The Scorpion 2"
-msgstr "Segmentos da cola do escorpión 2"
+msgstr "‎Segmentos de cola del escorpión‎ 2"
 
 # Name for HIP 82729
 msgid "Tail Segments Of The Scorpion 3"
-msgstr "Segmentos da cola do escorpión 3"
+msgstr "‎Segmentos de cola del escorpión‎ 3"
 
 # Name for HIP 84143
 msgid "Tail Segments Of The Scorpion 4"
-msgstr "Segmentos da cola do escorpión 4"
+msgstr "‎Segmentos de cola del escorpión‎ 4"
 
 # Name for HIP 86228
 msgid "Tail Segments Of The Scorpion 5"
-msgstr "Segmentos da cola do escorpión 5"
+msgstr "‎Segmentos de cola del escorpión‎ 5"
 
 # Name for HIP 87073
 msgid "Tail Segments Of The Scorpion 6"
-msgstr "Segmentos da cola do escorpión 6"
+msgstr "‎Segmentos de cola del escorpión‎ 6"
 
 # Name for HIP 86670
 msgid "Tail Segments Of The Scorpion 7"
-msgstr "Segmentos da cola do escorpión 7"
+msgstr "‎Segmentos de cola del escorpión‎ 7"
 
 # Name for HIP 87261
 msgid "The Follower"
-msgstr "O Seguidor"
+msgstr "El Seguidor"
 
 # Name for HIP 101772
 msgid "The Two Shrikes 1"
-msgstr "Os dous picanzos reais 1"
+msgstr "Los dos alcaudones 1"
 
 # Name for HIP 100751
 msgid "The Two Shrikes 2"
-msgstr "Os dous picanzos reais 2"
+msgstr "Los dos alcaudones 2"
 
 # Name for HIP 109268
 msgid "The Two Doves 1"
-msgstr "As dúas pombas 1"
+msgstr "Las dos palomas 1"
 
 # Name for HIP 112122
 msgid "The Two Doves 2"
-msgstr "As dúas pombas 2"
+msgstr "Las dos palomas 2"
 
 # Name for HIP 100310
 msgid "The Sheep"
-msgstr "As ovellas"
+msgstr "La oveja"
 
 # Name for HIP 113368
 msgid "The Two Male Ostriches 1"
-msgstr "As dúas avestruces macho 1"
+msgstr "Los dos avestruces machos 1"
 
 # Name for HIP 3419
 msgid "The Two Male Ostriches 2"
-msgstr "As dúas avestruces macho 2"
+msgstr "Los dos avestruces machos 2"
 
 # Name for HIP 27989
 msgid "Shoulder Of Al-Jawza"
-msgstr "Ombreiro de Al-Jawza"
+msgstr "Hombro de Al-Jawza"
 
 # Name for HIP 32349
 msgid "The Southern Shi'ra"
-msgstr "O sur de Shi'ra"
+msgstr "El Shi'ra del Sur"
 
 # Name for HIP 32349
 msgid "The Crossing Shi'ra"
-msgstr "A travesía de Shi'ra"
+msgstr "El cruce de Shi'ra"
 
 # Name for HIP 30324
 msgid "Mirzam Of The Crossing Shi'ra"
-msgstr "Mirzam da travesía de Shi'ra"
+msgstr "Mirzam del cruce de Shi'ra"
 
 # Name for HIP 30324
 msgid "Mirzam Of Al-Shi'ra"
-msgstr "Mirzam de Al-Shi'ra"
+msgstr "Mirzam de Shi'ra"
 
 # Name for HIP 37279
 msgid "The Northern Shi'ra"
-msgstr "O norte de Shi'ra"
+msgstr "El Shi'ra del Norte"
 
 # Name for HIP 37279
 msgid "The Tearful Shi'ra"
-msgstr "Shi'ra a chorosa"
+msgstr "La Shi'ra llorosa"
 
 # Name for HIP 36188
 msgid "Mirzam of The Arm"
-msgstr "Mirzam do brazo"
+msgstr "Mirzam del brazo"
 
 # Name for HIP 32768
 msgid "Suhayl Balqayn"
@@ -1160,11 +1164,11 @@ msgstr "Suhayl Raqashi"
 
 # Name for HIP 46390
 msgid "The Sole One"
-msgstr "O único"
+msgstr "El único"
 
 # Name for HIP 7588
 msgid "Oath Star"
-msgstr "Estrela do xuramento "
+msgstr "Estrella del juramento"
 
 # Name for HIP 68702
 msgid "Al-Muqil"
