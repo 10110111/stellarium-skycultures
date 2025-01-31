@@ -894,11 +894,11 @@ msgstr "Dve znamenia"
 msgid "The Little Abdomen"
 msgstr "Bruško"
 
-# Arabic (Arabian Peninsula) constellation, native: الذراع 
+# Arabic (Arabian Peninsula) constellation, native: الذراع
 msgid "The Arm"
 msgstr "Rameno"
 
-# Arabic (Arabian Peninsula) constellation, native: الكليبين 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين
 msgid "The Two Little Dogs"
 msgstr "Dva malé psy"
 

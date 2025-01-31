@@ -902,11 +902,11 @@ msgstr "Дві Позначки"
 msgid "The Little Abdomen"
 msgstr "Маленьке черевце"
 
-# Arabic (Arabian Peninsula) constellation, native: الذراع 
+# Arabic (Arabian Peninsula) constellation, native: الذراع
 msgid "The Arm"
 msgstr "Рука"
 
-# Arabic (Arabian Peninsula) constellation, native: الكليبين 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين
 msgid "The Two Little Dogs"
 msgstr "Два Малих Пса"
 

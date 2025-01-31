@@ -947,11 +947,11 @@ msgstr "Die beiden Zeichen"
 msgid "The Little Abdomen"
 msgstr "Das Bäuchlei"
 
-# Arabic (Arabian Peninsula) constellation, native: الذراع 
+# Arabic (Arabian Peninsula) constellation, native: الذراع
 msgid "The Arm"
 msgstr "Der Arm"
 
-# Arabic (Arabian Peninsula) constellation, native: الكليبين 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين
 msgid "The Two Little Dogs"
 msgstr "Die Zwei Hündchen"
 

@@ -901,11 +901,11 @@ msgstr "Kaksi merkkiä"
 msgid "The Little Abdomen"
 msgstr "Pikku Vatsa"
 
-# Arabic (Arabian Peninsula) constellation, native: الذراع 
+# Arabic (Arabian Peninsula) constellation, native: الذراع
 msgid "The Arm"
 msgstr "Käsivarsi"
 
-# Arabic (Arabian Peninsula) constellation, native: الكليبين 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين
 msgid "The Two Little Dogs"
 msgstr "Kaksi pientä koiraa"
 

@@ -812,11 +812,11 @@ msgstr "الشرطين"
 msgid "The Little Abdomen"
 msgstr "البطين"
 
-# Arabic (Arabian Peninsula) constellation, native: الذراع 
+# Arabic (Arabian Peninsula) constellation, native: الذراع
 msgid "The Arm"
 msgstr "‎‎الذراع‎‎"
 
-# Arabic (Arabian Peninsula) constellation, native: الكليبين 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين
 msgid "The Two Little Dogs"
 msgstr "الكليبين"
 

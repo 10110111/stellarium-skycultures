@@ -946,11 +946,11 @@ msgstr "Las Dos Marcas"
 msgid "The Little Abdomen"
 msgstr "El Abdomen Pequeño"
 
-# Arabic (Arabian Peninsula) constellation, native: الذراع 
+# Arabic (Arabian Peninsula) constellation, native: الذراع
 msgid "The Arm"
 msgstr "El Brazo"
 
-# Arabic (Arabian Peninsula) constellation, native: الكليبين 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين
 msgid "The Two Little Dogs"
 msgstr "Los Dos Perros Pequeños"
 

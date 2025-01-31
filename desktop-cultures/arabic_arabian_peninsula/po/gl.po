@@ -918,11 +918,11 @@ msgstr "As dúas máscaras"
 msgid "The Little Abdomen"
 msgstr "O pequeno abdome"
 
-# Arabic (Arabian Peninsula) constellation, native: الذراع 
+# Arabic (Arabian Peninsula) constellation, native: الذراع
 msgid "The Arm"
 msgstr "O brazo"
 
-# Arabic (Arabian Peninsula) constellation, native: الكليبين 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين
 msgid "The Two Little Dogs"
 msgstr "Os dous canciños"
 

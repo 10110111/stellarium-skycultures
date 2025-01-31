@@ -65,11 +65,11 @@ msgstr "De två märkena"
 msgid "The Little Abdomen"
 msgstr "Lilla magen"
 
-# Arabic (Arabian Peninsula) constellation, native: الذراع 
+# Arabic (Arabian Peninsula) constellation, native: الذراع
 msgid "The Arm"
 msgstr "Armen"
 
-# Arabic (Arabian Peninsula) constellation, native: الكليبين 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين
 msgid "The Two Little Dogs"
 msgstr "De två små hundarna"
 

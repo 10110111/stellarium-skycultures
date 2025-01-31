@@ -926,11 +926,11 @@ msgstr "Dvi žymės"
 msgid "The Little Abdomen"
 msgstr "Mažas pilvas"
 
-# Arabic (Arabian Peninsula) constellation, native: الذراع 
+# Arabic (Arabian Peninsula) constellation, native: الذراع
 msgid "The Arm"
 msgstr "Ranka"
 
-# Arabic (Arabian Peninsula) constellation, native: الكليبين 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين
 msgid "The Two Little Dogs"
 msgstr "Du maži šunys"
 
