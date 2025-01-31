@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Georg Zotti <Georg.Zotti@univie.ac.at>, 2023\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: German (https://app.transifex.com/stellarium/teams/80998/"
 "de/)\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgid ""
 "rivers, meaning The Euphrates river [#16] [#17]. This region is inhabited by "
 "Arabs and covers Jordan, Saudi Arabia, Kuwait, Bahrain, Qatar, United Arab "
 "Emirates, Oman, Yemen, and parts of Syria and Iraq.\n"
-"<p><img width=\"300\" src=\"arabian_peninsula.jpg\" /></p>\n"
+"<p><img width=\"300\" src=\"illustrations/arabian_peninsula.jpg\" /></p>\n"
 "</p>\n"
 "\n"
 "The Bedouins and farmers in the Arabian Peninsula relied heavily on stars "
@@ -78,7 +78,7 @@ msgstr ""
 "wird von Arabern bewohnt und\n"
 "umfasst Jordanien, Saudi-Arabien, Kuwait, Bahrain, Katar, die Vereinigten\n"
 "Arabischen Emirate, Oman, Jemen und Teile Syriens und Iraks.\n"
-"<p><img width=\"300\" src=\"arabian_peninsula.jpg\" /></p>\n"
+"<p><img width=\"300\" src=\"illustrations/arabian_peninsula.jpg\" /></p>\n"
 "</p>\n"
 "\n"
 "Die Beduinen und Bauern auf der Arabischen Halbinsel waren stark auf die\n"
@@ -160,9 +160,9 @@ msgid ""
 "Saudi Arabia.</td><td><notr>1</notr></td></tr>\n"
 "<tr><td><notr>CON 400</notr></td><td><notr>المغزل</notr></td><td><notr>al-"
 "Miġzal</notr></td><td>The Wool Spindle</td><td>The Cross shaped stars of α "
-"Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg, and β1 Cyg (Albireo). The "
-"source is oral tradition from the town of Zulfi in central Saudi Arabia.</"
-"td><td><notr>1</notr></td></tr>\n"
+"Cyg (Deneb), ε Cyg (Gienah), γ Cyg (Sadr), δ Cyg, and β1+β2 Cyg (Albireo). "
+"The source is oral tradition from the town of Zulfi in central Saudi Arabia."
+"</td><td><notr>1</notr></td></tr>\n"
 "<tr><td><notr>CON 2502</notr></td><td><notr>المقدم</notr></td><td><notr>al-"
 "Muqaddam</notr></td><td>The Front</td><td>The front mouth of the bucket "
 "(24th mansion of the Moon)</td><td><notr>2</notr></td></tr>\n"
@@ -173,8 +173,8 @@ msgid ""
 "Rša</notr></td><td>The Bucket Rope</td><td>The rope used to pull the bucket "
 "from the well (26th mansion of the Moon)</td><td><notr>2</notr></td></tr>\n"
 "<tr><td><notr>CON 2602</notr></td><td><notr>الشرطين</notr></td><td><notr>al-"
-"Šarṭain</notr></td><td>The Two Signs</td><td>The two signs, stars (Mesarthim "
-"and Sheratan) (27th mansion of the Moon)</td><td><notr>2</notr></td></tr>\n"
+"Šarṭain</notr></td><td>The Two Marks</td><td>The two marks, stars (α Ari and "
+"β Ari) (27th mansion of the Moon)</td><td><notr>2</notr></td></tr>\n"
 "<tr><td><notr>CON 2603</notr></td><td><notr>البطين</notr></td><td><notr>al-"
 "Bṭain</notr></td><td>The Little Abdomen</td><td>The little abdomen of al-"
 "Ḥamal (28th mansion of the Moon).</td><td><notr>2</notr></td></tr>\n"
@@ -401,15 +401,15 @@ msgid ""
 "td><td><notr>al-Mqaddam 1</notr></td><td>The Front Bucket Mouth 1</"
 "td><td>See CON2502</td><td><notr>2</notr></td></tr>\n"
 "<tr><td><notr>HIP 21421</notr></td><td><notr>التويبع</notr></td><td><notr>al-"
-"Twaibiʿ</notr></td><td>The Follower</td><td>The star Aldebran, (second "
+"Twaibiʿ</notr></td><td>The Follower</td><td>The star Aldebaran, (second "
 "mansion of the Moon)</td><td><notr>2</notr></td></tr>\n"
 "<tr><td><notr>HIP 21421</notr></td><td><notr>التويلي</notr></td><td><notr>al-"
-"Twailī</notr></td><td>The Latter</td><td>The star Aldebran, (second mansion "
+"Twailī</notr></td><td>The Latter</td><td>The star Aldebaran, (second mansion "
 "of the Moon)</td><td><notr>1</notr></td></tr>\n"
 "<tr><td><notr>HIP 21421</notr></td><td><notr>المجيدح</notr></td><td><notr>al-"
-"Mǧaidiḥ</notr></td><td>Al-Mjaidih</td><td>The star Aldebran, (second mansion "
-"of the Moon), Name is used in al-Ṭayef region, western Saudi Arabia.</"
-"td><td><notr>1</notr></td></tr>\n"
+"Mǧaidiḥ</notr></td><td>Al-Mjaidih</td><td>The star Aldebaran, (second "
+"mansion of the Moon), Name is used in al-Ṭayef region, western Saudi Arabia."
+"</td><td><notr>1</notr></td></tr>\n"
 "<tr><td><notr>HIP 36046</notr></td><td><notr>الاظفار 1</notr></"
 "td><td><notr>al-Aẓfār 1</notr></td><td>The Claws 1</td><td>Stars between α "
 "CMi (Procyon) and α Gem. The source is oral tradition of Najran, southwest "
@@ -556,7 +556,7 @@ msgstr ""
 "<tr><td>CON 400</td><td>المغزل</td><td>al-Miġzal</td><td>Die Wollspindel</"
 "td><td>Die kreuzförmig angeordneten Sterne α Cyg (Deneb), ε Cyg (Aljanah), γ "
 "Cyg\n"
-"(Sadr), δ Cyg, and β1 Cyg (Albireo). Die Quelle ist eine mündliche\n"
+"(Sadr), δ Cyg, and β1+β2 Cyg (Albireo). Die Quelle ist eine mündliche\n"
 "Überlieferung aus der Stadt Zulfi in Zentral-Saudi-Arabien.</td><td>1</td></"
 "tr>\n"
 "<tr><td>CON 2502</td><td>المقدم</td><td>al-Muqaddam</td><td>Die Vorderseite</"
@@ -567,8 +567,8 @@ msgstr ""
 "td><td>Das Seil, mit dem der Eimer aus dem Brunnen gezogen wird (26. "
 "Mondstation)</td><td>2</td></tr>\n"
 "<tr><td>CON 2602</td><td>الشرطين</td><td>al-Šarṭain</td><td>Die beiden "
-"Zeichen</td><td>Die beiden Zeichen, die Sterne Mesarthim und Sheratan (27. "
-"Mondstation)</td><td>2</td></tr>\n"
+"Zeichen</td><td>The two marks, stars (α Ari and β Ari) (27th mansion of the "
+"Moon)</td><td>2</td></tr>\n"
 "<tr><td>CON 2603</td><td>البطين</td><td>al-Bṭain</td><td>Das Bäuchlei</"
 "td><td>Das Bäuchlein von al-Ḥamal (28. Mondstation)</td><td>2</td></tr>\n"
 "<tr><td>CON 2604</td><td>الثريا</td><td>al-Thrayyā</td><td>Al-Thurayya</"
@@ -780,9 +780,9 @@ msgstr ""
 "<tr><td>HIP 113963</td><td>المقدم 1</td><td>al-Mqaddam 1</td><td>Der vordere "
 "Eimerausguss 1</td><td>Siehe CON2502</td><td>2</td></tr>\n"
 "<tr><td>HIP 21421</td><td>التويبع</td><td>al-Twaibiʿ</td><td>Der Folgende</"
-"td><td>Der Stern Aldebaran (zweite Mondsation)</td><td>2</td></tr>\n"
+"td><td>Der Stern Aldebaran (zweite Mondstation)</td><td>2</td></tr>\n"
 "<tr><td>HIP 21421</td><td>التويلي</td><td>al-Twailī</td><td>der "
-"letztgenannte</td><td>Der Stern Aldebaran (zweite Mondsation)</td><td>1</"
+"letztgenannte</td><td>Der Stern Aldebaran (zweite Mondstation)</td><td>1</"
 "td></tr>\n"
 "<tr><td>HIP 21421</td><td>المجيدح</td><td>al-Mǧaidiḥ</td><td>Al-Mjaidih</"
 "td><td>Der Stern Aldebaran (zweite Mondstation). Dieser Name wird in der "
@@ -899,308 +899,366 @@ msgstr ""
 msgid "Khalid al-Ajaji, turath.alfalak@gmail.com."
 msgstr "Khalid al-Ajaji, turath.alfalak@gmail.com."
 
+# Arabic (Arabian Peninsula) constellation, native: الطرف
 msgid "The Eyes"
 msgstr "Die Augen"
 
-#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
-#. TRANSLATORS: Al-Thurayya is a proper name
-#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+# Arabic (Arabian Peninsula) constellation, native: الثريا
 msgid "Al-Thurayya"
 msgstr "Al-Thurayya"
 
-#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
-#. thunder
-#. TRANSLATORS: Al-Mirzam is a proper name
+# Name for HIP 32349
 msgid "Al-Mirzam"
 msgstr "Al-Mirzam"
 
-#. TRANSLATORS: Aba Bzay is a proper name
+# Arabic (Arabian Peninsula) constellation, native: الحويجزين - الدخيلين - آل أبا بزي
 msgid "The Two Guards - The Two Refugees - The Family Of Aba Bzay"
 msgstr "Die zwei Wachen – Die zwei Flüchtlinge – Die Familie des Aba Bzay"
 
+# Arabic (Arabian Peninsula) constellation, native: النعايم - السبَّع - بنات نعش
 msgid "Al-Naayem - The Seven - Daughters Of Na'sh"
 msgstr "Al-Naayem – Die Sieben – Töchter der Na'sh (Bahre)"
 
+# Arabic (Arabian Peninsula) constellation, native: الشداد
 msgid "The Saddle Of The Camel"
 msgstr "Der Kamelsattel"
 
+# Arabic (Arabian Peninsula) constellation, native: المغزل
 msgid "The Wool Spindle"
 msgstr "Die Wollspindel"
 
+# Arabic (Arabian Peninsula) constellation, native: المقدم
 msgid "The Front"
 msgstr "Die Vorderseite"
 
+# Arabic (Arabian Peninsula) constellation, native: المؤخر
 msgid "The Rear"
 msgstr "Die Rückseite"
 
+# Arabic (Arabian Peninsula) constellation, native: الرشا
 msgid "The Bucket Cord"
 msgstr "Die Eimerschnur"
 
+# Arabic (Arabian Peninsula) constellation, native: الشرطين
 msgid "The Two Marks"
 msgstr "Die beiden Zeichen"
 
+# Arabic (Arabian Peninsula) constellation, native: البطين
 msgid "The Little Abdomen"
 msgstr "Das Bäuchlei"
 
+# Arabic (Arabian Peninsula) constellation, native: الذراع 
 msgid "The Arm"
 msgstr "Der Arm"
 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين 
 msgid "The Two Little Dogs"
 msgstr "Die Zwei Hündchen"
 
+# Arabic (Arabian Peninsula) constellation, native: النثرة
 msgid "The Nostrils"
 msgstr "Die Nüstern"
 
+# Arabic (Arabian Peninsula) constellation, native: الجبهة
 msgid "The Forehead"
 msgstr "Die Stirn"
 
+# Arabic (Arabian Peninsula) constellation, native: الزبرة
 msgid "The Mane"
 msgstr "Die Mähne"
 
+# Arabic (Arabian Peninsula) constellation, native: العوا
 msgid "The Bend"
 msgstr "Die Krümmung"
 
+# Arabic (Arabian Peninsula) constellation, native: الغفر
 msgid "The Cover"
 msgstr "Die Decke"
 
+# Arabic (Arabian Peninsula) constellation, native: الزبانى
 msgid "Claws Of The Scorpion"
 msgstr "Klauen des Skorpions"
 
+# Arabic (Arabian Peninsula) constellation, native: الإكليل
 msgid "The Diadem"
 msgstr "Das Diadem"
 
+# Arabic (Arabian Peninsula) constellation, native: الشولة
 msgid "Raised Tail Of The Scorpion"
 msgstr "Aufgerichteter Schwanz des Skorpions"
 
+# Arabic (Arabian Peninsula) constellation, native: العقرب
 msgid "The Scorpion"
 msgstr "Der Skorpion"
 
+# Arabic (Arabian Peninsula) constellation, native: البلدة
 msgid "The Empty Place"
 msgstr "Der Leere Platz"
 
+# Arabic (Arabian Peninsula) constellation, native: النعائم
 msgid "The Ostriches"
 msgstr "Die Strauße"
 
+# Arabic (Arabian Peninsula) constellation, native: سعد الذابح
 msgid "The Lucky Star Of The Slaughterer"
 msgstr "Der Glücksstern des Schlächters"
 
+# Arabic (Arabian Peninsula) constellation, native: سعد بلع
 msgid "The Lucky Star Of The Swallower"
 msgstr "Der Glücksstern des Schluckers"
 
+# Arabic (Arabian Peninsula) constellation, native: سعد السعود
 msgid "The Luckiest Of The Lucky Stars"
 msgstr "Der glücklichste unter den Glückssternen"
 
+# Arabic (Arabian Peninsula) constellation, native: سعد الأخبية
 msgid "The Lucky Star Of The Tents"
 msgstr "Der Glücksstern der Zelte"
 
+# Arabic (Arabian Peninsula) constellation, native: الهقعة
 msgid "The Circular Mark"
 msgstr "Die kreisrunde Marke"
 
+# Arabic (Arabian Peninsula) constellation, native: الهنعة
 msgid "The Downward Bend"
 msgstr "Die Abwärtskurve"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Arabic (Arabian Peninsula) constellation, native: ظهر الجوزا
 msgid "Back Of Al-Jawza"
 msgstr "Rücken der Al-Jawza"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Arabic (Arabian Peninsula) constellation, native: زوابن الجوزا - الزبَّن
 msgid "Claws Of Al-Jawza"
 msgstr "Klauen der Al-Jawza"
 
-#. TRANSLATORS: Al-Thurayya is a proper name
+# Arabic (Arabian Peninsula) constellation, native: مسجد الثريا
 msgid "Mosque Of Al-Thurayya"
 msgstr "Moschee des Al-Thurayya"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Arabic (Arabian Peninsula) constellation, native: الجوزا
 msgid "Al-Jawza"
 msgstr "Al-Jawza"
 
-#. TRANSLATORS: Al-Hawdan is a proper name
+# Name for NAME Venus
 msgid "Morning Star - Evening Star - The Sip - The Star Of Al-Hawdan"
 msgstr "Morgenstern – Abendstern – Das Schlückchen – Der Stern der Al-Hawdan"
 
+# Name for HIP 11767
 msgid "The Kid"
 msgstr "Das Zicklei"
 
+# Name for HIP 72607
 msgid "The Two Guards 1"
 msgstr "Die zwei Wachen 1"
 
+# Name for HIP 75097
 msgid "The Two Guards 2"
 msgstr "Die zwei Wachen 2"
 
+# Name for HIP 72607
 msgid "The Two Refugees 1"
 msgstr "Die zwei Flüchtlinge 1"
 
+# Name for HIP 75097
 msgid "The Two Refugees 2"
 msgstr "Die zwei Flüchtlinge 2"
 
+# Name for HIP 72607
 msgid "Al aba Bzay 1"
 msgstr "Al aba Bzay 1"
 
+# Name for HIP 75097
 msgid "Al aba bzay 2"
 msgstr "Al aba bzay 2"
 
-#. TRANSLATORS: Al-Khilj is a proper name
+# Name for HIP 54061
 msgid "Al-Khilj 1"
 msgstr "Al-Khilj 1"
 
-#. TRANSLATORS: Al-Khilj is a proper name
+# Name for HIP 53910
 msgid "Al-Khilj 2"
 msgstr "Al-Khilj 2"
 
-#. TRANSLATORS: Khilj is a proper name
+# Name for HIP 54061
 msgid "The first Khilj 1"
 msgstr "The first Khilj 1"
 
-#. TRANSLATORS: Al-Khilj is a proper name
+# Name for HIP 53910
 msgid "The first Khilj 2"
 msgstr "The first Khilj 2"
 
+# Name for HIP 54061
 msgid "The first two 1"
 msgstr "Die ersten beiden 1"
 
+# Name for HIP 53910
 msgid "The first two 2"
 msgstr "Die ersten beiden 2"
 
-#. TRANSLATORS: Al-Khilj is a proper name
+# Name for HIP 58001
 msgid "The Latter Khilj 1"
 msgstr "Der hintere Khilj 1"
 
-#. TRANSLATORS: Al-Khilj is a proper name
+# Name for HIP 59774
 msgid "The Latter Khilj 2"
 msgstr "Der hintere Khilj 2"
 
+# Name for HIP 58001
 msgid "The fourth ones 1"
 msgstr "Die Vierten 1"
 
+# Name for HIP 59774
 msgid "The fourth ones 2"
 msgstr "Die Vierten 2"
 
+# Name for HIP 62956
 msgid "The Fifth"
 msgstr "Der Fünfte"
 
+# Name for HIP 65378
 msgid "The Sixth"
 msgstr "Der Sechste"
 
+# Name for HIP 67301
 msgid "The Seventh"
 msgstr "Der Siebte"
 
+# Name for HIP 69673
 msgid "The Watcher"
 msgstr "Der Beobachter"
 
+# Name for HIP 69673
 msgid "The Reddish One"
 msgstr "Der Rötliche"
 
+# Name for HIP 91262
 msgid "The Closed Wings Eagle"
 msgstr "Der Adler mit geschlossenen Flügeln"
 
+# Name for HIP 24608
 msgid "The Parallel One"
 msgstr "Der Parallele"
 
+# Name for HIP 24608
 msgid "The Sided One"
 msgstr "Der Seitenstehende"
 
+# Name for HIP 97649
 msgid "The Spread Wings Eagle"
 msgstr "Der Adler mit ausgebreiteten Flügeln"
 
-#. TRANSLATORS: Al-Kanoon is a proper name
+# Name for HIP 97649
 msgid "Al-Kanoon"
 msgstr "Al-Kanoon"
 
+# Name for HIP 677
 msgid "The Rear 2"
 msgstr "Die Rückseite 2"
 
+# Name for HIP 1067
 msgid "The Rear 1"
 msgstr "Die Rückseite 1"
 
+# Name for HIP 113881
 msgid "The Front 2"
 msgstr "Die Vorderseite 2"
 
+# Name for HIP 113963
 msgid "The Front 1"
 msgstr "Die Vorderseite 1"
 
+# Name for HIP 21421
 msgid "The Little Follower"
 msgstr "Der kleine Folgende"
 
+# Name for HIP 21421
 msgid "The Latter"
 msgstr "der letztgenannte"
 
-#. TRANSLATORS: Al-Mjaidih is a proper name
+# Name for HIP 21421
 msgid "Al-Mjaidih"
 msgstr "Al-Mjaidih"
 
+# Name for HIP 36046
 msgid "The Claws 1"
 msgstr "Die Klauen 1"
 
+# Name for HIP 36962
 msgid "The Claws 2"
 msgstr "Die Klauen 2"
 
+# Name for HIP 37740
 msgid "The Claws 3"
 msgstr "Die Klauen 3"
 
+# Name for HIP 35550
 msgid "The Claws 4"
 msgstr "Die Klauen 4"
 
+# Name for HIP 34088
 msgid "The Claws 5"
 msgstr "Die Klauen 5"
 
+# Name for HIP 35350
 msgid "The Claws 6"
 msgstr "Die Klauen 6"
 
+# Name for HIP 57632
 msgid "Star Of Weather Change"
 msgstr "Gestirn der Wetteränderung"
 
+# Name for HIP 65474
 msgid "The High Unarmed One"
 msgstr "Der unbewehrte Hohe"
 
+# Name for HIP 80763
 msgid "The Heart"
 msgstr "Das Herz"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Name for HIP 27989
 msgid "Northern Horn Of Al-Jawza"
 msgstr "Nördliches Horn der Al-Jawza"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Name for HIP 27989
 msgid "Northern Claw Of Al-Jawza"
 msgstr "Nördliche Klaue der Al-Jawza"
 
-#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
-#. TRANSLATORS: Al-Jawza is a proper name
+# Name for HIP 27366
 msgid "Leg Of Al-Jawza"
 msgstr "Bein der Al-Jawza"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Name for HIP 24436
 msgid "Southern Horn Of Al-Jawza"
 msgstr "Südliches Horn der Al-Jawza"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Name for HIP 24436
 msgid "Southern Claw Of Al-Jawza"
 msgstr "Südliche Klaue der Al-Jawza"
 
-#. TRANSLATORS: Al-Shi'la is a proper name
+# Name for HIP 32349
 msgid "Al-Shi'la"
 msgstr "Al-Shi'la"
 
-#. TRANSLATORS: Suhayl is a proper name
-#. TRANSLATORS: ٍSuhayl is a proper name
-#. TRANSLATORS: This is a proper name
+# Name for HIP 30438
 msgid "Suhayl"
 msgstr "Suhayl"
 
+# Name for HIP 7588
 msgid "The Oath Star"
 msgstr "Der Schwurstern"
 
-#. TRANSLATORS: Aba Alsihil is a proper name
+# Name for HIP 7588
 msgid "Aba al-sihil"
 msgstr "Aba al-sihil"
 
-#. TRANSLATORS: Al-Miss.hil is a proper name
+# Name for HIP 7588
 msgid "Al-Miss.hil"
 msgstr "Al-Miss.hil"
 
-#. TRANSLATORS: As-S.hali is a proper name
+# Name for HIP 68702
 msgid "al-Naayem 1"
 msgstr "al-Naayem 1"
 
+# Name for HIP 71683
 msgid "al-Naayem 2"
 msgstr "al-Naayem 2"

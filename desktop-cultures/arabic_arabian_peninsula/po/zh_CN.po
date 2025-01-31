@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2024-03-15 12:19+0700\n"
+"POT-Creation-Date: 2025-01-03 20:26+0700\n"
 "PO-Revision-Date: 2022-10-05 10:49+0000\n"
-"Last-Translator: Silas Wong <wsl98501@163.com>, 2023\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Chinese (China) (https://app.transifex.com/stellarium/"
 "teams/80998/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -17,308 +17,366 @@ msgstr ""
 msgid "Arabic (Arabian Peninsula)"
 msgstr "阿拉伯（阿拉伯半岛）"
 
+# Arabic (Arabian Peninsula) constellation, native: الطرف
 msgid "The Eyes"
 msgstr "双眼星系"
 
-#. TRANSLATORS: Al-Thurayya is a proper name referring to the Pleiades
-#. TRANSLATORS: Al-Thurayya is a proper name
-#. TRANSLATORS: Al-Thurayya is a proper name for the Pleiades
+# Arabic (Arabian Peninsula) constellation, native: الثريا
 msgid "Al-Thurayya"
 msgstr "Al-Thurayya (昴宿)"
 
-#. TRANSLATORS: Al-Mirzam is a proper name meaning the star of sound of
-#. thunder
-#. TRANSLATORS: Al-Mirzam is a proper name
+# Name for HIP 32349
 msgid "Al-Mirzam"
 msgstr "Al-Mirzam"
 
-#. TRANSLATORS: Aba Bzay is a proper name
+# Arabic (Arabian Peninsula) constellation, native: الحويجزين - الدخيلين - آل أبا بزي
 msgid "The Two Guards - The Two Refugees - The Family Of Aba Bzay"
-msgstr ""
+msgstr "两名守卫-两名难民 - Aba Bzay一家"
 
+# Arabic (Arabian Peninsula) constellation, native: النعايم - السبَّع - بنات نعش
 msgid "Al-Naayem - The Seven - Daughters Of Na'sh"
-msgstr ""
+msgstr "Al-Naayem - Na'sh的七个女儿"
 
+# Arabic (Arabian Peninsula) constellation, native: الشداد
 msgid "The Saddle Of The Camel"
-msgstr ""
+msgstr "驼鞍"
 
+# Arabic (Arabian Peninsula) constellation, native: المغزل
 msgid "The Wool Spindle"
-msgstr ""
+msgstr "羊毛纺锤"
 
+# Arabic (Arabian Peninsula) constellation, native: المقدم
 msgid "The Front"
-msgstr ""
+msgstr "前面"
 
+# Arabic (Arabian Peninsula) constellation, native: المؤخر
 msgid "The Rear"
-msgstr ""
+msgstr "后面"
 
+# Arabic (Arabian Peninsula) constellation, native: الرشا
 msgid "The Bucket Cord"
-msgstr ""
+msgstr "桶绳"
 
+# Arabic (Arabian Peninsula) constellation, native: الشرطين
 msgid "The Two Marks"
-msgstr ""
+msgstr "两个标志"
 
+# Arabic (Arabian Peninsula) constellation, native: البطين
 msgid "The Little Abdomen"
-msgstr ""
+msgstr "小腹"
 
+# Arabic (Arabian Peninsula) constellation, native: الذراع 
 msgid "The Arm"
 msgstr "狮掌"
 
+# Arabic (Arabian Peninsula) constellation, native: الكليبين 
 msgid "The Two Little Dogs"
-msgstr ""
+msgstr "两只小狗"
 
+# Arabic (Arabian Peninsula) constellation, native: النثرة
 msgid "The Nostrils"
-msgstr ""
+msgstr "鼻孔"
 
+# Arabic (Arabian Peninsula) constellation, native: الجبهة
 msgid "The Forehead"
-msgstr ""
+msgstr "狮额"
 
+# Arabic (Arabian Peninsula) constellation, native: الزبرة
 msgid "The Mane"
-msgstr ""
+msgstr "狮鬃"
 
+# Arabic (Arabian Peninsula) constellation, native: العوا
 msgid "The Bend"
 msgstr "曲弧"
 
+# Arabic (Arabian Peninsula) constellation, native: الغفر
 msgid "The Cover"
-msgstr ""
+msgstr "盖子"
 
+# Arabic (Arabian Peninsula) constellation, native: الزبانى
 msgid "Claws Of The Scorpion"
-msgstr ""
+msgstr "蝎钳"
 
+# Arabic (Arabian Peninsula) constellation, native: الإكليل
 msgid "The Diadem"
-msgstr ""
+msgstr "王冠"
 
+# Arabic (Arabian Peninsula) constellation, native: الشولة
 msgid "Raised Tail Of The Scorpion"
-msgstr ""
+msgstr "翘起的蝎尾"
 
+# Arabic (Arabian Peninsula) constellation, native: العقرب
 msgid "The Scorpion"
 msgstr "天蝎座"
 
+# Arabic (Arabian Peninsula) constellation, native: البلدة
 msgid "The Empty Place"
-msgstr ""
+msgstr "空地"
 
+# Arabic (Arabian Peninsula) constellation, native: النعائم
 msgid "The Ostriches"
 msgstr "鸵鸟"
 
+# Arabic (Arabian Peninsula) constellation, native: سعد الذابح
 msgid "The Lucky Star Of The Slaughterer"
-msgstr ""
+msgstr "屠夫的幸运星"
 
+# Arabic (Arabian Peninsula) constellation, native: سعد بلع
 msgid "The Lucky Star Of The Swallower"
-msgstr ""
+msgstr "贪食者的幸运星"
 
+# Arabic (Arabian Peninsula) constellation, native: سعد السعود
 msgid "The Luckiest Of The Lucky Stars"
-msgstr ""
+msgstr "最幸运的幸运星"
 
+# Arabic (Arabian Peninsula) constellation, native: سعد الأخبية
 msgid "The Lucky Star Of The Tents"
-msgstr ""
+msgstr "帐篷的幸运星"
 
+# Arabic (Arabian Peninsula) constellation, native: الهقعة
 msgid "The Circular Mark"
-msgstr ""
+msgstr "圆形标记"
 
+# Arabic (Arabian Peninsula) constellation, native: الهنعة
 msgid "The Downward Bend"
-msgstr ""
+msgstr "向下弯曲"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Arabic (Arabian Peninsula) constellation, native: ظهر الجوزا
 msgid "Back Of Al-Jawza"
-msgstr ""
+msgstr "Al-Jawza 的背"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Arabic (Arabian Peninsula) constellation, native: زوابن الجوزا - الزبَّن
 msgid "Claws Of Al-Jawza"
-msgstr ""
+msgstr "Al-Jawza的爪"
 
-#. TRANSLATORS: Al-Thurayya is a proper name
+# Arabic (Arabian Peninsula) constellation, native: مسجد الثريا
 msgid "Mosque Of Al-Thurayya"
-msgstr ""
+msgstr "Al-Thurayya的清真寺"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Arabic (Arabian Peninsula) constellation, native: الجوزا
 msgid "Al-Jawza"
-msgstr ""
+msgstr "Al-Jawza"
 
-#. TRANSLATORS: Al-Hawdan is a proper name
+# Name for NAME Venus
 msgid "Morning Star - Evening Star - The Sip - The Star Of Al-Hawdan"
-msgstr ""
+msgstr "晨星 - 昏星 - 一小口 - Al-Hawdan之星"
 
+# Name for HIP 11767
 msgid "The Kid"
 msgstr "小孩"
 
+# Name for HIP 72607
 msgid "The Two Guards 1"
-msgstr ""
+msgstr "两个卫兵1"
 
+# Name for HIP 75097
 msgid "The Two Guards 2"
-msgstr ""
+msgstr "两个卫兵2"
 
+# Name for HIP 72607
 msgid "The Two Refugees 1"
-msgstr ""
+msgstr "两个难民1"
 
+# Name for HIP 75097
 msgid "The Two Refugees 2"
-msgstr ""
+msgstr "两个难民2"
 
+# Name for HIP 72607
 msgid "Al aba Bzay 1"
-msgstr ""
+msgstr "Al aba Bzay 1"
 
+# Name for HIP 75097
 msgid "Al aba bzay 2"
-msgstr ""
+msgstr "Al aba bzay 2"
 
-#. TRANSLATORS: Al-Khilj is a proper name
+# Name for HIP 54061
 msgid "Al-Khilj 1"
-msgstr ""
+msgstr "Al-Khilj 1"
 
-#. TRANSLATORS: Al-Khilj is a proper name
+# Name for HIP 53910
 msgid "Al-Khilj 2"
-msgstr ""
+msgstr "Al-Khilj 2"
 
-#. TRANSLATORS: Khilj is a proper name
+# Name for HIP 54061
 msgid "The first Khilj 1"
-msgstr ""
+msgstr "第一个 Khilj 之一"
 
-#. TRANSLATORS: Al-Khilj is a proper name
+# Name for HIP 53910
 msgid "The first Khilj 2"
-msgstr ""
+msgstr "第一 个Khilj 之二"
 
+# Name for HIP 54061
 msgid "The first two 1"
-msgstr ""
+msgstr "首两颗之一"
 
+# Name for HIP 53910
 msgid "The first two 2"
-msgstr ""
+msgstr "首两颗之二"
 
-#. TRANSLATORS: Al-Khilj is a proper name
+# Name for HIP 58001
 msgid "The Latter Khilj 1"
-msgstr ""
+msgstr "后面的 Khilj 之一"
 
-#. TRANSLATORS: Al-Khilj is a proper name
+# Name for HIP 59774
 msgid "The Latter Khilj 2"
-msgstr ""
+msgstr "后面的 Khilj 之二"
 
+# Name for HIP 58001
 msgid "The fourth ones 1"
-msgstr ""
+msgstr "第四颗之一"
 
+# Name for HIP 59774
 msgid "The fourth ones 2"
-msgstr ""
+msgstr "第四颗之二"
 
+# Name for HIP 62956
 msgid "The Fifth"
-msgstr ""
+msgstr "第五颗"
 
+# Name for HIP 65378
 msgid "The Sixth"
-msgstr ""
+msgstr "第六颗"
 
+# Name for HIP 67301
 msgid "The Seventh"
-msgstr ""
+msgstr "第七颗"
 
+# Name for HIP 69673
 msgid "The Watcher"
-msgstr ""
+msgstr "观察者"
 
+# Name for HIP 69673
 msgid "The Reddish One"
-msgstr ""
+msgstr "红色者"
 
+# Name for HIP 91262
 msgid "The Closed Wings Eagle"
-msgstr ""
+msgstr "收翅之鹰"
 
+# Name for HIP 24608
 msgid "The Parallel One"
-msgstr ""
+msgstr "平行者"
 
+# Name for HIP 24608
 msgid "The Sided One"
-msgstr ""
+msgstr "侧面者"
 
+# Name for HIP 97649
 msgid "The Spread Wings Eagle"
-msgstr ""
+msgstr "展翅之鹰"
 
-#. TRANSLATORS: Al-Kanoon is a proper name
+# Name for HIP 97649
 msgid "Al-Kanoon"
-msgstr ""
+msgstr "Al-Kanoon"
 
+# Name for HIP 677
 msgid "The Rear 2"
-msgstr ""
+msgstr "后面2"
 
+# Name for HIP 1067
 msgid "The Rear 1"
-msgstr ""
+msgstr "后面1"
 
+# Name for HIP 113881
 msgid "The Front 2"
-msgstr ""
+msgstr "前面2"
 
+# Name for HIP 113963
 msgid "The Front 1"
-msgstr ""
+msgstr "前面1"
 
+# Name for HIP 21421
 msgid "The Little Follower"
-msgstr ""
+msgstr "小追随者"
 
+# Name for HIP 21421
 msgid "The Latter"
-msgstr ""
+msgstr "后者"
 
-#. TRANSLATORS: Al-Mjaidih is a proper name
+# Name for HIP 21421
 msgid "Al-Mjaidih"
-msgstr ""
+msgstr "Al-Mjaidih"
 
+# Name for HIP 36046
 msgid "The Claws 1"
-msgstr ""
+msgstr "爪1"
 
+# Name for HIP 36962
 msgid "The Claws 2"
-msgstr ""
+msgstr "爪2"
 
+# Name for HIP 37740
 msgid "The Claws 3"
-msgstr ""
+msgstr "爪3"
 
+# Name for HIP 35550
 msgid "The Claws 4"
-msgstr ""
+msgstr "爪4"
 
+# Name for HIP 34088
 msgid "The Claws 5"
-msgstr ""
+msgstr "爪5"
 
+# Name for HIP 35350
 msgid "The Claws 6"
-msgstr ""
+msgstr "爪6"
 
+# Name for HIP 57632
 msgid "Star Of Weather Change"
-msgstr ""
+msgstr "天气变化之星"
 
+# Name for HIP 65474
 msgid "The High Unarmed One"
-msgstr ""
+msgstr "手无寸铁者"
 
+# Name for HIP 80763
 msgid "The Heart"
 msgstr "蝎心"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Name for HIP 27989
 msgid "Northern Horn Of Al-Jawza"
-msgstr ""
+msgstr "Al-Jawza的北角"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Name for HIP 27989
 msgid "Northern Claw Of Al-Jawza"
-msgstr ""
+msgstr "Al-Jawza的北爪"
 
-#. TRANSLATORS: Al-Jawza is a proper Arabic name of orion
-#. TRANSLATORS: Al-Jawza is a proper name
+# Name for HIP 27366
 msgid "Leg Of Al-Jawza"
-msgstr ""
+msgstr "Al-Jawza的腿"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Name for HIP 24436
 msgid "Southern Horn Of Al-Jawza"
-msgstr ""
+msgstr "Al-Jawza的南角"
 
-#. TRANSLATORS: Al-Jawza is a proper name
+# Name for HIP 24436
 msgid "Southern Claw Of Al-Jawza"
-msgstr ""
+msgstr "Al-Jawza的南爪"
 
-#. TRANSLATORS: Al-Shi'la is a proper name
+# Name for HIP 32349
 msgid "Al-Shi'la"
-msgstr ""
+msgstr "Al-Shi'la"
 
-#. TRANSLATORS: Suhayl is a proper name
-#. TRANSLATORS: ٍSuhayl is a proper name
-#. TRANSLATORS: This is a proper name
+# Name for HIP 30438
 msgid "Suhayl"
-msgstr "苏海勒"
+msgstr "Suhayl"
 
+# Name for HIP 7588
 msgid "The Oath Star"
-msgstr ""
+msgstr "誓言星"
 
-#. TRANSLATORS: Aba Alsihil is a proper name
+# Name for HIP 7588
 msgid "Aba al-sihil"
-msgstr ""
+msgstr "Aba al-sihil"
 
-#. TRANSLATORS: Al-Miss.hil is a proper name
+# Name for HIP 7588
 msgid "Al-Miss.hil"
-msgstr ""
+msgstr "Al-Miss.hil"
 
-#. TRANSLATORS: As-S.hali is a proper name
+# Name for HIP 68702
 msgid "al-Naayem 1"
-msgstr ""
+msgstr "al-Naayem 1"
 
+# Name for HIP 71683
 msgid "al-Naayem 2"
-msgstr ""
+msgstr "al-Naayem 2"
